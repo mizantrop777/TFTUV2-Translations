@@ -4674,3 +4674,11 @@ translate portuguese ep013_douvis_simulation_sex_adb4a797:
     # "The orc's dick had slipped from the girl's mouth, causing her to throw up a mass of clear mucus."
     "O pau do orc saiu da boca da garota, causando que ela cuspisse uma massa de muco."
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode013.rpy:3
+    old "Episode 13"
+    new "Episódio 13"
+

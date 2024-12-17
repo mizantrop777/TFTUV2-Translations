@@ -4610,3 +4610,11 @@ translate portuguese ep014_ziv_sex_0854c5ca:
     # zi "It’s not part of any level of Rhenkoy Companionship, no."
     zi "Não é parte de nenhum nível de Relacionamentos Rhenkoy, não."
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode014.rpy:3
+    old "Episode 14"
+    new "Episódioo 14"
+

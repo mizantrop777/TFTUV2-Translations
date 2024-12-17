@@ -6720,3 +6720,19 @@ translate portuguese ep016_scolguin_sex_ab4eaf84:
     # xa "You may think otherwise, but me and my fellow soldiers will someday leave this prison."
     xa "Você pode pensar diferente, mas eu e minhas companheiras soldadas vamos deixar essa prisão um dia."
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode016.rpy:3
+    old "Episode 16"
+    new "Episódio 16"
+
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/episode016.rpy:1012
+translate portuguese ep016_altum_approach_c86b8656:
+
+    # "The Bastard fit into one of the smaller bays, which were already teeming with activity."
+    "A Bastarda coube numa das baías menores, que já estavam cheias de atividade."
+

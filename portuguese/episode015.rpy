@@ -7920,3 +7920,11 @@ translate portuguese ep015_sim_post_9b001cbb_2:
     # e "Everything feels so confusing."
     e "Está tudo tão confuso."
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode015.rpy:3
+    old "Episode 15"
+    new "Episódio 15"
+

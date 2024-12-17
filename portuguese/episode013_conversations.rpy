@@ -6320,3 +6320,11 @@ translate portuguese ep013_lilly_second_talk_4756333a:
     # c "But you have me all for yourself."
     c "Mas você me tem todo só para você."
 
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/episode013_conversations.rpy:720
+translate portuguese ep013_nadya_talk_9caa56ec:
+
+    # na "Some of it is Acarhyn history, an interesting but gruesome read."
+    na "Alguns são sobre história Acarhyn, interessante, mas violenta."
+

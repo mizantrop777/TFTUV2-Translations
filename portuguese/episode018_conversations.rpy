@@ -3758,3 +3758,19 @@ translate portuguese ep018_thyia_talk_ee1d3a50:
     # "The sight of the pink dildo up to the hilt in her ass didn’t disappoint in the slightest."
     "Ver esse dildo rosa entrar até o fim na bunda dela não decepcionou nem um pouquinho."
 
+# TODO: Translation updated at 2024-02-22 16:22
+
+# game/episode018_conversations.rpy:1019
+translate portuguese ep018_eva_sex_13a4ff68:
+
+    # e "Oh, you’re such a tease!"
+    e "Ah safado, me provocando!"
+
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/episode018_conversations.rpy:130
+translate portuguese ep018_eva_talk_67b61bbf:
+
+    # c "If you ever think we’re going too far, just say so."
+    c "Se você achar que estamos indo rápido demais, é só falar."
+

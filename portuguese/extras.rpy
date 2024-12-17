@@ -3890,3 +3890,1601 @@ translate portuguese extra_scene_39_3e24cac4:
     # av "Haha, I’m sure our mother would be nothing if not accommodating."
     av "Haha, certeza que a nossa mãe aprovaria."
 
+# TODO: Translation updated at 2024-02-22 16:22
+
+# game/extras.rpy:1208
+translate portuguese extra_scene_40_a2f8d68c:
+
+    # na "Mmmm, I long for a taste of my big boy."
+    na "Mmmm, eu quero muito provar o meu garotão."
+
+# game/extras.rpy:1210
+translate portuguese extra_scene_40_facb22f1:
+
+    # "My mother surprised me by going on her knees in front of me."
+    "A minha mãe me surpreendeu ao ficar de joelhos na minha frente."
+
+# game/extras.rpy:1212
+translate portuguese extra_scene_40_94ffb2b3:
+
+    # na "Mommy wants a taste first..."
+    na "A mamãe quer dar uma provada primeiro..."
+
+# game/extras.rpy:1214
+translate portuguese extra_scene_40_8187158b:
+
+    # "Nadya surprised me by going on her knees in front of me."
+    "Nadya me surprised me by going on her knees in front of me."
+
+# game/extras.rpy:1216
+translate portuguese extra_scene_40_27d0235c:
+
+    # na "I want a taste first..."
+    na "Eu quero dar uma provadinha primeiro..."
+
+# game/extras.rpy:1217
+translate portuguese extra_scene_40_f387d964:
+
+    # na "Do you think you can handle that?"
+    na "Você acha que consegue?"
+
+# game/extras.rpy:1218
+translate portuguese extra_scene_40_a726dbe6:
+
+    # "I was about to make a assured reply, but then I looked into her lust-filled eyes and my confidence wavered."
+    "Eu estava para dar uma resposta assegurada, mas eu olhei quando vi o olhar de desejo dela e a minha confiança se acabou."
+
+# game/extras.rpy:1220
+translate portuguese extra_scene_40_6901e3da:
+
+    # "She took my cock in her hand and surprised me for a second time by lifting it and pressing her open mouth on my balls, instead of swallowing my shaft."
+    "Ela pegou o meu pau na mão e me surpreendeu uma segunda vez levantando ele e pegando nas minhas bolas, ao invés de engolir meu pau."
+
+# game/extras.rpy:1222
+translate portuguese extra_scene_40_7c810218:
+
+    # "My mother began jerking me with slow strokes as her tongue whirled over my balls."
+    "A minha mãe começou a me masturbar lentamente enquanto sua língua massageava suas bolas."
+
+# game/extras.rpy:1224
+translate portuguese extra_scene_40_bef1e4ae:
+
+    # "Nadya began jerking me with slow strokes as her tongue whirled over my balls."
+    "A Nadya come começou a me masturbar lentamente enquanto sua língua massageava suas bolas."
+
+# game/extras.rpy:1226
+translate portuguese extra_scene_40_d114b277:
+
+    # "I nearly lost it when she took one my balls in her mouth and began to suck it."
+    "Eu quase gozei quando ela botou uma das bolas na boca e começou a chupar."
+
+# game/extras.rpy:1228
+translate portuguese extra_scene_40_7ca309c3:
+
+    # c "Oh fuck, mom!"
+    c "Caralho, mãe!"
+
+# game/extras.rpy:1230
+translate portuguese extra_scene_40_7ce54992:
+
+    # c "Oh fuck, Nadya!"
+    c "Caralho, Nadya!"
+
+# game/extras.rpy:1232
+translate portuguese extra_scene_40_952449b3:
+
+    # na "Mmmm, I can tell you like it."
+    na "Mmmm, eu percebi que você gostou."
+
+# game/extras.rpy:1233
+translate portuguese extra_scene_40_75e055dd:
+
+    # na "You’re growing even harder in my hand."
+    na "Você está ficando ainda mais duro na minha mão."
+
+# game/extras.rpy:1235
+translate portuguese extra_scene_40_d323c086:
+
+    # "She took my other testicle in her mouth and gripped my cock tighter."
+    "Ela pegou o meu outro testículo na boca e apertou meu pau ainda mais."
+
+# game/extras.rpy:1236
+translate portuguese extra_scene_40_b659e17f:
+
+    # "The sensation caused me to let out a low growl."
+    "A sensação fez eu soltar um leve grunhido."
+
+# game/extras.rpy:1237
+translate portuguese extra_scene_40_a97f3d79:
+
+    # na "You’re not cumming already, are you?"
+    na "Você não já vai gozar, vai?"
+
+# game/extras.rpy:1239
+translate portuguese extra_scene_40_acd2f75e:
+
+    # na "Because mommy’s just getting started."
+    na "Porque a mamãe só está começando."
+
+# game/extras.rpy:1241
+translate portuguese extra_scene_40_9adc5011:
+
+    # na "Because I’m just getting started."
+    na "Porque eu só estou começando."
+
+# game/extras.rpy:1243
+translate portuguese extra_scene_40_b0c29462:
+
+    # "Her mouth released my balls and she cupped them with her hand."
+    "Ela soltou minhas bolas da boca e as pegou na mão."
+
+# game/extras.rpy:1245
+translate portuguese extra_scene_40_eff05f58:
+
+    # "My mother’s lips were now pressed against the tip of my dick."
+    "Os lábios da minha mãe estavam agora pressionados na cabeça do meu pau."
+
+# game/extras.rpy:1247
+translate portuguese extra_scene_40_8915dfc0:
+
+    # "Nadya’s lips were now pressed against the tip of my dick."
+    "Os lábios da minha Nadya estavam agora pressionados na cabeça do meu pau."
+
+# game/extras.rpy:1249
+translate portuguese extra_scene_40_775adc1b:
+
+    # "She massaged my testicles as she took my shaft in her mouth."
+    "Ela massageava meus testículos enquanto enfiava meu pau na boca."
+
+# game/extras.rpy:1250
+translate portuguese extra_scene_40_be2ef37e:
+
+    # "Keeping pressure at the root with her other hand, she worked on the tip with firm strokes."
+    "Mantendo a pressão na base com a outra mão, ela massageou a cabeça firmemente."
+
+# game/extras.rpy:1251
+translate portuguese extra_scene_40_8d5d694e:
+
+    # c "Yes, your mouth feels so good."
+    c "Nossa, a sua boca é tão gostosa."
+
+# game/extras.rpy:1254
+translate portuguese extra_scene_40_4bda881b:
+
+    # c "You enjoy having your son’s dick in your mouth, don’t you?"
+    c "Você gosta do pau do seu filho na sua boca, né?"
+
+# game/extras.rpy:1255
+translate portuguese extra_scene_40_869f56c5:
+
+    # "My mother responded by squeezing my balls slightly and increasing the stimulation of my cock with her mouth."
+    "Minha mãe respondeu espremendo minhas bolas de leve e aumentando o estímulo no meu pau com a boca."
+
+# game/extras.rpy:1257
+translate portuguese extra_scene_40_cbcce166:
+
+    # c "You enjoy having my dick in your mouth, don’t you?"
+    c "Você gosta do meu pau na sua boca, né?"
+
+# game/extras.rpy:1258
+translate portuguese extra_scene_40_b82977b2:
+
+    # "Nadya responded by squeezing my balls slightly and increasing the stimulation of my cock with her mouth."
+    "Nadya respondeu espremendo minhas bolas de leve e aumentando o estímulo no meu pau com a boca."
+
+# game/extras.rpy:1260
+translate portuguese extra_scene_40_c6f8a757:
+
+    # "I struggled against the onslaught of her mouth, but each time her mouth slid over my shaft I lost a modicum of control."
+    "Eu resisti o ataque incessante de sua boca, mas cada vez que a boca deslizava pelo meu pau eu perdia um pouco de controle."
+
+# game/extras.rpy:1261
+translate portuguese extra_scene_40_da879a2e:
+
+    # "When one of her fingers started stimulating my taint as well as my balls I knew she’d won."
+    "Quando um dos seus dedos começou a estimular o períneo e as bolas ao mesmo tempo, eu sabia que ela tinha vencido."
+
+# game/extras.rpy:1263
+translate portuguese extra_scene_40_261a77da:
+
+    # c "Mom, I’m going to-"
+    c "Mãe, eu vou-"
+
+# game/extras.rpy:1265
+translate portuguese extra_scene_40_d09866c1:
+
+    # c "Nadya, I’m going to-"
+    c "Nadya, eu vou-"
+
+# game/extras.rpy:1270
+translate portuguese extra_scene_40_fa47c105:
+
+    # c "I want to cum all over your face!"
+    c "Eu quero gozar na sua cara toda!"
+
+# game/extras.rpy:1272
+translate portuguese extra_scene_40_93b90a1d:
+
+    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
+    "Minha mãe chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1274
+translate portuguese extra_scene_40_7690966c:
+
+    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
+    "Nadya chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1276
+translate portuguese extra_scene_40_2408d3a8:
+
+    # "She released my member from her mouth and it began to spray cum immediately."
+    "Ela soltou meu membro da boca, e ele imediatamente começou a jorrar sêmen."
+
+# game/extras.rpy:1280
+translate portuguese extra_scene_40_d23ab357:
+
+    # "Thick ropes of warm cum were lathered onto her face, as my mother still cupped my drained balls in her hand."
+    "Fios grossos de sêmen quente melaram seu rosto, enquanto minha mãe ainda segurava minhas bolas vazias na mão."
+
+# game/extras.rpy:1282
+translate portuguese extra_scene_40_d8204ea9:
+
+    # "Thick ropes of warm cum were lathered onto her face, as Nadya still cupped my drained balls in her hand."
+    "Fios grossos de sêmen quente melaram seu rosto, enquanto Nadya ainda segurava minhas bolas vazias na mão."
+
+# game/extras.rpy:1285
+translate portuguese extra_scene_40_042c8879:
+
+    # c "I want you to swallow it all!"
+    c "Eu quero que você engula tudinho!"
+
+# game/extras.rpy:1287
+translate portuguese extra_scene_40_93b90a1d_1:
+
+    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
+    "Minha mãe chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1289
+translate portuguese extra_scene_40_7690966c_1:
+
+    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
+    "Nadya chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1291
+translate portuguese extra_scene_40_a6ccc4a9:
+
+    # "She released my member from her mouth and it began to spray cum immediately into her open mouth."
+    "Ela soltou meu membro da boca, e ele imediatamente começou a jorrar sêmen na sua boca aberta."
+
+# game/extras.rpy:1294
+translate portuguese extra_scene_40_1149bc18:
+
+    # "I deposited thick ropes of warm cum into her open mouth."
+    "Eu depositei fios grossos de sêmen quente na boca aberta dela."
+
+# game/extras.rpy:1297
+translate portuguese extra_scene_40_182dfec6:
+
+    # "My mother swallowed my seed eagerly, looking me in the eye intently all of the time."
+    "Minha mãe engoliu o esperma com vontade, olhando intensamente nos meus olhos o tempo todo."
+
+# game/extras.rpy:1299
+translate portuguese extra_scene_40_2ae1bcc4:
+
+    # "Nadya swallowed my seed eagerly, looking me in the eye intently all of the time."
+    "Nadya engoliu o esperma com vontade, olhando intensamente nos meus olhos o tempo todo."
+
+# game/extras.rpy:1300
+translate portuguese extra_scene_40_269d4a4d:
+
+    # na "Mmmm, you taste so good."
+    na "Mmmm, você tem um gostinho tão bom."
+
+# game/extras.rpy:1304
+translate portuguese extra_scene_40_93b90a1d_2:
+
+    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
+    "Minha mãe chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1306
+translate portuguese extra_scene_40_7690966c_2:
+
+    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
+    "Nadya chupou no meu pau até sentir meu orgasmo chegando."
+
+# game/extras.rpy:1308
+translate portuguese extra_scene_40_2408d3a8_1:
+
+    # "She released my member from her mouth and it began to spray cum immediately."
+    "Ela soltou meu membro da boca, e ele imediatamente começou a jorrar sêmen."
+
+# game/extras.rpy:1312
+translate portuguese extra_scene_40_97809770:
+
+    # "Thick ropes of warm cum were lathered onto her breasts, as my mother still cupped my drained balls in her hand."
+    "Fios grossos de sêmen quente melaram seus seios, enquanto minha mãe ainda segurava minhas bolas vazias na mão."
+
+# game/extras.rpy:1314
+translate portuguese extra_scene_40_a532ef2e:
+
+    # "Thick ropes of warm cum were lathered onto her breasts, as Nadya still cupped my drained balls in her hand."
+    "Fios grossos de sêmen quente melaram seus seios, enquanto Nadya ainda segurava minhas bolas vazias na mão."
+
+# game/extras.rpy:1319
+translate portuguese extra_scene_40_386eb949:
+
+    # "My mother stood up and wrapped her arms around me."
+    "Minha mãe se levantou e me abraçou."
+
+# game/extras.rpy:1321
+translate portuguese extra_scene_40_57845543:
+
+    # "Nadya stood up and wrapped her arms around me."
+    "Nadya se levantou e me abraçou."
+
+# game/extras.rpy:1322
+translate portuguese extra_scene_40_0f963a49:
+
+    # "We exchanged a lustful kiss."
+    "Nós demos um beijo apaixonado."
+
+# game/extras.rpy:1323
+translate portuguese extra_scene_40_32852e4f:
+
+    # na "You’re not done yet, are you?"
+    na "Você não terminou ainda, terminou?"
+
+# game/extras.rpy:1324
+translate portuguese extra_scene_40_f5449bc8:
+
+    # na "Because I’m not."
+    na "Porque eu não terminei."
+
+# game/extras.rpy:1325
+translate portuguese extra_scene_40_60db654e:
+
+    # na "And I know my boy still has more to give."
+    na "Eu sei que meu garotão ainda consegue fazer mais."
+
+# game/extras.rpy:1327
+translate portuguese extra_scene_40_44589ccf:
+
+    # na "You’re not going to deny your mother a long hard fuck, are you?"
+    na "Você não vai negar sua mãe uma bela de uma foda, vai?"
+
+# game/extras.rpy:1329
+translate portuguese extra_scene_40_ed7cf717:
+
+    # na "You’re not going to deny me a long hard fuck, are you?"
+    na "Você não vai me negar uma bela de uma foda, vai?"
+
+# game/extras.rpy:1330
+translate portuguese extra_scene_40_162d3be9:
+
+    # "With that statement, my erection came to life again."
+    "Com essas palavras, minha ereção voltou à vida."
+
+# game/extras.rpy:1337
+translate portuguese extra_scene_41_08c0f7db:
+
+    # "Raene and I lay together for a while, both breathing heavily from exertion."
+    "Raene e eu deitamos um pouco, ambos ofegantes devido à exaustão."
+
+# game/extras.rpy:1338
+translate portuguese extra_scene_41_2dfcc344:
+
+    # "I was about to doze off, when I felt Raene’s dick stiffening against my body again."
+    "Eu estava para cair no sono, mas senti o pau da Raene ficando duro de novo contra o meu corpo."
+
+# game/extras.rpy:1339
+translate portuguese extra_scene_41_11b38228:
+
+    # "My cock began to grow as well."
+    "O meu pau também começou a crescer."
+
+# game/extras.rpy:1341
+translate portuguese extra_scene_41_f44d6850:
+
+    # c "Considering what I feel poking in my hip right now, I’d love to know what you’re thinking about."
+    c "Considerando o que eu sinto cutucando a minha cintura agora, adoraria saber o que você está pensando."
+
+# game/extras.rpy:1342
+translate portuguese extra_scene_41_1e5bf561:
+
+    # ra "Oh...{w} Uh...{w} I was just thinking about how it felt when you were inside me just now."
+    ra "Ah...{w} Ahm...{w} Eu só estava pensando como foi bom quando você estava dentro de mim."
+
+# game/extras.rpy:1343
+translate portuguese extra_scene_41_ff555e96:
+
+    # c "And that thought made you hard almost immediately?"
+    c "E pensar nisso deixou você de pau duro quase na hora?"
+
+# game/extras.rpy:1344
+translate portuguese extra_scene_41_d7e3e0a5:
+
+    # ra "You don’t know how good it felt."
+    ra "Você não faz ideia de como foi gostoso."
+
+# game/extras.rpy:1345
+translate portuguese extra_scene_41_1b0ec263:
+
+    # c "I have a pretty good idea..."
+    c "Eu tenho uma boa ideia de como pode ter sido..."
+
+# game/extras.rpy:1346
+translate portuguese extra_scene_41_84c524b9:
+
+    # c "We could go again, if you’re up to it."
+    c "Se você aguentar, podemos repetir."
+
+# game/extras.rpy:1348
+translate portuguese extra_scene_41_c49a8eab:
+
+    # ra "Really?!"
+    ra "Sério?!"
+
+# game/extras.rpy:1349
+translate portuguese extra_scene_41_93ea1599:
+
+    # ra "I mean, yes, I’d like that very much."
+    ra "Digo, sim, eu adoraria."
+
+# game/extras.rpy:1350
+translate portuguese extra_scene_41_60634812:
+
+    # "Raene lounged on the bed and spread her legs for me."
+    "Raene deitou na cadeira e abriu as pernas para mim."
+
+# game/extras.rpy:1352
+translate portuguese extra_scene_41_4cd91d8a:
+
+    # "I grabbed one of her legs and pushed my cock against her asshole."
+    "Eu segurei uma de suas pernas e empurrei o meu pau contra o seu cu."
+
+# game/extras.rpy:1353
+translate portuguese extra_scene_41_0e5bd173:
+
+    # "Raene spread her ass cheeks a little further as I started pushing my dick inside her."
+    "Raene abriu as nádegas um pouco mais enquanto eu começava a enfiar o m eu pau nela."
+
+# game/extras.rpy:1355
+translate portuguese extra_scene_41_e2305bdf:
+
+    # "The creampie I’d left earlier lubricated her hole nicely and I slipped in."
+    "O sêmen que eu havia depositado antes lubrificou bem o buraquinho, e logo eu entrei."
+
+# game/extras.rpy:1357
+translate portuguese extra_scene_41_ec469440:
+
+    # "The after-effects of her orgasm had made her relaxed, so I slipped inside her with relative ease."
+    "O orgasmo deixou ela relaxada, então eu consegui enfiar nela com relativa facilidade."
+
+# game/extras.rpy:1359
+translate portuguese extra_scene_41_30d9dc13:
+
+    # ra "Oh yes!"
+    ra "Aih, isso!"
+
+# game/extras.rpy:1360
+translate portuguese extra_scene_41_959e5c7a:
+
+    # ra "Your dick in my ass feels so right!"
+    ra "O seu pau está tão gostoso na minha bunda!"
+
+# game/extras.rpy:1361
+translate portuguese extra_scene_41_310edeb5:
+
+    # c "You like it a lot, don’t you, Raene?"
+    c "Você gosta mesmo disso hein, Raene?"
+
+# game/extras.rpy:1362
+translate portuguese extra_scene_41_2cb04444:
+
+    # ra "I love it so much!"
+    ra "Eu adoro tanto!"
+
+# game/extras.rpy:1364
+translate portuguese extra_scene_41_2c4806a4:
+
+    # "I began to move inside her and Raene let out a shuddering breath."
+    "Eu comecei a me mover dentro dela, e Raene respirou ofegante novamente."
+
+# game/extras.rpy:1365
+translate portuguese extra_scene_41_013d5e3d:
+
+    # c "You’re my little buttslut, aren’t you, Raene?"
+    c "Você é a minha putinha anal, né, Raene?"
+
+# game/extras.rpy:1366
+translate portuguese extra_scene_41_a6c2a174:
+
+    # ra "Yes, I am!"
+    ra "Si, eu sou!"
+
+# game/extras.rpy:1367
+translate portuguese extra_scene_41_0776ad35:
+
+    # "It felt so good being inside Raene’s tight ass again."
+    "Era uma delícia voltar dentro da bunda apertada da Raene."
+
+# game/extras.rpy:1369
+translate portuguese extra_scene_41_678a4bd0:
+
+    # "My shaft brushed against her fingers, every time my cock slid out of her asshole, increasing my arousal even more."
+    "O meu pau esfregou nos dedos dela toda vez que ele saía do cu, aumentando ainda mais o meu tesão."
+
+# game/extras.rpy:1370
+translate portuguese extra_scene_41_8a3da393:
+
+    # "As we both reached fever pitch, a sudden urge came over me."
+    "Quando ambos alcançamos um ritmo febril, uma repentina vontade tomou conta de mim."
+
+# game/extras.rpy:1371
+translate portuguese extra_scene_41_d5e7301b:
+
+    # "I wanted to drink in her scent, possess every inch of her body and breed her asshole, because nothing else mattered."
+    "Eu queria sentir o seu cheiro, possuir cada centímetro do seu corpo e encher o seu cuzinho, pois nada mais importava."
+
+# game/extras.rpy:1373
+translate portuguese extra_scene_41_97250238:
+
+    # "Pushing against her legs, I lifted her butt of the bed and began to fuck her ass with deep strokes."
+    "Empurrando as pernas dela, eu levantei sua bunda da cadeira e comecei a meter na sua bunda com enfiadas fortes."
+
+# game/extras.rpy:1374
+translate portuguese extra_scene_41_558b81ec:
+
+    # "Within seconds, I had Raene reduced to gibbering cries of lust."
+    "Dentro de segundos, eu havia reduzido a gritos de desejo."
+
+# game/extras.rpy:1375
+translate portuguese extra_scene_41_4d96114a:
+
+    # "When she was able to form at least parts of a sentence, she urged me to go on."
+    "Quando ela conseguiu formar pelo menos parte de uma frase, ela pediu para eu continuar."
+
+# game/extras.rpy:1377
+translate portuguese extra_scene_41_0dcf824f:
+
+    # ra "Don’t stop!{w} Keep hitting me there!{w} Oh yes!"
+    ra "Não para!{w} Continua metendo!{w} Aih, isso!"
+
+# game/extras.rpy:1378
+translate portuguese extra_scene_41_9e6317af:
+
+    # "In the knowledge I’d struck gold, I kept my thrusts angled and even."
+    "Percebendo que encontrei o lugar perfeito, mantive as minhas enfiadas consistentes e na direção certa."
+
+# game/extras.rpy:1380
+translate portuguese extra_scene_41_b33785b7:
+
+    # "Raene took a series of halted breaths and precum started flowing from the tip of her cock."
+    "Raene respirou fundo várias vezes, e lubrificante começou a derramar da cabeça do seu pau."
+
+# game/extras.rpy:1381
+translate portuguese extra_scene_41_e360a523:
+
+    # c "I’m going to make you cum so hard, Raene."
+    c "Eu vou fazer você gozar tão gostoso, Raene."
+
+# game/extras.rpy:1382
+translate portuguese extra_scene_41_1caaa92b:
+
+    # c "You’re going to make such a mess of that pretty body of yours."
+    c "Você vai bagunçar esse seu corpinho lindo todinho."
+
+# game/extras.rpy:1384
+translate portuguese extra_scene_41_899abc8c:
+
+    # ra "I-I-I want to!"
+    ra "E-e-eu quero!"
+
+# game/extras.rpy:1385
+translate portuguese extra_scene_41_6b2d94d6:
+
+    # ra "Make me cum, [p_name]!"
+    ra "Faz eu gozar, [p_name]!"
+
+# game/extras.rpy:1386
+translate portuguese extra_scene_41_8b7b6cf3:
+
+    # "Hitting her prostate once again I managed to open the floodgates."
+    "Atingindo sua próstata novamente, eu consegui fazer ela gozar."
+
+# game/extras.rpy:1388
+translate portuguese extra_scene_41_b836adb8:
+
+    # "Raene trembled in ecstasy as her cock spewed a flood of cum into the air."
+    "Raene se estremeceu de êxtase, e seu pau jorrou sêmen pelo ar."
+
+# game/extras.rpy:1389
+translate portuguese extra_scene_41_ab85318f:
+
+    # "Her orgasm was so violent I was afraid she’d loose consciousness."
+    "O orgasmo dela foi tão violento que eu fiquei com medo que ela fosse desmaiar."
+
+# game/extras.rpy:1392
+translate portuguese extra_scene_41_de7fa4e0:
+
+    # "Luckily she didn’t pass out and rode her climax to the very edge, pumping cum all over her body."
+    "Por sorte, ela não desmaiou e aproveitou seu orgasmo até o fim, melando o próprio corpo."
+
+# game/extras.rpy:1393
+translate portuguese extra_scene_41_87d9ce19:
+
+    # "It took a while for her fevered eyes to regain focus and look at me."
+    "Demorou um pouco para o seu olhar febril recuperar o foco e olhar para mim."
+
+# game/extras.rpy:1394
+translate portuguese extra_scene_41_37eefac9:
+
+    # "Her cock still twitched and released small pearls of fluid, dripping onto her abdomen."
+    "O pau dela ainda estava tremendo, soltando pequenas gotas de líquido, pingando na sua barriga."
+
+# game/extras.rpy:1396
+translate portuguese extra_scene_41_b87ace6d:
+
+    # ra "You make me feel so good!"
+    ra "Você me deixou tão feliz!"
+
+# game/extras.rpy:1400
+translate portuguese extra_scene_41_321ff256:
+
+    # c "You want me to cum in your ass again, don't you?"
+    c "Você quer que eu goze na sua bunda de novo, né?"
+
+# game/extras.rpy:1401
+translate portuguese extra_scene_41_068ab7e9:
+
+    # ra "I wouldn’t want it anywhere else."
+    ra "Não tem outro lugar que eu queira mais."
+
+# game/extras.rpy:1402
+translate portuguese extra_scene_41_4d9cd079:
+
+    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
+    "O ânus da Raene ainda estava apertando devido ao orgasmo, e isso por sua vez me fez gozar também."
+
+# game/extras.rpy:1403
+translate portuguese extra_scene_41_77e6a5f5:
+
+    # c "I’m going to breed that ass!"
+    c "Eu vou é engravidar essa bunda!"
+
+# game/extras.rpy:1404
+translate portuguese extra_scene_41_f95a0301:
+
+    # ra "Yes, yes, oh yes!"
+    ra "Isso, aih, que gostoso!"
+
+# game/extras.rpy:1406
+translate portuguese extra_scene_41_02f5aea6:
+
+    # "Deep inside her ass my cock exploded and flooded her bowels with warm cum."
+    "O meu pau explodiu dentro da bunda dela, e a encheu de sêmen quente."
+
+# game/extras.rpy:1409
+translate portuguese extra_scene_41_4cc43aae:
+
+    # "I stayed as long as possible inside her and then removed my cock to allow my cum to ooze freely from her winking asshole."
+    "Eu fiquei o máximo possível dentro dela e removi meu pau para permitir o sêmen vazar do seu cuzinho piscante."
+
+# game/extras.rpy:1412
+translate portuguese extra_scene_41_bc6fb699:
+
+    # c "I’m going to make an even greater mess of your body."
+    c "Eu vou fazer uma bagunça ainda maior nesse seu corpinho."
+
+# game/extras.rpy:1413
+translate portuguese extra_scene_41_46d51160:
+
+    # ra "Yes, cum for me, [p_name]!"
+    ra "Isso, goza para mim, [p_name]!"
+
+# game/extras.rpy:1414
+translate portuguese extra_scene_41_4d9cd079_1:
+
+    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
+    "O anos da Heine ainda estava apertando devido ao orgasmo, e isso por sua vez me fez gozar também."
+
+# game/extras.rpy:1416
+translate portuguese extra_scene_41_5570d065:
+
+    # "I pulled out of her ass and my cock exploded all over her body."
+    "Eu tirei meu pau da bunda dela, e ele jorrou pelo corpo dela todinho."
+
+# game/extras.rpy:1419
+translate portuguese extra_scene_41_ded9ed6e:
+
+    # "Cum shot out as far as her breasts, leaving her upper body coated in my warm cum."
+    "Sêmen voou até os seios, deixando seu torso todo melado de sêmen quente."
+
+# game/extras.rpy:1422
+translate portuguese extra_scene_41_52acdf3e:
+
+    # c "I want to make a mess of that pretty face of yours."
+    c "Eu quero bagunçar esse seu rostinho lindo."
+
+# game/extras.rpy:1423
+translate portuguese extra_scene_41_02664792:
+
+    # ra "Oh yes, feed me your cum, [p_name]!"
+    ra "Isso, deixa eu comer porra, [p_name]!"
+
+# game/extras.rpy:1424
+translate portuguese extra_scene_41_4d9cd079_2:
+
+    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
+    "O anos da Heine ainda estava apertando devido ao orgasmo, e isso por sua vez me fez gozar também."
+
+# game/extras.rpy:1426
+translate portuguese extra_scene_41_a42731e5:
+
+    # "I pulled out of her ass, jumped off the bed and stood over her naked body."
+    "Eu tirei meu pau da bunda dela, pulei da cadeira e fiquei em frente ao seu corpo nu."
+
+# game/extras.rpy:1428
+translate portuguese extra_scene_41_52468778:
+
+    # "With one stroke of my hand, cum sprayed over her face and into her open mouth."
+    "Com uma bombeada na minha mão, sêmen jorrou no rosto e na boca aberta dela."
+
+# game/extras.rpy:1431
+translate portuguese extra_scene_41_19fd14a6:
+
+    # "When my cock stopped twitching, Raene’s face was covered in my warm cum."
+    "Quando o meu pau parou de tremer, o rosto da Raene estava coberto de esperma."
+
+# TODO: Translation updated at 2024-02-28 21:54
+
+# game/extras.rpy:1226
+translate portuguese extra_scene_40_d78599bd:
+
+    # "I was about to make an assured reply, but then I looked into her lust-filled eyes and my confidence wavered."
+    "Eu estava para dar uma resposta assegurada, mas eu olhei quando vi o olhar de desejo dela e a minha confiança se acabou."
+
+# game/extras.rpy:1235
+translate portuguese extra_scene_40_515c1998:
+
+    # "I nearly lost it when she took one of my balls in her mouth and began to suck it."
+    "Eu quase gozei quando ela botou uma das bolas na boca e começou a chupar."
+
+# game/extras.rpy:1272
+translate portuguese extra_scene_40_3628eba0:
+
+    # "When one of her fingers started stimulating my taint as well as my balls, I knew she’d won."
+    "Quando um dos seus dedos começou a estimular o períneo e as bolas ao mesmo tempo, eu sabia que ela tinha vencido."
+
+# game/extras.rpy:1366
+translate portuguese extra_scene_41_a4427ee8:
+
+    # "The creampie I’d left earlier lubricated her hole nicely, and I slipped in."
+    "O sêmen que eu havia depositado antes lubrificou bem o buraquinho, e logo eu entrei."
+
+# game/extras.rpy:1402
+translate portuguese extra_scene_41_74181fe0:
+
+    # "Her orgasm was so violent I was afraid she’d lose consciousness."
+    "O orgasmo dela foi tão violento que eu fiquei com medo que ela fosse desmaiar."
+
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/extras.rpy:1460
+translate portuguese extra_scene_42_3c4230e8:
+
+    # e "Wait a minute, are you growing hard again?"
+    e "Espera, você está ficando duro de novo?"
+
+# game/extras.rpy:1462
+translate portuguese extra_scene_42_39fafa78:
+
+    # c "Maybe...{w} It’s all that talk about cumming inside you."
+    c "Talvez...{w} Foi essa conversa de gozar dentro de você."
+
+# game/extras.rpy:1464
+translate portuguese extra_scene_42_3bbc8a78:
+
+    # c "Maybe...{w} It’s all that talk about having sex with you."
+    c "Talvez...{w} Foi toda essa conversa de fazer sexo com você."
+
+# game/extras.rpy:1465
+translate portuguese extra_scene_42_94329641:
+
+    # c "Let’s just talk about optimizing the power distribution of the Bastard and it will soon shrivel back to nothing."
+    c "Vamos estou conversar sobre otimizar a distribuição de energia da Bastarda que ele logo fica molinho."
+
+# game/extras.rpy:1467
+translate portuguese extra_scene_42_9eeac23f:
+
+    # e "We certainly won’t be doing that."
+    e "Com certeza que não vamos fazer isso."
+
+# game/extras.rpy:1468
+translate portuguese extra_scene_42_b2093ec9:
+
+    # c "We’re not?"
+    c "Não vamos?"
+
+# game/extras.rpy:1469
+translate portuguese extra_scene_42_92398e13:
+
+    # "I could already tell where this was leading, but I had too much fun drawing it out of her."
+    "Já percebi onde isso estava indo, mas era divertido demais fazer ela falar."
+
+# game/extras.rpy:1470
+translate portuguese extra_scene_42_aeaead8e:
+
+    # e "Nope, we’re going to have sex again, of course."
+    e "Não, vamos fazer sexo de novo, claro."
+
+# game/extras.rpy:1471
+translate portuguese extra_scene_42_82878a68:
+
+    # c "Well, only if you really want to..."
+    c "Bom, se você insiste tanto..."
+
+# game/extras.rpy:1473
+translate portuguese extra_scene_42_7e5be565:
+
+    # e "What?"
+    e "O quê?"
+
+# game/extras.rpy:1475
+translate portuguese extra_scene_42_5f1e2059:
+
+    # e "If I didn’t know you any better, I’d say you were reluctant to fuck your own sister..."
+    e "Se eu não te conhecesse bem, diria que você não está muito a fim de foder própria irmã..."
+
+# game/extras.rpy:1477
+translate portuguese extra_scene_42_3c393c9c:
+
+    # e "If I didn’t know you any better, I’d say you were reluctant to fuck me..."
+    e "Se eu não te conhecesse bem, diria que você não está muito a fim de me foder..."
+
+# game/extras.rpy:1478
+translate portuguese extra_scene_42_69a94ab2:
+
+    # e "I’ll get off on my own then."
+    e "Eu me satisfaço sozinha, então."
+
+# game/extras.rpy:1479
+translate portuguese extra_scene_42_aee095a0:
+
+    # c "Hold your horses, you little minx!"
+    c "Segura aí, sua levadinha!"
+
+# game/extras.rpy:1480
+translate portuguese extra_scene_42_5f545dd1:
+
+    # c "Of course I want you."
+    c "Claro que eu te quero."
+
+# game/extras.rpy:1481
+translate portuguese extra_scene_42_a4dca0e3:
+
+    # e "You had me worried there."
+    e "Você me deu um susto."
+
+# game/extras.rpy:1482
+translate portuguese extra_scene_42_7563520d:
+
+    # c "I was just messing with you."
+    c "Só estava mexendo com você."
+
+# game/extras.rpy:1483
+translate portuguese extra_scene_42_7dc9ab89:
+
+    # e "I should have known."
+    e "Devia ter adivinhado."
+
+# game/extras.rpy:1485
+translate portuguese extra_scene_42_85d49d85:
+
+    # "I was about to pull her to me, but she slapped my hand away."
+    "Eu ia puxá-la até mim, mas ela deu um tapa na minha mão."
+
+# game/extras.rpy:1486
+translate portuguese extra_scene_42_ebf214e4:
+
+    # e "No, you don’t get to do that now."
+    e "Não, você perdeu a chance de fazer isso."
+
+# game/extras.rpy:1487
+translate portuguese extra_scene_42_1d11ae19:
+
+    # e "I liked being in control just before."
+    e "Eu gostei de ficar no controle antes."
+
+# game/extras.rpy:1489
+translate portuguese extra_scene_42_c23e8511:
+
+    # "Before I could protest, she climbed on top of me."
+    "Antes que eu pudesse protestar, ela subiu em mim."
+
+# game/extras.rpy:1490
+translate portuguese extra_scene_42_c6263d64:
+
+    # "Straddling my body, Eva guided my hard cock inside her tight slit."
+    "Montando no meu corpo, Eva guiou meu pau duro para dentro de sua boceta apertada."
+
+# game/extras.rpy:1491
+translate portuguese extra_scene_42_64ae28ef:
+
+    # c "You were surprised I got horny again so fast, but your wet pussy is telling me the same story."
+    c "Você achou estranho que eu fiquei excitado tão rápido de novo, mas essa sua boceta molhada está me contando a mesma história."
+
+# game/extras.rpy:1493
+translate portuguese extra_scene_42_3b54fa7d:
+
+    # e "Mmmm, some of it is yours, but I won’t deny getting wet just thinking of you sometimes."
+    e "Mmmm, parte disso é sua, mas não vou negar que às vezes eu fico molhada só de pensar em você."
+
+# game/extras.rpy:1495
+translate portuguese extra_scene_42_389a42b4:
+
+    # e "I won’t deny getting wet just thinking of you sometimes."
+    e "Às vezes eu fico molhada só de pensar em você."
+
+# game/extras.rpy:1497
+translate portuguese extra_scene_42_0fa1b3e0:
+
+    # "I thrust my hips in response, causing my dick to slide deeper inside my sister."
+    "Eu mexo o quadril em resposta, fazendo meu pau entrar ainda mais fundo na minha irmã."
+
+# game/extras.rpy:1499
+translate portuguese extra_scene_42_7f38d06f:
+
+    # "I thrust my hips in response, causing my dick to slide deeper inside her."
+    "Eu mexo o quadril em resposta, fazendo meu pau entrar ainda mais fundo nela."
+
+# game/extras.rpy:1500
+translate portuguese extra_scene_42_0176e7c3:
+
+    # e "Hey!{w} I was supposed to be in control."
+    e "Ei!{w} Era para eu estar no controle."
+
+# game/extras.rpy:1501
+translate portuguese extra_scene_42_e6d28111:
+
+    # e "Down boy!"
+    e "Se comporta!"
+
+# game/extras.rpy:1503
+translate portuguese extra_scene_42_344dfb07:
+
+    # "Eva bend backward and rested the palms of her hands on my chest, I steadied my hands on her ass."
+    "Eva se curvou para trás e botou as mãos no meu peito, e eu segurei sua bunda."
+
+# game/extras.rpy:1504
+translate portuguese extra_scene_42_b3a1e4c3:
+
+    # "She began to slowly grind on my cock."
+    "Ela começou a cavalgar lentamente no meu pau "
+
+# game/extras.rpy:1505
+translate portuguese extra_scene_42_e7b07002:
+
+    # e "Mmmm, this feels so good."
+    e "Mmmm, isso é tão gostoso."
+
+# game/extras.rpy:1507
+translate portuguese extra_scene_42_232c717c:
+
+    # "My sister continued her slow progress, luxuriating in the sensation my veined shaft was arousing inside her."
+    "Minha irmã continuou devagar, se deliciando na sensação do meu pau dentro dela."
+
+# game/extras.rpy:1509
+translate portuguese extra_scene_42_fc85f6e4:
+
+    # "Eva continued her slow progress, luxuriating in the sensation my veined shaft was arousing inside her."
+    "Eva continuou devagar, se deliciando na sensação do meu pau dentro dela."
+
+# game/extras.rpy:1510
+translate portuguese extra_scene_42_f614deef:
+
+    # "The experience was both heaven and torture for me."
+    "A experiência foi tanto um paraíso quanto tortura."
+
+# game/extras.rpy:1512
+translate portuguese extra_scene_42_1b726dca:
+
+    # "Despite Eva’s protests earlier, I tried to take the initiative again and began to thrust."
+    "Apesar dos protestos anteriores da Eva, eu tentei tomar a iniciativa novamente e comecei a enfiar."
+
+# game/extras.rpy:1513
+translate portuguese extra_scene_42_0784eb99:
+
+    # "Eva didn’t complain, but still dictated how deep my thrusts could be, by how deep she squatted on top of me."
+    "Eva não reclamou, mas ainda podia escolher o quão fundo eu podia enfiar, pela altura ela sentava em mim."
+
+# game/extras.rpy:1514
+translate portuguese extra_scene_42_528c3592:
+
+    # "Her ribbed tunnel stimulated me in all the right ways, but I also longed to take back control and give Eva the time of her life."
+    "Seu túnel vaginal me estimulava do jeito certo, mas eu também queria tomar controle de volta e deixar a Eva super feliz."
+
+# game/extras.rpy:1517
+translate portuguese extra_scene_42_bfb2641a:
+
+    # e "I love your dick inside me."
+    e "Eu adoro o seu pau dentro de mim."
+
+# game/extras.rpy:1518
+translate portuguese extra_scene_42_fc4c418a:
+
+    # e "It’s so big and so hard."
+    e "É tão grande e duro."
+
+# game/extras.rpy:1520
+translate portuguese extra_scene_42_6e9aafcf:
+
+    # "My hands still rested on Eva’s buttocks and I couldn’t resist pinching them to spur her into more vigorous action."
+    "As minhas mãos ainda estavam nas nádegas da Eva, eu não pude evitar de apertar para estimulá-lá a uma ação mais vigorosa."
+
+# game/extras.rpy:1521
+translate portuguese extra_scene_42_3a1ff5c5:
+
+    # "Instead, she slowed down even more."
+    "Ao invés disso, ela foi ainda mais devagar."
+
+# game/extras.rpy:1522
+translate portuguese extra_scene_42_be131bad:
+
+    # c "Ugh, you’re such a tease!"
+    c "Aff, você fica me provocando!"
+
+# game/extras.rpy:1523
+translate portuguese extra_scene_42_281ee7f5:
+
+    # c "You’re trying to drive me crazy."
+    c "Você está tentando levar à loucura."
+
+# game/extras.rpy:1526
+translate portuguese extra_scene_42_7e5be565_1:
+
+    # e "What?"
+    e "O quê?"
+
+# game/extras.rpy:1527
+translate portuguese extra_scene_42_c4218e91:
+
+    # "Her breathless response came out innocent, but she knew what she was doing."
+    "Sua resposta baixinha parecia algo inocente, mas ela sabia o que estava fazendo."
+
+# game/extras.rpy:1529
+translate portuguese extra_scene_42_75a5c4b6:
+
+    # "I grabbed her around the waist and hoisted her off me."
+    "Eu a peguei pela cintura e a tirei de cima de mim."
+
+# game/extras.rpy:1530
+translate portuguese extra_scene_42_68417882:
+
+    # "Eva yelped in surprise and laughed."
+    "Eva gritou de surpresa e riu."
+
+# game/extras.rpy:1531
+translate portuguese extra_scene_42_d218b51f:
+
+    # e "I really was driving you crazy!"
+    e "Eu estava mesmo te deixando louco!"
+
+# game/extras.rpy:1532
+translate portuguese extra_scene_42_838b376e:
+
+    # c "Don’t be so smug..."
+    c "Não seja tão presunçosa..."
+
+# game/extras.rpy:1533
+translate portuguese extra_scene_42_4bf0374b:
+
+    # "I pushed her down so that she was on all fours."
+    "Eu a joguei para baixo para que ela ficasse de quatro."
+
+# game/extras.rpy:1535
+translate portuguese extra_scene_42_a222f69e:
+
+    # "Pulling her ass toward my abdomen, I entered her again."
+    "Puxando sua bunda até o meu abdômen, eu entrei novamente nela."
+
+# game/extras.rpy:1536
+translate portuguese extra_scene_42_1bbf6eee:
+
+    # e "Mmmm, you’re going to show me how it’s done, aren’t you?"
+    e "Mmmm, você vai me mostrar como é que se faz, né"
+
+# game/extras.rpy:1538
+translate portuguese extra_scene_42_a42ff3ed:
+
+    # "I slapped my sister’s ass and thrust inside her."
+    "Eu dei um tapa na bunda da minha irmã e meti nela."
+
+# game/extras.rpy:1540
+translate portuguese extra_scene_42_d8e84de6:
+
+    # "I slapped her ass and thrust inside her."
+    "Eu dei um tapa na bunda dela e meti."
+
+# game/extras.rpy:1542
+translate portuguese extra_scene_42_f3f9162d:
+
+    # "Eva grunted in response."
+    "Eva grunhiu em resposta."
+
+# game/extras.rpy:1543
+translate portuguese extra_scene_42_5fa689fe:
+
+    # e "Again!"
+    e "De novo!"
+
+# game/extras.rpy:1545
+translate portuguese extra_scene_42_d23c46a6:
+
+    # "My hand connected with the soft flesh of her butt as I began to fuck her in earnest."
+    "Minha mão conectou com a carne macia de sua bunda, e eu comecei a fodê-la com vontade."
+
+# game/extras.rpy:1546
+translate portuguese extra_scene_42_ab74a420:
+
+    # "Eva moaned and steadied herself on the mattress."
+    "Eva gemeu e se posicionou na cama."
+
+# game/extras.rpy:1547
+translate portuguese extra_scene_42_dfc2e409:
+
+    # "I kept my hands on the firm flesh of her ass and picked up the pace."
+    "Eu deixei minhas mãos na carne firme de sua bunda e aumentei o passo."
+
+# game/extras.rpy:1548
+translate portuguese extra_scene_42_5d0ecf2b:
+
+    # c "You’re so tight, Eva, your pussy feels so good!"
+    c "Eva, você é tão apertada, essa sua boceta é uma delícia!"
+
+# game/extras.rpy:1550
+translate portuguese extra_scene_42_cf2fc0ed:
+
+    # "I slammed inside her, again and again, reducing my sister to gibbering moans."
+    "Eu meti com força várias e várias vezes, reduzindo minha irmã a gemidos incoerentes."
+
+# game/extras.rpy:1551
+translate portuguese extra_scene_42_c14e8539:
+
+    # "As my earlier orgasm wasn’t that long ago, I’d have thought I’d have more stamina, but Eva’s pussy proved to be irresistible."
+    "Como não fazia muito tempo desde meu último orgasmo, eu achei que não teria mais energia, mas a boceta da Eva era irresistível."
+
+# game/extras.rpy:1552
+translate portuguese extra_scene_42_f73ff12c:
+
+    # "Her tightness stimulated my cock in all the right ways and I could feel to my surprise that my climax wasn’t that far off."
+    "Esse aperto me estimulava do jeito certinho, e dava para sentir para minha surpresa que o meu orgasmo não estava muito longe."
+
+# game/extras.rpy:1557
+translate portuguese extra_scene_42_8d06d0aa:
+
+    # c "I’m going to cum inside you again."
+    c "Vou gozar dentro de você de novo."
+
+# game/extras.rpy:1559
+translate portuguese extra_scene_42_605bdba9:
+
+    # c "I’m going to cum inside you."
+    c "Vou gozar dentro de você."
+
+# game/extras.rpy:1560
+translate portuguese extra_scene_42_30fcd5e1:
+
+    # e "Yes, [p_name_short], shoot all of your cum inside my pussy!"
+    e "Isso, [p_name_short], jorra tudo na minha boceta!"
+
+# game/extras.rpy:1562
+translate portuguese extra_scene_42_7dff50ec:
+
+    # "I came."
+    "Eu gozei."
+
+# game/extras.rpy:1565
+translate portuguese extra_scene_42_ed656fa5:
+
+    # e "That’s it, [p_name], put a baby inside your sister!"
+    e "Isso, [p_name], mete um bebê na sua irmã!"
+
+# game/extras.rpy:1567
+translate portuguese extra_scene_42_642c9c78:
+
+    # e "That’s it, [p_name], put a baby inside me!"
+    e "Isso, [p_name], mete um bebê em mim!"
+
+# game/extras.rpy:1570
+translate portuguese extra_scene_42_c3585f28:
+
+    # e "That’s it, [p_name], put your sister full of cum!"
+    e "Isso, [p_name], enche a sua irmã de porra!"
+
+# game/extras.rpy:1572
+translate portuguese extra_scene_42_91f6777f:
+
+    # e "That’s it, [p_name], put me full of cum!"
+    e "Isso, [p_name], me enche de porra!"
+
+# game/extras.rpy:1576
+translate portuguese extra_scene_42_9eb97310:
+
+    # "Wave after wave of warm seed spilled into my sister’s vagina."
+    "Várias ondas de sêmen quente derramaram na vagina da minha irmã."
+
+# game/extras.rpy:1578
+translate portuguese extra_scene_42_bd0e7ec1:
+
+    # "Wave after wave of warm seed spilled into Eva’s vagina."
+    "Várias ondas de sêmen quente derramaram na vagina da Eva."
+
+# game/extras.rpy:1579
+translate portuguese extra_scene_42_4b40d562:
+
+    # "Pulling out of her overflowing pussy, cum began to leak out of her immediately."
+    "Tirando meu pau de sua você tem encharcada sêmen começou imediatamente a derramar."
+
+# game/extras.rpy:1583
+translate portuguese extra_scene_42_dc5f9695:
+
+    # c "I’m going to cum all over you again."
+    c "Eu vou gozar em você todinha de novo."
+
+# game/extras.rpy:1585
+translate portuguese extra_scene_42_e109fc7b:
+
+    # c "I’m going to cum all over you."
+    c "Eu vou gozar em você todinha."
+
+# game/extras.rpy:1586
+translate portuguese extra_scene_42_921956a8:
+
+    # e "Yes, [p_name_short], shoot your cum all over my body!"
+    e "Isso, [p_name_short], jorra em mim toda!"
+
+# game/extras.rpy:1588
+translate portuguese extra_scene_42_7dff50ec_1:
+
+    # "I came."
+    "Eu gozei."
+
+# game/extras.rpy:1590
+translate portuguese extra_scene_42_7519388e:
+
+    # e "That’s it, [p_name], drench your sister in cum!"
+    e "Isso, [p_name], mela a sua irmã todinha de porra!"
+
+# game/extras.rpy:1592
+translate portuguese extra_scene_42_93e06400:
+
+    # e "That’s it, [p_name], drench me in cum!"
+    e "Isso, [p_name], me mela todinha de porra!"
+
+# game/extras.rpy:1596
+translate portuguese extra_scene_42_92ba7534:
+
+    # "Wave after wave of warm seed sprayed out over my sister’s nubile body."
+    "Várias ondas de sêmen quente derramaram pelo jovem corpinho da minha irmã."
+
+# game/extras.rpy:1598
+translate portuguese extra_scene_42_52e90afa:
+
+    # "Wave after wave of warm seed sprayed out over Eva’s nubile body."
+    "Várias ondas de sêmen quente derramaram pelo jovem corpinho da Eva."
+
+# game/extras.rpy:1599
+translate portuguese extra_scene_42_563dafa2:
+
+    # "Her abdomen and breasts were a downright mess after I’d finished."
+    "Sua barriga e seios estavam uma bagunça quando acabamos."
+
+# game/extras.rpy:1601
+translate portuguese extra_scene_42_fcd5d612:
+
+    # "We both collapsed on the bed again, Eva finding her place under my arm again."
+    "Nós caímos novamente na cama, Eva encontrando seu lugar mais uma vez no meu braço."
+
+# game/extras.rpy:1604
+translate portuguese extra_scene_42_43ba7b57:
+
+    # c "Thinking about babies again?"
+    c "Pensando em bebês de novo?"
+
+# game/extras.rpy:1606
+translate portuguese extra_scene_42_118adec5:
+
+    # e "Yes."
+    e "Uhum."
+
+# game/extras.rpy:1607
+translate portuguese extra_scene_42_7566d10f:
+
+    # c "Maybe this was the one, then?"
+    c "Talvez essa tenha sido a vez então?"
+
+# game/extras.rpy:1608
+translate portuguese extra_scene_42_88a18207:
+
+    # e "Maybe, but I think we really need to try more, just to be on the safe side."
+    e "Talvez, mas acho que precisamos tentar mais, só para garantir."
+
+# game/extras.rpy:1611
+translate portuguese extra_scene_42_3c443c18:
+
+    # c "And, did we prove your theory?"
+    c "E provamos a sua teoria?"
+
+# game/extras.rpy:1613
+translate portuguese extra_scene_42_d1c6d027:
+
+    # e "It was incredible, but I think we really need to gather more evidence."
+    e "Foi incrível, mas acho que precisamos juntar mais provas."
+
+# game/extras.rpy:1614
+translate portuguese extra_scene_42_fed7dd4b:
+
+    # c "I won’t argue with that, for sure."
+    c "Certamente que não vou discutir."
+
+# game/extras.rpy:1615
+translate portuguese extra_scene_42_5131871e:
+
+    # e "Good."
+    e "Ótimo."
+
+# game/extras.rpy:1616
+translate portuguese extra_scene_42_52f6a5db:
+
+    # e "I wish we could go at it again, but I’m so tired."
+    e "Eu queria poder repetir, mas estou tão cansada."
+
+# game/extras.rpy:1617
+translate portuguese extra_scene_42_7313b67b:
+
+    # c "As am I."
+    c "Eu também."
+
+# game/extras.rpy:1618
+translate portuguese extra_scene_42_fe179427:
+
+    # c "I love you, Eva."
+    c "Eu te amo, Eva."
+
+# game/extras.rpy:1619
+translate portuguese extra_scene_42_7830073f:
+
+    # e "I love you too, [p_name_short]."
+    e "Eu também te amo, [p_name_short]."
+
+# game/extras.rpy:1624
+translate portuguese extra_scene_43_d110a243:
+
+    # c "Not so fast, little sis..."
+    c "Não estão rápido, maninha..."
+
+# game/extras.rpy:1626
+translate portuguese extra_scene_43_f92779fe:
+
+    # c "Not so fast, Lilly..."
+    c "Não estão rápido, Lilly..."
+
+# game/extras.rpy:1628
+translate portuguese extra_scene_43_6555ca97:
+
+    # "Lilly kicked off her shoes and I helped her strip out of her pants."
+    "Lilly tirou os sapatos, e eu ajudei a tirar sua calça."
+
+# game/extras.rpy:1629
+translate portuguese extra_scene_43_9ef7752c:
+
+    # "Expectantly, she leaned naked against the tree."
+    "Expectante, ela se escorou nua contra a árvore."
+
+# game/extras.rpy:1631
+translate portuguese extra_scene_43_d522ccdf:
+
+    # "I went to my knees and dotted her abdomen with kisses, working slowly toward the prize between her legs."
+    "E eu fiquei de joelhos e fui beijando seu abdome, lentamente descendo até o prêmio entre suas pernas."
+
+# game/extras.rpy:1633
+translate portuguese extra_scene_43_bdb9a408:
+
+    # "Lilly had an inkling of what I was about to do and I could feel her hold in her breath."
+    "Lilly tinha certa ideia do que eu estava para fazer, e eu a senti segurar a respiração."
+
+# game/extras.rpy:1635
+translate portuguese extra_scene_43_85171aee:
+
+    # "When my tongue finally connected with her pussy, she shudderingly released the pent up air."
+    "Quando a minha língua finalmente tocou em sua boceta, ela soltou de uma vez todo o ar que tinha prendido."
+
+# game/extras.rpy:1636
+translate portuguese extra_scene_43_658c2977:
+
+    # l "Oh fuck yes!"
+    l "Aih, isso, porra!"
+
+# game/extras.rpy:1639
+translate portuguese extra_scene_43_9bbbf09f:
+
+    # "Lilly had lifted her leg and rested it on my shoulder in order to give me better access to her cunt."
+    "Lilly levantou a perna e a deixou no meu ombro para me dar um melhor acesso à sua boceta."
+
+# game/extras.rpy:1640
+translate portuguese extra_scene_43_35aa129c:
+
+    # "I savored her distinctive salty taste emanating from her slit."
+    "Eu saboreei o distinto gosto salgado emanando de sua boceta."
+
+# game/extras.rpy:1642
+translate portuguese extra_scene_43_d6dca20e:
+
+    # l "Please keep going like that, [p_name_short]!"
+    l "Por favor continue assim, [p_name_short]!"
+
+# game/extras.rpy:1643
+translate portuguese extra_scene_43_767908e9:
+
+    # "She shuddered against the tree trunk, her body slowly becoming undone with the motions of my tongue."
+    "Ela se tremeu contra a árvore, seu corpo lentamente se desfazendo com os movimentos da minha língua."
+
+# game/extras.rpy:1646
+translate portuguese extra_scene_43_4903bbf0:
+
+    # "When I introduced my fingers inside her, she let out a moan that reverberated through the forest."
+    "Quando eu enfiei meus dedos, ela soltou um gemido que reverberou pela floresta."
+
+# game/extras.rpy:1648
+translate portuguese extra_scene_43_07c124f8:
+
+    # "My sister was dripping wet now, her hand clawing through my hair, pushing me hard against her cunt."
+    "Minha irmã estava pingando agora, sua mão agarrando meu cabelo, me empurrando forte contra sua boceta."
+
+# game/extras.rpy:1650
+translate portuguese extra_scene_43_c6d5a955:
+
+    # "Lilly was dripping wet now, her hand clawing through my hair, pushing me hard against her cunt."
+    "Lilly estava pingando agora, sua mão agarrando meu cabelo, me empurrando forte contra sua boceta."
+
+# game/extras.rpy:1652
+translate portuguese extra_scene_43_3d5cf40c:
+
+    # l "Oh [p_name_short], you’re making me..."
+    l "Ah, [p_name_short], você vai fazer eu..."
+
+# game/extras.rpy:1653
+translate portuguese extra_scene_43_c22d672a:
+
+    # l "Yes, right there!"
+    l "Isso, aí mesmo!"
+
+# game/extras.rpy:1654
+translate portuguese extra_scene_43_4298e085:
+
+    # l "Right there!"
+    l "Bem aí!"
+
+# game/extras.rpy:1656
+translate portuguese extra_scene_43_50d66a44:
+
+    # "Licking her clit, I used my fingers to fuck her pussy."
+    "Lambendo seu clitóris, eu enfiei meus dedos na sua boceta."
+
+# game/extras.rpy:1657
+translate portuguese extra_scene_43_cd238832:
+
+    # "The sound of wet flesh mixed with Lilly’s longing moans."
+    "Som de carne molhada misturaram com os gemidos de desejo da Lilly."
+
+# game/extras.rpy:1658
+translate portuguese extra_scene_43_5700c849:
+
+    # l "I’m-"
+    l "Eu vou-"
+
+# game/extras.rpy:1659
+translate portuguese extra_scene_43_c98af9f6:
+
+    # l "Oh fuck!{w} I’m cumming!"
+    l "Aih, porra!{w} Vou gozar!"
+
+# game/extras.rpy:1661
+translate portuguese extra_scene_43_a305c5e4:
+
+    # "Lilly released an unexpected volley of liquid into my face."
+    "Lilly soltou uma jorrada surpresa de líquido no meu rosto."
+
+# game/extras.rpy:1663
+translate portuguese extra_scene_43_879d5fbd:
+
+    # "My sister leaned hard against the tree, her naked back scraping against the rough bark."
+    "Minha irmã se escorou com força na árvore, suas costas esfregando no tronco rugoso."
+
+# game/extras.rpy:1665
+translate portuguese extra_scene_43_0d796fdf:
+
+    # "She leaned hard against the tree, her naked back scraping against the rough bark."
+    "Ela se escorou com força na árvore, suas costas esfregando no tronco rugoso."
+
+# game/extras.rpy:1667
+translate portuguese extra_scene_43_5904d0fd:
+
+    # "All the while she squirted her ejaculate into my mouth as I attempted to stay connected to her slit."
+    "Tudo isso enquanto gozava na minha boca, e eu tentava permanecer com a boca na sua boceta."
+
+# game/extras.rpy:1668
+translate portuguese extra_scene_43_73f4afd0:
+
+    # "Only the support of the tree allowed her to stay upright, as she shuddered and convulsed."
+    "Ela só estava de pé por causa do apoio da árvore enquanto se tremia toda."
+
+# game/extras.rpy:1670
+translate portuguese extra_scene_43_5dd12e8c:
+
+    # "When Lilly had found her bearings again, she guided me up with trembling hands and kissed me."
+    "Quando Lilly se recuperou, ela me guiou para cima com mãos trêmulas e me beijou."
+
+# game/extras.rpy:1671
+translate portuguese extra_scene_43_7fa5a4d7:
+
+    # "My face was still coated with the secretions of her cunt, but she clearly didn’t mind."
+    "Meu rosto ainda estava melado das secreções de sua boceta, mas ela claramente não se importava."
+
+# game/extras.rpy:1673
+translate portuguese extra_scene_43_aeb3fdf1:
+
+    # l "That was the best ever!"
+    l "Isso foi tão bom!"
+
+# game/extras.rpy:1674
+translate portuguese extra_scene_43_b2ad0782:
+
+    # l "Your fingers..."
+    l "O seus dedos..."
+
+# game/extras.rpy:1675
+translate portuguese extra_scene_43_a1d04de9:
+
+    # l "Like magic!"
+    l "Parecia mágica!"
+
+# game/extras.rpy:1676
+translate portuguese extra_scene_43_b7864afa:
+
+    # "Lilly obviously had some trouble forming coherent thoughts."
+    "Lilly obviamente estava com dificuldades para formar pensamentos coerentes."
+
+# game/extras.rpy:1678
+translate portuguese extra_scene_43_8bd172bf:
+
+    # "Smiling I kissed her again."
+    "Sorrindo, eu a beijei novamente."
+
+# game/extras.rpy:1680
+translate portuguese extra_scene_43_e9a42f65:
+
+    # l "I really, really want you inside me!"
+    l "Eu quero muito muito você dentro de mim!"
+
+# TODO: Translation updated at 2024-08-22 15:12
+
+# game/extras.rpy:1503
+translate portuguese extra_scene_42_a505be92:
+
+    # "Eva bent backward and rested the palms of her hands on my chest, I steadied my hands on her ass."
+    "Eva se curvou para trás e botou as mãos no meu peito, e eu segurei sua bunda."
+
+# game/extras.rpy:1553
+translate portuguese extra_scene_42_0fc4c089:
+
+    # "I slammed inside her, again and again, reducing Eva to gibbering moans."
+    "Eu meti com força várias e várias vezes, reduzindo Eva a gemidos incoerentes."
+
+# game/extras.rpy:1604
+translate portuguese extra_scene_42_27ab03c9:
+
+    # "We both collapsed on the bed again, Eva finding her place on my chest again."
+    "Nós caímos novamente na cama, Eva encontrando seu lugar mais uma vez no meu peito."
+

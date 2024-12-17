@@ -156,7 +156,7 @@ translate portuguese strings:
 
     # game/scenes.rpy:3
     old "Episode #18"
-    new ""
+    new "Episódio #18"
 
 # TODO: Translation updated at 2023-11-03 11:50
 
@@ -164,17 +164,81 @@ translate portuguese strings:
 
     # game/scenes.rpy:3
     old "Eva Eating The Apple"
-    new ""
+    new "Eva Comendo a Maçã"
 
     # game/scenes.rpy:3
     old "Ruin Romp"
-    new ""
+    new "Brincando nas Ruínas"
 
     # game/scenes.rpy:3
     old "The Ex-Virgin Queen"
-    new ""
+    new "A Ex-Rainha Virgem"
 
     # game/scenes.rpy:3
     old "BFF"
-    new ""
+    new "BFF"
+
+# TODO: Translation updated at 2024-02-22 16:22
+
+translate portuguese strings:
+
+    # game/scenes.rpy:3
+    old "Semen Shower"
+    new "Banho de Sêmen"
+
+    # game/scenes.rpy:3
+    old "Bed Ass"
+    new "Que Bunda"
+
+    # game/scenes.rpy:3
+    old "Episode #19"
+    new "Episódio #19"
+
+    # game/scenes.rpy:3
+    old "Couch Fuckers"
+    new "Fodendo no Sofá"
+
+    # game/scenes.rpy:3
+    old "Nightcap"
+    new "Golinho"
+
+    # game/scenes.rpy:3
+    old "Shower For Two"
+    new "Banho a Dois"
+
+    # game/scenes.rpy:3
+    old "Balcony Bonking"
+    new "Fazendo na Varanda"
+
+# TODO: Translation updated at 2024-08-15 22:59
+
+translate portuguese strings:
+
+    # game/scenes.rpy:3
+    old "Round Two"
+    new "Round Dois"
+
+    # game/scenes.rpy:3
+    old "Rainforest"
+    new "Floresta Tropical"
+
+    # game/scenes.rpy:3
+    old "Episode #20"
+    new "Episódio #20"
+
+    # game/scenes.rpy:3
+    old "It Takes Two"
+    new "É Para Dois"
+
+    # game/scenes.rpy:3
+    old "Paclerara Passion"
+    new "Paixão em Paclerara"
+
+    # game/scenes.rpy:3
+    old "Massage Make-out"
+    new "Amassos na Massagem"
+
+    # game/scenes.rpy:3
+    old "Poolside Plow"
+    new "Pegando na Piscina"
 

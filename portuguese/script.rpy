@@ -222,3 +222,11 @@ translate portuguese strings:
     old "Thyia"
     new "Thyia"
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/script.rpy:216
+    old " and "
+    new " e "
+

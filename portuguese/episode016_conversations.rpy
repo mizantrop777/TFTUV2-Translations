@@ -4838,3 +4838,23 @@ translate portuguese ep016_ziv_talk_1ec4a105:
     # "While I continued the conversation with Ziv, I felt Raene’s fingers brush mine."
     "Enquanto continuava a conversa com a Ziv, eu senti os dedos da Raene tocando nos meus."
 
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/episode016_conversations.rpy:472
+translate portuguese ep016_thyia_talk_684e94f5:
+
+    # th "It’s just that, I mean, this is a date, right?"
+    th "É só que, digo, isso é um encontro, né?"
+
+# game/episode016_conversations.rpy:698
+translate portuguese ep016_kit_talk_d1fb1885:
+
+    # c "So much so that they wanted children together, even behind Yve’s back, or so Nadya thought."
+    c "Tanto que queriam filhos, até mesmo pelas costas da Yve, ou foi o que Nadya pensou."
+
+# game/episode016_conversations.rpy:859
+translate portuguese ep016_ziv_talk_f4dd3f54:
+
+    # zi "I was just explaining to Raene about everything that happened on Uailea."
+    zi "Eu estava explicando para Raene sobre tudo que aconteceu em Uailea."
+

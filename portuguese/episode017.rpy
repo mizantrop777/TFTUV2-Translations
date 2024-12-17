@@ -9126,3 +9126,11 @@ translate portuguese strings:
     old "Yes, but no kids"
     new "Sim, mas sem crianças"
 
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode017.rpy:3
+    old "Episode 17"
+    new "Episódio 17"
+

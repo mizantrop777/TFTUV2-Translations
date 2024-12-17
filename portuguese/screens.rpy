@@ -156,7 +156,7 @@ translate portuguese strings:
 
     # game/screens.rpy:1064
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %d de %B de %Y, %H:%M"
 
     # game/screens.rpy:1064
     old "empty slot"

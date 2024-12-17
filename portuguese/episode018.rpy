@@ -1360,7 +1360,7 @@ translate portuguese ep018_desert_exit_a46bceba:
 translate portuguese ep018_desert_exit_e0753814:
 
     # j "I've just managed to crack it, after going through the ship's computer."
-    j "Eu acabei de conseguir pegar isso, depois de vasculhar o computador da nave."
+    j "Eu acabei de hackear, depois de vasculhar o computador da nave."
 
 # game/episode018.rpy:396
 translate portuguese ep018_desert_exit_0c28d7c4:
@@ -2098,7 +2098,7 @@ translate portuguese ep018_taagmar_bf985823:
 translate portuguese ep018_taagmar_705ba921:
 
     # c "The sickly grandpa, Erylin's new boyfriend?"
-    c "O vovôzinho doente, o namorado novo da Erylin?"
+    c "O vovôzinho doente, namoradinho novo da Erylin?"
 
 # game/episode018.rpy:598
 translate portuguese ep018_taagmar_0f09edec:
@@ -9480,5 +9480,47 @@ translate portuguese ep018_ruins_eva_2e99c656:
 translate portuguese ep018_desert_exit_68df38ff:
 
     # j "I've just managed to crack it."
-    j "Eu acabei de conseguir pegar isso."
+    j "Eu acabei de conseguir hackear ele."
+
+# TODO: Translation updated at 2024-02-22 16:22
+
+# game/episode018.rpy:2083
+translate portuguese ep018_l_ce_fucking_97acfde2:
+
+    # "When the cum finally shot out, Lilly and Céline were visibly surprised."
+    "Quando o sêmen finalmente saiu, Lilly e Céline ficaram visivelmente surpresas."
+
+# TODO: Translation updated at 2024-02-28 21:54
+
+translate portuguese strings:
+
+    # game/episode018.rpy:3
+    old "Episode 18"
+    new "Episódio 18"
+
+# TODO: Translation updated at 2024-08-15 22:59
+
+# game/episode018.rpy:399
+translate portuguese ep018_desert_exit_a4444079:
+
+    # c "Don't tell me you've found conclusive evidence of Glixken secretly being a tender-hearted hero of the people?"
+    c "Não me diz que você encontrou provas concretas que Glixken era secretamente um herói do povo com um bom coração?"
+
+# game/episode018.rpy:653
+translate portuguese ep018_taagmar_eec6d6c5:
+
+    # ve "The Confessor relies on varied tricks to enhance his mystique."
+    ve "O Confessor usa vários truques para parecer mais místico."
+
+# game/episode018.rpy:730
+translate portuguese ep018_taagmar_38edd898:
+
+    # "The officer knew better than to argue and proceeded to bark orders to every soldier assembled."
+    "O oficial sabia que era melhor não discutir e repetiu as ordens para todos os soldados."
+
+# game/episode018.rpy:1053
+translate portuguese ep018_ruins_aven_673973c3:
+
+    # "As I was about to return to the building I’d put down my sleeping bag, Aven stepped out from behind a pillar."
+    "Quando estava voltando para o prédio onde havia deixado o meu saco de dormir, a Aven saiu de trás de um pilar."
 
