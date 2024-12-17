@@ -78,3 +78,139 @@ translate french strings:
     old "Dual Wielding"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+translate french strings:
+
+    # game/scenes.rpy:3
+    old "Pussy at the Pool"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Clearing Her Throat"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Vess' Caress"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Cabin Climax"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Eva Eating The Apple"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Ruin Romp"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Semen Shower"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Bed Ass"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Round Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Rainforest"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #16"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Swimming Lessons"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Unfinished Business"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Sneaky Snake"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Just Deserts"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Spank 'n Spunk"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #17"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Cabin Fever"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Vess Visit"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Toying With You"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #18"
+    new ""
+
+    # game/scenes.rpy:3
+    old "The Ex-Virgin Queen"
+    new ""
+
+    # game/scenes.rpy:3
+    old "BFF"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #19"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Fuckers"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Nightcap"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Shower For Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Balcony Bonking"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #20"
+    new ""
+
+    # game/scenes.rpy:3
+    old "It Takes Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Paclerara Passion"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Massage Make-out"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Poolside Plow"
+    new ""
+

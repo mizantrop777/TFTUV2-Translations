@@ -518,3 +518,11 @@ translate french strings:
     old "Menu"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+translate french strings:
+
+    # game/screens.rpy:1120
+    old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+    new ""
+

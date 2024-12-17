@@ -146,3 +146,55 @@ translate french strings:
     old "All loyal patrons who generously supported the development of this project."
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+translate french strings:
+
+    # game/script.rpy:194
+    old "Lilly"
+    new ""
+
+    # game/script.rpy:196
+    old "Eva"
+    new ""
+
+    # game/script.rpy:198
+    old "Aven"
+    new ""
+
+    # game/script.rpy:200
+    old "Nadya"
+    new ""
+
+    # game/script.rpy:202
+    old "Céline"
+    new ""
+
+    # game/script.rpy:204
+    old "Jade"
+    new ""
+
+    # game/script.rpy:206
+    old "Raene"
+    new ""
+
+    # game/script.rpy:208
+    old "Ziv"
+    new ""
+
+    # game/script.rpy:210
+    old "Thyia"
+    new ""
+
+    # game/script.rpy:212
+    old "Vess"
+    new ""
+
+    # game/script.rpy:216
+    old " and "
+    new ""
+
+    # game/script.rpy:678
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new ""
+

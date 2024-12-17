@@ -6970,3 +6970,599 @@ translate french strings:
     old "Declare your love"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+# game/episode015.rpy:40
+translate french episode015_a3a367df:
+
+    # ag "The invasion of the Hawwa cluster is proceeding as planned."
+    ag ""
+
+# game/episode015.rpy:41
+translate french episode015_a86d6418:
+
+    # ag "The Taagmar resistance is quite pathetic."
+    ag ""
+
+# game/episode015.rpy:167
+translate french episode015_f6bdb5f6:
+
+    # "On the bridge, I watched our approach of the capital."
+    ""
+
+# game/episode015.rpy:1757
+translate french ep015_sim_post_9b001cbb:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1782
+translate french ep015_sim_post_42bc6145:
+
+    # e "Did you ever stop to think about the ethical issues involved in creating copies of your loved ones?"
+    e ""
+
+# game/episode015.rpy:1783
+translate french ep015_sim_post_7d60b58a:
+
+    # c "Clearly I didn’t."
+    c ""
+
+# game/episode015.rpy:1784
+translate french ep015_sim_post_2de30891:
+
+    # c "I wasn’t thinking straight, Eva, and when I realized my mistake, it was too late to turn everything back."
+    c ""
+
+# game/episode015.rpy:1786
+translate french ep015_sim_post_741c3376:
+
+    # c "I hope you can forgive me."
+    c ""
+
+# game/episode015.rpy:1788
+translate french ep015_sim_post_78833d86:
+
+    # e "I can and I have."
+    e ""
+
+# game/episode015.rpy:1790
+translate french ep015_sim_post_29756d3b:
+
+    # e "But I hope you’ll never do something like that again."
+    e ""
+
+# game/episode015.rpy:1791
+translate french ep015_sim_post_b409030b:
+
+    # c "I promise I won’t."
+    c ""
+
+# game/episode015.rpy:1792
+translate french ep015_sim_post_23dde8eb:
+
+    # e "I’m happy to hear that."
+    e ""
+
+# game/episode015.rpy:1794
+translate french ep015_sim_post_4f2ad2dc:
+
+    # e "[p_name_short]?"
+    e ""
+
+# game/episode015.rpy:1795
+translate french ep015_sim_post_24c7ada5:
+
+    # c "Yes?"
+    c ""
+
+# game/episode015.rpy:1796
+translate french ep015_sim_post_b9884c7e:
+
+    # e "I feel so very tired, I’d like to lie down, if that’s alright with you."
+    e ""
+
+# game/episode015.rpy:1797
+translate french ep015_sim_post_63c694cf:
+
+    # c "Of course, you should rest."
+    c ""
+
+# game/episode015.rpy:1798
+translate french ep015_sim_post_9f608900:
+
+    # c "Sleep tight, Eva."
+    c ""
+
+# game/episode015.rpy:1800
+translate french ep015_sim_post_26aed4c6:
+
+    # e "Thank you, [p_name_short], I will."
+    e ""
+
+# game/episode015.rpy:1802
+translate french ep015_sim_post_a3055d50:
+
+    # "With a decidedly lighter heart, I left Eva in the medbay."
+    ""
+
+# game/episode015.rpy:1803
+translate french ep015_sim_post_8d8e3d18:
+
+    # "She was already asleep when I closed the door."
+    ""
+
+# game/episode015.rpy:1805
+translate french ep015_sim_post_5beaee5b:
+
+    # c "I had these nightmares...{w} I was certain I’d lost you forever and I just couldn’t bear it."
+    c ""
+
+# game/episode015.rpy:1806
+translate french ep015_sim_post_4ca2f64e:
+
+    # c "Considering what happened to you in the simulation, I think you understand the feelings I have for you."
+    c ""
+
+# game/episode015.rpy:1808
+translate french ep015_sim_post_24253787:
+
+    # e "I...{w} Uh...{w} I don’t understand?"
+    e ""
+
+# game/episode015.rpy:1809
+translate french ep015_sim_post_3893765b:
+
+    # c "We kissed, back in the fantasy simulation."
+    c ""
+
+# game/episode015.rpy:1810
+translate french ep015_sim_post_11a2d058:
+
+    # c "I could tell you were just as shocked as I was."
+    c ""
+
+# game/episode015.rpy:1811
+translate french ep015_sim_post_bc5fb231:
+
+    # c "But if I’m not mistaken, I also saw something else."
+    c ""
+
+# game/episode015.rpy:1812
+translate french ep015_sim_post_e93aa975:
+
+    # c "A longing."
+    c ""
+
+# game/episode015.rpy:1813
+translate french ep015_sim_post_57987cb3:
+
+    # c "A longing for something I feel very clearly as well."
+    c ""
+
+# game/episode015.rpy:1814
+translate french ep015_sim_post_c92aaef4:
+
+    # e "[p_name_short]...{w} Please...{w} Don’t say it..."
+    e ""
+
+# game/episode015.rpy:1817
+translate french ep015_sim_post_dd95c683:
+
+    # "Eva’s protest was feebly voiced, but it stopped me nonetheless."
+    ""
+
+# game/episode015.rpy:1818
+translate french ep015_sim_post_3ea2b69a_1:
+
+    # c "Sorry, that was out of line."
+    c ""
+
+# game/episode015.rpy:1820
+translate french ep015_sim_post_3956c9c1:
+
+    # e "I...{w} I...{w} Uh...{w} I need some rest."
+    e ""
+
+# game/episode015.rpy:1821
+translate french ep015_sim_post_9b001cbb_1:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1831
+translate french ep015_sim_post_269f3f8b:
+
+    # c "I won’t if you really don’t want me to."
+    c ""
+
+# game/episode015.rpy:1833
+translate french ep015_sim_post_2fe76d3a:
+
+    # "In the brief pause, Eva didn’t speak, a range of conflicting emotions flashing across her face."
+    ""
+
+# game/episode015.rpy:1834
+translate french ep015_sim_post_037773ca:
+
+    # c "I love you Eva."
+    c ""
+
+# game/episode015.rpy:1836
+translate french ep015_sim_post_679574aa:
+
+    # c "I love you more than I should love a sister."
+    c ""
+
+# game/episode015.rpy:1838
+translate french ep015_sim_post_d0bcd96b:
+
+    # c "I love you more than I should love a childhood friend."
+    c ""
+
+# game/episode015.rpy:1853
+translate french ep015_sim_post_9b001cbb_2:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1854
+translate french ep015_sim_post_abbc437a_2:
+
+    # e "Thank you for coming in to rescue me, though."
+    e ""
+
+# game/episode015.rpy:1855
+translate french ep015_sim_post_0f7ff419_2:
+
+    # c "You should rest now."
+    c ""
+
+# game/episode015.rpy:1856
+translate french ep015_sim_post_3bc42d98_2:
+
+    # e "I will, thank you [p_name]."
+    e ""
+
+# game/episode015.rpy:1858
+translate french ep015_sim_post_932968ee_2:
+
+    # "I left the medbay with a very heavy heart and the feeling that I'd lost something precious just now."
+    ""
+
+# game/episode015.rpy:1859
+translate french ep015_sim_post_4f485ea9_2:
+
+    # "When I softly opened the door to the infirmary again, Eva had already closed her eyes and appeared to be fast asleep."
+    ""
+
+# game/episode015.rpy:1864
+translate french ep015_eva_confession_f172aff7:
+
+    # "Eva stared at me, dumbfounded."
+    ""
+
+# game/episode015.rpy:1865
+translate french ep015_eva_confession_c0ce3feb:
+
+    # "She didn't wince in disgust or explode with indignant anger."
+    ""
+
+# game/episode015.rpy:1867
+translate french ep015_eva_confession_f5345df4:
+
+    # e "You mean to say you...{w} errr...{w} desire me?"
+    e ""
+
+# game/episode015.rpy:1868
+translate french ep015_eva_confession_8a29e1eb:
+
+    # c "Yes, I do."
+    c ""
+
+# game/episode015.rpy:1871
+translate french ep015_eva_confession_289776c1:
+
+    # "My plain statement finally triggered a look of shock on my sister's face."
+    ""
+
+# game/episode015.rpy:1873
+translate french ep015_eva_confession_200e4765:
+
+    # "My plain statement finally triggered a look of shock on my friend's face."
+    ""
+
+# game/episode015.rpy:1874
+translate french ep015_eva_confession_6792ab2c:
+
+    # e "How can you say that?"
+    e ""
+
+# game/episode015.rpy:1875
+translate french ep015_eva_confession_fb01633c:
+
+    # c "It's not something I say lightly, but it is the truth."
+    c ""
+
+# game/episode015.rpy:1879
+translate french ep015_eva_confession_101cf215:
+
+    # e "I should have known...{w} after you kissed me in the simulation on Douvis."
+    e ""
+
+# game/episode015.rpy:1881
+translate french ep015_eva_confession_0541619a:
+
+    # e "So the simulation we were just in, that was your personal playground to quench your unnatural lusts?"
+    e ""
+
+# game/episode015.rpy:1883
+translate french ep015_eva_confession_618ea790:
+
+    # e "So the simulation we were just in, that was your personal playground to quench your lusts?"
+    e ""
+
+# game/episode015.rpy:1884
+translate french ep015_eva_confession_aae1c94b:
+
+    # c "No, I've just explained why I made that simulation."
+    c ""
+
+# game/episode015.rpy:1885
+translate french ep015_eva_confession_75e78ddc:
+
+    # c "My feelings for you grew over time, I only realized later what they were exactly."
+    c ""
+
+# game/episode015.rpy:1887
+translate french ep015_eva_confession_166b1db3:
+
+    # e "When exactly?"
+    e ""
+
+# game/episode015.rpy:1889
+translate french ep015_eva_confession_38d7f6ee:
+
+    # c "The imprisonment on the research station was the start of it."
+    c ""
+
+# game/episode015.rpy:1890
+translate french ep015_eva_confession_a26b7c6d:
+
+    # c "You know we suffered from memory loss and that caused me to confront some very conflicting feelings."
+    c ""
+
+# game/episode015.rpy:1891
+translate french ep015_eva_confession_51a2083c:
+
+    # e "Feelings for whom, I wasn't there on Höfel?"
+    e ""
+
+# game/episode015.rpy:1893
+translate french ep015_eva_confession_7c5821f9:
+
+    # c "I know, but Lilly and Aven were."
+    c ""
+
+# game/episode015.rpy:1895
+translate french ep015_eva_confession_efd331c1:
+
+    # c "I know, but Aven was."
+    c ""
+
+# game/episode015.rpy:1897
+translate french ep015_eva_confession_4b9a5f0d:
+
+    # c "I know, but Lilly was."
+    c ""
+
+# game/episode015.rpy:1899
+translate french ep015_eva_confession_19f5427b:
+
+    # c "It was a gradual thing."
+    c ""
+
+# game/episode015.rpy:1900
+translate french ep015_eva_confession_7ae9b8e1:
+
+    # c "Your abduction hit me really hard, but when I saw you again back in the throne room on Erigone, that’s when lightning struck me."
+    c ""
+
+# game/episode015.rpy:1902
+translate french ep015_eva_confession_8c6b486f:
+
+    # e "You're not making any sense, [p_name]."
+    e ""
+
+# game/episode015.rpy:1906
+translate french ep015_eva_confession_dfbf8fe9:
+
+    # c "The research station was the first time I realized I'd fallen in love with all of my sisters."
+    c ""
+
+# game/episode015.rpy:1908
+translate french ep015_eva_confession_6fdc0f22:
+
+    # c "The research station was the first time I realized I'd fallen in love with all of my close friends."
+    c ""
+
+# game/episode015.rpy:1911
+translate french ep015_eva_confession_1bbd7b8b:
+
+    # c "The research station was the first time I realized I'd fallen in love with one of my sisters."
+    c ""
+
+# game/episode015.rpy:1913
+translate french ep015_eva_confession_4c57a85d:
+
+    # c "The research station was the first time I realized I'd fallen in love with one of my close friends."
+    c ""
+
+# game/episode015.rpy:1914
+translate french ep015_eva_confession_d235f644:
+
+    # e "Fallen in love with...{w} you mean...?"
+    e ""
+
+# game/episode015.rpy:1916
+translate french ep015_eva_confession_ffb7a0d7:
+
+    # c "Yes, I have feelings for all three of you."
+    c ""
+
+# game/episode015.rpy:1917
+translate french ep015_eva_confession_f2eea69d:
+
+    # c "And in Aven and Lilly’s case, the affection turned out to be mutual."
+    c ""
+
+# game/episode015.rpy:1919
+translate french ep015_eva_confession_20bba4aa:
+
+    # c "Yes, I have feelings for both of you."
+    c ""
+
+# game/episode015.rpy:1921
+translate french ep015_eva_confession_062c843a:
+
+    # c "And in Aven’s case, the affection turned out to be mutual."
+    c ""
+
+# game/episode015.rpy:1923
+translate french ep015_eva_confession_cc95d9e7:
+
+    # c "And in Lilly’s case, the affection turned out to be mutual."
+    c ""
+
+# game/episode015.rpy:1925
+translate french ep015_eva_confession_394bcc56:
+
+    # e "What?!"
+    e ""
+
+# game/episode015.rpy:1927
+translate french ep015_eva_confession_f1b65de6:
+
+    # e "You're telling me that...{w} Lilly...{w} Aven..."
+    e ""
+
+# game/episode015.rpy:1929
+translate french ep015_eva_confession_c61fe6d0:
+
+    # e "You're telling me that...{w} Aven..."
+    e ""
+
+# game/episode015.rpy:1931
+translate french ep015_eva_confession_cdecc248:
+
+    # e "You're telling me that...{w} Lilly..."
+    e ""
+
+# game/episode015.rpy:1932
+translate french ep015_eva_confession_0070ec38:
+
+    # "Eva didn't complete her sentence, the words sputtering out one by one."
+    ""
+
+# game/episode015.rpy:1934
+translate french ep015_eva_confession_c35993fc:
+
+    # "She just stared at me in disbelief."
+    ""
+
+# game/episode015.rpy:1937
+translate french ep015_eva_confession_55162020:
+
+    # "Eva stared at me in disbelief."
+    ""
+
+# game/episode015.rpy:1938
+translate french ep015_eva_confession_f3ff3d4f:
+
+    # "I could tell she had a hard time processing all that she’d heard just now."
+    ""
+
+# game/episode015.rpy:1940
+translate french ep015_eva_confession_b58b3035:
+
+    # "When the realization hit Eva I was afraid she’d faint, she looked so pale all of a sudden."
+    ""
+
+# game/episode015.rpy:1942
+translate french ep015_eva_confession_0dd6c55c:
+
+    # e "I..."
+    e ""
+
+# game/episode015.rpy:1943
+translate french ep015_eva_confession_18adc208:
+
+    # e "I’m sorry, [p_name_short], but I think I need some rest."
+    e ""
+
+# game/episode015.rpy:1944
+translate french ep015_eva_confession_1d3d6624:
+
+    # e "Everything feels so confusing right now."
+    e ""
+
+# game/episode015.rpy:1946
+translate french ep015_eva_confession_e7457df0:
+
+    # e "We’ll talk later, okay?"
+    e ""
+
+# game/episode015.rpy:1947
+translate french ep015_eva_confession_4e910de5:
+
+    # c "Yes, that’s okay."
+    c ""
+
+# game/episode015.rpy:1948
+translate french ep015_eva_confession_babdc21d:
+
+    # c "I hope you’ll feel better after some sleep."
+    c ""
+
+# game/episode015.rpy:1949
+translate french ep015_eva_confession_1d0eb85d:
+
+    # e "I hope so too."
+    e ""
+
+# game/episode015.rpy:1950
+translate french ep015_eva_confession_4d9dd2d1:
+
+    # c "Sleep tight."
+    c ""
+
+# game/episode015.rpy:1952
+translate french ep015_eva_confession_e247b4d6:
+
+    # "I left the medbay with a very heavy heart."
+    ""
+
+# game/episode015.rpy:1953
+translate french ep015_eva_confession_a055dc30:
+
+    # "Her sudden need for sleep was obviously a pretext, judging by the haunted look in her eyes."
+    ""
+
+# game/episode015.rpy:1954
+translate french ep015_eva_confession_e162e445:
+
+    # "I wasn’t sure whether she was appalled by the implications of what I’d just told her, but there was no turning back now."
+    ""
+
+# game/episode015.rpy:1955
+translate french ep015_eva_confession_57451972:
+
+    # "I really hoped Eva and I were still on speaking terms and that our next conversation would clear the air."
+    ""
+
+translate french strings:
+
+    # game/episode015.rpy:3
+    old "Episode 15"
+    new ""
+

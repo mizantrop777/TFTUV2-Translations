@@ -4152,3 +4152,11 @@ translate french strings:
     old "Swallow"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+# game/episode015_conversations.rpy:894
+translate french ep015_raene_talk_5eafdf59:
+
+    # ra "It’s just that I had such a great time when we were last together."
+    ra ""
+

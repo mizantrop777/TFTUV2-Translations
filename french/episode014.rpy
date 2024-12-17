@@ -4278,3 +4278,11 @@ translate french strings:
     old "Stop talking"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+translate french strings:
+
+    # game/episode014.rpy:3
+    old "Episode 14"
+    new ""
+

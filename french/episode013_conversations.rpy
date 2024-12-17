@@ -6234,3 +6234,11 @@ translate french strings:
     old "Make her swallow"
     new ""
 
+# TODO: Translation updated at 2024-12-11 22:09
+
+# game/episode013_conversations.rpy:720
+translate french ep013_nadya_talk_9caa56ec:
+
+    # na "Some of it is Acarhyn history, an interesting but gruesome read."
+    na ""
+
