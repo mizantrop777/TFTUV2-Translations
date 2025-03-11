@@ -5488,3 +5488,1259 @@ translate portuguese extra_scene_42_27ab03c9:
     # "We both collapsed on the bed again, Eva finding her place on my chest again."
     "Nós caímos novamente na cama, Eva encontrando seu lugar mais uma vez no meu peito."
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+# game/extras.rpy:418
+translate portuguese extra_scene_32_26e7a21d:
+
+    # "Aven started to work on my member with powerful strokes, whipping me up in a frenzy."
+    ""
+
+# game/extras.rpy:1705
+translate portuguese extra_scene_44_4174cd28:
+
+    # "Eva had taken residence in one of the larger quarters."
+    ""
+
+# game/extras.rpy:1707
+translate portuguese extra_scene_44_307438d0:
+
+    # "She was leaning on the bar in the kitchen when I came in."
+    ""
+
+# game/extras.rpy:1709
+translate portuguese extra_scene_44_b434a7b2:
+
+    # c "How’s my favorite sister?"
+    c ""
+
+# game/extras.rpy:1711
+translate portuguese extra_scene_44_8cd09df3:
+
+    # c "How’s my favorite person?"
+    c ""
+
+# game/extras.rpy:1714
+translate portuguese extra_scene_44_19f0c191:
+
+    # e "Okay, I think."
+    e ""
+
+# game/extras.rpy:1715
+translate portuguese extra_scene_44_ffcfc44e:
+
+    # e "A little nausea in the morning, but I guess that’s to be expected."
+    e ""
+
+# game/extras.rpy:1716
+translate portuguese extra_scene_44_f0ac2359:
+
+    # c "I’m afraid so."
+    c ""
+
+# game/extras.rpy:1718
+translate portuguese extra_scene_44_54a3896e:
+
+    # c "They all took the news well, earlier, don’t you think?"
+    c ""
+
+# game/extras.rpy:1720
+translate portuguese extra_scene_44_1fdc091c:
+
+    # e "Yes, I’m so relieved."
+    e ""
+
+# game/extras.rpy:1724
+translate portuguese extra_scene_44_bcd0de28:
+
+    # "Yes, but it’s a shame about Lilly."
+    ""
+
+# game/extras.rpy:1726
+translate portuguese extra_scene_44_08dc9196:
+
+    # "Yes, but it’s a shame about Mom."
+    ""
+
+# game/extras.rpy:1728
+translate portuguese extra_scene_44_7b0b0af8:
+
+    # "Yes, but it’s a shame about Aven."
+    ""
+
+# game/extras.rpy:1729
+translate portuguese extra_scene_44_a92bd7d2:
+
+    # c "I’m sure she’ll come around."
+    c ""
+
+# game/extras.rpy:1732
+translate portuguese extra_scene_44_c09843c4:
+
+    # "Yes, but it’s a shame about Lilly and Aven."
+    ""
+
+# game/extras.rpy:1734
+translate portuguese extra_scene_44_7ac1aac6:
+
+    # "Yes, but it’s a shame about Lilly and Mom."
+    ""
+
+# game/extras.rpy:1736
+translate portuguese extra_scene_44_101865b6:
+
+    # "Yes, but it’s a shame about Aven and Mom."
+    ""
+
+# game/extras.rpy:1737
+translate portuguese extra_scene_44_390d846e:
+
+    # c "I’m sure they’ll come around."
+    c ""
+
+# game/extras.rpy:1738
+translate portuguese extra_scene_44_dd7e1a4f:
+
+    # e "I hope so."
+    e ""
+
+# game/extras.rpy:1740
+translate portuguese extra_scene_44_d19da08f:
+
+    # e "And I guess the orgy afterwards was a roaring endorsement too."
+    e ""
+
+# game/extras.rpy:1741
+translate portuguese extra_scene_44_61ed7c35:
+
+    # c "You can say that again."
+    c ""
+
+# game/extras.rpy:1743
+translate portuguese extra_scene_44_ceccc65a:
+
+    # e "I’m doing great."
+    e ""
+
+# game/extras.rpy:1744
+translate portuguese extra_scene_44_d810616c:
+
+    # e "I’m glad you’re alone here with me now."
+    e ""
+
+# game/extras.rpy:1745
+translate portuguese extra_scene_44_ad9b1c95:
+
+    # e "I was really craving for some privacy."
+    e ""
+
+# game/extras.rpy:1746
+translate portuguese extra_scene_44_71a71396:
+
+    # c "Was that the only thing you were craving for?"
+    c ""
+
+# game/extras.rpy:1747
+translate portuguese extra_scene_44_5d25027a:
+
+    # e "No..."
+    e ""
+
+# game/extras.rpy:1752
+translate portuguese extra_scene_44_32836e40:
+
+    # "Eva walked away from the bar and dropped her kimono in the process."
+    ""
+
+# game/extras.rpy:1753
+translate portuguese extra_scene_44_89fca16d:
+
+    # "She leaned against the opposite wall and stretched, giving me a good look at her nubile body."
+    ""
+
+# game/extras.rpy:1754
+translate portuguese extra_scene_44_70e0767d:
+
+    # c "You’re so incredibly sexy."
+    c ""
+
+# game/extras.rpy:1755
+translate portuguese extra_scene_44_0dbf2382:
+
+    # e "Am I?"
+    e ""
+
+# game/extras.rpy:1756
+translate portuguese extra_scene_44_23c99b26:
+
+    # e "So you like this?"
+    e ""
+
+# game/extras.rpy:1759
+translate portuguese extra_scene_44_4d6cc6d8:
+
+    # "My sister unclasped her bra and showed me her firm breasts."
+    ""
+
+# game/extras.rpy:1761
+translate portuguese extra_scene_44_5081bcef:
+
+    # "My girlfriend unclasped her bra and showed me her firm breasts."
+    ""
+
+# game/extras.rpy:1762
+translate portuguese extra_scene_44_f733bf22:
+
+    # c "I love this."
+    c ""
+
+# game/extras.rpy:1763
+translate portuguese extra_scene_44_5131871e:
+
+    # e "Good."
+    e ""
+
+# game/extras.rpy:1768
+translate portuguese extra_scene_44_b28aff87:
+
+    # "Her panties were next."
+    ""
+
+# game/extras.rpy:1769
+translate portuguese extra_scene_44_624a1bed:
+
+    # "Eva turned around, showing off her tight little ass, while I got out of my clothes too."
+    ""
+
+# game/extras.rpy:1770
+translate portuguese extra_scene_44_740e480c:
+
+    # "I couldn’t hold back any longer and took Eva into my arms to kiss her."
+    ""
+
+# game/extras.rpy:1772
+translate portuguese extra_scene_44_4c6fc53c:
+
+    # "When I was naked, my sister took hold of my erection and dropped to her knees."
+    ""
+
+# game/extras.rpy:1773
+translate portuguese extra_scene_44_d6c3fb3a:
+
+    # e "I’m going to make you feel good."
+    e ""
+
+# game/extras.rpy:1775
+translate portuguese extra_scene_44_c8c98f2f:
+
+    # "She licked my shaft at first, getting the entire length wet."
+    ""
+
+# game/extras.rpy:1777
+translate portuguese extra_scene_44_a3b892f5:
+
+    # "Then her lips wrapped around my dick and she began to suck me."
+    ""
+
+# game/extras.rpy:1778
+translate portuguese extra_scene_44_944670ed:
+
+    # c "Your mouth feel so good on me."
+    c ""
+
+# game/extras.rpy:1781
+translate portuguese extra_scene_44_dd1b7595:
+
+    # "My sister subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
+    ""
+
+# game/extras.rpy:1783
+translate portuguese extra_scene_44_c27d8ad0:
+
+    # "My girlfriend subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
+    ""
+
+# game/extras.rpy:1784
+translate portuguese extra_scene_44_b47e425a:
+
+    # c "That’s it, Eva, right there."
+    c ""
+
+# game/extras.rpy:1785
+translate portuguese extra_scene_44_1b0203fd:
+
+    # c "You’re going to make me cum so hard with your mouth."
+    c ""
+
+# game/extras.rpy:1787
+translate portuguese extra_scene_44_f1582b1a:
+
+    # "Eva swayed on her legs, possibly cramping up because of the position she was in."
+    ""
+
+# game/extras.rpy:1788
+translate portuguese extra_scene_44_00c088a6:
+
+    # c "Do you want me inside you, Eva?"
+    c ""
+
+# game/extras.rpy:1789
+translate portuguese extra_scene_44_c09ca473:
+
+    # c "I really want to fuck you."
+    c ""
+
+# game/extras.rpy:1791
+translate portuguese extra_scene_44_30372b29:
+
+    # "Eva hesitated, but kept blowing me, determined to get me to climax."
+    ""
+
+# game/extras.rpy:1793
+translate portuguese extra_scene_44_61cfbd25:
+
+    # "I wanted to do much more to my sister than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
+    ""
+
+# game/extras.rpy:1795
+translate portuguese extra_scene_44_7f815542:
+
+    # "I wanted to do much more to Eva than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
+    ""
+
+# game/extras.rpy:1797
+translate portuguese extra_scene_44_a6496f5c:
+
+    # "Whilst seated, I hefted Eva onto my lap and cupped her butt as she eased onto my hard cock."
+    ""
+
+# game/extras.rpy:1798
+translate portuguese extra_scene_44_c32818f9:
+
+    # e "Mmmm, that feels so good."
+    e ""
+
+# game/extras.rpy:1800
+translate portuguese extra_scene_44_b087c7fe:
+
+    # "Eva had prepared my dick with enough moisture, but my sister was dripping wet, so entering her felt as smooth as butter."
+    ""
+
+# game/extras.rpy:1802
+translate portuguese extra_scene_44_6bc180a4:
+
+    # "Eva had prepared my dick with enough moisture, but my girlfriend was dripping wet, so entering her felt as smooth as butter."
+    ""
+
+# game/extras.rpy:1804
+translate portuguese extra_scene_44_494da927:
+
+    # c "I love your pussy so much!"
+    c ""
+
+# game/extras.rpy:1806
+translate portuguese extra_scene_44_550c92e2:
+
+    # "We began to move, the length of my shaft stimulated by my sister’s tight slit."
+    ""
+
+# game/extras.rpy:1808
+translate portuguese extra_scene_44_2c4c60e6:
+
+    # "We began to move, the length of my shaft stimulated by my girlfriend’s tight slit."
+    ""
+
+# game/extras.rpy:1810
+translate portuguese extra_scene_44_8ec8b6dc:
+
+    # "Eva moaned loudly when I took one of her nipples in my mouth and licked the hard tip."
+    ""
+
+# game/extras.rpy:1811
+translate portuguese extra_scene_44_67c523eb:
+
+    # e "Don’t stop, please don’t stop fucking me!"
+    e ""
+
+# game/extras.rpy:1812
+translate portuguese extra_scene_44_94590da5:
+
+    # e "You fuck me so well!"
+    e ""
+
+# game/extras.rpy:1814
+translate portuguese extra_scene_44_daa42a96:
+
+    # "She was so wet, my cock slipped out of her cunt multiple times."
+    ""
+
+# game/extras.rpy:1815
+translate portuguese extra_scene_44_d82179ea:
+
+    # "We both made frustrated noises every time it happened, so I decided to do something about it the next time it happened."
+    ""
+
+# game/extras.rpy:1817
+translate portuguese extra_scene_44_f660876b:
+
+    # "I lifted Eva from my lap, turned her around and pulled her back on my cock again."
+    ""
+
+# game/extras.rpy:1819
+translate portuguese extra_scene_44_69df71eb:
+
+    # "My sister now rode me reverse cowgirl, allowing access to a whole new range of sensations."
+    ""
+
+# game/extras.rpy:1821
+translate portuguese extra_scene_44_a3b6af67:
+
+    # "My girlfriend now rode me reverse cowgirl, allowing access to a whole new range of sensations."
+    ""
+
+# game/extras.rpy:1823
+translate portuguese extra_scene_44_dad8cdf2:
+
+    # "Eva groaned when my cock buried itself deep into her dripping pussy."
+    ""
+
+# game/extras.rpy:1824
+translate portuguese extra_scene_44_aee5c221:
+
+    # e "Oh yes, fuck my tight little pussy!"
+    e ""
+
+# game/extras.rpy:1825
+translate portuguese extra_scene_44_a66c2965:
+
+    # e "Harder, please fuck me harder!"
+    e ""
+
+# game/extras.rpy:1826
+translate portuguese extra_scene_44_0900af78:
+
+    # "My hard methodical strokes were slowly but surely sending her over the edge."
+    ""
+
+# game/extras.rpy:1827
+translate portuguese extra_scene_44_1e069ce0:
+
+    # "Eva clenched her arm around my neck and moaned with each deep thrust."
+    ""
+
+# game/extras.rpy:1829
+translate portuguese extra_scene_44_f10ee58a:
+
+    # e "Oh [p_name_short], you’re making me-"
+    e ""
+
+# game/extras.rpy:1830
+translate portuguese extra_scene_44_939f830a:
+
+    # e "You’re-"
+    e ""
+
+# game/extras.rpy:1831
+translate portuguese extra_scene_44_86bbf7a8:
+
+    # e "Oh fuck, [p_name_short], I’m cumming!"
+    e ""
+
+# game/extras.rpy:1834
+translate portuguese extra_scene_44_39275fa9:
+
+    # "My sister orgasmed on my cock."
+    ""
+
+# game/extras.rpy:1836
+translate portuguese extra_scene_44_6bcd9859:
+
+    # "My girlfriend orgasmed on my cock."
+    ""
+
+# game/extras.rpy:1838
+translate portuguese extra_scene_44_5511662e:
+
+    # "Her slit flooded with juices and she held me even tighter, her climax shaking her to the core."
+    ""
+
+# game/extras.rpy:1839
+translate portuguese extra_scene_44_8e94ed12:
+
+    # "Fucking her convulsing pussy triggered the onset of my orgasm too."
+    ""
+
+# game/extras.rpy:1843
+translate portuguese extra_scene_44_6ab30c4e:
+
+    # c "I’m going to cum inside you, Eva!"
+    c ""
+
+# game/extras.rpy:1845
+translate portuguese extra_scene_44_2942ab8f:
+
+    # e "Yes, please fill my pregnant pussy!"
+    e ""
+
+# game/extras.rpy:1847
+translate portuguese extra_scene_44_a035132f:
+
+    # e "Yes, please fill my pussy!"
+    e ""
+
+# game/extras.rpy:1850
+translate portuguese extra_scene_44_d2968ec2:
+
+    # "I roared and blasted my sister’s pussy full of warm cum."
+    ""
+
+# game/extras.rpy:1852
+translate portuguese extra_scene_44_fb79feeb:
+
+    # "I roared and blasted my girlfriend’s pussy full of warm cum."
+    ""
+
+# game/extras.rpy:1853
+translate portuguese extra_scene_44_b2d7f9d5:
+
+    # "Squeezing her flesh, I continued to hold her, until every spurt of seed was inside her."
+    ""
+
+# game/extras.rpy:1856
+translate portuguese extra_scene_44_1734419a:
+
+    # "When my cock flopped from her cunt, semen started flowing out of her in thick globs."
+    ""
+
+# game/extras.rpy:1859
+translate portuguese extra_scene_44_f2d8a629:
+
+    # c "I’m going to cum all over you, Eva!"
+    c ""
+
+# game/extras.rpy:1860
+translate portuguese extra_scene_44_bfc2e875:
+
+    # e "Yes, please shoot it all on my body!"
+    e ""
+
+# game/extras.rpy:1863
+translate portuguese extra_scene_44_28c76a41:
+
+    # "I roared and blasted my cum all over my sister’s body."
+    ""
+
+# game/extras.rpy:1865
+translate portuguese extra_scene_44_b952ff7b:
+
+    # "I roared and blasted my cum all over my girlfriend’s body."
+    ""
+
+# game/extras.rpy:1868
+translate portuguese extra_scene_44_26312c9f:
+
+    # "Warm seed streaked her belly and breasts."
+    ""
+
+# game/extras.rpy:1871
+translate portuguese extra_scene_44_f182a1d1:
+
+    # c "I want you to cum in your mouth, Eva!"
+    c ""
+
+# game/extras.rpy:1873
+translate portuguese extra_scene_44_65653b5d:
+
+    # "On the verge of climaxing, Eva kneeled in front of me and licked my twitching cock."
+    ""
+
+# game/extras.rpy:1874
+translate portuguese extra_scene_44_a1ab0747:
+
+    # e "Please, shoot it all in my mouth."
+    e ""
+
+# game/extras.rpy:1877
+translate portuguese extra_scene_44_52d40234:
+
+    # "I roared and my sister quickly put my dick in her mouth."
+    ""
+
+# game/extras.rpy:1879
+translate portuguese extra_scene_44_be1c53fc:
+
+    # "I roared and my girlfriend quickly put my dick in her mouth."
+    ""
+
+# game/extras.rpy:1880
+translate portuguese extra_scene_44_bc0ddb15:
+
+    # "Warm cum blasted out of my cock and into her mouth."
+    ""
+
+# game/extras.rpy:1884
+translate portuguese extra_scene_44_64b3b8e7:
+
+    # "My sister gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
+    ""
+
+# game/extras.rpy:1886
+translate portuguese extra_scene_44_a6cae995:
+
+    # "My girlfriend gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
+    ""
+
+# game/extras.rpy:1888
+translate portuguese extra_scene_44_8ea8b541:
+
+    # "Smiling, she swallowed it all."
+    ""
+
+# game/extras.rpy:1890
+translate portuguese extra_scene_44_1277fdb4:
+
+    # "Both thoroughly satisfied, we made out in the chair for a while before dressing and returning to our daily routines."
+    ""
+
+# game/extras.rpy:1897
+translate portuguese extra_scene_45_da05018d:
+
+    # "Returning from the shower, I noticed I had a message from my mother requesting me to come to her quarters."
+    ""
+
+# game/extras.rpy:1899
+translate portuguese extra_scene_45_30a9a4c0:
+
+    # "Returning from the shower, I noticed I had a message from Nadya requesting me to come to her quarters."
+    ""
+
+# game/extras.rpy:1900
+translate portuguese extra_scene_45_ed1e5617:
+
+    # "I was fairly certain she didn’t want to discuss the current mission details with me, so I quickly put some clothes on and headed to her quarters."
+    ""
+
+# game/extras.rpy:1903
+translate portuguese extra_scene_45_244265e2:
+
+    # "When I opened the door, my mother was leaning against a book case, only dressed in her underwear."
+    ""
+
+# game/extras.rpy:1905
+translate portuguese extra_scene_45_67d94f58:
+
+    # "When I opened the door, Nadya was leaning against a book case, only dressed in her underwear."
+    ""
+
+# game/extras.rpy:1906
+translate portuguese extra_scene_45_8ac948f2:
+
+    # na "Oh hey [p_name_short], you’re quick."
+    na ""
+
+# game/extras.rpy:1908
+translate portuguese extra_scene_45_09805c2c:
+
+    # c "I always am when I know my mother is waiting for me in her spiciest lingerie."
+    c ""
+
+# game/extras.rpy:1910
+translate portuguese extra_scene_45_238ed13b:
+
+    # c "I always am when I know you’re is waiting for me in spicy lingerie."
+    c ""
+
+# game/extras.rpy:1911
+translate portuguese extra_scene_45_dfe59296:
+
+    # na "I’m glad you like what you’re seeing."
+    na ""
+
+# game/extras.rpy:1912
+translate portuguese extra_scene_45_80256382:
+
+    # c "I love what I’m seeing."
+    c ""
+
+# game/extras.rpy:1913
+translate portuguese extra_scene_45_39ae201a:
+
+    # c "You know what I really want?"
+    c ""
+
+# game/extras.rpy:1914
+translate portuguese extra_scene_45_8321e32f:
+
+    # na "No, tell me?"
+    na ""
+
+# game/extras.rpy:1916
+translate portuguese extra_scene_45_7b30d0f7:
+
+    # "I closed the door behind me and advanced on Nadya."
+    ""
+
+# game/extras.rpy:1917
+translate portuguese extra_scene_45_6fab0bb2:
+
+    # c "I want to taste your pussy and make you climax in my face."
+    c ""
+
+# game/extras.rpy:1918
+translate portuguese extra_scene_45_98e2f795:
+
+    # na "And I want you to."
+    na ""
+
+# game/extras.rpy:1919
+translate portuguese extra_scene_45_cb1f2fd0:
+
+    # na "What are we waiting for?"
+    na ""
+
+# game/extras.rpy:1920
+translate portuguese extra_scene_45_295bb550:
+
+    # c "Well, there’s one problem."
+    c ""
+
+# game/extras.rpy:1921
+translate portuguese extra_scene_45_9149406d:
+
+    # na "Oh?"
+    na ""
+
+# game/extras.rpy:1922
+translate portuguese extra_scene_45_f09bb314:
+
+    # c "It’s virtually impossible to move around here with all the books everywhere."
+    c ""
+
+# game/extras.rpy:1924
+translate portuguese extra_scene_45_36936914:
+
+    # "Nadya’s quarters resembled a very tiny library, maintained by a very untidy librarian."
+    ""
+
+# game/extras.rpy:1925
+translate portuguese extra_scene_45_055bf43b:
+
+    # c "It’s a small wonder you actually get to reach the bed each night."
+    c ""
+
+# game/extras.rpy:1926
+translate portuguese extra_scene_45_346881c8:
+
+    # na "Okay, okay, I’m putting them away already."
+    na ""
+
+# game/extras.rpy:1928
+translate portuguese extra_scene_45_ac64ac99:
+
+    # "She was virtually throwing books off the bed, very eager to get my tongue in her pussy."
+    ""
+
+# game/extras.rpy:1929
+translate portuguese extra_scene_45_d2c94b52:
+
+    # "A large stack of books nearly toppled over as she carried them to put them on the floor."
+    ""
+
+# game/extras.rpy:1930
+translate portuguese extra_scene_45_6bfdf829:
+
+    # c "Need help with that?"
+    c ""
+
+# game/extras.rpy:1931
+translate portuguese extra_scene_45_9741b7ef:
+
+    # na "Yes, please."
+    na ""
+
+# game/extras.rpy:1936
+translate portuguese extra_scene_45_a264ba39:
+
+    # "After clearing the bed of books, Nadya undressed and lay down."
+    ""
+
+# game/extras.rpy:1937
+translate portuguese extra_scene_45_44c0c90d:
+
+    # na "All ready for you now."
+    na ""
+
+# game/extras.rpy:1939
+translate portuguese extra_scene_45_e38fb39b:
+
+    # "I opened my mother’s legs and pushed them backward to give me better access to her cunt."
+    ""
+
+# game/extras.rpy:1941
+translate portuguese extra_scene_45_d5369cc7:
+
+    # "I opened Nadya’s legs and pushed them backward to give me better access to her cunt."
+    ""
+
+# game/extras.rpy:1943
+translate portuguese extra_scene_45_46f277f5:
+
+    # "Nadya moaned as I probed her slit with my tongue."
+    ""
+
+# game/extras.rpy:1944
+translate portuguese extra_scene_45_75f5d60c:
+
+    # "She was already wet and I slowly licked up the juices from her pussy."
+    ""
+
+# game/extras.rpy:1946
+translate portuguese extra_scene_45_139be819:
+
+    # na "Oh yes, [p_name_short]!"
+    na ""
+
+# game/extras.rpy:1947
+translate portuguese extra_scene_45_325fc8d5:
+
+    # na "That’s it, right there!"
+    na ""
+
+# game/extras.rpy:1949
+translate portuguese extra_scene_45_4000fbbf:
+
+    # "I alternated between sucking and licking her labia, sending waves of pleasure through her body."
+    ""
+
+# game/extras.rpy:1951
+translate portuguese extra_scene_45_ea9ef225:
+
+    # "When I lingered on her clit, my mother began to tremble violently."
+    ""
+
+# game/extras.rpy:1953
+translate portuguese extra_scene_45_3b6c8ec9:
+
+    # "When I lingered on her clit, Nadya began to tremble violently."
+    ""
+
+# game/extras.rpy:1955
+translate portuguese extra_scene_45_23ef1514:
+
+    # na "I want you hard cock inside me, [p_name_short]!"
+    na ""
+
+# game/extras.rpy:1956
+translate portuguese extra_scene_45_9e960a96:
+
+    # na "Fuck me, please!"
+    na ""
+
+# game/extras.rpy:1959
+translate portuguese extra_scene_45_56dee434:
+
+    # "Letting go of her legs, I moved on top of her and pressed my dick inside my mother’s pussy."
+    ""
+
+# game/extras.rpy:1961
+translate portuguese extra_scene_45_1c098f40:
+
+    # "Letting go of her legs, I moved on top of her and pressed my dick inside Nadya’s pussy."
+    ""
+
+# game/extras.rpy:1962
+translate portuguese extra_scene_45_424b637e:
+
+    # na "That’s it!"
+    na ""
+
+# game/extras.rpy:1963
+translate portuguese extra_scene_45_487de577:
+
+    # c "Mmmm, your pussy feels so good."
+    c ""
+
+# game/extras.rpy:1964
+translate portuguese extra_scene_45_d44e79a5:
+
+    # na "And you feel so good inside me."
+    na ""
+
+# game/extras.rpy:1966
+translate portuguese extra_scene_45_7dd0b39f:
+
+    # "Fuck your mother hard, [p_name_short]!"
+    ""
+
+# game/extras.rpy:1968
+translate portuguese extra_scene_45_4f61284f:
+
+    # "Fuck me hard, [p_name_short]!"
+    ""
+
+# game/extras.rpy:1970
+translate portuguese extra_scene_45_22a03cce:
+
+    # "I didn’t need any encouragement."
+    ""
+
+# game/extras.rpy:1971
+translate portuguese extra_scene_45_bfac44d5:
+
+    # "With bold measured strokes, I attacked her cunt."
+    ""
+
+# game/extras.rpy:1972
+translate portuguese extra_scene_45_5335c713:
+
+    # "The wet sounds of my dick burrowing deep inside her resounded through the room."
+    ""
+
+# game/extras.rpy:1974
+translate portuguese extra_scene_45_6d96cafd:
+
+    # na "Keep going!{w} Keep going!{w} I’m going to cum!"
+    na ""
+
+# game/extras.rpy:1976
+translate portuguese extra_scene_45_523c4485:
+
+    # "I didn’t stop thrusting, reducing my mother to whimpering cries of lust."
+    ""
+
+# game/extras.rpy:1978
+translate portuguese extra_scene_45_c4359c19:
+
+    # "I didn’t stop thrusting, reducing Nadya to whimpering cries of lust."
+    ""
+
+# game/extras.rpy:1980
+translate portuguese extra_scene_45_a27ad045:
+
+    # "Kissing her, she reached her climax."
+    ""
+
+# game/extras.rpy:1981
+translate portuguese extra_scene_45_c6a9e5f4:
+
+    # "Her pussy convulsed as her body shuddered, but I didn’t stop."
+    ""
+
+# game/extras.rpy:1982
+translate portuguese extra_scene_45_0d40c9cd:
+
+    # "My deep thrusts prolonged her orgasm for a good while."
+    ""
+
+# game/extras.rpy:1983
+translate portuguese extra_scene_45_a4a6eb45:
+
+    # na "Oh [p_name], I love your dick so much!"
+    na ""
+
+# game/extras.rpy:1984
+translate portuguese extra_scene_45_a7e277d3:
+
+    # na "Let me ride you, please!"
+    na ""
+
+# game/extras.rpy:1986
+translate portuguese extra_scene_45_e16e3de7:
+
+    # "When the throes of her orgasm had subsided, I pulled out of my mother and lay on my back."
+    ""
+
+# game/extras.rpy:1988
+translate portuguese extra_scene_45_9e1a81c1:
+
+    # "When the throes of her orgasm had subsided, I pulled out of Nadya and lay on my back."
+    ""
+
+# game/extras.rpy:1990
+translate portuguese extra_scene_45_ec38bf85:
+
+    # "Nadya squatted on top of my dick and allowed herself to be penetrated by me again."
+    ""
+
+# game/extras.rpy:1991
+translate portuguese extra_scene_45_8ef5edda:
+
+    # "She fucked me slow and intense, my full length stimulated by her wet pussy."
+    ""
+
+# game/extras.rpy:1993
+translate portuguese extra_scene_45_e380895b:
+
+    # "When I was buried deep inside her, my mother ground her pussy against my abdomen."
+    ""
+
+# game/extras.rpy:1995
+translate portuguese extra_scene_45_4f6e559e:
+
+    # "When I was buried deep inside her, Nadya ground her pussy against my abdomen."
+    ""
+
+# game/extras.rpy:1997
+translate portuguese extra_scene_45_a84f024a:
+
+    # c "Oh fuck, that feels so good."
+    c ""
+
+# game/extras.rpy:1998
+translate portuguese extra_scene_45_3e198932:
+
+    # na "Yes, does my pussy feel good?"
+    na ""
+
+# game/extras.rpy:1999
+translate portuguese extra_scene_45_93346968:
+
+    # c "Yes, keep riding me like that!"
+    c ""
+
+# game/extras.rpy:2002
+translate portuguese extra_scene_45_4c5cd7cf:
+
+    # "My mother’s large breasts swayed right in front of me, so I took hold and began to massage them."
+    ""
+
+# game/extras.rpy:2003
+translate portuguese extra_scene_45_21cd0769:
+
+    # na "I love your tits so much, mom."
+    na ""
+
+# game/extras.rpy:2005
+translate portuguese extra_scene_45_c1051920:
+
+    # "Nadya’s large breasts swayed right in front of me, so I took hold and began to massage them."
+    ""
+
+# game/extras.rpy:2006
+translate portuguese extra_scene_45_80dcdafa:
+
+    # na "I love your tits so much, Nadya."
+    na ""
+
+# game/extras.rpy:2007
+translate portuguese extra_scene_45_982c63c4:
+
+    # na "They’re all yours, baby."
+    na ""
+
+# game/extras.rpy:2008
+translate portuguese extra_scene_45_079d52ee:
+
+    # na "You can do anything to me, anything to make you cum!"
+    na ""
+
+# game/extras.rpy:2010
+translate portuguese extra_scene_45_e2cd59a5:
+
+    # "My orgasm was close, my mother’s tight slit made sure of that."
+    ""
+
+# game/extras.rpy:2014
+translate portuguese extra_scene_45_a98ba642:
+
+    # "There was no question where my seed would end up."
+    ""
+
+# game/extras.rpy:2017
+translate portuguese extra_scene_45_88f2e3d1:
+
+    # c "I want to make you pregnant, mom."
+    c ""
+
+# game/extras.rpy:2019
+translate portuguese extra_scene_45_39516bb0:
+
+    # c "I want to make you pregnant, Nadya."
+    c ""
+
+# game/extras.rpy:2020
+translate portuguese extra_scene_45_1ad90fb3:
+
+    # na "Yes, [p_name_short], breed my pussy."
+    na ""
+
+# game/extras.rpy:2023
+translate portuguese extra_scene_45_2528021b:
+
+    # c "I want to fill you up, mom."
+    c ""
+
+# game/extras.rpy:2025
+translate portuguese extra_scene_45_caceb0f2:
+
+    # c "I want to fill you up, Nadya."
+    c ""
+
+# game/extras.rpy:2026
+translate portuguese extra_scene_45_bcf1c4d4:
+
+    # na "Yes, [p_name_short], fill my pussy!"
+    na ""
+
+# game/extras.rpy:2027
+translate portuguese extra_scene_45_351fa52d:
+
+    # "Several thrusts later, my climax had arrived."
+    ""
+
+# game/extras.rpy:2028
+translate portuguese extra_scene_45_9f8272ff:
+
+    # c "I’m going to cum!"
+    c ""
+
+# game/extras.rpy:2029
+translate portuguese extra_scene_45_df45e3b2:
+
+    # c "I’m cumming!"
+    c ""
+
+# game/extras.rpy:2030
+translate portuguese extra_scene_45_d02e0daa:
+
+    # na "Yes, that’s it."
+    na ""
+
+# game/extras.rpy:2033
+translate portuguese extra_scene_45_241f094b:
+
+    # na "Put a baby inside your mother!"
+    na ""
+
+# game/extras.rpy:2035
+translate portuguese extra_scene_45_062f225a:
+
+    # na "Put a baby inside me!"
+    na ""
+
+# game/extras.rpy:2038
+translate portuguese extra_scene_45_29baad40:
+
+    # na "Fill your mother up!"
+    na ""
+
+# game/extras.rpy:2040
+translate portuguese extra_scene_45_a2120f82:
+
+    # na "Fill me up!"
+    na ""
+
+# game/extras.rpy:2043
+translate portuguese extra_scene_45_ac5eddb5:
+
+    # "Hot cum flooded my mother’s vagina."
+    ""
+
+# game/extras.rpy:2045
+translate portuguese extra_scene_45_3f6bb027:
+
+    # "Hot cum flooded Nadya’s vagina."
+    ""
+
+# game/extras.rpy:2046
+translate portuguese extra_scene_45_18970cb4:
+
+    # "She kept riding me until my cock ceased spewing cum and then she allowed me to pull out."
+    ""
+
+# game/extras.rpy:2050
+translate portuguese extra_scene_45_62ab9017:
+
+    # "My warm seed softly flowed from my mother’s gaping pussy."
+    ""
+
+# game/extras.rpy:2052
+translate portuguese extra_scene_45_58ce4e49:
+
+    # "My warm seed softly flowed from Nadya’s gaping pussy."
+    ""
+
+# game/extras.rpy:2056
+translate portuguese extra_scene_45_6e9d6d1d:
+
+    # "I wanted to mark my mother with my seed."
+    ""
+
+# game/extras.rpy:2057
+translate portuguese extra_scene_45_6b579e07:
+
+    # c "I want to shoot my cum all over your body, mom."
+    c ""
+
+# game/extras.rpy:2059
+translate portuguese extra_scene_45_9fbb9152:
+
+    # "I wanted to mark Nadya with my seed."
+    ""
+
+# game/extras.rpy:2060
+translate portuguese extra_scene_45_654ac753:
+
+    # c "I want to shoot my cum all over your body, Nadya."
+    c ""
+
+# game/extras.rpy:2061
+translate portuguese extra_scene_45_3a337e93:
+
+    # na "Yes, [p_name_short], make a mess of my body!"
+    na ""
+
+# game/extras.rpy:2063
+translate portuguese extra_scene_45_4111fb7e:
+
+    # "Several thrusts later, my climax arrived and I pulled out."
+    ""
+
+# game/extras.rpy:2067
+translate portuguese extra_scene_45_7a4a5920:
+
+    # "Hot cum splashed all over my mother’s back and butt."
+    ""
+
+# game/extras.rpy:2069
+translate portuguese extra_scene_45_1ed4fccc:
+
+    # "Hot cum splashed all over Nadya’s back and butt."
+    ""
+
+# game/extras.rpy:2071
+translate portuguese extra_scene_45_45657d78:
+
+    # "Exhausted, we cuddled together."
+    ""
+
+# game/extras.rpy:2072
+translate portuguese extra_scene_45_8cb27660:
+
+    # c "So this is what it takes to make you clean your room?"
+    c ""
+
+# game/extras.rpy:2073
+translate portuguese extra_scene_45_7a16a2cb:
+
+    # na "Yes, every time."
+    na ""
+
+# game/extras.rpy:2074
+translate portuguese extra_scene_45_2b538134:
+
+    # c "Just to be clear, that’s not a punishment at all."
+    c ""
+
+# game/extras.rpy:2076
+translate portuguese extra_scene_45_d2296f3d:
+
+    # "We needed to get ready for our arrival on Petrarch, so I left my mother’s quarters after kissing her goodbye."
+    ""
+
+# game/extras.rpy:2078
+translate portuguese extra_scene_45_34382141:
+
+    # "We needed to get ready for our arrival on Petrarch, so I left Nadya’s quarters after kissing her goodbye."
+    ""
+

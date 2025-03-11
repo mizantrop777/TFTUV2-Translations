@@ -14592,3 +14592,47 @@ translate portuguese ep020_jade_orgasm_b86bbd26:
     # "But I didn’t allow her to get her bearings and kept fucking her, in search for my own climax."
     "Mas eu não deixei ela se situar, e continuei metendo, em busca do meu próprio orgasmo."
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+# game/episode020.rpy:636
+translate portuguese ep020_paclerara_nadya_ab1ccf7c:
+
+    # c "Making you a mother would be a dream come true."
+    c ""
+
+# game/episode020.rpy:985
+translate portuguese ep020_paclerara_thyia_c4e2be81:
+
+    # th "Not unless you want your life expectancy to crash to ten percent."
+    th ""
+
+# game/episode020.rpy:1257
+translate portuguese ep020_pirate_rendevous_e0e9a782:
+
+    # "Thyia was the first to sit up."
+    ""
+
+# game/episode020.rpy:2628
+translate portuguese ep020_paclerara_eva_87add7cf:
+
+    # c "More likely I would have been court-martialled immediately over some stupid transgression."
+    c ""
+
+# game/episode020.rpy:2797
+translate portuguese ep020_lilly_aven_sex_e92026ec:
+
+    # "Aven bent her knees slightly and hovered on top of her friend’s face."
+    ""
+
+# game/episode020.rpy:3109
+translate portuguese ep020_l_av_fucking_dea32d45:
+
+    # "Thick strands of warm cum splashed all over Aven’s back."
+    ""
+
+# game/episode020.rpy:3336
+translate portuguese ep020_eva_sex_b5f99b95_1:
+
+    # "I made my last rapid thrusts, driving Eva over the edge."
+    ""
+

@@ -9134,3 +9134,23 @@ translate portuguese strings:
     old "Episode 17"
     new "Episódio 17"
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+# game/episode017.rpy:1588
+translate portuguese ep017_celine_3acd41e7:
+
+    # "Do you want to be able to have anal sex with Céline?"
+    ""
+
+# game/episode017.rpy:1592
+translate portuguese ep017_celine_ef35d6d6:
+
+    # "Anal enabled"
+    ""
+
+# game/episode017.rpy:1595
+translate portuguese ep017_celine_aa7e8d37:
+
+    # "Anal disabled"
+    ""
+

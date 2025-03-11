@@ -6328,3 +6328,11 @@ translate portuguese ep013_nadya_talk_9caa56ec:
     # na "Some of it is Acarhyn history, an interesting but gruesome read."
     na "Alguns são sobre história Acarhyn, interessante, mas violenta."
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+# game/episode013_conversations.rpy:976
+translate portuguese ep013_celine_second_talk_b624faf9:
+
+    # "Céline fell back into her seat, looking incredulously at me."
+    ""
+

@@ -1696,3 +1696,125 @@ translate portuguese breakup_nadya_df277e26:
     # na "You’ve had your taste and now want something else."
     na "Você teve sua diversão agora quer outra coisa."
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+# game/breakups.rpy:399
+translate portuguese breakup_eva_1260debe:
+
+    # "Eva was waiting for me with such a hopeful expression on her face that I nearly couldn’t go through with it."
+    ""
+
+# game/breakups.rpy:400
+translate portuguese breakup_eva_b1f8097e:
+
+    # e "Hey, what’s on your mind?"
+    e ""
+
+# game/breakups.rpy:401
+translate portuguese breakup_eva_0ce8d137:
+
+    # c "I need to talk about us, Eva."
+    c ""
+
+# game/breakups.rpy:403
+translate portuguese breakup_eva_3388a208:
+
+    # e "Oh..."
+    e ""
+
+# game/breakups.rpy:404
+translate portuguese breakup_eva_0f96d88c:
+
+    # e "That doesn’t sound good."
+    e ""
+
+# game/breakups.rpy:405
+translate portuguese breakup_eva_0add9b0f:
+
+    # c "I’m breaking up with you."
+    c ""
+
+# game/breakups.rpy:407
+translate portuguese breakup_eva_394bcc56:
+
+    # e "What?!"
+    e ""
+
+# game/breakups.rpy:408
+translate portuguese breakup_eva_d4993d94:
+
+    # e "But..."
+    e ""
+
+# game/breakups.rpy:409
+translate portuguese breakup_eva_1ea97b2d:
+
+    # e "Why?"
+    e ""
+
+# game/breakups.rpy:410
+translate portuguese breakup_eva_72f0b015:
+
+    # c "I’m being forced to make a choice and I’m choosing her."
+    c ""
+
+# game/breakups.rpy:412
+translate portuguese breakup_eva_d0bb04b8:
+
+    # e "But we had something special together!"
+    e ""
+
+# game/breakups.rpy:414
+translate portuguese breakup_eva_4dadb6ee:
+
+    # e "You wanted children with me?!"
+    e ""
+
+# game/breakups.rpy:415
+translate portuguese breakup_eva_3c45660b:
+
+    # e "How could you do such a thing like this?"
+    e ""
+
+# game/breakups.rpy:416
+translate portuguese breakup_eva_391009d5:
+
+    # c "I’m sorry, Eva."
+    c ""
+
+# game/breakups.rpy:417
+translate portuguese breakup_eva_4e60d810:
+
+    # e "There’s no chance you’ll reconsider?"
+    e ""
+
+# game/breakups.rpy:418
+translate portuguese breakup_eva_51fa8c9a:
+
+    # c "No, this is final."
+    c ""
+
+# game/breakups.rpy:420
+translate portuguese breakup_eva_81959a5c:
+
+    # e "Go away then."
+    e ""
+
+# game/breakups.rpy:421
+translate portuguese breakup_eva_a8dd7e4b:
+
+    # e "I don’t want you here."
+    e ""
+
+# game/breakups.rpy:422
+translate portuguese breakup_eva_35a18b0a:
+
+    # e "Go!"
+    e ""
+
+# game/breakups.rpy:424
+translate portuguese breakup_eva_b04ca312:
+
+    # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
+    ""
+

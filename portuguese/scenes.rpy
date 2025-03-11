@@ -242,3 +242,51 @@ translate portuguese strings:
     old "Poolside Plow"
     new "Pegando na Piscina"
 
+# TODO: Translation updated at 2025-01-21 10:59
+
+translate portuguese strings:
+
+    # game/scenes.rpy:3
+    old "Eva Evening"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Breeding the Books"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Episode #21"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Intercourse In Transit"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Attendant Arousal"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Ramrod Raene"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Four Is A Crowd"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Over By The Window"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Coitus"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Corruption"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Shagging After Showering"
+    new ""
+
