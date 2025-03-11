@@ -4720,3 +4720,29 @@ translate french strings:
     old "Don’t want kids"
     new ""
 
+# TODO: Translation updated at 2025-02-27 12:49
+
+# game/episode016_conversations.rpy:411
+translate french ep016_thyia_talk_6463c945:
+
+    # "For the duration of our stay, Thyia mostly stayed on the Bastard."
+    ""
+
+# game/episode016_conversations.rpy:413
+translate french ep016_thyia_talk_c0d66333:
+
+    # "For the duration of our stay, Thyia mostly remained holed up in the engine room."
+    ""
+
+# game/episode016_conversations.rpy:414
+translate french ep016_thyia_talk_fe0db63e:
+
+    # "She was working on something and that seemed to take up most of her time."
+    ""
+
+# game/episode016_conversations.rpy:416
+translate french ep016_thyia_talk_da20415c:
+
+    # "I went to check up on her."
+    ""
+

@@ -526,3 +526,11 @@ translate french strings:
     old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
     new ""
 
+# TODO: Translation updated at 2025-02-27 12:49
+
+translate french strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new ""
+

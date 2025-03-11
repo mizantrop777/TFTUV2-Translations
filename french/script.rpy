@@ -198,3 +198,19 @@ translate french strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new ""
 
+# TODO: Translation updated at 2025-02-27 12:49
+
+translate french strings:
+
+    # game/script.rpy:538
+    old "Character Selection"
+    new ""
+
+    # game/script.rpy:545
+    old "Who participates in this scene?"
+    new ""
+
+    # game/script.rpy:603
+    old "Select at least two characters."
+    new ""
+

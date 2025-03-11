@@ -6436,3 +6436,11 @@ translate french strings:
     old "Suck her"
     new ""
 
+# TODO: Translation updated at 2025-02-27 12:49
+
+# game/episode016.rpy:818
+translate french ep016_scolguin_fleet_11b72724:
+
+    # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
+    c ""
+
