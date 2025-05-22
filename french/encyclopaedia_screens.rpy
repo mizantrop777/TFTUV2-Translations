@@ -1,16 +1,14 @@
-﻿# TODO: Translation updated at 2023-02-09 21:53
-
 translate french strings:
 
-    # game/encyclopaedia_screens.rpy:113
+
     old "Filters"
-    new ""
+    new "Filtres"
 
-    # game/encyclopaedia_screens.rpy:119
+
     old "All"
-    new ""
+    new "Tous"
 
-    # game/encyclopaedia_screens.rpy:158
+
     old "Codex: {0}"
-    new ""
-
+    new "Codex : {0}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

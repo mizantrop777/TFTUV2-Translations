@@ -1,8106 +1,8110 @@
-﻿# TODO: Translation updated at 2024-12-11 22:09
 
-# game/episode017.rpy:39
 translate french episode017_7dae5baa:
 
-    # centered "{=chapter_heading}EPISODE 17{/=chapter_heading}"
-    centered ""
 
-# game/episode017.rpy:42
+    centered "{=chapter_heading}ÉPISODE 17{/=chapter_heading}"
+
+
 translate french episode017_0c7be47a:
 
-    # bl "The Taagmar resistance can only be described as pathetic."
-    bl ""
 
-# game/episode017.rpy:43
+    bl "La résistance des Taagmar ne peut être qualifiée que de pathétique."
+
+
 translate french episode017_8db4cb49:
 
-    # ag "Then why are our forces taking so much time to subjugate those vermin?"
-    ag ""
 
-# game/episode017.rpy:45
+    ag "Alors pourquoi nos forces mettent-elles autant de temps à soumettre cette vermine ?"
+
+
 translate french episode017_e8e0963a:
 
-    # bl "What they lack in technological advancement and battle skill, they make up in sheer numbers."
-    bl ""
 
-# game/episode017.rpy:47
+    bl "Ce qui leur manque en matière d'avancée technologique et d'habileté au combat, ils le compensent par leur nombre."
+
+
 translate french episode017_52cb83be:
 
-    # ag "We should have just bombed the planet into oblivion."
-    ag ""
 
-# game/episode017.rpy:48
+    ag "Nous aurions dû bombarder la planète jusqu'à ce qu'elle disparaisse."
+
+
 translate french episode017_7277e65e:
 
-    # bl "And risk destroying the gateway?"
-    bl ""
 
-# game/episode017.rpy:49
+    bl "Et risquer de détruire la passerelle ?"
+
+
 translate french episode017_5a996777:
 
-    # ag "Fair enough."
-    ag ""
 
-# game/episode017.rpy:51
+    ag "C'est une bonne chose."
+
+
 translate french episode017_b36703d6:
 
-    # ag "Though I'm beginning to suspect the gateway isn't here."
-    ag ""
 
-# game/episode017.rpy:52
+    ag "Mais je commence à soupçonner que le portail n'est pas ici."
+
+
 translate french episode017_11f128a0:
 
-    # bl "Our analysts say that the structure is likely located here, where the fighting is the most intense."
-    bl ""
 
-# game/episode017.rpy:53
+    bl "Nos analystes disent que la structure se trouve probablement ici, là où les combats sont les plus intenses."
+
+
 translate french episode017_745db60b:
 
-    # bl "Almost as if they're trying to defend something more than just the city."
-    bl ""
 
-# game/episode017.rpy:55
+    bl "C'est comme s'ils essayaient de défendre quelque chose de plus que la ville."
+
+
 translate french episode017_b8235af6:
 
-    # ag "It doesn't look like much from here."
-    ag ""
 
-# game/episode017.rpy:56
+    ag "Ça ne ressemble pas à grand-chose d'ici."
+
+
 translate french episode017_3f9cf79c:
 
-    # ag "How soon will we capture the place?"
-    ag ""
 
-# game/episode017.rpy:58
+    ag "Dans combien de temps allons-nous nous emparer de l'endroit ?"
+
+
 translate french episode017_e47bd169:
 
-    # bl "It should be a matter of days."
-    bl ""
 
-# game/episode017.rpy:59
+    bl "Ce devrait être une question de jours."
+
+
 translate french episode017_a3be9cda:
 
-    # ag "Good."
-    ag ""
 
-# game/episode017.rpy:61
+    ag "C'est bien."
+
+
 translate french episode017_bf224be0:
 
-    # bl "One of the soldiers wants a word."
-    bl ""
 
-# game/episode017.rpy:62
+    bl "L'un des soldats veut te parler."
+
+
 translate french episode017_b0ca6d39:
 
-    # ag "Yes, what is it, corporal?"
-    ag ""
 
-# game/episode017.rpy:64
+    ag "Oui, qu'y a-t-il, caporal ?"
+
+
 translate french episode017_2dc253b1:
 
-    # man "Sir, your presence on the Ypotryll is urgently requested."
-    man ""
 
-# game/episode017.rpy:65
+    man "Monsieur, votre présence sur l'Ypotryll est requise de toute urgence."
+
+
 translate french episode017_c44b4abb:
 
-    # man "The XO is reporting two uninvited visitors on the bridge."
-    man ""
 
-# game/episode017.rpy:66
+    man "Le second signale la présence de deux visiteurs non invités sur le pont."
+
+
 translate french episode017_8c0fc2f4:
 
-    # ag "Uninvited visitors?"
-    ag ""
 
-# game/episode017.rpy:67
+    ag "Des visiteurs non invités ?"
+
+
 translate french episode017_59bcfdb3:
 
-    # man "Yes sir, they're waiting for you."
-    man ""
 
-# game/episode017.rpy:68
+    man "Oui monsieur, ils vous attendent."
+
+
 translate french episode017_41058076:
 
-    # man "No further information was provided."
-    man ""
 
-# game/episode017.rpy:70
+    man "Aucune autre information n'a été fournie."
+
+
 translate french episode017_d851d87e:
 
-    # ag "Take us back to the transport."
-    ag ""
 
-# game/episode017.rpy:72
+    ag "Ramenez-nous au transport."
+
+
 translate french episode017_eea10495:
 
-    # ag "What is the meaning of this?"
-    ag ""
 
-# game/episode017.rpy:73
+    ag "Qu'est-ce que cela signifie ?"
+
+
 translate french episode017_6a9f25a6:
 
-    # ag "Where are all the bridge personnel?"
-    ag ""
 
-# game/episode017.rpy:75
+    ag "Où sont tous les membres du personnel de la passerelle ?"
+
+
 translate french episode017_f70600ce:
 
-    # co "No need to worry, they are unharmed."
-    co ""
 
-# game/episode017.rpy:77
+    co "Ne vous inquiétez pas, ils sont sains et saufs."
+
+
 translate french episode017_639a4182:
 
-    # ag "I'll ask again, what are you and this...{w} whore doing here?"
-    ag ""
 
-# game/episode017.rpy:79
+    ag "Je vous le redemande, qu'est-ce que vous et cette...{w} pute faites ici ?"
+
+
 translate french episode017_4b23adea:
 
-    # er "I’ve killed people for uttering lesser insults!"
-    er ""
 
-# game/episode017.rpy:80
+    er "J'ai tué des gens pour avoir proféré des insultes moins graves !"
+
+
 translate french episode017_863995f4:
 
-    # er "I am-"
-    er ""
 
-# game/episode017.rpy:82
+    er "Je suis..."
+
+
 translate french episode017_c5a4da15:
 
-    # co "Easy now, Erylin, we'll let this slide."
-    co ""
 
-# game/episode017.rpy:84
+    co "Doucement, Erylin, nous allons laisser passer ça."
+
+
 translate french episode017_a85954a5:
 
-    # er "We've come here with a proposition."
-    er ""
 
-# game/episode017.rpy:86
+    er "Nous sommes venus ici avec une proposition."
+
+
 translate french episode017_664afc79:
 
-    # ag "I have no interest in hearing anything."
-    ag ""
 
-# game/episode017.rpy:87
+    ag "Je n'ai aucune envie d'entendre quoi que ce soit."
+
+
 translate french episode017_015b84a5:
 
-    # ag "Shoot them!"
-    ag ""
 
-# game/episode017.rpy:88
+    ag "Abattez-les !"
+
+
 translate french episode017_8f6baa3e:
 
-    # co "I wouldn't do that, if I were you."
-    co ""
 
-# game/episode017.rpy:92
+    co "Je ne ferais pas ça, si j'étais vous."
+
+
 translate french episode017_72e99132:
 
-    # ag "How...{w} how did you..."
-    ag ""
 
-# game/episode017.rpy:94
+    ag "Comment...{w} comment avez-vous..."
+
+
 translate french episode017_b595bb13:
 
-    # co "It doesn't matter."
-    co ""
 
-# game/episode017.rpy:96
+    co "Ça n'a pas d'importance."
+
+
 translate french episode017_449ba4b0:
 
-    # ag "You've just killed two of my men without a weapon, of course it matters."
-    ag ""
 
-# game/episode017.rpy:98
+    ag "Vous venez de tuer deux de mes hommes sans arme, bien sûr que c'est important."
+
+
 translate french episode017_691c6bda:
 
-    # co "I wish you no harm."
-    co ""
 
-# game/episode017.rpy:99
+    co "Je ne vous veux aucun mal."
+
+
 translate french episode017_05686666:
 
-    # co "But that could change, if you insist on acting stupid."
-    co ""
 
-# game/episode017.rpy:100
+    co "Mais cela pourrait changer, si vous persistez à agir de manière stupide."
+
+
 translate french episode017_18fc182d:
 
-    # co "You're not a stupid man, now are you, Mr. Valenmann de Lonval?"
-    co ""
 
-# game/episode017.rpy:102
+    co "Vous n'êtes pas un homme stupide, n'est-ce pas, monsieur Valenmann de Lonval ?"
+
+
 translate french episode017_318443b0:
 
-    # ag "What do you want?"
-    ag ""
 
-# game/episode017.rpy:104
+    ag "Qu'est-ce que vous voulez ?"
+
+
 translate french episode017_7390abb4:
 
-    # co "The same thing you want."
-    co ""
 
-# game/episode017.rpy:105
+    co "La même chose que vous."
+
+
 translate french episode017_c7d9b213:
 
-    # co "Access to that gateway on the planet's surface."
-    co ""
 
-# game/episode017.rpy:107
+    co "Accéder à cette passerelle à la surface de la planète."
+
+
 translate french episode017_b3905fa3:
 
-    # ag "The planet is under Sovereignty control and that gateway is mine."
-    ag ""
 
-# game/episode017.rpy:109
+    ag "La planète est sous le contrôle de la Souveraineté et ce portail est le mien."
+
+
 translate french episode017_8c0db085:
 
-    # co "Do you know what lies beyond the gateway, Mr. Valenmann de Lonval?"
-    co ""
 
-# game/episode017.rpy:111
+    co "Savez-vous ce qui se trouve au-delà du portail, M. Valenmann de Lonval ?"
+
+
 translate french episode017_dc662a8f:
 
-    # ag "Of course I do."
-    ag ""
 
-# game/episode017.rpy:113
+    ag "Bien sûr que je le sais."
+
+
 translate french episode017_5e260294:
 
-    # co "Don't lie to me, sir."
-    co ""
 
-# game/episode017.rpy:114
+    co "Ne me mentez pas, monsieur."
+
+
 translate french episode017_1a43175b:
 
-    # co "The prophecy is quite unclear on what lies beyond the gateway, and it has been a mystery to scholars for centuries."
-    co ""
 
-# game/episode017.rpy:116
+    co "La prophétie n'est pas très claire sur ce qui se trouve au-delà du portail, et c'est un mystère pour les érudits depuis des siècles."
+
+
 translate french episode017_7aa54a98:
 
-    # ag "Is that so..."
-    ag ""
 
-# game/episode017.rpy:118
+    ag "C'est ainsi..."
+
+
 translate french episode017_b68b7ea1:
 
-    # co "Except, to me it is a mystery no longer."
-    co ""
 
-# game/episode017.rpy:119
+    co "Mais pour moi, ce n'est plus un mystère."
+
+
 translate french episode017_c3744349:
 
-    # co "I know what lies beyond the gate and I'd be willing to share the knowledge with you, in exchange for access."
-    co ""
 
-# game/episode017.rpy:120
+    co "Je sais ce qui se trouve au-delà de la porte et je serais prêt à partager mes connaissances avec vous, en échange d'un accès."
+
+
 translate french episode017_db55d8e3:
 
-    # ag "How generous of you."
-    ag ""
 
-# game/episode017.rpy:122
+    ag "C'est très généreux de votre part."
+
+
 translate french episode017_de9bc6bb:
 
-    # co "I can assure you that our arrangement will be beneficial to both of us."
-    co ""
 
-# game/episode017.rpy:124
+    co "Je peux vous assurer que notre arrangement sera bénéfique pour nous deux."
+
+
 translate french episode017_41d02552:
 
-    # ag "Hmmm, maybe we should discuss this further."
-    ag ""
 
-# game/episode017.rpy:125
+    ag "Hmmm, peut-être devrions-nous en discuter davantage."
+
+
 translate french episode017_843d77d5:
 
-    # co "I knew you'd be interested, Mr. Valenmann de Lonval."
-    co ""
 
-# game/episode017.rpy:127
+    co "Je savais que vous seriez intéressé, M. Valenmann de Lonval."
+
+
 translate french episode017_cf240224:
 
-    # bl "Why don't we continue this conversation in one of the board rooms, in the comfort of some refreshments and privacy."
-    bl ""
 
-# game/episode017.rpy:128
+    bl "Pourquoi ne pas poursuivre cette conversation dans l'une des salles du conseil, dans le confort de quelques rafraîchissements et dans l'intimité."
+
+
 translate french episode017_f22d59dc:
 
-    # co "A most excellent idea."
-    co ""
 
-# game/episode017.rpy:217
+    co "C'est une excellente idée."
+
+
 translate french ep017_docks_encounter_d8564c8a:
 
-    # "Gathering information turned out to be a frustrating exercise."
-    ""
 
-# game/episode017.rpy:218
+    "La collecte d'informations s'est avérée être un exercice frustrant."
+
+
 translate french ep017_docks_encounter_c3d184e1:
 
-    # "Most of the refugees were too shell-shocked to even acknowledge my presence, let alone talk about their experiences."
-    ""
 
-# game/episode017.rpy:219
+    "La plupart des réfugiés étaient trop choqués pour reconnaître ma présence, et encore moins pour parler de leurs expériences."
+
+
 translate french ep017_docks_encounter_7a75bb90:
 
-    # "The staff of the station were either disinterested or relied on gossip and hearsay."
-    ""
 
-# game/episode017.rpy:220
+    "Le personnel de la station était soit désintéressé, soit s'en remettait aux ragots et aux on-dit."
+
+
 translate french ep017_docks_encounter_5cb6bdc3:
 
-    # "One common thread was that the brunt of the Sovereignty invasion focused heavily on the area near the capital."
-    ""
 
-# game/episode017.rpy:221
+    "Un point commun : l'invasion de la Souveraineté s'est concentrée sur la région proche de la capitale."
+
+
 translate french ep017_docks_encounter_dd39f27c:
 
-    # "Most of the other cities on the Taagmar home planet had already turned to rubble, but so far the capital had evaded major damage."
-    ""
 
-# game/episode017.rpy:222
+    "La plupart des autres villes de la planète d'origine des Taagmar étaient déjà réduites à l'état de ruines, mais jusqu'à présent, la capitale n'avait pas subi de dégâts majeurs."
+
+
 translate french ep017_docks_encounter_63c6d594:
 
-    # "It was as if the Sovereignty took extra care not to damage the main city of the Taagmar too much."
-    ""
 
-# game/episode017.rpy:223
+    "C'était comme si la Souveraineté avait pris soin de ne pas trop endommager la ville principale des Taagmar."
+
+
 translate french ep017_docks_encounter_20b13e64:
 
-    # "I doubted this behavior had sprung out of humanitarian concerns..."
-    ""
 
-# game/episode017.rpy:228
+    "Je doute que ce comportement ait été motivé par des préoccupations humanitaires..."
+
+
 translate french ep017_docks_encounter_9d2a7974:
 
-    # "Supposedly, some of the Taagmar government officials had fled the planet during the assault and were holed up somewhere on the station."
-    ""
 
-# game/episode017.rpy:229
+    "Il paraît que certains représentants du gouvernement des Taagmar ont fui la planète pendant l'assaut et se sont retranchés quelque part dans la station."
+
+
 translate french ep017_docks_encounter_b438969d:
 
-    # "So far, none of the crew had any luck of establishing contact with them."
-    ""
 
-# game/episode017.rpy:232
+    "Jusqu'à présent, aucun membre de l'équipage n'a réussi à entrer en contact avec eux."
+
+
 translate french ep017_docks_encounter_da8cbc6f:
 
-    # "I met up with Lilly and Vess, and together we walked back to our ship."
-    ""
 
-# game/episode017.rpy:235
+    "J'ai retrouvé Lilly et Vess, et nous avons marché ensemble jusqu'à notre vaisseau."
+
+
 translate french ep017_docks_encounter_1506b142:
 
-    # "I met up with Lilly, and together we walked back to our ship."
-    ""
 
-# game/episode017.rpy:236
+    "J'ai retrouvé Lilly et nous avons marché ensemble jusqu'à notre vaisseau."
+
+
 translate french ep017_docks_encounter_e724825d:
 
-    # l "It’s tragic seeing all these people here, stranded and without a home."
-    l ""
 
-# game/episode017.rpy:238
+    l "C'est tragique de voir tous ces gens ici, bloqués et sans maison."
+
+
 translate french ep017_docks_encounter_2b5b2c30:
 
-    # ve "I wonder if they’ll ever be able to return to their home world."
-    ve ""
 
-# game/episode017.rpy:240
+    ve "Je me demande s'ils pourront un jour retourner dans leur monde d'origine."
+
+
 translate french ep017_docks_encounter_8d20336f:
 
-    # l "I wonder if they’ll ever be able to return to their home world."
-    l ""
 
-# game/episode017.rpy:241
+    l "Je me demande s'ils pourront un jour retourner dans leur monde d'origine."
+
+
 translate french ep017_docks_encounter_a69b55e2:
 
-    # c "That’s the question."
-    c ""
 
-# game/episode017.rpy:242
+    c "Telle est la question."
+
+
 translate french ep017_docks_encounter_7274fbbe:
 
-    # c "The Sovereignty tends to be very thorough when they decide to ransack a world."
-    c ""
 
-# game/episode017.rpy:243
+    c "La Souveraineté a tendance à être très minutieuse lorsqu'elle décide de saccager un monde."
+
+
 translate french ep017_docks_encounter_83f0ecd3:
 
-    # l "Let’s just hope they lose interest quickly."
-    l ""
 
-# game/episode017.rpy:247
+    l "Espérons qu'ils se désintéressent rapidement de la question."
+
+
 translate french ep017_docks_encounter_d522acc4:
 
-    # man "Hey!{w} How much for the redhead and the blonde?"
-    man ""
 
-# game/episode017.rpy:250
+    man "Hé !{w} Combien pour la rousse et la blonde ?"
+
+
 translate french ep017_docks_encounter_053e8f14:
 
-    # man "Hey!{w} How much for the redhead?"
-    man ""
 
-# game/episode017.rpy:251
+    man "Hé !{w} Combien pour la rousse ?"
+
+
 translate french ep017_docks_encounter_fcf43f59:
 
-    # c "I’m sorry, what?"
-    c ""
 
-# game/episode017.rpy:254
+    c "Je suis désolé, quoi ?"
+
+
 translate french ep017_docks_encounter_f53983b8:
 
-    # man "Just the redhead or the blonde suits me just fine as well."
-    man ""
 
-# game/episode017.rpy:255
+    man "La rousse ou la blonde me conviennent tout aussi bien."
+
+
 translate french ep017_docks_encounter_b332deaa:
 
-    # man "I’ll be sure to give them a night to remember."
-    man ""
 
-# game/episode017.rpy:256
+    man "Je vais m'assurer de leur faire passer une nuit inoubliable."
+
+
 translate french ep017_docks_encounter_8282a00c:
 
-    # "Both Lilly and Vess were too stunned to respond, just staring at the leering alien."
-    ""
 
-# game/episode017.rpy:258
+    "Lilly et Vess étaient toutes deux trop stupéfaites pour répondre, se contentant de fixer l'extraterrestre qui les reluquait."
+
+
 translate french ep017_docks_encounter_81d31d22:
 
-    # man "That redhead just looks so fine.{w} How much?"
-    man ""
 
-# game/episode017.rpy:259
+    man "Cette rousse a l'air tellement bien.{w} Combien ?"
+
+
 translate french ep017_docks_encounter_1c1cb7cb:
 
-    # man "I’ll be sure to give her a night to remember."
-    man ""
 
-# game/episode017.rpy:260
+    man "Je vais m'assurer de lui offrir une nuit inoubliable."
+
+
 translate french ep017_docks_encounter_d4e493b5:
 
-    # "Lilly was too stunned to respond, just staring at the leering alien."
-    ""
 
-# game/episode017.rpy:266
+    "Lilly était trop stupéfaite pour répondre, elle se contentait de fixer l'extraterrestre qui la regardait avec insistance."
+
+
 translate french ep017_docks_encounter_db0bd0ac:
 
-    # c "What did you just say about my sister and friend?"
-    c ""
 
-# game/episode017.rpy:268
+    c "Qu'est-ce que tu viens de dire à propos de ma sœur et de mon amie ?"
+
+
 translate french ep017_docks_encounter_9cb84c66:
 
-    # c "What did you just say about my friends?"
-    c ""
 
-# game/episode017.rpy:269
+    c "Qu'est-ce que tu viens de dire à propos de mes amis ?"
+
+
 translate french ep017_docks_encounter_2eea0b44:
 
-    # man "All I’m saying is that I’ll pay good money for one of those whores."
-    man ""
 
-# game/episode017.rpy:272
+    man "Tout ce que je dis, c'est que je paierais cher pour une de ces putes."
+
+
 translate french ep017_docks_encounter_c6ebe7b7:
 
-    # c "What did you just say about my sister?"
-    c ""
 
-# game/episode017.rpy:274
+    c "Qu'est-ce que tu viens de dire à propos de ma sœur ?"
+
+
 translate french ep017_docks_encounter_364bba5c:
 
-    # c "What did you just say about my friend?"
-    c ""
 
-# game/episode017.rpy:275
+    c "Qu'est-ce que tu viens de dire à propos de mon amie ?"
+
+
 translate french ep017_docks_encounter_c011ed3a:
 
-    # man "All I’m saying is that I’ll pay good money for that whore."
-    man ""
 
-# game/episode017.rpy:280
+    man "Tout ce que je dis, c'est que je paierai cher pour cette pute."
+
+
 translate french ep017_docks_encounter_5080931e:
 
-    # c "You’ll take that back right now, or I’ll push you into one of the engines of your ship, and I’ll make sure it’s running when I do."
-    c ""
 
-# game/episode017.rpy:282
+    c "Tu vas la reprendre tout de suite, ou je te pousse dans l'un des moteurs de ton vaisseau, et je m'assurerai qu'il est en marche quand je le ferai."
+
+
 translate french ep017_docks_encounter_1d6d740c:
 
-    # man "Now, now, no need to be so confrontational."
-    man ""
 
-# game/episode017.rpy:285
+    man "Maintenant, maintenant, pas besoin d'être si conflictuel."
+
+
 translate french ep017_docks_encounter_668d0c63:
 
-    # man "I’m sorry, ladies."
-    man ""
 
-# game/episode017.rpy:286
+    man "Je suis désolé, mesdames."
+
+
 translate french ep017_docks_encounter_e4ca96c2:
 
-    # man "Now that I see you up close, I can tell you’re right honorable women."
-    man ""
 
-# game/episode017.rpy:288
+    man "Maintenant que je vous vois de près, je peux dire que vous êtes des femmes honorables."
+
+
 translate french ep017_docks_encounter_145946ee:
 
-    # man "I’m sorry, lady."
-    man ""
 
-# game/episode017.rpy:289
+    man "Je suis désolé, mesdames."
+
+
 translate french ep017_docks_encounter_b4ddbd49:
 
-    # man "Now that I see you up close, I can tell you’re a right honorable woman."
-    man ""
 
-# game/episode017.rpy:290
+    man "Maintenant que je vous vois de près, je peux dire que vous êtes une femme tout à fait honorable."
+
+
 translate french ep017_docks_encounter_7e805e91:
 
-    # man "My apologies."
-    man ""
 
-# game/episode017.rpy:291
+    man "Toutes mes excuses."
+
+
 translate french ep017_docks_encounter_bb9ca4f9:
 
-    # "The alien didn’t sound too sincere, but at least he’d made an apology."
-    ""
 
-# game/episode017.rpy:294
+    "L'extraterrestre n'avait pas l'air très sincère, mais au moins il s'était excusé."
+
+
 translate french ep017_docks_encounter_f393ff0b:
 
-    # "Somewhat satisfied, we all headed onwards to the Bastard."
-    ""
 
-# game/episode017.rpy:297
+    "Quelque peu satisfaits, nous nous sommes tous dirigés vers le Bastard."
+
+
 translate french ep017_docks_encounter_cc7c0a66:
 
-    # "Somewhat satisfied, we headed onwards to the Bastard."
-    ""
 
-# game/episode017.rpy:302
+    "Quelque peu satisfaits, nous nous sommes dirigés vers le Bastard."
+
+
 translate french ep017_docks_encounter_83d60ddf:
 
-    # c "Just walk on by, no need to draw any unwanted attention."
-    c ""
 
-# game/episode017.rpy:305
+    c "Il suffit de passer, pas besoin d'attirer l'attention."
+
+
 translate french ep017_docks_encounter_9579d07b:
 
-    # l "But he thinks we’re prostitutes!"
-    l ""
 
-# game/episode017.rpy:307
+    l "Mais il nous prend pour des prostituées !"
+
+
 translate french ep017_docks_encounter_0f62d58b:
 
-    # l "But he thinks I’m a prostitute!"
-    l ""
 
-# game/episode017.rpy:308
+    l "Mais il pense que je suis une prostituée !"
+
+
 translate french ep017_docks_encounter_a75de0ef:
 
-    # c "I know, but we can’t afford getting station security involved, with us being fugitives and all."
-    c ""
 
-# game/episode017.rpy:311
+    c "Je sais, mais on ne peut pas se permettre d'impliquer la sécurité de la station, vu qu'on est des fugitifs et tout."
+
+
 translate french ep017_docks_encounter_947924fc:
 
-    # man "Hey, don’t ignore me, I’ll pay good money for those whores!"
-    man ""
 
-# game/episode017.rpy:312
+    man "Hé, ne m'ignore pas, je paierai cher pour ces putes !"
+
+
 translate french ep017_docks_encounter_4ccf5ae4:
 
-    # man "Forget it, those asses don’t look that fine up close."
-    man ""
 
-# game/episode017.rpy:315
+    man "Oublie ça, ces culs n'ont pas l'air si beaux que ça de près."
+
+
 translate french ep017_docks_encounter_e15c4689:
 
-    # man "Hey, don’t ignore me, I’ll pay good money for that whore!"
-    man ""
 
-# game/episode017.rpy:316
+    man "Hé, ne m'ignorez pas, je paierai cher pour cette pute !"
+
+
 translate french ep017_docks_encounter_dc957e25:
 
-    # man "Forget it, that ass doesn’t look that fine up close."
-    man ""
 
-# game/episode017.rpy:325
+    man "Laisse tomber, ces culs n'ont pas l'air si beaux de près."
+
+
 translate french ep017_docks_encounter_323e5087:
 
-    # "I nearly had to restrain Lilly, because she was about to attack the cat-calling horndog."
-    ""
 
-# game/episode017.rpy:326
+    "J'ai presque dû retenir Lilly, parce qu'elle était sur le point d'attaquer le corniaud qui appelait les chats."
+
+
 translate french ep017_docks_encounter_7c826617:
 
-    # "Eventually, his shouting was drowned out by the noises of the station, and we reached the Bastard."
-    ""
 
-# game/episode017.rpy:328
+    "Finalement, ses cris ont été noyés par les bruits de la station, et nous avons atteint le Bastard."
+
+
 translate french ep017_docks_encounter_7b604a5d:
 
-    # "One by one, the other crew members reported in after their search on the station."
-    ""
 
-# game/episode017.rpy:330
+    "L'un après l'autre, les autres membres de l'équipage ont rendu compte de leurs recherches sur la station."
+
+
 translate french ep017_docks_encounter_a8a0807f:
 
-    # "Most of them reported similar successes to mine, but Ziv and Jade had something more positive to share."
-    ""
 
-# game/episode017.rpy:332
+    "La plupart d'entre eux ont rapporté des succès similaires aux miens, mais Ziv et Jade avaient quelque chose de plus positif à partager."
+
+
 translate french ep017_docks_encounter_fc104f7b:
 
-    # zi "We’ve been able to make contact with the Taagmar."
-    zi ""
 
-# game/episode017.rpy:333
+    zi "Nous avons réussi à entrer en contact avec les Taagmar."
+
+
 translate french ep017_docks_encounter_124b52c3:
 
-    # zi "As I understand, they’re quite wary of humans at the moment, whether they hail from the Sovereignty or not."
-    zi ""
 
-# game/episode017.rpy:335
+    zi "Si j'ai bien compris, ils se méfient beaucoup des humains en ce moment, qu'ils soient originaires de la Souveraineté ou non."
+
+
 translate french ep017_docks_encounter_6f014d95:
 
-    # e "That explains the general evasiveness."
-    e ""
 
-# game/episode017.rpy:337
+    e "C'est ce qui explique leur attitude évasive."
+
+
 translate french ep017_docks_encounter_a8bc780f:
 
-    # zi "One of the Taagmar dignitaries here on the station has agreed to meet us tomorrow."
-    zi ""
 
-# game/episode017.rpy:338
+    zi "L'un des dignitaires Taagmar présents sur la station a accepté de nous rencontrer demain."
+
+
 translate french ep017_docks_encounter_7f54a1e7:
 
-    # c "Just the two of you?"
-    c ""
 
-# game/episode017.rpy:340
+    c "Juste vous deux ?"
+
+
 translate french ep017_docks_encounter_ba0ecf13:
 
-    # j "No, we’ve made sure you were included."
-    j ""
 
-# game/episode017.rpy:341
+    j "Non, nous avons veillé à ce que tu sois inclus."
+
+
 translate french ep017_docks_encounter_259f92ab:
 
-    # j "They’ve allowed us to vouch for you."
-    j ""
 
-# game/episode017.rpy:342
+    j "Ils nous ont permis de nous porter garants pour toi."
+
+
 translate french ep017_docks_encounter_2edfd7ae:
 
-    # c "Finally, some good news."
-    c ""
 
-# game/episode017.rpy:343
+    c "Enfin, de bonnes nouvelles."
+
+
 translate french ep017_docks_encounter_5fe760a4:
 
-    # c "Good job, both."
-    c ""
 
-# game/episode017.rpy:345
+    c "Bon travail, toutes les deux."
+
+
 translate french ep017_docks_encounter_88387169:
 
-    # "As we had some time to kill until tomorrow, we all went our separate ways."
-    ""
 
-# game/episode017.rpy:346
+    "Comme nous avions du temps à tuer jusqu'à demain, nous sommes tous partis chacun de notre côté."
+
+
 translate french ep017_docks_encounter_41e3c6ad:
 
-    # "Some of the crew went for a meal on the station, while others stayed on the ship to avoid the crowd."
-    ""
 
-# game/episode017.rpy:357
+    "Certains membres de l'équipage sont allés manger sur la station, tandis que d'autres sont restés sur le vaisseau pour éviter la foule."
+
+
 translate french ep017_docks_encounter_fight_d91e2ab2:
 
-    # "Ignoring my own words on not drawing attention, I lunged at the fucker."
-    ""
 
-# game/episode017.rpy:359
+    "Ignorant mes propres paroles sur le fait de ne pas attirer l'attention, je me suis jeté sur cet enfoiré."
+
+
 translate french ep017_docks_encounter_fight_733ac962:
 
-    # "I lunged at him."
-    ""
 
-# game/episode017.rpy:360
+    "Je me suis jeté sur lui."
+
+
 translate french ep017_docks_encounter_fight_0b2ec1e7:
 
-    # c "You’ll take that back right now."
-    c ""
 
-# game/episode017.rpy:361
+    c "Tu vas retirer ça tout de suite."
+
+
 translate french ep017_docks_encounter_fight_0ea33c34:
 
-    # "My fist connected with his beaked face and the alien went down."
-    ""
 
-# game/episode017.rpy:364
+    "Mon poing a heurté son visage à bec et l'extraterrestre s'est écroulé."
+
+
 translate french ep017_docks_encounter_fight_fd1ee5fd:
 
-    # c "Those are my sister and dear friend you’re talking about, you miserable piece of trash!"
-    c ""
 
-# game/episode017.rpy:366
+    c "C'est de ma sœur et de mon amie que tu parles, misérable ordure !"
+
+
 translate french ep017_docks_encounter_fight_eede9272:
 
-    # c "Those are my dear friends you’re talking about, you miserable piece of trash!"
-    c ""
 
-# game/episode017.rpy:369
+    c "C'est de mes chers amies que tu parles, misérable ordure !"
+
+
 translate french ep017_docks_encounter_fight_03723e40:
 
-    # c "That is my sister you’re talking about, you miserable piece of trash!"
-    c ""
 
-# game/episode017.rpy:371
+    c "C'est de ma sœur que tu parles, misérable ordure !"
+
+
 translate french ep017_docks_encounter_fight_018c4357:
 
-    # c "That is my friend you’re talking about, you miserable piece of trash!"
-    c ""
 
-# game/episode017.rpy:372
+    c "C'est de mon amie que tu parles, misérable ordure !"
+
+
 translate french ep017_docks_encounter_fight_66524833:
 
-    # man "I’m sorry, I didn’t mean-"
-    man ""
 
-# game/episode017.rpy:373
+    man "Je suis désolé, je ne voulais pas..."
+
+
 translate french ep017_docks_encounter_fight_8ee660b3:
 
-    # c "Didn’t mean what?"
-    c ""
 
-# game/episode017.rpy:374
+    c "Ne voulait pas dire quoi ?"
+
+
 translate french ep017_docks_encounter_fight_7192a721:
 
-    # c "Your meaning was pretty clear."
-    c ""
 
-# game/episode017.rpy:376
+    c "Ce que tu voulais dire était assez clair."
+
+
 translate french ep017_docks_encounter_fight_30b41eb7:
 
-    # "I continued to rain down punches on the guys face."
-    ""
 
-# game/episode017.rpy:377
+    "J'ai continué à faire pleuvoir des coups de poing sur le visage du gars."
+
+
 translate french ep017_docks_encounter_fight_02c28991:
 
-    # "Our altercation hadn’t attracted a large crowd, for which I was thankful."
-    ""
 
-# game/episode017.rpy:378
+    "Notre altercation n'avait pas attiré une grande foule, ce dont je me félicitais."
+
+
 translate french ep017_docks_encounter_fight_b5304995:
 
-    # "Station security didn’t seem too interested in what happened either."
-    ""
 
-# game/episode017.rpy:379
+    "La sécurité de la station ne semblait pas non plus très intéressée par ce qui s'était passé."
+
+
 translate french ep017_docks_encounter_fight_6e252ef7:
 
-    # "When the alien’s cries turned into pitiful sobs, I withdrew."
-    ""
 
-# game/episode017.rpy:382
+    "Lorsque les cris de l'extraterrestre se sont transformés en sanglots pitoyables, je me suis retiré."
+
+
 translate french ep017_docks_encounter_fight_0618c670:
 
-    # "Both Lilly and Vess looked a little shocked at me, but they both took my arm when offered."
-    ""
 
-# game/episode017.rpy:385
+    "Lilly et Vess m'ont regardé d'un air un peu choqué, mais elles ont toutes les deux pris mon bras quand je le leur ai proposé."
+
+
 translate french ep017_docks_encounter_fight_99ffcb72:
 
-    # "Lilly looked a little shocked at me, but she took my arm when offered."
-    ""
 
-# game/episode017.rpy:387
+    "Lilly m'a regardé d'un air un peu choqué, mais elle a pris mon bras quand je le lui ai proposé."
+
+
 translate french ep017_docks_encounter_fight_3efa839d:
 
-    # "A satisfied smile tugged at the corners of my sister’s mouth as we continued towards the Bastard."
-    ""
 
-# game/episode017.rpy:389
+    "Un sourire satisfait tira les coins de la bouche de ma sœur tandis que nous continuions vers le Bastard."
+
+
 translate french ep017_docks_encounter_fight_b05812bb:
 
-    # "A satisfied smile tugged at the corners of my friend’s mouth as we continued towards the Bastard."
-    ""
 
-# game/episode017.rpy:394
+    "Un sourire satisfait a tiré les coins de la bouche de mon amie alors que nous continuions vers le Bastard."
+
+
 translate french ep017_jade_c4f44779:
 
-    # "Jade sat outside the Bastard on a container, hunched over her tablet, completely lost in thought."
-    ""
 
-# game/episode017.rpy:396
+    "Jade était assise à l'extérieur du Bastard sur un conteneur, penchée sur sa tablette, complètement perdue dans ses pensées."
+
+
 translate french ep017_jade_b57fa023:
 
-    # "She only noticed me when I sat down next to her."
-    ""
 
-# game/episode017.rpy:398
+    "Elle ne m'a remarqué que lorsque je me suis assis à côté d'elle."
+
+
 translate french ep017_jade_aec4a347:
 
-    # j "Oh hey, [p_name]."
-    j ""
 
-# game/episode017.rpy:399
+    j "Oh hey, [p_name]."
+
+
 translate french ep017_jade_bc0be212:
 
-    # c "Hey, not the most quiet spot to do some reading."
-    c ""
 
-# game/episode017.rpy:400
+    c "Hé, ce n'est pas l'endroit le plus tranquille pour faire de la lecture."
+
+
 translate french ep017_jade_b4f1880a:
 
-    # j "I like the hubbub, all the noise somehow keeps me focused."
-    j ""
 
-# game/episode017.rpy:401
+    j "J'aime le brouhaha, tout ce bruit me permet en quelque sorte de rester concentré."
+
+
 translate french ep017_jade_6ba22d62:
 
-    # c "What were you reading?"
-    c ""
 
-# game/episode017.rpy:403
+    c "Qu'est-ce que tu lisais ?"
+
+
 translate french ep017_jade_8d57a18b:
 
-    # j "Just some stuff about the Twi'll."
-    j ""
 
-# game/episode017.rpy:404
+    j "Juste quelques trucs sur les Twi'll."
+
+
 translate french ep017_jade_f52b66d7:
 
-    # c "A history book?"
-    c ""
 
-# game/episode017.rpy:405
+    c "Un livre d'histoire ?"
+
+
 translate french ep017_jade_131c2ccf:
 
-    # j "Something like that."
-    j ""
 
-# game/episode017.rpy:407
+    j "Quelque chose comme ça."
+
+
 translate french ep017_jade_f8fa634b:
 
-    # j "Running into that Twi'll on Douvis and the destruction of the Taagmar home world triggered something."
-    j ""
 
-# game/episode017.rpy:408
+    j "Le fait d'avoir rencontré cette Twi'll sur Douvis et la destruction du monde d'origine des Taagmar ont déclenché quelque chose."
+
+
 translate french ep017_jade_7f875d40:
 
-    # j "The way the Sovereignty is behaving there is awfully similar to what they did on our home world."
-    j ""
 
-# game/episode017.rpy:409
+    j "La façon dont la Souveraineté se comporte là-bas est terriblement similaire à ce qu'ils ont fait sur notre monde."
+
+
 translate french ep017_jade_c4e342ec:
 
-    # j "I've been reading up on Paclerara and then I went down the rabbit hole."
-    j ""
 
-# game/episode017.rpy:410
+    j "Je me suis renseignée sur Paclerara et je suis tombée dans le trou du lapin."
+
+
 translate french ep017_jade_8859eb01:
 
-    # j "I'd just arrived at the history of tea ceremonies that were in fashion on Luclite four hundred years ago, when you interrupted."
-    j ""
 
-# game/episode017.rpy:411
+    j "Je venais d'arriver à l'histoire des cérémonies du thé qui étaient en vogue sur Luclite il y a quatre cents ans, quand tu m'as interrompu."
+
+
 translate french ep017_jade_a02ccb16:
 
-    # c "Oh, tea sounds important."
-    c ""
 
-# game/episode017.rpy:412
+    c "Oh, le thé a l'air important."
+
+
 translate french ep017_jade_29290089:
 
-    # c "I won't keep you any longer in that case."
-    c ""
 
-# game/episode017.rpy:414
+    c "Je ne te retiendrai pas plus longtemps dans ce cas."
+
+
 translate french ep017_jade_b92225e4:
 
-    # j "Haha, no, stay."
-    j ""
 
-# game/episode017.rpy:415
+    j "Haha, non, reste."
+
+
 translate french ep017_jade_7f72f7af:
 
-    # j "I already know more about tea than I should."
-    j ""
 
-# game/episode017.rpy:417
+    j "J'en sais déjà plus sur le thé que je ne le devrais."
+
+
 translate french ep017_jade_82ffc501:
 
-    # j "I do wish we could visit Paclerara at some point, visit my mother's grave."
-    j ""
 
-# game/episode017.rpy:418
+    j "J'aimerais que nous puissions visiter Paclerara à un moment donné, pour nous rendre sur la tombe de ma mère."
+
+
 translate french ep017_jade_e43a8bd4:
 
-    # c "We'll try as soon as we're able."
-    c ""
 
-# game/episode017.rpy:420
+    c "Nous essaierons dès que nous le pourrons."
+
+
 translate french ep017_jade_01fd7748:
 
-    # j "I'd appreciate that."
-    j ""
 
-# game/episode017.rpy:422
+    j "Je t'en serais reconnaissante."
+
+
 translate french ep017_jade_d806ba03:
 
-    # "Jade and I stared into the distance, ignoring the many passers-by."
-    ""
 
-# game/episode017.rpy:423
+    "Jade et moi avons regardé au loin, ignorant les nombreux passants."
+
+
 translate french ep017_jade_8f1914f4:
 
-    # "She was the first to break the silence."
-    ""
 
-# game/episode017.rpy:425
+    "Elle a été la première à rompre le silence."
+
+
 translate french ep017_jade_53e1450d:
 
-    # j "I sometimes think it's crazy how far we've managed to come."
-    j ""
 
-# game/episode017.rpy:426
+    j "Je me dis parfois que c'est fou le chemin que nous avons parcouru."
+
+
 translate french ep017_jade_bf4bc3c6:
 
-    # c "I guess you don't mean the distance we've traveled?"
-    c ""
 
-# game/episode017.rpy:428
+    c "Je suppose que tu ne parles pas de la distance que nous avons parcourue ?"
+
+
 translate french ep017_jade_cb5244dd:
 
-    # j "No, I mean, we've started out with a stolen ship, escaped the Sovereignty, visited a great many planets and got out of many hairy situations."
-    j ""
 
-# game/episode017.rpy:429
+    j "Non, je veux dire que nous avons commencé avec un vaisseau volé, que nous avons échappé à la Souveraineté, que nous avons visité un grand nombre de planètes et que nous nous sommes sortis de nombreuses situations poilantes."
+
+
 translate french ep017_jade_4acaaeca:
 
-    # c "Well, if you put it that way."
-    c ""
 
-# game/episode017.rpy:430
+    c "Enfin, si tu le dis comme ça."
+
+
 translate french ep017_jade_d125a393:
 
-    # c "Though I mostly want a quiet drink in a quiet place, and someone else saving the galaxy or whatever the hell we're doing."
-    c ""
 
-# game/episode017.rpy:432
+    c "Bien que je veuille surtout boire un verre tranquillement dans un endroit calme, et que quelqu'un d'autre sauve la galaxie ou quoi que ce soit que nous fassions."
+
+
 translate french ep017_jade_a2aec314:
 
-    # j "Still, we've had quite the adventure so far."
-    j ""
 
-# game/episode017.rpy:433
+    j "Nous avons quand même vécu une sacrée aventure jusqu'à présent."
+
+
 translate french ep017_jade_f4e24f94:
 
-    # j "And I think I'm better off now."
-    j ""
 
-# game/episode017.rpy:434
+    j "Et je pense que je suis mieux maintenant."
+
+
 translate french ep017_jade_2374e24d:
 
-    # j "Being an attendant was all I ever knew and I didn't really realize the wrongness of it all."
-    j ""
 
-# game/episode017.rpy:436
+    j "Je n'ai jamais connu que le métier d'assistante et je n'ai pas vraiment réalisé que c'était une erreur."
+
+
 translate french ep017_jade_2269aaea:
 
-    # j "I just couldn't imagine being anything else, if you know what I mean."
-    j ""
 
-# game/episode017.rpy:437
+    j "Je ne pouvais pas imaginer être autre chose, si tu vois ce que je veux dire."
+
+
 translate french ep017_jade_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode017.rpy:438
+    c "C'est ce que je pense."
+
+
 translate french ep017_jade_12f129bb:
 
-    # c "It's a rotten thing the Sovereignty did to you."
-    c ""
 
-# game/episode017.rpy:439
+    c "C'est une chose pourrie que la Souveraineté t'a faite."
+
+
 translate french ep017_jade_3356e9cd:
 
-    # c "No, what I did to you."
-    c ""
 
-# game/episode017.rpy:440
+    c "Non, ce que je t'ai fait."
+
+
 translate french ep017_jade_3ee040d7:
 
-    # c "I mean, you were a birthday gift..."
-    c ""
 
-# game/episode017.rpy:442
+    c "Je veux dire, tu étais un cadeau d'anniversaire..."
+
+
 translate french ep017_jade_69dbd27e:
 
-    # j "Yes, I remember being terrified when I was to meet you for the first time."
-    j ""
 
-# game/episode017.rpy:443
+    j "Oui, je me souviens avoir été terrifié lorsque je devais te rencontrer pour la première fois."
+
+
 translate french ep017_jade_6752e3a3:
 
-    # j "I was relieved you were such a nice guy, because I've heard some horror stories over the years."
-    j ""
 
-# game/episode017.rpy:445
+    j "J'étais soulagée que tu sois un type si gentil, parce que j'ai entendu des histoires d'horreur au fil des ans."
+
+
 translate french ep017_jade_d5c4100d:
 
-    # j "Girls getting beat up, used by the entire family for their pleasure, or made to suffer in some sex dungeon."
-    j ""
 
-# game/episode017.rpy:446
+    j "Des filles qui se font battre, qui sont utilisées par toute la famille pour leur plaisir, ou qui doivent souffrir dans un donjon sexuel."
+
+
 translate french ep017_jade_44985f6b:
 
-    # j "All things considered, I didn't have it so bad."
-    j ""
 
-# game/episode017.rpy:447
+    j "Tout bien considéré, je n'ai pas eu la vie si dure."
+
+
 translate french ep017_jade_79c770a2:
 
-    # c "Still, you were supposed to be my property."
-    c ""
 
-# game/episode017.rpy:449
+    c "Pourtant, tu étais censée être ma propriété."
+
+
 translate french ep017_jade_f467471f:
 
-    # c "I could have refused, like Thim did."
-    c ""
 
-# game/episode017.rpy:451
+    c "J'aurais pu refuser, comme l'a fait Thim."
+
+
 translate french ep017_jade_c19c5a5d:
 
-    # c "I could have refused."
-    c ""
 
-# game/episode017.rpy:453
+    c "J'aurais pu refuser."
+
+
 translate french ep017_jade_22e29c09:
 
-    # j "That would have been noble and I might have ended up with a creepy old man, chained to a post."
-    j ""
 
-# game/episode017.rpy:454
+    j "Cela aurait été noble et je me serais peut-être retrouvée avec un vieil homme effrayant, enchaîné à un poteau."
+
+
 translate french ep017_jade_3e05188b:
 
-    # j "I'm not saying you shouldn't feel bad about the treatment of Twi'll, or me personally, but for me everything worked out in the end."
-    j ""
 
-# game/episode017.rpy:456
+    j "Je ne dis pas que tu ne devrais pas te sentir mal à propos du traitement des Twi'll, ou de moi personnellement, mais pour moi, tout s'est arrangé à la fin."
+
+
 translate french ep017_jade_239ea88f:
 
-    # j "I got my freedom and got to stay with the man I came to love."
-    j ""
 
-# game/episode017.rpy:457
+    j "J'ai retrouvé ma liberté et j'ai pu rester avec l'homme que j'ai appris à aimer."
+
+
 translate french ep017_jade_2f250e97:
 
-    # j "So, all in all, I had a better deal."
-    j ""
 
-# game/episode017.rpy:458
+    j "Tout compte fait, j'ai eu un meilleur accord."
+
+
 translate french ep017_jade_8c1853f3:
 
-    # c "I can't really imagine what you've been through."
-    c ""
 
-# game/episode017.rpy:459
+    c "Je ne peux pas vraiment imaginer ce que tu as vécu."
+
+
 translate french ep017_jade_fa562646:
 
-    # c "I'm sorry I never thought to ask, but were you just dumped into my lap?"
-    c ""
 
-# game/episode017.rpy:461
+    c "Je suis désolé de n'avoir jamais pensé à te le demander, mais est-ce que tu as été jetée sur mes genoux ?"
+
+
 translate french ep017_jade_39ea0227:
 
-    # j "No, not at all."
-    j ""
 
-# game/episode017.rpy:463
+    j "Non, pas du tout."
+
+
 translate french ep017_jade_d69cf7f9:
 
-    # j "The Sovereignty makes sure the attendants get all the training they need."
-    j ""
 
-# game/episode017.rpy:464
+    j "La Souveraineté s'assure que les assistantes reçoivent toute la formation dont elles ont besoin."
+
+
 translate french ep017_jade_9be70cbf:
 
-    # j "In contrast to the dire treatment most Twi'll receive after becoming an attendant, the Sovereignty makes very sure their valuable assets are protected."
-    j ""
 
-# game/episode017.rpy:465
+    j "Contrairement au traitement désastreux que la plupart des Twi'll recevront après être devenue assistante, la Souveraineté s'assure vraiment que leurs biens précieux soient protégés."
+
+
 translate french ep017_jade_bc6756f0:
 
-    # j "So genders aren't allowed to mingle and any physical contact is forbidden, even between members of the same sex."
-    j ""
 
-# game/episode017.rpy:466
+    j "Les sexes ne sont donc pas autorisés à se mélanger et tout contact physique est interdit, même entre membres du même sexe."
+
+
 translate french ep017_jade_bbdad92c:
 
-    # j "Which was a challenge, considering the amount of detailed audiovisual instruction we received."
-    j ""
 
-# game/episode017.rpy:468
+    j "Ce qui n'est pas une mince affaire, compte tenu de la quantité d'instructions audiovisuelles détaillées que nous avons reçues."
+
+
 translate french ep017_jade_4e161613:
 
-    # j "I don't have to tell you the effect of too much stimulating imagery on the minds of youngsters just finding out the things down below is for something more than peeing..."
-    j ""
 
-# game/episode017.rpy:469
+    j "Je n'ai pas besoin de te dire l'effet d'une imagerie trop stimulante sur l'esprit des jeunes qui découvrent que les choses en bas servent à autre chose qu'à faire pipi..."
+
+
 translate french ep017_jade_9a60c2bb:
 
-    # c "Nope."
-    c ""
 
-# game/episode017.rpy:471
+    c "Non."
+
+
 translate french ep017_jade_613e0719:
 
-    # j "Then training was over and we were sent out."
-    j ""
 
-# game/episode017.rpy:473
+    j "Puis l'entraînement s'est terminé et nous avons été envoyés dehors."
+
+
 translate french ep017_jade_a341cc0b:
 
-    # j "And I found myself naked on a couch in a mansion, head full of knowledge to please a human and absolutely no clue what to do at all."
-    j ""
 
-# game/episode017.rpy:474
+    j "Et je me suis retrouvée nue sur un canapé dans un manoir, la tête pleine de connaissances pour faire plaisir à un humain et absolument aucune idée de ce qu'il fallait faire."
+
+
 translate french ep017_jade_47a65c08:
 
-    # c "I remember that moment."
-    c ""
 
-# game/episode017.rpy:475
+    c "Je me souviens de ce moment."
+
+
 translate french ep017_jade_15af1c9b:
 
-    # c "Everybody clapping as I walked into the room."
-    c ""
 
-# game/episode017.rpy:476
+    c "Tout le monde a applaudi lorsque je suis entré dans la pièce."
+
+
 translate french ep017_jade_2006f9fd:
 
-    # c "My father standing proudly in the center, slapping me on the shoulder."
-    c ""
 
-# game/episode017.rpy:477
+    c "Mon père se tenant fièrement au centre, me donnant une tape sur l'épaule."
+
+
 translate french ep017_jade_35ccee82:
 
-    # c "Him telling me I'd finally become a man, or some inane bullshit with a similar meaning."
-    c ""
 
-# game/episode017.rpy:478
+    c "Il m'a dit que j'étais enfin devenu un homme, ou une autre connerie inepte ayant une signification similaire."
+
+
 translate french ep017_jade_751c0cab:
 
-    # c "I'm so glad we left that all behind."
-    c ""
 
-# game/episode017.rpy:480
+    c "Je suis si heureux que nous ayons laissé tout cela derrière nous."
+
+
 translate french ep017_jade_cc5e28a7:
 
-    # j "As am I."
-    j ""
 
-# game/episode017.rpy:481
+    j "Et moi aussi."
+
+
 translate french ep017_jade_a2fbbdac:
 
-    # c "You've got to wonder though, why nobody has ever thought to burn the whole Sovereignty to the ground."
-    c ""
 
-# game/episode017.rpy:483
+    c "Mais tu dois te demander pourquoi personne n'a jamais eu l'idée de réduire en cendres toute la Souveraineté."
+
+
 translate french ep017_jade_9a1cd484:
 
-    # j "I'm sure it's been tried."
-    j ""
 
-# game/episode017.rpy:485
+    j "Je suis sûr qu'on a essayé."
+
+
 translate french ep017_jade_516e4a65:
 
-    # j "And I know that there have been attempts by the Twi'll, especially in the early days after we were conquered."
-    j ""
 
-# game/episode017.rpy:486
+    j "Et je sais qu'il y a eu des tentatives de la part des Twi'll, surtout dans les premiers jours qui ont suivi notre conquête."
+
+
 translate french ep017_jade_ab45f477:
 
-    # j "The Sovereignty is quick to stamp those fires out..."
-    j ""
 
-# game/episode017.rpy:488
+    j "La Souveraineté est prompte à éteindre ces incendies..."
+
+
 translate french ep017_jade_b9f96482:
 
-    # j "So it's rather hard to topple an empire like the Sovereignty with a few scattered rebels."
-    j ""
 
-# game/episode017.rpy:489
+    j "Il est donc assez difficile de renverser un empire comme la Souveraineté avec quelques rebelles dispersés."
+
+
 translate french ep017_jade_70207868:
 
-    # c "Yes, I’m sure it’s a challenge, but one can hope."
-    c ""
 
-# game/episode017.rpy:491
+    c "Oui, je suis sûr que c'est un défi, mais on peut espérer."
+
+
 translate french ep017_jade_a7627367:
 
-    # j "True, true."
-    j ""
 
-# game/episode017.rpy:493
+    j "C'est vrai, c'est vrai."
+
+
 translate french ep017_jade_c8f96d6c:
 
-    # "We continued watching the crowd flow among us in silence for a while."
-    ""
 
-# game/episode017.rpy:494
+    "Nous avons continué à regarder la foule s'écouler entre nous en silence pendant un moment."
+
+
 translate french ep017_jade_92bce088:
 
-    # c "Well, I’ll leave you to learn everything there is to know about tea."
-    c ""
 
-# game/episode017.rpy:496
+    c "Bon, je te laisse apprendre tout ce qu'il y a à savoir sur le thé."
+
+
 translate french ep017_jade_0c7bf418:
 
-    # j "I’ll tell you all about someone called Earl Grey, once I’m done."
-    j ""
 
-# game/episode017.rpy:498
+    j "Je te parlerai de quelqu'un qui s'appelle Earl Grey, une fois que j'aurai terminé."
+
+
 translate french ep017_jade_c0e00c6b:
 
-    # c "Can’t wait!"
-    c ""
 
-# game/episode017.rpy:510
+    c "J'ai hâte d'y être !"
+
+
 translate french ep017_first_dream_1cd05b35:
 
-    # woman "Come to us, [p_name]."
-    woman ""
 
-# game/episode017.rpy:517
+    woman "Viens à nous, [p_name]."
+
+
 translate french ep017_first_dream_37bf75b5:
 
-    # woman "We require a Tasting!"
-    woman ""
 
-# game/episode017.rpy:518
+    woman "Nous exigeons une dégustation !"
+
+
 translate french ep017_first_dream_97cd46cb:
 
-    # woman "You’re ours now!"
-    woman ""
 
-# game/episode017.rpy:519
+    woman "Tu es à nous maintenant !"
+
+
 translate french ep017_first_dream_eae746a4:
 
-    # woman "Don’t resist."
-    woman ""
 
-# game/episode017.rpy:526
+    woman "Ne résiste pas."
+
+
 translate french ep017_first_dream_f7468510:
 
-    # woman "We long to Taste the fornication."
-    woman ""
 
-# game/episode017.rpy:527
+    woman "Nous avons envie de goûter à la fornication."
+
+
 translate french ep017_first_dream_073ddb03:
 
-    # woman "The debauchery, so sweet on our tongue."
-    woman ""
 
-# game/episode017.rpy:528
+    woman "La débauche, si douce sur notre langue."
+
+
 translate french ep017_first_dream_bdfc864f:
 
-    # woman "The forbidden love consummated with abandon."
-    woman ""
 
-# game/episode017.rpy:529
+    woman "L'amour interdit consommé avec abandon."
+
+
 translate french ep017_first_dream_34179e45:
 
-    # woman "Come to us, [p_name]!"
-    woman ""
 
-# game/episode017.rpy:530
+    woman "Viens à nous, [p_name] !"
+
+
 translate french ep017_first_dream_8de530d8:
 
-    # woman "Come!"
-    woman ""
 
-# game/episode017.rpy:537
+    woman "Viens !"
+
+
 translate french ep017_first_dream_1c177270:
 
-    # "So, that’s when the dreams began."
-    ""
 
-# game/episode017.rpy:538
+    "C'est alors que les rêves ont commencé."
+
+
 translate french ep017_first_dream_bbb0b958:
 
-    # "I jolted awake with a scream, breathing heavily."
-    ""
 
-# game/episode017.rpy:543
+    "Je me suis réveillé en sursaut en poussant un cri et en respirant bruyamment."
+
+
 translate french ep017_first_dream_4c2c3245:
 
-    # "The comforting presence of Vess next to me didn’t diminish the fear that clawed its way through my chest."
-    ""
 
-# game/episode017.rpy:545
+    "La présence réconfortante de Vess à mes côtés n'a pas atténué la peur qui s'est frayée un chemin dans ma poitrine."
+
+
 translate french ep017_first_dream_03a7ba81:
 
-    # ve "[p_name_short], are you alright?"
-    ve ""
 
-# game/episode017.rpy:546
+    ve "[p_name_short], tu vas bien ?"
+
+
 translate french ep017_first_dream_98dc40a8:
 
-    # c "I just had the worst nightmare."
-    c ""
 
-# game/episode017.rpy:548
+    c "Je viens de faire le pire des cauchemars."
+
+
 translate french ep017_first_dream_4feb16cf:
 
-    # ve "You were screaming."
-    ve ""
 
-# game/episode017.rpy:549
+    ve "Tu as crié."
+
+
 translate french ep017_first_dream_be745336:
 
-    # c "I thought one of the Scolguin was in the room."
-    c ""
 
-# game/episode017.rpy:551
+    c "J'ai cru qu'un des Scolguin était dans la pièce."
+
+
 translate french ep017_first_dream_487754d3:
 
-    # ve "In the room, with us?"
-    ve ""
 
-# game/episode017.rpy:552
+    ve "Dans la pièce, avec nous ?"
+
+
 translate french ep017_first_dream_52333ea5:
 
-    # c "Exactly, it felt all too real."
-    c ""
 
-# game/episode017.rpy:553
+    c "Exactement, c'était trop réel."
+
+
 translate french ep017_first_dream_6dd0bd37:
 
-    # ve "Maybe your brain is trying to work through everything that happened?"
-    ve ""
 
-# game/episode017.rpy:554
+    ve "Peut-être que ton cerveau essaie de comprendre tout ce qui s'est passé ?"
+
+
 translate french ep017_first_dream_50a2e315:
 
-    # c "Could be, but I didn’t have any dreams after my dad threw me out of an airlock."
-    c ""
 
-# game/episode017.rpy:556
+    c "C'est possible, mais je n'ai pas fait de rêves après que mon père m'a jeté du sas."
+
+
 translate french ep017_first_dream_f24aafdd:
 
-    # ve "You’re here with me now, nothing can happen to us."
-    ve ""
 
-# game/episode017.rpy:557
+    ve "Tu es ici avec moi maintenant, rien ne peut nous arriver."
+
+
 translate french ep017_first_dream_9b3a1aef:
 
-    # "I could think of several bad things that could happen to us, but I appreciated Vess’ compassionate sentiment."
-    ""
 
-# game/episode017.rpy:559
+    "Je pourrais penser à plusieurs mauvaises choses qui pourraient nous arriver, mais j'ai apprécié le sentiment de compassion de Vess."
+
+
 translate french ep017_first_dream_c5dbb21d:
 
-    # "Vess kissed me, and together we fell asleep after a while."
-    ""
 
-# game/episode017.rpy:564
+    "Vess m'a embrassé et nous nous sommes endormis au bout d'un moment."
+
+
 translate french ep017_first_dream_e2e3eed9:
 
-    # "The comforting presence of Raene next to me didn’t diminish the fear that clawed its way through my chest."
-    ""
 
-# game/episode017.rpy:566
+    "La présence réconfortante de Raene à mes côtés ne diminuait pas la peur qui se frayait un chemin dans ma poitrine."
+
+
 translate french ep017_first_dream_50bd9c3f:
 
-    # ra "What’s the matter, [p_name_short]?"
-    ra ""
 
-# game/episode017.rpy:567
+    ra "Qu'est-ce qu'il y a, [p_name_short] ?"
+
+
 translate french ep017_first_dream_e3d4fa3d:
 
-    # ra "Are you alright?"
-    ra ""
 
-# game/episode017.rpy:568
+    ra "Tu vas bien ?"
+
+
 translate french ep017_first_dream_cbd07190:
 
-    # c "I had a bad dream."
-    c ""
 
-# game/episode017.rpy:570
+    c "J'ai fait un mauvais rêve."
+
+
 translate french ep017_first_dream_c70f8a80:
 
-    # ra "It must have been very bad, you were screaming just now."
-    ra ""
 
-# game/episode017.rpy:571
+    ra "Il devait être très mauvais, tu criais tout à l'heure."
+
+
 translate french ep017_first_dream_f40b76e7:
 
-    # c "The Scolguin decided to come and visit."
-    c ""
 
-# game/episode017.rpy:573
+    c "Le Scolguin a décidé de venir te rendre visite."
+
+
 translate french ep017_first_dream_a05c6a2c:
 
-    # ra "You dreamt you were back there again?"
-    ra ""
 
-# game/episode017.rpy:574
+    ra "Tu as rêvé que tu étais de nouveau là-bas ?"
+
+
 translate french ep017_first_dream_9840d7a6:
 
-    # c "No, one of them was actually here in the room."
-    c ""
 
-# game/episode017.rpy:575
+    c "Non, l'un d'entre eux était vraiment là, dans la pièce."
+
+
 translate french ep017_first_dream_1549eb89:
 
-    # c "It felt all too real."
-    c ""
 
-# game/episode017.rpy:576
+    c "Cela semblait trop réel."
+
+
 translate french ep017_first_dream_15aa9be1:
 
-    # ra "Maybe your mind is trying to make sense of what happened to you?"
-    ra ""
 
-# game/episode017.rpy:577
+    ra "Peut-être que ton esprit essaie de comprendre ce qui t'est arrivé ?"
+
+
 translate french ep017_first_dream_13251290:
 
-    # c "Maybe."
-    c ""
 
-# game/episode017.rpy:578
+    c "Peut-être."
+
+
 translate french ep017_first_dream_53b9973e:
 
-    # c "I didn’t have those dreams right after I was dumped as a sacrifice for them."
-    c ""
 
-# game/episode017.rpy:579
+    c "Je n'ai pas fait ces rêves juste après avoir été jetée en sacrifice pour eux."
+
+
 translate french ep017_first_dream_111ff40a:
 
-    # ra "Lots happened afterwards, maybe your subconscious has gotten some time to settle?"
-    ra ""
 
-# game/episode017.rpy:580
+    ra "Beaucoup de choses se sont passées après, peut-être que ton subconscient a eu le temps de se calmer ?"
+
+
 translate french ep017_first_dream_299d153d:
 
-    # c "I don’t know."
-    c ""
 
-# game/episode017.rpy:581
+    c "Je n'en sais rien."
+
+
 translate french ep017_first_dream_f7f774bf:
 
-    # c "I sure hope my subconscious is done processing everything, that Scolguin looked all too real."
-    c ""
 
-# game/episode017.rpy:583
+    c "J'espère que mon subconscient a fini de tout assimiler, ce Scolguin avait l'air bien trop réel."
+
+
 translate french ep017_first_dream_5646968f:
 
-    # ra "You’re safe here, with me."
-    ra ""
 
-# game/episode017.rpy:584
+    ra "Tu es en sécurité ici, avec moi."
+
+
 translate french ep017_first_dream_1756ac63:
 
-    # "Though I doubted Raene’s, or actually anyone’s, ability to shield me from the Scolguin, I appreciated the sentiment wholeheartedly."
-    ""
 
-# game/episode017.rpy:586
+    "Bien que je doute de la capacité de Raene, ou de quiconque, à me protéger du Scolguin, j'apprécie ce sentiment de tout cœur."
+
+
 translate french ep017_first_dream_ad3d8d06:
 
-    # "Raene kissed me, and together we fell asleep after a while."
-    ""
 
-# game/episode017.rpy:588
+    "Raene m'a embrassé et nous nous sommes endormis au bout d'un moment."
+
+
 translate french ep017_first_dream_6ec4b75b:
 
-    # "It took several minutes for me to compose myself."
-    ""
 
-# game/episode017.rpy:589
+    "Il m'a fallu plusieurs minutes pour me ressaisir."
+
+
 translate french ep017_first_dream_66598c05:
 
-    # "My bedroom suddenly didn’t feel all that safe anymore."
-    ""
 
-# game/episode017.rpy:590
+    "Ma chambre ne me semblait soudain plus très sûre."
+
+
 translate french ep017_first_dream_b01f5571:
 
-    # "I hesitated to go out and wander the ship for a while, but decided against it eventually."
-    ""
 
-# game/episode017.rpy:592
+    "J'ai hésité à sortir et à errer dans le vaisseau pendant un moment, mais j'ai finalement décidé de ne pas le faire."
+
+
 translate french ep017_first_dream_3880ae4e:
 
-    # "When I’d calmed down somewhat, I tried to sleep again."
-    ""
 
-# game/episode017.rpy:593
+    "Lorsque je me suis un peu calmée, j'ai essayé de me rendormir."
+
+
 translate french ep017_first_dream_e6fd5088:
 
-    # "It took a very long time until I sank back into a very light sleep."
-    ""
 
-# game/episode017.rpy:595
+    "Il m'a fallu beaucoup de temps avant de sombrer à nouveau dans un sommeil très léger."
+
+
 translate french ep017_first_dream_1f48d60f:
 
-    # "The Scolguin didn’t return."
-    ""
 
-# game/episode017.rpy:607
+    "Le Scolguin n'est pas revenu."
+
+
 translate french ep017_second_dream_f2249756:
 
-    # woman2 "Bow before your Queen."
-    woman2 ""
 
-# game/episode017.rpy:612
+    woman2 "Incline-toi devant ta reine."
+
+
 translate french ep017_second_dream_e69e42b8:
 
-    # c "No."
-    c ""
 
-# game/episode017.rpy:613
+    c "Non."
+
+
 translate french ep017_second_dream_c233aa7e:
 
-    # woman2 "We have an agreement."
-    woman2 ""
 
-# game/episode017.rpy:616
+    woman2 "Nous avons un accord."
+
+
 translate french ep017_second_dream_68bd0ed9:
 
-    # c "You have an agreement with my mother."
-    c ""
 
-# game/episode017.rpy:618
+    c "Tu as un accord avec ma mère."
+
+
 translate french ep017_second_dream_a2346b1c:
 
-    # c "You have an agreement with Nadya."
-    c ""
 
-# game/episode017.rpy:620
+    c "Tu as un accord avec Nadya."
+
+
 translate french ep017_second_dream_55732973:
 
-    # c "We do."
-    c ""
 
-# game/episode017.rpy:621
+    c "Nous avons un accord."
+
+
 translate french ep017_second_dream_00b89926:
 
-    # c "That agreement isn’t due for another ten fucking years."
-    c ""
 
-# game/episode017.rpy:623
+    c "Cet accord n'est pas prévu avant dix putains d'années."
+
+
 translate french ep017_second_dream_8bc91a78:
 
-    # woman2 "We crave the Taste!"
-    woman2 ""
 
-# game/episode017.rpy:624
+    woman2 "Nous avons envie de goûter !"
+
+
 translate french ep017_second_dream_08ab882b:
 
-    # woman2 "Allow us in!"
-    woman2 ""
 
-# game/episode017.rpy:625
+    woman2 "Permets-nous d'entrer !"
+
+
 translate french ep017_second_dream_b24eec5e:
 
-    # woman2 "We want you, we need you!"
-    woman2 ""
 
-# game/episode017.rpy:626
+    woman2 "Nous te voulons, nous avons besoin de toi !"
+
+
 translate french ep017_second_dream_d7343f2d:
 
-    # c "No, and get the fuck out of my head!"
-    c ""
 
-# game/episode017.rpy:628
+    c "Non, et sortez de ma tête !"
+
+
 translate french ep017_second_dream_cc9f8f08:
 
-    # woman "We crave you, we need you!"
-    woman ""
 
-# game/episode017.rpy:630
+    woman "Nous avons envie de vous, nous avons besoin de vous !"
+
+
 translate french ep017_second_dream_cbc11291:
 
-    # woman2 "Allow us in, and you won’t regret it."
-    woman2 ""
 
-# game/episode017.rpy:631
+    woman2 "Laisse-nous entrer, et tu ne le regretteras pas."
+
+
 translate french ep017_second_dream_368ea721:
 
-    # woman2 "Boundless pleasure awaits..."
-    woman2 ""
 
-# game/episode017.rpy:632
+    woman2 "Un plaisir sans limite t'attend..."
+
+
 translate french ep017_second_dream_ba9657e1:
 
-    # woman2 "Give in, [p_name]!"
-    woman2 ""
 
-# game/episode017.rpy:634
+    woman2 "Cède, [p_name] !"
+
+
 translate french ep017_second_dream_45f04cf1:
 
-    # woman "Give in!{w} Give in!{w} Give in!"
-    woman ""
 
-# game/episode017.rpy:635
+    woman "Laisse-toi aller!{w} Rends-toi!{w} Abandonne !"
+
+
 translate french ep017_second_dream_eb46fe9f:
 
-    # c "No!"
-    c ""
 
-# game/episode017.rpy:637
+    c "Non !"
+
+
 translate french ep017_second_dream_b404f39f:
 
-    # woman2 "[p_name]!"
-    woman2 ""
 
-# game/episode017.rpy:639
+    woman2 "[p_name] !"
+
+
 translate french ep017_second_dream_94a9db8c:
 
-    # woman2 "[p_name_short]!"
-    woman2 ""
 
-# game/episode017.rpy:640
+    woman2 "[p_name_short] !"
+
+
 translate french ep017_second_dream_4a1a4c0c:
 
-    # "I awoke shouting at the cold night sky, Eva tugging at my arm and speaking my name."
-    ""
 
-# game/episode017.rpy:648
+    "Je me suis réveillé en criant contre le ciel froid de la nuit, Eva tirant sur mon bras et prononçant mon nom."
+
+
 translate french ep017_second_dream_371821c2:
 
-    # e "[p_name_short]!"
-    e ""
 
-# game/episode017.rpy:649
+    e "[p_name_short] !"
+
+
 translate french ep017_second_dream_1a4f5d59:
 
-    # e "It was just a dream."
-    e ""
 
-# game/episode017.rpy:650
+    e "Ce n'était qu'un rêve."
+
+
 translate french ep017_second_dream_3f702b41:
 
-    # e "You’re here now, with me."
-    e ""
 
-# game/episode017.rpy:651
+    e "Tu es ici maintenant, avec moi."
+
+
 translate french ep017_second_dream_b3e5f9d5:
 
-    # c "Eva?"
-    c ""
 
-# game/episode017.rpy:657
+    c "Eva ?"
+
+
 translate french ep017_second_dream_ef938a46:
 
-    # "I came to my senses and pulled Eva close, kissing her just to make sure she was real."
-    ""
 
-# game/episode017.rpy:659
+    "J'ai repris mes esprits et j'ai serré Eva contre moi, l'embrassant pour m'assurer qu'elle était bien réelle."
+
+
 translate french ep017_second_dream_81859680:
 
-    # "When I noticed Eva's teeth were clattering, I eased her back into the sleeping bag and pulled the covers up."
-    ""
 
-# game/episode017.rpy:661
+    "Quand j'ai remarqué que les dents d'Eva claquaient, je l'ai remise dans le sac de couchage et j'ai remonté les couvertures."
+
+
 translate french ep017_second_dream_d80b4a3b:
 
-    # "I came to my senses and pulled the sleeping bag up to stave away the cold."
-    ""
 
-# game/episode017.rpy:662
+    "J'ai repris mes esprits et j'ai remonté le sac de couchage pour lutter contre le froid."
+
+
 translate french ep017_second_dream_f59db4dc:
 
-    # c "I thought we were surrounded by Scolguin."
-    c ""
 
-# game/episode017.rpy:663
+    c "J'ai cru que nous étions entourés de Scolguin."
+
+
 translate french ep017_second_dream_923b4dbc:
 
-    # c "They wanted to remind me of our deal with them."
-    c ""
 
-# game/episode017.rpy:664
+    c "Ils voulaient me rappeler notre accord avec eux."
+
+
 translate french ep017_second_dream_9d3283cf:
 
-    # e "Did it seem so real?"
-    e ""
 
-# game/episode017.rpy:665
+    e "Est-ce que cela semblait si réel ?"
+
+
 translate french ep017_second_dream_05913c53:
 
-    # c "It did, though it couldn’t be, they’re light-years away."
-    c ""
 
-# game/episode017.rpy:670
+    c "C'est vrai, mais ce n'est pas possible, ils sont à des années-lumière."
+
+
 translate french ep017_second_dream_1d60fe24:
 
-    # e "Maybe you’re just working through all the events of the recent past?"
-    e ""
 
-# game/episode017.rpy:672
+    e "Peut-être que tu es en train de travailler sur tous les événements du passé récent ?"
+
+
 translate french ep017_second_dream_ad330eb1:
 
-    # c "Maybe, but it’s a rather persistent dream..."
-    c ""
 
-# game/episode017.rpy:674
+    c "Peut-être, mais c'est un rêve plutôt persistant..."
+
+
 translate french ep017_second_dream_23577c28:
 
-    # c "You’re not the first to say that."
-    c ""
 
-# game/episode017.rpy:675
+    c "Tu n'es pas la première à le dire."
+
+
 translate french ep017_second_dream_66e25bda:
 
-    # e "This isn’t the first time it happened?"
-    e ""
 
-# game/episode017.rpy:676
+    e "Ce n'est pas la première fois que ça arrive ?"
+
+
 translate french ep017_second_dream_92d78f2c:
 
-    # c "No, it happened back on Altum Station as well."
-    c ""
 
-# game/episode017.rpy:677
+    c "Non, c'est déjà arrivé à la station Altum."
+
+
 translate french ep017_second_dream_ae2aa998:
 
-    # c "I brushed it off back then, but now I’m not so sure."
-    c ""
 
-# game/episode017.rpy:682
+    c "Je l'ai ignoré à l'époque, mais maintenant je n'en suis plus si sûr."
+
+
 translate french ep017_second_dream_d01f7e59:
 
-    # e "Seems too much of a coincidence."
-    e ""
 
-# game/episode017.rpy:683
+    e "Cela ressemble trop à une coïncidence."
+
+
 translate french ep017_second_dream_b3ba43d5:
 
-    # e "Do you think the Scolguin did something to you?"
-    e ""
 
-# game/episode017.rpy:684
+    e "Penses-tu que les Scolguin t'a fait quelque chose ?"
+
+
 translate french ep017_second_dream_a3c3f462:
 
-    # c "Maybe, could be that scan they did."
-    c ""
 
-# game/episode017.rpy:689
+    c "Peut-être, il se pourrait que ce soit le scan qu'ils ont fait."
+
+
 translate french ep017_second_dream_e6193df8:
 
-    # e "So now they can reach you in your dreams?"
-    e ""
 
-# game/episode017.rpy:690
+    e "Alors maintenant, ils peuvent t'atteindre dans tes rêves ?"
+
+
 translate french ep017_second_dream_adf80b90:
 
-    # c "I’m not sure if they’re doing it on purpose, or if it’s some sort of far-reaching desire they’re somehow projecting."
-    c ""
 
-# game/episode017.rpy:691
+    c "Je ne sais pas s'ils le font exprès, ou si c'est une sorte de désir lointain qu'ils projettent d'une manière ou d'une autre."
+
+
 translate french ep017_second_dream_2ff4ac38:
 
-    # e "That’s some very strong desire, if it’s the latter."
-    e ""
 
-# game/episode017.rpy:692
+    e "Si c'est le cas, c'est un désir très fort."
+
+
 translate french ep017_second_dream_a29d5fec:
 
-    # c "Yeah, just my luck."
-    c ""
 
-# game/episode017.rpy:693
+    c "Oui, c'est bien ma chance."
+
+
 translate french ep017_second_dream_60e8266f:
 
-    # c "I thought we were rid of them for ten years."
-    c ""
 
-# game/episode017.rpy:694
+    c "Je croyais qu'on en était débarrassé depuis dix ans."
+
+
 translate french ep017_second_dream_810b95b8:
 
-    # c "Either way, I’m going to have to do something about it, if we ever get out of this sandpit."
-    c ""
 
-# game/episode017.rpy:696
+    c "Quoi qu'il en soit, je vais devoir faire quelque chose, si nous sortons un jour de ce bac à sable."
+
+
 translate french ep017_second_dream_c993be95:
 
-    # e "Maybe Thim can run some neural scans."
-    e ""
 
-# game/episode017.rpy:698
+    e "Peut-être que Thim peut faire des scanners neuraux."
+
+
 translate french ep017_second_dream_988230cd:
 
-    # e "Maybe the ship can run some neural scans."
-    e ""
 
-# game/episode017.rpy:699
+    e "Peut-être que le vaisseau peut faire des scans neuraux."
+
+
 translate french ep017_second_dream_fabe4767:
 
-    # c "Maybe..."
-    c ""
 
-# game/episode017.rpy:700
+    c "Peut-être..."
+
+
 translate french ep017_second_dream_60a3d645:
 
-    # c "Let’s go back to sleep."
-    c ""
 
-# game/episode017.rpy:701
+    c "Retournons dormir."
+
+
 translate french ep017_second_dream_5bd716ff:
 
-    # e "Good idea."
-    e ""
 
-# game/episode017.rpy:706
+    e "C'est une bonne idée."
+
+
 translate french ep017_second_dream_afa1cc95:
 
-    # e "And [p_name_short], just so you know, I’m right beside you."
-    e ""
 
-# game/episode017.rpy:710
+    e "Et [p_name_short], juste pour que tu saches, je suis juste à côté de toi."
+
+
 translate french ep017_second_dream_d8fae1bd:
 
-    # "I pulled my sister closer and kissed her in response."
-    ""
 
-# game/episode017.rpy:712
+    "J'ai rapproché ma sœur et l'ai embrassée en réponse."
+
+
 translate french ep017_second_dream_39ced40e:
 
-    # "I pulled my girlfriend closer and kissed her in response."
-    ""
 
-# game/episode017.rpy:714
+    "J'ai rapproché ma petite amie et l'ai embrassée en réponse."
+
+
 translate french ep017_second_dream_179410c1:
 
-    # "When we came away breathless, I could only manage to whisper my thanks for her support, before we both fell into a deep sleep."
-    ""
 
-# game/episode017.rpy:717
+    "Lorsque nous nous sommes éloignés, à bout de souffle, je n'ai pu que murmurer mes remerciements pour son soutien, avant que nous ne sombrions tous les deux dans un profond sommeil."
+
+
 translate french ep017_second_dream_b85baafc:
 
-    # c "Thank you, Eva, that means a lot."
-    c ""
 
-# game/episode017.rpy:719
+    c "Merci, Eva, ça me touche beaucoup."
+
+
 translate french ep017_second_dream_125f522e:
 
-    # "We fell asleep soon afterwards."
-    ""
 
-# game/episode017.rpy:725
+    "Nous nous sommes endormis peu de temps après."
+
+
 translate french ep017_docks_refugee_c093a382:
 
-    # "In the morning, Ziv, Jade and I headed out to the area where the Taagmar dignitary was supposed to be."
-    ""
 
-# game/episode017.rpy:727
+    "Au matin, Ziv, Jade et moi nous sommes dirigés vers la zone où le dignitaire des Taagmar était censé se trouver."
+
+
 translate french ep017_docks_refugee_9487acdf:
 
-    # "Station officials had assigned part of the residential area for Taagmar refugees."
-    ""
 
-# game/episode017.rpy:729
+    "Les responsables de la station avaient affecté une partie de la zone résidentielle aux réfugiés de Taagmar."
+
+
 translate french ep017_docks_refugee_f1500ee1:
 
-    # "Most of the refugees kept out of our way, but I wondered just how much the presence of Ziv and Jade ensured I wasn’t assaulted by an angry mob of Taagmar."
-    ""
 
-# game/episode017.rpy:730
+    "La plupart des réfugiés se sont tenus à l'écart, mais je me suis demandé dans quelle mesure la présence de Ziv et de Jade me permettait de ne pas me faire agresser par une foule de Taagmar en colère."
+
+
 translate french ep017_docks_refugee_c9ee18b7:
 
-    # c "The Taagmar don’t seem too happy about our visit."
-    c ""
 
-# game/episode017.rpy:732
+    c "Les Taagmar n'ont pas l'air très heureux de notre visite."
+
+
 translate french ep017_docks_refugee_0450234c:
 
-    # zi "I wouldn’t blame them, considering the invasion of their home planet."
-    zi ""
 
-# game/episode017.rpy:734
+    zi "Je ne les blâmerais pas, vu l'invasion de leur planète."
+
+
 translate french ep017_docks_refugee_4668942a:
 
-    # j "I hope the Taagmar official is willing to provide us with some information."
-    j ""
 
-# game/episode017.rpy:735
+    j "J'espère que le représentant des Taagmar est prêt à nous fournir des informations."
+
+
 translate french ep017_docks_refugee_d01a26d1:
 
-    # c "The fact that they want to deal with us in the first place seems hopeful."
-    c ""
 
-# game/episode017.rpy:736
+    c "Le fait qu'ils veuillent traiter avec nous en premier lieu me semble porteur d'espoir."
+
+
 translate french ep017_docks_refugee_96e5df12:
 
-    # c "Are we dealing with a politician or an ambassador?"
-    c ""
 
-# game/episode017.rpy:738
+    c "Avons-nous affaire à un politicien ou à un ambassadeur ?"
+
+
 translate french ep017_docks_refugee_bc27ddcd:
 
-    # zi "No, I think she’s a low-level member of the Taagmar priesthood."
-    zi ""
 
-# game/episode017.rpy:739
+    zi "Non, je pense qu'elle est un membre de bas niveau du clergé des Taagmar."
+
+
 translate french ep017_docks_refugee_0ea4af1a:
 
-    # c "That might simplify our conversation."
-    c ""
 
-# game/episode017.rpy:740
+    c "Cela pourrait simplifier notre conversation."
+
+
 translate french ep017_docks_refugee_ac3379bc:
 
-    # c "Any politician would probably try to stonewall us."
-    c ""
 
-# game/episode017.rpy:742
+    c "N'importe quel politicien essaierait probablement de nous mettre des bâtons dans les roues."
+
+
 translate french ep017_docks_refugee_bc6cfcfe:
 
-    # "One of the corridors was heavily guarded, but we were waved through."
-    ""
 
-# game/episode017.rpy:744
+    "L'un des couloirs était très bien gardé, mais on nous a fait signe de passer."
+
+
 translate french ep017_docks_refugee_dd48ecb2:
 
-    # "The Taagmar official was sitting on the floor and appeared to be meditating."
-    ""
 
-# game/episode017.rpy:746
+    "Le fonctionnaire Taagmar était assis par terre et semblait méditer."
+
+
 translate french ep017_docks_refugee_39440259:
 
-    # zi "We have business with your superior and have arranged a meeting yesterday."
-    zi ""
 
-# game/episode017.rpy:749
+    zi "Nous avons des affaires à régler avec votre supérieur et nous avons pris rendez-vous hier."
+
+
 translate french ep017_docks_refugee_8060e2f8:
 
-    # woman "Yes, you may continue."
-    woman ""
 
-# game/episode017.rpy:750
+    woman "Oui, vous pouvez continuer."
+
+
 translate french ep017_docks_refugee_e4affeb8:
 
-    # zi "Good day, your holiness, we’ve come to petition the Taagmar for information."
-    zi ""
 
-# game/episode017.rpy:754
+    zi "Bonjour, votre sainteté, nous sommes venus demander des informations aux Taagmar."
+
+
 translate french ep017_docks_refugee_19ebb80d:
 
-    # woman "I’m hardly a representative of the Taagmar government."
-    woman ""
 
-# game/episode017.rpy:755
+    woman "Je ne suis guère un représentant du gouvernement Taagmar."
+
+
 translate french ep017_docks_refugee_60290687:
 
-    # woman "To what subject does your request pertain?"
-    woman ""
 
-# game/episode017.rpy:757
+    woman "Quel est le sujet de votre requête ?"
+
+
 translate french ep017_docks_refugee_3b05d744:
 
-    # zi "I understand we have come at a difficult time, but we would like to learn more about the invasion of your world."
-    zi ""
 
-# game/episode017.rpy:759
+    zi "Je comprends que nous sommes venus à un moment difficile, mais nous aimerions en savoir plus sur l'invasion de votre monde."
+
+
 translate french ep017_docks_refugee_b030a65c:
 
-    # woman "Our planet is turned into a wasteland, what more do you need to know?"
-    woman ""
 
-# game/episode017.rpy:762
+    woman "Notre planète est transformée en terrain vague, que voulez-vous savoir de plus ?"
+
+
 translate french ep017_docks_refugee_8167ce57:
 
-    # c "We know the Sovereignty is looking for something on your planet, possibly near the capital."
-    c ""
 
-# game/episode017.rpy:764
+    c "Nous savons que la Souveraineté cherche quelque chose sur votre planète, peut-être près de la capitale."
+
+
 translate french ep017_docks_refugee_c8686e0f:
 
-    # woman "And you want to do what, stop them?"
-    woman ""
 
-# game/episode017.rpy:765
+    woman "Et vous voulez faire quoi, les arrêter ?"
+
+
 translate french ep017_docks_refugee_251ad502:
 
-    # c "We’d like to investigate the situation and possibly stop them."
-    c ""
 
-# game/episode017.rpy:766
+    c "Nous aimerions enquêter sur la situation et éventuellement les arrêter."
+
+
 translate french ep017_docks_refugee_9a22cb66:
 
-    # woman "You’re either delusional or grave robbers."
-    woman ""
 
-# game/episode017.rpy:767
+    woman "Soit vous délirez, soit vous êtes des pilleurs de tombes."
+
+
 translate french ep017_docks_refugee_d92ce6b7:
 
-    # woman "I have no interest in dealing with either."
-    woman ""
 
-# game/episode017.rpy:769
+    woman "Je n'ai aucun intérêt à traiter avec l'un ou l'autre."
+
+
 translate french ep017_docks_refugee_0d556dac:
 
-    # woman "You’re dismissed."
-    woman ""
 
-# game/episode017.rpy:771
+    woman "Vous êtes renvoyés."
+
+
 translate french ep017_docks_refugee_491e000a:
 
-    # "Protesting seemed fruitless, so we turned around and left."
-    ""
 
-# game/episode017.rpy:773
+    "Protester semblait infructueux, alors nous avons fait demi-tour et sommes partis."
+
+
 translate french ep017_docks_refugee_ef68b707:
 
-    # "When we had crossed the residential area, one of the guards hurried towards us."
-    ""
 
-# game/episode017.rpy:777
+    "Lorsque nous avons traversé le quartier résidentiel, l'un des gardes s'est précipité vers nous."
+
+
 translate french ep017_docks_refugee_a9dc289c:
 
-    # woman "I overheard you talking about wanting to get inside the capital."
-    woman ""
 
-# game/episode017.rpy:778
+    woman "Je vous ai entendu dire que vous vouliez entrer dans la capitale."
+
+
 translate french ep017_docks_refugee_bfc9bb53:
 
-    # woman "I think I can be of assistance."
-    woman ""
 
-# game/episode017.rpy:779
+    woman "Je pense pouvoir vous aider."
+
+
 translate french ep017_docks_refugee_dd1c5d94:
 
-    # c "Do you have any information?"
-    c ""
 
-# game/episode017.rpy:781
+    c "As-tu des informations ?"
+
+
 translate french ep017_docks_refugee_d1683bbc:
 
-    # woman "I do...{w} For the right price..."
-    woman ""
 
-# game/episode017.rpy:782
+    woman "Oui...{w} Pour le bon prix..."
+
+
 translate french ep017_docks_refugee_fb00336c:
 
-    # c "How much?"
-    c ""
 
-# game/episode017.rpy:784
+    c "Combien ?"
+
+
 translate french ep017_docks_refugee_003e1263:
 
-    # woman "A thousand credits should do the trick."
-    woman ""
 
-# game/episode017.rpy:785
+    woman "Mille crédits devraient suffire."
+
+
 translate french ep017_docks_refugee_d07ad229:
 
-    # c "Seven hundred."
-    c ""
 
-# game/episode017.rpy:786
+    c "Sept cents."
+
+
 translate french ep017_docks_refugee_115d305c:
 
-    # woman "Nine."
-    woman ""
 
-# game/episode017.rpy:787
+    woman "Neuf."
+
+
 translate french ep017_docks_refugee_d4e17d30:
 
-    # c "Eight."
-    c ""
 
-# game/episode017.rpy:788
+    c "Huit."
+
+
 translate french ep017_docks_refugee_02871268:
 
-    # woman "Eight fifty, or you can try your luck with the priestess again."
-    woman ""
 
-# game/episode017.rpy:789
+    woman "Huit cent cinquante, ou tu peux retenter ta chance avec la prêtresse."
+
+
 translate french ep017_docks_refugee_8404ab5e:
 
-    # c "Fine."
-    c ""
 
-# game/episode017.rpy:791
+    c "Très bien."
+
+
 translate french ep017_docks_refugee_9099e0ac:
 
-    # woman "I want the money upfront."
-    woman ""
 
-# game/episode017.rpy:792
+    woman "Je veux l'argent d'avance."
+
+
 translate french ep017_docks_refugee_8f240135:
 
-    # c "Not going to happen."
-    c ""
 
-# game/episode017.rpy:793
+    c "Ça n'arrivera pas."
+
+
 translate french ep017_docks_refugee_9a00ed72:
 
-    # c "I can give you a hundred up front."
-    c ""
 
-# game/episode017.rpy:795
+    c "Je peux te donner cent dollars d'avance."
+
+
 translate french ep017_docks_refugee_600d1e78:
 
-    # woman "Half, or no deal."
-    woman ""
 
-# game/episode017.rpy:796
+    woman "La moitié, ou pas d'accord."
+
+
 translate french ep017_docks_refugee_0eeb6918:
 
-    # c "Three hundred and the rest after we receive the info."
-    c ""
 
-# game/episode017.rpy:797
+    c "Trois cents et le reste quand nous aurons reçu les informations."
+
+
 translate french ep017_docks_refugee_fa45ed42:
 
-    # woman "Agreed."
-    woman ""
 
-# game/episode017.rpy:798
+    woman "C'est d'accord."
+
+
 translate french ep017_docks_refugee_65cf6421:
 
-    # "I got out my tablet and wired the amount to the guard."
-    ""
 
-# game/episode017.rpy:799
+    "Je sors ma tablette et transfère la somme au garde."
+
+
 translate french ep017_docks_refugee_5c44ef4c:
 
-    # c "Your turn."
-    c ""
 
-# game/episode017.rpy:801
+    c "À toi de jouer."
+
+
 translate french ep017_docks_refugee_b30617c1:
 
-    # woman "Right."
-    woman ""
 
-# game/episode017.rpy:802
+    woman "D'accord."
+
+
 translate french ep017_docks_refugee_f5e99176:
 
-    # woman "The invading forces are indeed concentrating on the capital."
-    woman ""
 
-# game/episode017.rpy:803
+    woman "Les forces d'invasion se concentrent en effet sur la capitale."
+
+
 translate french ep017_docks_refugee_5b4e37fe:
 
-    # woman "The Grand Arch of Taag is right in the middle of the city and they’re probably trying to reach it."
-    woman ""
 
-# game/episode017.rpy:804
+    woman "La grande arche de Taag se trouve en plein milieu de la ville et ils essaient probablement de l'atteindre."
+
+
 translate french ep017_docks_refugee_bc50da23:
 
-    # c "What’s so special about that arch?"
-    c ""
 
-# game/episode017.rpy:806
+    c "Qu'est-ce que cette arche a de si spécial ?"
+
+
 translate french ep017_docks_refugee_da158bb6:
 
-    # woman "It’s one of the major religious buildings on our home world."
-    woman ""
 
-# game/episode017.rpy:807
+    woman "C'est l'un des principaux édifices religieux de notre monde."
+
+
 translate french ep017_docks_refugee_d131fc9a:
 
-    # woman "Why the Sovereignty has such an interest in the arch, I don’t know."
-    woman ""
 
-# game/episode017.rpy:808
+    woman "Je ne sais pas pourquoi la Souveraineté s'intéresse tant à l'arche."
+
+
 translate french ep017_docks_refugee_5d87092f:
 
-    # woman "The arch has been there for forever, even before the Taagmar ever existed on the planet."
-    woman ""
 
-# game/episode017.rpy:809
+    woman "L'arche est là depuis toujours, avant même que les Taagmar n'existent sur la planète."
+
+
 translate french ep017_docks_refugee_5c3058d4:
 
-    # c "What makes you think the Sovereignty is targeting the building specifically?"
-    c ""
 
-# game/episode017.rpy:811
+    c "Qu'est-ce qui te fait penser que la Souveraineté cible spécifiquement le bâtiment ?"
+
+
 translate french ep017_docks_refugee_21fde57b:
 
-    # woman "Multiple strike teams have been intercepted near the arch."
-    woman ""
 
-# game/episode017.rpy:812
+    woman "De multiples équipes d'intervention ont été interceptées près de l'arche."
+
+
 translate french ep017_docks_refugee_bfb5a777:
 
-    # woman "Because direct strikes didn’t work out that well for them, they’re just trying to take the whole city and be done with it that way."
-    woman ""
 
-# game/episode017.rpy:813
+    woman "Comme les frappes directes n'ont pas très bien fonctionné pour eux, ils essaient juste de prendre toute la ville et d'en finir de cette façon."
+
+
 translate french ep017_docks_refugee_dcef3f4f:
 
-    # c "Any other pointers you can give us?"
-    c ""
 
-# game/episode017.rpy:815
+    c "Y a-t-il d'autres indications que tu puisses nous donner ?"
+
+
 translate french ep017_docks_refugee_a39928f7:
 
-    # woman "I can give you the exact location of the arch."
-    woman ""
 
-# game/episode017.rpy:816
+    woman "Je peux te donner l'emplacement exact de l'arche."
+
+
 translate french ep017_docks_refugee_7a22ad1e:
 
-    # woman "As for landing near the capital, you’re on your own."
-    woman ""
 
-# game/episode017.rpy:818
+    woman "Pour ce qui est d'atterrir près de la capitale, c'est à toi de jouer."
+
+
 translate french ep017_docks_refugee_41f41b99:
 
-    # woman "I hope whatever you’re trying to find over there is worth it, as touching down is likely suicide, the entire planet is a warzone."
-    woman ""
 
-# game/episode017.rpy:819
+    woman "J'espère que ce que vous essayez de trouver là-bas en vaut la peine, car atterrir est probablement du suicide, la planète entière est une zone de guerre."
+
+
 translate french ep017_docks_refugee_b7f4b180:
 
-    # c "Noted."
-    c ""
 
-# game/episode017.rpy:820
+    c "Noté."
+
+
 translate french ep017_docks_refugee_8da22c86:
 
-    # woman "That’s all I know."
-    woman ""
 
-# game/episode017.rpy:822
+    woman "C'est tout ce que je sais."
+
+
 translate french ep017_docks_refugee_62f5cc0f:
 
-    # "The guard held her tablet out in response, waiting for the remaining funds to be wired."
-    ""
 
-# game/episode017.rpy:823
+    "La gardienne tend sa tablette en guise de réponse, attendant que les fonds restants soient virés."
+
+
 translate french ep017_docks_refugee_2a319f5b:
 
-    # "Begrudgingly, I complied, and then we left without any further pleasantries."
-    ""
 
-# game/episode017.rpy:826
+    "À contrecœur, j'ai obtempéré, puis nous sommes partis sans autre forme de procès."
+
+
 translate french ep017_docks_refugee_af044583:
 
-    # c "A friend of ours is still stuck on your planet and we’re looking for a way to evacuate her."
-    c ""
 
-# game/episode017.rpy:828
+    c "Une de nos amies est toujours coincée sur votre planète et nous cherchons un moyen de l'évacuer."
+
+
 translate french ep017_docks_refugee_ba04762f:
 
-    # woman "Your friend is fighting for the Sovereignty, killing our people?"
-    woman ""
 
-# game/episode017.rpy:829
+    woman "Ton amie se bat pour la Souveraineté et tue notre peuple ?"
+
+
 translate french ep017_docks_refugee_bf557386:
 
-    # c "No, not at all."
-    c ""
 
-# game/episode017.rpy:830
+    c "Non, pas du tout."
+
+
 translate french ep017_docks_refugee_42c833dc:
 
-    # c "She’s a merchant by trade and happened to be planet-side at the time of the invasion."
-    c ""
 
-# game/episode017.rpy:831
+    c "Elle est commerçante de métier et se trouvait sur la planète au moment de l'invasion."
+
+
 translate french ep017_docks_refugee_ed6cee27:
 
-    # c "I can assure you that neither we nor she have any love for the Sovereignty."
-    c ""
 
-# game/episode017.rpy:833
+    c "Je peux t'assurer que ni nous ni elle n'avons d'amour pour la Souveraineté."
+
+
 translate french ep017_docks_refugee_50b2273f:
 
-    # j "Entirely the opposite, I’d venture."
-    j ""
 
-# game/episode017.rpy:835
+    j "Je dirais même que c'est tout le contraire."
+
+
 translate french ep017_docks_refugee_49827d51:
 
-    # woman "But what knowledge do you seek?"
-    woman ""
 
-# game/episode017.rpy:836
+    woman "Mais que cherchez-vous à savoir ?"
+
+
 translate french ep017_docks_refugee_4dceb304:
 
-    # c "From the last message we received from her, she was staying in the planet’s capital."
-    c ""
 
-# game/episode017.rpy:837
+    c "D'après le dernier message que nous avons reçu d'elle, elle séjournait dans la capitale de la planète."
+
+
 translate french ep017_docks_refugee_625a84ac:
 
-    # c "The capital supposedly still stands, so we are looking for a way to land somewhere near and extract our friend."
-    c ""
 
-# game/episode017.rpy:839
+    c "La capitale est censée être toujours debout, alors nous cherchons un moyen d'atterrir quelque part à proximité et d'en extraire notre amie."
+
+
 translate french ep017_docks_refugee_fca751fc:
 
-    # woman "That sounds like suicide."
-    woman ""
 
-# game/episode017.rpy:840
+    woman "Cela ressemble à un suicide."
+
+
 translate french ep017_docks_refugee_3ae61e2d:
 
-    # c "She means a lot to us."
-    c ""
 
-# game/episode017.rpy:842
+    c "Elle compte beaucoup pour nous."
+
+
 translate french ep017_docks_refugee_3fb9cc2f:
 
-    # woman "Our latest reports, coming from those who have fled our planet recently, indicate that the planet is surrounded."
-    woman ""
 
-# game/episode017.rpy:843
+    woman "Nos derniers rapports, provenant de ceux qui ont fui notre planète récemment, indiquent que la planète est encerclée."
+
+
 translate french ep017_docks_refugee_811b2324:
 
-    # woman "The Sovereignty has so far resisted bombing the city, probably because of the Grand Arch of Taag."
-    woman ""
 
-# game/episode017.rpy:845
+    woman "La Souveraineté a jusqu'à présent résisté au bombardement de la ville, probablement à cause de la Grande Arche de Taag."
+
+
 translate french ep017_docks_refugee_03b4917e:
 
-    # zi "The Grand Arch?"
-    zi ""
 
-# game/episode017.rpy:846
+    zi "La Grande Arche ?"
+
+
 translate french ep017_docks_refugee_313fabd6:
 
-    # woman "It’s a landmark religious site near the center of the city."
-    woman ""
 
-# game/episode017.rpy:847
+    woman "C'est un site religieux emblématique situé près du centre de la ville."
+
+
 translate french ep017_docks_refugee_0862ae4e:
 
-    # woman "The arch was there before us Taagmar sprang into existence on the planet, the capital has grown around it."
-    woman ""
 
-# game/episode017.rpy:848
+    woman "L'arche était là avant que nous, Taagmar, n'apparaissions sur la planète, la capitale s'est développée autour d'elle."
+
+
 translate french ep017_docks_refugee_bf2c051e:
 
-    # woman "The Sovereignty seems to have taken an interest in this structure, considering several strike teams that were intercepted near the building."
-    woman ""
 
-# game/episode017.rpy:850
+    woman "La Souveraineté semble s'être intéressée à cette structure, si l'on considère plusieurs équipes de frappe qui ont été interceptées près de l'édifice."
+
+
 translate french ep017_docks_refugee_a574536c:
 
-    # woman "If your friend has been lucky so far, she’ll probably be near the arch, as it’s relatively safe there, currently."
-    woman ""
 
-# game/episode017.rpy:851
+    woman "Si ton amie a eu de la chance jusqu'à présent, elle sera probablement près de l'arche, car elle y est relativement en sécurité, actuellement."
+
+
 translate french ep017_docks_refugee_74ecb2c9:
 
-    # woman "As for a safe way to enter our planet’s atmosphere, I have no idea, the entire planet is a warzone."
-    woman ""
 
-# game/episode017.rpy:852
+    woman "Quant à un moyen sûr d'entrer dans l'atmosphère de notre planète, je n'en ai aucune idée, la planète entière est une zone de guerre."
+
+
 translate french ep017_docks_refugee_fe7a2df2:
 
-    # c "We understand."
-    c ""
 
-# game/episode017.rpy:853
+    c "Nous comprenons."
+
+
 translate french ep017_docks_refugee_1a66133e:
 
-    # c "We’ll find a way to get to the planet."
-    c ""
 
-# game/episode017.rpy:854
+    c "Nous trouverons un moyen de nous rendre sur la planète."
+
+
 translate french ep017_docks_refugee_ec51aef4:
 
-    # c "Thank you for the information."
-    c ""
 
-# game/episode017.rpy:856
+    c "Merci pour ces informations."
+
+
 translate french ep017_docks_refugee_330a548a:
 
-    # "The Taagmar priestess resumed her meditation as we made our way back through the residential area to our ship."
-    ""
 
-# game/episode017.rpy:869
+    "La prêtresse Taagmar reprend sa méditation tandis que nous retraversons le quartier résidentiel pour rejoindre notre vaisseau."
+
+
 translate french ep017_docks_refugee_c7100d45:
 
-    # c "So, what do you think?"
-    c ""
 
-# game/episode017.rpy:872
+    c "Alors, qu'en pensez-vous ?"
+
+
 translate french ep017_docks_refugee_4b92a10c:
 
-    # zi "I’m mostly wondering which friend we’re going to rescue?"
-    zi ""
 
-# game/episode017.rpy:874
+    zi "Je me demande surtout quel ami nous allons sauver ?"
+
+
 translate french ep017_docks_refugee_de695f35:
 
-    # j "I’m mostly wondering which friend we’re going to rescue?"
-    j ""
 
-# game/episode017.rpy:875
+    j "Je me demande surtout quel ami nous allons sauver ?"
+
+
 translate french ep017_docks_refugee_d6d86f9c:
 
-    # c "I’m sure that will remain a mystery until the heat death of the universe."
-    c ""
 
-# game/episode017.rpy:877
+    c "Je suis sûr que cela restera un mystère jusqu'à la mort thermique de l'univers."
+
+
 translate french ep017_docks_refugee_252e2f3a:
 
-    # zi "Did you really need to lie to the Taagmar priestess?"
-    zi ""
 
-# game/episode017.rpy:878
+    zi "Avais-tu vraiment besoin de mentir à la prêtresse de Taagmar ?"
+
+
 translate french ep017_docks_refugee_0119c04e:
 
-    # c "I didn’t see any other way to give a plausible reason for our interest in the invasion of their capital."
-    c ""
 
-# game/episode017.rpy:880
+    c "Je ne voyais pas d'autre moyen de donner une raison plausible à notre intérêt pour l'invasion de leur capitale."
+
+
 translate french ep017_docks_refugee_e6f253be:
 
-    # j "At least we have a clear idea where to look."
-    j ""
 
-# game/episode017.rpy:882
+    j "Au moins, nous avons une idée précise de l'endroit où chercher."
+
+
 translate french ep017_docks_refugee_5fd62287:
 
-    # zi "Flying into that warzone with a civilian ship seems incredibly dangerous, though."
-    zi ""
 
-# game/episode017.rpy:883
+    zi "Voler dans cette zone de guerre avec un vaisseau civil semble incroyablement dangereux, cependant."
+
+
 translate french ep017_docks_refugee_e85a256a:
 
-    # c "Yes, especially considering the Sovereignty has such a hard-on for us."
-    c ""
 
-# game/episode017.rpy:884
+    c "Oui, surtout si l'on considère que la Souveraineté a une telle dent contre nous."
+
+
 translate french ep017_docks_refugee_189bb1df:
 
-    # c "They’ll probably flag us the moment we break atmosphere."
-    c ""
 
-# game/episode017.rpy:886
+    c "Ils nous repéreront probablement dès que nous entrerons dans l'atmosphère."
+
+
 translate french ep017_docks_refugee_66c09489:
 
-    # j "Maybe Thyia could mask our ship’s identifier again?"
-    j ""
 
-# game/episode017.rpy:887
+    j "Peut-être que Thyia pourrait à nouveau masquer l'identifiant de notre vaisseau ?"
+
+
 translate french ep017_docks_refugee_097b0296:
 
-    # c "Maybe, but that still means landing a non-Sovereignty craft amidst an active conflict."
-    c ""
 
-# game/episode017.rpy:888
+    c "Peut-être, mais cela signifie toujours l'atterrissage d'un vaisseau n'appartenant pas à la Souveraineté au milieu d'un conflit actif."
+
+
 translate french ep017_docks_refugee_18d92ffd:
 
-    # c "I think we need to head back and discuss our options."
-    c ""
 
-# game/episode017.rpy:893
+    c "Je pense que nous devons rentrer et discuter de nos options."
+
+
 translate french ep017_docks_refugee_6b868edf:
 
-    # "At that moment, we all received an urgent message from Thyia."
-    ""
 
-# game/episode017.rpy:894
+    "À ce moment-là, nous avons tous reçu un message urgent de Thyia."
+
+
 translate french ep017_docks_refugee_2c55597d:
 
-    # th "You all need to come back to the Bastard!"
-    th ""
 
-# game/episode017.rpy:895
+    th "Vous devez tous revenir au Bastard !"
+
+
 translate french ep017_docks_refugee_badc6d5b:
 
-    # th "I’ve just spotted Glixken and his mercenaries on the station."
-    th ""
 
-# game/episode017.rpy:896
+    th "Je viens de repérer Glixken et ses mercenaires sur la station."
+
+
 translate french ep017_docks_refugee_058c8683:
 
-    # th "They appear to be looking for us."
-    th ""
 
-# game/episode017.rpy:897
+    th "Ils semblent être à notre recherche."
+
+
 translate french ep017_docks_refugee_0a830946:
 
-    # c "Fuck!"
-    c ""
 
-# game/episode017.rpy:898
+    c "Putain !"
+
+
 translate french ep017_docks_refugee_011d031d:
 
-    # c "Let’s run."
-    c ""
 
-# game/episode017.rpy:900
+    c "Fuyons."
+
+
 translate french ep017_docks_refugee_e4470065:
 
-    # c "Be careful we don’t run into Glixken on our way to the Bastard."
-    c ""
 
-# game/episode017.rpy:902
+    c "Fais attention à ce que nous ne tombions pas sur Glixken sur le chemin du Bastard."
+
+
 translate french ep017_docks_refugee_f755e65b:
 
-    # "We reached the docks without encountering Glixken, nor any of his mercenaries."
-    ""
 
-# game/episode017.rpy:904
+    "Nous avons atteint les quais sans rencontrer Glixken, ni aucun de ses mercenaires."
+
+
 translate french ep017_docks_refugee_f567643a:
 
-    # "Lilly, Thyia and Céline were waiting for us on the bridge."
-    ""
 
-# game/episode017.rpy:905
+    "Lilly, Thyia et Céline nous attendaient sur le pont."
+
+
 translate french ep017_docks_refugee_46ea4eab:
 
-    # "The rest of the crew was supposedly spread around the ship to prepare for a hasty departure."
-    ""
 
-# game/episode017.rpy:909
+    "Le reste de l'équipage était soi-disant réparti sur le vaisseau pour se préparer à un départ précipité."
+
+
 translate french ep017_altum_exit_baf7b638:
 
-    # c "Everyone here?"
-    c ""
 
-# game/episode017.rpy:911
+    c "Tout le monde est là ?"
+
+
 translate french ep017_altum_exit_113e24a7:
 
-    # l "No, [p_name_short], we're missing Eva."
-    l ""
 
-# game/episode017.rpy:912
+    l "Non, [p_name_short], il nous manque Eva."
+
+
 translate french ep017_altum_exit_023d7daa:
 
-    # c "I thought she was with you?"
-    c ""
 
-# game/episode017.rpy:914
+    c "Je croyais qu'elle était avec vous ?"
+
+
 translate french ep017_altum_exit_d94967d7:
 
-    # l "She was, but we got separated when we got the news."
-    l ""
 
-# game/episode017.rpy:915
+    l "Elle l'était, mais nous avons été séparés quand nous avons appris la nouvelle."
+
+
 translate french ep017_altum_exit_20d5a4b8:
 
-    # l "I looked all over the place for her, but then I had a near run-in with some of Glixken's men."
-    l ""
 
-# game/episode017.rpy:916
+    l "Je l'ai cherchée partout, mais j'ai failli tomber sur des hommes de Glixken."
+
+
 translate french ep017_altum_exit_aab23d1b:
 
-    # c "Well, fuck!"
-    c ""
 
-# game/episode017.rpy:917
+    c "Eh bien, putain !"
+
+
 translate french ep017_altum_exit_d3044c73:
 
-    # c "Isn't she responding to any calls?"
-    c ""
 
-# game/episode017.rpy:919
+    c "Elle ne répond à aucun appel ?"
+
+
 translate french ep017_altum_exit_d380fab3:
 
-    # ce "She isn't, but the coverage isn't great on the lower levels of the station."
-    ce ""
 
-# game/episode017.rpy:921
+    ce "Non, mais la couverture n'est pas très bonne aux niveaux inférieurs de la station."
+
+
 translate french ep017_altum_exit_3fe7a298:
 
-    # th "We need to leave, [p_name]."
-    th ""
 
-# game/episode017.rpy:923
+    th "Nous devons partir, [p_name]."
+
+
 translate french ep017_altum_exit_087e56cb:
 
-    # c "And leave my sister here to those fucking mercs?!"
-    c ""
 
-# game/episode017.rpy:925
+    c "Et laisser ma sœur ici à ces putains de mercenaires ? !"
+
+
 translate french ep017_altum_exit_8bc9cafa:
 
-    # c "And leave Eva here to those fucking mercs?!"
-    c ""
 
-# game/episode017.rpy:926
+    c "Et laisser Eva ici à ces putains de mercenaires ? !"
+
+
 translate french ep017_altum_exit_3a8f8e20:
 
-    # c "I'm going to look for her."
-    c ""
 
-# game/episode017.rpy:928
+    c "Je vais la chercher."
+
+
 translate french ep017_altum_exit_1ccd2c61:
 
-    # l "I’m coming with."
-    l ""
 
-# game/episode017.rpy:929
+    l "Je viens avec toi."
+
+
 translate french ep017_altum_exit_cb2a96e5:
 
-    # c "No, I can move faster on my own."
-    c ""
 
-# game/episode017.rpy:930
+    c "Non, je peux aller plus vite tout seul."
+
+
 translate french ep017_altum_exit_b050c436:
 
-    # c "Power up the ship, Céline and wait for me."
-    c ""
 
-# game/episode017.rpy:931
+    c " Prépare le vaisseau, Céline, et attends-moi."
+
+
 translate french ep017_altum_exit_418db9d9:
 
-    # c "On what level did you leave her behind, Lilly?"
-    c ""
 
-# game/episode017.rpy:933
+    c "À quel niveau l'as-tu laissée, Lilly ?"
+
+
 translate french ep017_altum_exit_06d67262:
 
-    # l "We were on level six."
-    l ""
 
-# game/episode017.rpy:934
+    l "Nous étions au niveau 6."
+
+
 translate french ep017_altum_exit_2dda03fc:
 
-    # c "Good, I'm heading out."
-    c ""
 
-# game/episode017.rpy:935
+    c "Bien, j'y vais."
+
+
 translate french ep017_altum_exit_9d63e42b:
 
-    # c "If Glixken and his cronies decide to visit the hangar bay, just fly out of here and put as much distance between you and the station."
-    c ""
 
-# game/episode017.rpy:936
+    c "Si Glixken et ses acolytes décident de visiter le hangar, quittez les lieux en mettant le plus de distance possible entre vous et la station."
+
+
 translate french ep017_altum_exit_69f342b0:
 
-    # c "I'll find some other way to meet up with you all later."
-    c ""
 
-# game/episode017.rpy:938
+    c "Je trouverai un autre moyen de vous retrouver tous plus tard."
+
+
 translate french ep017_altum_exit_1eed4750:
 
-    # "Before anyone could object, I jumped out of the ship and exited the docks."
-    ""
 
-# game/episode017.rpy:939
+    "Avant que quiconque ne puisse objecter, j'ai sauté du vaisseau et je suis sorti des docks."
+
+
 translate french ep017_altum_exit_4fabba4b:
 
-    # "Level six was on the other side of the station."
-    ""
 
-# game/episode017.rpy:941
+    "Le niveau six se trouvait de l'autre côté de la station."
+
+
 translate french ep017_altum_exit_b9a82146:
 
-    # "Luckily, the station was so crowded, I could blend in most of the time."
-    ""
 
-# game/episode017.rpy:942
+    "Heureusement, la station était tellement bondée que je pouvais me fondre dans la masse la plupart du temps."
+
+
 translate french ep017_altum_exit_a28ff3ef:
 
-    # "There was no sight of Glixken or his mercenaries yet."
-    ""
 
-# game/episode017.rpy:943
+    "Je n'ai pas encore vu Glixken ou ses mercenaires."
+
+
 translate french ep017_altum_exit_a5e1f494:
 
-    # "As soon as I reached level six, I tried calling Eva again."
-    ""
 
-# game/episode017.rpy:944
+    "Dès que j'ai atteint le niveau 6, j'ai essayé d'appeler Eva."
+
+
 translate french ep017_altum_exit_e5db393f:
 
-    # "She still didn’t pick up."
-    ""
 
-# game/episode017.rpy:945
+    "Elle ne décrochait toujours pas."
+
+
 translate french ep017_altum_exit_be24f720:
 
-    # "I was about to put the tablet away when it buzzed."
-    ""
 
-# game/episode017.rpy:946
+    "Je m'apprêtais à ranger la tablette quand elle a sonné."
+
+
 translate french ep017_altum_exit_dee3e53b:
 
-    # "A written message from Eva."
-    ""
 
-# game/episode017.rpy:947
+    "Un message écrit d'Eva."
+
+
 translate french ep017_altum_exit_d492b027:
 
-    # "“Holed up on level six. Utility room 12B. Glixken mercs everywhere. I don’t know what to do!”"
-    ""
 
-# game/episode017.rpy:949
+    "« Je me suis cachée au niveau 6. Salle de service 12B. Des mercenaires de Glixken partout. Je ne sais pas quoi faire ! »"
+
+
 translate french ep017_altum_exit_a9540014:
 
-    # "I messaged Eva back and told her to sit tight as I started to cross level six to the utility room where my sister was hiding."
-    ""
 
-# game/episode017.rpy:951
+    "J'ai envoyé un message à Eva et lui ai dit de ne pas bouger pendant que je commençais à traverser le niveau 6 jusqu'à la salle de service où se cachait ma sœur."
+
+
 translate french ep017_altum_exit_5f9886e8:
 
-    # "I messaged Eva back and told her to sit tight as I started to cross level six to the utility room where my friend was hiding."
-    ""
 
-# game/episode017.rpy:952
+    "J'ai envoyé un message à Eva pour lui dire de ne pas bouger et j'ai commencé à traverser le niveau 6 jusqu'à la buanderie où se cachait mon amie."
+
+
 translate french ep017_altum_exit_30cec001:
 
-    # "Most of the refugees were concentrated in the areas surrounding the docks, so this level was noticeably less crowded."
-    ""
 
-# game/episode017.rpy:953
+    "La plupart des réfugiés étaient concentrés dans les zones entourant les docks, ce niveau était donc nettement moins encombré."
+
+
 translate french ep017_altum_exit_9fc574b2:
 
-    # "I was about to turn a corner when I heard the grating sound of what I thought was Glixken’s voice."
-    ""
 
-# game/episode017.rpy:955
+    "J'allais tourner au coin quand j'ai entendu le son grinçant de ce que j'ai cru être la voix de Glixken."
+
+
 translate french ep017_altum_exit_308edd03:
 
-    # "Looking carefully around the corner, I saw several of Glixken’s mercs patrolling the area."
-    ""
 
-# game/episode017.rpy:956
+    "En regardant attentivement au coin pour voir, j'ai aperçu plusieurs mercenaires de Glixken qui patrouillaient dans la zone."
+
+
 translate french ep017_altum_exit_5a257408:
 
-    # "Two of them were talking to each other, but Glixken was nowhere in sight."
-    ""
 
-# game/episode017.rpy:957
+    "Deux d'entre eux parlaient entre eux, mais Glixken n'était nulle part en vue."
+
+
 translate french ep017_altum_exit_29258a06:
 
-    # "The utility room was across the mercs, in a corridor."
-    ""
 
-# game/episode017.rpy:958
+    "La buanderie se trouvait de l'autre côté des mercenaires, dans un couloir."
+
+
 translate french ep017_altum_exit_550b5f91:
 
-    # "The only way to reach it was to sneak past the patrol."
-    ""
 
-# game/episode017.rpy:959
+    "Le seul moyen de l'atteindre était de se faufiler à travers la patrouille."
+
+
 translate french ep017_altum_exit_fb4310cf:
 
-    # "Glixken’s men didn’t appear to be on high alert."
-    ""
 
-# game/episode017.rpy:960
+    "Les hommes de Glixken ne semblaient pas être en état d'alerte."
+
+
 translate french ep017_altum_exit_28861f26:
 
-    # "While I tried to determine a pattern in their patrols, Glixken arrived."
-    ""
 
-# game/episode017.rpy:962
+    "Pendant que j'essayais de déterminer un schéma dans leurs patrouilles, Glixken est arrivé."
+
+
 translate french ep017_altum_exit_4b783539:
 
-    # gl "What the fuck are you still doing here?"
-    gl ""
 
-# game/episode017.rpy:964
+    gl "Qu'est-ce que vous faites encore ici ?"
+
+
 translate french ep017_altum_exit_6c1d4a5a:
 
-    # man "We thought we saw the girl here."
-    man ""
 
-# game/episode017.rpy:966
+    man "Nous pensions avoir vu la fille ici."
+
+
 translate french ep017_altum_exit_0ae79cb4:
 
-    # gl "And instead of searching, you decided to act like the fucking neighborhood watch?!"
-    gl ""
 
-# game/episode017.rpy:967
+    gl "Et au lieu de chercher, vous avez décidé d'agir comme la putain de police de quartier !"
+
+
 translate french ep017_altum_exit_7369a073:
 
-    # man "We thought-"
-    man ""
 
-# game/episode017.rpy:968
+    man "Nous pensions..."
+
+
 translate french ep017_altum_exit_dc85c132:
 
-    # gl "Shut up and follow me to the docks!"
-    gl ""
 
-# game/episode017.rpy:969
+    gl "Taisez-vous et suivez-moi jusqu'aux docks !"
+
+
 translate french ep017_altum_exit_18e70d98:
 
-    # gl "We found their ship, the girl is likely already on it."
-    gl ""
 
-# game/episode017.rpy:971
+    gl "Nous avons trouvé leur vaisseau, la fille est probablement déjà dessus."
+
+
 translate french ep017_altum_exit_de80ea84:
 
-    # "I couldn’t hear the rest of what they were saying."
-    ""
 
-# game/episode017.rpy:972
+    "Je n'ai pas pu entendre le reste de ce qu'ils disaient."
+
+
 translate french ep017_altum_exit_3e488586:
 
-    # "My call to warn Céline of the incoming mercs failed, probably the reason why Lilly lost contact with Eva earlier."
-    ""
 
-# game/episode017.rpy:973
+    "Mon appel pour prévenir Céline de l'arrivée des mercenaires a échoué, sans doute la raison pour laquelle Lilly a perdu le contact avec Eva tout à l'heure."
+
+
 translate french ep017_altum_exit_fae2ec74:
 
-    # "The crew of the Bastard was on alert, so I just hoped they would escape the docks as soon as Glixken and his troops were spotted."
-    ""
 
-# game/episode017.rpy:975
+    "L'équipage du Bastard était en alerte, j'espérais simplement qu'ils s'échapperaient des docks dès que Glixken et ses troupes seraient repérés."
+
+
 translate french ep017_altum_exit_fce52292:
 
-    # "My way to Eva was now clear, so I hurried across towards the corridor."
-    ""
 
-# game/episode017.rpy:976
+    "Mon chemin vers Eva était maintenant dégagé, alors je me suis dépêché de traverser le couloir."
+
+
 translate french ep017_altum_exit_e628bfe6:
 
-    # "The door to room 12B appeared to be locked, so I knocked."
-    ""
 
-# game/episode017.rpy:977
+    "La porte de la chambre 12B semblait fermée à clé, alors j'ai frappé."
+
+
 translate french ep017_altum_exit_66b0a42a:
 
-    # c "Eva, it’s me!"
-    c ""
 
-# game/episode017.rpy:978
+    c "Eva, c'est moi !"
+
+
 translate french ep017_altum_exit_c1da6d66:
 
-    # "The door slid open in response."
-    ""
 
-# game/episode017.rpy:980
+    "La porte s'est ouverte en réponse."
+
+
 translate french ep017_altum_exit_43bda2bc:
 
-    # "Eva stood inside the room, holding a wrench and ready to hit me over the head."
-    ""
 
-# game/episode017.rpy:981
+    "Eva se tenait à l'intérieur de la pièce, une clé à molette à la main, prête à me frapper à la tête."
+
+
 translate french ep017_altum_exit_16e8b20a:
 
-    # e "I’m so glad it’s you."
-    e ""
 
-# game/episode017.rpy:983
+    e "Je suis si contente que ce soit toi."
+
+
 translate french ep017_altum_exit_c4c59048:
 
-    # e "Are they gone?"
-    e ""
 
-# game/episode017.rpy:984
+    e "Ils sont partis ?"
+
+
 translate french ep017_altum_exit_d96f5eea:
 
-    # c "They are."
-    c ""
 
-# game/episode017.rpy:986
+    c "Oui, ils sont partis."
+
+
 translate french ep017_altum_exit_9015c3b0:
 
-    # e "I was so scared, [p_name_short]!"
-    e ""
 
-# game/episode017.rpy:987
+    e "J'ai eu tellement peur, [p_name_short] !"
+
+
 translate french ep017_altum_exit_e5464acb:
 
-    # "Eva trembled as I took her into my arms."
-    ""
 
-# game/episode017.rpy:988
+    "Eva a tremblé quand je l'ai prise dans mes bras."
+
+
 translate french ep017_altum_exit_c486755b:
 
-    # e "Lilly and I got separated at some point, and just as I was on my way back to meet her, we got that message from Thyia."
-    e ""
 
-# game/episode017.rpy:989
+    e "Lilly et moi avons été séparées à un moment donné, et juste au moment où j'allais la retrouver, nous avons reçu ce message de Thyia."
+
+
 translate french ep017_altum_exit_84660cfe:
 
-    # e "And then two of those mercenaries came around the corner."
-    e ""
 
-# game/episode017.rpy:990
+    e "Et puis deux de ces mercenaires sont arrivés au tournant."
+
+
 translate french ep017_altum_exit_6e546c65:
 
-    # e "I panicked and ran."
-    e ""
 
-# game/episode017.rpy:992
+    e "J'ai paniquée et j'ai courue."
+
+
 translate french ep017_altum_exit_63d679bd:
 
-    # e "They followed me to this level, but I managed to slip into this room and lock the door."
-    e ""
 
-# game/episode017.rpy:993
+    e "Ils m'ont suivi jusqu'à ce niveau, mais j'ai réussi à me glisser dans cette pièce et à verrouiller la porte."
+
+
 translate french ep017_altum_exit_557d47fc:
 
-    # e "I don’t think they saw me go in, because they didn’t pursue."
-    e ""
 
-# game/episode017.rpy:994
+    e "Je ne pense pas qu'ils m'aient vu entrer, car ils ne m'ont pas poursuivi."
+
+
 translate french ep017_altum_exit_66c668ec:
 
-    # e "When I dared to go back out, they were patrolling the area, covering all the exits."
-    e ""
 
-# game/episode017.rpy:995
+    e "Quand j'ai osé ressortir, ils patrouillaient dans la zone, couvrant toutes les sorties."
+
+
 translate french ep017_altum_exit_5dd4a361:
 
-    # c "They’re gone now."
-    c ""
 
-# game/episode017.rpy:996
+    c "Ils sont partis maintenant."
+
+
 translate french ep017_altum_exit_d65e25b0:
 
-    # c "Glixken has discovered the ship in the docking bay."
-    c ""
 
-# game/episode017.rpy:998
+    c "Glixken a découvert le vaisseau dans la baie d'amarrage."
+
+
 translate french ep017_altum_exit_ec89e394:
 
-    # e "Oh no!{w} The rest of the crew is aware, right?"
-    e ""
 
-# game/episode017.rpy:999
+    e "Oh non !{w} Le reste de l'équipage est au courant, n'est-ce pas ?"
+
+
 translate french ep017_altum_exit_f3287c7b:
 
-    # c "No, but I told them to keep watch and flee in case of danger."
-    c ""
 
-# game/episode017.rpy:1000
+    c "Non, mais je leur ai dit de monter la garde et de fuir en cas de danger."
+
+
 translate french ep017_altum_exit_161cf5e6:
 
-    # c "I can’t get a message out to the ship from here, but I hope they’re already gone."
-    c ""
 
-# game/episode017.rpy:1002
+    c "Je ne peux pas envoyer de message au vaisseau d'ici, mais j'espère qu'ils sont déjà partis."
+
+
 translate french ep017_altum_exit_b83a4818:
 
-    # e "But that means we’re stranded here, doesn’t it?"
-    e ""
 
-# game/episode017.rpy:1003
+    e "Mais cela signifie que nous sommes bloqués ici, n'est-ce pas ?"
+
+
 translate french ep017_altum_exit_5ea74252:
 
-    # c "Not if I can help it."
-    c ""
 
-# game/episode017.rpy:1004
+    c "Pas si je peux l'empêcher."
+
+
 translate french ep017_altum_exit_df68c15b:
 
-    # c "Back to the docks."
-    c ""
 
-# game/episode017.rpy:1006
+    c "Revenons sur les quais."
+
+
 translate french ep017_altum_exit_c15422a0:
 
-    # "We ran as fast as we could, but skidded to a halt near the first stairway."
-    ""
 
-# game/episode017.rpy:1008
+    "Nous avons couru aussi vite que possible, mais nous nous sommes arrêtés près du premier escalier."
+
+
 translate french ep017_altum_exit_98dba0e3:
 
-    # "Glixken had apparently left a sentry behind who was standing guard at the top."
-    ""
 
-# game/episode017.rpy:1010
+    "Glixken avait apparemment laissé une sentinelle derrière lui, qui montait la garde en haut."
+
+
 translate french ep017_altum_exit_f0d3dde3:
 
-    # "I motioned Eva to hide behind a pillar and drew my gun."
-    ""
 
-# game/episode017.rpy:1014
+    "J'ai fait signe à Eva de se cacher derrière un pilier et j'ai sorti mon arme."
+
+
 translate french ep017_altum_exit_f2dab486:
 
-    # "Luckily, this area of the station wasn't as crowded as the docks, so I didn't think there was much need for stealth."
-    ""
 
-# game/episode017.rpy:1015
+    "Heureusement, ce quartier de la station n'était pas aussi fréquenté que les docks, je ne pensais donc pas qu'il était nécessaire d'être furtif."
+
+
 translate french ep017_altum_exit_6300e757:
 
-    # "The guard didn't have a clue he was about to get shot in the head as I slowly climbed the stairs."
-    ""
 
-# game/episode017.rpy:1017
+    "Le garde ne se doutait pas qu'il allait se prendre une balle dans la tête alors que je montais lentement les escaliers."
+
+
 translate french ep017_altum_exit_6094e1d9:
 
-    # "I trained my gun on the back of his head and pulled the trigger."
-    ""
 
-# game/episode017.rpy:1019
+    "J'ai pointé mon arme sur l'arrière de sa tête et j'ai appuyé sur la gâchette."
+
+
 translate french ep017_altum_exit_fef25a91:
 
-    # "The energy beam went straight through his skull, part of it exploding in a spray of blood and gore."
-    ""
 
-# game/episode017.rpy:1020
+    "Le rayon d'énergie a traversé son crâne, une partie de celui-ci explosant dans une gerbe de sang et de sang."
+
+
 translate french ep017_altum_exit_a7b4c6da:
 
-    # "There was no sound, apart from the fleshy explosion and the last breath gurgling out of the merc's throat as he fell face-first on the floor."
-    ""
 
-# game/episode017.rpy:1022
+    "Il n'y a eu aucun bruit, à part l'explosion charnelle et le dernier souffle qui s'est échappé de la gorge du mercenaire alors qu'il tombait la tête la première sur le sol."
+
+
 translate french ep017_altum_exit_853eec1b:
 
-    # "Leaving a dead body out in the open didn't seem like a great idea, so I grabbed his legs and pulled him down the stairs."
-    ""
 
-# game/episode017.rpy:1023
+    "Laisser un cadavre à l'air libre ne me semblait pas être une bonne idée, alors j'ai attrapé ses jambes et je l'ai tiré vers les escaliers."
+
+
 translate french ep017_altum_exit_c37f43ed:
 
-    # "The blood smears would undoubtedly be noticed by anyone passing by, but maybe hiding the body would give us some time."
-    ""
 
-# game/episode017.rpy:1025
+    "Les traces de sang seraient sans doute remarquées par les passants, mais peut-être que cacher le corps nous donnerait un peu de temps."
+
+
 translate french ep017_altum_exit_8e63d223:
 
-    # "Together with Eva, I stowed the merc in the storeroom where my sister had hidden herself earlier."
-    ""
 
-# game/episode017.rpy:1027
+    "Avec Eva, j'ai rangé le mercenaire dans le débarras où ma sœur s'était cachée un peu plus tôt."
+
+
 translate french ep017_altum_exit_2656c57b:
 
-    # "Together with Eva, I stowed the merc in the storeroom where my friend had hidden herself earlier."
-    ""
 
-# game/episode017.rpy:1028
+    "Avec Eva, j'ai rangé le corps dans la réserve où mon amie s'était cachée un peu plus tôt."
+
+
 translate french ep017_altum_exit_cf4c19b5:
 
-    # "If Eva was disturbed by my actions, I didn't notice it, she performed the necessary tasks with grim dedication."
-    ""
 
-# game/episode017.rpy:1030
+    "Si Eva a été perturbée par mes actions, je ne l'ai pas remarqué, elle a effectué les tâches nécessaires avec un dévouement sinistre."
+
+
 translate french ep017_altum_exit_c14a04ca:
 
-    # "While this area of the station wasn't as crowded as the docks, people still passed through to get to the residential areas."
-    ""
 
-# game/episode017.rpy:1031
+    "Même si ce quartier de la station n'était pas aussi fréquenté que les docks, les gens passaient quand même pour se rendre dans les quartiers résidentiels."
+
+
 translate french ep017_altum_exit_3f3bede0:
 
-    # "I had to take the merc out quick and silent."
-    ""
 
-# game/episode017.rpy:1033
+    "Je devais éliminer le mercenaire rapidement et silencieusement."
+
+
 translate french ep017_altum_exit_ab610ade:
 
-    # "I had my gun trained at the back of his head, just in case, but the guard didn't turn around when I slowly climbed the stairs."
-    ""
 
-# game/episode017.rpy:1035
+    "J'avais braqué mon arme sur l'arrière de sa tête, juste au cas où, mais le garde ne s'est pas retourné lorsque j'ai lentement gravi les escaliers."
+
+
 translate french ep017_altum_exit_f3e887b4:
 
-    # "As I neared him, I holstered my weapon and took the merc in a choke hold."
-    ""
 
-# game/episode017.rpy:1036
+    "En m'approchant de lui, j'ai rangé mon arme dans mon étui et j'ai étranglé le mercenaire."
+
+
 translate french ep017_altum_exit_16791040:
 
-    # "He flailed and tried to wrestle himself away from me."
-    ""
 
-# game/episode017.rpy:1037
+    "Il s'est débattu et a essayé de s'éloigner de moi."
+
+
 translate french ep017_altum_exit_b8a400cd:
 
-    # "As he was about to cry out, I locked my arm against his windpipe, slowly choking him into unconsciousness."
-    ""
 
-# game/episode017.rpy:1038
+    "Alors qu'il était sur le point de crier, j'ai bloqué mon bras contre sa trachée, l'étouffant lentement jusqu'à ce qu'il perde connaissance."
+
+
 translate french ep017_altum_exit_56a7d64f:
 
-    # "When he stopped flailing, I guided the merc towards the floor, kicking away the gun he dropped."
-    ""
 
-# game/episode017.rpy:1040
+    "Lorsqu'il a cessé de s'agiter, j'ai guidé le mercenaire vers le sol, en éloignant d'un coup de pied l'arme qu'il avait laissée tomber."
+
+
 translate french ep017_altum_exit_507d472e:
 
-    # "Leaving a body out in the open didn't seem like a great idea, so I grabbed his legs and pulled him down the stairs."
-    ""
 
-# game/episode017.rpy:1042
+    "Laisser un corps à l'air libre ne me semblait pas être une bonne idée, alors j'ai attrapé ses jambes et je l'ai tiré dans les escaliers."
+
+
 translate french ep017_altum_exit_8e63d223_1:
 
-    # "Together with Eva, I stowed the merc in the storeroom where my sister had hidden herself earlier."
-    ""
 
-# game/episode017.rpy:1044
+    "Avec Eva, j'ai rangé le mercenaire dans la réserve où ma sœur s'était cachée un peu plus tôt."
+
+
 translate french ep017_altum_exit_2656c57b_1:
 
-    # "Together with Eva, I stowed the merc in the storeroom where my friend had hidden herself earlier."
-    ""
 
-# game/episode017.rpy:1046
+    "Avec Eva, j'ai rangé le mercenaire dans la réserve où mon amie s'était cachée un peu plus tôt."
+
+
 translate french ep017_altum_exit_5a46fb0f:
 
-    # "Our way clear, we ran towards the docks."
-    ""
 
-# game/episode017.rpy:1048
+    "La voie étant libre, nous avons couru vers les docks."
+
+
 translate french ep017_altum_exit_5d26b1f2:
 
-    # "Nearing the hangar bays, we slowed down, watching for any remnants of Glixken's crew that might still be on the lookout for us."
-    ""
 
-# game/episode017.rpy:1053
+    "À l'approche des hangars, nous avons ralenti, guettant les restes de l'équipage de Glixken qui pourraient encore nous guetter."
+
+
 translate french ep017_altum_exit_2d1c1b05:
 
-    # "The halls were still filled with refugees, but there was no trace of Glixken or his mercenaries."
-    ""
 
-# game/episode017.rpy:1054
+    "Les halls étaient toujours remplis de réfugiés, mais il n'y avait aucune trace de Glixken ou de ses mercenaires."
+
+
 translate french ep017_altum_exit_db6c7d23:
 
-    # "The Iron Bastard was nowhere to be seen either, its original berth now empty."
-    ""
 
-# game/episode017.rpy:1055
+    "L'Iron Bastard n'était nulle part non plus, son poste d'amarrage d'origine étant désormais vide."
+
+
 translate french ep017_altum_exit_2a00cbc5:
 
-    # c "I think they've escaped."
-    c ""
 
-# game/episode017.rpy:1057
+    c "Je pense qu'ils se sont échappés."
+
+
 translate french ep017_altum_exit_ef7539ba:
 
-    # e "What now?"
-    e ""
 
-# game/episode017.rpy:1058
+    e "Qu'est-ce qu'on fait maintenant ?"
+
+
 translate french ep017_altum_exit_8fd9c9f0:
 
-    # c "Now we commandeer a ship."
-    c ""
 
-# game/episode017.rpy:1060
+    c "Nous réquisitionnons un vaisseau"
+
+
 translate french ep017_altum_exit_231b8f30:
 
-    # e "Won't station security be all over us?"
-    e ""
 
-# game/episode017.rpy:1061
+    e "La sécurité de la station ne va-t-elle pas nous tomber dessus ?"
+
+
 translate french ep017_altum_exit_b9de6dcb:
 
-    # c "Only when we fail to secure a ship."
-    c ""
 
-# game/episode017.rpy:1062
+    c "Seulement si nous ne parvenons pas à sécuriser le vaisseau."
+
+
 translate french ep017_altum_exit_3e6d5a86:
 
-    # c "Security is stretched thin as it is because of the refugee crisis."
-    c ""
 
-# game/episode017.rpy:1063
+    c "La sécurité est déjà à bout de souffle à cause de la crise des réfugiés."
+
+
 translate french ep017_altum_exit_4b4f1571:
 
-    # c "I highly doubt they'll be able to get a team to us in time, let alone pursue outside the station."
-    c ""
 
-# game/episode017.rpy:1065
+    c "Je doute fort qu'ils soient en mesure de nous envoyer une équipe à temps, et encore moins de nous poursuivre en dehors de la station."
+
+
 translate french ep017_altum_exit_26172bf6:
 
-    # e "It's risky, but I guess we don't have a choice."
-    e ""
 
-# game/episode017.rpy:1066
+    e "C'est risqué, mais je suppose que nous n'avons pas le choix."
+
+
 translate french ep017_altum_exit_baa4168c:
 
-    # c "I think we don't."
-    c ""
 
-# game/episode017.rpy:1067
+    c "Je pense que nous n'avons pas le choix."
+
+
 translate french ep017_altum_exit_153b6e7e:
 
-    # c "Also, I just happen to know which ship to steal."
-    c ""
 
-# game/episode017.rpy:1069
+    c "De plus, il se trouve que je sais quel vaisseau voler."
+
+
 translate french ep017_altum_exit_e42dcaaa:
 
-    # "Eva followed me to the place where I had my encounter with the alien earlier."
-    ""
 
-# game/episode017.rpy:1071
+    "Eva m'a suivi jusqu'à l'endroit où j'ai rencontré l'extraterrestre tout à l'heure."
+
+
 translate french ep017_altum_exit_33ccc2ee:
 
-    # "Their ship was still moored there."
-    ""
 
-# game/episode017.rpy:1072
+    "Leur vaisseau y était toujours amarré."
+
+
 translate french ep017_altum_exit_5556fc66:
 
-    # "The canopy was open and the alien was inspecting one of the engines of the vessel."
-    ""
 
-# game/episode017.rpy:1073
+    "La verrière était ouverte et l'extraterrestre inspectait l'un des moteurs du vaisseau."
+
+
 translate french ep017_altum_exit_1e9f3096:
 
-    # c "Stay close."
-    c ""
 
-# game/episode017.rpy:1075
+    c "Reste à proximité."
+
+
 translate french ep017_altum_exit_1fc2ebb6:
 
-    # "As I approached the alien, I pulled the gun from my holster."
-    ""
 
-# game/episode017.rpy:1076
+    "En m'approchant de l'extraterrestre, j'ai sorti l'arme de mon étui."
+
+
 translate french ep017_altum_exit_bb598f7c:
 
-    # c "Hey, you there!"
-    c ""
 
-# game/episode017.rpy:1077
+    c "Hé, tu es là !"
+
+
 translate french ep017_altum_exit_83ef93db:
 
-    # c "Remember me?"
-    c ""
 
-# game/episode017.rpy:1078
+    c "Tu te souviens de moi ?"
+
+
 translate french ep017_altum_exit_4605924b:
 
-    # "Several bystanders started running at the sight of the unholstered weapon."
-    ""
 
-# game/episode017.rpy:1079
+    "Plusieurs passants se sont mis à courir à la vue de l'arme dégainée."
+
+
 translate french ep017_altum_exit_7af0daa7:
 
-    # "I needed to be quick about it, as some of them would undoubtedly alert station security."
-    ""
 
-# game/episode017.rpy:1080
+    "Je devais faire vite, car certains d'entre eux allaient sans doute alerter la sécurité de la station."
+
+
 translate french ep017_altum_exit_4721f585:
 
-    # c "Hands in the air."
-    c ""
 
-# game/episode017.rpy:1081
+    c "Mains en l'air."
+
+
 translate french ep017_altum_exit_a6064ca2:
 
-    # c "Slowly step away from your ship."
-    c ""
 
-# game/episode017.rpy:1084
+    c "Éloigne-toi lentement de ton vaisseau."
+
+
 translate french ep017_altum_exit_9ebfbff3:
 
-    # man "What is it now?"
-    man ""
 
-# game/episode017.rpy:1086
+    man "Qu'est-ce qu'il y a encore ?"
+
+
 translate french ep017_altum_exit_c9ed515a:
 
-    # man "Haven’t punished me enough?"
-    man ""
 
-# game/episode017.rpy:1088
+    man "Tu ne m'as pas assez puni ?"
+
+
 translate french ep017_altum_exit_6b66297d:
 
-    # man "I apologized, didn’t I?"
-    man ""
 
-# game/episode017.rpy:1089
+    man "Je me suis excusé, n'est-ce pas ?"
+
+
 translate french ep017_altum_exit_4167b6ca:
 
-    # c "I’m in need of a ship."
-    c ""
 
-# game/episode017.rpy:1090
+    c "J'ai besoin d'un vaisseau."
+
+
 translate french ep017_altum_exit_59ba0fcc:
 
-    # c "And since you’re a cunt harassing women, I figured I might as well take yours."
-    c ""
 
-# game/episode017.rpy:1091
+    c "Et comme tu es une salope qui harcèle les femmes, je me suis dit que je pouvais aussi bien prendre le tien."
+
+
 translate french ep017_altum_exit_894e9bdb:
 
-    # c "Are the keys still in the ignition?"
-    c ""
 
-# game/episode017.rpy:1093
+    c "Les clés sont toujours sur le contact ?"
+
+
 translate french ep017_altum_exit_c8f7e8fe:
 
-    # man "Fuck you."
-    man ""
 
-# game/episode017.rpy:1094
+    man "Va te faire foutre."
+
+
 translate french ep017_altum_exit_0101d2e2:
 
-    # c "I take that as a yes."
-    c ""
 
-# game/episode017.rpy:1095
+    c "Je prends ça pour un oui."
+
+
 translate french ep017_altum_exit_97d0dfd9:
 
-    # c "Stay behind me, Eva."
-    c ""
 
-# game/episode017.rpy:1097
+    c "Reste derrière moi, Eva."
+
+
 translate french ep017_altum_exit_015be0df:
 
-    # "The gun still trained on the fuming alien, Eva and I climbed on the wing of the ship."
-    ""
 
-# game/episode017.rpy:1099
+    "L'arme toujours braquée sur l'extraterrestre fumant, Eva et moi sommes montés sur l'aile du vaisseau."
+
+
 translate french ep017_altum_exit_022fdcd8:
 
-    # "The owner was now running towards us, screaming at the top of his lungs."
-    ""
 
-# game/episode017.rpy:1101
+    "Le propriétaire courait maintenant vers nous en hurlant à pleins poumons."
+
+
 translate french ep017_altum_exit_b71448e3:
 
-    # "We both strapped in, and I switched on the engines."
-    ""
 
-# game/episode017.rpy:1102
+    "Nous nous sommes attachés tous les deux et j'ai allumé les moteurs."
+
+
 translate french ep017_altum_exit_32e3afe2:
 
-    # "The canopy of the ship closed, shutting out the angry yells of the alien."
-    ""
 
-# game/episode017.rpy:1103
+    "La verrière du vaisseau s'est refermée, étouffant les cris de colère de l'extraterrestre."
+
+
 translate french ep017_altum_exit_896ed572:
 
-    # c "Ready for take-off."
-    c ""
 
-# game/episode017.rpy:1104
+    c "Prêt pour le décollage."
+
+
 translate french ep017_altum_exit_cd683b0c:
 
-    # c "Can you see if you can locate the Bastard as soon as we clear the station?"
-    c ""
 
-# game/episode017.rpy:1105
+    c "Peux-tu voir si tu peux localiser le Bastard dès que nous aurons quitté la station ?"
+
+
 translate french ep017_altum_exit_1516c223:
 
-    # e "On it."
-    e ""
 
-# game/episode017.rpy:1107
+    e "Dessus."
+
+
 translate french ep017_altum_exit_3ff945ba:
 
-    # "There were no alarms, nor any communication from the station’s traffic control."
-    ""
 
-# game/episode017.rpy:1109
+    "Il n'y a pas eu d'alarme, ni de communication de la part du contrôle du trafic de la station."
+
+
 translate french ep017_altum_exit_ad9e69b7:
 
-    # "Our ship was cleared automatically, and I kicked it into high gear as soon as we sped out of the hangar bay."
-    ""
 
-# game/episode017.rpy:1110
+    "Notre vaisseau a été autorisé automatiquement, et j'ai passé la vitesse supérieure dès que nous sommes sortis du hangar."
+
+
 translate french ep017_altum_exit_bd6f0ca7:
 
-    # c "Nobody is shooting at us yet."
-    c ""
 
-# game/episode017.rpy:1112
+    c "Personne ne nous tire dessus pour l'instant."
+
+
 translate french ep017_altum_exit_28372ec1:
 
-    # e "Let’s keep it that way."
-    e ""
 
-# game/episode017.rpy:1113
+    e "Continuons comme ça."
+
+
 translate french ep017_altum_exit_0ee159a1:
 
-    # c "Any luck finding the Bastard?"
-    c ""
 
-# game/episode017.rpy:1115
+    c "Tu as réussi à trouver le Bastard ?"
+
+
 translate french ep017_altum_exit_30a52b9f:
 
-    # e "Not yet..."
-    e ""
 
-# game/episode017.rpy:1116
+    e "Pas encore..."
+
+
 translate french ep017_altum_exit_8e683b4d:
 
-    # e "I did find a bag of supplies tucked underneath my chair, though."
-    e ""
 
-# game/episode017.rpy:1117
+    e "Par contre, j'ai trouvé un sac de fournitures caché sous ma chaise."
+
+
 translate french ep017_altum_exit_30d8bc15:
 
-    # c "Good, at least we’ll have some snacks for this trip."
-    c ""
 
-# game/episode017.rpy:1119
+    c "C'est bien, au moins nous aurons de quoi grignoter pour ce voyage."
+
+
 translate french ep017_altum_exit_461c447a:
 
-    # e "Still no sign of the Bastard."
-    e ""
 
-# game/episode017.rpy:1120
+    e "Toujours aucun signe du Bastard."
+
+
 translate french ep017_altum_exit_a0621e7b:
 
-    # e "Wait!"
-    e ""
 
-# game/episode017.rpy:1122
+    e "Attends !"
+
+
 translate french ep017_altum_exit_afd030ed:
 
-    # e "Yes, they’re still in this system."
-    e ""
 
-# game/episode017.rpy:1123
+    e "Oui, ils sont toujours dans ce système."
+
+
 translate french ep017_altum_exit_4f0ca6fc:
 
-    # e "Traveling at high speed, though."
-    e ""
 
-# game/episode017.rpy:1124
+    e "Mais ils voyagent à grande vitesse."
+
+
 translate french ep017_altum_exit_6af78cfb:
 
-    # c "Then let’s see what this ship can do."
-    c ""
 
-# game/episode017.rpy:1125
+    c "Alors voyons ce que ce vaisseau peut faire."
+
+
 translate french ep017_altum_exit_7d409743:
 
-    # c "The owner of this ship being a cunt was just one of the reasons for stealing this particular bucket."
-    c ""
 
-# game/episode017.rpy:1126
+    c "Le fait que le propriétaire de ce vaisseau soit un connard n'est qu'une des raisons qui m'ont poussé à voler cette épave en particulier."
+
+
 translate french ep017_altum_exit_ca337bc4:
 
-    # c "This type is often used for races, so it should be able to reach some impressive speeds."
-    c ""
 
-# game/episode017.rpy:1128
+    c "Ce type de vaisseau est souvent utilisé pour les courses, il devrait donc pouvoir atteindre des vitesses impressionnantes."
+
+
 translate french ep017_altum_exit_296bd773:
 
-    # e "Enough to overtake the Bastard?"
-    e ""
 
-# game/episode017.rpy:1129
+    e "Assez pour dépasser le Bastard ?"
+
+
 translate french ep017_altum_exit_6eeb6a30:
 
-    # c "Let’s hope so."
-    c ""
 
-# game/episode017.rpy:1130
+    c "Espérons-le."
+
+
 translate french ep017_altum_exit_a25dfe9e:
 
-    # c "Just be warned, it won’t be a very pleasant flight."
-    c ""
 
-# game/episode017.rpy:1132
+    c "Mais attention, le vol ne sera pas très agréable."
+
+
 translate french ep017_altum_exit_540fef08:
 
-    # e "Understood, just hit it."
-    e ""
 
-# game/episode017.rpy:1134
+    e "Compris, vas-y."
+
+
 translate french ep017_altum_exit_3c69814c:
 
-    # "I accelerated and we stormed towards the coordinates of the Bastard."
-    ""
 
-# game/episode017.rpy:1135
+    "J'ai accéléré et nous nous sommes dirigés en trombe vers les coordonnées du Bastard."
+
+
 translate french ep017_altum_exit_a9afa599:
 
-    # "The tremendous forces pressing upon us were almost too much to bear."
-    ""
 
-# game/episode017.rpy:1136
+    "Les forces considérables qui s'exerçaient sur nous étaient presque trop lourdes à porter."
+
+
 translate french ep017_altum_exit_cd43b6c9:
 
-    # "Through clenched teeth, Eva attempted to speak."
-    ""
 
-# game/episode017.rpy:1137
+    "Les dents serrées, Eva tenta de parler."
+
+
 translate french ep017_altum_exit_0227d02e:
 
-    # e "The...{w} Bastard...{w} Is being...{w} Pursued..."
-    e ""
 
-# game/episode017.rpy:1139
+    e "Le...{w} Bastard...{w} est...{w} poursuivi..."
+
+
 translate french ep017_altum_exit_7b9bcf5b:
 
-    # "When we were in range, I hit the brakes, and the pressure eventually returned to normal."
-    ""
 
-# game/episode017.rpy:1140
+    "Lorsque nous avons été à portée, j'ai freiné et la pression a fini par revenir à la normale."
+
+
 translate french ep017_altum_exit_cf578197:
 
-    # "I could see that Eva was right about the Bastard being pursued."
-    ""
 
-# game/episode017.rpy:1141
+    "J'ai pu constater qu'Eva avait raison à propos de la poursuite du Bastard."
+
+
 translate french ep017_altum_exit_db126bdc:
 
-    # c "Probably Glixken trying to catch them."
-    c ""
 
-# game/episode017.rpy:1142
+    c "C'est probablement Glixken qui essaie de les attraper."
+
+
 translate french ep017_altum_exit_63923111:
 
-    # e "That seems very likely."
-    e ""
 
-# game/episode017.rpy:1143
+    e "Cela semble très probable."
+
+
 translate french ep017_altum_exit_b2abd033:
 
-    # e "They’re flying at approximately the same speed, that other ship trailing some distance behind it."
-    e ""
 
-# game/episode017.rpy:1144
+    e "Ils volent à peu près à la même vitesse, cet autre vaisseau traînant à quelque distance derrière lui."
+
+
 translate french ep017_altum_exit_f5b93369:
 
-    # c "Let’s see if we can fuck him from behind somehow."
-    c ""
 
-# game/episode017.rpy:1145
+    c "Voyons si nous pouvons le baiser par derrière d'une manière ou d'une autre."
+
+
 translate french ep017_altum_exit_52815c57:
 
-    # "Plotting a course to line us up with Glixken and the Bastard, I had Eva unlock the weapons system."
-    ""
 
-# game/episode017.rpy:1147
+    "Traçant une trajectoire pour nous aligner sur Glixken et le Bastard, j'ai demandé à Eva de déverrouiller le système d'armement."
+
+
 translate french ep017_altum_exit_bafb3969:
 
-    # "When both ships came into view, our suspicions were confirmed."
-    ""
 
-# game/episode017.rpy:1149
+    "Lorsque les deux vaisseaux sont apparus, nos soupçons ont été confirmés."
+
+
 translate french ep017_altum_exit_188f1b98:
 
-    # "The unknown ship assaulted the Bastard with continuous PBC fire."
-    ""
 
-# game/episode017.rpy:1150
+    "Le vaisseau inconnu a assailli le Bastard avec des tirs continus de PBC."
+
+
 translate french ep017_altum_exit_be5fc8ed:
 
-    # "They must not have noticed us yet, because both ships remained committed to firing upon each other."
-    ""
 
-# game/episode017.rpy:1152
+    "Ils n'ont pas encore dû nous remarquer, car les deux vaisseaux ont continué à se tirer dessus."
+
+
 translate french ep017_altum_exit_17a33c16:
 
-    # c "Ready?"
-    c ""
 
-# game/episode017.rpy:1154
+    c "Prête ?"
+
+
 translate french ep017_altum_exit_e05651bd:
 
-    # e "Ready, on your-"
-    e ""
 
-# game/episode017.rpy:1156
+    e "Prête, sur ton..."
+
+
 translate french ep017_altum_exit_90466b6a:
 
-    # e "Fuck! The Bastard’s been hit."
-    e ""
 
-# game/episode017.rpy:1158
+    e "Putain ! Le Bastard a été touché."
+
+
 translate french ep017_altum_exit_9a665faa:
 
-    # "Glixken had indeed scored a direct hit on the Bastard’s rear."
-    ""
 
-# game/episode017.rpy:1159
+    "Glixken avait en effet marqué un coup direct sur l'arrière du Bastard."
+
+
 translate french ep017_altum_exit_0f660a52:
 
-    # "Céline was still trying to evade most of the PBC fire that rained down on them, but they were having an increasingly hard time."
-    ""
 
-# game/episode017.rpy:1160
+    "Céline essayait toujours d'échapper à la plupart des tirs du PBC qui pleuvaient sur eux, mais ils avaient de plus en plus de mal."
+
+
 translate french ep017_altum_exit_6b9c4871:
 
-    # c "Shoot those fuckers."
-    c ""
 
-# game/episode017.rpy:1162
+    c "Tire sur ces enfoirés."
+
+
 translate french ep017_altum_exit_997fe78a:
 
-    # "Eva loosed our cannons at Glixken."
-    ""
 
-# game/episode017.rpy:1164
+    "Eva a lâché nos canons sur Glixken."
+
+
 translate french ep017_altum_exit_a7077e25:
 
-    # "Possibly due to the fact that we caught them unaware, Eva managed to score a direct hit on Glixken’s ship."
-    ""
 
-# game/episode017.rpy:1165
+    "Peut-être parce que nous les avons pris au dépourvu, Eva a réussi à toucher directement le vaisseau de Glixken."
+
+
 translate french ep017_altum_exit_f2d883c1:
 
-    # c "Good shot!"
-    c ""
 
-# game/episode017.rpy:1167
+    c "Bon tir !"
+
+
 translate french ep017_altum_exit_1c69494b:
 
-    # "Our happiness was shortlived, as several of the enemy ship’s cannons turned towards us."
-    ""
 
-# game/episode017.rpy:1168
+    "Notre bonheur a été de courte durée, car plusieurs canons du vaisseau ennemi se sont tournés vers nous."
+
+
 translate french ep017_altum_exit_2f3137fc:
 
-    # c "Keep firing, I’ll try to evade."
-    c ""
 
-# game/episode017.rpy:1169
+    c "Continue à tirer, je vais essayer de m'échapper."
+
+
 translate french ep017_altum_exit_0e3d1a89:
 
-    # "Glixken now had to divide his attention, allowing the Bastard some respite."
-    ""
 
-# game/episode017.rpy:1170
+    "Glixken devait maintenant diviser son attention, ce qui laissait un peu de répit au Bastard."
+
+
 translate french ep017_altum_exit_b0a5923a:
 
-    # "The distance between the two ships grew, as the Bastard limped away towards a nearby planet."
-    ""
 
-# game/episode017.rpy:1171
+    "La distance entre les deux vaisseaux augmentait, tandis que le Bastard s'éloignait en boitant vers une planète proche."
+
+
 translate french ep017_altum_exit_4c2b072a:
 
-    # "Getting out of the firing line proved to be very difficult."
-    ""
 
-# game/episode017.rpy:1172
+    "Sortir de la ligne de tir s'est avéré très difficile."
+
+
 translate french ep017_altum_exit_b966ad40:
 
-    # "Glixken must have diverted more power to the cannons trained on us, as our ship shuddered under the barrage of PBC fire."
-    ""
 
-# game/episode017.rpy:1173
+    "Glixken a dû augmenter la puissance des canons braqués sur nous, car notre vaisseau a tremblé sous le barrage de tirs du PBC."
+
+
 translate french ep017_altum_exit_52689564:
 
-    # c "We can’t sustain much more."
-    c ""
 
-# game/episode017.rpy:1175
+    c "Nous ne pouvons pas en supporter davantage."
+
+
 translate french ep017_altum_exit_64780330:
 
-    # "Alarms suddenly went off, and the ship indicated we sustained heavy damage on one of the wings."
-    ""
 
-# game/episode017.rpy:1176
+    "Les alarmes se sont soudainement déclenchées, et le vaisseau a indiqué que nous avions subi de lourds dommages sur l'une des ailes."
+
+
 translate french ep017_altum_exit_e4477a1c:
 
-    # c "I’m going to try and get us out of here."
-    c ""
 
-# game/episode017.rpy:1177
+    c "Je vais essayer de nous sortir de là."
+
+
 translate french ep017_altum_exit_04f0ff4d:
 
-    # e "Understood."
-    e ""
 
-# game/episode017.rpy:1179
+    e "J'ai compris."
+
+
 translate french ep017_altum_exit_fad91c1b:
 
-    # "Glixken still fired on us as we disengaged and sped towards the same planet the Bastard was heading."
-    ""
 
-# game/episode017.rpy:1180
+    "Glixken nous tirait encore dessus alors que nous nous désengagions et filions vers la même planète que celle vers laquelle se dirigeait le Bastard."
+
+
 translate french ep017_altum_exit_2bbe2c9a:
 
-    # "The hit we scored must have seriously hampered their ship, because we easily outpaced them, even with one of our wings in tatters."
-    ""
 
-# game/episode017.rpy:1182
+    "Le coup que nous avons porté a dû sérieusement gêner leur vaisseau, car nous les avons facilement dépassés, même avec l'une de nos ailes en lambeaux."
+
+
 translate french ep017_altum_exit_163c1a96:
 
-    # "The planet we were approaching appeared to be a dull red orb."
-    ""
 
-# game/episode017.rpy:1186
+    "La planète que nous approchions semblait être un orbe rouge terne."
+
+
 translate french ep017_altum_exit_3890e7c7:
 
-    # "By now, Glixken was trailing far behind, still firing PBC rounds at regular intervals, but hitting nothing."
-    ""
 
-# game/episode017.rpy:1187
+    "À ce moment-là, Glixken était loin derrière, tirant toujours des balles PBC à intervalles réguliers, mais ne touchant rien."
+
+
 translate french ep017_altum_exit_c1d52dad:
 
-    # c "We’re about to break atmosphere."
-    c ""
 
-# game/episode017.rpy:1188
+    c "Nous sommes sur le point de sortir de l'atmosphère."
+
+
 translate french ep017_altum_exit_9c7e787f:
 
-    # c "Brace yourself."
-    c ""
 
-# game/episode017.rpy:1189
+    c "Prépare-toi."
+
+
 translate french ep017_altum_exit_04b3cf92:
 
-    # "Despite the warning, we were both surprised by the roughness of the descent."
-    ""
 
-# game/episode017.rpy:1194
+    "Malgré l'avertissement, nous avons tous les deux été surpris par la rudesse de la descente."
+
+
 translate french ep017_crash_6194bd2b:
 
-    # "As soon as we entered the planet’s atmosphere, we were hit by a raging sandstorm."
-    ""
 
-# game/episode017.rpy:1195
+    "Dès que nous sommes entrés dans l'atmosphère de la planète, nous avons été frappés par une tempête de sable déchaînée."
+
+
 translate french ep017_crash_df75e619:
 
-    # "The push and pull of the winds was so enormous that I had trouble controlling the ship."
-    ""
 
-# game/episode017.rpy:1196
+    "La poussée et la traction des vents étaient si énormes que j'ai eu du mal à contrôler le vaisseau."
+
+
 translate french ep017_crash_051bc66d:
 
-    # "Sand got everywhere and the ship’s engine was struggling."
-    ""
 
-# game/episode017.rpy:1197
+    "Il y avait du sable partout et le moteur du vaisseau avait du mal à fonctionner."
+
+
 translate french ep017_crash_d120093f:
 
-    # c "I’m going to try and put her down."
-    c ""
 
-# game/episode017.rpy:1199
+    c "Je vais essayer de l'immobiliser."
+
+
 translate french ep017_crash_7fa5481c:
 
-    # "A great mass of sand approached with rapid speed as I attempted to steer us towards a flat area that would support our landing trajectory."
-    ""
 
-# game/episode017.rpy:1201
+    "Une grande masse de sable s'est approchée à vive allure alors que je tentais de nous diriger vers une zone plane qui supporterait notre trajectoire d'atterrissage."
+
+
 translate french ep017_crash_447f471c:
 
-    # e "Are we going to make it?"
-    e ""
 
-# game/episode017.rpy:1202
+    e "Allons-nous y arriver ?"
+
+
 translate french ep017_crash_91666976:
 
-    # "Considering the turbulence we were experiencing, I couldn’t really reassure her."
-    ""
 
-# game/episode017.rpy:1203
+    "Compte tenu des turbulences que nous subissions, je ne pouvais pas vraiment la rassurer."
+
+
 translate french ep017_crash_0a6af8ef:
 
-    # "The engine wheezed and sputtered as the frame of the ship groaned under the forces that were pulling at us."
-    ""
 
-# game/episode017.rpy:1204
+    "Le moteur sifflait et crachotait tandis que l'armature du vaisseau gémissait sous les forces qui nous tiraient."
+
+
 translate french ep017_crash_6c7af131:
 
-    # e "If we...{w} don’t make it...{w} [p_name_short]..."
-    e ""
 
-# game/episode017.rpy:1205
+    e "Si nous...{w} n'y arrivons pas...{w} [p_name_short]..."
+
+
 translate french ep017_crash_f45b5675:
 
-    # e "I just want to say that..."
-    e ""
 
-# game/episode017.rpy:1207
+    e "Je veux juste te dire que..."
+
+
 translate french ep017_crash_d637dea3:
 
-    # e "I love you."
-    e ""
 
-# game/episode017.rpy:1209
+    e "Je t'aime."
+
+
 translate french ep017_crash_7fbca8b4:
 
-    # "I didn’t get a chance to reply as the nose of our ship bored into the surface of the planet at that moment."
-    ""
 
-# game/episode017.rpy:1210
+    "Je n'ai pas eu l'occasion de répondre car le nez de notre vaisseau s'est enfoncé dans la surface de la planète à ce moment-là."
+
+
 translate french ep017_crash_77654a3a:
 
-    # "The sea of sand halted our descent abruptly."
-    ""
 
-# game/episode017.rpy:1211
+    "La mer de sable a stoppé net notre descente."
+
+
 translate french ep017_crash_3f6f7a25:
 
-    # "Luckily, we had lost enough speed to avoid getting compressed into paste."
-    ""
 
-# game/episode017.rpy:1212
+    "Heureusement, nous avions perdu suffisamment de vitesse pour ne pas être compressés en pâte."
+
+
 translate french ep017_crash_de98a7cc:
 
-    # "The fire on the wings was now raging, black smoke billowing into the air."
-    ""
 
-# game/episode017.rpy:1213
+    "Le feu sur les ailes faisait maintenant rage, la fumée noire s'élevant dans l'air."
+
+
 translate french ep017_crash_5d172416:
 
-    # "I nearly lost consciousness just before the ship ground to a halt."
-    ""
 
-# game/episode017.rpy:1215
+    "J'ai failli perdre connaissance juste avant que le vaisseau ne s'immobilise."
+
+
 translate french ep017_crash_64332b2a:
 
-    # "A quick look to my right told me Eva hadn’t been as lucky."
-    ""
 
-# game/episode017.rpy:1216
+    "Un rapide coup d'œil à ma droite m'a appris qu'Eva n'avait pas eu la même chance."
+
+
 translate french ep017_crash_54ef110d:
 
-    # "Quickly, I unfastened the belt securing me in the pilot’s chair and reached over to free Eva."
-    ""
 
-# game/episode017.rpy:1219
+    "Rapidement, j'ai détaché la ceinture qui me retenait dans le fauteuil du pilote et j'ai tendu la main pour libérer Eva."
+
+
 translate french ep017_crash_02b12b96:
 
-    # "My sister was still out, so I pulled her out of the chair and dragged her body out of the ship."
-    ""
 
-# game/episode017.rpy:1221
+    "Ma sœur était encore dans les vapes, je l'ai tirée du fauteuil et j'ai traîné son corps hors du vaisseau."
+
+
 translate french ep017_crash_19119c9a:
 
-    # "Eva was still out, so I pulled her out of the chair and dragged her body out of the ship."
-    ""
 
-# game/episode017.rpy:1222
+    "Eva était toujours dans les vapes, alors je l'ai sortie du fauteuil et j'ai traîné son corps hors du vaisseau."
+
+
 translate french ep017_crash_fdbe3d84:
 
-    # "The backpack of supplies she’d discovered earlier didn’t seem like a luxury now, so I slung it over my shoulder."
-    ""
 
-# game/episode017.rpy:1223
+    "Le sac à dos de provisions qu'elle avait découvert plus tôt ne semblait plus être un luxe maintenant, alors je l'ai mis en bandoulière."
+
+
 translate french ep017_crash_eb00a34c:
 
-    # "By now, the fire had consumed almost all of the ship."
-    ""
 
-# game/episode017.rpy:1224
+    "À présent, le feu avait consumé la quasi-totalité du vaisseau."
+
+
 translate french ep017_crash_900ef7ea:
 
-    # "I had to get us out of there, because once the fire reached the ship’s fuel tanks, we would be in for a very large explosion."
-    ""
 
-# game/episode017.rpy:1225
+    "Je devais nous sortir de là, car une fois que le feu aurait atteint les réservoirs de carburant du vaisseau, nous serions confrontés à une très grosse explosion."
+
+
 translate french ep017_crash_01c4e476:
 
-    # "Eva stirred and tried to open her eyes."
-    ""
 
-# game/episode017.rpy:1230
+    "Eva s'est agitée et a essayé d'ouvrir les yeux."
+
+
 translate french ep017_crash_95110dff:
 
-    # "Supporting her, I helped Eva get on her feet, and together we limped away from the wreckage."
-    ""
 
-# game/episode017.rpy:1232
+    "En la soutenant, je l'ai aidée à se mettre debout et nous nous sommes éloignés de l'épave en boitant."
+
+
 translate french ep017_crash_ea19e345:
 
-    # "As we reached the foot of a sand dune, the ship exploded, sending debris high up in the air."
-    ""
 
-# game/episode017.rpy:1233
+    "Alors que nous arrivions au pied d'une dune de sable, le vaisseau explosa, projetant des débris très haut dans les airs."
+
+
 translate french ep017_crash_f32f8db7:
 
-    # "Our means of transport destroyed, we had to find the others and hope they made a softer landing than we had."
-    ""
 
-# game/episode017.rpy:1234
+    "Notre moyen de transport détruit, nous devions trouver les autres et espérer qu'ils atterrissent plus doucement que nous."
+
+
 translate french ep017_crash_27b26557:
 
-    # "Glixken presumably landed somewhere on this planet as well and I wasn’t looking forward to running into him first."
-    ""
 
-# game/episode017.rpy:1235
+    "Glixken a probablement atterri quelque part sur cette planète aussi et je n'avais pas hâte de le rencontrer en premier."
+
+
 translate french ep017_crash_6d376c8f:
 
-    # "The planet we crashed on could only be described as a hell-hole."
-    ""
 
-# game/episode017.rpy:1237
+    "La planète sur laquelle nous nous sommes écrasés ne peut être décrite que comme un enfer."
+
+
 translate french ep017_crash_4a03e175:
 
-    # "The sandstorm had mostly died down and instead we were treated to temperatures that were well outside our zone of comfort."
-    ""
 
-# game/episode017.rpy:1238
+    "La tempête de sable s'était en grande partie calmée et, à la place, nous avons eu droit à des températures qui dépassaient largement notre zone de confort."
+
+
 translate french ep017_crash_9d1d6502:
 
-    # "We needed some kind of shelter, as I didn’t know how hot this planet could get during its rotation."
-    ""
 
-# game/episode017.rpy:1239
+    "Nous avions besoin d'un abri, car je ne savais pas à quel point cette planète pouvait devenir chaude pendant sa rotation."
+
+
 translate french ep017_crash_6b574872:
 
-    # "If this place had some kind of night, temperatures were bound to be extremely cold."
-    ""
 
-# game/episode017.rpy:1240
+    "S'il y avait une sorte de nuit ici, les températures devaient être extrêmement froides."
+
+
 translate french ep017_crash_f28ab474:
 
-    # "In between two dunes, there was a rocky outcropping I’d pinned my hopes on."
-    ""
 
-# game/episode017.rpy:1241
+    "Entre deux dunes, il y avait un affleurement rocheux sur lequel j'avais placé tous mes espoirs."
+
+
 translate french ep017_crash_47cfe5ed:
 
-    # "The boulders that were scattered around might provide us with some much needed shade."
-    ""
 
-# game/episode017.rpy:1243
+    "Les rochers qui étaient éparpillés autour pourraient nous fournir un peu d'ombre dont nous avions bien besoin."
+
+
 translate french ep017_crash_79d8f1ae:
 
-    # "Eva could walk by herself at that point, though she was still a little groggy."
-    ""
 
-# game/episode017.rpy:1244
+    "Eva pouvait marcher seule à ce moment-là, même si elle était encore un peu groggy."
+
+
 translate french ep017_crash_2dea5a63:
 
-    # c "Just a little further, Eva."
-    c ""
 
-# game/episode017.rpy:1245
+    c "Encore un peu, Eva."
+
+
 translate french ep017_crash_7186eae8:
 
-    # e "I can make it."
-    e ""
 
-# game/episode017.rpy:1247
+    e "Je peux y arriver."
+
+
 translate french ep017_crash_7b8a5bfc:
 
-    # "Instead of sinking ankle-deep into the sand with every step, the ground near the rocks felt a little more solid."
-    ""
 
-# game/episode017.rpy:1249
+    "Au lieu de s'enfoncer dans le sable jusqu'aux chevilles à chaque pas, le sol près des rochers semblait un peu plus solide."
+
+
 translate french ep017_crash_03e49ab2:
 
-    # "We clambered up the outcropping and sat down in the meagre shadow provided by the rocks."
-    ""
 
-# game/episode017.rpy:1251
+    "Nous avons grimpé sur l'affleurement et nous nous sommes assis dans la maigre ombre fournie par les rochers."
+
+
 translate french ep017_crash_4776f59b:
 
-    # e "Our ship is gone, isn’t it?"
-    e ""
 
-# game/episode017.rpy:1252
+    e "Notre vaisseau a disparu, n'est-ce pas ?"
+
+
 translate french ep017_crash_66866a14:
 
-    # c "I think the explosion destroyed whatever was left of it."
-    c ""
 
-# game/episode017.rpy:1254
+    c "Je pense que l'explosion a détruit ce qu'il en restait."
+
+
 translate french ep017_crash_0a2cd082:
 
-    # e "I hope the Bastard made a softer landing."
-    e ""
 
-# game/episode017.rpy:1255
+    e "J'espère que le Bastard a fait un atterrissage plus doux."
+
+
 translate french ep017_crash_6a137b52:
 
-    # c "I do too."
-    c ""
 
-# game/episode017.rpy:1256
+    c "Je l'espère aussi."
+
+
 translate french ep017_crash_d8c4c377:
 
-    # c "But we have to find them first."
-    c ""
 
-# game/episode017.rpy:1258
+    c "Mais nous devons d'abord les trouver."
+
+
 translate french ep017_crash_9c5e165f:
 
-    # e "That means trudging around in all this sand, right?"
-    e ""
 
-# game/episode017.rpy:1259
+    e "Cela signifie qu'il faut se frayer un chemin dans tout ce sable, n'est-ce pas ?"
+
+
 translate french ep017_crash_f0ac2359:
 
-    # c "I’m afraid so."
-    c ""
 
-# game/episode017.rpy:1260
+    c "J'en ai bien peur."
+
+
 translate french ep017_crash_21c5a504:
 
-    # c "I believe there are some supplies in that backpack."
-    c ""
 
-# game/episode017.rpy:1262
+    c "Je crois qu'il y a des provisions dans ce sac à dos."
+
+
 translate french ep017_crash_a9cfec32:
 
-    # e "Yes, looks like two bedrolls and some food and water."
-    e ""
 
-# game/episode017.rpy:1263
+    e "Oui, on dirait qu'il y a deux sacs de couchage, de la nourriture et de l'eau."
+
+
 translate french ep017_crash_07c1b078:
 
-    # c "We should probably ration it pretty severely, who knows how long we’ll be here."
-    c ""
 
-# game/episode017.rpy:1264
+    c "Nous devrions probablement les rationner assez sévèrement, qui sait combien de temps nous resterons ici."
+
+
 translate french ep017_crash_52f0e79c:
 
-    # e "I’m extremely thirsty."
-    e ""
 
-# game/episode017.rpy:1265
+    e "J'ai très soif."
+
+
 translate french ep017_crash_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode017.rpy:1266
+    c "Moi aussi."
+
+
 translate french ep017_crash_011f3c23:
 
-    # c "But we shouldn’t drink more than a sip."
-    c ""
 
-# game/episode017.rpy:1268
+    c "Mais nous ne devrions pas boire plus d'une gorgée."
+
+
 translate french ep017_crash_169c5da0:
 
-    # "We both drank from the water bottle and stared at the black cloud still visible on the horizon billowing from the ruin of our ship."
-    ""
 
-# game/episode017.rpy:1269
+    "Nous avons bu tous les deux la bouteille d'eau et nous avons regardé le nuage noir encore visible à l'horizon qui s'élevait de la ruine de notre vaisseau."
+
+
 translate french ep017_crash_d7ab3529:
 
-    # c "I think night will fall soon."
-    c ""
 
-# game/episode017.rpy:1271
+    c "Je pense que la nuit va bientôt tomber."
+
+
 translate french ep017_crash_7c405ee3:
 
-    # e "Will we be safe here for the night?"
-    e ""
 
-# game/episode017.rpy:1272
+    e "Serons-nous en sécurité ici pour la nuit ?"
+
+
 translate french ep017_crash_36371bdc:
 
-    # c "I haven’t seen any traces of wild animals, or any other sign of life for that matter."
-    c ""
 
-# game/episode017.rpy:1273
+    c "Je n'ai vu aucune trace d'animaux sauvages, ni aucun autre signe de vie d'ailleurs."
+
+
 translate french ep017_crash_40d45b48:
 
-    # c "The nights here will probably be very cold."
-    c ""
 
-# game/episode017.rpy:1275
+    c "Les nuits ici seront probablement très froides."
+
+
 translate french ep017_crash_bb5a8f34:
 
-    # e "At least we have those bedrolls."
-    e ""
 
-# game/episode017.rpy:1276
+    e "Au moins, nous avons ces sacs de couchage."
+
+
 translate french ep017_crash_751becd6:
 
-    # c "Very thoughtful of the previous owner to include some camping gear."
-    c ""
 
-# game/episode017.rpy:1277
+    c "C'est très gentil de la part de l'ancien propriétaire d'avoir inclus du matériel de camping."
+
+
 translate french ep017_crash_1df29e10:
 
-    # c "I didn’t see any tools for making a fire in that backpack though, so lets hope there really aren’t any wild animals."
-    c ""
 
-# game/episode017.rpy:1279
+    c "Je n'ai pas vu d'outils pour faire du feu dans ce sac à dos, alors espérons qu'il n'y a pas d'animaux sauvages."
+
+
 translate french ep017_crash_4690f872:
 
-    # "With the planet’s sun sinking lower towards the horizon, we laid out our sleeping gear."
-    ""
 
-# game/episode017.rpy:1281
+    "Alors que le soleil de la planète s'enfonçait dans l'horizon, nous avons étendu notre matériel de couchage."
+
+
 translate french ep017_crash_482cd526:
 
-    # "There wasn’t a single sign of life to be seen or heard."
-    ""
 
-# game/episode017.rpy:1282
+    "Il n'y avait pas le moindre signe de vie à voir ou à entendre."
+
+
 translate french ep017_crash_75d794e1:
 
-    # e "I wonder if I’ll be able to sleep at all."
-    e ""
 
-# game/episode017.rpy:1283
+    e "Je me demande si je vais pouvoir dormir."
+
+
 translate french ep017_crash_dfe8ceb6:
 
-    # c "Just try."
-    c ""
 
-# game/episode017.rpy:1284
+    c "Essaie seulement."
+
+
 translate french ep017_crash_e6be179e:
 
-    # c "I’ll keep watch for as long as possible."
-    c ""
 
-# game/episode017.rpy:1286
+    c "Je ferai le guet aussi longtemps que possible."
+
+
 translate french ep017_crash_14379baa:
 
-    # "The temperature was dropping sharply, as I kept watch over our makeshift camp."
-    ""
 
-# game/episode017.rpy:1287
+    "La température baissait fortement, tandis que je surveillais notre campement de fortune."
+
+
 translate french ep017_crash_6816c355:
 
-    # "Despite her worries, Eva fell asleep very quickly."
-    ""
 
-# game/episode017.rpy:1290
+    "Malgré ses inquiétudes, Eva s'endormit très vite."
+
+
 translate french ep017_crash_d79cfd08:
 
-    # "I watched her, the soft lines of her beautiful face slowly relaxing into an approximation of peace."
-    ""
 
-# game/episode017.rpy:1292
+    "Je la regardais, les lignes douces de son beau visage se détendant lentement dans une approximation de paix."
+
+
 translate french ep017_crash_7fbadd04:
 
-    # "I watched her, the soft lines of her face slowly relaxing into an approximation of peace."
-    ""
 
-# game/episode017.rpy:1293
+    "Je l'ai observée, les lignes douces de son visage se détendant lentement jusqu'à une certaine forme de paix."
+
+
 translate french ep017_crash_4a54b10e:
 
-    # "The night was dead-silent, no animal life could be heard, even the wind was still."
-    ""
 
-# game/episode017.rpy:1295
+    "La nuit était d'un silence de mort, on n'entendait aucune vie animale, même le vent était immobile."
+
+
 translate french ep017_crash_bcb4fd66:
 
-    # "My eyelids became very heavy, and when I dozed off for several minutes, I decided to just surrender to sleep."
-    ""
 
-# game/episode017.rpy:1300
+    "Mes paupières sont devenues très lourdes, et lorsque j'ai somnolé pendant plusieurs minutes, j'ai décidé de m'abandonner au sommeil."
+
+
 translate french ep017_crash_04e8872b:
 
-    # "A touch on my arm woke me."
-    ""
 
-# game/episode017.rpy:1302
+    "Un contact sur mon bras m'a réveillé."
+
+
 translate french ep017_crash_31f1249c:
 
-    # e "[p_name]?"
-    e ""
 
-# game/episode017.rpy:1303
+    e "[p_name] ?"
+
+
 translate french ep017_crash_f99d837a:
 
-    # "Eva sat half upright next to me, shivering with cold."
-    ""
 
-# game/episode017.rpy:1304
+    "Eva s'est assise à moitié debout à côté de moi, grelottant de froid."
+
+
 translate french ep017_crash_5b266bfd:
 
-    # "The temperature must have dropped several degrees again, though it wasn’t near freezing yet."
-    ""
 
-# game/episode017.rpy:1306
+    "La température a encore dû chuter de plusieurs degrés, bien qu'elle ne soit pas encore proche du point de congélation."
+
+
 translate french ep017_crash_5181feab:
 
-    # e "I’m so cold, [p_name]."
-    e ""
 
-# game/episode017.rpy:1307
+    e "J'ai tellement froid, [p_name] ?"
+
+
 translate french ep017_crash_108fe447:
 
-    # c "Yeah, it’s getting worse, isn’t it?"
-    c ""
 
-# game/episode017.rpy:1309
+    c "Oui, c'est de pire en pire, n'est-ce pas ?"
+
+
 translate french ep017_crash_3563ad78:
 
-    # e "Could we...{w} Uh...{w} Lie together?"
-    e ""
 
-# game/episode017.rpy:1310
+    e "Pourrions-nous...{w} Euh...{w} nous allonger ensemble ?"
+
+
 translate french ep017_crash_7b7a5678:
 
-    # c "Yes, of course."
-    c ""
 
-# game/episode017.rpy:1316
+    c "Oui, bien sûr."
+
+
 translate french ep017_crash_b34fe0a5:
 
-    # "My sister stood up and began to undress herself."
-    ""
 
-# game/episode017.rpy:1318
+    "Ma sœur s'est levée et a commencé à se déshabiller."
+
+
 translate french ep017_crash_1ab77845:
 
-    # "My friend stood up and began to undress herself."
-    ""
 
-# game/episode017.rpy:1319
+    "Mon amie s'est levée et a commencé à se déshabiller."
+
+
 translate french ep017_crash_007e5eaa:
 
-    # c "Uh, Eva, what are you doing?"
-    c ""
 
-# game/episode017.rpy:1321
+    c "Euh, Eva, qu'est-ce que tu fais ?"
+
+
 translate french ep017_crash_230c275e:
 
-    # e "Oh!{w} I...{w} I read somewhere that skin-on-skin contact is better in colder environments."
-    e ""
 
-# game/episode017.rpy:1322
+    e "Oh !{w} Je...{w} J'ai lu quelque part que le contact peau contre peau était meilleur dans les environnements plus froids."
+
+
 translate french ep017_crash_cb9fd51d:
 
-    # c "I’m sure that’s true, but exposing yourself to the cold like that isn’t going to help much."
-    c ""
 
-# game/episode017.rpy:1323
+    c "Je suis sûr que c'est vrai, mais t'exposer au froid comme ça ne va pas t'aider beaucoup."
+
+
 translate french ep017_crash_1209ab71:
 
-    # c "Come over here quickly."
-    c ""
 
-# game/episode017.rpy:1324
+    c "Viens vite par ici."
+
+
 translate french ep017_crash_9a99a0bd:
 
-    # e "Right, right!"
-    e ""
 
-# game/episode017.rpy:1325
+    e "D'accord, d'accord !"
+
+
 translate french ep017_crash_c0c1deda:
 
-    # "Mirroring Eva, I managed to slip out of my armored suit."
-    ""
 
-# game/episode017.rpy:1327
+    "À l'image d'Eva, j'ai réussi à me glisser hors de ma combinaison blindée."
+
+
 translate french ep017_crash_65834c8d:
 
-    # "Eva exuded a mixture of embarrassment and unease as she scooted over."
-    ""
 
-# game/episode017.rpy:1328
+    "Eva dégageait un mélange de gêne et de malaise en s'approchant."
+
+
 translate french ep017_crash_897a1ffe:
 
-    # "I covered her with my sleeping bag."
-    ""
 
-# game/episode017.rpy:1329
+    "Je l'ai recouverte de mon sac de couchage."
+
+
 translate french ep017_crash_60023833:
 
-    # e "You’re much warmer!"
-    e ""
 
-# game/episode017.rpy:1331
+    e "Tu as bien plus chaud !"
+
+
 translate french ep017_crash_6671ff4e:
 
-    # "Eva snuggled against me while I was still processing the image of my sister’s perky breasts."
-    ""
 
-# game/episode017.rpy:1333
+    "Eva s'est blottie contre moi alors que j'étais encore en train de traiter l'image des seins rebondis de ma sœur."
+
+
 translate french ep017_crash_40cbd12b:
 
-    # "Eva snuggled against me while I was still processing the image of my friend’s perky breasts."
-    ""
 
-# game/episode017.rpy:1335
+    "Eva s'est blottie contre moi alors que j'étais encore en train d'analyser l'image des seins rebondis de mon amie."
+
+
 translate french ep017_crash_de6e2da5:
 
-    # "Her nearness felt comforting and confusing at the same time."
-    ""
 
-# game/episode017.rpy:1336
+    "Sa proximité était à la fois réconfortante et déroutante."
+
+
 translate french ep017_crash_ebd65f55:
 
-    # "I’m sure Eva felt the same, though she noticeably relaxed when I put a protecting arm around her."
-    ""
 
-# game/episode017.rpy:1338
+    "Je suis sûr qu'Eva a ressenti la même chose, mais elle s'est nettement détendue lorsque j'ai mis un bras protecteur autour d'elle."
+
+
 translate french ep017_crash_eb41c15d:
 
-    # "As my hand touched hers, her fingers entangled mine."
-    ""
 
-# game/episode017.rpy:1339
+    "Lorsque ma main a touché la sienne, ses doigts se sont emmêlés dans les miens."
+
+
 translate french ep017_crash_0abf7f60:
 
-    # "She squeezed my hand as I cradled her like a lover."
-    ""
 
-# game/episode017.rpy:1341
+    "Elle a serré ma main pendant que je la berçais comme un amant."
+
+
 translate french ep017_crash_b124f7a4:
 
-    # e "This feels much better."
-    e ""
 
-# game/episode017.rpy:1342
+    e "Je me sens beaucoup mieux."
+
+
 translate french ep017_crash_7af11505:
 
-    # c "I’m not sure, as there are two lumps of ice touching my legs."
-    c ""
 
-# game/episode017.rpy:1343
+    c "Je ne suis pas sûr, car deux morceaux de glace touchent mes jambes."
+
+
 translate french ep017_crash_7b610983:
 
-    # e "I think those are my feet."
-    e ""
 
-# game/episode017.rpy:1344
+    e "Je pense que ce sont mes pieds."
+
+
 translate french ep017_crash_1e688199:
 
-    # c "Ah, right."
-    c ""
 
-# game/episode017.rpy:1345
+    c "Ah, c'est vrai."
+
+
 translate french ep017_crash_392b61e9:
 
-    # "We both remained silent for a while."
-    ""
 
-# game/episode017.rpy:1346
+    "Nous sommes tous les deux restés silencieux pendant un moment."
+
+
 translate french ep017_crash_76c2e9a1:
 
-    # "I thought Eva had fallen asleep again, but she spoke again after several minutes."
-    ""
 
-# game/episode017.rpy:1348
+    "J'ai cru qu'Eva s'était encore endormie, mais elle a repris la parole après plusieurs minutes."
+
+
 translate french ep017_crash_4f2ad2dc:
 
-    # e "[p_name_short]?"
-    e ""
 
-# game/episode017.rpy:1349
+    e "[p_name_short] ?"
+
+
 translate french ep017_crash_560902af:
 
-    # e "What do you think our chances are of finding the Bastard?"
-    e ""
 
-# game/episode017.rpy:1350
+    e "À ton avis, quelles sont nos chances de retrouver le Bastard ?"
+
+
 translate french ep017_crash_f6836e2e:
 
-    # c "I don’t know, let’s worry about that tomorrow."
-    c ""
 
-# game/episode017.rpy:1351
+    c "Je ne sais pas, inquiétons-nous de cela demain."
+
+
 translate french ep017_crash_bc8f3f99:
 
-    # c "The most likely scenario is that they will find us, to be honest."
-    c ""
 
-# game/episode017.rpy:1353
+    c "Le scénario le plus probable est qu'ils nous trouvent, pour être honnête."
+
+
 translate french ep017_crash_fbeebcd8:
 
-    # e "Still, I worry."
-    e ""
 
-# game/episode017.rpy:1354
+    e "Mais je m'inquiète quand même."
+
+
 translate french ep017_crash_6a137b52_1:
 
-    # c "I do too."
-    c ""
 
-# game/episode017.rpy:1356
+    c "Moi aussi."
+
+
 translate french ep017_crash_9ac8a4e0:
 
-    # "Eva shifted and turned towards me."
-    ""
 
-# game/episode017.rpy:1357
+    "Eva s'est déplacée et s'est tournée vers moi."
+
+
 translate french ep017_crash_4870a5f7:
 
-    # e "I’m not sure you understand."
-    e ""
 
-# game/episode017.rpy:1358
+    e "Je ne suis pas sûre que tu comprennes."
+
+
 translate french ep017_crash_e094da98:
 
-    # e "My worry goes further than finding the crew and surviving the day."
-    e ""
 
-# game/episode017.rpy:1359
+    e "Mon inquiétude ne se limite pas à trouver l'équipage et à survivre à la journée."
+
+
 translate french ep017_crash_50dc371c:
 
-    # e "We might very well die here."
-    e ""
 
-# game/episode017.rpy:1361
+    e "Nous pourrions très bien mourir ici."
+
+
 translate french ep017_crash_77b2356a:
 
-    # e "And there is so much I still wanted to do, so much I still want to experience."
-    e ""
 
-# game/episode017.rpy:1362
+    e "Et il y a tant de choses que je veux encore faire, tant de choses que je veux encore expérimenter."
+
+
 translate french ep017_crash_3756fc59:
 
-    # e "So I worry that I won’t be able to do all those things."
-    e ""
 
-# game/episode017.rpy:1364
+    e "Alors je m'inquiète de ne pas pouvoir faire tout cela."
+
+
 translate french ep017_crash_eeb3758a:
 
-    # e "I wanted to tell you how much I feel for you, how much I want to be with you."
-    e ""
 
-# game/episode017.rpy:1365
+    e "Je voulais te dire combien je ressens pour toi, combien je veux être avec toi."
+
+
 translate french ep017_crash_58e88154:
 
-    # e "I wanted to start a family someday, feel real love."
-    e ""
 
-# game/episode017.rpy:1367
+    e "Je voulais fonder une famille un jour, ressentir un véritable amour."
+
+
 translate french ep017_crash_b045e7cf:
 
-    # e "Not to die a virgin in some godforsaken alien desert."
-    e ""
 
-# game/episode017.rpy:1368
+    e "Pas mourir vierge dans un désert extraterrestre perdu."
+
+
 translate french ep017_crash_e7748f9b:
 
-    # c "Woah, Eva, slow down."
-    c ""
 
-# game/episode017.rpy:1370
+    c "Woah, Eva, ralentis."
+
+
 translate french ep017_crash_b41505c6:
 
-    # e "Sorry...{w} I ramble, I know."
-    e ""
 
-# game/episode017.rpy:1372
+    e "Désolée...{w} Je radote, je sais."
+
+
 translate french ep017_crash_689be638:
 
-    # "I kissed her in response."
-    ""
 
-# game/episode017.rpy:1373
+    "Je l'ai embrassée en réponse."
+
+
 translate french ep017_crash_67ce5b3d:
 
-    # "For a time, there was only us two, all thought of the cold or impending doom completely forgotten."
-    ""
 
-# game/episode017.rpy:1376
+    "Pendant un moment, il n'y a eu que nous deux, toute pensée pour le froid ou la mort imminente complètement oubliée."
+
+
 translate french ep017_crash_fe179427:
 
-    # c "I love you, Eva."
-    c ""
 
-# game/episode017.rpy:1378
+    c "Je t'aime, Eva."
+
+
 translate french ep017_crash_1ae94ab7:
 
-    # e "I love you too, [p_name]."
-    e ""
 
-# game/episode017.rpy:1379
+    e "Je t'aime aussi, [p_name]."
+
+
 translate french ep017_crash_a99fac58:
 
-    # e "I’m sorry for my outburst just now."
-    e ""
 
-# game/episode017.rpy:1380
+    e "Je suis désolée de m'être emportée tout à l'heure."
+
+
 translate french ep017_crash_38a28d18:
 
-    # c "Don’t worry, I get it."
-    c ""
 
-# game/episode017.rpy:1381
+    c "Ne t'inquiète pas, j'ai compris."
+
+
 translate french ep017_crash_0f6e0647:
 
-    # c "So, it’s all true?"
-    c ""
 
-# game/episode017.rpy:1382
+    c "Alors, tout est vrai ?"
+
+
 translate french ep017_crash_7f8932b4:
 
-    # c "You want to be with me?"
-    c ""
 
-# game/episode017.rpy:1384
+    c "Tu veux être avec moi ?"
+
+
 translate french ep017_crash_ef7beae6:
 
-    # e "I do, very much so."
-    e ""
 
-# game/episode017.rpy:1385
+    e "Oui, beaucoup."
+
+
 translate french ep017_crash_6095908b:
 
-    # e "I know you fancy me, but do you feel the same?"
-    e ""
 
-# game/episode017.rpy:1389
+    e "Je sais que je te plais, mais est-ce que tu ressens la même chose ?"
+
+
 translate french ep017_crash_8b452634:
 
-    # c "Yes, to all of it."
-    c ""
 
-# game/episode017.rpy:1390
+    c "Oui, tout à fait."
+
+
 translate french ep017_crash_6773a375:
 
-    # c "Starting a family would be a dream come true."
-    c ""
 
-# game/episode017.rpy:1392
+    c "Fonder une famille serait un rêve devenu réalité."
+
+
 translate french ep017_crash_7009a3c6:
 
-    # e "Wow, really?"
-    e ""
 
-# game/episode017.rpy:1393
+    e "Wow, vraiment ?"
+
+
 translate french ep017_crash_74bcde71:
 
-    # c "Yes, I’m aware of the challenges, but we’ll overcome them, I’m sure."
-    c ""
 
-# game/episode017.rpy:1394
+    c "Oui, je suis conscient des difficultés, mais nous les surmonterons, j'en suis sûr."
+
+
 translate french ep017_crash_32408158:
 
-    # e "With me?"
-    e ""
 
-# game/episode017.rpy:1395
+    e "Avec moi ?"
+
+
 translate french ep017_crash_a26c6b22:
 
-    # c "With you."
-    c ""
 
-# game/episode017.rpy:1397
+    c "Avec toi."
+
+
 translate french ep017_crash_69441ee8:
 
-    # e "You don’t know how happy that makes me feel, [p_name_short]!"
-    e ""
 
-# game/episode017.rpy:1399
+    e "Tu ne sais pas à quel point cela me fait plaisir, [p_name_short] !"
+
+
 translate french ep017_crash_2aec6c38:
 
-    # c "I do, but starting a family wouldn’t be feasible."
-    c ""
 
-# game/episode017.rpy:1401
+    c "Si, mais fonder une famille ne serait pas faisable."
+
+
 translate french ep017_crash_e1324af5:
 
-    # c "Because of the life we lead and the fact that we’re brother and sister."
-    c ""
 
-# game/episode017.rpy:1403
+    c "À cause de la vie que nous menons et du fait que nous sommes frère et sœur."
+
+
 translate french ep017_crash_128aafbb:
 
-    # c "Because of the life we lead."
-    c ""
 
-# game/episode017.rpy:1404
+    c "À cause de la vie que nous menons."
+
+
 translate french ep017_crash_8fdd208f:
 
-    # e "I get that."
-    e ""
 
-# game/episode017.rpy:1406
+    e "Je comprends."
+
+
 translate french ep017_crash_452af051:
 
-    # e "It was more of a dream to be honest, and it seems it must remain that way."
-    e ""
 
-# game/episode017.rpy:1408
+    e "C'était plutôt un rêve pour être honnête, et il semble que cela doive rester ainsi."
+
+
 translate french ep017_crash_38fb25f6:
 
-    # e "Promise me we’ll be together, once we get out of here."
-    e ""
 
-# game/episode017.rpy:1409
+    e "Promets-moi que nous serons ensemble, une fois que nous serons sortis d'ici."
+
+
 translate french ep017_crash_a44ccf78:
 
-    # c "I promise."
-    c ""
 
-# game/episode017.rpy:1410
+    c "Je te le promets."
+
+
 translate french ep017_crash_9095f27b:
 
-    # e "I guess everything is all still hopeless, but I do feel a lot better."
-    e ""
 
-# game/episode017.rpy:1411
+    e "Je suppose que tout est encore sans espoir, mais je me sens beaucoup mieux."
+
+
 translate french ep017_crash_36f76d3a:
 
-    # e "Kiss me again, [p_name_short]."
-    e ""
 
-# game/episode017.rpy:1413
+    e "Embrasse-moi encore, [p_name_short]."
+
+
 translate french ep017_crash_47d56804:
 
-    # "Our second kiss was even more hungry than the first."
-    ""
 
-# game/episode017.rpy:1415
+    "Notre deuxième baiser était encore plus affamé que le premier."
+
+
 translate french ep017_crash_dd567629:
 
-    # "We remained entangled for quite some time and both fell asleep in the same position."
-    ""
 
-# game/episode017.rpy:1423
+    "Nous sommes restés enlacés un bon moment et nous nous sommes endormis tous les deux dans la même position."
+
+
 translate french ep017_crash_08e7a95b:
 
-    # "When we awoke, the sun was already climbing high in the sky."
-    ""
 
-# game/episode017.rpy:1425
+    "Lorsque nous nous sommes réveillés, le soleil montait déjà haut dans le ciel."
+
+
 translate french ep017_crash_c1bf2733:
 
-    # "After drinking some water and eating some of the rations, we broke up our camp and started our search."
-    ""
 
-# game/episode017.rpy:1426
+    "Après avoir bu un peu d'eau et mangé quelques rations, nous avons levé notre camp et commencé nos recherches."
+
+
 translate french ep017_crash_afa7a9d0:
 
-    # "Our communication devices didn’t work on this planet, so there was no way of tracing any signal."
-    ""
 
-# game/episode017.rpy:1428
+    "Nos appareils de communication ne fonctionnaient pas sur cette planète, il n'y avait donc aucun moyen de tracer un quelconque signal."
+
+
 translate french ep017_crash_2b4b7fa8:
 
-    # "We trudged around for a very long time, the sun still shining mercilessly on our heads."
-    ""
 
-# game/episode017.rpy:1430
+    "Nous avons traîné pendant très longtemps, le soleil continuant à briller sans pitié sur nos têtes."
+
+
 translate french ep017_crash_148f3068:
 
-    # e "This is hopeless, isn’t it?"
-    e ""
 
-# game/episode017.rpy:1431
+    e "C'est sans espoir, n'est-ce pas ?"
+
+
 translate french ep017_crash_71a62f05:
 
-    # c "It’s a long shot, a very long shot."
-    c ""
 
-# game/episode017.rpy:1432
+    c "Ce n'est pas gagné, c'est impossible."
+
+
 translate french ep017_crash_786ead61:
 
-    # c "But yeah, pretty hopeless."
-    c ""
 
-# game/episode017.rpy:1433
+    c "Mais oui, c'est sans espoir."
+
+
 translate french ep017_crash_e7fb479b:
 
-    # c "Let’s rest over there."
-    c ""
 
-# game/episode017.rpy:1435
+    c "Reposons-nous là-bas."
+
+
 translate french ep017_crash_2fd8ac46:
 
-    # e "Great, another bunch of stupid rocks."
-    e ""
 
-# game/episode017.rpy:1437
+    e "Super, encore un tas de rochers stupides."
+
+
 translate french ep017_crash_1ce3362d:
 
-    # "We sat down in the shadow and shared a sip of water."
-    ""
 
-# game/episode017.rpy:1439
+    "Nous nous sommes assis dans l'ombre et avons partagé une gorgée d'eau."
+
+
 translate french ep017_crash_bd50ce8b:
 
-    # e "Maybe we should just stay here."
-    e ""
 
-# game/episode017.rpy:1440
+    e "Nous devrions peut-être rester ici."
+
+
 translate french ep017_crash_6b2d87c4:
 
-    # c "The whole wandering around in the sand is tiring, to say the least."
-    c ""
 
-# game/episode017.rpy:1442
+    c "Toute cette déambulation dans le sable est pour le moins fatigante."
+
+
 translate french ep017_crash_cae92a9b:
 
-    # e "We’re not covering a lot of ground on foot."
-    e ""
 
-# game/episode017.rpy:1443
+    e "Nous ne couvrons pas beaucoup de terrain à pied."
+
+
 translate french ep017_crash_b0bb8a70:
 
-    # c "Are you suggesting to make a more permanent camp here?"
-    c ""
 
-# game/episode017.rpy:1445
+    c "Est-ce que tu suggères de faire un campement plus permanent ici ?"
+
+
 translate french ep017_crash_2d765ff7:
 
-    # e "Maybe?"
-    e ""
 
-# game/episode017.rpy:1446
+    e "Peut-être ?"
+
+
 translate french ep017_crash_3c42357d:
 
-    # c "But we don’t have much more food left, and this planet seems completely devoid of life."
-    c ""
 
-# game/episode017.rpy:1447
+    c "Mais il ne nous reste plus beaucoup de nourriture, et cette planète semble complètement dépourvue de vie."
+
+
 translate french ep017_crash_8f0b68d0:
 
-    # c "So we’d be just here, waiting for it all to end."
-    c ""
 
-# game/episode017.rpy:1449
+    c "Alors nous serions juste là, à attendre que tout cela se termine."
+
+
 translate french ep017_crash_f65ae803:
 
-    # e "I know..."
-    e ""
 
-# game/episode017.rpy:1451
+    e "Je sais..."
+
+
 translate french ep017_crash_7d4fbafe:
 
-    # "Arguing any further seemed hopeless, so Eva and I made camp between the rocks."
-    ""
 
-# game/episode017.rpy:1453
+    "Comme il était inutile d'argumenter davantage, Eva et moi avons établi un campement entre les rochers."
+
+
 translate french ep017_crash_dbbec65b:
 
-    # "By nightfall, we’d shared some more water and food."
-    ""
 
-# game/episode017.rpy:1454
+    "À la tombée de la nuit, nous avons partagé un peu plus d'eau et de nourriture."
+
+
 translate french ep017_crash_77f6f2d6:
 
-    # "The remaining supply wouldn’t last us through another day."
-    ""
 
-# game/episode017.rpy:1455
+    "Les réserves restantes ne nous permettraient pas de tenir une journée de plus."
+
+
 translate french ep017_crash_f1e56fb5:
 
-    # "We were about to get ready for another night in the freezing cold, when Eva perked up."
-    ""
 
-# game/episode017.rpy:1457
+    "Nous étions sur le point de nous préparer à passer une nouvelle nuit dans le froid glacial, quand Eva s'est réveillée."
+
+
 translate french ep017_crash_3ef75c85:
 
-    # e "Do you hear that?"
-    e ""
 
-# game/episode017.rpy:1458
+    e "Tu entends ça ?"
+
+
 translate french ep017_crash_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode017.rpy:1459
+    c "Qu'est-ce que tu entends ?"
+
+
 translate french ep017_crash_3c5c60da:
 
-    # "When I paid attention, I could hear it as well."
-    ""
 
-# game/episode017.rpy:1461
+    "Quand j'y ai prêté attention, je l'ai entendu moi aussi."
+
+
 translate french ep017_crash_dc03b3d1:
 
-    # "The hum of an engine approaching."
-    ""
 
-# game/episode017.rpy:1466
+    "Le ronronnement d'un moteur qui s'approche."
+
+
 translate french ep017_lilly_201cbc22:
 
-    # "I walked in on Lilly as she was just exiting the showers."
-    ""
 
-# game/episode017.rpy:1468
+    "Je suis tombé sur Lilly alors qu'elle sortait des douches."
+
+
 translate french ep017_lilly_50522767:
 
-    # "She barely acknowledged me and seemed very preoccupied with something."
-    ""
 
-# game/episode017.rpy:1469
+    "Elle m'a à peine reconnu et semblait très préoccupée par quelque chose."
+
+
 translate french ep017_lilly_13e02f1b:
 
-    # c "Hey Lilly."
-    c ""
 
-# game/episode017.rpy:1471
+    c "Hey Lilly."
+
+
 translate french ep017_lilly_f72a3782:
 
-    # l "Oh hey, [p_name_short], I was just taking a shower."
-    l ""
 
-# game/episode017.rpy:1472
+    l "Oh hey, [p_name_short], j'étais en train de prendre une douche."
+
+
 translate french ep017_lilly_e0eae59c:
 
-    # c "I kinda noticed that."
-    c ""
 
-# game/episode017.rpy:1473
+    c "J'ai un peu remarqué ça."
+
+
 translate french ep017_lilly_5574a6fb:
 
-    # c "Is something wrong?"
-    c ""
 
-# game/episode017.rpy:1475
+    c "Quelque chose ne va pas ?"
+
+
 translate french ep017_lilly_4239cf0e:
 
-    # l "Wrong, why would something be wrong?"
-    l ""
 
-# game/episode017.rpy:1476
+    l "Pourquoi quelque chose n'irait pas ?"
+
+
 translate french ep017_lilly_15f4ef1f:
 
-    # c "You look a little, I don’t know, sad?"
-    c ""
 
-# game/episode017.rpy:1478
+    c "Tu as l'air un peu, je ne sais pas, triste ?"
+
+
 translate french ep017_lilly_78f03dd5:
 
-    # l "I didn’t realize my face was such an open book."
-    l ""
 
-# game/episode017.rpy:1479
+    l "Je n'avais pas réalisé que mon visage était un tel livre ouvert."
+
+
 translate french ep017_lilly_9ae02f7c:
 
-    # c "I’m sure it isn’t, but I can tell something is bugging you."
-    c ""
 
-# game/episode017.rpy:1481
+    c "Je suis sûr que ce n'est pas le cas, mais je vois bien que quelque chose te tracasse."
+
+
 translate french ep017_lilly_31d7185d:
 
-    # "Lilly looked at me, debating whether she should brush me off and ultimately sat down with a sigh."
-    ""
 
-# game/episode017.rpy:1483
+    "Lilly me regarde, se demande si elle doit me repousser et finit par s'asseoir en soupirant."
+
+
 translate french ep017_lilly_12500d7a:
 
-    # l "It’s just that I had some news and I don’t know what to feel."
-    l ""
 
-# game/episode017.rpy:1485
+    l "C'est juste que j'ai eu des nouvelles et que je ne sais pas quoi ressentir."
+
+
 translate french ep017_lilly_4da98c09:
 
-    # "I sat down next to her."
-    ""
 
-# game/episode017.rpy:1487
+    "Je me suis assis à côté d'elle."
+
+
 translate french ep017_lilly_93689ff2:
 
-    # l "We’ve been intimate several times now and we did so without any protection."
-    l ""
 
-# game/episode017.rpy:1488
+    l "Nous avons été intimes plusieurs fois maintenant et nous l'avons fait sans aucune protection."
+
+
 translate french ep017_lilly_c1797d8e:
 
-    # l "I just didn’t realize until my period was late this month."
-    l ""
 
-# game/episode017.rpy:1489
+    l "Je ne m'en suis pas rendu compte jusqu'à ce que mes règles arrivent en retard ce mois-ci."
+
+
 translate french ep017_lilly_4bcb453b:
 
-    # c "Oh."
-    c ""
 
-# game/episode017.rpy:1491
+    c "Oh."
+
+
 translate french ep017_lilly_720bdbf6:
 
-    # l "Yeah, I know."
-    l ""
 
-# game/episode017.rpy:1493
+    l "Oui, je sais."
+
+
 translate french ep017_lilly_b2e42132:
 
-    # l "I should have said something earlier, but I just didn’t know what to tell you or how you’d react."
-    l ""
 
-# game/episode017.rpy:1495
+    l "J'aurais dû dire quelque chose plus tôt, mais je ne savais pas quoi te dire ni comment tu réagirais."
+
+
 translate french ep017_lilly_8a536a76:
 
-    # l "So I carried on for the past few days, not knowing what to do."
-    l ""
 
-# game/episode017.rpy:1497
+    l "J'ai donc continuée ces derniers jours, ne sachant pas quoi faire."
+
+
 translate french ep017_lilly_d5d48b2e:
 
-    # l "Then I got my period just this morning and now I just feel so sad."
-    l ""
 
-# game/episode017.rpy:1498
+    l "Puis j'ai eu mes règles ce matin et maintenant je me sens si triste."
+
+
 translate french ep017_lilly_2f3aa3ff:
 
-    # c "Sad?"
-    c ""
 
-# game/episode017.rpy:1500
+    c "Triste ?"
+
+
 translate french ep017_lilly_39300f54:
 
-    # l "Yes, like I’ve lost something."
-    l ""
 
-# game/episode017.rpy:1501
+    l "Oui, comme si j'avais perdu quelque chose."
+
+
 translate french ep017_lilly_35183c27:
 
-    # l "I know it sounds stupid."
-    l ""
 
-# game/episode017.rpy:1502
+    l "Je sais que ça a l'air stupide."
+
+
 translate french ep017_lilly_001e4286:
 
-    # c "You hoped you’d get pregnant?"
-    c ""
 
-# game/episode017.rpy:1504
+    c "Tu espérais tomber enceinte ?"
+
+
 translate french ep017_lilly_f56af488:
 
-    # l "No, I mean yes...{w} I don’t know really..."
-    l ""
 
-# game/episode017.rpy:1508
+    l "Non, je veux dire oui...{w} Je ne sais pas vraiment..."
+
+
 translate french ep017_lilly_16538e50:
 
-    # c "It’s okay, Lilly, I just wish you’d have come to me earlier."
-    c ""
 
-# game/episode017.rpy:1509
+    c "C'est bon, Lilly, j'aurais juste aimé que tu viennes me voir plus tôt."
+
+
 translate french ep017_lilly_ad1fd9bf:
 
-    # c "We could have shared that exciting moment together, supported each other."
-    c ""
 
-# game/episode017.rpy:1511
+    c "Nous aurions pu partager ce moment excitant ensemble, nous soutenir mutuellement."
+
+
 translate french ep017_lilly_2f79dbe7:
 
-    # l "Exciting?"
-    l ""
 
-# game/episode017.rpy:1512
+    l "Excitant ?"
+
+
 translate french ep017_lilly_64f36011:
 
-    # c "Yes, I’d love for us to have children."
-    c ""
 
-# game/episode017.rpy:1513
+    c "Oui, j'aimerais beaucoup que nous ayons des enfants."
+
+
 translate french ep017_lilly_da729dc6:
 
-    # c "You’d make a beautiful mother, for one."
-    c ""
 
-# game/episode017.rpy:1514
+    c "Tu ferais une mère magnifique, pour commencer."
+
+
 translate french ep017_lilly_4694973e:
 
-    # c "I know our circumstances are not ideal, with us on the run."
-    c ""
 
-# game/episode017.rpy:1516
+    c "Je sais que nos circonstances ne sont pas idéales, avec notre fuite."
+
+
 translate french ep017_lilly_0fcfb9e9:
 
-    # c "And people would be absolutely scandalized by the fact that a brother and sister had a child."
-    c ""
 
-# game/episode017.rpy:1517
+    c "Et les gens seraient absolument scandalisés par le fait qu'un frère et une sœur aient un enfant."
+
+
 translate french ep017_lilly_9aea8a21:
 
-    # c "But I just don’t care."
-    c ""
 
-# game/episode017.rpy:1518
+    c "Mais je m'en fiche."
+
+
 translate french ep017_lilly_2ab4b3e8:
 
-    # c "I want to share those happy moments with you, Lilly and I hope you feel the same."
-    c ""
 
-# game/episode017.rpy:1520
+    c "Je veux partager ces moments de bonheur avec toi, Lilly, et j'espère que tu ressens la même chose."
+
+
 translate french ep017_lilly_07002386:
 
-    # l "I...{w} Yes, of course!"
-    l ""
 
-# game/episode017.rpy:1521
+    l "Je...{w} Oui, bien sûr !"
+
+
 translate french ep017_lilly_5122f40d:
 
-    # l "I must admit I held back a little just now."
-    l ""
 
-# game/episode017.rpy:1523
+    l "Je dois admettre que je me suis un peu retenu tout à l'heure."
+
+
 translate french ep017_lilly_c6f4a829:
 
-    # l "I really didn’t lie when I said I was really worried the past few days."
-    l ""
 
-# game/episode017.rpy:1524
+    l "Je n'ai vraiment pas menti quand j'ai dit que j'étais très inquiète ces derniers jours."
+
+
 translate french ep017_lilly_56e14ac3:
 
-    # l "But just the thought of carrying our child filled me with such happiness."
-    l ""
 
-# game/episode017.rpy:1526
+    l "Mais rien que l'idée de porter notre enfant me remplissait d'un tel bonheur."
+
+
 translate french ep017_lilly_f9aa0349:
 
-    # l "Silly daydreams, I know, but still..."
-    l ""
 
-# game/episode017.rpy:1528
+    l "Des rêveries idiotes, je sais, mais quand même..."
+
+
 translate french ep017_lilly_f5cd3e11:
 
-    # l "So I was really very disappointed when I had my period."
-    l ""
 
-# game/episode017.rpy:1529
+    l "J'ai donc été vraiment très déçue lorsque j'ai eu mes règles."
+
+
 translate french ep017_lilly_bed3f21b:
 
-    # c "I can only imagine a little of what you went through."
-    c ""
 
-# game/episode017.rpy:1530
+    c "Je ne peux qu'imaginer un peu ce que tu as vécu."
+
+
 translate french ep017_lilly_0a89ece7:
 
-    # c "But I want you to know that the idea of you carrying our child would make me so happy as well."
-    c ""
 
-# game/episode017.rpy:1531
+    c "Mais je veux que tu saches que l'idée que tu portes notre enfant me rendrait aussi tellement heureux."
+
+
 translate french ep017_lilly_0b5232a9:
 
-    # c "We’re just going for it, accept things as they come our way."
-    c ""
 
-# game/episode017.rpy:1533
+    c "On fonce, on accepte les choses telles qu'elles se présentent à nous."
+
+
 translate french ep017_lilly_2f114776:
 
-    # l "I love you, [p_name_short]."
-    l ""
 
-# game/episode017.rpy:1535
+    l "Je t'aime, [p_name_short]."
+
+
 translate french ep017_lilly_06b48639:
 
-    # "In response, I kissed her."
-    ""
 
-# game/episode017.rpy:1538
+    "En réponse, je l'ai embrassée."
+
+
 translate french ep017_lilly_cf079730:
 
-    # "I could feel the smile on her lips, and I knew I’d made my sister a very happy woman."
-    ""
 
-# game/episode017.rpy:1540
+    "Je pouvais sentir le sourire sur ses lèvres, et je savais que j'avais fait de ma sœur une femme très heureuse."
+
+
 translate french ep017_lilly_c9edfcb6:
 
-    # "I could feel the smile on her lips, and I knew I’d made my girlfriend a very happy woman."
-    ""
 
-# game/episode017.rpy:1542
+    "Je pouvais sentir le sourire sur ses lèvres, et je savais que j'avais fait de ma petite amie une femme très heureuse."
+
+
 translate french ep017_lilly_aa6ca155:
 
-    # c "I get your confusion, so it’s okay, Lilly."
-    c ""
 
-# game/episode017.rpy:1543
+    c "Je comprends ta confusion, alors ce n'est pas grave, Lilly."
+
+
 translate french ep017_lilly_a8fbf2cc:
 
-    # c "I feel conflicted as well, but I don’t think it’s a responsibility we should take on."
-    c ""
 
-# game/episode017.rpy:1544
+    c "Je me sens en conflit aussi, mais je ne pense pas que ce soit une responsabilité que nous devrions assumer."
+
+
 translate french ep017_lilly_c739f55a:
 
-    # c "I’ve never considered being a parent, and I don’t think I’d be up to it."
-    c ""
 
-# game/episode017.rpy:1545
+    c "Je n'ai jamais envisagé d'être parent, et je ne pense pas que je serais à la hauteur."
+
+
 translate french ep017_lilly_5b5177e1:
 
-    # c "Besides, the life we lead doesn’t create a suitable environment to raise a child."
-    c ""
 
-# game/episode017.rpy:1547
+    c "De plus, la vie que nous menons ne crée pas un environnement propice à l'éducation d'un enfant."
+
+
 translate french ep017_lilly_9bef9d4c:
 
-    # c "There’s also the small detail of being brother and sister too, of course."
-    c ""
 
-# game/episode017.rpy:1549
+    c "Il y a aussi le petit détail d'être frère et sœur, bien sûr."
+
+
 translate french ep017_lilly_7fce3977:
 
-    # l "I know, I came to the same conclusion."
-    l ""
 
-# game/episode017.rpy:1551
+    l "Je sais, j'en suis arrivé à la même conclusion."
+
+
 translate french ep017_lilly_fbfdd498:
 
-    # l "There was that brief glimmer of desire though, maybe my motherly instincts kicking in."
-    l ""
 
-# game/episode017.rpy:1553
+    l "Il y a quand même eu cette brève lueur de désir, peut-être mon instinct maternel qui s'est mis en marche."
+
+
 translate french ep017_lilly_0c7e75e0:
 
-    # l "But you’re right, all things considered, being parents isn’t in the cards for us."
-    l ""
 
-# game/episode017.rpy:1554
+    l "Mais tu as raison, tout bien considéré, être parents n'est pas dans nos cordes."
+
+
 translate french ep017_lilly_c186e211:
 
-    # c "We should maybe be a little more careful from now on."
-    c ""
 
-# game/episode017.rpy:1556
+    c "Nous devrions peut-être être un peu plus prudents à partir de maintenant."
+
+
 translate french ep017_lilly_607c5088:
 
-    # l "You mean, don’t have sex anymore?"
-    l ""
 
-# game/episode017.rpy:1557
+    l "Tu veux dire ne plus faire l'amour ?"
+
+
 translate french ep017_lilly_b022eb1a:
 
-    # c "That seems a little too drastic."
-    c ""
 
-# game/episode017.rpy:1559
+    c "Cela semble un peu trop radical."
+
+
 translate french ep017_lilly_a4f1c2d1:
 
-    # l "Joking, I’ll get some birth control pills here on the station."
-    l ""
 
-# game/episode017.rpy:1560
+    l "Pour plaisanter, je vais chercher des pilules contraceptives ici, au poste."
+
+
 translate french ep017_lilly_a4fe6936:
 
-    # l "Thank you though, [p_name_short], for being so honest with me."
-    l ""
 
-# game/episode017.rpy:1561
+    l "Merci quand même, [p_name_short], d'avoir été si honnête avec moi."
+
+
 translate french ep017_lilly_bb27a950:
 
-    # c "I hope it isn’t too much of a disappointment?"
-    c ""
 
-# game/episode017.rpy:1563
+    c "J'espère que ce n'est pas trop décevant ?"
+
+
 translate french ep017_lilly_e6f01a20:
 
-    # l "Not at all, I’m just glad we cleared everything up."
-    l ""
 
-# game/episode017.rpy:1564
+    l "Pas du tout, je suis juste contente qu'on ait tout mis au clair."
+
+
 translate french ep017_lilly_2f114776_1:
 
-    # l "I love you, [p_name_short]."
-    l ""
 
-# game/episode017.rpy:1566
+    l "Je t'aime, [p_name_short]."
+
+
 translate french ep017_lilly_06b48639_1:
 
-    # "In response, I kissed her."
-    ""
 
-# game/episode017.rpy:1568
+    "En réponse, je l'ai embrassée."
+
+
 translate french ep017_lilly_1f641b25:
 
-    # "She accepted my kiss gladly, and I instinctively knew she was at peace."
-    ""
 
-# game/episode017.rpy:1570
+    "Elle a accepté mon baiser avec joie, et j'ai su instinctivement qu'elle était en paix."
+
+
 translate french ep017_lilly_a49aa0b4:
 
-    # "The sound of the door opening interrupted our kiss."
-    ""
 
-# game/episode017.rpy:1571
+    "Le bruit de la porte qui s'ouvre interrompt notre baiser."
+
+
 translate french ep017_lilly_18c7ed98:
 
-    # "We disentangled just before Kit came walking in."
-    ""
 
-# game/episode017.rpy:1573
+    "Nous nous sommes démêlés juste avant que Kit n'entre."
+
+
 translate french ep017_lilly_9a08819d:
 
-    # ki "Oh, don’t mind me."
-    ki ""
 
-# game/episode017.rpy:1574
+    ki "Oh, ne fais pas attention à moi."
+
+
 translate french ep017_lilly_d1c8b5a7:
 
-    # l "No worries, I just finished taking a shower."
-    l ""
 
-# game/episode017.rpy:1576
+    l "Ne t'inquiète pas, je viens juste de finir de prendre une douche."
+
+
 translate french ep017_lilly_d0dbaac1:
 
-    # "Lilly smiled knowingly at me as she exited the bathroom."
-    ""
 
-# game/episode017.rpy:1578
+    "Lilly m'a souri d'un air entendu en sortant de la salle de bains."
+
+
 translate french ep017_lilly_e2ebb316:
 
-    # "I didn’t care much for listening to Kit relieving himself on the toilet, so I fled the scene as well."
-    ""
 
-# game/episode017.rpy:1590
+    "Je n'avais pas très envie d'écouter Kit se soulager sur les toilettes, alors j'ai aussi fui les lieux."
+
+
 translate french ep017_celine_052160e6:
 
-    # "I’d been wandering the station for several hours until I encountered Céline."
-    ""
 
-# game/episode017.rpy:1591
+    "J'ai erré dans la station pendant plusieurs heures avant de rencontrer Céline."
+
+
 translate french ep017_celine_3b1b80c9:
 
-    # c "Hey, I thought you were out with Thyia?"
-    c ""
 
-# game/episode017.rpy:1593
+    c "Hé, je croyais que tu étais sortie avec Thyia ?"
+
+
 translate french ep017_celine_403b000e:
 
-    # ce "She has already gone back to the ship."
-    ce ""
 
-# game/episode017.rpy:1594
+    ce "Elle est déjà retournée au vaisseau."
+
+
 translate french ep017_celine_81ef2f96:
 
-    # ce "I was hoping to bump into you actually."
-    ce ""
 
-# game/episode017.rpy:1596
+    ce "J'espérais te croiser en fait."
+
+
 translate french ep017_celine_9758a80e:
 
-    # ce "We left something unfinished the other night..."
-    ce ""
 
-# game/episode017.rpy:1597
+    ce "Nous avons laissé quelque chose d'inachevé l'autre soir..."
+
+
 translate french ep017_celine_ef25a05d:
 
-    # c "We sure did."
-    c ""
 
-# game/episode017.rpy:1598
+    c "C'est vrai."
+
+
 translate french ep017_celine_48b9115a:
 
-    # c "Do you want to head back to the ship?"
-    c ""
 
-# game/episode017.rpy:1600
+    c "Tu veux retourner au vaisseau ?"
+
+
 translate french ep017_celine_6aa724b1:
 
-    # ce "Too many people over there."
-    ce ""
 
-# game/episode017.rpy:1602
+    ce "Il y a trop de monde là-bas."
+
+
 translate french ep017_celine_986bf4e0:
 
-    # ce "There’s an empty control room nearby and its door can be locked."
-    ce ""
 
-# game/episode017.rpy:1603
+    ce "Il y a une salle de contrôle vide à proximité et sa porte peut être verrouillée."
+
+
 translate french ep017_celine_c8a1491f:
 
-    # c "You certainly did your research."
-    c ""
 
-# game/episode017.rpy:1605
+    c "Tu as certainement fait des recherches."
+
+
 translate french ep017_celine_88ba4324:
 
-    # ce "This girl likes to come prepared."
-    ce ""
 
-# game/episode017.rpy:1607
+    ce "Cette fille aime venir préparée."
+
+
 translate french ep017_celine_436c9438:
 
-    # "I followed Céline to the room she’d found earlier."
-    ""
 
-# game/episode017.rpy:1609
+    "J'ai suivi Céline jusqu'à la pièce qu'elle avait trouvée plus tôt."
+
+
 translate french ep017_celine_70bcf854:
 
-    # "The room was empty and had large windows overlooking the docks."
-    ""
 
-# game/episode017.rpy:1610
+    "La pièce était vide et avait de grandes fenêtres qui donnaient sur les docks."
+
+
 translate french ep017_celine_ec63f5fa:
 
-    # "Anyone who’d look up could probably see what we were about to do, but Céline was already undressing and I forgot about the possibility of voyeurs instantly."
-    ""
 
-# game/episode017.rpy:1612
+    "Toute personne qui lèverait les yeux pourrait probablement voir ce que nous nous apprêtions à faire, mais Céline était déjà en train de se déshabiller et j'ai instantanément oublié la possibilité de voyeurs."
+
+
 translate french ep017_celine_0c5c438c:
 
-    # ce "I’ve thought about the things you’d do to me all day."
-    ce ""
 
-# game/episode017.rpy:1614
+    ce "J'ai pensé toute la journée aux choses que tu me ferais."
+
+
 translate french ep017_celine_7028102e:
 
-    # ce "Your hands all over my naked body, your hard cock inside me..."
-    ce ""
 
-# game/episode017.rpy:1616
+    ce "Tes mains sur tout mon corps nu, ta bite dure en moi..."
+
+
 translate french ep017_celine_07d856cd:
 
-    # c "Have you worn that toy of yours in your ass again?"
-    c ""
 
-# game/episode017.rpy:1618
+    c "As-tu encore mis ton jouet dans ton cul ?"
+
+
 translate french ep017_celine_def563f8:
 
-    # ce "I have, and I think my ass ready for you."
-    ce ""
 
-# game/episode017.rpy:1619
+    ce "Oui, et je crois que mon cul est prêt à t'accueillir."
+
+
 translate french ep017_celine_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode017.rpy:1624
+    c "C'est bien."
+
+
 translate french ep017_celine_c4f5f28b:
 
-    # "I’d undressed fully by the time Céline turned to face me again."
-    ""
 
-# game/episode017.rpy:1625
+    "Je m'étais entièrement déshabillé lorsque Céline s'est retournée pour me faire face."
+
+
 translate french ep017_celine_1eeb75d2:
 
-    # ce "Before you fuck my ass, I want to taste that cock of yours."
-    ce ""
 
-# game/episode017.rpy:1631
+    ce "Avant que tu ne me baises le cul, je veux goûter à ta bite."
+
+
 translate french ep017_celine_58867aaa:
 
-    # "I’d undressed fully by the time Céline shed her last garment."
-    ""
 
-# game/episode017.rpy:1632
+    "Je m'étais entièrement déshabillé lorsque Céline s'est débarrassée de son dernier vêtement."
+
+
 translate french ep017_celine_080d6113:
 
-    # ce "Before you fuck me, I want to taste that cock of yours."
-    ce ""
 
-# game/episode017.rpy:1634
+    ce "Avant que tu ne me baises, je veux goûter ta bite."
+
+
 translate french ep017_celine_3046ce0a:
 
-    # "Céline went down to her knees and took my member in her soft hands."
-    ""
 
-# game/episode017.rpy:1636
+    "Céline s'est mise à genoux et a pris mon membre dans ses mains douces."
+
+
 translate french ep017_celine_929497e3:
 
-    # ce "I’ll make you feel so good with my mouth."
-    ce ""
 
-# game/episode017.rpy:1637
+    ce "Je vais faire en sorte que tu te sentes si bien avec ma bouche."
+
+
 translate french ep017_celine_c168c36b:
 
-    # ce "Do you want that, [p_name_short]?"
-    ce ""
 
-# game/episode017.rpy:1638
+    ce "Tu veux ça, [p_name_short] ?"
+
+
 translate french ep017_celine_12729329:
 
-    # ce "Your hard dick inside my dirty little mouth?"
-    ce ""
 
-# game/episode017.rpy:1640
+    ce "Ta bite dure dans ma sale petite bouche ?"
+
+
 translate french ep017_celine_b089e931:
 
-    # c "Yes, I want you to blow me long and hard, Céline."
-    c ""
 
-# game/episode017.rpy:1642
+    c "Oui, je veux que tu me suces longtemps et fort, Céline."
+
+
 translate french ep017_celine_28ffddc6:
 
-    # "She jerked me softly for a while before her tongue joined in on the action."
-    ""
 
-# game/episode017.rpy:1644
+    "Elle m'a secoué doucement pendant un moment avant que sa langue ne se joigne à l'action."
+
+
 translate french ep017_celine_bc87d732:
 
-    # "Precum was already leaking from the tip of my dick and Céline eagerly lapped it all up."
-    ""
 
-# game/episode017.rpy:1646
+    "Du précum s'écoulait déjà du bout de ma bite et Céline l'a lapé avec empressement."
+
+
 translate french ep017_celine_1ecd10ee:
 
-    # "My shaft was covered in a sheen of saliva before Céline began sucking my dick in earnest."
-    ""
 
-# game/episode017.rpy:1648
+    "Ma queue était recouverte d'un filet de salive avant que Céline ne commence à me sucer sérieusement."
+
+
 translate french ep017_celine_d9c9a2f5:
 
-    # "She was balancing on her feet, her legs spread wide to allow her to finger her pussy."
-    ""
 
-# game/episode017.rpy:1650
+    "Elle se tenait en équilibre sur ses pieds, les jambes écartées pour lui permettre de se doigter la chatte."
+
+
 translate french ep017_celine_1c107a11:
 
-    # "Her fingers came back dripping, so I knew she was thoroughly aroused."
-    ""
 
-# game/episode017.rpy:1652
+    "Ses doigts sont revenus dégoulinants, je savais donc qu'elle était très excitée."
+
+
 translate french ep017_celine_d7b6626e:
 
-    # "Céline kept slobbering on my cock, while her fingers ran desperately across her slit and massaged her clit."
-    ""
 
-# game/episode017.rpy:1654
+    "Céline continuait à baver sur ma queue, tandis que ses doigts couraient désespérément sur sa fente et massaient son clitoris."
+
+
 translate french ep017_celine_56af68df:
 
-    # "The room was filled with the wet sounds of Céline devouring my shaft and the moans we both let out."
-    ""
 
-# game/episode017.rpy:1656
+    "La pièce était remplie des bruits humides de Céline dévorant ma queue et des gémissements que nous émettions tous les deux."
+
+
 translate french ep017_celine_2499127f:
 
-    # "A shudder brought Céline to her knees and she abandoned her pussy to work her magic solely on my cock."
-    ""
 
-# game/episode017.rpy:1659
+    "Un frisson a fait tomber Céline à genoux et elle a abandonné sa chatte pour exercer sa magie uniquement sur ma queue."
+
+
 translate french ep017_celine_9c374ece:
 
-    # "Leaning against my body, the girl took my cock far into her mouth, until the tip almost hit the back of her throat."
-    ""
 
-# game/episode017.rpy:1660
+    "Adossée à mon corps, la jeune fille a pris ma queue loin dans sa bouche, jusqu'à ce que le bout touche presque le fond de sa gorge."
+
+
 translate french ep017_celine_08fb3e81:
 
-    # c "That’s it, Céline, take that cock deep inside your mouth."
-    c ""
 
-# game/episode017.rpy:1661
+    c "C'est ça, Céline, prends cette bite profondément dans ta bouche."
+
+
 translate french ep017_celine_5620d282:
 
-    # c "There’s a good girl."
-    c ""
 
-# game/episode017.rpy:1663
+    c "Voilà une bonne fille."
+
+
 translate french ep017_celine_2cb0496c:
 
-    # "Céline gagged and struggled, but the feeling of her warm mouth constricting around my dick was just amazing."
-    ""
 
-# game/episode017.rpy:1666
+    "Céline a bâillonné et s'est débattue, mais la sensation de sa bouche chaude se resserrant autour de ma bite était tout simplement incroyable."
+
+
 translate french ep017_celine_81b95b73:
 
-    # "After one last stroke, Céline released my dick from her mouth, a string of saliva still connecting the tip with her lips."
-    ""
 
-# game/episode017.rpy:1667
+    "Après un dernier coup, Céline a libéré ma bite de sa bouche, un cordon de salive reliant encore le bout à ses lèvres."
+
+
 translate french ep017_celine_43a386be:
 
-    # ce "I’m ready for you now, and I think you are too."
-    ce ""
 
-# game/episode017.rpy:1672
+    ce "Je suis prête pour toi maintenant, et je pense que tu l'es aussi."
+
+
 translate french ep017_celine_b7c507c8:
 
-    # "As Céline stood up, I pushed her against the wall and grabbed her ass."
-    ""
 
-# game/episode017.rpy:1674
+    "Lorsque Céline s'est levée, je l'ai poussée contre le mur et je lui ai attrapé les fesses."
+
+
 translate french ep017_celine_cb1fe825:
 
-    # "My cock rested against her pussy and Céline held her breath, anticipating what was coming."
-    ""
 
-# game/episode017.rpy:1676
+    "Ma bite s'est posée contre sa chatte et Céline a retenu son souffle, anticipant ce qui allait arriver."
+
+
 translate french ep017_celine_ed93b603:
 
-    # ce "I thought you wanted my ass?"
-    ce ""
 
-# game/episode017.rpy:1677
+    ce "Je croyais que tu voulais mon cul ?"
+
+
 translate french ep017_celine_b2b13491:
 
-    # c "Change of plans, considering you’ve made your pussy so wet for me."
-    c ""
 
-# game/episode017.rpy:1679
+    c "Changement de plan, vu que tu as tellement mouillé ta chatte pour moi."
+
+
 translate french ep017_celine_b903589e:
 
-    # ce "Put it in, please."
-    ce ""
 
-# game/episode017.rpy:1680
+    ce "Mets-le dedans, s'il te plaît."
+
+
 translate french ep017_celine_47591c77:
 
-    # "Maintaining my firm grip on her buttocks, I angled the tip of my cock against her entrance."
-    ""
 
-# game/episode017.rpy:1681
+    "Tout en maintenant ma prise sur ses fesses, j'ai incliné le bout de ma bite contre son entrée."
+
+
 translate french ep017_celine_15e20d07:
 
-    # "Céline gasped as I slipped inside her."
-    ""
 
-# game/episode017.rpy:1683
+    "Céline a sursauté lorsque j'ai glissé en elle."
+
+
 translate french ep017_celine_bae61f13:
 
-    # "She moaned as her lips gave way to the throbbing cock easing its way in."
-    ""
 
-# game/episode017.rpy:1684
+    "Elle a gémi lorsque ses lèvres ont cédé à la bite palpitante qui se frayait un chemin à l'intérieur."
+
+
 translate french ep017_celine_f0abf7ef:
 
-    # ce "Oh, [p_name_short], your dick feels so good in my pussy!"
-    ce ""
 
-# game/episode017.rpy:1685
+    ce "Oh, [p_name_short], ta bite est si bonne dans ma chatte !"
+
+
 translate french ep017_celine_8e6e7d67:
 
-    # "Despite being dripping wet, Céline’s cunt felt so tight."
-    ""
 
-# game/episode017.rpy:1687
+    "Bien qu'elle soit trempée, la chatte de Céline est si serrée."
+
+
 translate french ep017_celine_e8ec1836:
 
-    # "I grunted and pushed on, careful not to go too far and cream inside her in the very first minute."
-    ""
 
-# game/episode017.rpy:1688
+    "J'ai grogné et j'ai poussé, en faisant attention de ne pas aller trop loin et de ne pas faire de crème en elle dès la première minute."
+
+
 translate french ep017_celine_2f8cdbb9:
 
-    # ce "I want you so bad, [p_name_short], give it to me!"
-    ce ""
 
-# game/episode017.rpy:1690
+    ce "J'ai tellement envie de toi, [p_name_short], donne-le moi !"
+
+
 translate french ep017_celine_a0fd8c77:
 
-    # "Céline squirmed against me, lifted one of her legs and wrapped her arms around my neck."
-    ""
 
-# game/episode017.rpy:1691
+    "Céline s'est tortillée contre moi, a levé une de ses jambes et a enroulé ses bras autour de mon cou."
+
+
 translate french ep017_celine_ea0ff3c3:
 
-    # "In response, I lifted her and pushed her against the wall, driving my dick even deeper inside her slit."
-    ""
 
-# game/episode017.rpy:1692
+    "En réponse, je l'ai soulevée et poussée contre le mur, enfonçant encore plus ma bite dans sa fente."
+
+
 translate french ep017_celine_7cdcd73d:
 
-    # ce "Oh fuck yeah, that’s it!"
-    ce ""
 
-# game/episode017.rpy:1694
+    ce "Oh, putain, oui, c'est ça !"
+
+
 translate french ep017_celine_e5128815:
 
-    # "She held on tight as I fucked her, lifting her butt and slamming Céline down on my cock."
-    ""
 
-# game/episode017.rpy:1696
+    "Elle s'est accrochée fermement pendant que je la baisais, soulevant ses fesses et faisant claquer Céline sur ma queue."
+
+
 translate french ep017_celine_c9beddb3:
 
-    # ce "I can feel you so deep inside me!"
-    ce ""
 
-# game/episode017.rpy:1697
+    ce "Je te sens si profondément en moi !"
+
+
 translate french ep017_celine_885f71e1:
 
-    # ce "Don’t stop, fuck my pussy harder, please [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1698
+    ce "Ne t'arrête pas, baise ma chatte plus fort, s'il te plaît [p_name_short] !"
+
+
 translate french ep017_celine_da4e082b:
 
-    # "Céline was a slender girl, but bearing the full weight of her body became a strain on my arms."
-    ""
 
-# game/episode017.rpy:1700
+    "Céline était une fille mince, mais supporter tout le poids de son corps devenait une contrainte pour mes bras."
+
+
 translate french ep017_celine_2d198bfd:
 
-    # "She was too delirious to notice, but I could tell Céline’s back scrubbed painfully against the metal wall every time I drilled into her."
-    ""
 
-# game/episode017.rpy:1704
+    "Elle était trop délirante pour s'en rendre compte, mais je pouvais voir que le dos de Céline frottait douloureusement contre la paroi métallique chaque fois que je la transperçais."
+
+
 translate french ep017_celine_7b2449ed:
 
-    # ce "[p_name_short]!{w} [p_name_short]!{w} You're hitting me there again!"
-    ce ""
 
-# game/episode017.rpy:1706
+    ce "[p_name_short] !{w} [p_name_short] !{w} Tu me frappes encore là !"
+
+
 translate french ep017_celine_cb729bd9:
 
-    # ce "Keep going like that!"
-    ce ""
 
-# game/episode017.rpy:1707
+    ce "Continue comme ça !"
+
+
 translate french ep017_celine_8964eeb2:
 
-    # ce "You feel so great inside me!"
-    ce ""
 
-# game/episode017.rpy:1710
+    ce "Tu es si bien en moi !"
+
+
 translate french ep017_celine_4fac7a40:
 
-    # "I eased her down towards the floor, but kept one arm hooked underneath her leg."
-    ""
 
-# game/episode017.rpy:1711
+    "Je l'ai fait descendre vers le sol, mais j'ai gardé un bras accroché sous sa jambe."
+
+
 translate french ep017_celine_95849da6:
 
-    # "My shaft was still securely inside her moist cunt, so I kept fucking her in this position."
-    ""
 
-# game/episode017.rpy:1712
+    "Ma queue était toujours bien en place dans sa chatte humide, alors j'ai continué à la baiser dans cette position."
+
+
 translate french ep017_celine_16948831:
 
-    # ce "[p_name_short]!{w} [p_name_short]!{w} Keep hitting me right there!"
-    ce ""
 
-# game/episode017.rpy:1716
+    ce "[p_name_short] !{w} [p_name_short] !{w} Continue de me frapper là !"
+
+
 translate french ep017_celine_f7234bfa:
 
-    # "Céline had to straighten herself against the wall as she bore my onslaught."
-    ""
 
-# game/episode017.rpy:1717
+    "Céline a dû se redresser contre le mur pour supporter mes assauts."
+
+
 translate french ep017_celine_3088415c:
 
-    # "Her thighs were slathered in her own juices, which kept flowing profusely as I’d evidently hit her sweet spot."
-    ""
 
-# game/episode017.rpy:1720
+    "Ses cuisses étaient enduites de son propre jus, qui continuait à couler abondamment car j'avais manifestement atteint son point sensible."
+
+
 translate french ep017_celine_b9092de8:
 
-    # ce "You’re making me..."
-    ce ""
 
-# game/episode017.rpy:1721
+    ce "Tu me fais..."
+
+
 translate french ep017_celine_bb74aa26:
 
-    # ce "I’m..."
-    ce ""
 
-# game/episode017.rpy:1724
+    ce "Je suis..."
+
+
 translate french ep017_celine_75558017:
 
-    # "A gush of juice escaping from her slit betrayed what Céline had wanted to say."
-    ""
 
-# game/episode017.rpy:1725
+    "Une giclée de jus s'échappant de sa fente trahit ce que Céline voulait dire."
+
+
 translate french ep017_celine_12608de2:
 
-    # "I kept fucking her drenched pussy as Céline, fully caught up in her orgasm, had trouble staying upright."
-    ""
 
-# game/episode017.rpy:1726
+    "J'ai continué à baiser sa chatte trempée alors que Céline, complètement prise par son orgasme, avait du mal à rester debout."
+
+
 translate french ep017_celine_ab459bd9:
 
-    # "I proved no match for the constrictions of her vagina and my own climax almost happened before I knew it."
-    ""
 
-# game/episode017.rpy:1731
+    "Je n'ai pas fait le poids face à la constriction de son vagin et mon propre orgasme a failli se produire avant même que je m'en rende compte."
+
+
 translate french ep017_celine_d8af05d9:
 
-    # c "I’m going to put a baby inside you."
-    c ""
 
-# game/episode017.rpy:1733
+    c "Je vais mettre un bébé en toi."
+
+
 translate french ep017_celine_9d6cfaaa:
 
-    # c "I’m going to fill you up."
-    c ""
 
-# game/episode017.rpy:1734
+    c "Je vais te remplir."
+
+
 translate french ep017_celine_c63be27b:
 
-    # ce "Yes!{w} Yes!{w} Fill me up!"
-    ce ""
 
-# game/episode017.rpy:1737
+    ce "Oui !{w} Oui !{w} Remplis-moi !"
+
+
 translate french ep017_celine_832fa3c1:
 
-    # "Cum spurted deep inside Céline’s pussy with such force, it almost made me pass out."
-    ""
 
-# game/episode017.rpy:1739
+    "Le sperme a jailli au plus profond de la chatte de Céline avec une telle force que j'ai failli m'évanouir."
+
+
 translate french ep017_celine_f9c7dc59:
 
-    # ce "More, [p_name_short]!{w} Make me pregnant!"
-    ce ""
 
-# game/episode017.rpy:1741
+    ce "Encore, [p_name_short] !{w} Mets-moi enceinte !"
+
+
 translate french ep017_celine_8617fbf2:
 
-    # ce "Your warm cum feels so good inside me, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1742
+    ce "Ton sperme chaud est si bon en moi, [p_name_short] !"
+
+
 translate french ep017_celine_0bc5ae0a:
 
-    # "I filled her up with so much warm seed that it came dripping along my shaft."
-    ""
 
-# game/episode017.rpy:1745
+    "Je l'ai remplie d'une telle quantité de semence chaude qu'elle a coulé le long de ma tige."
+
+
 translate french ep017_celine_f816aa94:
 
-    # "Cum dripped out of Céline’s pussy when I pulled out of her."
-    ""
 
-# game/episode017.rpy:1748
+    "Du sperme a coulé de la chatte de Céline quand je me suis retiré d'elle."
+
+
 translate french ep017_celine_79e3d62e:
 
-    # c "I’m going to cover you in cum."
-    c ""
 
-# game/episode017.rpy:1749
+    c "Je vais te couvrir de sperme."
+
+
 translate french ep017_celine_9b91394c:
 
-    # ce "Yes, paint my body with your cum!"
-    ce ""
 
-# game/episode017.rpy:1751
+    ce "Oui, peins mon corps avec ton sperme !"
+
+
 translate french ep017_celine_88fd8c5d:
 
-    # "As soon as my dick flopped out of her moist slit, cum spurted from the tip with such force I nearly passed out."
-    ""
 
-# game/episode017.rpy:1752
+    "Dès que ma bite est sortie de sa fente humide, le sperme a jailli du bout avec une telle force que j'ai failli m'évanouir."
+
+
 translate french ep017_celine_9cabea69:
 
-    # ce "Make a mess of me, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1755
+    ce "Mets-moi en désordre, [p_name_short] !"
+
+
 translate french ep017_celine_fdf5a241:
 
-    # "I did just that."
-    ""
 
-# game/episode017.rpy:1756
+    "C'est ce que j'ai fait."
+
+
 translate french ep017_celine_851b16be:
 
-    # "Her belly was covered in warm semen, dripping down towards her pussy."
-    ""
 
-# game/episode017.rpy:1759
+    "Son ventre était couvert de sperme chaud, dégoulinant vers sa chatte."
+
+
 translate french ep017_celine_e6bda204:
 
-    # "Céline wiggled her ass invitingly as she pressed her body against the wall."
-    ""
 
-# game/episode017.rpy:1760
+    "Céline remuait son cul de façon invitante en pressant son corps contre le mur."
+
+
 translate french ep017_celine_0ed5a932:
 
-    # ce "Take me, [p_name_short]!{w} Take me hard, deep inside my ass!"
-    ce ""
 
-# game/episode017.rpy:1762
+    ce "Prends-moi, [p_name_short] !{w} Prends-moi fort, au plus profond de mon cul !"
+
+
 translate french ep017_celine_dffe8c62:
 
-    # "I grabbed her ass and pushed the tip of my cock against the rim of her anus."
-    ""
 
-# game/episode017.rpy:1763
+    "J'ai attrapé son cul et j'ai poussé le bout de ma bite contre le bord de son anus."
+
+
 translate french ep017_celine_b7156ea4:
 
-    # c "Do you think your ass can take me, Céline?"
-    c ""
 
-# game/episode017.rpy:1764
+    c "Tu crois que ton cul peut me supporter, Céline ?"
+
+
 translate french ep017_celine_21ff3694:
 
-    # ce "I think so, [p_name_short], I want you to."
-    ce ""
 
-# game/episode017.rpy:1766
+    ce "Je pense que oui, [p_name_short], je le veux."
+
+
 translate french ep017_celine_1a54687c:
 
-    # "I pushed against her asshole."
-    ""
 
-# game/episode017.rpy:1767
+    "J'ai poussé contre son trou du cul."
+
+
 translate french ep017_celine_922ac767:
 
-    # "Céline tensed up, preparing herself for my hard dick inside her tight hole."
-    ""
 
-# game/episode017.rpy:1768
+    "Céline s'est crispée, se préparant à recevoir ma bite dure à l'intérieur de son trou serré."
+
+
 translate french ep017_celine_1560ead1:
 
-    # "Her anus gave way against the pressure of my tip and I began to slowly slide into her."
-    ""
 
-# game/episode017.rpy:1770
+    "Son anus a cédé sous la pression de ma pointe et j'ai commencé à glisser lentement en elle."
+
+
 translate french ep017_celine_4ea3bebf:
 
-    # ce "That's it, push it all the way in!"
-    ce ""
 
-# game/episode017.rpy:1772
+    ce "C'est ça, enfonce-la à fond !"
+
+
 translate french ep017_celine_72e5f08e:
 
-    # "There was no doubt Céline had trained her asshole well enough, as she didn’t protest when I slowly went deeper."
-    ""
 
-# game/episode017.rpy:1773
+    "Il ne fait aucun doute que Céline avait bien entraîné son trou du cul, car elle n'a pas protesté lorsque je me suis enfoncé plus profondément."
+
+
 translate french ep017_celine_cac7e25a:
 
-    # "Despite her training, Céline’s ass felt tighter than ever."
-    ""
 
-# game/episode017.rpy:1774
+    "Malgré son entraînement, le cul de Céline était plus serré que jamais."
+
+
 translate french ep017_celine_6f461b37:
 
-    # c "Are you ready to get fucked?"
-    c ""
 
-# game/episode017.rpy:1776
+    c "Es-tu prête à te faire baiser ?"
+
+
 translate french ep017_celine_28f9bb0e:
 
-    # ce "I am!"
-    ce ""
 
-# game/episode017.rpy:1777
+    ce "Oui, je le suis !"
+
+
 translate french ep017_celine_a17042ba:
 
-    # "Her breathing became labored, the last words uttered in ragged gasps."
-    ""
 
-# game/episode017.rpy:1779
+    "Sa respiration est devenue laborieuse, les derniers mots ont été prononcés dans un souffle saccadé."
+
+
 translate french ep017_celine_45dfce6a:
 
-    # "When I began fucking her asshole, Céline propped herself against the metal wall, bearing the pain and pleasure I gave her."
-    ""
 
-# game/episode017.rpy:1782
+    "Lorsque j'ai commencé à lui baiser le trou du cul, Céline s'est appuyée contre la paroi métallique, supportant la douleur et le plaisir que je lui procurais."
+
+
 translate french ep017_celine_00702474:
 
-    # ce "You’re so big, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1783
+    ce "Tu es si grand, [p_name_short] !"
+
+
 translate french ep017_celine_a5776ec4:
 
-    # ce "You’re ripping me all up!"
-    ce ""
 
-# game/episode017.rpy:1785
+    ce "Tu me déchires tout entier !"
+
+
 translate french ep017_celine_fbae64c1:
 
-    # c "Is it too much for you, Céline, I thought you wanted to be my butt slut?"
-    c ""
 
-# game/episode017.rpy:1786
+    c "C'est trop pour toi, Céline, je croyais que tu voulais être ma salope de cul ?"
+
+
 translate french ep017_celine_2639b6a0:
 
-    # ce "Keep going!{w} Keep going!"
-    ce ""
 
-# game/episode017.rpy:1789
+    ce "Continue !{w} Continue !"
+
+
 translate french ep017_celine_bf082f5d:
 
-    # ce "I want to be your slut, I want to be your anal slut!"
-    ce ""
 
-# game/episode017.rpy:1791
+    ce "Je veux être ta salope, je veux être ta salope anale !"
+
+
 translate french ep017_celine_a39be8bf:
 
-    # "I pulled her upper body towards me and drove my cock even deeper inside her ass."
-    ""
 
-# game/episode017.rpy:1798
+    "J'ai tiré le haut de son corps vers moi et j'ai enfoncé ma bite encore plus profondément dans son cul."
+
+
 translate french ep017_celine_54aadc6b:
 
-    # "My abdomen hit her buttocks every time I slammed my dick inside her tight asshole."
-    ""
 
-# game/episode017.rpy:1799
+    "Mon abdomen frappait ses fesses à chaque fois que j'enfonçais ma bite dans son trou du cul serré."
+
+
 translate french ep017_celine_857835f6:
 
-    # "Braiding my arms across hers, I kept her upright and used the purchase for some very intense strokes."
-    ""
 
-# game/episode017.rpy:1801
+    "En tressant mes bras sur les siens, je l'ai maintenue debout et j'ai utilisé cet appui pour des caresses très intenses."
+
+
 translate french ep017_celine_7b79e58b:
 
-    # c "Do you like it when I use you like this?"
-    c ""
 
-# game/episode017.rpy:1802
+    c "Tu aimes quand je t'utilise comme ça ?"
+
+
 translate french ep017_celine_e361e8b8:
 
-    # ce "I love it, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1805
+    ce "J'adore ça, [p_name_short] !"
+
+
 translate french ep017_celine_f87b725b:
 
-    # "Céline endured the assault on her ass with screams of pained delight."
-    ""
 
-# game/episode017.rpy:1807
+    "Céline a supporté l'assaut de son cul en poussant des cris de plaisir douloureux."
+
+
 translate french ep017_celine_f8457ac0:
 
-    # "Every time I went in, her tight asshole massaged my cock in new ways, and it didn’t take long for my orgasm to approach."
-    ""
 
-# game/episode017.rpy:1811
+    "À chaque fois que j'entrais, son trou du cul serré massait ma queue d'une nouvelle façon, et il n'a pas fallu longtemps pour que mon orgasme approche."
+
+
 translate french ep017_celine_7e8bdd39:
 
-    # c "I’m going to fill your asshole to the rim."
-    c ""
 
-# game/episode017.rpy:1812
+    c "Je vais remplir ton trou du cul jusqu'au bord."
+
+
 translate french ep017_celine_f677465a:
 
-    # ce "Yes! Yes!{w} Fill me up!"
-    ce ""
 
-# game/episode017.rpy:1814
+    ce "Oui ! Oui !{w} Remplis-moi !"
+
+
 translate french ep017_celine_2f29b56d:
 
-    # "Cum spurted deep inside Céline’s rectum with such force it almost made me pass out."
-    ""
 
-# game/episode017.rpy:1815
+    "Le sperme a jailli au fond du rectum de Céline avec une telle force que j'ai failli m'évanouir."
+
+
 translate french ep017_celine_8617fbf2_1:
 
-    # ce "Your warm cum feels so good inside me, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1816
+    ce "Ton sperme chaud est si bon en moi, [p_name_short] !"
+
+
 translate french ep017_celine_0bc5ae0a_1:
 
-    # "I filled her up with so much warm seed that it came dripping along my shaft."
-    ""
 
-# game/episode017.rpy:1820
+    "Je l'ai remplie d'une telle quantité de sperme chaud qu'il a coulé le long de ma tige."
+
+
 translate french ep017_celine_faf74fae:
 
-    # "Cum dripped out of Céline’s winking asshole when I pulled out of her."
-    ""
 
-# game/episode017.rpy:1823
+    "Le sperme a coulé du trou du cul clignotant de Céline quand je me suis retiré d'elle."
+
+
 translate french ep017_celine_cd04f2ff:
 
-    # "It seemed a waste to spend my seed inside her asshole, so I startled Céline by pulling out."
-    ""
 
-# game/episode017.rpy:1825
+    "J'ai eu l'impression de gaspiller ma semence dans son trou du cul, alors j'ai surpris Céline en me retirant."
+
+
 translate french ep017_celine_b2a6190f:
 
-    # ce "What are you doing?"
-    ce ""
 
-# game/episode017.rpy:1827
+    ce "Qu'est-ce que tu fais ?"
+
+
 translate french ep017_celine_d8af05d9_1:
 
-    # c "I’m going to put a baby inside you."
-    c ""
 
-# game/episode017.rpy:1829
+    c "Je vais mettre un bébé en toi."
+
+
 translate french ep017_celine_9d6cfaaa_1:
 
-    # c "I’m going to fill you up."
-    c ""
 
-# game/episode017.rpy:1830
+    c "Je vais te remplir."
+
+
 translate french ep017_celine_869c0b39:
 
-    # ce "Oh!"
-    ce ""
 
-# game/episode017.rpy:1833
+    ce "Oh !"
+
+
 translate french ep017_celine_c5b7d4a3:
 
-    # "I twirled Céline around, lifted her leg and rammed my cock into her pussy."
-    ""
 
-# game/episode017.rpy:1836
+    "J'ai fait tourner Céline, j'ai soulevé sa jambe et j'ai enfoncé ma bite dans sa chatte."
+
+
 translate french ep017_celine_1d2d7e33:
 
-    # "I’d become used to the tightness of her asshole, so the experience of her wet slit was a surprise."
-    ""
 
-# game/episode017.rpy:1837
+    "Je m'étais habitué à l'étroitesse de son trou du cul, alors l'expérience de sa fente humide a été une surprise."
+
+
 translate french ep017_celine_9b9e0567:
 
-    # "After managing a few strokes, I couldn’t hold off on climaxing."
-    ""
 
-# game/episode017.rpy:1840
+    "Après avoir réussi à donner quelques coups, je n'ai pas pu me retenir d'atteindre l'orgasme."
+
+
 translate french ep017_celine_78f568ad:
 
-    # ce "Yes!{w} Yes!{w} Put a baby inside me, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1842
+    ce "Oui !{w} Oui !{w} Mets un bébé en moi, [p_name_short] !"
+
+
 translate french ep017_celine_6eaaa160:
 
-    # ce "Yes!{w} Yes!{w} Fill me up, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1845
+    ce "Oui !{w} Oui !{w} Remplis-moi, [p_name_short] !"
+
+
 translate french ep017_celine_3fd4fd4f:
 
-    # "Cum spurted deep inside Céline’s pussy with such force it almost made me pass out."
-    ""
 
-# game/episode017.rpy:1847
+    "Le sperme a jailli au fond de la chatte de Céline avec une telle force que j'ai failli m'évanouir."
+
+
 translate french ep017_celine_f9c7dc59_1:
 
-    # ce "More, [p_name_short]!{w} Make me pregnant!"
-    ce ""
 
-# game/episode017.rpy:1849
+    ce "Encore, [p_name_short] !{w} Mets-moi enceinte !"
+
+
 translate french ep017_celine_16b0c7e7:
 
-    # ce "Your warm cum feels so good inside me!"
-    ce ""
 
-# game/episode017.rpy:1850
+    ce "Ton sperme chaud est si bon à l'intérieur de moi !"
+
+
 translate french ep017_celine_0bc5ae0a_2:
 
-    # "I filled her up with so much warm seed that it came dripping along my shaft."
-    ""
 
-# game/episode017.rpy:1853
+    "Je l'ai remplie d'une telle quantité de semence chaude qu'elle a coulé le long de ma tige."
+
+
 translate french ep017_celine_f816aa94_1:
 
-    # "Cum dripped out of Céline’s pussy when I pulled out of her."
-    ""
 
-# game/episode017.rpy:1856
+    "Du sperme a coulé de la chatte de Céline quand je me suis retiré d'elle."
+
+
 translate french ep017_celine_79e3d62e_1:
 
-    # c "I’m going to cover you in cum."
-    c ""
 
-# game/episode017.rpy:1857
+    c "Je vais te couvrir de sperme."
+
+
 translate french ep017_celine_9b91394c_1:
 
-    # ce "Yes, paint my body with your cum!"
-    ce ""
 
-# game/episode017.rpy:1860
+    ce "Oui, peins mon corps avec ton sperme !"
+
+
 translate french ep017_celine_703c21d9:
 
-    # "As soon as my dick flopped out of her tight anus, cum spurted from the tip with such force I nearly passed out."
-    ""
 
-# game/episode017.rpy:1861
+    "Dès que ma bite est sortie de son anus serré, le sperme a jailli du bout avec une telle force que j'ai failli m'évanouir."
+
+
 translate french ep017_celine_9cabea69_1:
 
-    # ce "Make a mess of me, [p_name_short]!"
-    ce ""
 
-# game/episode017.rpy:1864
+    ce "Mets-moi dans tous mes états, [p_name_short] !"
+
+
 translate french ep017_celine_fdf5a241_1:
 
-    # "I did just that."
-    ""
 
-# game/episode017.rpy:1865
+    "C'est ce que j'ai fait."
+
+
 translate french ep017_celine_5c118d06:
 
-    # "Her back was covered in warm semen, dripping back towards her ass."
-    ""
 
-# game/episode017.rpy:1867
+    "Son dos était couvert de sperme chaud, dégoulinant vers son cul."
+
+
 translate french ep017_celine_19bf3e9d:
 
-    # "Exhausted, Céline leaned against the wall and panted heavily."
-    ""
 
-# game/episode017.rpy:1869
+    "Épuisée, Céline s'est appuyée contre le mur en haletant fortement."
+
+
 translate french ep017_celine_ec0e4007:
 
-    # ce "I’d call that a healthy break from our information gathering mission."
-    ce ""
 
-# game/episode017.rpy:1870
+    ce "Je dirais que c'est une pause salutaire dans notre mission de collecte d'informations."
+
+
 translate french ep017_celine_4694ce45:
 
-    # c "I fully agree."
-    c ""
 
-# game/episode017.rpy:1871
+    c "Je suis tout à fait d'accord."
+
+
 translate french ep017_celine_c390e417:
 
-    # ce "We’d better go back to the ship."
-    ce ""
 
-# game/episode017.rpy:1872
+    ce "Nous ferions mieux de retourner au vaisseau."
+
+
 translate french ep017_celine_2f71a90d:
 
-    # c "You go on ahead, there’s one last section of the station I haven’t checked out yet."
-    c ""
 
-# game/episode017.rpy:1873
+    c "Vas-y, il y a une dernière section de la station que je n'ai pas encore visité."
+
+
 translate french ep017_celine_b7ccebde:
 
-    # ce "Alright, I just hope I’ll be able to walk after the treatment you just gave me."
-    ce ""
 
-# game/episode017.rpy:1874
+    ce "D'accord, j'espère juste que je pourrai marcher après le traitement que tu viens de me donner."
+
+
 translate french ep017_celine_c92dcc7c:
 
-    # c "I’ll be more gentle next time."
-    c ""
 
-# game/episode017.rpy:1875
+    c "Je serai plus gentil la prochaine fois."
+
+
 translate french ep017_celine_8cd2af8d:
 
-    # ce "No, you really shouldn’t..."
-    ce ""
 
-# game/episode017.rpy:1876
+    ce "Non, tu ne devrais vraiment pas..."
+
+
 translate french ep017_celine_04b51b2c:
 
-    # ce "See you on the Bastard!"
-    ce ""
 
-# game/episode017.rpy:1877
+    ce "À plus tard sur le Bastard !"
+
+
 translate french ep017_celine_c685259c:
 
-    # c "Right, see you later."
-    c ""
 
-# game/episode017.rpy:1888
+    c "D'accord, à plus tard."
+
+
 translate french ep017_vess_adde8554:
 
-    # "As I left the bridge, I caught sight of Vess."
-    ""
 
-# game/episode017.rpy:1889
+    "En quittant le pont, j'ai aperçu Vess."
+
+
 translate french ep017_vess_aac8a7e7:
 
-    # c "Hey Vess?"
-    c ""
 
-# game/episode017.rpy:1891
+    c "Hé Vess ?"
+
+
 translate french ep017_vess_a8f4b8c9:
 
-    # ve "Oh, [p_name_short]."
-    ve ""
 
-# game/episode017.rpy:1892
+    ve "Oh, [p_name_short]."
+
+
 translate french ep017_vess_186f7ad6:
 
-    # ve "Is something the matter?"
-    ve ""
 
-# game/episode017.rpy:1893
+    ve "Il y a un problème ?"
+
+
 translate french ep017_vess_962fa39e:
 
-    # c "No, nothing."
-    c ""
 
-# game/episode017.rpy:1894
+    c "Non, rien."
+
+
 translate french ep017_vess_493c1c41:
 
-    # c "Just wanted to make sure you were really okay."
-    c ""
 
-# game/episode017.rpy:1896
+    c "Je voulais juste m'assurer que tu allais vraiment bien."
+
+
 translate french ep017_vess_3b8defba:
 
-    # ve "Yes, I’m fine."
-    ve ""
 
-# game/episode017.rpy:1897
+    ve "Oui, je vais bien."
+
+
 translate french ep017_vess_a2b34891:
 
-    # ve "You get used to the catcalls after a while, but this guy was persistent."
-    ve ""
 
-# game/episode017.rpy:1898
+    ve "On s'habitue aux huées au bout d'un moment, mais ce type était persévérant."
+
+
 translate french ep017_vess_a5d2feb8:
 
-    # c "He sure was."
-    c ""
 
-# game/episode017.rpy:1900
+    c "Il l'était vraiment."
+
+
 translate french ep017_vess_c65ba3cb:
 
-    # ve "How’s your hand, you messed him up pretty badly?"
-    ve ""
 
-# game/episode017.rpy:1901
+    ve "Comment va ta main, tu l'as bien abîmé ?"
+
+
 translate french ep017_vess_8ba81e93:
 
-    # c "I’ll live."
-    c ""
 
-# game/episode017.rpy:1902
+    c "Je survivrai."
+
+
 translate french ep017_vess_58270ecc:
 
-    # ve "I know violence is wrong and all that, but I must admit that you roughening him up was kind of hot."
-    ve ""
 
-# game/episode017.rpy:1903
+    ve "Je sais que la violence n'est pas bien et tout ça, mais je dois admettre que le fait que tu l'aies malmené était plutôt excitant."
+
+
 translate french ep017_vess_257b2b4c:
 
-    # c "Was it now?"
-    c ""
 
-# game/episode017.rpy:1905
+    c "Et maintenant ?"
+
+
 translate french ep017_vess_61af9459:
 
-    # ve "You putting him into place was kind of hot."
-    ve ""
 
-# game/episode017.rpy:1906
+    ve "Tu l'as mis en place, c'était plutôt sexy."
+
+
 translate french ep017_vess_dbcdf032:
 
-    # c "Was it now, are you in want of a telling-off."
-    c ""
 
-# game/episode017.rpy:1908
+    c "C'était maintenant, tu as besoin d'être réprimandé."
+
+
 translate french ep017_vess_27bdf5a6:
 
-    # ve "I’m still a little tense."
-    ve ""
 
-# game/episode017.rpy:1909
+    ve "Je suis encore un peu tendu."
+
+
 translate french ep017_vess_32686522:
 
-    # c "Is there anything I can do?"
-    c ""
 
-# game/episode017.rpy:1912
+    c "Y a-t-il quelque chose que je puisse faire ?"
+
+
 translate french ep017_vess_2481737a:
 
-    # "I’d gotten closer while Vess continued flirting."
-    ""
 
-# game/episode017.rpy:1913
+    "Je me suis rapproché pendant que Vess continuait à flirter."
+
+
 translate french ep017_vess_a06060c1:
 
-    # ve "It mostly makes me want to kiss you."
-    ve ""
 
-# game/episode017.rpy:1915
+    ve "Cela me donne surtout envie de t'embrasser."
+
+
 translate french ep017_vess_872e730c:
 
-    # "I’d gotten closer while Vess eased back against the wall."
-    ""
 
-# game/episode017.rpy:1916
+    "Je me suis rapprochée pendant que Vess s'adossait au mur."
+
+
 translate french ep017_vess_a598a2f5:
 
-    # ve "Maybe you kissing me would help..."
-    ve ""
 
-# game/episode017.rpy:1917
+    ve "Peut-être que le fait que tu m'embrasses m'aiderait..."
+
+
 translate french ep017_vess_3b498828:
 
-    # c "That can of course be arranged."
-    c ""
 
-# game/episode017.rpy:1919
+    c "Cela peut bien sûr s'arranger."
+
+
 translate french ep017_vess_a91a4592:
 
-    # "Vess leaned against the wall and pulled me closer."
-    ""
 
-# game/episode017.rpy:1921
+    "Vess s'est appuyée contre le mur et m'a rapproché."
+
+
 translate french ep017_vess_8c435d6a:
 
-    # "My hand caressed her naked thigh causing Vess to hold her breath."
-    ""
 
-# game/episode017.rpy:1923
+    "Ma main a caressé sa cuisse nue et Vess a retenu son souffle."
+
+
 translate french ep017_vess_dd495bdc:
 
-    # "We kissed hungrily."
-    ""
 
-# game/episode017.rpy:1924
+    "Nous nous sommes embrassés avec avidité."
+
+
 translate french ep017_vess_449c9954:
 
-    # ve "I want you so much, [p_name_short]!"
-    ve ""
 
-# game/episode017.rpy:1926
+    ve "J'ai tellement envie de toi, [p_name_short] !"
+
+
 translate french ep017_vess_6cbbf149:
 
-    # "Vess opened her legs, allowing me access to her pussy."
-    ""
 
-# game/episode017.rpy:1928
+    "Vess a ouvert ses jambes, me permettant d'accéder à sa chatte."
+
+
 translate french ep017_vess_a5197520:
 
-    # "I was just about to take advantage when we heard footsteps."
-    ""
 
-# game/episode017.rpy:1929
+    "J'étais sur le point d'en profiter lorsque nous avons entendu des pas."
+
+
 translate french ep017_vess_f724e315:
 
-    # c "Let’s take this inside, shall we?"
-    c ""
 
-# game/episode017.rpy:1931
+    c "Rentrons à l'intérieur, d'accord ?"
+
+
 translate french ep017_vess_64a8f571:
 
-    # "We slipped into my room and continued kissing on the other side of the door as the footsteps approached."
-    ""
 
-# game/episode017.rpy:1933
+    "Nous nous sommes glissés dans ma chambre et avons continué à nous embrasser de l'autre côté de la porte alors que les pas s'approchaient."
+
+
 translate french ep017_vess_5f8997b8:
 
-    # ki "Huh, I could have sworn there was somebody in the hallway just now?"
-    ki ""
 
-# game/episode017.rpy:1934
+    ki "Huh, j'aurais juré qu'il y avait quelqu'un dans le couloir à l'instant ?"
+
+
 translate french ep017_vess_59a367fe:
 
-    # ki "Probably hearing things, time to take a nap..."
-    ki ""
 
-# game/episode017.rpy:1936
+    ki "J'ai sûrement entendu des choses, c'est l'heure de la sieste..."
+
+
 translate french ep017_vess_ab803e2c:
 
-    # ve "That was close."
-    ve ""
 
-# game/episode017.rpy:1937
+    ve "Il s'en est fallu de peu."
+
+
 translate french ep017_vess_131c6a89:
 
-    # ve "I was just about to show you this."
-    ve ""
 
-# game/episode017.rpy:1939
+    ve "J'allais justement te montrer ça."
+
+
 translate french ep017_vess_fcf6ba49:
 
-    # "Vess opened her dress to expose her breasts and lifted her skirt."
-    ""
 
-# game/episode017.rpy:1941
+    "Vess a ouvert sa robe pour exposer ses seins et a soulevé sa jupe."
+
+
 translate french ep017_vess_fb00e02f:
 
-    # "Her soft pussy winked just under the hem of her dress and caused my erection to come to life."
-    ""
 
-# game/episode017.rpy:1942
+    "Sa chatte douce scintillait juste sous l'ourlet de sa robe et a fait naître mon érection."
+
+
 translate french ep017_vess_227bab75:
 
-    # c "I think I like what you have in mind."
-    c ""
 
-# game/episode017.rpy:1944
+    c "Je crois que j'aime ce que tu as en tête."
+
+
 translate french ep017_vess_d3608a6b:
 
-    # ve "I thought as much."
-    ve ""
 
-# game/episode017.rpy:1949
+    ve "C'est ce que j'ai pensé."
+
+
 translate french ep017_vess_91a7a814:
 
-    # "We both undressed quickly."
-    ""
 
-# game/episode017.rpy:1951
+    "Nous nous sommes tous les deux déshabillés rapidement."
+
+
 translate french ep017_vess_cb46fb88:
 
-    # "When I looked up, Vess had her back turned towards me, allowing me a view of her ass."
-    ""
 
-# game/episode017.rpy:1952
+    "Lorsque j'ai levé les yeux, Vess me tournait le dos, ce qui me permettait de voir ses fesses."
+
+
 translate french ep017_vess_6a6ca814:
 
-    # ve "You know I can feel you staring at my ass?"
-    ve ""
 
-# game/episode017.rpy:1953
+    ve "Tu sais que je sens que tu regardes mon cul ?"
+
+
 translate french ep017_vess_11f10c25:
 
-    # c "And what of it?"
-    c ""
 
-# game/episode017.rpy:1954
+    c "Et qu'est-ce qu'il y a dedans ?"
+
+
 translate french ep017_vess_1748454a:
 
-    # c "Just admiring the view."
-    c ""
 
-# game/episode017.rpy:1956
+    c "J'admire juste la vue."
+
+
 translate french ep017_vess_30f966f8:
 
-    # ve "So you don’t like the front?"
-    ve ""
 
-# game/episode017.rpy:1961
+    ve "Alors tu n'aimes pas l'avant ?"
+
+
 translate french ep017_vess_63678847:
 
-    # "Vess had turned around, and the sight of her naked body nearly made my heart stop."
-    ""
 
-# game/episode017.rpy:1962
+    "Vess s'était retournée, et la vue de son corps nu a failli faire s'arrêter mon cœur."
+
+
 translate french ep017_vess_4e330d38:
 
-    # c "I’ll be the last person to say that."
-    c ""
 
-# game/episode017.rpy:1963
+    c "Je serai la dernière personne à dire ça."
+
+
 translate french ep017_vess_1da123f4:
 
-    # c "Come over here on the bed."
-    c ""
 
-# game/episode017.rpy:1965
+    c "Viens ici, sur le lit."
+
+
 translate french ep017_vess_5e338f81:
 
-    # "Vess obliged and looked at me in anticipation."
-    ""
 
-# game/episode017.rpy:1967
+    "Vess s'est exécutée et m'a regardée avec impatience."
+
+
 translate french ep017_vess_208a1649:
 
-    # ve "I have a feeling you’ve got all kinds of things in mind."
-    ve ""
 
-# game/episode017.rpy:1968
+    ve "J'ai l'impression que tu as toutes sortes de choses en tête."
+
+
 translate french ep017_vess_a0a49afc:
 
-    # c "I have indeed."
-    c ""
 
-# game/episode017.rpy:1969
+    c "En effet."
+
+
 translate french ep017_vess_4d619589:
 
-    # c "You’re going to spread your legs for me."
-    c ""
 
-# game/episode017.rpy:1971
+    c "Tu vas m'écarter les jambes."
+
+
 translate french ep017_vess_dc2e8d59:
 
-    # ve "Like this?"
-    ve ""
 
-# game/episode017.rpy:1972
+    ve "Comme ça ?"
+
+
 translate french ep017_vess_fb8ec73c:
 
-    # c "Exactly like this."
-    c ""
 
-# game/episode017.rpy:1973
+    c "Exactement comme ça."
+
+
 translate french ep017_vess_57fed3a1:
 
-    # c "Now I can get a good look."
-    c ""
 
-# game/episode017.rpy:1974
+    c "Maintenant, je peux bien regarder."
+
+
 translate french ep017_vess_2fe14eff:
 
-    # c "Are you already wet for me, Vess?"
-    c ""
 
-# game/episode017.rpy:1975
+    c "Es-tu déjà mouillée pour moi, Vess ?"
+
+
 translate french ep017_vess_094d8df7:
 
-    # ve "Maybe...{w} A little..."
-    ve ""
 
-# game/episode017.rpy:1976
+    ve "Peut-être...{w} Un peu..."
+
+
 translate french ep017_vess_f1a734af:
 
-    # c "I think I can do something to help with that."
-    c ""
 
-# game/episode017.rpy:1977
+    c "Je pense que je peux faire quelque chose pour t'aider."
+
+
 translate french ep017_vess_1ed39cb8:
 
-    # ve "Now I’m intrigued."
-    ve ""
 
-# game/episode017.rpy:1979
+    ve "Maintenant, je suis intriguée."
+
+
 translate french ep017_vess_34575c5c:
 
-    # "What I did next stopped any further banter."
-    ""
 
-# game/episode017.rpy:1981
+    "Ce que j'ai fait ensuite a mis fin à toute discussion."
+
+
 translate french ep017_vess_4cb31f6a:
 
-    # "Vess gasped as my mouth connected with her slit."
-    ""
 
-# game/episode017.rpy:1982
+    "Vess a sursauté quand ma bouche a touché sa fente."
+
+
 translate french ep017_vess_cfdf0bf1:
 
-    # "I kissed her pussy and licked her slit, the juice coating her pussy tasted a little salty."
-    ""
 
-# game/episode017.rpy:1984
+    "J'ai embrassé sa chatte et léché sa fente, le jus qui enduisait sa chatte avait un goût un peu salé."
+
+
 translate french ep017_vess_4612004c:
 
-    # ve "Oh fuck, [p_name_short], that’s it, right there!"
-    ve ""
 
-# game/episode017.rpy:1986
+    ve "Oh putain, [p_name_short], c'est ça, juste là !"
+
+
 translate french ep017_vess_8394d4c3:
 
-    # "I continued what I was doing, alternating between licking and sucking her cunt."
-    ""
 
-# game/episode017.rpy:1987
+    "J'ai continué ce que je faisais, alternant entre léchage et succion de sa chatte."
+
+
 translate french ep017_vess_610274d6:
 
-    # "The intensity of her moans was an indication I was treating her slit properly."
-    ""
 
-# game/episode017.rpy:1989
+    "L'intensité de ses gémissements indiquait que je traitais correctement sa fente."
+
+
 translate french ep017_vess_dcc793ed:
 
-    # "I gradually shifted my focus on her clit, my tongue gyrating over her throbbing little bean."
-    ""
 
-# game/episode017.rpy:1990
+    "J'ai progressivement déplacé mon attention sur son clito, ma langue girant sur son petit haricot palpitant."
+
+
 translate french ep017_vess_7d45724f:
 
-    # ve "Keep going, [p_name_short], your tongue feels so good on my pussy!"
-    ve ""
 
-# game/episode017.rpy:1992
+    ve "Continue, [p_name_short], ta langue est si bonne sur ma chatte !"
+
+
 translate french ep017_vess_4d8b0f9e:
 
-    # "Vess pulled her legs towards her chest, to give me better access to her cunt."
-    ""
 
-# game/episode017.rpy:1993
+    "Vess a ramené ses jambes vers sa poitrine, pour me donner un meilleur accès à sa chatte."
+
+
 translate french ep017_vess_22dd76e2:
 
-    # "I responded by making even more intense strokes with my tongue, running from her clit across the length of her wet gash."
-    ""
 
-# game/episode017.rpy:1996
+    "J'ai répondu en faisant des coups de langue encore plus intenses, partant de son clito pour parcourir toute la longueur de sa chatte humide."
+
+
 translate french ep017_vess_d57419c2:
 
-    # ve "Eat me out, [p_name_short]!{w} Make me cum!"
-    ve ""
 
-# game/episode017.rpy:1997
+    ve "Mange-moi, [p_name_short] ! {w} Fais-moi jouir !"
+
+
 translate french ep017_vess_6a7a88f2:
 
-    # ve "Yes, that’s it!"
-    ve ""
 
-# game/episode017.rpy:1999
+    ve "Oui, c'est ça !"
+
+
 translate french ep017_vess_1649c6df:
 
-    # "Vess’ cunt oozed juices almost continuously, which I eagerly drank in."
-    ""
 
-# game/episode017.rpy:2000
+    "La chatte de Vess suintait presque continuellement de jus, que je buvais avidement."
+
+
 translate french ep017_vess_ead6b2f6:
 
-    # "She began to shudder, every muscle in her body tightening up."
-    ""
 
-# game/episode017.rpy:2002
+    "Elle a commencé à trembler, tous les muscles de son corps se sont tendus."
+
+
 translate french ep017_vess_66615197:
 
-    # "I knew she was nearly at the edge and continued without hesitation."
-    ""
 
-# game/episode017.rpy:2003
+    "Je savais qu'elle était presque à la limite et j'ai continué sans hésiter."
+
+
 translate french ep017_vess_9c06217e:
 
-    # ve "You’re making me...{w} Oh [p_name_short]!{w} You’re making me cum!"
-    ve ""
 
-# game/episode017.rpy:2004
+    ve "Tu me fais...{w} Oh [p_name_short] !{w} Tu me fais jouir !"
+
+
 translate french ep017_vess_2d36db15:
 
-    # "Vess desperately pushed her cunt against my face, in hopes I could bury my face even deeper in it."
-    ""
 
-# game/episode017.rpy:2005
+    "Vess a désespérément poussé sa chatte contre mon visage, dans l'espoir que je puisse y enfouir mon visage encore plus profondément."
+
+
 translate french ep017_vess_a9d8d2d2:
 
-    # "Fully engaged in stimulating her clit, I picked up the pace."
-    ""
 
-# game/episode017.rpy:2008
+    "Complètement engagée dans la stimulation de son clito, j'ai accéléré le rythme."
+
+
 translate french ep017_vess_4b4bfdcd:
 
-    # "Her fingers were pressed down hard in the flesh of her thighs, the knuckles white from the strain."
-    ""
 
-# game/episode017.rpy:2009
+    "Ses doigts étaient fortement enfoncés dans la chair de ses cuisses, les jointures blanches à force d'être sollicitées."
+
+
 translate french ep017_vess_62c709c2:
 
-    # "Several things happened simultaneously, a great release pulsed through the girl’s body as my mouth flooded with more saline juice."
-    ""
 
-# game/episode017.rpy:2011
+    "Plusieurs choses se sont produites simultanément, une grande libération a pulsé à travers le corps de la fille tandis que ma bouche était inondée d'une plus grande quantité de jus salin."
+
+
 translate french ep017_vess_6e565a47:
 
-    # "Vess wailed in ecstasy, losing control of most of her muscles."
-    ""
 
-# game/episode017.rpy:2012
+    "Vess a poussé un gémissement d'extase, perdant le contrôle de la plupart de ses muscles."
+
+
 translate french ep017_vess_621d0142:
 
-    # "She trembled and writhed, her pussy convulsing against my face."
-    ""
 
-# game/episode017.rpy:2018
+    "Elle tremblait et se tordait, sa chatte se convulsant contre mon visage."
+
+
 translate french ep017_vess_98c615aa:
 
-    # ve "Quickly, I want you inside me, [p_name_short]!"
-    ve ""
 
-# game/episode017.rpy:2019
+    ve "Vite, je veux que tu sois en moi, [p_name_short] !"
+
+
 translate french ep017_vess_cfdaa7e1:
 
-    # "Her orgasm clearly hadn’t diminished her arousal in the slightest."
-    ""
 
-# game/episode017.rpy:2021
+    "Son orgasme n'avait visiblement pas diminué son excitation le moins du monde."
+
+
 translate french ep017_vess_ca21b227:
 
-    # "Vess spread her legs again and presented her pussy."
-    ""
 
-# game/episode017.rpy:2023
+    "Vess a de nouveau écarté les jambes et présenté sa chatte."
+
+
 translate french ep017_vess_d0fe436c:
 
-    # "I pushed against her entrance, which felt warm, wet and inviting."
-    ""
 
-# game/episode017.rpy:2024
+    "J'ai poussé contre son entrée, qui semblait chaude, humide et invitante."
+
+
 translate french ep017_vess_00b6c4ce:
 
-    # "She was impatient and pushed her cunt against the tip of my cock."
-    ""
 
-# game/episode017.rpy:2026
+    "Elle était impatiente et a poussé sa chatte contre le bout de ma queue."
+
+
 translate french ep017_vess_5124ca9a:
 
-    # "When I pushed the head past her lips, Vess sighed with delight."
-    ""
 
-# game/episode017.rpy:2028
+    "Lorsque j'ai fait passer la tête au-delà de ses lèvres, Vess a poussé un soupir de plaisir."
+
+
 translate french ep017_vess_6322548c:
 
-    # ve "That’s it!"
-    ve ""
 
-# game/episode017.rpy:2029
+    ve "Ça y est !"
+
+
 translate french ep017_vess_4dd0dd87:
 
-    # c "I’m going to fuck you so hard, Vess."
-    c ""
 
-# game/episode017.rpy:2030
+    c "Je vais te baiser très fort, Vess."
+
+
 translate french ep017_vess_f036315d:
 
-    # ve "Yes, I want you to, don’t hold back!"
-    ve ""
 
-# game/episode017.rpy:2031
+    ve "Oui, je le veux, ne te retiens pas !"
+
+
 translate french ep017_vess_997596d9:
 
-    # ve "I need your cock!"
-    ve ""
 
-# game/episode017.rpy:2033
+    ve "J'ai besoin de ta bite !"
+
+
 translate french ep017_vess_6a3558b6:
 
-    # "I slipped fully inside Vess and began to fuck her."
-    ""
 
-# game/episode017.rpy:2034
+    "Je me suis glissé à fond dans Vess et j'ai commencé à la baiser."
+
+
 translate french ep017_vess_3bf3cec7:
 
-    # "She was still dripping wet from her orgasm just before, but that made the feeling even better."
-    ""
 
-# game/episode017.rpy:2037
+    "Elle était encore toute mouillée de l'orgasme qu'elle avait eu juste avant, mais cela rendait la sensation encore meilleure."
+
+
 translate french ep017_vess_10f5b49c:
 
-    # "Vess let out her breath in ragged gasps every time I slammed into her pussy."
-    ""
 
-# game/episode017.rpy:2039
+    "Vess laissait échapper son souffle à chaque fois que je m'enfonçais dans sa chatte."
+
+
 translate french ep017_vess_5bde5e44:
 
-    # ve "I never want you to stop, it feels so good!"
-    ve ""
 
-# game/episode017.rpy:2040
+    ve "Je ne veux jamais que tu t'arrêtes, c'est si bon !"
+
+
 translate french ep017_vess_1876f6e0:
 
-    # ve "Deeper, deeper!"
-    ve ""
 
-# game/episode017.rpy:2042
+    ve "Plus profond, plus profond !"
+
+
 translate french ep017_vess_9ae045cd:
 
-    # "At the rate we were going at it, I wouldn’t last very long."
-    ""
 
-# game/episode017.rpy:2043
+    "Au rythme où nous allions, je ne tiendrais pas longtemps."
+
+
 translate french ep017_vess_564f316b:
 
-    # "The feeling of her tight slit was so addictive I wanted to prolong the moment a little."
-    ""
 
-# game/episode017.rpy:2046
+    "La sensation de sa fente serrée était si addictive que j'ai voulu prolonger un peu le moment."
+
+
 translate french ep017_vess_66513263:
 
-    # "Still rooted inside her, I made Vess lie on her side."
-    ""
 
-# game/episode017.rpy:2048
+    "Toujours enracinée en elle, j'ai fait coucher Vess sur le côté."
+
+
 translate french ep017_vess_6fa54d71:
 
-    # ve "I really don’t want this to end."
-    ve ""
 
-# game/episode017.rpy:2049
+    ve "Je n'ai vraiment pas envie que ça se termine."
+
+
 translate french ep017_vess_ac2bea30:
 
-    # c "Me neither."
-    c ""
 
-# game/episode017.rpy:2050
+    c "Moi non plus."
+
+
 translate french ep017_vess_04b79212:
 
-    # "Her breasts pressed against my chest as Vess sought my mouth."
-    ""
 
-# game/episode017.rpy:2052
+    "Ses seins se sont pressés contre ma poitrine et Vess a cherché ma bouche."
+
+
 translate french ep017_vess_e7aae891:
 
-    # "We kissed passionately, while I continued fucking her pussy."
-    ""
 
-# game/episode017.rpy:2054
+    "Nous nous sommes embrassés passionnément, tandis que je continuais à baiser sa chatte."
+
+
 translate french ep017_vess_c9aab649:
 
-    # "It turned out this wasn’t the most enjoyable position for either of us."
-    ""
 
-# game/episode017.rpy:2055
+    "Il s'est avéré que cette position n'était pas la plus agréable pour nous deux."
+
+
 translate french ep017_vess_48e94965:
 
-    # "I couldn’t get into the rhythm we’d established earlier, and Vess struggled to get comfortable as well."
-    ""
 
-# game/episode017.rpy:2057
+    "Je n'arrivais pas à prendre le rythme que nous avions établi plus tôt, et Vess avait du mal à se mettre à l'aise elle aussi."
+
+
 translate french ep017_vess_d0a09e71:
 
-    # "With a growl of frustration, I gathered Vess in my arms and turned her around, her ass facing my cock."
-    ""
 
-# game/episode017.rpy:2058
+    "Avec un grognement de frustration, j'ai pris Vess dans mes bras et je l'ai retournée, son cul face à ma bite."
+
+
 translate french ep017_vess_1e32720a:
 
-    # "She giggled because of the sudden ferocity of my actions and turned her upper body towards me for another kiss."
-    ""
 
-# game/episode017.rpy:2061
+    "Elle a gloussé à cause de la férocité soudaine de mes actions et a tourné le haut de son corps vers moi pour un autre baiser."
+
+
 translate french ep017_vess_4b4e7d35:
 
-    # "I entered her again as we kissed, the angle just right this time."
-    ""
 
-# game/episode017.rpy:2062
+    "Je l'ai pénétrée à nouveau pendant que nous nous embrassions, l'angle étant juste cette fois-ci."
+
+
 translate french ep017_vess_b0906b21:
 
-    # c "Fuck, your pussy feels so good!"
-    c ""
 
-# game/episode017.rpy:2063
+    c "Putain, ta chatte est si bonne !"
+
+
 translate french ep017_vess_5c1b7790:
 
-    # ve "Mmmm, yes, your cock feels so good inside me!"
-    ve ""
 
-# game/episode017.rpy:2065
+    ve "Mmmm, oui, ta bite est si bonne en moi !"
+
+
 translate french ep017_vess_ffef4c75:
 
-    # "Vess ground her ass against my abdomen, wanting me to go even deeper than possible."
-    ""
 
-# game/episode017.rpy:2066
+    "Vess a plaqué ses fesses contre mon abdomen, voulant que j'aille encore plus loin que possible."
+
+
 translate french ep017_vess_a640948a:
 
-    # "Our bodies were so close next to each other, it almost seemed as if we wanted to meld together as one."
-    ""
 
-# game/episode017.rpy:2067
+    "Nos corps étaient si proches l'un de l'autre qu'il semblait presque que nous voulions nous fondre l'un dans l'autre."
+
+
 translate french ep017_vess_5f5db72c:
 
-    # c "I love you, Vess."
-    c ""
 
-# game/episode017.rpy:2068
+    c "Je t'aime, Vess."
+
+
 translate french ep017_vess_98c6a6a3:
 
-    # ve "I love you too, [p_name_short]!"
-    ve ""
 
-# game/episode017.rpy:2071
+    ve "Je t'aime aussi, [p_name_short] !"
+
+
 translate french ep017_vess_541ac7df:
 
-    # "The tightness of her slit became an increasing strain on my self-control."
-    ""
 
-# game/episode017.rpy:2073
+    "L'étroitesse de sa fente mettait de plus en plus à rude épreuve ma maîtrise de soi."
+
+
 translate french ep017_vess_047757b1:
 
-    # c "I think I’m...{w} Oh Vess...{w} I’m..."
-    c ""
 
-# game/episode017.rpy:2074
+    c "Je crois que je...{w} Oh Vess...{w} Je..."
+
+
 translate french ep017_vess_405b6f8e:
 
-    # ve "Are you going to cum, [p_name]?"
-    ve ""
 
-# game/episode017.rpy:2075
+    ve "Tu vas jouir, [p_name] ?"
+
+
 translate french ep017_vess_d8a9995a:
 
-    # ve "Don’t hold back, cum for me!"
-    ve ""
 
-# game/episode017.rpy:2081
+    ve "Ne te retiens pas, jouis pour moi !"
+
+
 translate french ep017_vess_37dc5107:
 
-    # c "I’m going to cum, I’m going to shoot my hot load all inside you!"
-    c ""
 
-# game/episode017.rpy:2082
+    c "Je vais jouir, je vais t'envoyer mon sperme tout chaud à l'intérieur de toi !"
+
+
 translate french ep017_vess_5ad5e505:
 
-    # ve "Yes, [p_name_short], I want it all inside my pussy."
-    ve ""
 
-# game/episode017.rpy:2084
+    ve "Oui, [p_name_short], je veux que tout soit dans ma chatte."
+
+
 translate french ep017_vess_6a9b9bbd:
 
-    # "Still deep inside her, I released thick ropes of warm cum."
-    ""
 
-# game/episode017.rpy:2085
+    "Toujours au fond d'elle, je libère d'épaisses cordes de sperme chaud."
+
+
 translate french ep017_vess_009ee7b6:
 
-    # ve "There’s so much of it!"
-    ve ""
 
-# game/episode017.rpy:2086
+    ve "Il y en a tellement !"
+
+
 translate french ep017_vess_300d6be3:
 
-    # ve "Stay inside me, [p_name_short], I want it all!"
-    ve ""
 
-# game/episode017.rpy:2087
+    ve "Reste en moi, [p_name_short], je veux tout !"
+
+
 translate french ep017_vess_7d840ee5:
 
-    # "My cock pulsed several times, ejecting seed into Vess each time."
-    ""
 
-# game/episode017.rpy:2090
+    "Ma bite a pulsé plusieurs fois, éjectant à chaque fois de la semence dans Vess."
+
+
 translate french ep017_vess_c0151355:
 
-    # "When I was done, I pulled my cock from her slit, cum oozing out of her opened entrance."
-    ""
 
-# game/episode017.rpy:2093
+    "Quand j'ai eu fini, j'ai retiré ma bite de sa fente, le sperme suintant de son entrée ouverte."
+
+
 translate french ep017_vess_df45e3b2:
 
-    # c "I’m cumming!"
-    c ""
 
-# game/episode017.rpy:2094
+    c "Je suis en train de jouir !"
+
+
 translate french ep017_vess_c52e5ed7:
 
-    # ve "Yes, give me everything you’ve got, [p_name_short]!"
-    ve ""
 
-# game/episode017.rpy:2096
+    ve "Oui, donne-moi tout ce que tu as, [p_name_short] !"
+
+
 translate french ep017_vess_042bf468:
 
-    # "My cock pulsed as I pulled out of her slit."
-    ""
 
-# game/episode017.rpy:2099
+    "Ma bite a pulsé alors que je me retirais de sa fente."
+
+
 translate french ep017_vess_32a677b1:
 
-    # "I shot thick ropes of warm cum all over her abdomen."
-    ""
 
-# game/episode017.rpy:2100
+    "J'ai projeté d'épaisses cordes de sperme chaud sur tout son abdomen."
+
+
 translate french ep017_vess_009ee7b6_1:
 
-    # ve "There’s so much of it!"
-    ve ""
 
-# game/episode017.rpy:2102
+    ve "Il y en a tellement !"
+
+
 translate french ep017_vess_a368877e:
 
-    # "After we finished up, Vess nestled herself against me."
-    ""
 
-# game/episode017.rpy:2104
+    "Après avoir terminé, Vess s'est blottie contre moi."
+
+
 translate french ep017_vess_0f2c4ec8:
 
-    # "We continued to appreciate the afterglow as she rested her head against my chest."
-    ""
 
-# game/episode017.rpy:2110
+    "Nous avons continué à apprécier la rémanence alors qu'elle reposait sa tête contre ma poitrine."
+
+
 translate french ep017_raene_30292b65:
 
-    # ra "Hey!"
-    ra ""
 
-# game/episode017.rpy:2111
+    ra "Hé !"
+
+
 translate french ep017_raene_1b3e541e:
 
-    # ra "No luck on the station, I heard?"
-    ra ""
 
-# game/episode017.rpy:2112
+    ra "Pas de chance avec la station, à ce qu'il paraît ?"
+
+
 translate french ep017_raene_f2a89ce7:
 
-    # c "Nope, maybe tomorrow."
-    c ""
 
-# game/episode017.rpy:2114
+    c "Non, peut-être demain."
+
+
 translate french ep017_raene_7031ceef:
 
-    # ra "Wish we had better news after all those hours walking up and down the station."
-    ra ""
 
-# game/episode017.rpy:2115
+    ra "J'aurais aimé avoir de meilleures nouvelles après toutes ces heures passées à arpenter la station."
+
+
 translate french ep017_raene_e44dc3b7:
 
-    # ra "My feet hurt."
-    ra ""
 
-# game/episode017.rpy:2116
+    ra "J'ai mal aux pieds."
+
+
 translate french ep017_raene_ce3bab50:
 
-    # c "Yeah, I know what you mean."
-    c ""
 
-# game/episode017.rpy:2117
+    c "Oui, je comprends ce que tu veux dire."
+
+
 translate french ep017_raene_75e8034a:
 
-    # c "I was looking for some relaxation, but if you’re too tired..."
-    c ""
 
-# game/episode017.rpy:2119
+    c "Je cherchais un peu de détente, mais si tu es trop fatiguée...."
+
+
 translate french ep017_raene_f07b3ab0:
 
-    # ra "Oh!{w} I didn’t mean it that way..."
-    ra ""
 
-# game/episode017.rpy:2120
+    ra "Oh !{w} Ce n'est pas ce que je voulais dire..."
+
+
 translate french ep017_raene_7cc0c09f:
 
-    # ra "Or I did, but that doesn’t mean-"
-    ra ""
 
-# game/episode017.rpy:2121
+    ra "Ou si, mais ça ne veut pas dire..."
+
+
 translate french ep017_raene_bb65063c:
 
-    # ra "..."
-    ra ""
 
-# game/episode017.rpy:2123
+    ra "..."
+
+
 translate french ep017_raene_5e00d98a:
 
-    # ra "Ignore all that."
-    ra ""
 
-# game/episode017.rpy:2125
+    ra "Ignore tout cela."
+
+
 translate french ep017_raene_abe50c2e:
 
-    # ra "I’m all up for relaxation."
-    ra ""
 
-# game/episode017.rpy:2126
+    ra "Je suis tout à fait d'accord pour me détendre."
+
+
 translate french ep017_raene_4448d179:
 
-    # c "Good!"
-    c ""
 
-# game/episode017.rpy:2128
+    c "C'est bien !"
+
+
 translate french ep017_raene_e0e800a9:
 
-    # ra "There’s something I wanted to show you."
-    ra ""
 
-# game/episode017.rpy:2129
+    ra "Il y a quelque chose que je voulais te montrer."
+
+
 translate french ep017_raene_5fcebe65:
 
-    # ra "I know I shouldn’t have, what with the search of the station and all."
-    ra ""
 
-# game/episode017.rpy:2130
+    ra "Je sais que je n'aurais pas dû, avec la fouille de la station et tout le reste."
+
+
 translate french ep017_raene_95d41273:
 
-    # ra "But I didn’t know if we’d visit another station soon and..."
-    ra ""
 
-# game/episode017.rpy:2131
+    ra "Mais je ne savais pas si nous allions bientôt visiter une autre station et..."
+
+
 translate french ep017_raene_232f3c10:
 
-    # c "Raene, you’re allowed to buy things for yourself, it’s fine."
-    c ""
 
-# game/episode017.rpy:2133
+    c "Raene, tu as le droit d'acheter des choses pour toi, c'est très bien."
+
+
 translate french ep017_raene_023d9ab8:
 
-    # ra "But it’s really dirty."
-    ra ""
 
-# game/episode017.rpy:2134
+    ra "Mais c'est vraiment sale."
+
+
 translate french ep017_raene_b5a20318:
 
-    # c "I’m sure it isn’t."
-    c ""
 
-# game/episode017.rpy:2136
+    c "Je suis sûre que ça ne l'est pas."
+
+
 translate french ep017_raene_9206ac2f:
 
-    # "Raene retrieved something out of a drawer and sat back down on the bed."
-    ""
 
-# game/episode017.rpy:2138
+    "Raene a récupéré quelque chose dans un tiroir et s'est rassise sur le lit."
+
+
 translate french ep017_raene_ef34acce:
 
-    # "She turned the object nervously in her hands."
-    ""
 
-# game/episode017.rpy:2139
+    "Elle tourne nerveusement l'objet dans ses mains."
+
+
 translate french ep017_raene_9527e1d9:
 
-    # c "You’ve bought a sex toy."
-    c ""
 
-# game/episode017.rpy:2141
+    c "Tu as acheté un jouet sexuel."
+
+
 translate french ep017_raene_508b7832:
 
-    # ra "Yes, stupid isn’t it?"
-    ra ""
 
-# game/episode017.rpy:2142
+    ra "Oui, c'est stupide, n'est-ce pas ?"
+
+
 translate french ep017_raene_b9693362:
 
-    # ra "I passed that store a few times today and finally gathered the courage."
-    ra ""
 
-# game/episode017.rpy:2143
+    ra "Je suis passée devant ce magasin plusieurs fois aujourd'hui et j'ai finalement rassemblé mon courage."
+
+
 translate french ep017_raene_b9599a74:
 
-    # ra "I just thought there might come a time when we want to take things further, if you know what I mean."
-    ra ""
 
-# game/episode017.rpy:2144
+    ra "Je me suis dit qu'il y aurait peut-être un moment où nous voudrions aller plus loin, si tu vois ce que je veux dire."
+
+
 translate french ep017_raene_b7af1e88:
 
-    # ra "And I want to be ready for you."
-    ra ""
 
-# game/episode017.rpy:2146
+    ra "Et je veux être prête pour toi."
+
+
 translate french ep017_raene_3c574fb9:
 
-    # ra "That sounds terrible, doesn’t it?!"
-    ra ""
 
-# game/episode017.rpy:2148
+    ra "Ça a l'air terrible, n'est-ce pas ?!"
+
+
 translate french ep017_raene_7ba60656:
 
-    # "I had to put a reassuring hand on Raene’s arm to stop her from scrambling off the bed."
-    ""
 
-# game/episode017.rpy:2149
+    "J'ai dû poser une main rassurante sur le bras de Raene pour l'empêcher de se précipiter hors du lit."
+
+
 translate french ep017_raene_707d7fc3:
 
-    # c "It doesn’t sound terrible at all."
-    c ""
 
-# game/episode017.rpy:2150
+    c "Ça n'a pas l'air terrible du tout."
+
+
 translate french ep017_raene_57d214c1:
 
-    # c "In fact, it makes you even cuter to me than you already were."
-    c ""
 
-# game/episode017.rpy:2152
+    c "En fait, je te trouve encore plus mignonne que tu ne l'étais déjà."
+
+
 translate french ep017_raene_fe11c721:
 
-    # ra "Cuter?"
-    ra ""
 
-# game/episode017.rpy:2153
+    ra "Plus mignonne ?"
+
+
 translate french ep017_raene_87ff174e:
 
-    # c "Yes, the fact that you want to prepare yourself so thoroughly is such a sweet thing."
-    c ""
 
-# game/episode017.rpy:2154
+    c "Oui, le fait que tu veuilles te préparer aussi minutieusement est une chose tellement adorable."
+
+
 translate french ep017_raene_252a2f7b:
 
-    # c "Just don’t forget to enjoy the moment when it arrives."
-    c ""
 
-# game/episode017.rpy:2156
+    c "N'oublie pas de profiter de l'instant présent lorsqu'il arrive."
+
+
 translate french ep017_raene_1833e518:
 
-    # ra "I won’t forget!"
-    ra ""
 
-# game/episode017.rpy:2157
+    ra "Je n'oublierai pas !"
+
+
 translate french ep017_raene_6815a153:
 
-    # ra "It’s just that the things we did so far made me feel so good that I want to go all the way with you."
-    ra ""
 
-# game/episode017.rpy:2159
+    ra "C'est juste que les choses que nous avons faites jusqu'à présent m'ont fait me sentir si bien que j'ai envie d'aller jusqu'au bout avec toi."
+
+
 translate french ep017_raene_eeddf3f4:
 
-    # ra "Late at night, when I’m alone, I sometimes imagine what it must feel like."
-    ra ""
 
-# game/episode017.rpy:2160
+    ra "Tard le soir, quand je suis seule, il m'arrive d'imaginer ce que ça doit être."
+
+
 translate french ep017_raene_73d68105:
 
-    # ra "You being inside me, I mean..."
-    ra ""
 
-# game/episode017.rpy:2161
+    ra "Que tu sois en moi, je veux dire..."
+
+
 translate french ep017_raene_ab368269:
 
-    # c "We should take things slow, but I also don’t want to stop what we started."
-    c ""
 
-# game/episode017.rpy:2163
+    c "Nous devrions y aller doucement, mais je ne veux pas non plus arrêter ce que nous avons commencé."
+
+
 translate french ep017_raene_0c645915:
 
-    # ra "Are you...{w} I mean...{w} Do you always want to be the one on top?"
-    ra ""
 
-# game/episode017.rpy:2166
+    ra "Est-ce que tu...{w} Je veux dire...{w} Est-ce que tu veux toujours être celui qui est au sommet ?"
+
+
 translate french ep017_raene_39f0cdf2:
 
-    # c "I don’t have that much particular experience, but yes, I think I’m more dominant in that regard."
-    c ""
 
-# game/episode017.rpy:2168
+    c "Je n'ai pas tellement d'expérience particulière, mais oui, je pense que je suis plus dominante à cet égard."
+
+
 translate french ep017_raene_c4f59b4d:
 
-    # ra "I thought as much and I think that suits me just fine."
-    ra ""
 
-# game/episode017.rpy:2169
+    ra "C'est ce que j'ai pensé et je pense que cela me convient parfaitement."
+
+
 translate french ep017_raene_c38863d7:
 
-    # ra "Just the thought of being the dominant one puts me off for some reason."
-    ra ""
 
-# game/episode017.rpy:2172
+    ra "L'idée d'être le dominant me rebute pour une raison ou une autre."
+
+
 translate french ep017_raene_499be38d:
 
-    # c "I don’t have that much particular experience, but I have an open mind."
-    c ""
 
-# game/episode017.rpy:2174
+    c "Je n'ai pas tellement d'expérience particulière, mais j'ai l'esprit ouvert."
+
+
 translate french ep017_raene_d397ea0b:
 
-    # ra "The thought of being the dominant one scares me a little, but who knows..."
-    ra ""
 
-# game/episode017.rpy:2175
+    ra "L'idée d'être le dominant m'effraie un peu, mais qui sait..."
+
+
 translate french ep017_raene_d2b6bfb0:
 
-    # c "Exactly, and as I said, there’s no rush."
-    c ""
 
-# game/episode017.rpy:2180
+    c "Exactement, et comme je l'ai dit, rien ne presse."
+
+
 translate french ep017_raene_sex_8db96b6f:
 
-    # c "So, would you like to try that toy?"
-    c ""
 
-# game/episode017.rpy:2182
+    c "Alors, aimerais-tu essayer ce jouet ?"
+
+
 translate french ep017_raene_sex_9fef6ff7:
 
-    # ra "I guess so."
-    ra ""
 
-# game/episode017.rpy:2184
+    ra "Je pense que oui."
+
+
 translate french ep017_raene_sex_71c56b49:
 
-    # "Despite the hesitation in her voice, Raene was already unclasping her bra, so she was more eager than she let on."
-    ""
 
-# game/episode017.rpy:2186
+    "Malgré l'hésitation dans sa voix, Raene était déjà en train de dégrafer son soutien-gorge, elle était donc plus impatiente qu'elle ne le laissait paraître."
+
+
 translate french ep017_raene_sex_df1b6623:
 
-    # ra "Will it hurt?"
-    ra ""
 
-# game/episode017.rpy:2187
+    ra "Est-ce que ça va faire mal ?"
+
+
 translate french ep017_raene_sex_77f848de:
 
-    # c "Not if we use enough lube."
-    c ""
 
-# game/episode017.rpy:2189
+    c "Pas si on utilise assez de lubrifiant."
+
+
 translate french ep017_raene_sex_c7faee4c:
 
-    # "Raene nodded and I helped her slip out of her panties."
-    ""
 
-# game/episode017.rpy:2191
+    "Raene a acquiescé et je l'ai aidée à retirer sa culotte."
+
+
 translate french ep017_raene_sex_3174de73:
 
-    # "Her erection was already growing by the time she was fully naked."
-    ""
 
-# game/episode017.rpy:2192
+    "Son érection grandissait déjà lorsqu'elle s'est retrouvée entièrement nue."
+
+
 translate french ep017_raene_sex_af59016f:
 
-    # "I paused to admire her lithe body, while Raene got into a comfortable position."
-    ""
 
-# game/episode017.rpy:2194
+    "J'ai fait une pause pour admirer son corps svelte, pendant que Raene se mettait dans une position confortable."
+
+
 translate french ep017_raene_sex_4d097f12:
 
-    # c "I’ll show you how to do it."
-    c ""
 
-# game/episode017.rpy:2195
+    c "Je vais te montrer comment faire."
+
+
 translate french ep017_raene_sex_7463b521:
 
-    # c "Just promise me you’ll play with it yourself."
-    c ""
 
-# game/episode017.rpy:2196
+    c "Promets-moi simplement que tu joueras avec toi-même."
+
+
 translate french ep017_raene_sex_92e31d10:
 
-    # c "Especially when you’re alone at night and thinking of my dick slowly sliding into your asshole."
-    c ""
 
-# game/episode017.rpy:2198
+    c "Surtout quand tu seras seule la nuit et que tu penseras à ma bite qui glissera lentement dans ton trou du cul."
+
+
 translate french ep017_raene_sex_31b5b67d:
 
-    # "Raene bit her lip in response, and her eyes followed me as I got a bottle of lube and prepared the toy."
-    ""
 
-# game/episode017.rpy:2200
+    "Raene s'est mordu la lèvre en réponse, et ses yeux m'ont suivi pendant que je prenais une bouteille de lubrifiant et que je préparais le jouet."
+
+
 translate french ep017_raene_sex_39e1492a:
 
-    # ra "I promise..."
-    ra ""
 
-# game/episode017.rpy:2201
+    ra "Je te promets..."
+
+
 translate french ep017_raene_sex_322efc75:
 
-    # ra "Oh!{w} It’s cold."
-    ra ""
 
-# game/episode017.rpy:2202
+    ra "Oh !{w} C'est froid."
+
+
 translate french ep017_raene_sex_5de460df:
 
-    # "I’d pushed the toy against her asshole."
-    ""
 
-# game/episode017.rpy:2203
+    "J'ai poussé le jouet contre son trou du cul."
+
+
 translate french ep017_raene_sex_9ca5ed77:
 
-    # c "Just remember, slowly and softly, there’s no rush."
-    c ""
 
-# game/episode017.rpy:2205
+    c "Rappelle-toi, lentement et doucement, il n'y a pas de précipitation."
+
+
 translate french ep017_raene_sex_57df472c:
 
-    # ra "No rush."
-    ra ""
 
-# game/episode017.rpy:2206
+    ra "Pas de précipitation."
+
+
 translate french ep017_raene_sex_85f372d8:
 
-    # ra "Oh!{w} Ah!{w} I can feel it pushing in. Is it in already?"
-    ra ""
 
-# game/episode017.rpy:2207
+    ra "Oh !{w} Ah !{w} Je le sens entrer. C'est déjà fait ?"
+
+
 translate french ep017_raene_sex_c800f0c1:
 
-    # c "Raene, just relax and enjoy the moment."
-    c ""
 
-# game/episode017.rpy:2208
+    c "Raene, détends-toi et profite du moment."
+
+
 translate french ep017_raene_sex_1bd948c1:
 
-    # ra "Right, right, I’m sorry."
-    ra ""
 
-# game/episode017.rpy:2210
+    ra "D'accord, d'accord, je suis désolée."
+
+
 translate french ep017_raene_sex_0ed1bb68:
 
-    # "I felt her relax a little and pushed the toy against the folds of her asshole."
-    ""
 
-# game/episode017.rpy:2211
+    "Je l'ai sentie se détendre un peu et j'ai poussé le jouet contre les plis de son trou du cul."
+
+
 translate french ep017_raene_sex_b9d0935d:
 
-    # c "Nice and easy."
-    c ""
 
-# game/episode017.rpy:2212
+    c "Tout doucement."
+
+
 translate french ep017_raene_sex_67fd2ead:
 
-    # "Raene shifted and moaned softly, the tip of the toy parting her anus."
-    ""
 
-# game/episode017.rpy:2213
+    "Raene s'est déplacée et a gémi doucement, la pointe du jouet séparant son anus."
+
+
 translate french ep017_raene_sex_41788c59:
 
-    # c "You’re doing great."
-    c ""
 
-# game/episode017.rpy:2215
+    c "Tu te débrouilles très bien."
+
+
 translate french ep017_raene_sex_571b2b26:
 
-    # ra "It feels a little weird."
-    ra ""
 
-# game/episode017.rpy:2216
+    ra "C'est un peu bizarre."
+
+
 translate french ep017_raene_sex_0517db40:
 
-    # ra "Weird, but good."
-    ra ""
 
-# game/episode017.rpy:2217
+    ra "Bizarre, mais bon."
+
+
 translate french ep017_raene_sex_1d4fc988:
 
-    # ra "I think."
-    ra ""
 
-# game/episode017.rpy:2219
+    ra "C'est ce que je pense."
+
+
 translate french ep017_raene_sex_9d37e12f:
 
-    # "The toy was now almost halfway in, the thickest part stretching Raene’s asshole beautifully."
-    ""
 
-# game/episode017.rpy:2220
+    "Le jouet était maintenant presque à mi-chemin, la partie la plus épaisse étirant magnifiquement le trou du cul de Raene."
+
+
 translate french ep017_raene_sex_a8963863:
 
-    # ra "It’s really big."
-    ra ""
 
-# game/episode017.rpy:2221
+    ra "C'est vraiment énorme."
+
+
 translate french ep017_raene_sex_116cdd09:
 
-    # c "Don’t worry, you’ll get used to it."
-    c ""
 
-# game/episode017.rpy:2222
+    c "Ne t'inquiète pas, tu t'y habitueras."
+
+
 translate french ep017_raene_sex_6bd758a1:
 
-    # c "The more you practice, the easier it becomes."
-    c ""
 
-# game/episode017.rpy:2223
+    c "Plus tu t'exerceras, plus ce sera facile."
+
+
 translate french ep017_raene_sex_3441fea3:
 
-    # c "You’ll be ready for my dick in no time."
-    c ""
 
-# game/episode017.rpy:2225
+    c "Tu seras prête pour ma bite en un rien de temps."
+
+
 translate french ep017_raene_sex_48143da3:
 
-    # "Raene’s cock stiffened even more in response, the thought about me clearly arousing her."
-    ""
 
-# game/episode017.rpy:2226
+    "La bite de Raene s'est raidie encore plus en réponse, l'idée de moi l'excitant clairement."
+
+
 translate french ep017_raene_sex_607d61e6:
 
-    # "Precum started leaking from the tip."
-    ""
 
-# game/episode017.rpy:2228
+    "Du précum a commencé à s'écouler de son extrémité."
+
+
 translate french ep017_raene_sex_e1dd5c41:
 
-    # ra "I want to be ready for you so much."
-    ra ""
 
-# game/episode017.rpy:2229
+    ra "Je veux tellement être prête pour toi."
+
+
 translate french ep017_raene_sex_43696ac0:
 
-    # c "You’ll get there, don’t worry."
-    c ""
 
-# game/episode017.rpy:2230
+    c "Tu y arriveras, ne t'inquiète pas."
+
+
 translate french ep017_raene_sex_1133f984:
 
-    # c "And that’s it, you’ve done it."
-    c ""
 
-# game/episode017.rpy:2232
+    c "Et voilà, tu l'as fait."
+
+
 translate french ep017_raene_sex_2c321ba0:
 
-    # ra "I have?"
-    ra ""
 
-# game/episode017.rpy:2233
+    ra "Je l'ai fait ?"
+
+
 translate french ep017_raene_sex_252f839b:
 
-    # ra "I didn’t feel the last push at all."
-    ra ""
 
-# game/episode017.rpy:2234
+    ra "Je n'ai pas du tout senti la dernière poussée."
+
+
 translate french ep017_raene_sex_b8da1f88:
 
-    # c "It’s all in."
-    c ""
 
-# game/episode017.rpy:2236
+    c "Tout est rentré."
+
+
 translate french ep017_raene_sex_44bb2bc7:
 
-    # ra "It feels good...{w} A little full."
-    ra ""
 
-# game/episode017.rpy:2237
+    ra "Ça fait du bien...{w} Un peu plein."
+
+
 translate french ep017_raene_sex_6e4b832a:
 
-    # ra "It’s a weird feeling, like it’s about to come out again."
-    ra ""
 
-# game/episode017.rpy:2238
+    ra "C'est une sensation bizarre, comme si c'était sur le point de ressortir."
+
+
 translate french ep017_raene_sex_25c95779:
 
-    # c "Only if you push."
-    c ""
 
-# game/episode017.rpy:2239
+    c "Seulement si tu pousses."
+
+
 translate french ep017_raene_sex_8f93cfee:
 
-    # c "But you should keep it in for a while."
-    c ""
 
-# game/episode017.rpy:2241
+    c "Mais tu devrais le garder à l'intérieur pendant un moment."
+
+
 translate french ep017_raene_sex_d0482109:
 
-    # ra "I will."
-    ra ""
 
-# game/episode017.rpy:2242
+    ra "Je le ferai."
+
+
 translate french ep017_raene_sex_e2c0be47:
 
-    # ra "Does it help with the training?"
-    ra ""
 
-# game/episode017.rpy:2243
+    ra "Est-ce que ça t'aide à t'entraîner ?"
+
+
 translate french ep017_raene_sex_7fe0ab5f:
 
-    # c "I don’t know, but it will certainly help with what I’m about to do."
-    c ""
 
-# game/episode017.rpy:2248
+    c "Je ne sais pas, mais ça m'aidera certainement pour ce que je vais faire."
+
+
 translate french ep017_raene_sex_e81a95af:
 
-    # ra "What are you...{w} Oh!"
-    ra ""
 
-# game/episode017.rpy:2249
+    ra "Qu'est-ce que tu...{w} Oh !"
+
+
 translate french ep017_raene_sex_30d9dc13:
 
-    # ra "Oh yes!"
-    ra ""
 
-# game/episode017.rpy:2250
+    ra "Oh oui !"
+
+
 translate french ep017_raene_sex_e070bad9:
 
-    # "As Raene kept the toy inside her ass, I’d lowered my head between her legs and wrapped my lips around her cock."
-    ""
 
-# game/episode017.rpy:2251
+    "Pendant que Raene gardait le jouet dans son cul, j'ai baissé la tête entre ses jambes et j'ai enroulé mes lèvres autour de sa queue."
+
+
 translate french ep017_raene_sex_a985beca:
 
-    # "Her member felt warm and full of life in my mouth."
-    ""
 
-# game/episode017.rpy:2253
+    "Son membre se sentait chaud et plein de vie dans ma bouche."
+
+
 translate french ep017_raene_sex_b53ac365:
 
-    # "Raene moaned loudly as I began to suck her off."
-    ""
 
-# game/episode017.rpy:2254
+    "Raene a gémi bruyamment lorsque j'ai commencé à la sucer."
+
+
 translate french ep017_raene_sex_a21d327d:
 
-    # ra "Oh [p_name_short], your mouth feels so good on my dick!"
-    ra ""
 
-# game/episode017.rpy:2255
+    ra "Oh [p_name_short], ta bouche est si bonne sur ma bite !"
+
+
 translate french ep017_raene_sex_8cd6eba0:
 
-    # ra "It’s going so deep inside your mouth."
-    ra ""
 
-# game/episode017.rpy:2258
+    ra "Elle s'enfonce si profondément dans ta bouche."
+
+
 translate french ep017_raene_sex_b23b6e12:
 
-    # "I savored the saline taste of Raene’s precum while my tongue whirled of the head of her cock."
-    ""
 
-# game/episode017.rpy:2259
+    "J'ai savouré le goût salé du précum de Raene pendant que ma langue tournoyait sur la tête de sa bite."
+
+
 translate french ep017_raene_sex_d6ca31d7:
 
-    # "Her balls hit my chin every time my head came down on her throbbing erection."
-    ""
 
-# game/episode017.rpy:2260
+    "Ses couilles frappaient mon menton chaque fois que ma tête descendait sur son érection palpitante."
+
+
 translate french ep017_raene_sex_a95e8c42:
 
-    # "Raene writhed desperately and had trouble keeping the toy inside her ass, her fingers clawing at the stem."
-    ""
 
-# game/episode017.rpy:2262
+    "Raene se tordait désespérément et avait du mal à garder le jouet dans son cul, ses doigts griffant la tige."
+
+
 translate french ep017_raene_sex_04814674:
 
-    # ra "[p_name_short]!{w} [p_name_short]!{w} I can’t take it much longer!"
-    ra ""
 
-# game/episode017.rpy:2264
+    ra "[p_name_short] !{w} [p_name_short] !{w} Je n'en peux plus !"
+
+
 translate french ep017_raene_sex_65369fda:
 
-    # ra "I’m going to...!"
-    ra ""
 
-# game/episode017.rpy:2269
+    ra "Je vais... !"
+
+
 translate french ep017_raene_sex_445fafe8:
 
-    # "I wanted to taste Raene’s cum and kept sucking her dick."
-    ""
 
-# game/episode017.rpy:2270
+    "Je voulais goûter au sperme de Raene et j'ai continué à sucer sa queue."
+
+
 translate french ep017_raene_sex_b613fc24:
 
-    # "When an abundance of salty juice spurted from Raene’s cock, I knew she was about to cum."
-    ""
 
-# game/episode017.rpy:2272
+    "Lorsqu'une abondance de jus salé a jailli de la bite de Raene, j'ai su qu'elle était sur le point de jouir."
+
+
 translate french ep017_raene_sex_b5adc45f:
 
-    # "Sure enough, she started to shoot thick ropes of warm semen deep inside my mouth."
-    ""
 
-# game/episode017.rpy:2275
+    "Bien sûr, elle a commencé à tirer d'épaisses cordes de sperme chaud au fond de ma bouche."
+
+
 translate french ep017_raene_sex_9192e98f:
 
-    # "As Raene thrashed on the bed, the toy still pulsing inside her asshole, I swallowed everything she gave me."
-    ""
 
-# game/episode017.rpy:2278
+    "Alors que Raene se débattait sur le lit, le jouet pulsant toujours dans son trou du cul, j'ai avalé tout ce qu'elle m'a donné."
+
+
 translate french ep017_raene_sex_b613fc24_1:
 
-    # "When an abundance of salty juice spurted from Raene’s cock, I knew she was about to cum."
-    ""
 
-# game/episode017.rpy:2280
+    "Lorsqu'une abondance de jus salé a jailli de la bite de Raene, j'ai su qu'elle était sur le point de jouir."
+
+
 translate french ep017_raene_sex_4dde9dd3:
 
-    # "Sure enough, when I let her dick escape from my mouth, she started to shoot thick ropes of warm semen all over her belly."
-    ""
 
-# game/episode017.rpy:2283
+    "Bien sûr, lorsque j'ai laissé sa bite s'échapper de ma bouche, elle a commencé à projeter d'épais cordons de sperme chaud sur tout son ventre."
+
+
 translate french ep017_raene_sex_77a06ec1:
 
-    # "Raene thrashed on the bed, the toy still pulsing inside her asshole, as she rode the throes of her orgasm."
-    ""
 
-# game/episode017.rpy:2286
+    "Raene s'est agitée sur le lit, le jouet pulsant toujours dans son trou du cul, tandis qu'elle subissait les affres de son orgasme."
+
+
 translate french ep017_raene_sex_e81a95af_1:
 
-    # ra "What are you...{w} Oh!"
-    ra ""
 
-# game/episode017.rpy:2287
+    ra "Qu'est-ce que tu...{w} Oh !"
+
+
 translate french ep017_raene_sex_30d9dc13_1:
 
-    # ra "Oh yes!"
-    ra ""
 
-# game/episode017.rpy:2288
+    ra "Oh oui !"
+
+
 translate french ep017_raene_sex_c4d7fdaa:
 
-    # "As Raene kept the toy inside her ass, I’d lowered my hand between her legs and wrapped my fingers around her cock."
-    ""
 
-# game/episode017.rpy:2289
+    "Pendant que Raene gardait le jouet dans son cul, j'avais abaissé ma main entre ses jambes et enroulé mes doigts autour de sa bite."
+
+
 translate french ep017_raene_sex_0ef7b84b:
 
-    # "Her member felt warm and full of life in my hand."
-    ""
 
-# game/episode017.rpy:2291
+    "Son membre se sentait chaud et plein de vie dans ma main."
+
+
 translate french ep017_raene_sex_181724cf:
 
-    # "Raene moaned loudly as I began to jerk her off."
-    ""
 
-# game/episode017.rpy:2292
+    "Raene a gémi bruyamment lorsque j'ai commencé à la branler."
+
+
 translate french ep017_raene_sex_11acee9d:
 
-    # ra "Oh [p_name_short], my dick feels so good in your hand!"
-    ra ""
 
-# game/episode017.rpy:2295
+    ra "Oh [p_name_short], ma bite est si bonne dans ta main !"
+
+
 translate french ep017_raene_sex_7868bc7f:
 
-    # "Precum covered both her cock and my fingers as I strengthened my grip on her member."
-    ""
 
-# game/episode017.rpy:2296
+    "Le précum recouvrait à la fois sa bite et mes doigts tandis que je renforçais ma prise sur son membre."
+
+
 translate french ep017_raene_sex_501a38b7:
 
-    # "I opted for strong short strokes, my hand pumping her dick mercilessly."
-    ""
 
-# game/episode017.rpy:2298
+    "J'ai opté pour des coups forts et courts, ma main pompant sa bite sans pitié."
+
+
 translate french ep017_raene_sex_8dce17cb:
 
-    # "Raene writhed desperately and had trouble keeping the toy inside her ass, her fingers clawing at the stem. "
-    ""
 
-# game/episode017.rpy:2300
+    "Raene se tordait désespérément et avait du mal à garder le jouet dans son cul, ses doigts griffant la tige. "
+
+
 translate french ep017_raene_sex_04814674_1:
 
-    # ra "[p_name_short]!{w} [p_name_short]!{w} I can’t take it much longer!"
-    ra ""
 
-# game/episode017.rpy:2301
+    ra "[p_name_short] !{w} [p_name_short] !{w} Je n'en peux plus !"
+
+
 translate french ep017_raene_sex_65369fda_1:
 
-    # ra "I’m going to...!"
-    ra ""
 
-# game/episode017.rpy:2302
+    ra "Je vais... !"
+
+
 translate french ep017_raene_sex_41a52470:
 
-    # c "Let it all out, Raene."
-    c ""
 
-# game/episode017.rpy:2303
+    c "Laisse-toi aller, Raene."
+
+
 translate french ep017_raene_sex_b613fc24_2:
 
-    # "When an abundance of salty juice spurted from Raene’s cock, I knew she was about to cum."
-    ""
 
-# game/episode017.rpy:2304
+    "Lorsqu'une abondance de jus salé a jailli de la bite de Raene, j'ai su qu'elle était sur le point de jouir."
+
+
 translate french ep017_raene_sex_b07de9e3:
 
-    # "Raene knew what was happening too."
-    ""
 
-# game/episode017.rpy:2305
+    "Raene savait aussi ce qui se passait."
+
+
 translate french ep017_raene_sex_a2909611:
 
-    # ra "I’m cumming, [p_name_short], I’m cumming!"
-    ra ""
 
-# game/episode017.rpy:2307
+    ra "Je jouis, [p_name_short], je jouis !"
+
+
 translate french ep017_raene_sex_f97e834d:
 
-    # "While I still jerked her furiously, she started to shoot thick ropes of warm semen all over her belly."
-    ""
 
-# game/episode017.rpy:2308
+    "Alors que je la branlais encore furieusement, elle a commencé à projeter d'épaisses cordes de sperme chaud sur tout son ventre."
+
+
 translate french ep017_raene_sex_b3ac541d:
 
-    # c "That’s it, cum for me, Raene."
-    c ""
 
-# game/episode017.rpy:2311
+    c "C'est ça, jouis pour moi, Raene."
+
+
 translate french ep017_raene_sex_77a06ec1_1:
 
-    # "Raene thrashed on the bed, the toy still pulsing inside her asshole, as she rode the throes of her orgasm."
-    ""
 
-# game/episode017.rpy:2313
+    "Raene s'est agitée sur le lit, le jouet pulsant toujours dans son trou du cul, tandis qu'elle subissait les affres de son orgasme."
+
+
 translate french ep017_raene_sex_2121b8db:
 
-    # "Raene took a while to recover, her body twitching intermittently when an orgasmic tremor pulsed through her body."
-    ""
 
-# game/episode017.rpy:2315
+    "Raene a mis un certain temps à se remettre, son corps tressaillant par intermittence lorsqu'un tremblement orgasmique pulsait à travers son corps."
+
+
 translate french ep017_raene_sex_0dd731d8:
 
-    # ra "That was amazing, [p_name]."
-    ra ""
 
-# game/episode017.rpy:2316
+    ra "C'était incroyable, [p_name]."
+
+
 translate french ep017_raene_sex_85b0d8f1:
 
-    # ra "You’re amazing."
-    ra ""
 
-# game/episode017.rpy:2317
+    ra "Tu es incroyable."
+
+
 translate french ep017_raene_sex_c4c08683:
 
-    # ra "But now it’s your turn to cum."
-    ra ""
 
-# game/episode017.rpy:2319
+    ra "Mais maintenant, c'est à ton tour de jouir."
+
+
 translate french ep017_raene_sex_a05ec49e:
 
-    # "Still wearing the toy inside her ass, Raene got on all fours as I undressed."
-    ""
 
-# game/episode017.rpy:2321
+    "Portant toujours le jouet à l'intérieur de son cul, Raene s'est mise à quatre pattes pendant que je me déshabillais."
+
+
 translate french ep017_raene_sex_7a4fe5bc:
 
-    # ra "I didn’t know you were so hard for me."
-    ra ""
 
-# game/episode017.rpy:2322
+    ra "Je ne savais pas que tu étais si dure pour moi."
+
+
 translate french ep017_raene_sex_1ca2f9db:
 
-    # c "Seeing you enjoy yourself does it for me."
-    c ""
 
-# game/episode017.rpy:2324
+    c "C'est en te voyant t'amuser que j'y parviens."
+
+
 translate french ep017_raene_sex_0484169e:
 
-    # "Raene smiled and began to lick my shaft."
-    ""
 
-# game/episode017.rpy:2326
+    "Raene a souri et a commencé à lécher ma queue."
+
+
 translate french ep017_raene_sex_a13f3e33:
 
-    # "Her own cock had grown again as well, precum already dripping from the tip."
-    ""
 
-# game/episode017.rpy:2328
+    "Sa propre bite avait encore grandi et du précum coulait déjà de son extrémité."
+
+
 translate french ep017_raene_sex_83acf769:
 
-    # ra "Mmmm, you’re so big."
-    ra ""
 
-# game/episode017.rpy:2329
+    ra "Mmmm, tu es si gros."
+
+
 translate french ep017_raene_sex_73fe44b1:
 
-    # ra "Now I wonder again how it will fit."
-    ra ""
 
-# game/episode017.rpy:2331
+    ra "Maintenant, je me demande à nouveau comment elle va rentrer."
+
+
 translate french ep017_raene_sex_6292fb30:
 
-    # c "Don’t worry about-"
-    c ""
 
-# game/episode017.rpy:2332
+    c "Ne t'inquiète pas pour..."
+
+
 translate french ep017_raene_sex_9a38fee7:
 
-    # c "Oh fuck, that’s good!"
-    c ""
 
-# game/episode017.rpy:2334
+    c "Oh putain, c'est bon !"
+
+
 translate french ep017_raene_sex_c59a3249:
 
-    # "Raene’s tongue lingered near the bottom of my tip and licked the sensitive areas there."
-    ""
 
-# game/episode017.rpy:2336
+    "La langue de Raene s'est attardée près du bas de ma pointe et a léché les zones sensibles qui s'y trouvaient."
+
+
 translate french ep017_raene_sex_e3e0a26e:
 
-    # "Emboldened, she continued licking, teasing the precum out."
-    ""
 
-# game/episode017.rpy:2338
+    "Enhardie, elle a continué à lécher, faisant sortir le précum."
+
+
 translate french ep017_raene_sex_4b76ee01:
 
-    # ra "Mmmm, I really like how you taste."
-    ra ""
 
-# game/episode017.rpy:2340
+    ra "Mmmm, j'aime vraiment ton goût."
+
+
 translate french ep017_raene_sex_dc7adf72:
 
-    # "She slid her tongue along my shaft a few more times, covering everything in a wet sheen."
-    ""
 
-# game/episode017.rpy:2342
+    "Elle a fait glisser sa langue le long de ma queue plusieurs fois encore, recouvrant le tout d'une couche humide."
+
+
 translate french ep017_raene_sex_b4c75135:
 
-    # "Then she grabbed my cock just above the balls and took me in her mouth."
-    ""
 
-# game/episode017.rpy:2343
+    "Puis elle a attrapé ma queue juste au-dessus des couilles et m'a pris dans sa bouche."
+
+
 translate french ep017_raene_sex_bddd458f:
 
-    # "Raene’s tongue continued working on the tip of my dick, while she took half of my shaft inside her mouth."
-    ""
 
-# game/episode017.rpy:2344
+    "La langue de Raene a continué à travailler sur le bout de ma bite, pendant qu'elle prenait la moitié de ma tige dans sa bouche."
+
+
 translate french ep017_raene_sex_6ec605f7:
 
-    # c "That’s it, Raene."
-    c ""
 
-# game/episode017.rpy:2347
+    c "Ça y est, Raene."
+
+
 translate french ep017_raene_sex_f5ae3612:
 
-    # "The shy girl from before wasn’t completely gone, but Raene sucked my cock with growing confidence, something that didn’t lose its effect on my body."
-    ""
 
-# game/episode017.rpy:2348
+    "La fille timide d'avant n'avait pas complètement disparu, mais Raene a sucé ma bite avec une confiance grandissante, quelque chose qui n'a pas perdu son effet sur mon corps."
+
+
 translate french ep017_raene_sex_c3f43935:
 
-    # c "Just keep going like that, I’m going to cum so hard."
-    c ""
 
-# game/episode017.rpy:2350
+    c "Continue comme ça, je vais jouir très fort."
+
+
 translate french ep017_raene_sex_ffd9d628:
 
-    # "Her hand worked on the base of my shaft, while her mouth serviced the rest."
-    ""
 
-# game/episode017.rpy:2352
+    "Sa main travaillait sur la base de ma tige, tandis que sa bouche servait le reste."
+
+
 translate french ep017_raene_sex_efca473c:
 
-    # "I would probably only last for a few minutes like this and I longed to just feel her mouth for a while."
-    ""
 
-# game/episode017.rpy:2353
+    "Je ne tiendrais probablement que quelques minutes comme ça et j'avais envie de sentir sa bouche pendant un moment."
+
+
 translate french ep017_raene_sex_0420476f:
 
-    # c "Could you try with just your mouth?"
-    c ""
 
-# game/episode017.rpy:2355
+    c "Pourrais-tu essayer avec ta seule bouche ?"
+
+
 translate french ep017_raene_sex_2db7e776:
 
-    # ra "Does it hurt when I use my hand?"
-    ra ""
 
-# game/episode017.rpy:2356
+    ra "Est-ce que ça fait mal quand j'utilise ma main ?"
+
+
 translate french ep017_raene_sex_425f841f:
 
-    # c "No, not at all, but I like the feeling of your mouth so much."
-    c ""
 
-# game/episode017.rpy:2358
+    c "Non, pas du tout, mais j'aime tellement la sensation de ta bouche."
+
+
 translate french ep017_raene_sex_9ebaedd5:
 
-    # "Raene shifted her position, allowing me a better look at her tight ass."
-    ""
 
-# game/episode017.rpy:2359
+    "Raene a changé de position, ce qui m'a permis de mieux voir son cul serré."
+
+
 translate french ep017_raene_sex_d28d080a:
 
-    # "Without the feeling of control her hand gave her, Raene gingerly lowered her head, taking my dick inch by inch."
-    ""
 
-# game/episode017.rpy:2360
+    "Sans la sensation de contrôle que lui donnait sa main, Raene a baissé la tête avec précaution, prenant ma bite centimètre par centimètre."
+
+
 translate french ep017_raene_sex_bd75312f:
 
-    # c "That’s it, oh fuck yes!"
-    c ""
 
-# game/episode017.rpy:2362
+    c "C'est ça, oh putain oui !"
+
+
 translate french ep017_raene_sex_f802df09:
 
-    # "She began to work on my throbbing erection, trying to take more inside her mouth with each bob of her head."
-    ""
 
-# game/episode017.rpy:2364
+    "Elle a commencé à travailler sur mon érection palpitante, essayant d'en prendre plus à l'intérieur de sa bouche à chaque mouvement de sa tête."
+
+
 translate french ep017_raene_sex_1bad5899:
 
-    # "When I was halfway inside her mouth, Raene had to suppress her gag reflex, but soldiered on."
-    ""
 
-# game/episode017.rpy:2365
+    "Lorsque j'étais à moitié dans sa bouche, Raene a dû réprimer son réflexe nauséeux, mais elle a tenu bon."
+
+
 translate french ep017_raene_sex_ed2df34c:
 
-    # c "Your mouth feels so great, keep going like that!"
-    c ""
 
-# game/episode017.rpy:2366
+    c "Ta bouche est si agréable, continue comme ça !"
+
+
 translate french ep017_raene_sex_a4fb0253:
 
-    # "Raene continued blowing me, the pleasure of it becoming nearly overwhelming."
-    ""
 
-# game/episode017.rpy:2368
+    "Raene a continué à me sucer, le plaisir devenant presque insurmontable."
+
+
 translate french ep017_raene_sex_6869de3f:
 
-    # "She retched when my tip hit the back of her throat, but that didn’t deter her from sucking diligently."
-    ""
 
-# game/episode017.rpy:2369
+    "Elle a craché quand mon bout a touché le fond de sa gorge, mais cela ne l'a pas empêchée de me sucer avec application."
+
+
 translate french ep017_raene_sex_10aa1661:
 
-    # c "Oh Raene, Raene, I’m about to cum!"
-    c ""
 
-# game/episode017.rpy:2373
+    c "Oh Raene, Raene, je suis sur le point de jouir !"
+
+
 translate french ep017_raene_sex_617a6741:
 
-    # c "I want you to swallow everything like the good girl you are."
-    c ""
 
-# game/episode017.rpy:2374
+    c "Je veux que tu avales tout comme la bonne fille que tu es."
+
+
 translate french ep017_raene_sex_19c2acec:
 
-    # "Raene made affirmative noises and resumed slobbering on my dick."
-    ""
 
-# game/episode017.rpy:2376
+    "Raene a fait des bruits affirmatifs et a recommencé à baver sur ma bite."
+
+
 translate french ep017_raene_sex_4d0fec21:
 
-    # "When her tongue brushed over the exposed tip of my dick, I couldn’t contain myself any longer and exploded."
-    ""
 
-# game/episode017.rpy:2377
+    "Quand sa langue a effleuré le bout exposé de ma bite, je n'ai pas pu me contenir plus longtemps et j'ai explosé."
+
+
 translate french ep017_raene_sex_c2a84e65:
 
-    # "Thick ropes of warm cum filled Raene’s mouth, surprising her despite my warning."
-    ""
 
-# game/episode017.rpy:2378
+    "D'épaisses cordes de sperme chaud ont rempli la bouche de Raene, la surprenant malgré mon avertissement."
+
+
 translate french ep017_raene_sex_a3d5e407:
 
-    # c "Oh Raene!"
-    c ""
 
-# game/episode017.rpy:2381
+    c "Oh Raene !"
+
+
 translate french ep017_raene_sex_53c90f6e:
 
-    # "She kept my pulsating cock in her mouth until all of my seed had spilled into her."
-    ""
 
-# game/episode017.rpy:2382
+    "Elle a gardé ma bite palpitante dans sa bouche jusqu'à ce que toute ma semence se soit répandue en elle."
+
+
 translate french ep017_raene_sex_39961a96:
 
-    # "With a smile on her face, she swallowed everything."
-    ""
 
-# game/episode017.rpy:2383
+    "Le sourire aux lèvres, elle a tout avalé."
+
+
 translate french ep017_raene_sex_f664cfc9:
 
-    # "Greedily, she also lapped up the cum on her lips and cleaned up what remained on my shaft."
-    ""
 
-# game/episode017.rpy:2386
+    "Avec gourmandise, elle a aussi lapé le sperme sur ses lèvres et nettoyé ce qui restait sur ma tige."
+
+
 translate french ep017_raene_sex_2cee3b34:
 
-    # c "I want to make a mess of your beautiful face."
-    c ""
 
-# game/episode017.rpy:2388
+    c "Je veux mettre le bazar sur ton beau visage."
+
+
 translate french ep017_raene_sex_ba21aba9:
 
-    # "When my dick escaped from her mouth, I couldn’t contain myself any longer and exploded."
-    ""
 
-# game/episode017.rpy:2391
+    "Lorsque ma bite s'est échappée de sa bouche, je n'ai pas pu me contenir plus longtemps et j'ai explosé."
+
+
 translate french ep017_raene_sex_6095bb8b:
 
-    # "Thick ropes of warm cum spurted all over her face."
-    ""
 
-# game/episode017.rpy:2392
+    "D'épaisses cordes de sperme chaud ont giclé sur son visage."
+
+
 translate french ep017_raene_sex_cae52dbc:
 
-    # "She smiled as she licked the cum from her lips and greedily cleaned the remaining cum that dribbled down the shaft of my dick."
-    ""
 
-# game/episode017.rpy:2394
+    "Elle a souri en léchant le sperme de ses lèvres et a nettoyé avec avidité le reste du sperme qui dégoulinait le long de la tige de ma bite."
+
+
 translate french ep017_raene_sex_56408b97:
 
-    # "Both completely fulfilled, Raene crawled on top of me and rested her head against my chest."
-    ""
 
-# game/episode017.rpy:2396
+    "Complètement comblée, Raene s'est glissée sur moi et a posé sa tête contre mon torse."
+
+
 translate french ep017_raene_sex_a133edaf:
 
-    # "She was still wearing the toy in her ass as we both fell asleep."
-    ""
+
+    "Elle portait toujours le jouet dans son cul lorsque nous nous sommes endormis tous les deux."
 
 translate french strings:
 
-    # game/episode017.rpy:3
+
     old "Episode 17"
-    new ""
+    new "Épisode 17"
 
-    # game/episode017.rpy:63
+
     old "Corporal"
-    new ""
+    new "Caporal"
 
-    # game/episode017.rpy:132
+
     old "A planet in the Hawwa Cluster and home to the Taagmar. Currently under siege by the Sovereignty, who are looking for a gateway on the planet's surface."
-    new ""
+    new "Une planète de l'amas de Hawwa où vivent les Taagmar. Actuellement assiégée par la Souveraineté, qui cherche un portail à la surface de la planète."
 
-    # game/episode017.rpy:244
+
     old "Alien"
-    new ""
+    new "Alien"
 
-    # game/episode017.rpy:261
+
     old "Demand an apology"
-    new ""
+    new "Demande des excuses"
 
-    # game/episode017.rpy:261
+
     old "Hit him"
-    new ""
+    new "Frappe-le"
 
-    # game/episode017.rpy:261
+
     old "Ignore him"
-    new ""
+    new "Ignore-le"
 
-    # game/episode017.rpy:276
+
     old "Stay calm"
-    new ""
+    new "Reste calme"
 
-    # game/episode017.rpy:317
+
     old "Don't hit him"
-    new ""
+    new "Ne le frappe pas"
 
-    # game/episode017.rpy:506
+
     old "Scolguin"
-    new ""
+    new "Scolguin"
 
-    # game/episode017.rpy:751
+
     old "Priestess"
-    new ""
+    new "Prêtresse"
 
-    # game/episode017.rpy:760
+
     old "Be direct"
-    new ""
+    new "Sois direct"
 
-    # game/episode017.rpy:859
+
     old "Grand Arch of Taag"
-    new ""
+    new "Grand arc de Taag"
 
-    # game/episode017.rpy:859
+
     old "A religious site in the capital on the home planet of the Taagmar in the Hawwa Cluster. Of interest to several parties pursuing the prophecy, including the Confessor and the Sovereignty, the latter having laid siege to the planet."
-    new ""
+    new "Site religieux situé dans la capitale de la planète d'origine des Taagmar, dans l'amas de Hawwa. Intéresse plusieurs parties poursuivant la prophétie, notamment l'Inquisiteur et la Souveraineté, cette dernière ayant assiégé la planète."
 
-    # game/episode017.rpy:963
+
     old "Merc"
-    new ""
+    new "Merc"
 
-    # game/episode017.rpy:1011
+
     old "Shoot him"
-    new ""
+    new "Tire-lui dessus"
 
-    # game/episode017.rpy:1011
+
     old "Non-lethal"
-    new ""
+    new "Non mortel"
 
-    # game/episode017.rpy:1386
+
     old "Yes, but no kids"
-    new ""
+    new "Oui, mais pas d'enfants"
 
-    # game/episode017.rpy:1505
+
     old "Support pregnancy"
-    new ""
+    new "Soutient la grossesse"
 
-    # game/episode017.rpy:1505
+
     old "Don’t support pregnancy"
-    new ""
+    new "Ne soutient pas la grossesse"
 
-    # game/episode017.rpy:1808
+
+    old "Vaginal"
+    new "Vaginale"
+
+
+    old "Anal"
+    new "Anale"
+
+
     old "Anal Creampie"
-    new ""
+    new "Remplis le cul"
 
-    # game/episode017.rpy:2164
+
     old "Always on top"
-    new ""
+    new "Toujours au sommet"
 
-    # game/episode017.rpy:2164
+
     old "Can be a bottom"
-    new ""
+    new "Peut être en bas"
 
-    # game/episode017.rpy:2244
+
     old "Jerk her off"
-    new ""
+    new "Branle-la"
 
-# TODO: Translation updated at 2025-02-27 12:49
 
-# game/episode017.rpy:1588
 translate french ep017_celine_3acd41e7:
 
-    # "Do you want to be able to have anal sex with Céline?"
-    ""
 
-# game/episode017.rpy:1592
+    "Veux-tu pouvoir avoir des relations sexuelles anales avec Céline ?"
+
+
 translate french ep017_celine_ef35d6d6:
 
-    # "Anal enabled"
-    ""
 
-# game/episode017.rpy:1595
+    "Anale activé"
+
+
 translate french ep017_celine_aa7e8d37:
 
-    # "Anal disabled"
-    ""
 
+    "Anale désactivé"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

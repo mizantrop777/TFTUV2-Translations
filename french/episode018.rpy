@@ -1,7938 +1,7936 @@
-﻿# TODO: Translation updated at 2024-12-11 22:09
 
-# game/episode018.rpy:28
 translate french episode018_310347f3:
 
-    # centered "{=chapter_heading}EPISODE 18{/=chapter_heading}"
-    centered ""
 
-# game/episode018.rpy:46
+    centered "{=chapter_heading}ÉPISODE 18{/=chapter_heading}"
+
+
 translate french ep018_desert_f8966111:
 
-    # "At first we were both elated by the thought that we were about to be rescued."
-    ""
 
-# game/episode018.rpy:47
+    "Au début, nous étions tous les deux exaltés à l'idée que nous allions être secourus."
+
+
 translate french ep018_desert_8e67f8dd:
 
-    # "As the engine noises intensified, our enthusiasm quickly waned."
-    ""
 
-# game/episode018.rpy:48
+    "Au fur et à mesure que les bruits de moteur s'intensifiaient, notre enthousiasme est vite retombé."
+
+
 translate french ep018_desert_076fa781:
 
-    # "It wasn’t the Bastard that was approaching our location, but the sounds of three different vehicles could now clearly be heard."
-    ""
 
-# game/episode018.rpy:50
+    "Ce n'était pas le Bastard qui s'approchait de notre emplacement, mais les bruits de trois véhicules différents se faisaient maintenant clairement entendre."
+
+
 translate french ep018_desert_0848870c:
 
-    # c "Quick, behind those rocks!"
-    c ""
 
-# game/episode018.rpy:51
+    c "Vite, derrière ces rochers !"
+
+
 translate french ep018_desert_db81cc94:
 
-    # "We hastily gathered the sleeping bags and the backpack before fleeing behind the rocks."
-    ""
 
-# game/episode018.rpy:53
+    "Nous avons rassemblé à la hâte les sacs de couchage et le sac à dos avant de fuir derrière les rochers."
+
+
 translate french ep018_desert_46bb1cca:
 
-    # "As we took position, three hover bikes came into view from behind a sand dune."
-    ""
 
-# game/episode018.rpy:55
+    "Alors que nous prenions position, trois motos volantes sont apparues derrière une dune de sable."
+
+
 translate french ep018_desert_dfc2f82c:
 
-    # "My heart sank when the bikes were close enough to make out its riders."
-    ""
 
-# game/episode018.rpy:56
+    "Mon cœur a sombré lorsque les motos ont été suffisamment proches pour que je puisse distinguer leurs pilotes."
+
+
 translate french ep018_desert_fac01e77:
 
-    # "Three of Glixken’s mercenaries were quickly closing in on the location we were hoping to spend the night just earlier."
-    ""
 
-# game/episode018.rpy:58
+    "Trois mercenaires de Glixken se rapprochaient rapidement de l'endroit où nous espérions passer la nuit un peu plus tôt."
+
+
 translate french ep018_desert_fab1b267:
 
-    # "The mercenaries halted before the rocky outcropping."
-    ""
 
-# game/episode018.rpy:59
+    "Les mercenaires s'arrêtèrent devant l'affleurement rocheux."
+
+
 translate french ep018_desert_ed92ae4c:
 
-    # "They didn’t seem to have spotted us yet and were discussing something loud enough for us to hear."
-    ""
 
-# game/episode018.rpy:64
+    "Ils ne semblaient pas encore nous avoir repérés et discutaient de quelque chose d'assez fort pour que nous puissions l'entendre."
+
+
 translate french ep018_desert_a92d2b78:
 
-    # man "This is supposed to be the site where they crashed, isn’t it?"
-    man ""
 
-# game/episode018.rpy:65
+    man "C'est censé être l'endroit où ils se sont écrasés, n'est-ce pas ?"
+
+
 translate french ep018_desert_0c5ad725:
 
-    # man2 "Should be, yeah."
-    man2 ""
 
-# game/episode018.rpy:66
+    man2 "Ça devrait être ça, oui."
+
+
 translate french ep018_desert_5b0166fc:
 
-    # man2 "But the location was approximate."
-    man2 ""
 
-# game/episode018.rpy:67
+    man2 "Mais l'emplacement était approximatif."
+
+
 translate french ep018_desert_b55648b3:
 
-    # man "Approximate, my ass, there’s nothing here."
-    man ""
 
-# game/episode018.rpy:68
+    man "Approximatif, mon cul, il n'y a rien ici."
+
+
 translate french ep018_desert_968762cf:
 
-    # "The mercs started bickering, so I whispered something in Eva’s ear."
-    ""
 
-# game/episode018.rpy:73
+    "Les mercenaires ont commencé à se chamailler, alors j'ai murmuré quelque chose à l'oreille d'Eva."
+
+
 translate french ep018_desert_26f9102c:
 
-    # c "We should take them now, while they don’t have their weapons within reach."
-    c ""
 
-# game/episode018.rpy:74
+    c "Nous devrions les prendre maintenant, pendant qu'ils n'ont pas leurs armes à portée de main."
+
+
 translate french ep018_desert_3086f694:
 
-    # e "How?"
-    e ""
 
-# game/episode018.rpy:75
+    e "Comment ?"
+
+
 translate french ep018_desert_79f39e64:
 
-    # c "I think I can take one from here."
-    c ""
 
-# game/episode018.rpy:76
+    c "Je pense que je peux en prendre un d'ici."
+
+
 translate french ep018_desert_58806ec2:
 
-    # c "Taking advantage of the confusion, I’m going to storm down and shoot the remaining two."
-    c ""
 
-# game/episode018.rpy:77
+    c "Profitant de la confusion, je vais descendre en trombe et tirer sur les deux restants."
+
+
 translate french ep018_desert_236cfd34:
 
-    # c "There’s a pistol in the backpack, so you can give me cover fire."
-    c ""
 
-# game/episode018.rpy:79
+    c "Il y a un pistolet dans le sac à dos, tu pourras me couvrir."
+
+
 translate french ep018_desert_7e3c47fa:
 
-    # e "It’s been a while since I’ve held a gun, but I think I can manage that."
-    e ""
 
-# game/episode018.rpy:80
+    e "Cela fait un moment que je n'ai pas tenu d'arme, mais je pense pouvoir y arriver."
+
+
 translate french ep018_desert_25eb3cbd:
 
-    # c "Let’s get to it quickly, before they get their bearings or leave."
-    c ""
 
-# game/episode018.rpy:82
+    c "Allons-y rapidement, avant qu'ils ne prennent leurs repères ou qu'ils ne partent."
+
+
 translate french ep018_desert_3a61a809:
 
-    # "I unholstered my weapon and took aim at the nearest merc."
-    ""
 
-# game/episode018.rpy:83
+    "Je dégainai mon arme et visai le mercenaire le plus proche."
+
+
 translate french ep018_desert_bab1c008:
 
-    # "The mercs were still bickering over where to go next when I took my shot."
-    ""
 
-# game/episode018.rpy:85
+    "Les mercenaires étaient encore en train de se chamailler pour savoir où aller ensuite quand j'ai tiré."
+
+
 translate french ep018_desert_333e6d08:
 
-    # "Hitting a target from a distance like that was tricky, I knew that."
-    ""
 
-# game/episode018.rpy:87
+    "Toucher une cible à une telle distance était délicat, je le savais."
+
+
 translate french ep018_desert_2de50e61:
 
-    # "But I landed a lucky shot and as soon as I saw the guy’s chest explode, I started to sprint towards the two remaining mercs."
-    ""
 
-# game/episode018.rpy:89
+    "Mais j'ai eu de la chance et dès que j'ai vu la poitrine du gars exploser, j'ai commencé à sprinter vers les deux mercenaires restants."
+
+
 translate french ep018_desert_64038a71:
 
-    # "Eva laid down cover fire, adding to the confusion."
-    ""
 
-# game/episode018.rpy:90
+    "Eva a tiré à couvert, ce qui a ajouté à la confusion."
+
+
 translate french ep018_desert_731323ef:
 
-    # "The mercs were frantically trying to retrieve their weapons from the bikes."
-    ""
 
-# game/episode018.rpy:92
+    "Les mercenaires essayaient frénétiquement de récupérer leurs armes sur les motos."
+
+
 translate french ep018_desert_de5da721:
 
-    # "I was upon them before they were able to turn around and shoot."
-    ""
 
-# game/episode018.rpy:94
+    "J'étais sur eux avant qu'ils ne puissent se retourner et tirer."
+
+
 translate french ep018_desert_b5e08347:
 
-    # "One of the mercs raised his weapon, but I shot him multiple times before he could even pull the trigger."
-    ""
 
-# game/episode018.rpy:96
+    "L'un des mercenaires a levé son arme, mais j'ai tiré plusieurs fois avant qu'il ne puisse appuyer sur la gâchette."
+
+
 translate french ep018_desert_da2bdfaa:
 
-    # "The remaining merc suddenly went to his knees."
-    ""
 
-# game/episode018.rpy:97
+    "Le mercenaire restant s'est soudain mis à genoux."
+
+
 translate french ep018_desert_b48ff759:
 
-    # "Eva had apparently scored a lucky shot."
-    ""
 
-# game/episode018.rpy:99
+    "Eva avait apparemment réussi un tir chanceux."
+
+
 translate french ep018_desert_7dcd0b60:
 
-    # "While I checked the three mercs for a pulse, Eva came towards me from the rocks."
-    ""
 
-# game/episode018.rpy:101
+    "Pendant que je vérifiais le pouls des trois mercenaires, Eva s'est approchée de moi depuis les rochers."
+
+
 translate french ep018_desert_7bc49e0f:
 
-    # e "Did we get all of them?"
-    e ""
 
-# game/episode018.rpy:102
+    e "On les a tous eus ?"
+
+
 translate french ep018_desert_57779ffa:
 
-    # c "We did."
-    c ""
 
-# game/episode018.rpy:103
+    c "Oui, nous les avons eus."
+
+
 translate french ep018_desert_47841cde:
 
-    # c "It seems you did more than provide cover fire, you got at least one."
-    c ""
 
-# game/episode018.rpy:104
+    c "On dirait que tu as fait plus que fournir une couverture, tu en as eu au moins un."
+
+
 translate french ep018_desert_1a8ba5ca:
 
-    # e "Guess that getting high grades in marksman training back at the Academy was good for something after all."
-    e ""
 
-# game/episode018.rpy:105
+    e "Je suppose que le fait d'avoir eu de bonnes notes à l'entraînement des tireurs d'élite à l'académie a servi à quelque chose après tout."
+
+
 translate french ep018_desert_82ebbb87:
 
-    # c "It sure seems that way."
-    c ""
 
-# game/episode018.rpy:107
+    c "C'est ce qu'on dirait."
+
+
 translate french ep018_desert_b8416574:
 
-    # e "Now what do we do?"
-    e ""
 
-# game/episode018.rpy:108
+    e "Qu'est-ce qu'on fait maintenant ?"
+
+
 translate french ep018_desert_ec3e6790:
 
-    # c "Search the bodies, we might find something useful."
-    c ""
 
-# game/episode018.rpy:109
+    c "Fouille les corps, nous pourrions trouver quelque chose d'utile."
+
+
 translate french ep018_desert_82e3746c:
 
-    # c "And of course we're taking their bikes."
-    c ""
 
-# game/episode018.rpy:111
+    c "Et bien sûr, nous prenons leurs motos."
+
+
 translate french ep018_desert_efa3a5ba:
 
-    # "The mercs were carrying an assortment of survival gear on their bikes, as well as all sorts of weaponry."
-    ""
 
-# game/episode018.rpy:112
+    "Les mercenaires transportaient un assortiment de matériel de survie sur leurs motos, ainsi que toutes sortes d'armes."
+
+
 translate french ep018_desert_385e6126:
 
-    # e "These are flashbangs, aren't they?"
-    e ""
 
-# game/episode018.rpy:113
+    e "Ce sont des flashbangs, n'est-ce pas ?"
+
+
 translate french ep018_desert_ac4641e3:
 
-    # c "Yup, smoke grenades too."
-    c ""
 
-# game/episode018.rpy:115
+    c "Oui, des grenades fumigènes aussi."
+
+
 translate french ep018_desert_c661fadb:
 
-    # "Eva searched the bodies of the mercs, while I checked out the navigation computer of one of the bikes."
-    ""
 
-# game/episode018.rpy:116
+    "Eva a fouillé les corps des mercenaires, pendant que je vérifiais l'ordinateur de navigation de l'une des motos."
+
+
 translate french ep018_desert_8effe233:
 
-    # "Each of the computers had registered the same route to a point several miles away."
-    ""
 
-# game/episode018.rpy:117
+    "Chacun des ordinateurs avait enregistré le même itinéraire jusqu'à un point situé à plusieurs kilomètres de là."
+
+
 translate french ep018_desert_7fad21f4:
 
-    # c "I think I found the location of the other mercs and possibly Glixken's ship."
-    c ""
 
-# game/episode018.rpy:119
+    c "Je pense avoir trouvé l'emplacement des autres mercenaires et peut-être du vaisseau de Glixken."
+
+
 translate french ep018_desert_d2d05fd7:
 
-    # e "So, do we steer clear of that area and search for our own ship?"
-    e ""
 
-# game/episode018.rpy:120
+    e "Alors, est-ce qu'on évite cette zone et on part à la recherche de notre propre vaisseau ?"
+
+
 translate french ep018_desert_5f053c4d:
 
-    # c "I don't think these bikes are made for long-distance travel."
-    c ""
 
-# game/episode018.rpy:121
+    c "Je ne pense pas que ces motos soient faites pour les voyages de longue durée."
+
+
 translate french ep018_desert_e703784c:
 
-    # c "Besides, these mercs didn't pack equipment capable of finding objects."
-    c ""
 
-# game/episode018.rpy:122
+    c "De plus, ces mercenaires n'ont pas emporté d'équipement capable de trouver des objets."
+
+
 translate french ep018_desert_7769823a:
 
-    # c "I think we need to stage a surprise assault on their location."
-    c ""
 
-# game/episode018.rpy:123
+    c "Je pense qu'il faut organiser un assaut surprise sur leur emplacement."
+
+
 translate french ep018_desert_1025965a:
 
-    # e "Just the two of us?"
-    e ""
 
-# game/episode018.rpy:124
+    e "Juste nous deux ?"
+
+
 translate french ep018_desert_588cb7a0:
 
-    # c "The radios the mercs were carrying list nine other contacts."
-    c ""
 
-# game/episode018.rpy:125
+    c "Les radios que les mercenaires transportaient répertorient neuf autres contacts."
+
+
 translate french ep018_desert_76b32d60:
 
-    # c "So if each of the other still living mercs carries a radio too, we'd be two up against seven."
-    c ""
 
-# game/episode018.rpy:126
+    c "Donc si chacun des autres mercenaires encore en vie porte aussi une radio, nous serons deux contre sept."
+
+
 translate french ep018_desert_432b2ef1:
 
-    # c "We also have those bikes, grenades and the element of surprise."
-    c ""
 
-# game/episode018.rpy:128
+    c "Nous avons aussi les motos, les grenades et l'effet de surprise."
+
+
 translate french ep018_desert_b3c3373d:
 
-    # e "Risky..."
-    e ""
 
-# game/episode018.rpy:129
+    e "Risqué..."
+
+
 translate french ep018_desert_8c49ba5f:
 
-    # c "Very, but if we deal with Glixken and take his ship if it's still running, we might have a chance of finding our crew."
-    c ""
 
-# game/episode018.rpy:130
+    c "Très, mais si nous nous occupons de Glixken et que nous prenons son vaisseau s'il est encore en état de marche, nous aurons peut-être une chance de retrouver notre équipage."
+
+
 translate french ep018_desert_59468964:
 
-    # c "According to the map in the nav computer, Glixken is holed up in a shallow crater, so we might be able to approach under some cover."
-    c ""
 
-# game/episode018.rpy:131
+    c "D'après la carte de l'ordinateur de navigation, Glixken est retranché dans un cratère peu profond, nous pourrions donc nous approcher à couvert."
+
+
 translate french ep018_desert_dd082f8b:
 
-    # c "Once we're close enough, we toss those flashbangs, maybe those smoke grenades and start shooting."
-    c ""
 
-# game/episode018.rpy:132
+    c "Une fois que nous sommes assez près, nous lançons ces flashbangs, peut-être ces grenades fumigènes et nous commençons à tirer."
+
+
 translate french ep018_desert_f3e7a0a9:
 
-    # c "How are your shooting skills on a bike?"
-    c ""
 
-# game/episode018.rpy:134
+    c "Quelles sont tes compétences en matière de tir sur une moto ?"
+
+
 translate french ep018_desert_731680c4:
 
-    # e "Passable."
-    e ""
 
-# game/episode018.rpy:135
+    e "Passable."
+
+
 translate french ep018_desert_cc1dbe7e:
 
-    # c "That has to be good enough."
-    c ""
 
-# game/episode018.rpy:136
+    c "Cela doit être suffisant."
+
+
 translate french ep018_desert_3b9f7acb:
 
-    # c "Let's go."
-    c ""
 
-# game/episode018.rpy:138
+    c "Allons-y."
+
+
 translate french ep018_desert_e766e132:
 
-    # "We sped away on our newly acquired bikes, leaving one of them behind with the corpses of the mercenaries."
-    ""
 
-# game/episode018.rpy:140
+    "Nous avons filé sur nos motos nouvellement acquises, laissant l'une d'entre elles derrière nous avec les cadavres des mercenaires."
+
+
 translate french ep018_desert_14652611:
 
-    # "With every mile we came closer to the crater, the amount of adrenaline surged."
-    ""
 
-# game/episode018.rpy:142
+    "À chaque kilomètre qui nous rapprochait du cratère, la quantité d'adrénaline montait en flèche."
+
+
 translate french ep018_desert_0c38f74e:
 
-    # "When the crater came into view, we slowed down to better observe our environment."
-    ""
 
-# game/episode018.rpy:143
+    "Lorsque le cratère est apparu, nous avons ralenti pour mieux observer notre environnement."
+
+
 translate french ep018_desert_c5eff1d3:
 
-    # "Glixken's ship seemed to have weathered its planetary insertion better than our craft did as no smoke column was visible from the crater."
-    ""
 
-# game/episode018.rpy:144
+    "Le vaisseau de Glixken semblait avoir mieux supporté son insertion planétaire que le nôtre, car aucune colonne de fumée n'était visible depuis le cratère."
+
+
 translate french ep018_desert_8b3614d5:
 
-    # "No sentries were posted on the edge of the crater either, so Glixken must have felt himself safe from any threat."
-    ""
 
-# game/episode018.rpy:145
+    "Aucune sentinelle n'était non plus postée au bord du cratère, Glixken devait donc se sentir à l'abri de toute menace."
+
+
 translate french ep018_desert_ac6cce05:
 
-    # "We left our bikes outside hearing distance and walked towards the edge to survey the situation inside the crater."
-    ""
 
-# game/episode018.rpy:147
+    "Nous avons laissé nos motos à une distance raisonnable et nous avons marché vers le bord pour examiner la situation à l'intérieur du cratère."
+
+
 translate french ep018_desert_6b2ece1a:
 
-    # "My assumptions about the state of the mercenary ship were confirmed, as most of the spacecraft seemed to be intact."
-    ""
 
-# game/episode018.rpy:148
+    "Mes suppositions sur l'état du vaisseau des mercenaires ont été confirmées, car la plus grande partie de l'engin spatial semblait intacte."
+
+
 translate french ep018_desert_93abe6dd:
 
-    # "There were only four mercs visible, two doing repairs, while another two patrolled the area."
-    ""
 
-# game/episode018.rpy:150
+    "Il n'y avait que quatre mercenaires visibles, deux effectuant des réparations, tandis que deux autres patrouillaient dans la zone."
+
+
 translate french ep018_desert_116a8865:
 
-    # e "Only four of them?"
-    e ""
 
-# game/episode018.rpy:151
+    e "Ils ne sont que quatre ?"
+
+
 translate french ep018_desert_6b399da6:
 
-    # e "That makes our job easier, doesn't it?"
-    e ""
 
-# game/episode018.rpy:152
+    e "Cela nous facilite la tâche, n'est-ce pas ?"
+
+
 translate french ep018_desert_61daf6c7:
 
-    # c "Glixken and the other two could be inside."
-    c ""
 
-# game/episode018.rpy:153
+    c "Glixken et les deux autres pourraient être à l'intérieur."
+
+
 translate french ep018_desert_2b870526:
 
-    # c "All doors are closed, so getting inside and eliminating the remaining three of them could prove difficult."
-    c ""
 
-# game/episode018.rpy:155
+    c "Toutes les portes sont fermées, alors pénétrer à l'intérieur et éliminer les trois autres pourrait s'avérer difficile."
+
+
 translate french ep018_desert_95353413:
 
-    # e "Do you want to wait to see if they're there?"
-    e ""
 
-# game/episode018.rpy:156
+    e "Veux-tu attendre de voir s'ils sont là ?"
+
+
 translate french ep018_desert_77514f8a:
 
-    # c "Might be best."
-    c ""
 
-# game/episode018.rpy:158
+    c "C'est peut-être mieux."
+
+
 translate french ep018_desert_a45f466e:
 
-    # "We tried and failed to distinguish any life inside the ship for several minutes."
-    ""
 
-# game/episode018.rpy:159
+    "Nous avons essayé et échoué à distinguer toute vie à l'intérieur du vaisseau pendant plusieurs minutes."
+
+
 translate french ep018_desert_334a6931:
 
-    # c "I don't think they're here."
-    c ""
 
-# game/episode018.rpy:160
+    c "Je ne pense pas qu'ils soient ici."
+
+
 translate french ep018_desert_7e7797ed:
 
-    # c "Let's head back to the bikes and stage our assault."
-    c ""
 
-# game/episode018.rpy:161
+    c "Retournons aux motos et préparons notre assaut."
+
+
 translate french ep018_desert_abec3592:
 
-    # c "Dealing with Glixken will be much easier once we control his ship."
-    c ""
 
-# game/episode018.rpy:163
+    c "Il sera beaucoup plus facile de s'occuper de Glixken une fois que nous aurons pris le contrôle de son vaisseau."
+
+
 translate french ep018_desert_c7b99256:
 
-    # "We were about to turn around when Eva pointed into the distance across the crater."
-    ""
 
-# game/episode018.rpy:164
+    "Nous étions sur le point de faire demi-tour quand Eva a pointé du doigt au loin, de l'autre côté du cratère."
+
+
 translate french ep018_desert_4ca55afe:
 
-    # e "Someone's coming!"
-    e ""
 
-# game/episode018.rpy:168
+    e "Quelqu'un arrive !"
+
+
 translate french ep018_desert_706bbd13:
 
-    # "Dust clouds were billowing on the horizon."
-    ""
 
-# game/episode018.rpy:170
+    "Des nuages de poussière s'élevaient à l'horizon."
+
+
 translate french ep018_desert_f412e7f1:
 
-    # "Three bikes emerged from the dust and swooped down into the crater."
-    ""
 
-# game/episode018.rpy:171
+    "Trois motos ont émergé de la poussière et sont descendues en piqué dans le cratère."
+
+
 translate french ep018_desert_46a9734b:
 
-    # "Glixken and two of his men had returned."
-    ""
 
-# game/episode018.rpy:172
+    "Glixken et deux de ses hommes étaient de retour."
+
+
 translate french ep018_desert_5ad23b1e:
 
-    # "What was draped across the back of each bike turned our moods very sour."
-    ""
 
-# game/episode018.rpy:174
+    "Ce qui était drapé à l'arrière de chaque moto a rendu nos humeurs très aigres."
+
+
 translate french ep018_desert_e8e190ec:
 
-    # e "Fuck, they've captured Thyia, Aven and Lilly!"
-    e ""
 
-# game/episode018.rpy:175
+    e "Putain, ils ont capturé Thyia, Aven et Lilly !"
+
+
 translate french ep018_desert_1cb99783:
 
-    # c "They seem to be trussed up, so I think they're still alive."
-    c ""
 
-# game/episode018.rpy:176
+    c "Elles ont l'air d'être ligotées, donc je pense qu'elles sont encore en vie."
+
+
 translate french ep018_desert_ce334cf1:
 
-    # e "I hope the rest of the crew didn't suffer a worse fate."
-    e ""
 
-# game/episode018.rpy:177
+    e "J'espère que le reste de l'équipage n'a pas subi un destin plus funeste."
+
+
 translate french ep018_desert_ccb180c0:
 
-    # c "No time to worry about that, we have to strike now."
-    c ""
 
-# game/episode018.rpy:179
+    c "Pas le temps de s'en inquiéter, nous devons frapper maintenant."
+
+
 translate french ep018_desert_99e82a99:
 
-    # gl "Look what we brought in!"
-    gl ""
 
-# game/episode018.rpy:180
+    gl "Regardez ce que nous avons apporté !"
+
+
 translate french ep018_desert_cb8d6816:
 
-    # gl "Three stray cunts, wandering the desert."
-    gl ""
 
-# game/episode018.rpy:181
+    gl "Trois chattes égarées, errant dans le désert."
+
+
 translate french ep018_desert_2e16d171:
 
-    # gl "And one of them is so very familiar."
-    gl ""
 
-# game/episode018.rpy:182
+    gl "Et l'une d'entre elles m'est très familière."
+
+
 translate french ep018_desert_36794910:
 
-    # gl "Such a small universe..."
-    gl ""
 
-# game/episode018.rpy:184
+    gl "Quel petit univers..."
+
+
 translate french ep018_desert_f8556e14:
 
-    # gl "Say hi to the boys, Thyia."
-    gl ""
 
-# game/episode018.rpy:186
+    gl "Dis bonjour aux garçons, Thyia."
+
+
 translate french ep018_desert_359e5d2d:
 
-    # th "Fuck you!"
-    th ""
 
-# game/episode018.rpy:187
+    th "Va te faire foutre !"
+
+
 translate french ep018_desert_6f19aa5d:
 
-    # gl "Now, now, I'm sure you'll talk differently when we're done with you."
-    gl ""
 
-# game/episode018.rpy:188
+    gl "Bon, bon, je suis sûr que tu parleras différemment quand on en aura fini avec toi."
+
+
 translate french ep018_desert_4b8522ee:
 
-    # gl "We'll teach you to say 'Thank you, sir' and 'Give me more, sir' when you have the privilege of sucking our cocks."
-    gl ""
 
-# game/episode018.rpy:190
+    gl "Nous t'apprendrons à dire « Merci, monsieur » et « Donnez-m'en plus, monsieur » quand tu auras le privilège de sucer nos bites."
+
+
 translate french ep018_desert_03ec59f8:
 
-    # l "Thyia, are you alright?!"
-    l ""
 
-# game/episode018.rpy:192
+    l "Thyia, tu vas bien ?!"
+
+
 translate french ep018_desert_a37529cf:
 
-    # gl "Your friend is fine, I was just telling about how we're about to gang rape the three of you."
-    gl ""
 
-# game/episode018.rpy:194
+    gl "Ton amie va bien, j'étais juste en train de raconter comment nous allions vous violer toutes les trois."
+
+
 translate french ep018_desert_05cdce70:
 
-    # l "Is that supposed to scare me, you miserable fucking space lizard?!"
-    l ""
 
-# game/episode018.rpy:196
+    l "C'est censé me faire peur, espèce de misérable lézard de l'espace ?!"
+
+
 translate french ep018_desert_70a975b4:
 
-    # gl "Again with the insults."
-    gl ""
 
-# game/episode018.rpy:197
+    gl "Encore des insultes."
+
+
 translate french ep018_desert_5afcce17:
 
-    # gl "Tear their pathetic armor off so we can show them a lesson, boys."
-    gl ""
 
-# game/episode018.rpy:199
+    gl "Déchirez leur armure pathétique pour qu'on puisse leur donner une leçon, les gars."
+
+
 translate french ep018_desert_3c132b67:
 
-    # gl "Walgx, is the ship repaired?"
-    gl ""
 
-# game/episode018.rpy:202
+    gl "Walgx, le vaisseau est-il réparé ?"
+
+
 translate french ep018_desert_989ee5b6:
 
-    # man "Almost, boss."
-    man ""
 
-# game/episode018.rpy:204
+    man "Presque, patron."
+
+
 translate french ep018_desert_472f498c:
 
-    # gl "Work harder then, or you'll be the last to have your way with any of these bitches."
-    gl ""
 
-# game/episode018.rpy:206
+    gl "Travaille plus dur alors, ou tu seras le dernier à pouvoir faire ce que tu veux avec l'une de ces salopes."
+
+
 translate french ep018_desert_20706d0e:
 
-    # man2 "What the-"
-    man2 ""
 
-# game/episode018.rpy:207
+    man2 "Qu'est-ce que..."
+
+
 translate french ep018_desert_afb7e4d4:
 
-    # gl "We're under attack!!!"
-    gl ""
 
-# game/episode018.rpy:210
+    gl "Nous sommes attaqués !!!"
+
+
 translate french ep018_desert_cf3f60cd:
 
-    # "The first flashbang blinded everyone, except the mechanic working on Glixken's ship."
-    ""
 
-# game/episode018.rpy:211
+    "Le premier flashbang a aveuglé tout le monde, sauf le mécanicien qui travaillait sur le vaisseau de Glixken."
+
+
 translate french ep018_desert_8d95f90e:
 
-    # "Both our bikes barreled down into the crater as we took aim at the mercs who were desperately trying to shake off their temporary blindness."
-    ""
 
-# game/episode018.rpy:212
+    "Nos deux motos ont foncé dans le cratère et nous avons visé les mercenaires qui essayaient désespérément de se débarrasser de leur cécité temporaire."
+
+
 translate french ep018_desert_b59830fb:
 
-    # "Eva aimed for the mercs who weren't standing close to Lilly, Thyia and Aven."
-    ""
 
-# game/episode018.rpy:213
+    "Eva visait les mercenaires qui ne se trouvaient pas à proximité de Lilly, Thyia et Aven."
+
+
 translate french ep018_desert_9566ca16:
 
-    # "I tried to find the mechanic, but he had gone to cover."
-    ""
 
-# game/episode018.rpy:215
+    "J'ai essayé de trouver le mécanicien, mais il s'était mis à couvert."
+
+
 translate french ep018_desert_254d7785:
 
-    # "Two mercs were already dead by the time the initial chaos lifted."
-    ""
 
-# game/episode018.rpy:217
+    "Deux mercenaires étaient déjà morts lorsque le chaos initial s'est dissipé."
+
+
 translate french ep018_desert_60be9f31:
 
-    # "Aven and Lilly had somehow managed to knock over a third and were trying to subdue him while still affected by blindness."
-    ""
 
-# game/episode018.rpy:219
+    "Aven et Lilly avaient réussi à en renverser un troisième et essayaient de le maîtriser alors qu'il était encore aveuglé."
+
+
 translate french ep018_desert_d3a8dbd5:
 
-    # "The two other mercs had a weapon in their hands and were about to shoot at us."
-    ""
 
-# game/episode018.rpy:220
+    "Les deux autres mercenaires avaient une arme à la main et s'apprêtaient à nous tirer dessus."
+
+
 translate french ep018_desert_c8106953:
 
-    # "Glixken, nor Thyia were anywhere in sight."
-    ""
 
-# game/episode018.rpy:221
+    "Glixken et Thyia n'étaient pas en vue."
+
+
 translate french ep018_desert_647e3e33:
 
-    # "Eva's bike was hit by a desperate volley from one of the mercs."
-    ""
 
-# game/episode018.rpy:223
+    "La moto d'Eva a été touchée par une volée désespérée de l'un des mercenaires."
+
+
 translate french ep018_desert_fb69e8e2:
 
-    # "Her bike went down, but she managed to jump off of it before it crashed into the sand."
-    ""
 
-# game/episode018.rpy:225
+    "Sa moto est tombée, mais elle a réussi à sauter avant qu'elle ne s'écrase dans le sable."
+
+
 translate french ep018_desert_5adfe18a:
 
-    # "I managed to evade the shots and ran over the other mercenary, his head sheared off by the bike, before he could pull the trigger."
-    ""
 
-# game/episode018.rpy:227
+    "J'ai réussi à éviter les tirs et j'ai écrasé l'autre mercenaire, dont la tête a été cisaillée par la moto, avant qu'il ne puisse appuyer sur la gâchette."
+
+
 translate french ep018_desert_757bf32c:
 
-    # "Eva took care of the remaining merc from behind the cover of her bike."
-    ""
 
-# game/episode018.rpy:228
+    "Eva s'est occupée du mercenaire restant à l'abri de sa moto."
+
+
 translate french ep018_desert_565112cc:
 
-    # "That left Glixken and the mechanic."
-    ""
 
-# game/episode018.rpy:230
+    "Il ne reste plus que Glixken et le mécanicien."
+
+
 translate french ep018_desert_4c1d8dfb:
 
-    # c "Eva, cover me!"
-    c ""
 
-# game/episode018.rpy:231
+    c "Eva, couvre-moi !"
+
+
 translate french ep018_desert_725a235e:
 
-    # "Glixken was probably trying to make an escape with his ship, so I sprinted towards the entrance hatch."
-    ""
 
-# game/episode018.rpy:233
+    "Glixken essayait probablement de s'enfuir avec son vaisseau, alors j'ai sprinté vers le sas d'entrée."
+
+
 translate french ep018_desert_504917cc:
 
-    # "I found the engineer working frantically near the entrance, probably trying to hotwire the hatch to close."
-    ""
 
-# game/episode018.rpy:235
+    "J'ai trouvé le mécanicien en train de travailler frénétiquement près de l'entrée, probablement en train d'essayer de fermer l'écoutille à l'aide d'un fil chaud."
+
+
 translate french ep018_desert_eb20642c:
 
-    # "The merc turned his surprised face towards me as two well-placed shots were already about to hit him."
-    ""
 
-# game/episode018.rpy:236
+    "Le mercenaire a tourné son visage surpris vers moi alors que deux tirs bien placés étaient déjà sur le point de l'atteindre."
+
+
 translate french ep018_desert_da67163a:
 
-    # "He went down instantly."
-    ""
 
-# game/episode018.rpy:238
+    "Il est tombé instantanément."
+
+
 translate french ep018_desert_b98e6e2c:
 
-    # "With Eva following me close, I entered the ship."
-    ""
 
-# game/episode018.rpy:240
+    "Avec Eva qui me suivait de près, je suis entré dans le vaisseau."
+
+
 translate french ep018_desert_29485790:
 
-    # "Glixken and Thyia weren't in the cockpit, so we did a room-by-room search."
-    ""
 
-# game/episode018.rpy:241
+    "Glixken et Thyia n'étaient pas dans le cockpit, alors nous avons procédé à une fouille pièce par pièce."
+
+
 translate french ep018_desert_3e633d46:
 
-    # c "Clear."
-    c ""
 
-# game/episode018.rpy:243
+    c "Rien à signaler."
+
+
 translate french ep018_desert_9943d0b8:
 
-    # "We made our way further into the ship."
-    ""
 
-# game/episode018.rpy:244
+    "Nous sommes allés plus loin dans le vaisseau."
+
+
 translate french ep018_desert_361b690f:
 
-    # "I had a feeling we would find at least Glixken in the engine room, probably trying to get the ship running in a hurry."
-    ""
 
-# game/episode018.rpy:246
+    "J'avais le sentiment que nous trouverions au moins Glixken dans la salle des machines, probablement en train d'essayer de faire fonctionner le vaisseau en vitesse."
+
+
 translate french ep018_desert_145d9349:
 
-    # "My thought was confirmed when I heard Glixken barking an order."
-    ""
 
-# game/episode018.rpy:247
+    "Ma pensée s'est confirmée lorsque j'ai entendu Glixken aboyer un ordre."
+
+
 translate french ep018_desert_d169ae0e:
 
-    # gl "Work faster, bitch!"
-    gl ""
 
-# game/episode018.rpy:248
+    gl "Travaille plus vite, salope !"
+
+
 translate french ep018_desert_931ff30f:
 
-    # "I wordlessly motioned Eva to follow me."
-    ""
 
-# game/episode018.rpy:250
+    "Sans rien dire, j'ai fait signe à Eva de me suivre."
+
+
 translate french ep018_desert_c7ed77a7:
 
-    # "Glixken was standing amongst a jungle of hanging wires, some of them sparking with electricity."
-    ""
 
-# game/episode018.rpy:251
+    "Glixken se tenait au milieu d'une jungle de fils suspendus, dont certains produisaient des étincelles d'électricité."
+
+
 translate french ep018_desert_1fb5c93e:
 
-    # "He was pointing a gun at Thyia, who was crouched over some machinery, tools scattered around her."
-    ""
 
-# game/episode018.rpy:252
+    "Il pointait une arme sur Thyia, qui était accroupie sur des machines, des outils éparpillés autour d'elle."
+
+
 translate french ep018_desert_aa2778e9:
 
-    # c "Drop your weapons!"
-    c ""
 
-# game/episode018.rpy:254
+    c "Lâche tes armes !"
+
+
 translate french ep018_desert_991a7011:
 
-    # "Glixken whirled on us, still pointing one gun on Thyia."
-    ""
 
-# game/episode018.rpy:256
+    "Glixken s'est retourné vers nous, en pointant toujours une arme sur Thyia."
+
+
 translate french ep018_desert_8d48e7cb:
 
-    # "Thyia caught my eye and looked deliberately at the hanging wires behind Glixken's back."
-    ""
 
-# game/episode018.rpy:260
+    "Thyia a attiré mon attention et a regardé délibérément les fils suspendus dans le dos de Glixken."
+
+
 translate french ep018_desert_caf8449b:
 
-    # "Letting Thyia do anything to endanger herself seemed too much of a gamble, especially considering we had two guns trained on Glixken."
-    ""
 
-# game/episode018.rpy:262
+    "Laisser Thyia faire quoi que ce soit qui puisse la mettre en danger me semblait trop risqué, surtout si l'on considère que nous avions deux armes braquées sur Glixken."
+
+
 translate french ep018_desert_1bfe4b74:
 
-    # "Without warning, I shot Glixken."
-    ""
 
-# game/episode018.rpy:263
+    "Sans crier station, j'ai tiré sur Glixken."
+
+
 translate french ep018_desert_285bc661:
 
-    # "The mercenary boss took two shots in the chest and the final one going through his head."
-    ""
 
-# game/episode018.rpy:265
+    "Le chef des mercenaires a pris deux balles dans la poitrine et la dernière lui a traversé la tête."
+
+
 translate french ep018_desert_390486e6:
 
-    # "In his final moments, he managed to pull the trigger himself."
-    ""
 
-# game/episode018.rpy:266
+    "Dans ses derniers instants, il est parvenu à appuyer lui-même sur la gâchette."
+
+
 translate french ep018_desert_454ef8b0:
 
-    # "The aim of his rifle pointed at us went completely off."
-    ""
 
-# game/episode018.rpy:267
+    "La visée de son fusil pointé sur nous s'est complètement éteinte."
+
+
 translate french ep018_desert_a1184f35:
 
-    # "The shots from his other gun grazed Thyia, who went down with a yelp."
-    ""
 
-# game/episode018.rpy:271
+    "Les tirs de son autre arme ont effleuré Thyia, qui s'est effondrée en poussant un glapissement."
+
+
 translate french ep018_desert_d8c190e0:
 
-    # "I decided to follow Thyia's lead and stalled Glixken."
-    ""
 
-# game/episode018.rpy:272
+    "J'ai décidé de suivre l'exemple de Thyia et de ralentir Glixken."
+
+
 translate french ep018_desert_6c389f65:
 
-    # c "I won't ask again, drop your weapons."
-    c ""
 
-# game/episode018.rpy:273
+    c "Je ne te le demanderai plus, dépose tes armes."
+
+
 translate french ep018_desert_b9916eeb:
 
-    # gl "Are you going to shoot me, boy?"
-    gl ""
 
-# game/episode018.rpy:274
+    gl "Tu vas me tirer dessus, mon garçon ?"
+
+
 translate french ep018_desert_e03b9a70:
 
-    # gl "You know I'm quicker."
-    gl ""
 
-# game/episode018.rpy:275
+    gl "Tu sais que je suis plus rapide."
+
+
 translate french ep018_desert_94540f44:
 
-    # gl "I'll take you out first, maybe only cripple the blonde."
-    gl ""
 
-# game/episode018.rpy:277
+    gl "Je vais t'éliminer en premier, et peut-être seulement estropier la blonde."
+
+
 translate french ep018_desert_ecec6172:
 
-    # gl "After all, women aren't that fun to fuck when they're dead."
-    gl ""
 
-# game/episode018.rpy:278
+    gl "Après tout, les femmes ne sont pas si amusantes à baiser quand elles sont mortes."
+
+
 translate french ep018_desert_97182106:
 
-    # c "Man...{w} All you ever do is make these tired rape threats."
-    c ""
 
-# game/episode018.rpy:279
+    c "Mec...{w} Tout ce que tu fais, c'est proférer des menaces de viol."
+
+
 translate french ep018_desert_d59bd92d:
 
-    # c "I'd wager a limp-dick lizard like you would come up with something more original."
-    c ""
 
-# game/episode018.rpy:280
+    c "Je parierais qu'un lézard à la bite molle comme toi trouverait quelque chose de plus original."
+
+
 translate french ep018_desert_fff33fc1:
 
-    # "Glixken's reply to that particular comment would forever be a mystery to anyone currently in the engine room."
-    ""
 
-# game/episode018.rpy:282
+    "La réponse de Glixken à ce commentaire particulier resterait à jamais un mystère pour tous ceux qui se trouvaient dans la salle des machines."
+
+
 translate french ep018_desert_00264734:
 
-    # "Thyia had come up from her crouch and grabbed one of the sparkling wires."
-    ""
 
-# game/episode018.rpy:284
+    "Thyia s'était levée de sa position accroupie et avait saisi l'un des fils étincelants."
+
+
 translate french ep018_desert_00a02237:
 
-    # "When Glixken's opened his mouth to reply, she pressed the end of the sparking cable against the mercenary's neck."
-    ""
 
-# game/episode018.rpy:285
+    "Lorsque Glixken a ouvert la bouche pour répondre, elle a appuyé l'extrémité du câble étincelant sur le cou du mercenaire."
+
+
 translate french ep018_desert_7319fcf8:
 
-    # "Glixken started screaming and shuddering, smoke rising from behind the top of his head."
-    ""
 
-# game/episode018.rpy:287
+    "Glixken se mit à hurler et à trembler, de la fumée s'élevant derrière le sommet de sa tête."
+
+
 translate french ep018_desert_c33a5644:
 
-    # "He fell on his knees with a heavy thud, the smell of burned lizard flesh filling the engine room."
-    ""
 
-# game/episode018.rpy:289
+    "Il tomba à genoux avec un lourd bruit sourd, l'odeur de chair de lézard brûlée emplissant la salle des machines."
+
+
 translate french ep018_desert_93b0863f:
 
-    # "The mercenary's eyes glazed over and he collapsed face-first onto the floor."
-    ""
 
-# game/episode018.rpy:291
+    "Les yeux du mercenaire se sont voilés et il s'est effondré la tête la première sur le sol."
+
+
 translate french ep018_desert_00e752c0:
 
-    # "I moved in quickly and shot him through the head to make sure he wasn't getting up again soon."
-    ""
 
-# game/episode018.rpy:296
+    "Je me suis approché rapidement et je lui ai tiré une balle dans la tête pour m'assurer qu'il ne se relèverait pas de sitôt."
+
+
 translate french ep018_desert_1a1ef9d1:
 
-    # c "Are you alright, Thyia?"
-    c ""
 
-# game/episode018.rpy:299
+    c "Tu vas bien, Thyia ?"
+
+
 translate french ep018_desert_6d07948e:
 
-    # th "It's just a light flesh wound, I think."
-    th ""
 
-# game/episode018.rpy:300
+    th "C'est juste une blessure légère, je crois."
+
+
 translate french ep018_desert_295ad919:
 
-    # "Thyia was bleeding from her shoulder, but it didn't look that serious."
-    ""
 
-# game/episode018.rpy:302
+    "Thyia saignait de l'épaule, mais ça n'avait pas l'air bien grave."
+
+
 translate french ep018_desert_48b528e8:
 
-    # th "I did have a plan, you know, which you ruined by shooting him first!"
-    th ""
 
-# game/episode018.rpy:303
+    th "J'avais un plan, tu sais, que tu as ruiné en lui tirant dessus en premier !"
+
+
 translate french ep018_desert_338c233e:
 
-    # c "Your gamble could have backfired, and I had a clear shot."
-    c ""
 
-# game/episode018.rpy:305
+    c "Ton pari aurait pu se retourner contre toi, et j'avais une bonne chance."
+
+
 translate french ep018_desert_61178b61:
 
-    # th "Fair enough, my shoulder just fucking hurts."
-    th ""
 
-# game/episode018.rpy:307
+    th "C'est vrai, mon épaule me fait mal, putain."
+
+
 translate french ep018_desert_74869e95:
 
-    # c "We have painkillers in the mercs’ supply and after that Thim can take a look."
-    c ""
 
-# game/episode018.rpy:309
+    c "Nous avons des analgésiques dans la réserve des mercenaires et après cela, Thim pourra jeter un coup d'œil."
+
+
 translate french ep018_desert_f4eb7e2f:
 
-    # c "We have painkillers in the mercs’ supply and after that the autodoc can take a look."
-    c ""
 
-# game/episode018.rpy:311
+    c "Nous avons des analgésiques dans la réserve des mercenaires et après ça, l'autodoc pourra jeter un coup d'œil."
+
+
 translate french ep018_desert_d22896bb:
 
-    # th "A little bruised here and there."
-    th ""
 
-# game/episode018.rpy:312
+    th "Il y a quelques bleus ici et là."
+
+
 translate french ep018_desert_58e4c475:
 
-    # "Thyia only looked a little frazzled."
-    ""
 
-# game/episode018.rpy:314
+    "Thyia n'avait l'air que d'être un peu fatiguée."
+
+
 translate french ep018_desert_ef7fb04d:
 
-    # c "I guess that's the end of Glixken and his band of merry men..."
-    c ""
 
-# game/episode018.rpy:315
+    c "Je suppose que c'est la fin de Glixken et de sa bande de joyeux lurons..."
+
+
 translate french ep018_desert_759d5c91:
 
-    # th "Couldn't have happened to a nicer guy."
-    th ""
 
-# game/episode018.rpy:316
+    th "Ça n'aurait pas pu arriver à un gars plus gentil."
+
+
 translate french ep018_desert_47584612:
 
-    # e "How did you end up in their hands?"
-    e ""
 
-# game/episode018.rpy:318
+    e "Comment as-tu fini entre leurs mains ?"
+
+
 translate french ep018_desert_1736bfc0:
 
-    # th "After we crashed onto this planet, we quickly made some emergency repairs."
-    th ""
 
-# game/episode018.rpy:319
+    th "Après nous être écrasés sur cette planète, nous avons rapidement effectué des réparations d'urgence."
+
+
 translate french ep018_desert_d3bcb46d:
 
-    # th "Jade and Céline worked on expanding the range of the ship's scanners."
-    th ""
 
-# game/episode018.rpy:320
+    th "Jade et Céline ont travaillé à étendre la portée des scanners du vaisseau."
+
+
 translate french ep018_desert_ae40f95e:
 
-    # th "After picking up several anomalies, the three of us went out to scout the area."
-    th ""
 
-# game/episode018.rpy:321
+    th "Après avoir repéré plusieurs anomalies, nous sommes partis toutes les trois en reconnaissance."
+
+
 translate french ep018_desert_8d9a9008:
 
-    # th "Glixken intercepted our party soon after and took us back here."
-    th ""
 
-# game/episode018.rpy:323
+    th "Glixken a intercepté notre groupe peu après et nous a ramenés ici."
+
+
 translate french ep018_desert_1d57beb7:
 
-    # th "But I'm so glad to see you both in one piece."
-    th ""
 
-# game/episode018.rpy:324
+    th "Mais je suis très heureuse de vous voir tous les deux en un seul morceau."
+
+
 translate french ep018_desert_4962a45f:
 
-    # th "Did your ship survive the landing?"
-    th ""
 
-# game/episode018.rpy:325
+    th "Votre vaisseau a-t-il survécu à l'atterrissage ?"
+
+
 translate french ep018_desert_7f79c2e3:
 
-    # c "It didn't."
-    c ""
 
-# game/episode018.rpy:326
+    c "Il n'a pas survécu."
+
+
 translate french ep018_desert_f2cba749:
 
-    # c "We were lucky to ambush three of Glixken's men."
-    c ""
 
-# game/episode018.rpy:328
+    c "Nous avons eu la chance de tendre une embuscade à trois des hommes de Glixken."
+
+
 translate french ep018_desert_42750aef:
 
-    # e "The bikes they rode contained information about their location, so we staged an assault."
-    e ""
 
-# game/episode018.rpy:330
+    e "Les motos qu'ils conduisaient contenaient des informations sur l'endroit où ils se trouvaient, alors nous avons préparé un assaut."
+
+
 translate french ep018_desert_e6e2ba75:
 
-    # th "Just the two of you?"
-    th ""
 
-# game/episode018.rpy:331
+    th "Vous n'êtes que tous les deux ?"
+
+
 translate french ep018_desert_491efc0b:
 
-    # c "We kind of needed a space ship..."
-    c ""
 
-# game/episode018.rpy:333
+    c "Nous avions besoin d'un vaisseau spatial..."
+
+
 translate french ep018_desert_efb66d52:
 
-    # e "And now we have two."
-    e ""
 
-# game/episode018.rpy:334
+    e "Et maintenant, nous en avons deux."
+
+
 translate french ep018_desert_eb03520b:
 
-    # c "We sure do."
-    c ""
 
-# game/episode018.rpy:335
+    c "C'est vrai."
+
+
 translate french ep018_desert_4f3d73f0:
 
-    # c "But I'm not about to start a fleet of ships."
-    c ""
 
-# game/episode018.rpy:336
+    c "Mais je ne vais pas créer une flotte de vaisseaux."
+
+
 translate french ep018_desert_c81ed443:
 
-    # c "Let's use Glixken's bucket as a taxi and go find the others outside."
-    c ""
 
-# game/episode018.rpy:337
+    c "Utilisons l'épave de Glixken comme taxi et allons retrouver les autres à l'extérieur."
+
+
 translate french ep018_desert_13fa9b1d:
 
-    # c "Do you think we can radio the Bastard from here?"
-    c ""
 
-# game/episode018.rpy:339
+    c "Tu crois qu'on peut contacter le Bastard par radio d'ici ?"
+
+
 translate french ep018_desert_9051c269:
 
-    # th "If the comms on this ship work, I think it should be possible."
-    th ""
 
-# game/episode018.rpy:341
+    th "Si les communications de ce vaisseau fonctionnent, je pense que ça devrait être possible."
+
+
 translate french ep018_desert_355fd1d0:
 
-    # "Lilly and Aven were just as happy to see us."
-    ""
 
-# game/episode018.rpy:343
+    "Lilly et Aven étaient tout aussi heureuses de nous voir."
+
+
 translate french ep018_desert_8b68f19a:
 
-    # "After we brought them up to speed, we went to the bridge of the ship and contacted the Bastard."
-    ""
 
-# game/episode018.rpy:344
+    "Après les avoir mises au courant, nous sommes allées sur le pont du vaisseau et avons contacté le Bastard."
+
+
 translate french ep018_desert_f53eab64:
 
-    # "Céline was ecstatic to hear from us and we agreed to fly Glixken's ship to their location."
-    ""
 
-# game/episode018.rpy:346
+    "Céline était ravie d'avoir de nos nouvelles et nous avons accepté de faire voler le vaisseau de Glixken jusqu'à leur emplacement."
+
+
 translate french ep018_desert_ce273275:
 
-    # "We brought the bikes that were undamaged in the fight back into the ship."
-    ""
 
-# game/episode018.rpy:347
+    "Nous avons ramené dans le vaisseau les motos qui n'avaient pas été endommagées lors du combat."
+
+
 translate french ep018_desert_fab1dbd8:
 
-    # "The corpses of Glixken and the engineer were dragged and dumped outside."
-    ""
 
-# game/episode018.rpy:352
+    "Les cadavres de Glixken et de l'ingénieur ont été traînés et jetés à l'extérieur."
+
+
 translate french ep018_desert_9a51c5c7:
 
-    # "Burying the mercs seemed too much of an honor, so we left them to decompose in the planet's harsh climate."
-    ""
 
-# game/episode018.rpy:353
+    "Enterrer les mercenaires semblait être un trop grand honneur, alors nous les avons laissés se décomposer dans le climat rigoureux de la planète."
+
+
 translate french ep018_desert_33cb4937:
 
-    # "We took off in the direction of our crew a relatively short distance away."
-    ""
 
-# game/episode018.rpy:355
+    "Nous avons décollé en direction de notre équipage, à une distance relativement courte."
+
+
 translate french ep018_desert_4946a644:
 
-    # "From the air, the Bastard didn't seem to have sustained that much damage."
-    ""
 
-# game/episode018.rpy:357
+    "Vu du ciel, le Bastard ne semblait pas avoir subi tant de dégâts que ça."
+
+
 translate french ep018_desert_a1733a8d:
 
-    # "We were welcomed by each of the crew, who mercifully survived the pursuit by Glixken and subsequent emergency landing."
-    ""
 
-# game/episode018.rpy:359
+    "Nous avons été accueillis par chacun des membres de l'équipage, qui ont heureusement survécu à la poursuite par Glixken et à l'atterrissage d'urgence qui s'en est suivi."
+
+
 translate french ep018_desert_c76f1b3e:
 
-    # "Thyia, Céline and Jade remained on the bridge to discuss the state of repair of the Bastard."
-    ""
 
-# game/episode018.rpy:360
+    "Thyia, Céline et Jade sont restées sur la passerelle pour discuter de l'état de réparation du Bastard."
+
+
 translate french ep018_desert_70ab317e:
 
-    # j "All systems are running optimally now."
-    j ""
 
-# game/episode018.rpy:362
+    j "Tous les systèmes fonctionnent de manière optimale maintenant."
+
+
 translate french ep018_desert_4493da5a:
 
-    # j "Those repairs to the electrical grid seem to be holding."
-    j ""
 
-# game/episode018.rpy:364
+    j "Les réparations du réseau électrique semblent tenir le coup."
+
+
 translate french ep018_desert_da6c83fd:
 
-    # ce "Yes, I think we can take her to space again."
-    ce ""
 
-# game/episode018.rpy:366
+    ce "Oui, je pense que nous pouvons à nouveau l'emmener dans l'espace."
+
+
 translate french ep018_desert_5fd8afd5:
 
-    # th "The Bastard spending some time in a dry dock might not be a bad idea in the near future."
-    th ""
 
-# game/episode018.rpy:367
+    th "Passer un peu de temps en cale sèche pour le Bastard ne serait peut-être pas une mauvaise idée dans un avenir proche."
+
+
 translate french ep018_desert_320cdb62:
 
-    # c "Agreed, but the mission comes first."
-    c ""
 
-# game/episode018.rpy:368
+    c "D'accord, mais la mission passe avant tout."
+
+
 translate french ep018_desert_906350cb:
 
-    # th "Naturally."
-    th ""
 
-# game/episode018.rpy:369
+    th "Naturellement."
+
+
 translate french ep018_desert_30cb866c:
 
-    # th "What are you planning to do with the mercenary ship?"
-    th ""
 
-# game/episode018.rpy:370
+    th "Que comptes-tu faire du vaisseau des mercenaires ?"
+
+
 translate french ep018_desert_a269ecd4:
 
-    # c "I don't know, can we salvage it for parts?"
-    c ""
 
-# game/episode018.rpy:371
+    c "Je ne sais pas, est-ce qu'on peut le récupérer pour en faire des pièces détachées ?"
+
+
 translate french ep018_desert_4ce91e2f:
 
-    # th "Sure."
-    th ""
 
-# game/episode018.rpy:372
+    th "Bien sûr."
+
+
 translate french ep018_desert_ede90c0c:
 
-    # th "Jade, can you run a diagnostic and see what we can rip from it."
-    th ""
 
-# game/episode018.rpy:374
+    th "Jade, tu peux faire un diagnostic et voir ce qu'on peut en tirer."
+
+
 translate french ep018_desert_7742c481:
 
-    # j "On it, I'll start right away."
-    j ""
 
-# game/episode018.rpy:376
+    j "Je m'en occupe, je commence tout de suite."
+
+
 translate french ep018_desert_41e59a3f:
 
-    # c "You should get that shoulder looked at, Thyia."
-    c ""
 
-# game/episode018.rpy:378
+    c "Tu devrais faire examiner ton épaule, Thyia."
+
+
 translate french ep018_desert_fdb0498b:
 
-    # c "You should get those bruises looked at, Thyia, just to be sure."
-    c ""
 
-# game/episode018.rpy:381
+    c "Tu devrais faire examiner ces bleus, Thyia, juste pour être sûre."
+
+
 translate french ep018_desert_8285e0b1:
 
-    # th "Fine, I'll pay a visit to Dr. Von Skanderfelt."
-    th ""
 
-# game/episode018.rpy:384
+    th "Très bien, je vais rendre visite au Dr Von Skanderfelt."
+
+
 translate french ep018_desert_0c6309f3:
 
-    # th "Fine, I'll pay a visit to the autodoc."
-    th ""
 
-# game/episode018.rpy:385
+    th "Bien, je vais rendre visite à l'autodoc."
+
+
 translate french ep018_desert_cd95b252:
 
-    # th "For the record, that robot has a terrible bedside manner."
-    th ""
 
-# game/episode018.rpy:387
+    th "Pour info, ce robot a un comportement terrible au chevet des malades."
+
+
 translate french ep018_desert_84ed0a9a:
 
-    # "Céline resumed her work on the bridge leaving me to check up on the crew."
-    ""
 
-# game/episode018.rpy:391
+    "Céline a repris son travail sur la passerelle, me laissant prendre des nouvelles de l'équipage."
+
+
 translate french ep018_desert_exit_22dfdb47:
 
-    # "A couple of hours later, I got an excited message from Jade, asking me to visit her on Glixken's ship."
-    ""
 
-# game/episode018.rpy:394
+    "Quelques heures plus tard, j'ai reçu un message enthousiaste de Jade, me demandant de lui rendre visite sur le vaisseau de Glixken."
+
+
 translate french ep018_desert_exit_b472bb2f:
 
-    # c "What's gotten you excited all of a sudden?"
-    c ""
 
-# game/episode018.rpy:396
+    c "Qu'est-ce qui te rend si enthousiaste tout d'un coup ?"
+
+
 translate french ep018_desert_exit_81ebc4f7:
 
-    # j "While going through the ship's computer, I've managed to unearth some logs kept by Glixken, master."
-    j ""
 
-# game/episode018.rpy:397
+    j "En fouillant dans l'ordinateur du vaisseau, j'ai réussi à dénicher des journaux de bord tenus par Glixken, le maître."
+
+
 translate french ep018_desert_exit_1d9fdff7:
 
-    # c "So, what did you learn?"
-    c ""
 
-# game/episode018.rpy:399
+    c "Alors, qu'as-tu appris ?"
+
+
 translate french ep018_desert_exit_a4444079:
 
-    # c "Don't tell me you've found conclusive evidence of Glixken secretly being a tender-hearted hero of the people?"
-    c ""
 
-# game/episode018.rpy:401
+    c "Ne me dis pas que tu as trouvé la preuve irréfutable que Glixken est secrètement un héros du peuple au cœur tendre ?"
+
+
 translate french ep018_desert_exit_98843553:
 
-    # j "Nope, he's still the recently departed raping mercenary everyone so fondly remembers..."
-    j ""
 
-# game/episode018.rpy:402
+    j "Non, il est toujours le mercenaire violeur récemment décédé dont tout le monde se souvient avec tendresse..."
+
+
 translate french ep018_desert_exit_a46bceba:
 
-    # j "In fact, some of his crimes are detailed in the log he kept in the ship's computer."
-    j ""
 
-# game/episode018.rpy:403
+    j "En fait, certains de ses crimes sont détaillés dans le journal qu'il tenait dans l'ordinateur du vaisseau."
+
+
 translate french ep018_desert_exit_68df38ff:
 
-    # j "I've just managed to crack it."
-    j ""
 
-# game/episode018.rpy:405
+    j "Je viens de réussir à le déchiffrer."
+
+
 translate french ep018_desert_exit_0c28d7c4:
 
-    # j "It seems that woman, the Bloodhound, has recruited him on Vulpes Velox, even before we visited the Theater of Senses."
-    j ""
 
-# game/episode018.rpy:406
+    j "Il semble que cette femme, la Chien de sang, l'ait recruté sur Vulpes Velox, avant même que nous ayons visité le théâtre des sens."
+
+
 translate french ep018_desert_exit_0e7a6a30:
 
-    # c "Kvi hired him?"
-    c ""
 
-# game/episode018.rpy:407
+    c "Kvi l'a recruté ?"
+
+
 translate french ep018_desert_exit_29c2709e:
 
-    # j "She promised him Thyia, among other things, apparently."
-    j ""
 
-# game/episode018.rpy:408
+    j "Elle lui a promis Thyia, entre autres choses, apparemment."
+
+
 translate french ep018_desert_exit_7885cdaf:
 
-    # j "They weren't very successful on Kepler, but Kvi retained them despite their failure."
-    j ""
 
-# game/episode018.rpy:409
+    j "Ils n'ont pas eu beaucoup de succès sur Kepler, mais Kvi les a retenus malgré leur échec."
+
+
 translate french ep018_desert_exit_14367873:
 
-    # j "They were sent out once more to find us during the assault on Taagmar, though there were objections."
-    j ""
 
-# game/episode018.rpy:410
+    j "Ils ont été envoyés une fois de plus pour nous trouver lors de l'assaut sur Taagmar, bien qu'il y ait eu des objections."
+
+
 translate french ep018_desert_exit_e15cec45:
 
-    # c "Objections?"
-    c ""
 
-# game/episode018.rpy:412
+    c "Des objections ?"
+
+
 translate french ep018_desert_exit_4d7fcdbd:
 
-    # j "Yes, from, and I quote: 'that fat corpse-like browbeater'."
-    j ""
 
-# game/episode018.rpy:413
+    j "Oui, de la part de, je cite : « ce gros bourreau qui ressemble à un cadavre »."
+
+
 translate french ep018_desert_exit_aeea7035:
 
-    # c "So he met my father as well."
-    c ""
 
-# game/episode018.rpy:414
+    c "Il a donc aussi rencontré mon père."
+
+
 translate french ep018_desert_exit_1d8a3ba5:
 
-    # j "It seems so, yes."
-    j ""
 
-# game/episode018.rpy:415
+    j "Il semble que oui."
+
+
 translate french ep018_desert_exit_e5ba6747:
 
-    # c "Does this ship carry Sovereignty clearance codes?"
-    c ""
 
-# game/episode018.rpy:417
+    c "Ce vaisseau porte-t-il des codes d'autorisation de Souveraineté ?"
+
+
 translate french ep018_desert_exit_130fb281:
 
-    # j "That's the other thing I checked."
-    j ""
 
-# game/episode018.rpy:418
+    j "C'est l'autre chose que j'ai vérifiée."
+
+
 translate french ep018_desert_exit_635bc003:
 
-    # j "It seems that this vessel has clearance on Kvi's authority."
-    j ""
 
-# game/episode018.rpy:419
+    j "Il semble que ce vaisseau ait une autorisation de Kvi."
+
+
 translate french ep018_desert_exit_c5aed8d5:
 
-    # c "Interesting."
-    c ""
 
-# game/episode018.rpy:420
+    c "Intéressant."
+
+
 translate french ep018_desert_exit_803b9ac6:
 
-    # c "So that means we could fly anywhere."
-    c ""
 
-# game/episode018.rpy:422
+    c "Cela signifie que nous pouvons voler n'importe où."
+
+
 translate french ep018_desert_exit_acfa09bf:
 
-    # j "I assume so, unless we're actually boarded by a Sovereignty patrol."
-    j ""
 
-# game/episode018.rpy:423
+    j "Je suppose que oui, à moins que nous ne soyons abordés par une patrouille de la Souveraineté."
+
+
 translate french ep018_desert_exit_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode018.rpy:424
+    c "Bien sûr."
+
+
 translate french ep018_desert_exit_84b02b0d:
 
-    # c "Would it be possible to transfer that clearance to the Bastard?"
-    c ""
 
-# game/episode018.rpy:425
+    c "Serait-il possible de transférer cette autorisation au Bastard ?"
+
+
 translate french ep018_desert_exit_a9058f0d:
 
-    # j "Probably, with some effort."
-    j ""
 
-# game/episode018.rpy:427
+    j "Probablement, avec un peu d'effort."
+
+
 translate french ep018_desert_exit_5536127c:
 
-    # j "But the Bastard is probably a well-known ship by now in the Sovereignty."
-    j ""
 
-# game/episode018.rpy:428
+    j "Mais le Bastard est probablement un vaisseau bien connu à l'heure actuelle dans la Souveraineté."
+
+
 translate french ep018_desert_exit_438ebb6e:
 
-    # c "Yes, that's a complication."
-    c ""
 
-# game/episode018.rpy:429
+    c "Oui, c'est une complication."
+
+
 translate french ep018_desert_exit_8380ac5c:
 
-    # c "This ship should be big enough to fit our entire crew though."
-    c ""
 
-# game/episode018.rpy:430
+    c "Ce vaisseau devrait être assez grand pour accueillir tout notre équipage."
+
+
 translate french ep018_desert_exit_12b2a731:
 
-    # j "It's less spacious than the Bastard, but it would indeed fit."
-    j ""
 
-# game/episode018.rpy:431
+    j "Il est moins spacieux que le Bastard, mais il conviendrait en effet."
+
+
 translate french ep018_desert_exit_c57471a1:
 
-    # c "I think we need to share this with the others."
-    c ""
 
-# game/episode018.rpy:432
+    c "Je pense que nous devons en parler aux autres."
+
+
 translate french ep018_desert_exit_31a08563:
 
-    # c "This might be a way for us to get very close to that Arch on Taagmar."
-    c ""
 
-# game/episode018.rpy:434
+    c "Cela pourrait nous permettre de nous rapprocher de l'arche de Taagmar."
+
+
 translate french ep018_desert_exit_47acfb9f:
 
-    # "The crew met on the bridge of the Bastard to hear about Jade's discovery and my plan to covertly enter the capital of Taagmar."
-    ""
 
-# game/episode018.rpy:435
+    "L'équipage s'est réuni sur le pont du Bastard pour entendre parler de la découverte de Jade et de mon plan pour entrer secrètement dans la capitale de Taagmar."
+
+
 translate french ep018_desert_exit_f129ae85:
 
-    # av "If the mercenary ship has that level of Sovereignty clearance, we might just pull this off."
-    av ""
 
-# game/episode018.rpy:436
+    av "Si le vaisseau mercenaire a ce niveau d'autorisation de Souveraineté, nous pourrions bien réussir."
+
+
 translate french ep018_desert_exit_fc035778:
 
-    # av "But what do we do once we're on Taagmar's surface?"
-    av ""
 
-# game/episode018.rpy:437
+    av "Mais que fait-on une fois à la surface de Taagmar ?"
+
+
 translate french ep018_desert_exit_358acf0e:
 
-    # av "I don't think we'll be able to walk through a warzone to that Arch."
-    av ""
 
-# game/episode018.rpy:438
+    av "Je ne pense pas que nous pourrons traverser une zone de guerre jusqu'à cet Arche."
+
+
 translate french ep018_desert_exit_d831bc73:
 
-    # c "Once we're on the ground, we'll need to get a hold of several Sovereignty armor suits."
-    c ""
 
-# game/episode018.rpy:439
+    c "Une fois au sol, nous devrons mettre la main sur plusieurs armures de la Souveraineté."
+
+
 translate french ep018_desert_exit_5cfc677a:
 
-    # c "Those suits render us anonymous enough to get close to the Arch."
-    c ""
 
-# game/episode018.rpy:441
+    c "Ces combinaisons nous rendent suffisamment anonymes pour nous approcher de l'Arche."
+
+
 translate french ep018_desert_exit_89c59c93:
 
-    # t "We're going to despoil a battlefield, like common marauders?"
-    t ""
 
-# game/episode018.rpy:442
+    t "Nous allons saccager un champ de bataille, comme de vulgaires maraudeurs ?"
+
+
 translate french ep018_desert_exit_23a31d67:
 
-    # c "I don't think we have any choice."
-    c ""
 
-# game/episode018.rpy:443
+    c "Je ne pense pas que nous ayons le choix."
+
+
 translate french ep018_desert_exit_0333dd69:
 
-    # c "Sneaking across a battlefield without any disguise seems like a recipe for disaster."
-    c ""
 
-# game/episode018.rpy:444
+    c "Se faufiler sur un champ de bataille sans aucun déguisement semble être une recette pour un désastre."
+
+
 translate french ep018_desert_exit_6518180f:
 
-    # c "At least with the right armor, we can hopefully remain undetected."
-    c ""
 
-# game/episode018.rpy:446
+    c "Au moins, avec une bonne armure, nous pourrons espérer ne pas être repérés."
+
+
 translate french ep018_desert_exit_e869cb06:
 
-    # t "Fair enough."
-    t ""
 
-# game/episode018.rpy:448
+    t "C'est très bien."
+
+
 translate french ep018_desert_exit_35eea777:
 
-    # ce "What about the Bastard?"
-    ce ""
 
-# game/episode018.rpy:449
+    ce "Et le Bastard ?"
+
+
 translate french ep018_desert_exit_205bae25:
 
-    # c "We'd have to leave it docked somewhere, for the time being."
-    c ""
 
-# game/episode018.rpy:450
+    c "Nous devrons le laisser amarré quelque part, pour le moment."
+
+
 translate french ep018_desert_exit_198316df:
 
-    # ce "On Altum Station?"
-    ce ""
 
-# game/episode018.rpy:451
+    ce "Sur la station Altum ?"
+
+
 translate french ep018_desert_exit_4ce92500:
 
-    # c "I'm not sure if we're that welcome there, considering our exit."
-    c ""
 
-# game/episode018.rpy:452
+    c "Je ne suis pas sûr que nous soyons les bienvenus là-bas, compte tenu de notre sortie."
+
+
 translate french ep018_desert_exit_03c45662:
 
-    # c "We'll leave the ship docked somewhere else."
-    c ""
 
-# game/episode018.rpy:454
+    c "Nous laisserons le vaisseau amarré ailleurs."
+
+
 translate french ep018_desert_exit_170ec5c3:
 
-    # th "That might be a good opportunity to have some maintenance done."
-    th ""
 
-# game/episode018.rpy:455
+    th "Ce sera peut-être l'occasion de faire quelques travaux d'entretien."
+
+
 translate french ep018_desert_exit_b782adfb:
 
-    # c "Good thinking."
-    c ""
 
-# game/episode018.rpy:457
+    c "Bonne idée."
+
+
 translate french ep018_desert_exit_4ab4e7b2:
 
-    # l "Is someone going to stay behind with the ship?"
-    l ""
 
-# game/episode018.rpy:458
+    l "Est-ce que quelqu'un va rester derrière avec le vaisseau ?"
+
+
 translate french ep018_desert_exit_9d95f2bc:
 
-    # c "I don't think that will be necessary."
-    c ""
 
-# game/episode018.rpy:460
+    c "Je ne pense pas que ce sera nécessaire."
+
+
 translate french ep018_desert_exit_8bf9f099:
 
-    # na "What about the girl?"
-    na ""
 
-# game/episode018.rpy:463
+    na "Et la fille ?"
+
+
 translate french ep018_desert_exit_45fbffe7:
 
-    # c "I think it's time to let her out of the brig."
-    c ""
 
-# game/episode018.rpy:464
+    c "Je pense qu'il est temps de la laisser sortir de la prison."
+
+
 translate french ep018_desert_exit_1f5830fa:
 
-    # na "I still think that's unwise."
-    na ""
 
-# game/episode018.rpy:465
+    na "Je pense toujours que ce n'est pas sage."
+
+
 translate french ep018_desert_exit_8f0df545:
 
-    # c "She'll be under guard and returned to a cell immediately if she tries anything."
-    c ""
 
-# game/episode018.rpy:467
+    c "Elle sera sous bonne garde et renvoyée en cellule immédiatement si elle tente quoi que ce soit."
+
+
 translate french ep018_desert_exit_50babc4a:
 
-    # "My mother remained skeptical, but offered no further objections on the matter."
-    ""
 
-# game/episode018.rpy:469
+    "Ma mère est restée sceptique, mais n'a pas émis d'autres objections à ce sujet."
+
+
 translate french ep018_desert_exit_9ddc3d05:
 
-    # "Nadya remained skeptical, but offered no further objections on the matter."
-    ""
 
-# game/episode018.rpy:471
+    "Nadya est restée sceptique, mais n'a pas émis d'autres objections à ce sujet."
+
+
 translate french ep018_desert_exit_e574bc7f:
 
-    # c "We'll transfer her over to a cell on Glixken's former ship."
-    c ""
 
-# game/episode018.rpy:473
+    c "Nous allons la transférer dans une cellule de l'ancien vaisseau de Glixken."
+
+
 translate french ep018_desert_exit_7c2bf657:
 
-    # "The entire crew was in agreement on the plan to infiltrate Taagmar."
-    ""
 
-# game/episode018.rpy:474
+    "Tout l'équipage était d'accord sur le plan d'infiltration de Taagmar."
+
+
 translate french ep018_desert_exit_5724d004:
 
-    # "Thyia had selected a suitable station to leave the Bastard docked for repairs."
-    ""
 
-# game/episode018.rpy:475
+    "Thyia avait sélectionné une station appropriée pour laisser le Bastard à quai pour les réparations."
+
+
 translate french ep018_desert_exit_c7059781:
 
-    # "From there we would travel back to the battlefield created by the Sovereignty and try to land Glixken's ship near the capital."
-    ""
 
-# game/episode018.rpy:476
+    "De là, nous retournerions sur le champ de bataille créé par la Souveraineté et nous essaierions de faire atterrir le vaisseau de Glixken près de la capitale."
+
+
 translate french ep018_desert_exit_26668c95:
 
-    # "With Glixken’s ship, helmed by Kit and a skeleton crew, following close, we headed towards the station."
-    ""
 
-# game/episode018.rpy:477
+    "Avec le vaisseau de Glixken, piloté par Kit et un équipage réduit, qui suivait de près, nous nous sommes dirigés vers la station."
+
+
 translate french ep018_desert_exit_c6709057:
 
-    # "It would take us a few hours to reach it and make our way back to Taagmar."
-    ""
 
-# game/episode018.rpy:522
+    "Il nous faudrait quelques heures pour l'atteindre et retourner sur Taagmar."
+
+
 translate french ep018_taagmar_ed32d793:
 
-    # "The space station turned out to be a small base, but equipped for all the necessary repairs and maintenance."
-    ""
 
-# game/episode018.rpy:523
+    "La station spatiale s'est avérée être une petite base, mais équipée pour toutes les réparations et la maintenance nécessaires."
+
+
 translate french ep018_taagmar_f0db8658:
 
-    # "Thyia and Céline haggled with the dockmaster over a suitable price, and joined us later on Glixken's ship."
-    ""
 
-# game/episode018.rpy:525
+    "Thyia et Céline ont négocié un prix convenable avec le docker et nous ont rejoints plus tard sur le vaisseau de Glixken."
+
+
 translate french ep018_taagmar_87df7d34:
 
-    # "The trip to Taagmar wouldn't take very long, due to the conveniently placed gateway near the space station, that would put us very near our destination."
-    ""
 
-# game/episode018.rpy:527
+    "Le voyage jusqu'à Taagmar ne prendrait pas beaucoup de temps, grâce à la passerelle bien placée près de la station spatiale, qui nous mettrait tout près de notre destination."
+
+
 translate french ep018_taagmar_e76cba35:
 
-    # "Before long, we were nearing the outer perimeter of the fleet occupying Taagmar."
-    ""
 
-# game/episode018.rpy:528
+    "En peu de temps, nous approcherons du périmètre extérieur de la flotte qui occupe Taagmar."
+
+
 translate french ep018_taagmar_19a49da0:
 
-    # "Patrols could ask for our credentials at any step of the way and I just hoped Glixken's clearance would get us through."
-    ""
 
-# game/episode018.rpy:530
+    "Les patrouilles pouvaient demander nos accréditations à tout moment et j'espérais simplement que l'autorisation de Glixken nous permettrait de passer."
+
+
 translate french ep018_taagmar_a436781f:
 
-    # ce "We're at the point of no return."
-    ce ""
 
-# game/episode018.rpy:531
+    ce "Nous sommes au point de non-retour."
+
+
 translate french ep018_taagmar_6db2701e:
 
-    # c "Take us in."
-    c ""
 
-# game/episode018.rpy:533
+    c "Fais-nous entrer."
+
+
 translate french ep018_taagmar_6cc9519a:
 
-    # "We passed the dotted line projected on the navigation screen and set a course for the capital."
-    ""
 
-# game/episode018.rpy:534
+    "Nous avons passé la ligne en pointillés projetée sur l'écran de navigation et mis le cap sur la capitale."
+
+
 translate french ep018_taagmar_835ad31c:
 
-    # ce "We're being scanned."
-    ce ""
 
-# game/episode018.rpy:536
+    ce "Nous sommes scannés."
+
+
 translate french ep018_taagmar_ed063c4d:
 
-    # "Everyone present on the bridge held their breath."
-    ""
 
-# game/episode018.rpy:537
+    "Toutes les personnes présentes sur la passerelle retiennent leur souffle."
+
+
 translate french ep018_taagmar_08f29b3b:
 
-    # "If a patrol were to hail us, we'd have to bluff our way through over the radio, and I just didn't know how convincing my impression of Glixken's grating voice would be."
-    ""
 
-# game/episode018.rpy:538
+    "Si une patrouille nous contactait, nous devrions bluffer par radio, et je ne savais pas si mon interprétation de la voix grinçante de Glixken serait convaincante."
+
+
 translate french ep018_taagmar_58d76297:
 
-    # "Thankfully, the comm didn't crackle for the duration of our trek through Sovereignty lines and subsequent descent towards the planet's surface."
-    ""
 
-# game/episode018.rpy:540
+    "Heureusement, les communications n'ont pas crépité pendant toute la durée de notre périple à travers le périmètre de la Souveraineté et de notre descente vers la surface de la planète."
+
+
 translate french ep018_taagmar_25bbdc80:
 
-    # ce "We're through."
-    ce ""
 
-# game/episode018.rpy:542
+    ce "Nous sommes passés."
+
+
 translate french ep018_taagmar_e40acde2:
 
-    # "Our ship punched through Taagmar's cloud deck and revealed the battle-scarred terrain below."
-    ""
 
-# game/episode018.rpy:543
+    "Notre vaisseau a percé le pont de nuages de Taagmar et a révélé le terrain marqué par la bataille en dessous."
+
+
 translate french ep018_taagmar_ae3d0039:
 
-    # "Frequent explosions dotted the landscape, indicating battle zones."
-    ""
 
-# game/episode018.rpy:544
+    "Des explosions fréquentes parsèment le paysage, indiquant des zones de combat."
+
+
 translate french ep018_taagmar_0847a868:
 
-    # "One of those zones was our destination and we kept speeding towards that point without interruption."
-    ""
 
-# game/episode018.rpy:546
+    "L'une de ces zones était notre destination et nous avons continué à accélérer vers ce point sans interruption."
+
+
 translate french ep018_taagmar_42c9433b:
 
-    # ce "I'm putting us down in two minutes."
-    ce ""
 
-# game/episode018.rpy:547
+    ce "Je nous pose dans deux minutes."
+
+
 translate french ep018_taagmar_7963cf59:
 
-    # c "Understood."
-    c ""
 
-# game/episode018.rpy:549
+    c "Compris."
+
+
 translate french ep018_taagmar_e819cfd1:
 
-    # "Our landing place was located in an industrial district of the capital."
-    ""
 
-# game/episode018.rpy:550
+    "Notre lieu d'atterrissage était situé dans un quartier industriel de la capitale."
+
+
 translate french ep018_taagmar_21dba89e:
 
-    # "According to the maps in the ship's computer, it was near the Arch, but not too near to the front of the Sovereignty assault."
-    ""
 
-# game/episode018.rpy:552
+    "D'après les cartes de l'ordinateur du vaisseau, c'était près de l'Arche, mais pas trop près du front de l'assaut de la Souveraineté."
+
+
 translate french ep018_taagmar_941517ea:
 
-    # c "Is that the Arch?"
-    c ""
 
-# game/episode018.rpy:553
+    c "C'est l'Arche ?"
+
+
 translate french ep018_taagmar_710abf60:
 
-    # ce "Must be, yes, too much activity going on around there for it not to be."
-    ce ""
 
-# game/episode018.rpy:555
+    ce "Ce doit être ça, oui, il y a trop d'activité autour pour que ce ne soit pas le cas."
+
+
 translate french ep018_taagmar_8d492062:
 
-    # "Céline landed between the ruined towers of a large factory."
-    ""
 
-# game/episode018.rpy:557
+    "Céline a atterri entre les tours en ruine d'une grande usine."
+
+
 translate french ep018_taagmar_89ceff89:
 
-    # c "Right, let's see if we can scavenge some Sovereignty armor and weapons."
-    c ""
 
-# game/episode018.rpy:558
+    c "Bon, voyons si nous pouvons récupérer des armures et des armes de la Souveraineté."
+
+
 translate french ep018_taagmar_a2a48d79:
 
-    # "There had evidently been heavy fighting near the factory."
-    ""
 
-# game/episode018.rpy:560
+    "De toute évidence, il y a eu de violents combats près de l'usine."
+
+
 translate french ep018_taagmar_ac652920:
 
-    # "Several Taagmar bodies were strewn across the perimeter."
-    ""
 
-# game/episode018.rpy:561
+    "Plusieurs corps de Taagmar étaient éparpillés dans le périmètre."
+
+
 translate french ep018_taagmar_816286ec:
 
-    # "Most of the Taagmar were killed by Sovereignty energy weapons."
-    ""
 
-# game/episode018.rpy:563
+    "La plupart des Taagmar ont été tués par des armes à énergie de la Souveraineté."
+
+
 translate french ep018_taagmar_e0e1517d:
 
-    # "I was about to give up hope of finding a Sovereignty soldier, when I spotted the tell-tale redness of a Sovereignty helmet visor."
-    ""
 
-# game/episode018.rpy:564
+    "J'étais sur le point d'abandonner tout espoir de trouver un soldat de la Souveraineté, lorsque j'ai repéré la rougeur révélatrice de la visière d'un casque de la Souveraineté."
+
+
 translate french ep018_taagmar_8db4ede1:
 
-    # c "Found one."
-    c ""
 
-# game/episode018.rpy:566
+    c "J'en ai trouvé un."
+
+
 translate french ep018_taagmar_eaf4b619:
 
-    # av "Me too."
-    av ""
 
-# game/episode018.rpy:567
+    av "Moi aussi."
+
+
 translate french ep018_taagmar_fd930087:
 
-    # zi "Doesn't either side retrieve their fallen soldiers?"
-    zi ""
 
-# game/episode018.rpy:569
+    zi "Les deux camps ne récupèrent-ils pas leurs soldats tombés au combat ?"
+
+
 translate french ep018_taagmar_1cdd3e4a:
 
-    # c "The Sovereignty will, in time, if they care enough."
-    c ""
 
-# game/episode018.rpy:570
+    c "La Souveraineté le fera, en temps voulu, si elle s'en préoccupe suffisamment."
+
+
 translate french ep018_taagmar_a2357a85:
 
-    # c "As for the Taagmar, I'm not sure if there are enough fighters left to take care of their dead."
-    c ""
 
-# game/episode018.rpy:572
+    c "Quant aux Taagmar, je ne suis pas sûr qu'il reste assez de combattants pour s'occuper de leurs morts."
+
+
 translate french ep018_taagmar_37cb4a24:
 
-    # "Working in silence, we didn't have to venture out too far from the place where we landed to find enough pieces of armor and weaponry."
-    ""
 
-# game/episode018.rpy:573
+    "Travaillant en silence, nous n'avons pas eu besoin de nous aventurer trop loin de l'endroit où nous avons atterri pour trouver suffisamment de pièces d'armure et d'armes."
+
+
 translate french ep018_taagmar_cc7b3893:
 
-    # "The nano-material of the armor would conform to any type of body, so we didn't have to worry about dress sizes."
-    ""
 
-# game/episode018.rpy:574
+    "Le nano-matériau de l'armure s'adapte à tous les types de corps, nous n'avons donc pas eu à nous soucier de la taille des vêtements."
+
+
 translate french ep018_taagmar_2bb5869c:
 
-    # "While the amount of fallen Taagmar soldiers was easily triple that of Sovereignty casualties, there were a great number of bodies to be found."
-    ""
 
-# game/episode018.rpy:576
+    "Bien que le nombre de soldats Taagmar tombés au combat soit trois fois plus élevé que celui des victimes de la Souveraineté, il y avait un grand nombre de corps à trouver."
+
+
 translate french ep018_taagmar_95426a48:
 
-    # "It seemed the Taagmar had put up a costly, albeit doomed defense against their invaders."
-    ""
 
-# game/episode018.rpy:577
+    "Il semble que les Taagmar aient mis en place une défense coûteuse, mais vouée à l'échec, contre leurs envahisseurs."
+
+
 translate french ep018_taagmar_664bf969:
 
-    # "Back at the ship, we cleaned the armor suits as best we could and then donned them."
-    ""
 
-# game/episode018.rpy:579
+    "De retour au vaisseau, nous avons nettoyé les armures du mieux que nous pouvions, puis nous les avons enfilées."
+
+
 translate french ep018_taagmar_44379a11:
 
-    # ki "Is it safe to leave the ship here?"
-    ki ""
 
-# game/episode018.rpy:580
+    ki "Est-il prudent de laisser le vaisseau ici ?"
+
+
 translate french ep018_taagmar_81433129:
 
-    # c "I don't think any place here in the capital can be considered safe."
-    c ""
 
-# game/episode018.rpy:581
+    c "Je ne pense pas qu'aucun endroit de la capitale puisse être considéré comme sûr."
+
+
 translate french ep018_taagmar_15e7a180:
 
-    # c "But the fighting has died down considerably and this ring of the city doesn't seem to be contested anymore by either side."
-    c ""
 
-# game/episode018.rpy:583
+    c "Mais les combats se sont considérablement calmés et cette ceinture de la ville ne semble plus être contestée par aucun des deux camps."
+
+
 translate french ep018_taagmar_99ffdc55:
 
-    # th "The Sovereignty will probably leave the ship alone anyway, considering the credentials it bears."
-    th ""
 
-# game/episode018.rpy:585
+    th "La Souveraineté laissera probablement le vaisseau tranquille de toute façon, étant donné les références qu'il porte."
+
+
 translate french ep018_taagmar_b9bd2ac0:
 
-    # ki "Right, into the fray then?"
-    ki ""
 
-# game/episode018.rpy:587
+    ki "Alors, on se lance dans la mêlée ?"
+
+
 translate french ep018_taagmar_7db78bff:
 
-    # j "What if we encounter resistance?"
-    j ""
 
-# game/episode018.rpy:588
+    j "Et si nous rencontrons de la résistance ?"
+
+
 translate french ep018_taagmar_0aa3b9c4:
 
-    # c "Our aim is to prevent any encounters."
-    c ""
 
-# game/episode018.rpy:589
+    c "Notre objectif est d'éviter toute rencontre."
+
+
 translate french ep018_taagmar_712415dd:
 
-    # c "But if we run into the Taagmar, we'd have to return fire, I'm afraid."
-    c ""
 
-# game/episode018.rpy:590
+    c "Mais si nous tombons sur les Taagmar, nous devrons riposter, j'en ai peur."
+
+
 translate french ep018_taagmar_cc9d9100:
 
-    # c "We'll do anything to prevent us from killing Taagmar, but if it's them or us, we choose the latter."
-    c ""
 
-# game/episode018.rpy:591
+    c "Nous ferons tout ce qui peut nous empêcher de tuer des Taagmar, mais si c'est eux ou nous, nous choisissons la seconde solution."
+
+
 translate french ep018_taagmar_6ac6febd:
 
-    # c "The Sovereignty troops shouldn't give us trouble on account of our disguises."
-    c ""
 
-# game/episode018.rpy:592
+    c "Les troupes de la Souveraineté ne devraient pas nous poser de problèmes à cause de nos déguisements."
+
+
 translate french ep018_taagmar_e134e21a:
 
-    # c "If they do, we deal with them quietly and permanently."
-    c ""
 
-# game/episode018.rpy:594
+    c "Si c'est le cas, nous nous en occuperons discrètement et définitivement."
+
+
 translate french ep018_taagmar_69c9a036:
 
-    # "Everybody voiced their approval and we headed out towards the gateway."
-    ""
 
-# game/episode018.rpy:596
+    "Tout le monde a exprimé son approbation et nous nous sommes dirigés vers la porte."
+
+
 translate french ep018_taagmar_3f307b22:
 
-    # "Fighting could be heard in the distance, as we approached the Arch."
-    ""
 
-# game/episode018.rpy:597
+    "On entendait des combats au loin, alors que nous approchions de l'arche."
+
+
 translate french ep018_taagmar_2cb18ebf:
 
-    # "The further we got near the structure, the more impressive it became."
-    ""
 
-# game/episode018.rpy:599
+    "Plus nous nous approchions de la structure, plus elle devenait impressionnante."
+
+
 translate french ep018_taagmar_27035a13:
 
-    # "The gateway towered over all the buildings the Taagmar had built around it."
-    ""
 
-# game/episode018.rpy:601
+    "La porte surplombait tous les bâtiments que les Taagmar avaient construits autour d'elle."
+
+
 translate french ep018_taagmar_bc9aadcb:
 
-    # "The streets we had to cross were empty, except for the Taagmar casualties and an occasional lifeless Sovereignty body."
-    ""
 
-# game/episode018.rpy:602
+    "Les rues que nous devions traverser étaient vides, à l'exception des blessés Taagmar et d'un corps sans vie d'un membre de la Souveraineté."
+
+
 translate french ep018_taagmar_4c164908:
 
-    # "Continuous gunfire could be heard, but on the other side of the city, the Sovereignty apparently encountered more resistance."
-    ""
 
-# game/episode018.rpy:603
+    "On entendait des tirs continus, mais de l'autre côté de la ville, la Souveraineté rencontrait apparemment plus de résistance."
+
+
 translate french ep018_taagmar_f3f10577:
 
-    # "Thankfully, we didn't have to shoot anyone, Taagmar or otherwise."
-    ""
 
-# game/episode018.rpy:605
+    "Heureusement, nous n'avons pas eu à tirer sur qui que ce soit, Taagmar ou autre."
+
+
 translate french ep018_taagmar_8a1f0523:
 
-    # "As we neared the base of the Arch, several Sovereignty barricades could be seen in the distance."
-    ""
 
-# game/episode018.rpy:607
+    "Alors que nous approchions de la base de l'Arche, plusieurs barricades de la Souveraineté pouvaient être aperçues au loin."
+
+
 translate french ep018_taagmar_892f07bd:
 
-    # c "We're going to march double time through those barricades."
-    c ""
 
-# game/episode018.rpy:608
+    c "Nous allons marcher au pas de course à travers ces barricades."
+
+
 translate french ep018_taagmar_b77fe5c0:
 
-    # c "Just a small squad, returning to base..."
-    c ""
 
-# game/episode018.rpy:609
+    c "Nous ne sommes qu'une petite escouade, nous retournons à la base..."
+
+
 translate french ep018_taagmar_cdfb27fa:
 
-    # ki "What if we're stopped by some officer?"
-    ki ""
 
-# game/episode018.rpy:610
+    ki "Et si nous sommes arrêtés par un officier ?"
+
+
 translate french ep018_taagmar_9b6729a2:
 
-    # c "We'll bluff our way out if it."
-    c ""
 
-# game/episode018.rpy:611
+    c "Nous allons bluffer pour nous en sortir."
+
+
 translate french ep018_taagmar_2c033a13:
 
-    # c "If that doesn't work, aim for the head."
-    c ""
 
-# game/episode018.rpy:612
+    c "Si ça ne marche pas, on vise la tête."
+
+
 translate french ep018_taagmar_c1dd1b6e:
 
-    # ki "Gotcha."
-    ki ""
 
-# game/episode018.rpy:614
+    ki "Compris."
+
+
 translate french ep018_taagmar_d6d69a19:
 
-    # "We ran towards the barricades, attempting to display some measure of military discipline."
-    ""
 
-# game/episode018.rpy:616
+    "Nous avons couru vers les barricades, en essayant d'afficher une certaine discipline militaire."
+
+
 translate french ep018_taagmar_f3f5756d:
 
-    # "The soldiers manning the barricades evidently didn't care and waved us through."
-    ""
 
-# game/episode018.rpy:617
+    "Les soldats qui tenaient les barricades n'en avaient manifestement rien à faire et nous ont fait signe de passer."
+
+
 translate french ep018_taagmar_d8e8d264:
 
-    # "From this point, all roads led towards the base of the Arch, so without breaking our stride, we continued on."
-    ""
 
-# game/episode018.rpy:618
+    "À partir de là, toutes les routes mènent à la base de l'arche, alors sans nous arrêter, nous avons continué."
+
+
 translate french ep018_taagmar_d6d96ac2:
 
-    # "Several other squads were making their way towards the Arch as well."
-    ""
 
-# game/episode018.rpy:620
+    "Plusieurs autres escouades se dirigeaient également vers l'arche."
+
+
 translate french ep018_taagmar_60734496:
 
-    # "The reason why became clear when we reached the base of the structure."
-    ""
 
-# game/episode018.rpy:621
+    "Nous avons compris pourquoi lorsque nous avons atteint la base de la structure."
+
+
 translate french ep018_taagmar_bcfd143d:
 
-    # "An armored vehicle had just parked and soldiers were forming a protective corridor for the passengers coming out of the back."
-    ""
 
-# game/episode018.rpy:623
+    "Un véhicule blindé venait de se garer et des soldats formaient un couloir de protection pour les passagers qui sortaient de l'arrière."
+
+
 translate french ep018_taagmar_bf985823:
 
-    # l "Who is that guy?"
-    l ""
 
-# game/episode018.rpy:624
+    l "Qui est ce type ?"
+
+
 translate french ep018_taagmar_705ba921:
 
-    # c "The sickly grandpa, Erylin's new boyfriend?"
-    c ""
 
-# game/episode018.rpy:626
+    c "Le grand-père malade, le nouveau petit ami d'Erylin ?"
+
+
 translate french ep018_taagmar_0f09edec:
 
-    # ve "It's the Confessor."
-    ve ""
 
-# game/episode018.rpy:628
+    ve "C'est l'Inquisiteur."
+
+
 translate french ep018_taagmar_31f89f35:
 
-    # c "I reckon that’s the Confessor, Erylin obviously made a deal with him before betraying the Acarhyn."
-    c ""
 
-# game/episode018.rpy:630
+    c "Je pense que c'est l'Inquisiteur, Erylin a manifestement passé un accord avec lui avant de trahir les Acarhyn."
+
+
 translate french ep018_taagmar_296250e3:
 
-    # e "And they’re now both working for the Sovereignty?"
-    e ""
 
-# game/episode018.rpy:631
+    e "Et ils travaillent maintenant tous les deux pour la Souveraineté ?"
+
+
 translate french ep018_taagmar_b1cff47c:
 
-    # c "Yes, it seems daddy-dear made some new friends..."
-    c ""
 
-# game/episode018.rpy:632
+    c "Oui, il semblerait que papa-ours se soit fait de nouveaux amis..."
+
+
 translate french ep018_taagmar_d5144574:
 
-    # c "Though it might just be a marriage of convenience."
-    c ""
 
-# game/episode018.rpy:634
+    c "Mais ce n'est peut-être qu'un mariage de raison."
+
+
 translate french ep018_taagmar_14101c91:
 
-    # ki "I guess they’re not just here for the sights?"
-    ki ""
 
-# game/episode018.rpy:635
+    ki "J'imagine qu'ils ne sont pas seulement là pour le spectacle ?"
+
+
 translate french ep018_taagmar_866a72dd:
 
-    # c "A planet-wide invasion and genocide just to visit a landmark seems a little excessive, even for the Sovereignty."
-    c ""
 
-# game/episode018.rpy:637
+    c "Une invasion et un génocide à l'échelle de la planète juste pour visiter un point de repère semble un peu excessif, même pour la Souveraineté."
+
+
 translate french ep018_taagmar_e6b31aef:
 
-    # ve "The Confessor is probably going to activate the gateway."
-    ve ""
 
-# game/episode018.rpy:639
+    ve "L'Inquisiteur va probablement activer la passerelle."
+
+
 translate french ep018_taagmar_d054e44d:
 
-    # ki "It looks like they’re trying to open the gateway."
-    ki ""
 
-# game/episode018.rpy:640
+    ki "On dirait qu'ils essaient d'ouvrir le portail."
+
+
 translate french ep018_taagmar_e1aab1ef:
 
-    # c "Let’s make sure we’ll be among the first to march through once he gets it open."
-    c ""
 
-# game/episode018.rpy:645
+    c "Assurons-nous d'être parmi les premiers à passer lorsqu'il l'ouvrira."
+
+
 translate french ep018_taagmar_9e80ab5d:
 
-    # "We joined a contingent of soldiers near the foundation of the arch."
-    ""
 
-# game/episode018.rpy:646
+    "Nous avons rejoint un contingent de soldats près des fondations de l'arche."
+
+
 translate french ep018_taagmar_647cb451:
 
-    # "The Confessor was standing right in front of the Arch, the others keeping their distance."
-    ""
 
-# game/episode018.rpy:647
+    "L'Inquisiteur se tenait juste devant l'Arche, les autres gardant leurs distances."
+
+
 translate french ep018_taagmar_a6f23057:
 
-    # "He had his arms raised towards the structure and looked to be concentrating on something."
-    ""
 
-# game/episode018.rpy:649
+    "Il avait les bras levés vers la structure et semblait se concentrer sur quelque chose."
+
+
 translate french ep018_taagmar_3c0d16bb:
 
-    # c "He looks like a stage magician who’s trying too hard."
-    c ""
 
-# game/episode018.rpy:652
+    c "Il ressemble à un magicien de théâtre qui en fait trop."
+
+
 translate french ep018_taagmar_e94474a6:
 
-    # ve "You’re not too far off the mark."
-    ve ""
 
-# game/episode018.rpy:653
+    ve "Tu n'es pas loin de la vérité."
+
+
 translate french ep018_taagmar_eec6d6c5:
 
-    # ve "The Confessor relies on varied tricks to enhance his mystique."
-    ve ""
 
-# game/episode018.rpy:654
+    ve "L'Inquisiteur s'appuie sur des astuces variées pour renforcer son côté mystique."
+
+
 translate french ep018_taagmar_39efbe1a:
 
-    # c "You’ve got to be kidding me..."
-    c ""
 
-# game/episode018.rpy:655
+    c "Tu te moques de moi..."
+
+
 translate french ep018_taagmar_60f0ec8b:
 
-    # ki "Looks mightily impressive though."
-    ki ""
 
-# game/episode018.rpy:656
+    ki "Ça a l'air très impressionnant quand même."
+
+
 translate french ep018_taagmar_7428ad0e:
 
-    # c "They should have brought a fan to make his cape billow dramatically."
-    c ""
 
-# game/episode018.rpy:657
+    c "Ils auraient dû apporter un ventilateur pour faire onduler sa cape de façon spectaculaire."
+
+
 translate french ep018_taagmar_ef8f5d84:
 
-    # "Aven nudged me in the side."
-    ""
 
-# game/episode018.rpy:658
+    "Aven m'a donné un coup de coude sur le côté."
+
+
 translate french ep018_taagmar_875c3f88:
 
-    # av "Look over there."
-    av ""
 
-# game/episode018.rpy:660
+    av "Regarde là-bas."
+
+
 translate french ep018_taagmar_b0f8f97d:
 
-    # "Several of the Confessor’s handmaidens were positioned at both sides of the arch."
-    ""
 
-# game/episode018.rpy:661
+    "Plusieurs servantes de l'Inquisiteur étaient positionnées de part et d'autre de l'arche."
+
+
 translate french ep018_taagmar_130cf3cf:
 
-    # "They appeared to be standing guard, but some of them were fiddling with something near the base of the monument."
-    ""
 
-# game/episode018.rpy:663
+    "Elles semblaient monter la garde, mais certaines d'entre elles tripotaient quelque chose près de la base du monument."
+
+
 translate french ep018_taagmar_023bcd8d:
 
-    # "Their work was mostly obscured by the other handmaidens standing guard and everyone else was looking at the theatrics the Confessor was performing in front of the Arch."
-    ""
 
-# game/episode018.rpy:664
+    "Leur travail était en grande partie masqué par les autres servantes qui montaient la garde et tous les autres regardaient les mises en scène auxquelles se livrait l'Inquisiteur devant l'Arche."
+
+
 translate french ep018_taagmar_b4f91e89:
 
-    # av "I think they’re pressing on the stones, inputting some kind of key code."
-    av ""
 
-# game/episode018.rpy:665
+    av "Je pense qu'elles appuient sur les pierres pour entrer une sorte de code."
+
+
 translate french ep018_taagmar_bfc84a27:
 
-    # c "Interesting, it seems that the Confessor doesn’t want everyone to know about this ancient keypad."
-    c ""
 
-# game/episode018.rpy:667
+    c "Intéressant, il semble que l'Inquisiteur ne veuille pas que tout le monde soit au courant de l'existence de cet ancien clavier."
+
+
 translate french ep018_taagmar_e34a7ea7:
 
-    # "The Confessor’s hands shot out towards the gateway and a stream of energy seemingly flowed from his hands."
-    ""
 
-# game/episode018.rpy:669
+    "Les mains de l'Inquisiteur se sont dirigées vers le portail et un flux d'énergie a apparemment coulé de ses mains."
+
+
 translate french ep018_taagmar_de1e3ce5:
 
-    # "The air inside the Arch rippled and twisted until the view of the Taagmar city disappeared, replaced by a different landscape altogether."
-    ""
 
-# game/episode018.rpy:670
+    "L'air à l'intérieur de l'arche se mit à onduler et à se tordre jusqu'à ce que la vue de la ville des Taagmar disparaisse, remplacée par un tout autre paysage."
+
+
 translate french ep018_taagmar_42d4e3fa:
 
-    # na "He did it."
-    na ""
 
-# game/episode018.rpy:671
+    na "C'est lui qui l'a fait."
+
+
 translate french ep018_taagmar_694a6295:
 
-    # av "Well, his handmaidens did it, to be more accurate."
-    av ""
 
-# game/episode018.rpy:673
+    av "Enfin, ses servantes l'ont fait, pour être plus précis."
+
+
 translate french ep018_taagmar_e5e7c780:
 
-    # "Some orders were shouted and a squad of Sovereignty soldiers moved forward, followed by several handmaidens."
-    ""
 
-# game/episode018.rpy:674
+    "Quelques ordres furent criés et une escouade de soldats du Souveraineté s'avança, suivie de plusieurs servantes."
+
+
 translate french ep018_taagmar_36404008:
 
-    # "They were clearly intended to be the vanguard of this expedition."
-    ""
 
-# game/episode018.rpy:675
+    "Elles étaient clairement destinées à être l'avant-garde de cette expédition."
+
+
 translate french ep018_taagmar_065c571f:
 
-    # "The soldiers passed through the gate into the foreign landscape."
-    ""
 
-# game/episode018.rpy:677
+    "Les soldats franchirent la porte et pénétrèrent dans le paysage étranger."
+
+
 translate french ep018_taagmar_2256d8ff:
 
-    # "When they gave the all-clear after a few minutes, the entire column of Sovereignty troops came in motion."
-    ""
 
-# game/episode018.rpy:678
+    "Lorsqu'ils donnèrent le feu vert au bout de quelques minutes, toute la colonne de soldats de la Souveraineté se mit en mouvement."
+
+
 translate french ep018_taagmar_7c3e56e4:
 
-    # "The Confessor and the others got into the armored vehicle again and they drove through the gateway, soldiers trailing behind them."
-    ""
 
-# game/episode018.rpy:679
+    "L'Inquisiteur et les autres sont remontés dans le véhicule blindé et ils ont franchi le portail, les soldats les talonnant."
+
+
 translate french ep018_taagmar_ccd72f8e:
 
-    # "The squad we joined was also about to go through the Arch."
-    ""
 
-# game/episode018.rpy:681
+    "L'escouade que nous avons rejointe s'apprêtait elle aussi à franchir l'arche."
+
+
 translate french ep018_taagmar_600fd026:
 
-    # "The passage to the other world was almost unnoticeable."
-    ""
 
-# game/episode018.rpy:683
+    "Le passage vers l'autre monde était presque imperceptible."
+
+
 translate french ep018_taagmar_f56b369a:
 
-    # "One moment we were on the Taagmar homeworld and the next we were somewhere else entirely."
-    ""
 
-# game/episode018.rpy:684
+    "Un instant, nous étions sur le monde natal des Taagmar et l'instant d'après, nous étions dans un tout autre endroit."
+
+
 translate french ep018_taagmar_85ac3409:
 
-    # "Judging by the sky, we weren’t even on the same planet anymore."
-    ""
 
-# game/episode018.rpy:686
+    "À en juger par le ciel, nous n'étions même plus sur la même planète."
+
+
 translate french ep018_taagmar_de5a695c:
 
-    # "A sandy plain stretched out before us, high rocky peaks visible in the distance."
-    ""
 
-# game/episode018.rpy:688
+    "Une plaine sablonneuse s'étendait devant nous, de hauts pics rocheux étant visibles au loin."
+
+
 translate french ep018_taagmar_8461512b:
 
-    # "We’d exited a gateway similar to the Arch on Taagmar, but it wasn’t the only structure in the vicinity, as several ruins could be made out."
-    ""
 
-# game/episode018.rpy:690
+    "Nous étions sortis d'un portail semblable à l'arche de Taagmar, mais ce n'était pas la seule structure dans les environs, car on pouvait distinguer plusieurs ruines."
+
+
 translate french ep018_taagmar_9757d650:
 
-    # "The armored vehicle containing the VIPs was speeding towards a very specific location however."
-    ""
 
-# game/episode018.rpy:691
+    "Le véhicule blindé contenant les VIP se dirigeait cependant à toute vitesse vers un endroit bien précis."
+
+
 translate french ep018_taagmar_faf91123:
 
-    # "An imposing building stood a few miles from the Arch."
-    ""
 
-# game/episode018.rpy:693
+    "Un bâtiment imposant se dressait à quelques kilomètres de l'arche."
+
+
 translate french ep018_taagmar_53ad8ee8:
 
-    # "It looked ancient when we neared it, but it wasn’t a ruin like the ones on the horizon."
-    ""
 
-# game/episode018.rpy:695
+    "Il semblait ancien lorsque nous nous en sommes approchés, mais ce n'était pas une ruine comme celles qui se trouvaient à l'horizon."
+
+
 translate french ep018_taagmar_d9162e13:
 
-    # ki "Looks like a temple."
-    ki ""
 
-# game/episode018.rpy:696
+    ki "On dirait un temple."
+
+
 translate french ep018_taagmar_63cb1300:
 
-    # av "What are we going to do, split?"
-    av ""
 
-# game/episode018.rpy:697
+    av "Qu'est-ce qu'on fait, on se sépare ?"
+
+
 translate french ep018_taagmar_d382f12b:
 
-    # c "Not yet, it would attract too much attention and I really want to know what’s inside that temple."
-    c ""
 
-# game/episode018.rpy:699
+    c "Pas encore, cela attirerait trop l'attention et je veux vraiment savoir ce qu'il y a à l'intérieur de ce temple."
+
+
 translate french ep018_taagmar_243aca14:
 
-    # "The column stopped at the large doors at the front of the temple, the people inside the armored vehicle disembarked once more."
-    ""
 
-# game/episode018.rpy:701
+    "La colonne s'arrêta devant les grandes portes de l'avant du temple, les personnes à l'intérieur du véhicule blindé débarquèrent une fois de plus."
+
+
 translate french ep018_taagmar_61596aec:
 
-    # "The Confessor made some dramatic gestures which spurred his Handmaidens into action."
-    ""
 
-# game/episode018.rpy:703
+    "L'Inquisiteur a fait quelques gestes spectaculaires qui ont poussé ses servantes à l'action."
+
+
 translate french ep018_taagmar_280b6a5d:
 
-    # "The four of them pushed against one of the large doors."
-    ""
 
-# game/episode018.rpy:708
+    "Elles poussèrent toutes les quatre contre l'une des grandes portes."
+
+
 translate french ep018_taagmar_b24d9421:
 
-    # "With some effort, but not as much as you’d expect from a heavy stone door supposedly shut for centuries, they managed to open the door."
-    ""
 
-# game/episode018.rpy:709
+    "Avec un peu d'effort, mais pas autant qu'on pourrait s'y attendre d'une lourde porte de pierre censée être fermée depuis des siècles, elles ont réussi à l'ouvrir."
+
+
 translate french ep018_taagmar_c962ea6a:
 
-    # "A recon squad entered the temple first and apparently found nothing dangerous, because the Confessor and his party ventured in not long after."
-    ""
 
-# game/episode018.rpy:711
+    "Une escouade de reconnaissance est entrée la première dans le temple et n'a apparemment rien trouvé de dangereux, car l'Inquisiteur et son groupe s'y sont aventurés peu de temps après."
+
+
 translate french ep018_taagmar_dc571528:
 
-    # "The temple was vast inside, all large stone stairs and high domed ceilings."
-    ""
 
-# game/episode018.rpy:712
+    "Le temple était vaste à l'intérieur, avec de grands escaliers en pierre et de hauts plafonds en forme de dôme."
+
+
 translate french ep018_taagmar_3fcdd09a:
 
-    # "The stonecutting involved was basic, but of an elegance that exhumed a certain class in itself, even under the many layers of dust."
-    ""
 
-# game/episode018.rpy:714
+    "La taille de la pierre était basique, mais d'une élégance qui dégageait une certaine classe, même sous les nombreuses couches de poussière."
+
+
 translate french ep018_taagmar_f02d9114:
 
-    # "The Confessor already stood before another set of double doors, evidently thinking the same trick he performed outside would work here again."
-    ""
 
-# game/episode018.rpy:715
+    "L'Inquisiteur se tenait déjà devant une autre série de doubles portes, pensant manifestement que le même tour qu'il avait réalisé à l'extérieur fonctionnerait ici aussi."
+
+
 translate french ep018_taagmar_1d3591a1:
 
-    # "However, the Handmaidens pushed against the door in vain and it wouldn’t even budge when a couple of Sovereignty soldiers joined in to help."
-    ""
 
-# game/episode018.rpy:717
+    "Cependant, les Servantes ont poussé la porte en vain et elle n'a même pas bougé lorsque quelques soldats du Souveraineté se sont joints à elles pour les aider."
+
+
 translate french ep018_taagmar_62f5e615:
 
-    # ag "This is clearly not going to work."
-    ag ""
 
-# game/episode018.rpy:718
+    ag "Il est clair que cela ne va pas marcher."
+
+
 translate french ep018_taagmar_4ca34703:
 
-    # ag "With the gate remaining open, I’ll have my men bring in the excavation gear."
-    ag ""
 
-# game/episode018.rpy:719
+    ag "La porte restant ouverte, je vais demander à mes hommes d'apporter le matériel d'excavation."
+
+
 translate french ep018_taagmar_b7b6c762:
 
-    # ag "I’m sure explosives will do the trick nicely."
-    ag ""
 
-# game/episode018.rpy:720
+    ag "Je suis sûr que les explosifs feront très bien l'affaire."
+
+
 translate french ep018_taagmar_e6fcd7fe:
 
-    # er "Only if you want to collapse the roof on top of us, and destroy the Key that is inside this chamber."
-    er ""
 
-# game/episode018.rpy:721
+    er "Seulement si tu veux faire s'effondrer le toit sur nous, et détruire la Clé qui se trouve dans cette chambre."
+
+
 translate french ep018_taagmar_8144c204:
 
-    # ag "We’ll do it the hard way then."
-    ag ""
 
-# game/episode018.rpy:723
+    ag "Nous le ferons à la dure, alors."
+
+
 translate french ep018_taagmar_8fb4aeba:
 
-    # "My father conveyed his wishes to one of the officers standing nearby."
-    ""
 
-# game/episode018.rpy:725
+    "Mon père transmit ses souhaits à l'un des officiers qui se tenait à proximité."
+
+
 translate french ep018_taagmar_aa675115:
 
-    # man "Sir, I must inform you that a dust storm has struck up outside, limiting our visibility."
-    man ""
 
-# game/episode018.rpy:726
+    man "Monsieur, je dois vous informer qu'une tempête de poussière s'est levée à l'extérieur, limitant notre visibilité."
+
+
 translate french ep018_taagmar_af89593e:
 
-    # ag "So?"
-    ag ""
 
-# game/episode018.rpy:727
+    ag "Et alors ?"
+
+
 translate french ep018_taagmar_87b891a2:
 
-    # ag "I’m sure your men can find their way back to the Arch through a little dust."
-    ag ""
 
-# game/episode018.rpy:728
+    ag "Je suis sûr que vos hommes peuvent retrouver le chemin de l'arche avec un peu de poussière."
+
+
 translate french ep018_taagmar_ecc12aaa:
 
-    # ag "Time is of the essence, move!"
-    ag ""
 
-# game/episode018.rpy:730
+    ag "Le temps presse, bougez !"
+
+
 translate french ep018_taagmar_38edd898:
 
-    # "The officer knew better than to argue and proceeded to bark orders to every soldier assembled."
-    ""
 
-# game/episode018.rpy:732
+    "L'officier savait qu'il ne fallait pas discuter et commença à aboyer des ordres à tous les soldats rassemblés."
+
+
 translate french ep018_taagmar_c923ce1e:
 
-    # c "I think we’ve seen enough, let’s use this moment to slip out and find some cover."
-    c ""
 
-# game/episode018.rpy:733
+    c "Je pense que nous en avons assez vu, profitons de ce moment pour nous éclipser et nous mettre à l'abri."
+
+
 translate french ep018_taagmar_1a92b721:
 
-    # "Everyone was running around, acting on the orders the officer had given them."
-    ""
 
-# game/episode018.rpy:735
+    "Tout le monde courait dans tous les sens, agissant selon les ordres que l'officier leur avait donnés."
+
+
 translate french ep018_taagmar_010bbb84:
 
-    # "Several men marched back to the gateway, to retrieve excavation equipment, while others proceeded to set up a base camp inside the temple."
-    ""
 
-# game/episode018.rpy:736
+    "Plusieurs hommes sont retournés à la porte pour récupérer du matériel d'excavation, tandis que d'autres ont établi un camp de base à l'intérieur du temple."
+
+
 translate french ep018_taagmar_e77169a4:
 
-    # "We marched together with a squad heading out to the Arch."
-    ""
 
-# game/episode018.rpy:738
+    "Nous avons marché ensemble avec une escouade qui se dirigeait vers l'arche."
+
+
 translate french ep018_taagmar_91ced2fd:
 
-    # "The dust storm outside wasn’t as bad as I feared, but it did limit visibility considerably, something we could use to our advantage."
-    ""
 
-# game/episode018.rpy:739
+    "La tempête de poussière à l'extérieur n'était pas aussi violente que je le craignais, mais elle limitait considérablement la visibilité, ce que nous pouvions utiliser à notre avantage."
+
+
 translate french ep018_taagmar_22ecbc9f:
 
-    # "We gradually increased our distance to the tail end of the squad and broke away after the last soldier was out of view."
-    ""
 
-# game/episode018.rpy:740
+    "Nous avons progressivement augmenté notre distance par rapport à la queue de l'escouade et nous nous sommes détachés une fois que le dernier soldat a été hors de vue."
+
+
 translate french ep018_taagmar_53bd2f7e:
 
-    # "With the temple at our backs, we had some inkling of our bearings."
-    ""
 
-# game/episode018.rpy:741
+    "Avec le temple dans notre dos, nous avions une idée de nos repères."
+
+
 translate french ep018_taagmar_b8f50884:
 
-    # "I decided to head towards the ruins we saw earlier in the distance."
-    ""
 
-# game/episode018.rpy:743
+    "J'ai décidé de me diriger vers les ruines que nous avions aperçues plus tôt au loin."
+
+
 translate french ep018_taagmar_fc4362cf:
 
-    # "As the dust storm began to clear somewhat, we reached the ruins."
-    ""
 
-# game/episode018.rpy:745
+    "Alors que la tempête de poussière commençait à se dissiper quelque peu, nous avons atteint les ruines."
+
+
 translate french ep018_taagmar_951dd895:
 
-    # c "This place should give us a good view of the comings and goings to the temple."
-    c ""
 
-# game/episode018.rpy:746
+    c "Cet endroit devrait nous permettre d'avoir une bonne vue sur les allées et venues au temple."
+
+
 translate french ep018_taagmar_be2310b8:
 
-    # e "How long before they break through that door?"
-    e ""
 
-# game/episode018.rpy:747
+    e "Combien de temps avant qu'ils ne franchissent cette porte ?"
+
+
 translate french ep018_taagmar_4027ce0d:
 
-    # na "I think it may be a while, if Agust doesn’t get his way and blows the place up."
-    na ""
 
-# game/episode018.rpy:749
+    na "Je pense que cela pourrait prendre un certain temps, si Agust n'arrive pas à ses fins et ne fait pas exploser l'endroit."
+
+
 translate french ep018_taagmar_311dd2a5:
 
-    # l "Wouldn’t it have been better to stay inside the temple?"
-    l ""
 
-# game/episode018.rpy:750
+    l "N'aurait-il pas mieux valu rester à l'intérieur du temple ?"
+
+
 translate french ep018_taagmar_0643a147:
 
-    # c "I’m not sure how long our disguises would have held up, or we could have been sent back to Taagmar for some reason."
-    c ""
 
-# game/episode018.rpy:751
+    c "Je ne sais pas combien de temps nos déguisements auraient tenu, ou nous aurions pu être renvoyés sur Taagmar pour une raison ou une autre."
+
+
 translate french ep018_taagmar_66107a33:
 
-    # c "But we’ll need to go back and see how much progress they’ve made."
-    c ""
 
-# game/episode018.rpy:752
+    c "Mais nous devrons y retourner pour voir les progrès qu'ils ont faits."
+
+
 translate french ep018_taagmar_d046694a:
 
-    # l "And then what?"
-    l ""
 
-# game/episode018.rpy:753
+    l "Et puis quoi ?"
+
+
 translate french ep018_taagmar_7e235a27:
 
-    # c "Erylin mentioned a Key."
-    c ""
 
-# game/episode018.rpy:754
+    c "Erylin a parlé d'une Clé."
+
+
 translate french ep018_taagmar_cf064cf7:
 
-    # c "I think that Key is something we need to get our hands on."
-    c ""
 
-# game/episode018.rpy:756
+    c "Je pense que cette Clé est quelque chose sur laquelle nous devons mettre la main."
+
+
 translate french ep018_taagmar_42f342f8:
 
-    # av "Let’s hope the Key isn’t as big as everything else in that temple, otherwise we’d need a truck to transport it."
-    av ""
 
-# game/episode018.rpy:757
+    av "Espérons que la Clé n'est pas aussi grosse que tout ce qui se trouve dans ce temple, sinon nous aurions besoin d'un camion pour la transporter."
+
+
 translate french ep018_taagmar_b8fb687e:
 
-    # c "The Sovereignty didn’t immediately bring the heavy gear to the temple, so I think they aren’t expecting the Key to be that big, whatever it is."
-    c ""
 
-# game/episode018.rpy:758
+    c "La Souveraineté n'a pas immédiatement apporté le matériel lourd au temple, alors je pense qu'ils ne s'attendent pas à ce que la Clé soit aussi grosse, quelle qu'elle soit."
+
+
 translate french ep018_taagmar_1c10aa7e:
 
-    # c "Anyway, we should make camp and figure out a schedule to keep watch on the temple."
-    c ""
 
-# game/episode018.rpy:760
+    c "Quoi qu'il en soit, nous devrions lever le camp et établir un programme pour surveiller le temple."
+
+
 translate french ep018_taagmar_f0cdb8e0:
 
-    # "During our exit from the temple, Kit had the bright idea to grab a bag of supplies from the heavy transport."
-    ""
 
-# game/episode018.rpy:761
+    "Pendant notre sortie du temple, Kit a eu la bonne idée d'attraper un sac de fournitures dans le transport lourd."
+
+
 translate french ep018_taagmar_24e91c98:
 
-    # "We used the supplies he took to set up camp and explored the ruins."
-    ""
 
-# game/episode018.rpy:762
+    "Nous avons utilisé les fournitures qu'il avait prises pour monter le camp et explorer les ruines."
+
+
 translate french ep018_taagmar_567aed53:
 
-    # "Luckily, not everything was reduced to rubble, some structures still stood, or at least partly."
-    ""
 
-# game/episode018.rpy:763
+    "Heureusement, tout n'était pas réduit à l'état de décombres, certaines structures tenaient encore debout, ou du moins en partie."
+
+
 translate french ep018_taagmar_698631b1:
 
-    # "We found a small square with several small adjoining buildings."
-    ""
 
-# game/episode018.rpy:765
+    "Nous avons trouvé une petite place avec plusieurs petits bâtiments attenants."
+
+
 translate french ep018_taagmar_29ec0b1f:
 
-    # "The position sheltered us from anyone passing by and it was relatively defensible."
-    ""
 
-# game/episode018.rpy:766
+    "La position nous abritait de tous ceux qui passaient par là et elle était relativement défendable."
+
+
 translate french ep018_taagmar_243a2a41:
 
-    # "We divided our sleeping bags over the buildings and decided the guard duty order during the day."
-    ""
 
-# game/episode018.rpy:767
+    "Nous avons réparti nos sacs de couchage sur les bâtiments et décidé de l'ordre de garde pendant la journée."
+
+
 translate french ep018_taagmar_ed7c7264:
 
-    # "Then, all we had to do was wait."
-    ""
 
-# game/episode018.rpy:775
+    "Il ne nous restait plus qu'à attendre."
+
+
 translate french ep018_temple_43177dc6:
 
-    # "There was a lot of activity in and around the temple the following days."
-    ""
 
-# game/episode018.rpy:776
+    "Les jours suivants, il y a eu beaucoup d'activité à l'intérieur et autour du temple."
+
+
 translate french ep018_temple_01310b79:
 
-    # "On the second day, heavy machinery was brought through the gateway and into the temple."
-    ""
 
-# game/episode018.rpy:777
+    "Le deuxième jour, des machines lourdes ont été introduites dans le temple par le portail."
+
+
 translate french ep018_temple_22bafb0f:
 
-    # "The gateway was open day and night and guarded at all times."
-    ""
 
-# game/episode018.rpy:779
+    "Le portail était ouvert jour et nuit et gardé en permanence."
+
+
 translate french ep018_temple_ee0d733b:
 
-    # "More heavy equipment kept pouring in the next day, indicating a distinct lack of progress breaching the door."
-    ""
 
-# game/episode018.rpy:780
+    "D'autres engins lourds ont continué à affluer le lendemain, ce qui indique une nette absence de progrès pour franchir la porte."
+
+
 translate french ep018_temple_3a98ce71:
 
-    # "The armored vehicle containing my father and his allies had left on the first day and didn’t return."
-    ""
 
-# game/episode018.rpy:781
+    "Le véhicule blindé contenant mon père et ses alliés était parti le premier jour et n'était pas revenu."
+
+
 translate french ep018_temple_37a3f2ef:
 
-    # "They were probably waiting on the good news somewhere cozy high above the rubble that once was Taagmar."
-    ""
 
-# game/episode018.rpy:783
+    "Ils attendaient probablement les bonnes nouvelles quelque part, confortablement installés au-dessus des décombres de l'ancienne ville de Taagmar."
+
+
 translate french ep018_temple_fc099217:
 
-    # "After four days, we noticed the armored vehicle speeding towards the temple, followed by a contingent of soldiers."
-    ""
 
-# game/episode018.rpy:784
+    "Au bout de quatre jours, nous avons remarqué que le véhicule blindé se dirigeait à toute vitesse vers le temple, suivi d'un contingent de soldats."
+
+
 translate french ep018_temple_e0403681:
 
-    # "The excavation team must have had some success opening the doors, or my father had become bored and just wanted to needle his minions."
-    ""
 
-# game/episode018.rpy:785
+    "L'équipe de fouilles avait dû réussir à ouvrir les portes, ou bien mon père s'était ennuyé et voulait juste aiguiser ses sous-fifres."
+
+
 translate french ep018_temple_91c73756:
 
-    # "Either way we had to check out the situation."
-    ""
 
-# game/episode018.rpy:787
+    "Quoi qu'il en soit, nous devions vérifier la situation."
+
+
 translate french ep018_temple_7c293790:
 
-    # "The crew quickly assembled all the sleeping gear and after a few minutes we crossed the plain towards the temple."
-    ""
 
-# game/episode018.rpy:788
+    "L'équipe a rapidement rassemblé tout le matériel de couchage et après quelques minutes, nous avons traversé la plaine en direction du temple."
+
+
 translate french ep018_temple_6bf931c8:
 
-    # "We made sure we weren’t seen by the approaching column of soldiers."
-    ""
 
-# game/episode018.rpy:789
+    "Nous nous sommes assurés de ne pas être vus par la colonne de soldats qui approchait."
+
+
 translate french ep018_temple_c9b7a648:
 
-    # "The idea was to emerge around the back of the temple, pretending to be a patrol, and join the approaching soldiers near the entrance."
-    ""
 
-# game/episode018.rpy:791
+    "L'idée était de ressortir par l'arrière du temple, en se faisant passer pour une patrouille, et de rejoindre les soldats en approche près de l'entrée."
+
+
 translate french ep018_temple_3fd8a2a4:
 
-    # "We didn’t encounter any sentries, nor rival patrols, so we could merge neatly with the soldiers who had arrived by the time we came around the corner."
-    ""
 
-# game/episode018.rpy:792
+    "Nous n'avons pas rencontré de sentinelles, ni de patrouilles rivales, si bien que nous avons pu nous fondre proprement parmi les soldats qui étaient arrivés au moment où nous avons franchi le virage."
+
+
 translate french ep018_temple_6b518aa9:
 
-    # "The main hall of the temple was crowding with soldiers, personnel and the machinery that had been brought in over the past few days."
-    ""
 
-# game/episode018.rpy:794
+    "Le hall principal du temple était bondé de soldats, de personnel et des machines qui avaient été amenées ces derniers jours."
+
+
 translate french ep018_temple_e20e64ca:
 
-    # "Agust, Kvi, the Confessor and Erylin were standing in front of the door that was deemed impenetrable when the Sovereignty forces had just arrived at the temple."
-    ""
 
-# game/episode018.rpy:796
+    "Agust, Kvi, l'Inquisiteur et Erylin se tenaient devant la porte réputée impénétrable lorsque les forces de la Souveraineté venaient d'arriver au temple."
+
+
 translate french ep018_temple_3f42c856:
 
-    # "The workmen had visibly chiseled, carved, and battered away at the door."
-    ""
 
-# game/episode018.rpy:797
+    "Les ouvriers avaient visiblement ciselé, sculpté et malmené la porte."
+
+
 translate french ep018_temple_b8556bdb:
 
-    # "They must have succeeded in opening it, considering the foreman who was positively beaming in front of it."
-    ""
 
-# game/episode018.rpy:798
+    "Ils ont dû réussir à l'ouvrir, vu le contremaître qui rayonnait positivement devant."
+
+
 translate french ep018_temple_f7009905:
 
-    # ag "Well, what are you waiting for, open it up?"
-    ag ""
 
-# game/episode018.rpy:800
+    ag "Alors, qu'attendez-vous pour l'ouvrir ?"
+
+
 translate french ep018_temple_f68aa9fb:
 
-    # "My father, ever a beacon of patience, managed to wipe the satisfied smile from the foreman’s face in a heartbeat."
-    ""
 
-# game/episode018.rpy:801
+    "Mon père, toujours aussi patient, a réussi à effacer en un clin d'œil le sourire satisfait du contremaître."
+
+
 translate french ep018_temple_c04eef80:
 
-    # "The overseer ordered a couple of the workmen to push at the door, which began to inch open with a dusty groan."
-    ""
 
-# game/episode018.rpy:802
+    "Le contremaître ordonna à quelques ouvriers de pousser la porte, qui commença à s'ouvrir avec un gémissement poussiéreux."
+
+
 translate french ep018_temple_1dde0a46:
 
-    # "Agust and company waited with thinly-veiled impatience for the reveal of the room behind the door."
-    ""
 
-# game/episode018.rpy:804
+    "Agust et ses compagnons attendent avec une impatience à peine voilée la révélation de la pièce qui se trouve derrière la porte."
+
+
 translate french ep018_temple_c0cf855c:
 
-    # "The chamber behind the door bathed in a purple glow."
-    ""
 
-# game/episode018.rpy:805
+    "La chambre derrière la porte baignait dans une lueur violette."
+
+
 translate french ep018_temple_30d7609c:
 
-    # "The workers stepped aside to allow Agust and the others a clear view."
-    ""
 
-# game/episode018.rpy:807
+    "Les ouvriers s'écartèrent pour permettre à Agust et aux autres d'avoir une vue dégagée."
+
+
 translate french ep018_temple_5c7314eb:
 
-    # ag "So this is it?"
-    ag ""
 
-# game/episode018.rpy:809
+    ag "Alors, c'est ça ?"
+
+
 translate french ep018_temple_6fd367da:
 
-    # co "Yes, this is the key."
-    co ""
 
-# game/episode018.rpy:810
+    co "Oui, c'est la clé."
+
+
 translate french ep018_temple_f3df1f86:
 
-    # ag "Finally."
-    ag ""
 
-# game/episode018.rpy:812
+    ag "Enfin."
+
+
 translate french ep018_temple_859d2315:
 
-    # ag "Load the thing on a transport, we’re done here."
-    ag ""
 
-# game/episode018.rpy:815
+    ag "Chargez la chose sur un transport, nous en avons fini ici."
+
+
 translate french ep018_temple_2851ec34:
 
-    # man "Sir, shouldn’t we check for boobytraps, or if the object can be lifted at all?"
-    man ""
 
-# game/episode018.rpy:816
+    man "Monsieur, ne devrions-nous pas vérifier s'il y a des pièges, ou si l'objet peut être soulevé ?"
+
+
 translate french ep018_temple_f3174631:
 
-    # ag "Is this thing likely to be trapped, Confessor?"
-    ag ""
 
-# game/episode018.rpy:818
+    ag "Cette chose est-elle susceptible d'être piégée, Inquisiteur ?"
+
+
 translate french ep018_temple_a78ef157:
 
-    # co "Unlikely, but one can never be sure."
-    co ""
 
-# game/episode018.rpy:820
+    co "C'est peu probable, mais on ne peut jamais être sûr."
+
+
 translate french ep018_temple_6238ed72:
 
-    # ag "See, no danger."
-    ag ""
 
-# game/episode018.rpy:821
+    ag "Tu vois, il n'y a pas de danger."
+
+
 translate french ep018_temple_0cd1a294:
 
-    # ag "You have your orders, get that thing on a transport so we can get out of here."
-    ag ""
 
-# game/episode018.rpy:822
+    ag "Vous avez vos ordres, mettez cette chose dans un transport pour que nous puissions sortir d'ici."
+
+
 translate french ep018_temple_d4ed9e80:
 
-    # ag "You’ve wasted enough time already."
-    ag ""
 
-# game/episode018.rpy:823
+    ag "Vous avez déjà perdu assez de temps."
+
+
 translate french ep018_temple_17ca49c6:
 
-    # ag "We’re heading back, if that thing doesn’t come through the gate in one hour I’ll see you demoted."
-    ag ""
 
-# game/episode018.rpy:825
+    ag "Nous rentrons, si cette chose ne franchit pas la porte dans une heure, je vous verrai rétrogradé."
+
+
 translate french ep018_temple_bc96ffa0:
 
-    # man "Yes sir, it will be done, sir."
-    man ""
 
-# game/episode018.rpy:827
+    man "Oui monsieur, ce sera fait, monsieur."
+
+
 translate french ep018_temple_aee57b0e:
 
-    # ki "Now what are we going to do?"
-    ki ""
 
-# game/episode018.rpy:828
+    ki "Maintenant, qu'allons-nous faire ?"
+
+
 translate french ep018_temple_c7e0d57c:
 
-    # c "We’re going to ride that transport and steal it once it reaches Taagmar."
-    c ""
 
-# game/episode018.rpy:829
+    c "Nous allons monter sur ce transport et le voler une fois qu'il aura atteint Taagmar."
+
+
 translate french ep018_temple_65938700:
 
-    # ki "How?"
-    ki ""
 
-# game/episode018.rpy:830
+    ki "Comment ?"
+
+
 translate french ep018_temple_3c5ca4d3:
 
-    # c "Just follow my lead."
-    c ""
 
-# game/episode018.rpy:840
+    c "Suis mon exemple."
+
+
 translate french ep018_ruins_nadya_f33dbc1e:
 
-    # c "What did you make of that little performance of the Confessor back at the Arch?"
-    c ""
 
-# game/episode018.rpy:841
+    c "Qu'as-tu pensé de la petite représentation de l'Inquisiteur à l'Arche ?"
+
+
 translate french ep018_ruins_nadya_d1731160:
 
-    # na "It was rather theatrical, but Agust and the rest of them seemed to take it seriously."
-    na ""
 
-# game/episode018.rpy:842
+    na "C'était plutôt théâtral, mais Agust et les autres semblaient le prendre au sérieux."
+
+
 translate french ep018_ruins_nadya_09366684:
 
-    # c "Yes, they did."
-    c ""
 
-# game/episode018.rpy:843
+    c "Oui, c'est vrai."
+
+
 translate french ep018_ruins_nadya_400b1eea:
 
-    # c "He must have planned a lot of it beforehand."
-    c ""
 
-# game/episode018.rpy:845
+    c "Il a dû en planifier une bonne partie à l'avance."
+
+
 translate french ep018_ruins_nadya_a378c4a8:
 
-    # na "Yes, I think he knew where the Arch was and how to activate it."
-    na ""
 
-# game/episode018.rpy:846
+    na "Oui, je pense qu'il savait où se trouvait l'Arche et comment l'activer."
+
+
 translate french ep018_ruins_nadya_ce4fc87d:
 
-    # na "The hocus pocus wasn’t necessary, but it seemed effective."
-    na ""
 
-# game/episode018.rpy:847
+    na "Les tours de passe-passe n'étaient pas nécessaires, mais ils semblaient efficaces."
+
+
 translate french ep018_ruins_nadya_a25167bc:
 
-    # c "Why do you think the Confessor is trying to fulfill the Prophecy?"
-    c ""
 
-# game/episode018.rpy:848
+    c "Pourquoi penses-tu que l'Inquisiteur essaie d'accomplir la prophétie ?"
+
+
 translate french ep018_ruins_nadya_83d8cefc:
 
-    # na "The wording is very vague, unfortunately."
-    na ""
 
-# game/episode018.rpy:849
+    na "La formulation est très vague, malheureusement."
+
+
 translate french ep018_ruins_nadya_37d8cdbc:
 
-    # na "It’s likely the promise of power that draws him."
-    na ""
 
-# game/episode018.rpy:850
+    na "C'est probablement la promesse de pouvoir qui l'attire."
+
+
 translate french ep018_ruins_nadya_2b506b64:
 
-    # c "Power?"
-    c ""
 
-# game/episode018.rpy:852
+    c "Le pouvoir ?"
+
+
 translate french ep018_ruins_nadya_d89976e0:
 
-    # na "It just seems to be something a person like the Confessor is interested in."
-    na ""
 
-# game/episode018.rpy:853
+    na "Cela semble simplement être quelque chose qui intéresse une personne comme l'Inquisiteur."
+
+
 translate french ep018_ruins_nadya_a7444a26:
 
-    # na "Agust sure is."
-    na ""
 
-# game/episode018.rpy:855
+    na "Agust, lui, l'est."
+
+
 translate french ep018_ruins_nadya_df9c466d:
 
-    # c "Quite a performance of the Confessor back at the Arch, don’t you think?"
-    c ""
 
-# game/episode018.rpy:856
+    c "Sacrée performance de l'Inquisiteur devant l'Arche, tu ne trouves pas ?"
+
+
 translate french ep018_ruins_nadya_44bda013:
 
-    # na "Seems exactly the kind of thing Agust finds impressive."
-    na ""
 
-# game/episode018.rpy:857
+    na "C'est exactement le genre de chose qu'Agust trouve impressionnant."
+
+
 translate french ep018_ruins_nadya_8f1b7c19:
 
-    # na "He did like those dreadful three-penny melodramas back when we were young."
-    na ""
 
-# game/episode018.rpy:858
+    na "Il aimait bien ces épouvantables mélodrames à trois sous quand nous étions jeunes."
+
+
 translate french ep018_ruins_nadya_efe03d33:
 
-    # na "Some old guy waving his hands dramatically, pretending to be a wizard, has just the right melodramatic power Agust likes."
-    na ""
 
-# game/episode018.rpy:859
+    na "Un vieux monsieur qui agite ses mains de façon théâtrale en prétendant être un magicien a exactement le pouvoir mélodramatique qu'Agust aime."
+
+
 translate french ep018_ruins_nadya_dce8b2e0:
 
-    # c "What do you think the Key in the temple is?"
-    c ""
 
-# game/episode018.rpy:861
+    c "À ton avis, qu'est-ce que la clé du temple ?"
+
+
 translate french ep018_ruins_nadya_147f8ce3:
 
-    # na "That’s a good question."
-    na ""
 
-# game/episode018.rpy:862
+    na "C'est une bonne question."
+
+
 translate french ep018_ruins_nadya_18822e8f:
 
-    # na "A key of course implies that there’s something that will unlock."
-    na ""
 
-# game/episode018.rpy:863
+    na "Une clé implique bien sûr qu'il y a quelque chose qui va se déverrouiller."
+
+
 translate french ep018_ruins_nadya_1db38fb2:
 
-    # c "Another gateway perhaps?"
-    c ""
 
-# game/episode018.rpy:864
+    c "Un autre portail peut-être ?"
+
+
 translate french ep018_ruins_nadya_641737c2:
 
-    # na "A very likely possibility."
-    na ""
 
-# game/episode018.rpy:865
+    na "C'est une possibilité très probable."
+
+
 translate french ep018_ruins_nadya_761ca71a:
 
-    # na "I keep wondering who built all this."
-    na ""
 
-# game/episode018.rpy:866
+    na "Je me demande toujours qui a construit tout cela."
+
+
 translate french ep018_ruins_nadya_43d76748:
 
-    # na "The architecture doesn’t feel very familiar, nor do the construction materials that were used."
-    na ""
 
-# game/episode018.rpy:867
+    na "L'architecture ne me semble pas très familière, pas plus que les matériaux de construction utilisés."
+
+
 translate french ep018_ruins_nadya_ee89e3e7:
 
-    # c "I mostly see a lot of rubble."
-    c ""
 
-# game/episode018.rpy:869
+    c "Je vois surtout beaucoup de décombres."
+
+
 translate french ep018_ruins_nadya_7763a6ae:
 
-    # na "There’s that, but the structures that are still standing, more or less, are very simple."
-    na ""
 
-# game/episode018.rpy:870
+    na "Il y a ça, mais les structures qui sont encore debout, plus ou moins, sont très simples."
+
+
 translate french ep018_ruins_nadya_675eb294:
 
-    # na "These ruins might be very old, as is the temple."
-    na ""
 
-# game/episode018.rpy:871
+    na "Ces ruines sont peut-être très anciennes, tout comme le temple."
+
+
 translate french ep018_ruins_nadya_b21f9a53:
 
-    # c "This was once a sprawling metropolis, with the temple at its centre?"
-    c ""
 
-# game/episode018.rpy:872
+    c "C'était autrefois une métropole tentaculaire, avec le temple en son centre ?"
+
+
 translate french ep018_ruins_nadya_07fdf6f2:
 
-    # na "Possibly."
-    na ""
 
-# game/episode018.rpy:873
+    na "C'est possible."
+
+
 translate french ep018_ruins_nadya_8a59bf08:
 
-    # na "The temple is older though, so the city must have grown around it."
-    na ""
 
-# game/episode018.rpy:874
+    na "Le temple est plus ancien, donc la ville a dû grandir autour de lui."
+
+
 translate french ep018_ruins_nadya_4a34ab3c:
 
-    # c "And then it all fell to ruin at some point."
-    c ""
 
-# game/episode018.rpy:875
+    c "Et puis tout est tombé en ruine à un moment donné."
+
+
 translate french ep018_ruins_nadya_b85d1c70:
 
-    # na "Yes, though that has happened a long time ago as well."
-    na ""
 
-# game/episode018.rpy:876
+    na "Oui, mais cela s'est passé il y a longtemps aussi."
+
+
 translate french ep018_ruins_nadya_625ff8d6:
 
-    # c "No chance of meeting the locals then?"
-    c ""
 
-# game/episode018.rpy:878
+    c "Aucune chance de rencontrer les habitants, alors ?"
+
+
 translate french ep018_ruins_nadya_1050c096:
 
-    # na "There’s always a chance, but it’s a very slim one."
-    na ""
 
-# game/episode018.rpy:879
+    na "Il y a toujours une chance, mais elle est très mince."
+
+
 translate french ep018_ruins_nadya_cff0dca4:
 
-    # c "Maybe they’ve migrated to another part of the planet, or whatever this place is."
-    c ""
 
-# game/episode018.rpy:881
+    c "Peut-être ont-ils migré vers une autre partie de la planète, ou quel que soit cet endroit."
+
+
 translate french ep018_ruins_nadya_79043e8b:
 
-    # na "In that case we still lack the means to travel large distances."
-    na ""
 
-# game/episode018.rpy:882
+    na "Dans ce cas, nous n'avons toujours pas les moyens de parcourir de grandes distances."
+
+
 translate french ep018_ruins_nadya_7fcbea74:
 
-    # c "Let’s stick close to our mortal enemies in that case."
-    c ""
 
-# game/episode018.rpy:884
+    c "Dans ce cas, restons près de nos ennemis mortels."
+
+
 translate french ep018_ruins_nadya_7ede79d3:
 
-    # na "Quite."
-    na ""
 
-# game/episode018.rpy:886
+    na "Tout à fait."
+
+
 translate french ep018_ruins_nadya_6010ab43:
 
-    # na "How are you holding up?"
-    na ""
 
-# game/episode018.rpy:887
+    na "Comment tiens-tu le coup ?"
+
+
 translate french ep018_ruins_nadya_4d3f3918:
 
-    # c "In what way?"
-    c ""
 
-# game/episode018.rpy:889
+    c "De quelle façon ?"
+
+
 translate french ep018_ruins_nadya_6900c492:
 
-    # na "Well, I can’t imagine the trek across the desert was a relaxing experience."
-    na ""
 
-# game/episode018.rpy:890
+    na "Je n'imagine pas que la traversée du désert ait été une expérience relaxante."
+
+
 translate french ep018_ruins_nadya_33e396db:
 
-    # na "Eva mentioned you were out of water when the mercenaries found you."
-    na ""
 
-# game/episode018.rpy:891
+    na "Eva a mentionné que vous n'aviez plus d'eau quand les mercenaires vous ont trouvés."
+
+
 translate french ep018_ruins_nadya_8637cbb7:
 
-    # c "Just about, yeah."
-    c ""
 
-# game/episode018.rpy:892
+    c "À peu près, oui."
+
+
 translate french ep018_ruins_nadya_03371d26:
 
-    # c "It’s been such a rush from the moment we left Altum Station and crashed into that desert."
-    c ""
 
-# game/episode018.rpy:893
+    c "Ça a été une telle ruée depuis le moment où nous avons quitté la station Altum et où nous nous sommes écrasés dans ce désert."
+
+
 translate french ep018_ruins_nadya_e7528bb7:
 
-    # c "The nights were terrible."
-    c ""
 
-# game/episode018.rpy:894
+    c "Les nuits étaient terribles."
+
+
 translate french ep018_ruins_nadya_e7d33841:
 
-    # na "Cold?"
-    na ""
 
-# game/episode018.rpy:895
+    na "Froide ?"
+
+
 translate french ep018_ruins_nadya_a54a9bb3:
 
-    # c "That, but the dreams didn’t help."
-    c ""
 
-# game/episode018.rpy:897
+    c "Ça, mais les rêves n'ont pas aidé."
+
+
 translate french ep018_ruins_nadya_96aee6f9:
 
-    # na "What did you dream about?"
-    na ""
 
-# game/episode018.rpy:898
+    na "De quoi as-tu rêvé ?"
+
+
 translate french ep018_ruins_nadya_970202f0:
 
-    # c "The Scolguin Queen and her court came for a visit."
-    c ""
 
-# game/episode018.rpy:900
+    c "La reine Scolguin et sa cour sont venues nous rendre visite."
+
+
 translate french ep018_ruins_nadya_600039e8:
 
-    # na "Maybe your subconscious processing past events?"
-    na ""
 
-# game/episode018.rpy:901
+    na "Peut-être que ton subconscient traite des événements passés ?"
+
+
 translate french ep018_ruins_nadya_fe99f19a:
 
-    # c "Maybe...{w} It felt too real though."
-    c ""
 
-# game/episode018.rpy:902
+    c "Peut-être...{w} Mais ça semblait trop réel."
+
+
 translate french ep018_ruins_nadya_47ad1421:
 
-    # c "Like they have their hooks inside my mind now, after the Tasting, I mean."
-    c ""
 
-# game/episode018.rpy:904
+    c "C'est comme si elles avaient mis le grappin sur mon esprit, après la dégustation."
+
+
 translate french ep018_ruins_nadya_ba296797:
 
-    # na "It sounds that they have managed something like that."
-    na ""
 
-# game/episode018.rpy:905
+    na "On dirait qu'elles ont réussi quelque chose comme ça."
+
+
 translate french ep018_ruins_nadya_476431b6:
 
-    # c "Yeah. Not great."
-    c ""
 
-# game/episode018.rpy:907
+    c "Oui. Ce n'est pas génial."
+
+
 translate french ep018_ruins_nadya_e420a9be:
 
-    # c "That’s why I won’t let them touch you anytime ever."
-    c ""
 
-# game/episode018.rpy:909
+    c "C'est pourquoi je ne les laisserai jamais te toucher."
+
+
 translate french ep018_ruins_nadya_097a3725:
 
-    # na "We’ve made a deal with them, [p_name_short]."
-    na ""
 
-# game/episode018.rpy:910
+    na "Nous avons passé un accord avec elles, [p_name_short]."
+
+
 translate french ep018_ruins_nadya_25b903e2:
 
-    # c "Deals can be renegotiated."
-    c ""
 
-# game/episode018.rpy:912
+    c "Les accords peuvent être renégociés."
+
+
 translate french ep018_ruins_nadya_01733627:
 
-    # c "That’s why I’m not going to let them touch me anytime ever."
-    c ""
 
-# game/episode018.rpy:913
+    c "C'est pourquoi je ne les laisserai jamais me toucher."
+
+
 translate french ep018_ruins_nadya_4fc26193:
 
-    # na "Good idea, but how will you manage that?"
-    na ""
 
-# game/episode018.rpy:915
+    na "Bonne idée, mais comment vas-tu t'y prendre ?"
+
+
 translate french ep018_ruins_nadya_4acc2f14:
 
-    # na "It’s us against an entire species."
-    na ""
 
-# game/episode018.rpy:916
+    na "C'est nous contre une espèce entière."
+
+
 translate french ep018_ruins_nadya_468d7316:
 
-    # c "We’ll find a way."
-    c ""
 
-# game/episode018.rpy:917
+    c "Nous trouverons un moyen."
+
+
 translate french ep018_ruins_nadya_794c1b4c:
 
-    # c "Besides, we still have ten years to find a solution."
-    c ""
 
-# game/episode018.rpy:919
+    c "D'ailleurs, nous avons encore dix ans pour trouver une solution."
+
+
 translate french ep018_ruins_nadya_78ed2c50:
 
-    # na "I hope that’s enough time."
-    na ""
 
-# game/episode018.rpy:922
+    na "J'espère que c'est assez de temps."
+
+
 translate french ep018_ruins_nadya_c7bdde9c:
 
-    # "I embraced my mother in response and we stood together for a while, overlooking the ancient plain."
-    ""
 
-# game/episode018.rpy:924
+    "J'ai embrassé ma mère en réponse et nous sommes restés ensemble un moment, surplombant l'ancienne plaine."
+
+
 translate french ep018_ruins_nadya_35711bd8:
 
-    # "I embraced Nadya in response and we stood together for a while, overlooking the ancient plain."
-    ""
 
-# game/episode018.rpy:933
+    "J'ai embrassé Nadya en réponse et nous sommes restés ensemble un moment, surplombant la plaine antique."
+
+
 translate french ep018_ruins_vess_164c0894:
 
-    # c "Are you doing okay?"
-    c ""
 
-# game/episode018.rpy:935
+    c "Est-ce que tu vas bien ?"
+
+
 translate french ep018_ruins_vess_98cf3653:
 
-    # ve "Sure."
-    ve ""
 
-# game/episode018.rpy:937
+    ve "Bien sûr."
+
+
 translate french ep018_ruins_vess_d98e55a2:
 
-    # ve "Though it’s strange to see the Confessor after all this time, even from a distance."
-    ve ""
 
-# game/episode018.rpy:938
+    ve "Même si c'est étrange de voir l'Inquisiteur après tout ce temps, même à distance."
+
+
 translate french ep018_ruins_vess_0da57f1a:
 
-    # c "I can imagine."
-    c ""
 
-# game/episode018.rpy:939
+    c "Je m'en doute bien."
+
+
 translate french ep018_ruins_vess_d2240100:
 
-    # c "You knew him quite well, didn’t you?"
-    c ""
 
-# game/episode018.rpy:941
+    c "Tu le connaissais bien, n'est-ce pas ?"
+
+
 translate french ep018_ruins_vess_67a658b4:
 
-    # c "I want to talk to you about the Confessor."
-    c ""
 
-# game/episode018.rpy:943
+    c "Je voudrais te parler de l'Inquisiteur."
+
+
 translate french ep018_ruins_vess_187aa480:
 
-    # ve "Of course."
-    ve ""
 
-# game/episode018.rpy:944
+    ve "Bien sûr."
+
+
 translate french ep018_ruins_vess_c18a529c:
 
-    # c "You knew him quite well, right?"
-    c ""
 
-# game/episode018.rpy:946
+    c "Tu l'as bien connue, n'est-ce pas ?"
+
+
 translate french ep018_ruins_vess_5f9b602b:
 
-    # ve "He was like a father to me, or a grandfather, to be more accurate."
-    ve ""
 
-# game/episode018.rpy:947
+    ve "Il était comme un père pour moi, ou un grand-père, pour être plus précis."
+
+
 translate french ep018_ruins_vess_31e2118a:
 
-    # c "You said he’s fond of impressing people with his alleged magical abilities."
-    c ""
 
-# game/episode018.rpy:948
+    c "Tu as dit qu'il aimait impressionner les gens avec ses prétendues capacités magiques."
+
+
 translate french ep018_ruins_vess_334da882:
 
-    # ve "Yes, it’s part of his persona."
-    ve ""
 
-# game/episode018.rpy:949
+    ve "Oui, cela fait partie de son personnage."
+
+
 translate french ep018_ruins_vess_ac3f358b:
 
-    # ve "His Handmaidens are aware of the truth, of course and he confided in me a lot."
-    ve ""
 
-# game/episode018.rpy:950
+    ve "Ses Servantes sont au courant de la vérité, bien sûr, et il s'est beaucoup confié à moi."
+
+
 translate french ep018_ruins_vess_758afe1f:
 
-    # ve "The way he works is that he always tries to be the person in the room who knows the most about everything and also knows all there is about everyone else in the room."
-    ve ""
 
-# game/episode018.rpy:951
+    ve "Il essaie toujours d'être la personne dans la pièce qui en sait le plus sur tout et qui sait aussi tout ce qu'il y a sur toutes les autres personnes dans la pièce."
+
+
 translate french ep018_ruins_vess_9335f330:
 
-    # ve "Before he swoops in to convert or recruit potential allies, his Handmaidens will have covertly gathered information months before."
-    ve ""
 
-# game/episode018.rpy:952
+    ve "Avant qu'il n'intervienne pour convertir ou recruter des alliés potentiels, ses servantes auront secrètement recueilli des informations des mois auparavant."
+
+
 translate french ep018_ruins_vess_d9860706:
 
-    # ve "Anything that will give him an edge over someone else."
-    ve ""
 
-# game/episode018.rpy:953
+    ve "Tout ce qui peut lui donner un avantage sur quelqu'un d'autre."
+
+
 translate french ep018_ruins_vess_1caace9e:
 
-    # ve "When the operation actually kicks off and the Confessor visits a point or person of interest, the encounter will have been planned out from the start."
-    ve ""
 
-# game/episode018.rpy:954
+    ve "Lorsque l'opération démarre réellement et que l'Inquisiteur visite un point ou une personne d'intérêt, la rencontre aura été planifiée dès le départ."
+
+
 translate french ep018_ruins_vess_96aad39c:
 
-    # c "So, that performance before the Arch?"
-    c ""
 
-# game/episode018.rpy:956
+    c "Alors, ce spectacle devant l'Arche ?"
+
+
 translate french ep018_ruins_vess_ad277a74:
 
-    # ve "That surely wasn’t improvised in the spur of the moment."
-    ve ""
 
-# game/episode018.rpy:958
+    ve "Cela n'a sûrement pas été improvisé sur un coup de tête."
+
+
 translate french ep018_ruins_vess_a48e9963:
 
-    # ve "The Confessor must have known about the Arch and the procedure to activate it."
-    ve ""
 
-# game/episode018.rpy:959
+    ve "L'Inquisiteur doit avoir eu connaissance de l'existence de l'arche et de la procédure pour l'activer."
+
+
 translate french ep018_ruins_vess_875e3410:
 
-    # ve "The gestures and practical effects were also prepared in advance."
-    ve ""
 
-# game/episode018.rpy:960
+    ve "Les gestes et les effets pratiques ont également été préparés à l'avance."
+
+
 translate french ep018_ruins_vess_fc589f57:
 
-    # c "And people buy those tricks?"
-    c ""
 
-# game/episode018.rpy:962
+    c "Et les gens achètent ces tours ?"
+
+
 translate french ep018_ruins_vess_69d28b08:
 
-    # ve "Mostly, yes."
-    ve ""
 
-# game/episode018.rpy:963
+    ve "La plupart du temps, oui."
+
+
 translate french ep018_ruins_vess_3afb223d:
 
-    # ve "The Confessor is a very confident man, charismatic as well."
-    ve ""
 
-# game/episode018.rpy:964
+    ve "L'Inquisiteur est un homme très sûr de lui, charismatique de surcroît."
+
+
 translate french ep018_ruins_vess_f10740ec:
 
-    # ve "And he’s driven as well, his whole life is dedicated to pursuing the Prophecy."
-    ve ""
 
-# game/episode018.rpy:965
+    ve "Et il est aussi motivé, toute sa vie est consacrée à la poursuite de la prophétie."
+
+
 translate french ep018_ruins_vess_05a91b11:
 
-    # c "What does he hope to gain by it?"
-    c ""
 
-# game/episode018.rpy:966
+    c "Qu'espère-t-il en tirer ?"
+
+
 translate french ep018_ruins_vess_85392205:
 
-    # ve "Power, or the promise of it."
-    ve ""
 
-# game/episode018.rpy:967
+    ve "Le pouvoir, ou la promesse d'un tel pouvoir."
+
+
 translate french ep018_ruins_vess_36cbad3f:
 
-    # c "That still sounds a little vague."
-    c ""
 
-# game/episode018.rpy:969
+    c "Cela semble encore un peu vague."
+
+
 translate french ep018_ruins_vess_eebd9945:
 
-    # ve "It is, but the promise of wielding it is good enough for the Confessor."
-    ve ""
 
-# game/episode018.rpy:970
+    ve "C'est le cas, mais la promesse de le manier est suffisante pour l'Inquisiteur."
+
+
 translate french ep018_ruins_vess_d9a48a7c:
 
-    # c "Probably the reason my father is interested all of a sudden as well."
-    c ""
 
-# game/episode018.rpy:971
+    c "C'est probablement la raison pour laquelle mon père s'y intéresse tout à coup."
+
+
 translate french ep018_ruins_vess_2ff07529:
 
-    # ve "From what I know of your father, that seems likely."
-    ve ""
 
-# game/episode018.rpy:972
+    ve "D'après ce que je sais de ton père, cela semble probable."
+
+
 translate french ep018_ruins_vess_7cf974d2:
 
-    # c "Did the Confessor share a lot of his secrets with you?"
-    c ""
 
-# game/episode018.rpy:974
+    c "L'Inquisiteur a-t-il partagé beaucoup de ses secrets avec toi ?"
+
+
 translate french ep018_ruins_vess_55efba57:
 
-    # ve "I was supposed to be his surrogate grandchild, remember?"
-    ve ""
 
-# game/episode018.rpy:975
+    ve "J'étais censée être sa petite-fille de substitution, tu te souviens ?"
+
+
 translate french ep018_ruins_vess_d8d5bdf2:
 
-    # ve "So he told me about the sleights of hand he liked to perform in order to impress gullible would-be believers."
-    ve ""
 
-# game/episode018.rpy:977
+    ve "Il m'a donc parlé des tours de passe-passe qu'il aimait réaliser pour impressionner les croyants crédules en puissance."
+
+
 translate french ep018_ruins_vess_f762ce8f:
 
-    # ve "But his interpretation of the Prophecy or his goals he kept hidden even from me."
-    ve ""
 
-# game/episode018.rpy:979
+    ve "Mais son interprétation de la prophétie ou ses objectifs, il me les a cachés."
+
+
 translate french ep018_ruins_vess_83e3bdd5:
 
-    # ve "Looking back at it all, almost everything he told me was a means of instructing me."
-    ve ""
 
-# game/episode018.rpy:980
+    ve "En y repensant, presque tout ce qu'il m'a dit était un moyen de m'instruire."
+
+
 translate french ep018_ruins_vess_12e45821:
 
-    # c "What do you mean exactly?"
-    c ""
 
-# game/episode018.rpy:981
+    c "Que veux-tu dire exactement ?"
+
+
 translate french ep018_ruins_vess_83a76cca:
 
-    # ve "He tried to mold me from a young age."
-    ve ""
 
-# game/episode018.rpy:982
+    ve "Il a essayé de me former dès mon plus jeune âge."
+
+
 translate french ep018_ruins_vess_9f9feba5:
 
-    # ve "Slipping in enough personal details, but all the time adjusting my view on life a certain way."
-    ve ""
 
-# game/episode018.rpy:983
+    ve "Il m'a glissé suffisamment de détails personnels, mais tout en ajustant ma vision de la vie d'une certaine manière."
+
+
 translate french ep018_ruins_vess_fd8f378e:
 
-    # ve "What do you do when you enter a room full of people?"
-    ve ""
 
-# game/episode018.rpy:984
+    ve "Que fais-tu lorsque tu entres dans une pièce remplie de gens ?"
+
+
 translate french ep018_ruins_vess_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode018.rpy:985
+    c "Quoi ?"
+
+
 translate french ep018_ruins_vess_049e0f8c:
 
-    # c "Uh...{w} I don’t know, see if it’s someone I know and strike up a conversation?"
-    c ""
 
-# game/episode018.rpy:987
+    c "Euh...{w} Je ne sais pas, je regarde si c'est quelqu'un que je connais et j'engage la conversation ?"
+
+
 translate french ep018_ruins_vess_fa0b6d63:
 
-    # ve "It’s different for me."
-    ve ""
 
-# game/episode018.rpy:988
+    ve "C'est différent pour moi."
+
+
 translate french ep018_ruins_vess_d5eb8791:
 
-    # ve "When I enter a room, I first mark all the possible exits."
-    ve ""
 
-# game/episode018.rpy:990
+    ve "Quand j'entre dans une pièce, je marque d'abord toutes les sorties possibles."
+
+
 translate french ep018_ruins_vess_d9a6ae49:
 
-    # ve "Right after that, I mark all potential threats and confirm which people are unlikely to cause trouble."
-    ve ""
 
-# game/episode018.rpy:991
+    ve "Juste après, je marque toutes les menaces potentielles et je confirme quelles sont les personnes qui ne risquent pas de causer des problèmes."
+
+
 translate french ep018_ruins_vess_a373f32d:
 
-    # ve "There’s a list of other things that were drilled into me like that, but striking up a conversation is one of the last items on that list."
-    ve ""
 
-# game/episode018.rpy:992
+    ve "Il y a une liste d'autres choses qui m'ont été inculquées comme ça, mais engager la conversation est l'un des derniers points de cette liste."
+
+
 translate french ep018_ruins_vess_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode018.rpy:993
+    c "Ok.."
+
+
 translate french ep018_ruins_vess_045cbdf0:
 
-    # c "You’re saying the Confessor is the same?"
-    c ""
 
-# game/episode018.rpy:994
+    c "Tu dis que l'Inquisiteur est identique ?"
+
+
 translate french ep018_ruins_vess_9f781acd:
 
-    # ve "He always comes prepared."
-    ve ""
 
-# game/episode018.rpy:995
+    ve "Il arrive toujours préparé."
+
+
 translate french ep018_ruins_vess_82def46b:
 
-    # ve "If he isn’t prepared, he’ll improvise, but I know for a fact he hates that."
-    ve ""
 
-# game/episode018.rpy:996
+    ve "S'il n'est pas préparé, il improvise, mais je sais pertinemment qu'il déteste ça."
+
+
 translate french ep018_ruins_vess_c5aed8d5:
 
-    # c "Interesting."
-    c ""
 
-# game/episode018.rpy:997
+    c "C'est intéressant."
+
+
 translate french ep018_ruins_vess_d8ed24c8:
 
-    # c "I’ll guess we’ll have to surprise him if we ever take him on."
-    c ""
 
-# game/episode018.rpy:999
+    c "Je suppose que nous devrons le surprendre si jamais nous nous attaquons à lui."
+
+
 translate french ep018_ruins_vess_2b0ce451:
 
-    # ve "I guess so."
-    ve ""
 
-# game/episode018.rpy:1001
+    ve "Je pense que oui."
+
+
 translate french ep018_ruins_vess_bca6af8e:
 
-    # "We were both silent for a while, Vess staring out across the plain."
-    ""
 
-# game/episode018.rpy:1003
+    "Nous sommes restés silencieux tous les deux pendant un moment, Vess regardant fixement la plaine."
+
+
 translate french ep018_ruins_vess_2f22199b:
 
-    # ve "I keep wondering if his story about my mother being alive was just a ploy to keep me loyal."
-    ve ""
 
-# game/episode018.rpy:1004
+    ve "Je me demande toujours si son histoire de mère vivante n'était pas juste un stratagème pour me fidéliser."
+
+
 translate french ep018_ruins_vess_3f9be425:
 
-    # c "Judging from what you’ve just told me, that sounds like a thing he’d be capable of."
-    c ""
 
-# game/episode018.rpy:1006
+    c "À en juger par ce que tu viens de me dire, cela semble être une chose dont il serait capable."
+
+
 translate french ep018_ruins_vess_0c5eea44:
 
-    # ve "Yes, that’s true."
-    ve ""
 
-# game/episode018.rpy:1008
+    ve "Oui, c'est vrai."
+
+
 translate french ep018_ruins_vess_434183e9:
 
-    # ve "But the photograph he showed me, it looked so real."
-    ve ""
 
-# game/episode018.rpy:1009
+    ve "Mais la photo qu'il m'a montrée avait l'air si réelle."
+
+
 translate french ep018_ruins_vess_99ff405f:
 
-    # ve "Then again, any photo can be doctored."
-    ve ""
 
-# game/episode018.rpy:1010
+    ve "Mais encore une fois, n'importe quelle photo peut être trafiquée."
+
+
 translate french ep018_ruins_vess_1a40c360:
 
-    # ve "Or maybe it was just a picture of a woman who looked somewhat like me."
-    ve ""
 
-# game/episode018.rpy:1011
+    ve "Ou peut-être que c'était juste la photo d'une femme qui me ressemblait un peu."
+
+
 translate french ep018_ruins_vess_570e2565:
 
-    # c "I think it’s rather cruel to spring this on you, without ever providing any further context."
-    c ""
 
-# game/episode018.rpy:1013
+    c "Je trouve que c'est plutôt cruel de te faire avaler ça, sans jamais te donner d'autres éléments de contexte."
+
+
 translate french ep018_ruins_vess_cbfc5d90:
 
-    # ve "It got him my cooperation to betray you one final time."
-    ve ""
 
-# game/episode018.rpy:1014
+    ve "Cela lui a permis d'obtenir ma coopération pour te trahir une dernière fois."
+
+
 translate french ep018_ruins_vess_bf09e84e:
 
-    # c "I guess that made it all worth it."
-    c ""
 
-# game/episode018.rpy:1016
+    c "Je suppose que cela en valait la peine."
+
+
 translate french ep018_ruins_vess_2b0ce451_1:
 
-    # ve "I guess so."
-    ve ""
 
-# game/episode018.rpy:1017
+    ve "Je pense que oui."
+
+
 translate french ep018_ruins_vess_058d9b44:
 
-    # c "I have a feeling we’re going to be dealing with the Confessor a lot in the near future."
-    c ""
 
-# game/episode018.rpy:1019
+    c "J'ai l'impression que nous aurons souvent affaire à l'Inquisiteur dans un avenir proche."
+
+
 translate french ep018_ruins_vess_7ea32ae9:
 
-    # c "If we ever get the chance to find out more about your mother, we’ll take it."
-    c ""
 
-# game/episode018.rpy:1021
+    c "Si nous avons l'occasion d'en savoir plus sur ta mère, nous la saisirons."
+
+
 translate french ep018_ruins_vess_f007dfd7:
 
-    # ve "Really, you’d do that for me?"
-    ve ""
 
-# game/episode018.rpy:1022
+    ve "Vraiment, tu ferais ça pour moi ?"
+
+
 translate french ep018_ruins_vess_f67fe448:
 
-    # c "Of course, you deserve the truth and at least some closure."
-    c ""
 
-# game/episode018.rpy:1024
+    c "Bien sûr, tu mérites la vérité et au moins une certaine conclusion."
+
+
 translate french ep018_ruins_vess_df42574f:
 
-    # ve "Thank you, [p_name_short]."
-    ve ""
 
-# game/episode018.rpy:1026
+    ve "Merci, [p_name_short]."
+
+
 translate french ep018_ruins_vess_8755f436:
 
-    # "Tears rimmed her eyes as she stared out over the plain again."
-    ""
 
-# game/episode018.rpy:1028
+    "Des larmes bordèrent ses yeux tandis qu'elle fixait à nouveau la plaine."
+
+
 translate french ep018_ruins_vess_34161163:
 
-    # "My hand slipped in hers and together we watched the sun go down behind the temple across the plains."
-    ""
 
-# game/episode018.rpy:1030
+    "Ma main s'est glissée dans la sienne et nous avons regardé ensemble le soleil se coucher derrière le temple, de l'autre côté de la plaine."
+
+
 translate french ep018_ruins_vess_a201417b:
 
-    # ve "I think so too."
-    ve ""
 
-# game/episode018.rpy:1031
+    ve "Je le pense aussi."
+
+
 translate french ep018_ruins_vess_461ad443:
 
-    # c "We’d better be prepared."
-    c ""
 
-# game/episode018.rpy:1033
+    c "Nous ferions mieux de nous préparer."
+
+
 translate french ep018_ruins_vess_3b1d33d2:
 
-    # ve "I’ll help in every way I can."
-    ve ""
 
-# game/episode018.rpy:1034
+    ve "Je t'aiderai de toutes les façons possibles."
+
+
 translate french ep018_ruins_vess_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode018.rpy:1035
+    c "Bien sûr."
+
+
 translate french ep018_ruins_vess_c562c5f0:
 
-    # c "Don’t stay out here in the open too long, you might get spotted."
-    c ""
 
-# game/episode018.rpy:1038
+    c "Ne reste pas trop longtemps à découvert, tu pourrais te faire repérer."
+
+
 translate french ep018_ruins_vess_5e2b29b5:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode018.rpy:1040
+    ve "Oui, maître."
+
+
 translate french ep018_ruins_vess_77cb9752:
 
-    # ve "I'll be careful."
-    ve ""
 
-# game/episode018.rpy:1048
+    ve "Je ferai attention."
+
+
 translate french ep018_ruins_aven_3c8e0458:
 
-    # "The night was very quiet, but I couldn’t sleep."
-    ""
 
-# game/episode018.rpy:1049
+    "La nuit était très calme, mais je n'arrivais pas à dormir."
+
+
 translate french ep018_ruins_aven_d80fea11:
 
-    # "I got out of my sleeping bag and went out into the square."
-    ""
 
-# game/episode018.rpy:1050
+    "Je suis sorti de mon sac de couchage et je suis allé sur la place."
+
+
 translate french ep018_ruins_aven_e543bf27:
 
-    # "Kit was standing guard, but I didn’t feel like striking up a conversation with him."
-    ""
 
-# game/episode018.rpy:1051
+    "Kit montait la garde, mais je n'avais pas envie d'engager la conversation avec lui."
+
+
 translate french ep018_ruins_aven_f3f56992:
 
-    # "Instead, I wandered around the ruins."
-    ""
 
-# game/episode018.rpy:1053
+    "J'ai préféré me promener dans les ruines."
+
+
 translate french ep018_ruins_aven_673973c3:
 
-    # "As I was about to return to the building I’d put down my sleeping bag, Aven stepped out from behind a pillar."
-    ""
 
-# game/episode018.rpy:1055
+    "Alors que je m'apprêtais à retourner dans le bâtiment où j'avais posé mon sac de couchage, Aven est sorti de derrière un pilier."
+
+
 translate french ep018_ruins_aven_110474fc:
 
-    # av "Oh!"
-    av ""
 
-# game/episode018.rpy:1056
+    av "Oh !"
+
+
 translate french ep018_ruins_aven_1052d2e7:
 
-    # c "Couldn’t sleep either?"
-    c ""
 
-# game/episode018.rpy:1057
+    c "Tu n'arrives pas à dormir non plus ?"
+
+
 translate french ep018_ruins_aven_76024095:
 
-    # av "No, it could be this place or the events of the past few days."
-    av ""
 
-# game/episode018.rpy:1058
+    av "Non, c'est peut-être cet endroit ou les événements de ces derniers jours."
+
+
 translate french ep018_ruins_aven_a040a00c:
 
-    # c "It’s a lot to take in, I reckon?"
-    c ""
 
-# game/episode018.rpy:1059
+    c "C'est beaucoup de choses à assimiler, je pense ?"
+
+
 translate french ep018_ruins_aven_77274c31:
 
-    # av "Yes."
-    av ""
 
-# game/episode018.rpy:1060
+    av "Oui."
+
+
 translate french ep018_ruins_aven_d4be95a4:
 
-    # "We both sat down against a crumbling wall."
-    ""
 
-# game/episode018.rpy:1062
+    "Nous nous sommes assis tous les deux contre un mur en ruine."
+
+
 translate french ep018_ruins_aven_753424f3:
 
-    # av "Me and mom lived relatively insulated from the Sovereignty back on Ryūjin Prime."
-    av ""
 
-# game/episode018.rpy:1063
+    av "Maman et moi vivions relativement à l'écart de la Souveraineté sur Ryūjin Prime."
+
+
 translate french ep018_ruins_aven_fe9af784:
 
-    # av "Of course we heard about what the Sovereignty was capable of, but..."
-    av ""
 
-# game/episode018.rpy:1064
+    av "Bien sûr, nous avons entendu parler de ce dont la Souveraineté était capable, mais..."
+
+
 translate french ep018_ruins_aven_2c9f4fcf:
 
-    # c "Seeing it happen is different from hearing about it?"
-    c ""
 
-# game/episode018.rpy:1066
+    c "Voir ce qui se passe est différent d'en entendre parler ?"
+
+
 translate french ep018_ruins_aven_7e2f38ea:
 
-    # av "Exactly."
-    av ""
 
-# game/episode018.rpy:1067
+    av "Exactement."
+
+
 translate french ep018_ruins_aven_b0d6f41e:
 
-    # av "They stop at nothing, do they?"
-    av ""
 
-# game/episode018.rpy:1068
+    av "Ils ne s'arrêtent devant rien, n'est-ce pas ?"
+
+
 translate french ep018_ruins_aven_0a10c0ee:
 
-    # c "No, they don’t."
-    c ""
 
-# game/episode018.rpy:1069
+    c "Non, ils ne s'arrêtent pas."
+
+
 translate french ep018_ruins_aven_013fd726:
 
-    # c "Especially with dad at the helm..."
-    c ""
 
-# game/episode018.rpy:1071
+    c "Surtout avec papa à la barre..."
+
+
 translate french ep018_ruins_aven_ede09921:
 
-    # av "God, it sounds so awkward, you saying that."
-    av ""
 
-# game/episode018.rpy:1072
+    av "Mon Dieu, ça a l'air tellement maladroit, que tu dises ça."
+
+
 translate french ep018_ruins_aven_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode018.rpy:1074
+    c "Qu'est-ce qu'il y a ?"
+
+
 translate french ep018_ruins_aven_b85a14d4:
 
-    # av "“Dad”, like he’s my father too."
-    av ""
 
-# game/episode018.rpy:1075
+    av "« Papa », comme s'il était aussi mon père."
+
+
 translate french ep018_ruins_aven_d7b03860:
 
-    # av "And of course he apparently is, but it still just doesn’t feel like he is."
-    av ""
 
-# game/episode018.rpy:1076
+    av "Et bien sûr, il l'est apparemment, mais je n'ai toujours pas l'impression qu'il l'est."
+
+
 translate french ep018_ruins_aven_eba67bfe:
 
-    # av "Do you know what I mean?"
-    av ""
 
-# game/episode018.rpy:1077
+    av "Tu comprends ce que je veux dire ?"
+
+
 translate french ep018_ruins_aven_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode018.rpy:1078
+    c "Je pense que oui."
+
+
 translate french ep018_ruins_aven_cb437275:
 
-    # c "It still feels a little unreal sometimes."
-    c ""
 
-# game/episode018.rpy:1079
+    c "Cela semble encore un peu irréel parfois."
+
+
 translate french ep018_ruins_aven_f6fab4bf:
 
-    # c "Especially considering the way we’re involved with each other."
-    c ""
 
-# game/episode018.rpy:1081
+    c "Surtout si l'on considère la façon dont nous sommes engagés l'un envers l'autre."
+
+
 translate french ep018_ruins_aven_f0444eee:
 
-    # av "What a romantic way to describe our relationship!"
-    av ""
 
-# game/episode018.rpy:1082
+    av "Quelle façon romantique de décrire notre relation !"
+
+
 translate french ep018_ruins_aven_230c6093:
 
-    # c "I know, I’m ever the hopeless romantic."
-    c ""
 
-# game/episode018.rpy:1084
+    c "Je sais, je suis toujours l'éternel romantique."
+
+
 translate french ep018_ruins_aven_7cdfa386:
 
-    # av "Agust was always a very distant presence, a long forgotten boogeyman at times, but now that I know he fathered me and treated mom so badly, I just hate him."
-    av ""
 
-# game/episode018.rpy:1085
+    av "Agust a toujours été une présence très distante, un croque-mitaine oublié depuis longtemps, mais maintenant que je sais qu'il m'a engendré et qu'il a si mal traité maman, je le déteste."
+
+
 translate french ep018_ruins_aven_1d5ed376:
 
-    # c "Not trying to one-up you, but I hated him with a passion long before that."
-    c ""
 
-# game/episode018.rpy:1087
+    c "Je n'essaie pas de te surpasser, mais je l'ai détesté avec passion bien avant cela."
+
+
 translate french ep018_ruins_aven_8f90ff9a:
 
-    # av "Haha, you win."
-    av ""
 
-# game/episode018.rpy:1088
+    av "Haha, tu as gagné."
+
+
 translate french ep018_ruins_aven_1b7834ca:
 
-    # c "Agust’s presence is best savored at a long distance, preferably lightyears away."
-    c ""
 
-# game/episode018.rpy:1090
+    c "La présence d'Agust se savoure mieux à longue distance, de préférence à des années-lumière."
+
+
 translate french ep018_ruins_aven_7c2ae5bd:
 
-    # av "What do you think he hopes to gain in that temple?"
-    av ""
 
-# game/episode018.rpy:1091
+    av "À ton avis, qu'espère-t-il gagner dans ce temple ?"
+
+
 translate french ep018_ruins_aven_28ad9ff2:
 
-    # c "I’m not sure, but I’m certain it’s something that he will want to benefit from, at the cost of thousands of others."
-    c ""
 
-# game/episode018.rpy:1093
+    c "Je n'en suis pas sûr, mais je suis certain que c'est quelque chose dont il voudra profiter, au détriment de milliers d'autres personnes."
+
+
 translate french ep018_ruins_aven_0310355f:
 
-    # av "I think that’s a low estimation."
-    av ""
 
-# game/episode018.rpy:1094
+    av "Je pense que c'est une estimation peu élevée."
+
+
 translate french ep018_ruins_aven_5c21ce98:
 
-    # c "Yeah, the Taagmar didn’t stand a chance."
-    c ""
 
-# game/episode018.rpy:1096
+    c "Oui, les Taagmar n'avait aucune chance."
+
+
 translate french ep018_ruins_aven_31b88be7:
 
-    # av "Ugh, I didn’t want to steer the conversation into such gloomy territory."
-    av ""
 
-# game/episode018.rpy:1097
+    av "Ugh, je ne voulais pas orienter la conversation vers un territoire aussi sombre."
+
+
 translate french ep018_ruins_aven_58190467:
 
-    # c "No harm done, we’ve lived through some gloomy stuff lately."
-    c ""
 
-# game/episode018.rpy:1098
+    c "Il n'y a pas de mal, nous avons vécu des choses sombres ces derniers temps."
+
+
 translate french ep018_ruins_aven_06c84c72:
 
-    # c "It just makes me want to appreciate the happy things all the more."
-    c ""
 
-# game/episode018.rpy:1101
+    c "Cela me donne juste envie d'apprécier d'autant plus les choses heureuses."
+
+
 translate french ep018_ruins_aven_9667c979:
 
-    # av "Such as?"
-    av ""
 
-# game/episode018.rpy:1102
+    av "Comme ?"
+
+
 translate french ep018_ruins_aven_a721bb91:
 
-    # c "Well, you, for instance."
-    c ""
 
-# game/episode018.rpy:1104
+    c "Eh bien, toi, par exemple."
+
+
 translate french ep018_ruins_aven_b071eecd:
 
-    # av "I knew you were going to say that!"
-    av ""
 
-# game/episode018.rpy:1105
+    av "Je savais que tu allais dire ça !"
+
+
 translate french ep018_ruins_aven_2b5ab5c4:
 
-    # av "Not that I don’t want to hear you saying it, of course."
-    av ""
 
-# game/episode018.rpy:1106
+    av "Ce n'est pas que je ne veuille pas t'entendre le dire, bien sûr."
+
+
 translate french ep018_ruins_aven_b5f7a781:
 
-    # c "I was starting to get a little worried there for a second."
-    c ""
 
-# game/episode018.rpy:1108
+    c "Je commençais à m'inquiéter un peu pendant une seconde."
+
+
 translate french ep018_ruins_aven_8dd467ad:
 
-    # av "We don’t want that now, do we?"
-    av ""
 
-# game/episode018.rpy:1109
+    av "Ce n'est pas ce que nous voulons, n'est-ce pas ?"
+
+
 translate french ep018_ruins_aven_6fb17edf:
 
-    # av "I have a thing or two in mind to make you happy..."
-    av ""
 
-# game/episode018.rpy:1110
+    av "J'ai une ou deux choses en tête pour te faire plaisir..."
+
+
 translate french ep018_ruins_aven_1c431111:
 
-    # c "Go on..."
-    c ""
 
-# game/episode018.rpy:1112
+    c "Vas-y..."
+
+
 translate french ep018_ruins_aven_a6b724b5:
 
-    # av "I really think we should find a quiet place."
-    av ""
 
-# game/episode018.rpy:1113
+    av "Je pense vraiment que nous devrions trouver un endroit tranquille."
+
+
 translate french ep018_ruins_aven_bfd3dbc1:
 
-    # c "Kit is patrolling, but he should be on the other side of the perimeter now."
-    c ""
 
-# game/episode018.rpy:1114
+    c "Kit patrouille, mais il devrait être de l'autre côté du périmètre maintenant."
+
+
 translate french ep018_ruins_aven_78bc85da:
 
-    # "Aven and I hurried to a corner of the ruins, well out of the way of where we were camped."
-    ""
 
-# game/episode018.rpy:1118
+    "Aven et moi nous sommes précipités vers un coin des ruines, bien à l'écart de l'endroit où nous campions."
+
+
 translate french ep018_ruins_aven_677f1c37:
 
-    # "Aven shifted one of the straps of her shirt off her shoulder, revealing more of her flesh."
-    ""
 
-# game/episode018.rpy:1120
+    "Aven a enlevé l'une des bretelles de sa chemise de son épaule, révélant davantage sa chair."
+
+
 translate french ep018_ruins_aven_240d3f09:
 
-    # "At that moment, several people rounded the corner of the building we were sitting against."
-    ""
 
-# game/episode018.rpy:1121
+    "À ce moment-là, plusieurs personnes ont contourné le coin du bâtiment contre lequel nous étions assis."
+
+
 translate french ep018_ruins_aven_66702b6c:
 
-    # "Kit, Nadya and Thim were discussing something, but stopped when they saw us."
-    ""
 
-# game/episode018.rpy:1123
+    "Kit, Nadya et Thim discutaient de quelque chose, mais ils se sont arrêtés en nous voyant."
+
+
 translate french ep018_ruins_aven_9d672fa5:
 
-    # ki "Enjoying the night sky?"
-    ki ""
 
-# game/episode018.rpy:1125
+    ki "Vous profitez du ciel nocturne ?"
+
+
 translate french ep018_ruins_aven_df91fa59:
 
-    # av "We are."
-    av ""
 
-# game/episode018.rpy:1127
+    av "C'est ce que nous faisons."
+
+
 translate french ep018_ruins_aven_fc53cfd4:
 
-    # na "Could we borrow you for a moment?"
-    na ""
 
-# game/episode018.rpy:1128
+    na "Pourrions-nous vous emprunter un moment ?"
+
+
 translate french ep018_ruins_aven_05cee737:
 
-    # av "I...{w} Uh...{w} Of course."
-    av ""
 
-# game/episode018.rpy:1130
+    av "Je...{w} Euh...{w} Bien sûr."
+
+
 translate french ep018_ruins_aven_dad40529:
 
-    # "Aven stood up to join the others, regret in her eyes as she looked at me."
-    ""
 
-# game/episode018.rpy:1131
+    "Aven s'est levée pour rejoindre les autres, du regret dans les yeux lorsqu'elle m'a regardée."
+
+
 translate french ep018_ruins_aven_55a863bf:
 
-    # av "Speak to you later?"
-    av ""
 
-# game/episode018.rpy:1132
+    av "On se parle plus tard ?"
+
+
 translate french ep018_ruins_aven_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode018.rpy:1134
+    c "Bien sûr."
+
+
 translate french ep018_ruins_aven_30cda580:
 
-    # "Oblivious to whatever they’d interrupted, Nadya and the others walked away with Aven."
-    ""
 
-# game/episode018.rpy:1135
+    "Oubliant ce qu'ils avaient interrompu, Nadya et les autres sont partis avec Aven."
+
+
 translate french ep018_ruins_aven_0f092ba5:
 
-    # "I remained behind, silently cursing them for the interruption."
-    ""
 
-# game/episode018.rpy:1137
+    "Je suis restée derrière, les maudissant silencieusement pour cette interruption."
+
+
 translate french ep018_ruins_aven_032da8d5:
 
-    # av "Yes, I get that, I really do."
-    av ""
 
-# game/episode018.rpy:1138
+    av "Oui, j'ai compris, vraiment."
+
+
 translate french ep018_ruins_aven_959a4a64:
 
-    # av "I’m going to try and get some sleep if that’s alright with you."
-    av ""
 
-# game/episode018.rpy:1139
+    av "Je vais essayer de dormir un peu, si tu es d'accord."
+
+
 translate french ep018_ruins_aven_6221499d:
 
-    # c "Of course, I think I’ll wander for just a little longer."
-    c ""
 
-# game/episode018.rpy:1141
+    c "Bien sûr, je pense que je vais errer encore un peu."
+
+
 translate french ep018_ruins_aven_61ed1684:
 
-    # av "Don’t wander inside that temple by mistake, things might get unpleasant."
-    av ""
 
-# game/episode018.rpy:1142
+    av "Ne te promène pas dans ce temple par erreur, les choses pourraient devenir désagréables."
+
+
 translate french ep018_ruins_aven_3cf13b30:
 
-    # c "I’ll try no to."
-    c ""
 
-# game/episode018.rpy:1143
+    c "J'essaierai de ne pas le faire."
+
+
 translate french ep018_ruins_aven_0850efde:
 
-    # c "Good night, Aven."
-    c ""
 
-# game/episode018.rpy:1144
+    c "Bonne nuit, Aven."
+
+
 translate french ep018_ruins_aven_9d2022fd:
 
-    # av "You too, [p_name_short]."
-    av ""
 
-# game/episode018.rpy:1152
+    av "Toi aussi, [p_name_short]."
+
+
 translate french ep018_ruins_raene_fded0606:
 
-    # "Raene was sitting alone in one of the small buildings, reading something on her tablet."
-    ""
 
-# game/episode018.rpy:1153
+    "Raene était assise seule dans l'un des petits bâtiments, lisant quelque chose sur sa tablette."
+
+
 translate french ep018_ruins_raene_f51625d1:
 
-    # c "How do you like the accommodations?"
-    c ""
 
-# game/episode018.rpy:1155
+    c "Comment trouves-tu les logements ?"
+
+
 translate french ep018_ruins_raene_5af6fd11:
 
-    # ra "They’re a little dusty, but otherwise fine."
-    ra ""
 
-# game/episode018.rpy:1156
+    ra "Ils sont un peu poussiéreux, mais sinon ça va."
+
+
 translate french ep018_ruins_raene_c1d6c853:
 
-    # ra "The heat in this place is terrible though."
-    ra ""
 
-# game/episode018.rpy:1157
+    ra "La chaleur dans cet endroit est terrible par contre."
+
+
 translate french ep018_ruins_raene_a048d163:
 
-    # c "Yeah, it doesn’t really get any less warm during the day."
-    c ""
 
-# game/episode018.rpy:1158
+    c "Oui, il ne fait pas vraiment moins chaud pendant la journée."
+
+
 translate french ep018_ruins_raene_c14a9163:
 
-    # ra "The armored suit doesn’t help as well."
-    ra ""
 
-# game/episode018.rpy:1159
+    ra "La combinaison blindée n'aide pas non plus."
+
+
 translate french ep018_ruins_raene_677e8f87:
 
-    # c "No, the Sovereignty doesn’t make those for any kind of comfort."
-    c ""
 
-# game/episode018.rpy:1160
+    c "Non, la Souveraineté ne fabrique pas ces vêtements pour le confort."
+
+
 translate french ep018_ruins_raene_4310e779:
 
-    # c "I even doubt they provide as much protection either."
-    c ""
 
-# game/episode018.rpy:1161
+    c "Je doute même qu'elles offrent autant de protection non plus."
+
+
 translate french ep018_ruins_raene_4a5ce4af:
 
-    # c "What are you reading?"
-    c ""
 
-# game/episode018.rpy:1163
+    c "Qu'est-ce que tu lis ?"
+
+
 translate french ep018_ruins_raene_71995779:
 
-    # ra "Just some news articles I downloaded back on Altum Station."
-    ra ""
 
-# game/episode018.rpy:1164
+    ra "Juste quelques articles que j'ai téléchargés sur la station Altum."
+
+
 translate french ep018_ruins_raene_cf9904ff:
 
-    # c "Anything in particular?"
-    c ""
 
-# game/episode018.rpy:1166
+    c "Quelque chose en particulier ?"
+
+
 translate french ep018_ruins_raene_e7d94834:
 
-    # ra "You’re going to disapprove, but yeah, some things about my father."
-    ra ""
 
-# game/episode018.rpy:1167
+    ra "Tu vas désapprouver, mais oui, des choses sur mon père."
+
+
 translate french ep018_ruins_raene_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode018.rpy:1168
+    c "C'est vrai."
+
+
 translate french ep018_ruins_raene_fdf60d32:
 
-    # c "I don’t necessarily disapprove, but just be careful not to upset yourself."
-    c ""
 
-# game/episode018.rpy:1169
+    c "Je ne désapprouve pas forcément, mais fais attention à ne pas t'énerver."
+
+
 translate french ep018_ruins_raene_bd94ce1a:
 
-    # c "From what I heard about Sacleus, he’s not the man to care about the feelings of others."
-    c ""
 
-# game/episode018.rpy:1171
+    c "D'après ce que j'ai entendu sur Sacleus, il n'est pas du genre à se soucier des sentiments des autres."
+
+
 translate french ep018_ruins_raene_1935c69c:
 
-    # ra "He sure hasn’t changed his views, that’s for certain."
-    ra ""
 
-# game/episode018.rpy:1172
+    ra "Il n'a pas changé d'avis, c'est certain."
+
+
 translate french ep018_ruins_raene_2b5c0599:
 
-    # ra "They’re still on the lookout for you and me."
-    ra ""
 
-# game/episode018.rpy:1174
+    ra "Ils sont toujours à la recherche de toi et moi."
+
+
 translate french ep018_ruins_raene_0723fd52:
 
-    # ra "Other than that it’s the same old rhetoric, the same old hang-ups."
-    ra ""
 
-# game/episode018.rpy:1176
+    ra "À part ça, c'est toujours la même rhétorique, les mêmes complexes."
+
+
 translate french ep018_ruins_raene_3a9891aa:
 
-    # ra "And I find that it doesn’t bother me that much anymore."
-    ra ""
 
-# game/episode018.rpy:1178
+    ra "Et je trouve que cela ne me dérange plus tellement."
+
+
 translate french ep018_ruins_raene_092cefb0:
 
-    # ra "Maybe now that he’s at a distance...{w} I don’t know."
-    ra ""
 
-# game/episode018.rpy:1179
+    ra "Peut-être que maintenant qu'il est à distance...{w} Je ne sais pas."
+
+
 translate french ep018_ruins_raene_118385c1:
 
-    # c "Not living in that kind of environment certainly helps."
-    c ""
 
-# game/episode018.rpy:1181
+    c "Ne pas vivre dans ce genre d'environnement aide certainement."
+
+
 translate french ep018_ruins_raene_ea4ec5af:
 
-    # ra "His words used to frighten me so much."
-    ra ""
 
-# game/episode018.rpy:1182
+    ra "Avant, ses paroles me faisaient tellement peur."
+
+
 translate french ep018_ruins_raene_79c50495:
 
-    # ra "I really thought my actions, or even being who I am, had damned me forever."
-    ra ""
 
-# game/episode018.rpy:1184
+    ra "Je pensais vraiment que mes actes, ou même le fait d'être ce que je suis, m'avaient damné pour toujours."
+
+
 translate french ep018_ruins_raene_c91ed8d3:
 
-    # ra "But hearing him now, droning on about sinful behavior, it sounds so hollow all of a sudden."
-    ra ""
 
-# game/episode018.rpy:1186
+    ra "Mais en l'entendant maintenant parler de son comportement pécheur, cela sonne tout à coup si creux."
+
+
 translate french ep018_ruins_raene_fd854585:
 
-    # ra "And the way he speaks about me in his rants to keep his followers to hunt us just makes me furious."
-    ra ""
 
-# game/episode018.rpy:1187
+    ra "Et la façon dont il parle de moi dans ses diatribes pour inciter ses partisans à nous chasser me rend furieuse."
+
+
 translate french ep018_ruins_raene_b8e6381d:
 
-    # ra "I mean, how dare he?!"
-    ra ""
 
-# game/episode018.rpy:1188
+    ra "Je veux dire, comment ose-t-il ?!"
+
+
 translate french ep018_ruins_raene_62ef7433:
 
-    # c "Your father is clearly someone whose opinions are rarely challenged."
-    c ""
 
-# game/episode018.rpy:1189
+    c "Ton père est clairement quelqu'un dont les opinions sont rarement remises en question."
+
+
 translate french ep018_ruins_raene_2391d358:
 
-    # c "He also has the blessed tenets of a supposed higher being on his side, neatly confirming his world views, not the best combination all considered."
-    c ""
 
-# game/episode018.rpy:1191
+    c "Il a aussi de son côté les principes bénis d'un être supposé supérieur, qui confirment parfaitement sa vision du monde, ce qui n'est pas la meilleure des combinaisons, tout compte fait."
+
+
 translate french ep018_ruins_raene_d860a4a7:
 
-    # ra "I suppose not."
-    ra ""
 
-# game/episode018.rpy:1193
+    ra "Je suppose que non."
+
+
 translate french ep018_ruins_raene_ad7ca662:
 
-    # ra "I'm just so glad I met you on Verdigris."
-    ra ""
 
-# game/episode018.rpy:1194
+    ra "Je suis tellement contente de t'avoir rencontrée sur Verdigris."
+
+
 translate french ep018_ruins_raene_e4c9d27e:
 
-    # ra "Who knows where I would have ended up."
-    ra ""
 
-# game/episode018.rpy:1196
+    ra "Qui sait où j'aurais fini."
+
+
 translate french ep018_ruins_raene_51de9475:
 
-    # ra "Probably back into the arms of my father..."
-    ra ""
 
-# game/episode018.rpy:1197
+    ra "Probablement dans les bras de mon père..."
+
+
 translate french ep018_ruins_raene_4b214a60:
 
-    # c "I'm not so sure about that."
-    c ""
 
-# game/episode018.rpy:1198
+    c "Je n'en suis pas si sûr."
+
+
 translate french ep018_ruins_raene_b5f6f016:
 
-    # c "You contacted Ziv's people way before the Bastard showed up."
-    c ""
 
-# game/episode018.rpy:1200
+    c "Tu as contacté les gens de Ziv bien avant que le Bastard ne se montre."
+
+
 translate french ep018_ruins_raene_a5e5ecea:
 
-    # ra "That's true."
-    ra ""
 
-# game/episode018.rpy:1201
+    ra "C'est vrai."
+
+
 translate french ep018_ruins_raene_61d83d38:
 
-    # c "So, don't diminish yourself."
-    c ""
 
-# game/episode018.rpy:1202
+    c "Alors, ne te dévalorise pas."
+
+
 translate french ep018_ruins_raene_b776425c:
 
-    # c "Deep down, you knew what you wanted and acted on it."
-    c ""
 
-# game/episode018.rpy:1204
+    c "Au fond de toi, tu savais ce que tu voulais et tu as agi en conséquence."
+
+
 translate french ep018_ruins_raene_9fef6ff7:
 
-    # ra "I guess so."
-    ra ""
 
-# game/episode018.rpy:1205
+    ra "J'imagine que c'est le cas."
+
+
 translate french ep018_ruins_raene_65c4acaf:
 
-    # c "That first step must have been so hard for you."
-    c ""
 
-# game/episode018.rpy:1206
+    c "Ce premier pas a dû être si difficile pour toi."
+
+
 translate french ep018_ruins_raene_ad0bba1e:
 
-    # c "Deeply enmeshed in your father's religious bullshit regarding the person you really are."
-    c ""
 
-# game/episode018.rpy:1207
+    c "Profondément empêtrée dans les conneries religieuses de ton père concernant la personne que tu es vraiment."
+
+
 translate french ep018_ruins_raene_72a0dfb0:
 
-    # c "And yet you reached out, asked for help."
-    c ""
 
-# game/episode018.rpy:1208
+    c "Et pourtant, tu as tendu la main, tu as demandé de l'aide."
+
+
 translate french ep018_ruins_raene_f470a68a:
 
-    # c "I think that speaks volumes of you, Raene."
-    c ""
 
-# game/episode018.rpy:1209
+    c "Je pense que cela en dit long sur toi, Raene."
+
+
 translate french ep018_ruins_raene_0c2753c7:
 
-    # ra "It does?"
-    ra ""
 
-# game/episode018.rpy:1210
+    ra "C'est vrai ?"
+
+
 translate french ep018_ruins_raene_9ed06a5b:
 
-    # c "Yes, that you're a strong woman, not deterred by the opinions of others."
-    c ""
 
-# game/episode018.rpy:1211
+    c "Oui, que tu es une femme forte, qui ne se laisse pas décourager par les opinions des autres."
+
+
 translate french ep018_ruins_raene_7fd1be88:
 
-    # c "Despite all the opposition, you stayed true to yourself and began your transition."
-    c ""
 
-# game/episode018.rpy:1213
+    c "Malgré toute l'opposition, tu es restée fidèle à toi-même et tu as commencé ta transition."
+
+
 translate french ep018_ruins_raene_695c88fc:
 
-    # ra "Well, if you put it that way...{w} I guess I can see where you're coming from."
-    ra ""
 
-# game/episode018.rpy:1215
+    ra "Eh bien, si tu le dis comme ça...{w} Je suppose que je peux voir où tu veux en venir."
+
+
 translate french ep018_ruins_raene_1096d98e:
 
-    # ra "I want to kiss you so badly right now."
-    ra ""
 
-# game/episode018.rpy:1217
+    ra "J'ai tellement envie de t'embrasser maintenant."
+
+
 translate french ep018_ruins_raene_6b5c3ffd:
 
-    # "Raene got up and hesitantly stepped closer to me."
-    ""
 
-# game/episode018.rpy:1218
+    "Raene s'est levée et s'est approchée de moi d'un pas hésitant."
+
+
 translate french ep018_ruins_raene_a35902a5:
 
-    # "Standing on her tiptoes, Raene kissed me, a kiss I answered wholeheartedly."
-    ""
 
-# game/episode018.rpy:1219
+    "Debout sur la pointe des pieds, Raene m'a embrassé, un baiser auquel j'ai répondu de tout cœur."
+
+
 translate french ep018_ruins_raene_6e20ae9a:
 
-    # "When Raene pulled back, a smile lit up her entire face."
-    ""
 
-# game/episode018.rpy:1221
+    "Lorsque Raene s'est retirée, un sourire a illuminé tout son visage."
+
+
 translate french ep018_ruins_raene_fec80cec:
 
-    # ra "I really wish we could spend the night together."
-    ra ""
 
-# game/episode018.rpy:1222
+    ra "J'aimerais vraiment qu'on passe la nuit ensemble."
+
+
 translate french ep018_ruins_raene_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode018.rpy:1223
+    c "Moi aussi."
+
+
 translate french ep018_ruins_raene_5c3c3f91:
 
-    # c "Asking your roommates to find another ruin to sleep in is a little too much to ask, I guess?"
-    c ""
 
-# game/episode018.rpy:1225
+    c "Demander à tes colocataires de trouver une autre ruine pour dormir, c'est un peu trop demander, je suppose ?"
+
+
 translate french ep018_ruins_raene_89162b9f:
 
-    # ra "They'd have all kinds of questions and besides, I don't think there are any unoccupied ruins left to sleep in."
-    ra ""
 
-# game/episode018.rpy:1226
+    ra "Ils se poseraient toutes sortes de questions et en plus, je ne pense pas qu'il y ait encore des ruines inoccupées où dormir."
+
+
 translate french ep018_ruins_raene_dc567494:
 
-    # c "We'll find a way, very soon."
-    c ""
 
-# game/episode018.rpy:1228
+    c "Nous trouverons un moyen, très bientôt."
+
+
 translate french ep018_ruins_raene_91869488:
 
-    # ra "I'll hold you to that."
-    ra ""
 
-# game/episode018.rpy:1229
+    ra "Je te le promets."
+
+
 translate french ep018_ruins_raene_9bcfe3ae:
 
-    # ra "Sleep well, [p_name_short]."
-    ra ""
 
-# game/episode018.rpy:1230
+    ra "Dors bien, [p_name_short]."
+
+
 translate french ep018_ruins_raene_fe7bb2b5:
 
-    # c "You too, Raene."
-    c ""
 
-# game/episode018.rpy:1232
+    c "Toi aussi, Raene."
+
+
 translate french ep018_ruins_raene_5c209c03:
 
-    # "We sealed our goodnights with another passionate kiss and I went back into the night."
-    ""
 
-# game/episode018.rpy:1235
+    "Nous avons scellé nos bonsoirs par un autre baiser passionné et je suis retourné dans la nuit."
+
+
 translate french ep018_ruins_raene_774ba656:
 
-    # "Raene was silent for a while, mulling things over."
-    ""
 
-# game/episode018.rpy:1237
+    "Raene est restée silencieuse pendant un moment, réfléchissant à la situation."
+
+
 translate french ep018_ruins_raene_e4e78027:
 
-    # ra "Thank you, [p_name], for being there for me."
-    ra ""
 
-# game/episode018.rpy:1238
+    ra "Merci, [p_name], d'être là pour moi."
+
+
 translate french ep018_ruins_raene_4cff680c:
 
-    # c "Always."
-    c ""
 
-# game/episode018.rpy:1239
+    c "Toujours."
+
+
 translate french ep018_ruins_raene_bc2ba8e9:
 
-    # c "I’ll let you get back to reading."
-    c ""
 
-# game/episode018.rpy:1240
+    c "Je te laisse reprendre ta lecture."
+
+
 translate french ep018_ruins_raene_4d9dd2d1:
 
-    # c "Sleep tight."
-    c ""
 
-# game/episode018.rpy:1241
+    c "Dors bien."
+
+
 translate french ep018_ruins_raene_393c8561:
 
-    # ra "You too."
-    ra ""
 
-# game/episode018.rpy:1251
+    ra "Toi aussi."
+
+
 translate french ep018_ruins_eva_670bbe8e:
 
-    # "Eva emerged from the building she would spend the night in as I walked past."
-    ""
 
-# game/episode018.rpy:1252
+    "Eva est sortie du bâtiment dans lequel elle allait passer la nuit alors que je passais devant elle."
+
+
 translate french ep018_ruins_eva_787b4719:
 
-    # c "Hey you."
-    c ""
 
-# game/episode018.rpy:1253
+    c "Hé, toi."
+
+
 translate french ep018_ruins_eva_69319bf1:
 
-    # e "Hey!"
-    e ""
 
-# game/episode018.rpy:1255
+    e "Hé !"
+
+
 translate french ep018_ruins_eva_ccf9f035:
 
-    # e "I was hoping to run into you."
-    e ""
 
-# game/episode018.rpy:1256
+    e "J'espérais te croiser."
+
+
 translate french ep018_ruins_eva_521a3724:
 
-    # c "Were you on the lookout for me?"
-    c ""
 
-# game/episode018.rpy:1257
+    c "Tu me cherchais ?"
+
+
 translate french ep018_ruins_eva_3959e5e5:
 
-    # e "Maybe a little..."
-    e ""
 
-# game/episode018.rpy:1258
+    e "Peut-être un peu..."
+
+
 translate french ep018_ruins_eva_98437b37:
 
-    # c "Let’s take a walk then."
-    c ""
 
-# game/episode018.rpy:1260
+    c "Allons faire un tour alors."
+
+
 translate french ep018_ruins_eva_e6c30b9f:
 
-    # e "Enjoy the sights?"
-    e ""
 
-# game/episode018.rpy:1261
+    e "Profiter de la vue ?"
+
+
 translate french ep018_ruins_eva_f2e7e841:
 
-    # c "Something like that."
-    c ""
 
-# game/episode018.rpy:1262
+    c "Quelque chose comme ça."
+
+
 translate french ep018_ruins_eva_4f64cba5:
 
-    # c "There’s this one dusty wall that you really have to see."
-    c ""
 
-# game/episode018.rpy:1263
+    c "Il y a un mur poussiéreux que tu dois absolument voir."
+
+
 translate french ep018_ruins_eva_210159ac:
 
-    # e "Haha, lead the way."
-    e ""
 
-# game/episode018.rpy:1265
+    e "Haha, ouvre la voie."
+
+
 translate french ep018_ruins_eva_44b11120:
 
-    # "We walked together for a while, Eva casting furtive glances at me."
-    ""
 
-# game/episode018.rpy:1267
+    "Nous avons marché ensemble pendant un moment, Eva me jetant des regards furtifs."
+
+
 translate french ep018_ruins_eva_cff37c25:
 
-    # "When we were well away from the square where we made our living quarters, my sister spoke up."
-    ""
 
-# game/episode018.rpy:1269
+    "Lorsque nous nous sommes éloignées de la place où nous avions établi nos quartiers, ma sœur a pris la parole."
+
+
 translate french ep018_ruins_eva_0f81ae62:
 
-    # "When we were well away from the square where we made our living quarters, Eva spoke up."
-    ""
 
-# game/episode018.rpy:1271
+    "Lorsque nous nous sommes éloignées de la place où nous avions établi nos quartiers, Eva a pris la parole."
+
+
 translate french ep018_ruins_eva_35fae042:
 
-    # e "My thoughts keep going back to what we did on the ship."
-    e ""
 
-# game/episode018.rpy:1272
+    e "Mes pensées reviennent sans cesse sur ce que nous avons fait sur le vaisseau."
+
+
 translate french ep018_ruins_eva_16815943:
 
-    # c "No regrets, I hope."
-    c ""
 
-# game/episode018.rpy:1274
+    c "Pas de regrets, j'espère."
+
+
 translate french ep018_ruins_eva_506ab380:
 
-    # e "Are you kidding?!"
-    e ""
 
-# game/episode018.rpy:1276
+    e "Tu te moques de moi ?"
+
+
 translate french ep018_ruins_eva_0a4a6bd4:
 
-    # e "Of course not."
-    e ""
 
-# game/episode018.rpy:1277
+    e "Bien sûr que non."
+
+
 translate french ep018_ruins_eva_c6297ad0:
 
-    # e "I wish we could do it again, right here and now."
-    e ""
 
-# game/episode018.rpy:1278
+    e "J'aimerais que nous puissions le refaire, ici et maintenant."
+
+
 translate french ep018_ruins_eva_9b9def54:
 
-    # c "Then why don’t we?"
-    c ""
 
-# game/episode018.rpy:1280
+    c "Alors pourquoi ne pas le faire ?"
+
+
 translate french ep018_ruins_eva_84205926:
 
-    # e "Somebody might hear us."
-    e ""
 
-# game/episode018.rpy:1281
+    e "Quelqu'un pourrait nous entendre."
+
+
 translate french ep018_ruins_eva_cbd96b73:
 
-    # e "And I don’t want my second time to be on the cold floor of some dusty ruin on a forgotten planet."
-    e ""
 
-# game/episode018.rpy:1282
+    e "Et je ne veux pas que ma deuxième fois soit sur le sol froid d'une ruine poussiéreuse sur une planète oubliée."
+
+
 translate french ep018_ruins_eva_8f4d54f4:
 
-    # c "Do I hear a spoiled princess talking?"
-    c ""
 
-# game/episode018.rpy:1284
+    c "Est-ce que j'entends une princesse gâtée parler ?"
+
+
 translate french ep018_ruins_eva_6985d5f0:
 
-    # e "No, I’m the Virgin Queen, remember?"
-    e ""
 
-# game/episode018.rpy:1285
+    e "Non, je suis la reine vierge, tu te souviens ?"
+
+
 translate french ep018_ruins_eva_1d0e7000:
 
-    # c "Liar."
-    c ""
 
-# game/episode018.rpy:1287
+    c "Menteuse."
+
+
 translate french ep018_ruins_eva_2b293229:
 
-    # e "Well, I’m a Queen in any case."
-    e ""
 
-# game/episode018.rpy:1288
+    e "Eh bien, je suis une reine dans tous les cas."
+
+
 translate french ep018_ruins_eva_3cba7feb:
 
-    # c "So you are."
-    c ""
 
-# game/episode018.rpy:1292
+    c "Tu l'es aussi."
+
+
 translate french ep018_ruins_eva_f39e62d9:
 
-    # e "So...{w} Uh...{w} Have you done this with Lilly as well?"
-    e ""
 
-# game/episode018.rpy:1294
+    e "Alors...{w} Euh...{w} Tu as fait ça avec Lilly aussi ?"
+
+
 translate french ep018_ruins_eva_eb26335d:
 
-    # e "So...{w} Uh...{w} Have you done this with Aven as well?"
-    e ""
 
-# game/episode018.rpy:1296
+    e "Alors...{w} Euh...{w} As-tu fait ça avec Aven aussi ?"
+
+
 translate french ep018_ruins_eva_e0ffa830:
 
-    # e "So...{w} Uh...{w} Have you done this with other girls as well?"
-    e ""
 
-# game/episode018.rpy:1298
+    e "Alors...{w} Euh...{w} L'as-tu fait aussi avec d'autres filles ?"
+
+
 translate french ep018_ruins_eva_c7a9164a:
 
-    # e "So...{w} Uh...{w} Have you done this with [romances] as well?"
-    e ""
 
-# game/episode018.rpy:1299
+    e "Alors...{w} Euh...{w} L'as-tu fait aussi avec [romances] ?"
+
+
 translate french ep018_ruins_eva_edae782e:
 
-    # c "Are you sure you want to know about that?"
-    c ""
 
-# game/episode018.rpy:1300
+    c "Es-tu sûr de vouloir le savoir ?"
+
+
 translate french ep018_ruins_eva_04e6a3f0:
 
-    # e "I don’t know, I’m just so curious."
-    e ""
 
-# game/episode018.rpy:1302
+    e "Je ne sais pas, je suis tellement curieuse."
+
+
 translate french ep018_ruins_eva_34287ba5:
 
-    # c "But yes, I’ve had sex with Lilly."
-    c ""
 
-# game/episode018.rpy:1303
+    c "Mais oui, j'ai fait l'amour avec Lilly."
+
+
 translate french ep018_ruins_eva_5f4bc788:
 
-    # e "Damn, I hate that Lilly beat me to it."
-    e ""
 
-# game/episode018.rpy:1305
+    e "Bon sang, je déteste que Lilly m'ait devancé."
+
+
 translate french ep018_ruins_eva_940df2d1:
 
-    # c "But yes, I’ve had sex with Aven."
-    c ""
 
-# game/episode018.rpy:1306
+    c "Mais oui, j'ai fait l'amour avec Aven."
+
+
 translate french ep018_ruins_eva_e60c6da7:
 
-    # e "Damn, I hate that Aven beat me to it."
-    e ""
 
-# game/episode018.rpy:1308
+    e "Bon sang, je déteste qu'Aven m'ait devancé."
+
+
 translate french ep018_ruins_eva_c24691de:
 
-    # c "But yes, I’ve had sex with the other girls."
-    c ""
 
-# game/episode018.rpy:1309
+    c "Mais oui, j'ai fait l'amour avec les autres filles."
+
+
 translate french ep018_ruins_eva_bd55d27b:
 
-    # e "Damn, I hate that they beat me to it."
-    e ""
 
-# game/episode018.rpy:1311
+    e "Bon sang, je déteste qu'elles m'aient devancé."
+
+
 translate french ep018_ruins_eva_dd716b72:
 
-    # c "But yes, I’ve had sex with [romances]."
-    c ""
 
-# game/episode018.rpy:1312
+    c "Mais oui, j'ai couché avec [romances]."
+
+
 translate french ep018_ruins_eva_4395dc83:
 
-    # e "Damn, I hate that [romances] beat me to it."
-    e ""
 
-# game/episode018.rpy:1313
+    e "Bon sang, je déteste que [romances] m'ait devancé."
+
+
 translate french ep018_ruins_eva_7f69b1cc:
 
-    # c "It’s not a competition and you were also otherwise occupied for a good time."
-    c ""
 
-# game/episode018.rpy:1315
+    c "Ce n'est pas une compétition et tu étais aussi occupée autrement pour passer un bon moment."
+
+
 translate french ep018_ruins_eva_126c4297:
 
-    # e "Yes, so we really need to play catch-up."
-    e ""
 
-# game/episode018.rpy:1316
+    e "Oui, alors nous devons vraiment rattraper le temps perdu."
+
+
 translate french ep018_ruins_eva_276f449f:
 
-    # c "We will, don’t worry."
-    c ""
 
-# game/episode018.rpy:1317
+    c "Nous le ferons, ne t'inquiète pas."
+
+
 translate french ep018_ruins_eva_30f1b931:
 
-    # c "Is that cold floor in some dusty ruin still not an option?"
-    c ""
 
-# game/episode018.rpy:1318
+    c "Ce sol froid dans une ruine poussiéreuse n'est-il toujours pas une option ?"
+
+
 translate french ep018_ruins_eva_061e1d6d:
 
-    # e "It’s so tempting, but no, I want you to have me on a proper bed, for several nights."
-    e ""
 
-# game/episode018.rpy:1319
+    e "C'est tellement tentant, mais non, je veux que tu me prennes dans un vrai lit, pour plusieurs nuits."
+
+
 translate french ep018_ruins_eva_b7f4b180:
 
-    # c "Noted."
-    c ""
 
-# game/episode018.rpy:1322
+    c "Noté."
+
+
 translate french ep018_ruins_eva_3556446e:
 
-    # e "Is...{w} Uh...{w} How is it when you’re with Lilly?"
-    e ""
 
-# game/episode018.rpy:1324
+    e "Est-ce que...{w} Euh...{w} C'est comment quand tu es avec Lilly ?"
+
+
 translate french ep018_ruins_eva_b46ee5e7:
 
-    # e "Is...{w} Uh...{w} How is it when you’re with Aven?"
-    e ""
 
-# game/episode018.rpy:1326
+    e "Est...{w} Euh...{w} Comment c'est quand tu es avec Aven ?"
+
+
 translate french ep018_ruins_eva_4d629808:
 
-    # e "Is...{w} Uh...{w} How is it when you’re with one of the other girls?"
-    e ""
 
-# game/episode018.rpy:1328
+    e "C'est...{w} Euh...{w} C'est comment quand tu es avec une des autres filles ?"
+
+
 translate french ep018_ruins_eva_2dfbb3d6:
 
-    # e "Is...{w} Uh...{w} How is it when you’re with [romances]?"
-    e ""
 
-# game/episode018.rpy:1329
+    e "Est-ce que...{w} Euh...{w} C'est comment quand tu es avec [romances] ?"
+
+
 translate french ep018_ruins_eva_8fc789d4:
 
-    # c "Again, are you sure you want to know that?"
-    c ""
 
-# game/episode018.rpy:1330
+    c "Encore une fois, es-tu sûr de vouloir le savoir ?"
+
+
 translate french ep018_ruins_eva_a2c152d1:
 
-    # e "Probably not, but I just keep thinking about it."
-    e ""
 
-# game/episode018.rpy:1331
+    e "Probablement pas, mais je n'arrête pas d'y penser."
+
+
 translate french ep018_ruins_eva_2c61bec0:
 
-    # c "Every girl is different and experience doesn’t matter all that much."
-    c ""
 
-# game/episode018.rpy:1333
+    c "Chaque fille est différente et l'expérience ne compte pas tant que ça."
+
+
 translate french ep018_ruins_eva_16dbea6c:
 
-    # c "Lilly was a virgin like you, it’s always special when it’s someone’s first time."
-    c ""
 
-# game/episode018.rpy:1334
+    c "Lilly était vierge comme toi, c'est toujours spécial quand c'est la première fois de quelqu'un."
+
+
 translate french ep018_ruins_eva_fc60a73f:
 
-    # c "Yours was so very special, to me as well."
-    c ""
 
-# game/episode018.rpy:1336
+    c "La tienne a été très spéciale, pour moi aussi."
+
+
 translate french ep018_ruins_eva_0d0f0524:
 
-    # "Eva looked pensive and stared into the distance as we walked on."
-    ""
 
-# game/episode018.rpy:1337
+    "Eva avait l'air pensif et regardait au loin pendant que nous marchions."
+
+
 translate french ep018_ruins_eva_5192920c:
 
-    # "After several minutes, she spoke up again."
-    ""
 
-# game/episode018.rpy:1340
+    "Au bout de quelques minutes, elle reprit la parole."
+
+
 translate french ep018_ruins_eva_bf97835a:
 
-    # e "I thought talking about Lilly would make me incredibly jealous."
-    e ""
 
-# game/episode018.rpy:1342
+    e "Je pensais que parler de Lilly me rendrait incroyablement jalouse."
+
+
 translate french ep018_ruins_eva_4bb7458b:
 
-    # e "I thought talking about Aven would make me incredibly jealous."
-    e ""
 
-# game/episode018.rpy:1344
+    e "J'ai pensé que parler d'Aven me rendrait incroyablement jalouse."
+
+
 translate french ep018_ruins_eva_7c8c79e6:
 
-    # e "I thought talking about the others would make me incredibly jealous."
-    e ""
 
-# game/episode018.rpy:1346
+    e "J'ai pensé que parler des autres me rendrait incroyablement jalouse."
+
+
 translate french ep018_ruins_eva_00d239f4:
 
-    # e "I thought talking about [romances] would make me incredibly jealous."
-    e ""
 
-# game/episode018.rpy:1347
+    e "Je pensais que parler de [romances] me rendrait incroyablement jalouse."
+
+
 translate french ep018_ruins_eva_0c16c5a4:
 
-    # c "But you’re not?"
-    c ""
 
-# game/episode018.rpy:1349
+    c "Mais tu ne l'es pas ?"
+
+
 translate french ep018_ruins_eva_1ac5e581:
 
-    # e "A little."
-    e ""
 
-# game/episode018.rpy:1350
+    e "Un peu."
+
+
 translate french ep018_ruins_eva_616a7bbc:
 
-    # e "But I’m also intrigued."
-    e ""
 
-# game/episode018.rpy:1351
+    e "Mais je suis aussi intriguée."
+
+
 translate french ep018_ruins_eva_994fe34e:
 
-    # c "Intrigued how?"
-    c ""
 
-# game/episode018.rpy:1354
+    c "Intriguée comment ?"
+
+
 translate french ep018_ruins_eva_6a13f392:
 
-    # e "Well, I’m curious about the girls you’re with of course."
-    e ""
 
-# game/episode018.rpy:1356
+    e "Eh bien, je suis curieuse de connaître les filles avec lesquelles tu es, bien sûr."
+
+
 translate french ep018_ruins_eva_73c07546:
 
-    # e "Well, I’m curious about the other girl you’re with of course."
-    e ""
 
-# game/episode018.rpy:1358
+    e "Eh bien, je suis curieuse de connaître l'autre fille avec qui tu es, bien sûr."
+
+
 translate french ep018_ruins_eva_33339b1a:
 
-    # e "But I’m also wondering how you will juggle all of those relationships."
-    e ""
 
-# game/episode018.rpy:1359
+    e "Mais je me demande aussi comment tu vas jongler avec toutes ces relations."
+
+
 translate french ep018_ruins_eva_4ff20549:
 
-    # e "You’re going to be a very busy boy."
-    e ""
 
-# game/episode018.rpy:1363
+    e "Tu vas être un garçon très occupé."
+
+
 translate french ep018_ruins_eva_9cb2d0f6:
 
-    # c "Well, I was hoping that we could find a way forward together."
-    c ""
 
-# game/episode018.rpy:1364
+    c "Eh bien, j'espérais que nous pourrions trouver un moyen d'avancer ensemble."
+
+
 translate french ep018_ruins_eva_de064893:
 
-    # e "A way forward together?"
-    e ""
 
-# game/episode018.rpy:1365
+    e "Un moyen d'avancer ensemble ?"
+
+
 translate french ep018_ruins_eva_82b675c0:
 
-    # e "Do you mean that every girl knows that you aren’t exclusive?"
-    e ""
 
-# game/episode018.rpy:1366
+    e "Tu veux dire que toutes les filles savent que tu n'es pas exclusif ?"
+
+
 translate french ep018_ruins_eva_acc311c0:
 
-    # c "That too, but I’d want us all to be together."
-    c ""
 
-# game/episode018.rpy:1368
+    c "Ça aussi, mais je voudrais que nous soyons tous ensemble."
+
+
 translate french ep018_ruins_eva_eaaef26b:
 
-    # e "You mean like...{w} Having sex together?"
-    e ""
 
-# game/episode018.rpy:1369
+    e "Tu veux dire comme...{w} Faire l'amour ensemble ?"
+
+
 translate french ep018_ruins_eva_4ae39690:
 
-    # c "Possibly."
-    c ""
 
-# game/episode018.rpy:1370
+    c "C'est possible."
+
+
 translate french ep018_ruins_eva_47c8e8ca:
 
-    # c "Though I wouldn’t mind just spending a lazy afternoon cuddling together."
-    c ""
 
-# game/episode018.rpy:1372
+    c "Mais ça ne me dérangerait pas de passer un après-midi à se faire des câlins."
+
+
 translate french ep018_ruins_eva_537a62f5:
 
-    # e "That sounds less scary than orgies."
-    e ""
 
-# game/episode018.rpy:1374
+    e "Cela semble moins effrayant que les orgies."
+
+
 translate french ep018_ruins_eva_9374a592:
 
-    # c "Orgies sure are fun, but also exhausting."
-    c ""
 
-# game/episode018.rpy:1376
+    c "Les orgies sont amusantes, mais aussi épuisantes."
+
+
 translate french ep018_ruins_eva_ae6791f6:
 
-    # c "Orgies sound fun, but also exhausting."
-    c ""
 
-# game/episode018.rpy:1377
+    c "Les orgies ont l'air amusantes, mais aussi épuisantes."
+
+
 translate french ep018_ruins_eva_075b1a52:
 
-    # c "Seriously though, nobody should do anything they’re not comfortable with."
-    c ""
 
-# game/episode018.rpy:1378
+    c "Sérieusement, personne ne devrait faire quelque chose avec lequel il n'est pas à l'aise."
+
+
 translate french ep018_ruins_eva_a0b25033:
 
-    # c "What I’m proposing is to take it slow, just get to know each other more intimately at first and see where it goes."
-    c ""
 
-# game/episode018.rpy:1380
+    c "Ce que je propose, c'est d'y aller doucement, d'apprendre à se connaître plus intimement au début et de voir où ça mène."
+
+
 translate french ep018_ruins_eva_4213c98c:
 
-    # e "See where it goes..."
-    e ""
 
-# game/episode018.rpy:1381
+    e "Voir où ça mène..."
+
+
 translate french ep018_ruins_eva_1b9a8fb9:
 
-    # c "Does that scare you?"
-    c ""
 
-# game/episode018.rpy:1383
+    c "Cela te fait-il peur ?"
+
+
 translate french ep018_ruins_eva_f0230c46:
 
-    # e "To be honest, no."
-    e ""
 
-# game/episode018.rpy:1384
+    e "Pour être honnête, non."
+
+
 translate french ep018_ruins_eva_c52d8a57:
 
-    # e "I must confess I’m still intrigued."
-    e ""
 
-# game/episode018.rpy:1386
+    e "Je dois avouer que je suis toujours intriguée."
+
+
 translate french ep018_ruins_eva_5520ec2f:
 
-    # e "I mean I’ve seen some of the girls naked, but just when they came out of the shower."
-    e ""
 
-# game/episode018.rpy:1388
+    e "Je veux dire que j'ai vu certaines filles nues, mais juste quand elles sortaient de la douche."
+
+
 translate french ep018_ruins_eva_6698447a:
 
-    # e "I mean I’ve seen [romances] naked, but just when she came out of the shower."
-    e ""
 
-# game/episode018.rpy:1390
+    e "Je veux dire que j'ai vu [romances] nue, mais juste quand elle sortait de la douche."
+
+
 translate french ep018_ruins_eva_5fae8c3f:
 
-    # e "What you’re proposing is a whole different mindset."
-    e ""
 
-# game/episode018.rpy:1391
+    e "Ce que tu proposes, c'est un tout autre état d'esprit."
+
+
 translate french ep018_ruins_eva_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode018.rpy:1392
+    c "Je sais."
+
+
 translate french ep018_ruins_eva_200fd522:
 
-    # c "That’s why I said that there’s no rush."
-    c ""
 
-# game/episode018.rpy:1394
+    c "C'est pourquoi j'ai dit qu'il n'y avait pas d'urgence."
+
+
 translate french ep018_ruins_eva_8fdd208f:
 
-    # e "I get that."
-    e ""
 
-# game/episode018.rpy:1396
+    e "Je comprends."
+
+
 translate french ep018_ruins_eva_dfc933be:
 
-    # e "Well, when you do get all the other girls together in one room, I want to be at your side."
-    e ""
 
-# game/episode018.rpy:1398
+    e "Eh bien, quand tu réuniras toutes les autres filles dans une même pièce, je veux être à tes côtés."
+
+
 translate french ep018_ruins_eva_a2fdef47:
 
-    # e "Well, if you want to try it sometime, I want to be at your side."
-    e ""
 
-# game/episode018.rpy:1400
+    e "Si tu veux essayer un jour, je veux être à tes côtés."
+
+
 translate french ep018_ruins_eva_5117dbce:
 
-    # e "If I can’t be the Virgin Queen any longer, I’ll be the Harem Queen."
-    e ""
 
-# game/episode018.rpy:1401
+    e "Si je ne peux plus être la reine vierge, je serai la reine du harem."
+
+
 translate french ep018_ruins_eva_04a23f5d:
 
-    # c "That’s the spirit."
-    c ""
 
-# game/episode018.rpy:1404
+    c "C'est ça l'esprit."
+
+
 translate french ep018_ruins_eva_8c2de7f2:
 
-    # e "A little humor to mask the fact that I’m still scared shitless about having to share you with [romances]."
-    e ""
 
-# game/episode018.rpy:1406
+    e "Un peu d'humour pour masquer le fait que j'ai toujours une peur bleue de devoir te partager avec [romances]."
+
+
 translate french ep018_ruins_eva_5815491a:
 
-    # e "A little humor to mask the fact that I’m still scared shitless about having to share you with others."
-    e ""
 
-# game/episode018.rpy:1407
+    e "Un peu d'humour pour masquer le fait que j'ai encore une peur bleue de devoir te partager avec d'autres."
+
+
 translate french ep018_ruins_eva_6f9a2078:
 
-    # c "It’s going to be fine, Eva, I promise."
-    c ""
 
-# game/episode018.rpy:1409
+    c "Tout va bien se passer, Eva, je te le promets."
+
+
 translate french ep018_ruins_eva_477242ae:
 
-    # c "I know..."
-    c ""
 
-# game/episode018.rpy:1411
+    c "Je sais..."
+
+
 translate french ep018_ruins_eva_0bf05ea1:
 
-    # c "Lilly is quite jealous."
-    c ""
 
-# game/episode018.rpy:1413
+    c "Lilly est très jalouse."
+
+
 translate french ep018_ruins_eva_50e2e2f1:
 
-    # e "Believe me, I know."
-    e ""
 
-# game/episode018.rpy:1415
+    e "Crois-moi, je le sais."
+
+
 translate french ep018_ruins_eva_3b04e793:
 
-    # c "Some of the girls are quite jealous."
-    c ""
 
-# game/episode018.rpy:1418
+    c "Certaines filles sont très jalouses."
+
+
 translate french ep018_ruins_eva_b0b0c51f:
 
-    # "[romances] might be jealous."
-    ""
 
-# game/episode018.rpy:1420
+    "[romances] pourrait être jalouse."
+
+
 translate french ep018_ruins_eva_c7c5cbe0:
 
-    # c "So I’ll have to keep things separate."
-    c ""
 
-# game/episode018.rpy:1421
+    c "Je vais donc devoir faire la part des choses."
+
+
 translate french ep018_ruins_eva_aa0c7cb0:
 
-    # e "I understand."
-    e ""
 
-# game/episode018.rpy:1423
+    e "Je comprends."
+
+
 translate french ep018_ruins_eva_fd3388a4:
 
-    # e "Just remember you promised we’d play catch-up on the whole sex thing."
-    e ""
 
-# game/episode018.rpy:1424
+    e "Rappelle-toi que tu as promis qu'on rattraperait le temps perdu sur le sexe."
+
+
 translate french ep018_ruins_eva_8b9ed1d3:
 
-    # c "I haven’t forgotten."
-    c ""
 
-# game/episode018.rpy:1425
+    c "Je n'ai pas oublié."
+
+
 translate french ep018_ruins_eva_391ec0f8:
 
-    # c "I promise to have you every way that’s physically possible, multiple times."
-    c ""
 
-# game/episode018.rpy:1427
+    c "Je te promets de t'avoir de toutes les façons physiquement possibles, plusieurs fois."
+
+
 translate french ep018_ruins_eva_b0b1ceb5:
 
-    # e "How romantic!"
-    e ""
 
-# game/episode018.rpy:1429
+    e "Comme c'est romantique !"
+
+
 translate french ep018_ruins_eva_d9990299:
 
-    # e "Damn you, I’m getting all excited again."
-    e ""
 
-# game/episode018.rpy:1432
+    e "Bon sang, je suis à nouveau tout excité."
+
+
 translate french ep018_ruins_eva_bdc4d3e6:
 
-    # e "So...{w} Uh...{w} You’ve been with other girls before, haven’t you?"
-    e ""
 
-# game/episode018.rpy:1433
+    e "Alors...{w} Euh...{w} Tu as déjà été avec d'autres filles, n'est-ce pas ?"
+
+
 translate french ep018_ruins_eva_edae782e_1:
 
-    # c "Are you sure you want to know about that?"
-    c ""
 
-# game/episode018.rpy:1434
+    c "Tu es sûre de vouloir savoir ça ?"
+
+
 translate french ep018_ruins_eva_04e6a3f0_1:
 
-    # e "I don’t know, I’m just so curious."
-    e ""
 
-# game/episode018.rpy:1435
+    e "Je ne sais pas, je suis tellement curieuse."
+
+
 translate french ep018_ruins_eva_297d8037:
 
-    # c "I’ve been with a few."
-    c ""
 
-# game/episode018.rpy:1436
+    c "J'ai été avec quelques unes."
+
+
 translate french ep018_ruins_eva_69c56ec5:
 
-    # e "Is...{w} Uh...{w} How was it...{w} I mean, was it different with me?"
-    e ""
 
-# game/episode018.rpy:1437
+    e "Est-ce que...{w} Euh...{w} Comment c'était...{w} Je veux dire, est-ce que c'était différent avec moi ?"
+
+
 translate french ep018_ruins_eva_8fc789d4_1:
 
-    # c "Again, are you sure you want to know that?"
-    c ""
 
-# game/episode018.rpy:1438
+    c "Encore une fois, es-tu sûr de vouloir le savoir ?"
+
+
 translate french ep018_ruins_eva_a2c152d1_1:
 
-    # e "Probably not, but I just keep thinking about it."
-    e ""
 
-# game/episode018.rpy:1439
+    e "Probablement pas, mais je n'arrête pas d'y penser."
+
+
 translate french ep018_ruins_eva_2c61bec0_1:
 
-    # c "Every girl is different and experience doesn’t matter all that much."
-    c ""
 
-# game/episode018.rpy:1440
+    c "Chaque fille est différente et l'expérience n'a pas beaucoup d'importance."
+
+
 translate french ep018_ruins_eva_be415658:
 
-    # c "But yes, it was different with you."
-    c ""
 
-# game/episode018.rpy:1443
+    c "Mais oui, c'était différent avec toi."
+
+
 translate french ep018_ruins_eva_64dc04bc:
 
-    # c "It’s feels more intimate with family, especially so when it’s your sister’s virginity you’re taking."
-    c ""
 
-# game/episode018.rpy:1445
+    c "C'est plus intime avec la famille, surtout quand c'est la virginité de ta sœur que tu prends."
+
+
 translate french ep018_ruins_eva_f0a77e28:
 
-    # c "I have never taken a girl’s virginity in such an intimate way, let alone my own sister’s."
-    c ""
 
-# game/episode018.rpy:1447
+    c "Je n'ai jamais dépucelé une fille de façon aussi intime, et encore moins ma propre sœur."
+
+
 translate french ep018_ruins_eva_53d193ed:
 
-    # c "I have never taken a girl’s virginity, let alone my own sister’s."
-    c ""
 
-# game/episode018.rpy:1450
+    c "Je n'ai jamais dépucelé une fille, et encore moins ma propre sœur."
+
+
 translate french ep018_ruins_eva_2e99c656:
 
-    # c "It’s rare to take a girl’s virginity in such an intimate way, let alone one of my oldest friend’s."
-    c ""
 
-# game/episode018.rpy:1452
+    c "Il est rare de dépuceler une fille de façon aussi intime, et encore moins une de mes plus vieilles amies."
+
+
 translate french ep018_ruins_eva_1ecf860f:
 
-    # c "I have never taken a girl’s virginity in such an intimate way, let alone one of my oldest friend’s."
-    c ""
 
-# game/episode018.rpy:1454
+    c "Je n'ai jamais dépucelé une fille de manière aussi intime, et encore moins une de mes plus vieilles amies."
+
+
 translate french ep018_ruins_eva_6fbeaccd:
 
-    # c "I have never taken a girl’s virginity, let alone one of my oldest friend’s."
-    c ""
 
-# game/episode018.rpy:1455
+    c "Je n'ai jamais dépucelé une fille, et encore moins l'une de mes plus vieilles amies."
+
+
 translate french ep018_ruins_eva_f3000f6b:
 
-    # c "Giving yourself over to me so completely is something very special and I’m grateful I was the one for you."
-    c ""
 
-# game/episode018.rpy:1457
+    c "Se livrer à moi aussi complètement est quelque chose de très spécial et je suis reconnaissant d'avoir été celui qu'il te fallait."
+
+
 translate french ep018_ruins_eva_9e280f00:
 
-    # e "Me too."
-    e ""
 
-# game/episode018.rpy:1458
+    e "Moi aussi."
+
+
 translate french ep018_ruins_eva_d9990299_1:
 
-    # e "Damn you, I’m getting all excited again."
-    e ""
 
-# game/episode018.rpy:1459
+    e "Bon sang, je suis à nouveau tout excité."
+
+
 translate french ep018_ruins_eva_2b1f1c1f:
 
-    # e "Kiss me, [p_name_short]!"
-    e ""
 
-# game/episode018.rpy:1461
+    e "Embrasse-moi, [p_name_short] !"
+
+
 translate french ep018_ruins_eva_c6419097:
 
-    # "Eva and I bumped against the wall of one of the buildings and kissed passionately."
-    ""
 
-# game/episode018.rpy:1463
+    "Eva et moi nous sommes heurtés au mur d'un des bâtiments et nous nous sommes embrassés passionnément."
+
+
 translate french ep018_ruins_eva_deda2ab6:
 
-    # e "I wish we could go back to the Bastard and spend the whole day in bed."
-    e ""
 
-# game/episode018.rpy:1465
+    e "J'aimerais qu'on retourne au Bastard et qu'on passe toute la journée au lit."
+
+
 translate french ep018_ruins_eva_b2ef057f:
 
-    # c "Infiltrate a foreign army, steal a Key and be back in no-time on our ship in another galaxy for a prolonged stay in bed with my sister, easy-peasy."
-    c ""
 
-# game/episode018.rpy:1467
+    c "Infiltrer une armée étrangère, voler une Clé et être de retour en un rien de temps sur notre vaisseau dans une autre galaxie pour un séjour prolongé au lit avec ma sœur, fastoche."
+
+
 translate french ep018_ruins_eva_caf32abf:
 
-    # c "Infiltrate a foreign army, steal a Key and be back in no-time on our ship in another galaxy for a prolonged stay in bed with my lover, easy-peasy."
-    c ""
 
-# game/episode018.rpy:1468
+    c "Infiltrer une armée étrangère, voler une Clé et être de retour en un rien de temps sur notre vaisseau dans une autre galaxie pour un séjour prolongé au lit avec mon amante, fastoche."
+
+
 translate french ep018_ruins_eva_9ab1e82c:
 
-    # e "It sounds like we’ll be more likely captured or killed completing those first two tasks, but I guess that timetable will have to be enough."
-    e ""
 
-# game/episode018.rpy:1470
+    e "Il semblerait que nous soyons plus susceptibles d'être capturés ou tués en accomplissant ces deux premières tâches, mais je suppose que cet emploi du temps devra suffire."
+
+
 translate french ep018_ruins_eva_1eabcdae:
 
-    # e "Walk me back?"
-    e ""
 
-# game/episode018.rpy:1471
+    e "Tu me raccompagnes ?"
+
+
 translate french ep018_ruins_eva_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode018.rpy:1473
+    c "Bien sûr."
+
+
 translate french ep018_ruins_eva_01b0be40:
 
-    # "My sister and I headed back to the building where she was camping."
-    ""
 
-# game/episode018.rpy:1475
+    "Ma sœur et moi sommes retournées au bâtiment où elle campait."
+
+
 translate french ep018_ruins_eva_94213a78:
 
-    # "Eva and I headed back to the building where she was camping."
-    ""
 
-# game/episode018.rpy:1477
+    "Eva et moi sommes retournés au bâtiment où elle campait."
+
+
 translate french ep018_ruins_eva_9796186b:
 
-    # "Near the entrance, she took my hand and embraced me."
-    ""
 
-# game/episode018.rpy:1478
+    "Près de l'entrée, elle m'a pris la main et m'a enlacée."
+
+
 translate french ep018_ruins_eva_7edf0971:
 
-    # e "One last kiss."
-    e ""
 
-# game/episode018.rpy:1480
+    e "Un dernier baiser."
+
+
 translate french ep018_ruins_eva_f29313ef:
 
-    # "Oblivious to our surroundings, Eva and I kissed again, unconcerned about who might catch us in the act."
-    ""
 
-# game/episode018.rpy:1482
+    "Ignorant tout de notre environnement, Eva et moi nous sommes de nouveau embrassés, sans nous soucier de ceux qui pourraient nous prendre sur le fait."
+
+
 translate french ep018_ruins_eva_40a3e783:
 
-    # e "Sleep well, [p_name_short]."
-    e ""
 
-# game/episode018.rpy:1483
+    e "Dors bien, [p_name_short]."
+
+
 translate french ep018_ruins_eva_50a647c6:
 
-    # c "You too, Eva."
-    c ""
 
-# game/episode018.rpy:1491
+    c "Toi aussi, Eva."
+
+
 translate french ep018_ruins_lilly_celine_81bca086:
 
-    # "The sound of angry female voices echoed through the night."
-    ""
 
-# game/episode018.rpy:1492
+    "Des voix de femmes en colère résonnent dans la nuit."
+
+
 translate french ep018_ruins_lilly_celine_d616ed40:
 
-    # "We were well away from the temple, but there was no way to tell how far the sounds carried."
-    ""
 
-# game/episode018.rpy:1493
+    "Nous étions bien loin du temple, mais il n'y avait aucun moyen de savoir jusqu'où les sons portaient."
+
+
 translate french ep018_ruins_lilly_celine_00b9de48:
 
-    # "Getting caught by the Sovereignty because of an argument didn’t seem like a great tactic, so I headed towards the noise to put an end to it."
-    ""
 
-# game/episode018.rpy:1495
+    "Se faire attraper par la Souveraineté à cause d'une dispute ne me semblait pas être une excellente tactique, alors je me suis dirigé vers le bruit pour y mettre fin."
+
+
 translate french ep018_ruins_lilly_celine_e9d4bb59:
 
-    # ce "What gives you the right to ask him first?!"
-    ce ""
 
-# game/episode018.rpy:1497
+    ce "Qu'est-ce qui te donne le droit de lui demander en premier ?!"
+
+
 translate french ep018_ruins_lilly_celine_1a93982e:
 
-    # l "Because I’m his sister and his girlfriend, that’s why."
-    l ""
 
-# game/episode018.rpy:1499
+    l "Parce que je suis sa sœur et sa petite amie, voilà pourquoi."
+
+
 translate french ep018_ruins_lilly_celine_541d238f:
 
-    # l "Because I’m his girlfriend, that’s why."
-    l ""
 
-# game/episode018.rpy:1500
+    l "Parce que je suis sa petite amie, voilà pourquoi."
+
+
 translate french ep018_ruins_lilly_celine_e16629fb:
 
-    # ce "I’ve been his girlfriend for far longer."
-    ce ""
 
-# game/episode018.rpy:1501
+    ce "Je suis sa petite amie depuis bien plus longtemps."
+
+
 translate french ep018_ruins_lilly_celine_5448bd75:
 
-    # l "So what’s your point, you’re old news?"
-    l ""
 
-# game/episode018.rpy:1502
+    l "Alors où veux-tu en venir, tu es une vieille histoire ?"
+
+
 translate french ep018_ruins_lilly_celine_9ff21b99:
 
-    # l "Boring little Céline, flying the ship and still pining for the same boy she had a crush on at the Academy."
-    l ""
 
-# game/episode018.rpy:1504
+    l "L'ennuyeuse petite Céline, qui pilote le vaisseau et se languit toujours du même garçon pour lequel elle avait le béguin à l'Académie."
+
+
 translate french ep018_ruins_lilly_celine_6c06cb77:
 
-    # ce "Oh fuck off, why are you being such a baby?"
-    ce ""
 
-# game/episode018.rpy:1505
+    ce "Oh putain, pourquoi tu fais le bébé ?"
+
+
 translate french ep018_ruins_lilly_celine_5978ebe9:
 
-    # l "I’m being a baby?!"
-    l ""
 
-# game/episode018.rpy:1506
+    l "Je suis un bébé ?!"
+
+
 translate french ep018_ruins_lilly_celine_d9abd375:
 
-    # l "Why I-"
-    l ""
 
-# game/episode018.rpy:1507
+    l "Pourquoi je..."
+
+
 translate french ep018_ruins_lilly_celine_436eec99:
 
-    # c "Girls, keep it the fuck down!"
-    c ""
 
-# game/episode018.rpy:1509
+    c "Les filles, baissez d'un ton !"
+
+
 translate french ep018_ruins_lilly_celine_0d74a8c9:
 
-    # c "Everyone can hear you arguing from a mile away."
-    c ""
 
-# game/episode018.rpy:1511
+    c "Tout le monde peut vous entendre vous disputer à des kilomètres à la ronde."
+
+
 translate french ep018_ruins_lilly_celine_1321c250:
 
-    # l "Oh, [p_name_short], we were just talking about-"
-    l ""
 
-# game/episode018.rpy:1513
+    l "Oh, [p_name_short], on parlait juste de..."
+
+
 translate french ep018_ruins_lilly_celine_eefb77ce:
 
-    # c "Yes, talking about me, I heard, and so did anyone else nearby, probably."
-    c ""
 
-# game/episode018.rpy:1514
+    c "Oui, on parlait de moi, j'ai entendu, et toutes les personnes qui se trouvaient à proximité aussi, probablement."
+
+
 translate french ep018_ruins_lilly_celine_f5fb7552:
 
-    # c "Could you both calm down please and sit down so we can discuss this as adults?"
-    c ""
 
-# game/episode018.rpy:1516
+    c "Pourriez-vous toutes les deux vous calmer s'il vous plaît et vous asseoir pour que nous puissions en discuter en tant qu'adultes ?"
+
+
 translate french ep018_ruins_lilly_celine_33eedc98:
 
-    # ce "But she-"
-    ce ""
 
-# game/episode018.rpy:1517
+    ce "Mais elle..."
+
+
 translate french ep018_ruins_lilly_celine_c9fcd189:
 
-    # c "Céline, sit down!"
-    c ""
 
-# game/episode018.rpy:1519
+    c "Céline, assieds-toi !"
+
+
 translate french ep018_ruins_lilly_celine_92157af9:
 
-    # "Both girls sat down next to each other."
-    ""
 
-# game/episode018.rpy:1520
+    "Les deux filles se sont assises l'une à côté de l'autre."
+
+
 translate french ep018_ruins_lilly_celine_051b6675:
 
-    # "They now glared at me instead of each other, which could be called progress of a sort."
-    ""
 
-# game/episode018.rpy:1521
+    "Elles me fixent maintenant au lieu de se fixer l'une l'autre, ce qui peut être considéré comme un progrès."
+
+
 translate french ep018_ruins_lilly_celine_f66bf621:
 
-    # c "So, what’s the matter?"
-    c ""
 
-# game/episode018.rpy:1522
+    c "Alors, qu'est-ce qu'il y a ?"
+
+
 translate french ep018_ruins_lilly_celine_5ffc9e6b:
 
-    # "The girls were about to launch into two individual rants, so I quickly put a stop to it."
-    ""
 
-# game/episode018.rpy:1523
+    "Les filles étaient sur le point de se lancer dans deux crises individuelles, alors j'ai rapidement mis un terme à tout cela."
+
+
 translate french ep018_ruins_lilly_celine_bf88c52a:
 
-    # c "One at a time."
-    c ""
 
-# game/episode018.rpy:1524
+    c "Une à la fois."
+
+
 translate french ep018_ruins_lilly_celine_6d43cb87:
 
-    # c "Lilly, why were you shouting at Céline?"
-    c ""
 
-# game/episode018.rpy:1526
+    c "Lilly, pourquoi as-tu crié sur Céline ?"
+
+
 translate french ep018_ruins_lilly_celine_27aa8769:
 
-    # l "I wanted to come visit you tonight and Céline didn’t seem to like that."
-    l ""
 
-# game/episode018.rpy:1528
+    l "Je voulais venir te voir ce soir et Céline n'avait pas l'air d'apprécier."
+
+
 translate french ep018_ruins_lilly_celine_5b6bf57c:
 
-    # ce "You were trying to sneak away."
-    ce ""
 
-# game/episode018.rpy:1529
+    ce "Tu essayais de t'enfuir en douce."
+
+
 translate french ep018_ruins_lilly_celine_5bb90e90:
 
-    # l "So what, I didn’t want to disturb you."
-    l ""
 
-# game/episode018.rpy:1530
+    l "Et alors, je ne voulais pas te déranger."
+
+
 translate french ep018_ruins_lilly_celine_aee6a7eb:
 
-    # ce "Sure, you did it out of the goodness of your own heart, leaving me alone so you could be with my boyfriend."
-    ce ""
 
-# game/episode018.rpy:1532
+    ce "Bien sûr, tu l'as fait par bonté d'âme, en me laissant seule pour être avec mon copain."
+
+
 translate french ep018_ruins_lilly_celine_e9afd3ab:
 
-    # l "Oh fuck you, Céline, you’re being such a bitch."
-    l ""
 
-# game/episode018.rpy:1534
+    l "Oh, va te faire foutre, Céline, tu es une vraie salope."
+
+
 translate french ep018_ruins_lilly_celine_5d5b5511:
 
-    # ce "Well, you’re a sneaky slut who wants to fuck her brother."
-    ce ""
 
-# game/episode018.rpy:1536
+    ce "Eh bien, tu es une salope sournoise qui veut baiser son frère."
+
+
 translate french ep018_ruins_lilly_celine_d73e9676:
 
-    # ce "Well, you’re a sneaky slut who wants to fuck my boyfriend."
-    ce ""
 
-# game/episode018.rpy:1537
+    ce "Eh bien, tu es une salope sournoise qui veut baiser mon petit ami."
+
+
 translate french ep018_ruins_lilly_celine_b6fd9934:
 
-    # l "Wow, what a comeback!"
-    l ""
 
-# game/episode018.rpy:1538
+    l "Wow, quel retour !"
+
+
 translate french ep018_ruins_lilly_celine_626e081b:
 
-    # c "Girls, please..."
-    c ""
 
-# game/episode018.rpy:1540
+    c "Les filles, s'il vous plaît..."
+
+
 translate french ep018_ruins_lilly_celine_fa0a45b7:
 
-    # c "Céline, why are you so angry with Lilly?"
-    c ""
 
-# game/episode018.rpy:1542
+    c "Céline, pourquoi es-tu si en colère contre Lilly ?"
+
+
 translate french ep018_ruins_lilly_celine_b66e5ddd:
 
-    # ce "Because I want to be with you, we haven’t seen enough of each other for a while now."
-    ce ""
 
-# game/episode018.rpy:1543
+    ce "Parce que j'ai envie d'être avec toi, ça fait un moment qu'on ne se voit plus assez."
+
+
 translate french ep018_ruins_lilly_celine_c210ca68:
 
-    # ce "I miss you."
-    ce ""
 
-# game/episode018.rpy:1544
+    ce "Tu me manques."
+
+
 translate french ep018_ruins_lilly_celine_81ad87a2:
 
-    # c "But that’s not really Lilly’s fault, is it?"
-    c ""
 
-# game/episode018.rpy:1546
+    c "Mais ce n'est pas vraiment la faute de Lilly, n'est-ce pas ?"
+
+
 translate french ep018_ruins_lilly_celine_a54179e2:
 
-    # ce "No...{w} Maybe...{w} Why are you picking her side?"
-    ce ""
 
-# game/episode018.rpy:1547
+    ce "Non...{w} Peut-être...{w} Pourquoi prends-tu son parti ?"
+
+
 translate french ep018_ruins_lilly_celine_ab900a05:
 
-    # c "I’m not."
-    c ""
 
-# game/episode018.rpy:1548
+    c "Je ne le fais pas."
+
+
 translate french ep018_ruins_lilly_celine_e677a2ee:
 
-    # c "Lilly, there’s no reason for sneaking off to meet me."
-    c ""
 
-# game/episode018.rpy:1549
+    c "Lilly, tu n'as aucune raison de venir me voir en cachette."
+
+
 translate french ep018_ruins_lilly_celine_05d3dc35:
 
-    # c "You could just tell Céline, couldn’t you, in our new spirit of openness?"
-    c ""
 
-# game/episode018.rpy:1551
+    c "Tu pourrais simplement le dire à Céline, n'est-ce pas, dans notre nouvel esprit d'ouverture ?"
+
+
 translate french ep018_ruins_lilly_celine_2a7683b4:
 
-    # l "If I told her she would have wanted to come with."
-    l ""
 
-# game/episode018.rpy:1552
+    l "Si je lui avais dit, elle aurait voulu venir avec moi."
+
+
 translate french ep018_ruins_lilly_celine_89f66100:
 
-    # c "Yes, maybe, but what’s the problem with that?"
-    c ""
 
-# game/episode018.rpy:1553
+    c "Oui, peut-être, mais quel est le problème ?"
+
+
 translate french ep018_ruins_lilly_celine_6cf65a20:
 
-    # c "We agreed to give this equal relationship a shot, didn’t we?"
-    c ""
 
-# game/episode018.rpy:1555
+    c "Nous étions d'accord pour donner une chance à cette relation d'égal à égal, n'est-ce pas ?"
+
+
 translate french ep018_ruins_lilly_celine_6df7e170:
 
-    # ce "We did."
-    ce ""
 
-# game/episode018.rpy:1557
+    ce "Nous l'avons fait."
+
+
 translate french ep018_ruins_lilly_celine_bc5c265b:
 
-    # l "Yes."
-    l ""
 
-# game/episode018.rpy:1573
+    l "Oui."
+
+
 translate french ep018_lilly_celine_8c269170:
 
-    # "Céline suddenly moved over to Lilly and straddled her."
-    ""
 
-# game/episode018.rpy:1574
+    "Céline s'est soudain approchée de Lilly et l'a chevauchée."
+
+
 translate french ep018_lilly_celine_b52899ae:
 
-    # ce "Are we going to give him what he wants?"
-    ce ""
 
-# game/episode018.rpy:1575
+    ce "Est-ce qu'on va lui donner ce qu'il veut ?"
+
+
 translate french ep018_lilly_celine_b3ef1b9b:
 
-    # l "Maybe..."
-    l ""
 
-# game/episode018.rpy:1578
+    l "Peut-être..."
+
+
 translate french ep018_lilly_celine_6540f60b:
 
-    # "Céline pressed a kiss on my surprised sister’s lips."
-    ""
 
-# game/episode018.rpy:1580
+    "Céline a déposé un baiser sur les lèvres de ma sœur surprise."
+
+
 translate french ep018_lilly_celine_51911a9f:
 
-    # "Céline pressed a kiss on her surprised friend’s lips."
-    ""
 
-# game/episode018.rpy:1582
+    "Céline a déposé un baiser sur les lèvres de son amie surprise."
+
+
 translate french ep018_lilly_celine_be839b09:
 
-    # "After mere seconds, Lilly closed her eyes and gave in to her friend."
-    ""
 
-# game/episode018.rpy:1583
+    "Après quelques secondes, Lilly a fermé les yeux et a cédé à son amie."
+
+
 translate french ep018_lilly_celine_e765d456:
 
-    # "The change of heart in both girls was rather remarkable, but I didn’t complain because they both looked so hot."
-    ""
 
-# game/episode018.rpy:1584
+    "Le changement de comportement des deux filles était plutôt remarquable, mais je ne me suis pas plaint parce qu'elles étaient toutes les deux très sexy."
+
+
 translate french ep018_lilly_celine_4ebf5a9f:
 
-    # "Their kissing had a dangerous edge, because Lilly and Céline were still carrying a grudge."
-    ""
 
-# game/episode018.rpy:1586
+    "Leur baiser avait un côté dangereux, car Lilly et Céline étaient encore rancunières."
+
+
 translate french ep018_lilly_celine_cab7ec50:
 
-    # "Céline bit my sister’s lower lip as their mouths decoupled, while Lilly’s fingers dug deep into the flesh of Céline’s ass."
-    ""
 
-# game/episode018.rpy:1588
+    "Céline a mordu la lèvre inférieure de ma sœur lorsque leurs bouches se sont découplées, tandis que les doigts de Lilly s'enfonçaient profondément dans la chair du cul de Céline."
+
+
 translate french ep018_lilly_celine_1cfec69b:
 
-    # "Céline bit my friend’s lower lip as their mouths decoupled, while Lilly’s fingers dug deep into the flesh of Céline’s ass."
-    ""
 
-# game/episode018.rpy:1591
+    "Céline a mordu la lèvre inférieure de mon amie alors que leurs bouches se découplaient, tandis que les doigts de Lilly s'enfonçaient profondément dans la chair du cul de Céline."
+
+
 translate french ep018_lilly_celine_60575e23:
 
-    # "Céline turned towards me, leaving Lilly visibly eager for more of her mouth."
-    ""
 
-# game/episode018.rpy:1592
+    "Céline s'est tournée vers moi, laissant Lilly visiblement avide de sa bouche."
+
+
 translate french ep018_lilly_celine_d057081e:
 
-    # ce "This is what you want, isn’t it, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1593
+    ce "C'est ce que tu veux, n'est-ce pas, [p_name_short] ?"
+
+
 translate french ep018_lilly_celine_b223e259:
 
-    # c "It certainly looks better on both of you than the constant bickering and fighting."
-    c ""
 
-# game/episode018.rpy:1594
+    c "Cela vous va certainement mieux à toutes les deux que de vous chamailler et de vous battre constamment."
+
+
 translate french ep018_lilly_celine_0a1fffcd:
 
-    # ce "Does it now?"
-    ce ""
 
-# game/episode018.rpy:1596
+    ce "C'est le cas maintenant ?"
+
+
 translate french ep018_lilly_celine_aaa0d423:
 
-    # ce "Should we give your brother more you think, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1598
+    ce "Devrions-nous donner plus à ton frère, penses-tu, Lilly ?"
+
+
 translate french ep018_lilly_celine_37bc2010:
 
-    # ce "Should we give [p_name] more you think, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1599
+    ce "Devrions-nous donner [p_name] plus, tu penses, Lilly ?"
+
+
 translate french ep018_lilly_celine_297db8ac:
 
-    # ce "Does he deserve more?"
-    ce ""
 
-# game/episode018.rpy:1600
+    ce "Est-ce qu'il mérite plus ?"
+
+
 translate french ep018_lilly_celine_66415b1e:
 
-    # ce "He’s the one who got us into this mess after all."
-    ce ""
 
-# game/episode018.rpy:1601
+    ce "C'est lui qui nous a mis dans ce pétrin après tout."
+
+
 translate french ep018_lilly_celine_40a392bb:
 
-    # l "Fair point."
-    l ""
 
-# game/episode018.rpy:1602
+    l "C'est vrai."
+
+
 translate french ep018_lilly_celine_51febda7:
 
-    # l "Let’s indulge him a little though."
-    l ""
 
-# game/episode018.rpy:1604
+    l "Mais faisons-lui un peu plaisir."
+
+
 translate french ep018_lilly_celine_69d715d8:
 
-    # "Céline slipped a hand inside Lilly’s top and exposed one of her freckled breasts."
-    ""
 
-# game/episode018.rpy:1606
+    "Céline glisse une main à l'intérieur du haut de Lilly et dévoile l'un de ses seins couverts de taches de rousseur."
+
+
 translate french ep018_lilly_celine_258ae38d:
 
-    # ce "What do you think, [p_name_short], want to play with your sister’s gorgeous breasts?"
-    ce ""
 
-# game/episode018.rpy:1608
+    ce "Qu'en penses-tu, [p_name_short], tu veux jouer avec les magnifiques seins de ta sœur ?"
+
+
 translate french ep018_lilly_celine_44d2a595:
 
-    # ce "What do you think, [p_name_short], want to play with Lilly’s gorgeous breasts?"
-    ce ""
 
-# game/episode018.rpy:1609
+    ce "Qu'est-ce que tu en penses, [p_name_short], tu veux jouer avec les magnifiques seins de Lilly ?"
+
+
 translate french ep018_lilly_celine_87a12768:
 
-    # c "Not sure, they’re still covered in too much fabric."
-    c ""
 
-# game/episode018.rpy:1611
+    c "Pas sûr, ils sont encore recouverts de trop de tissu."
+
+
 translate french ep018_lilly_celine_9386ed98:
 
-    # "Céline proceeded to take off Lilly’s top and also slipped out of her own shirt."
-    ""
 
-# game/episode018.rpy:1613
+    "Céline entreprend d'enlever le haut de Lilly et se débarrasse également de sa propre chemise."
+
+
 translate french ep018_lilly_celine_154ec337:
 
-    # ce "You want these, don’t you, [p_name]?"
-    ce ""
 
-# game/episode018.rpy:1614
+    ce "Tu veux ça, n'est-ce pas, [p_name] ?"
+
+
 translate french ep018_lilly_celine_8e799631:
 
-    # c "That’s more like it."
-    c ""
 
-# game/episode018.rpy:1615
+    c "C'est plutôt ça."
+
+
 translate french ep018_lilly_celine_8ae8a545:
 
-    # ce "You’re going to have to wait your turn, because we’re going to have fun with each other first."
-    ce ""
 
-# game/episode018.rpy:1617
+    ce "Tu vas devoir attendre ton tour, parce qu'on va d'abord s'amuser entre nous."
+
+
 translate french ep018_lilly_celine_a2a4d422:
 
-    # l "Maybe we don’t need my brother at all from now on?"
-    l ""
 
-# game/episode018.rpy:1619
+    l "Peut-être que nous n'avons plus du tout besoin de mon frère à partir de maintenant ?"
+
+
 translate french ep018_lilly_celine_00f49fa3:
 
-    # l "Maybe we don’t need [p_name] at all from now on?"
-    l ""
 
-# game/episode018.rpy:1620
+    l "Peut-être que nous n'avons plus du tout besoin de [p_name] à partir de maintenant ?"
+
+
 translate french ep018_lilly_celine_bc57139b:
 
-    # ce "Oh, there’s a thought."
-    ce ""
 
-# game/episode018.rpy:1621
+    ce "Oh, c'est une idée qui me vient à l'esprit."
+
+
 translate french ep018_lilly_celine_bb359c91:
 
-    # c "Hey now, this is all taking a very wrong turn."
-    c ""
 
-# game/episode018.rpy:1623
+    c "Hé maintenant, tout cela prend une très mauvaise tournure."
+
+
 translate french ep018_lilly_celine_1f0b6f8e:
 
-    # "The girls purposefully ignored me and got out of their remaining clothes."
-    ""
 
-# game/episode018.rpy:1624
+    "Les filles m'ont volontairement ignorée et se sont débarrassées des vêtements qui leur restaient."
+
+
 translate french ep018_lilly_celine_660335c2:
 
-    # "They were touching each other a little awkwardly at first, unaccustomed to their nakedness."
-    ""
 
-# game/episode018.rpy:1625
+    "Elles se touchaient un peu maladroitement au début, peu habituées à leur nudité."
+
+
 translate french ep018_lilly_celine_d579c800:
 
-    # "I saw an ember of lust begin to smoulder in both their eyes though as they explored their naked bodies."
-    ""
 
-# game/episode018.rpy:1626
+    "Cependant, j'ai vu une braise de désir commencer à couver dans leurs yeux à mesure qu'elles exploraient leurs corps nus."
+
+
 translate french ep018_lilly_celine_e0b1135d:
 
-    # ce "Your skin is so soft."
-    ce ""
 
-# game/episode018.rpy:1627
+    ce "Ta peau est si douce."
+
+
 translate french ep018_lilly_celine_0737300e:
 
-    # l "I’ll tell you all about my morning moisturizing routine, if you want."
-    l ""
 
-# game/episode018.rpy:1629
+    l "Je te raconterai ma routine matinale d'hydratation, si tu veux."
+
+
 translate french ep018_lilly_celine_2381c89f:
 
-    # ce "Another time, we have to make your brother jealous, remember."
-    ce ""
 
-# game/episode018.rpy:1631
+    ce "Une autre fois, nous devrons rendre ton frère jaloux, souviens-toi."
+
+
 translate french ep018_lilly_celine_4412f439:
 
-    # ce "Another time, we have to make [p_name_short] jealous, remember."
-    ce ""
 
-# game/episode018.rpy:1633
+    ce "Une autre fois, nous devons rendre [p_name_short] jaloux, souviens-toi."
+
+
 translate french ep018_lilly_celine_a11c4511:
 
-    # l "Right."
-    l ""
 
-# game/episode018.rpy:1634
+    l "C'est vrai."
+
+
 translate french ep018_lilly_celine_4224efb9:
 
-    # l "I’d say he’s looking like a famished wolf on a leash at the moment."
-    l ""
 
-# game/episode018.rpy:1635
+    l "Je dirais qu'il a l'air d'un loup affamé tenu en laisse en ce moment."
+
+
 translate french ep018_lilly_celine_560f2585:
 
-    # ce "He sure does."
-    ce ""
 
-# game/episode018.rpy:1636
+    ce "C'est vrai."
+
+
 translate french ep018_lilly_celine_e49139e2:
 
-    # ce "There’s something growing in his pants as well."
-    ce ""
 
-# game/episode018.rpy:1638
+    ce "Il y a aussi quelque chose qui pousse dans son pantalon."
+
+
 translate french ep018_lilly_celine_28ce51a7:
 
-    # "I realized that Céline was right, a raging erection was developing."
-    ""
 
-# game/episode018.rpy:1640
+    "Je me suis rendu compte que Céline avait raison, une érection furieuse est en train de se développer."
+
+
 translate french ep018_lilly_celine_10c2a29c:
 
-    # c "I blame it all on the sight of my naked sister and her equally naked best friend touching each other like fresh lovers."
-    c ""
 
-# game/episode018.rpy:1642
+    c "Je mets ça sur le compte de la vue de ma sœur nue et de sa meilleure amie tout aussi nue qui se touchent comme de fraîches amantes."
+
+
 translate french ep018_lilly_celine_55bbf574:
 
-    # c "I blame it all on the sight of two naked girls touching each other like fresh lovers."
-    c ""
 
-# game/episode018.rpy:1644
+    c "J'en veux pour preuve la vue de deux filles nues qui se touchent comme de fraîches amantes."
+
+
 translate french ep018_lilly_celine_d05b6680:
 
-    # l "Lovers...{w} Now there’s an idea."
-    l ""
 
-# game/episode018.rpy:1646
+    l "Des amantes...{w} Voilà une idée."
+
+
 translate french ep018_lilly_celine_cc4a2a84:
 
-    # "Lilly reached out and dipped her hand between Céline’s legs."
-    ""
 
-# game/episode018.rpy:1647
+    "Lilly a tendu la main et l'a glissée entre les jambes de Céline."
+
+
 translate french ep018_lilly_celine_27fe40c7:
 
-    # "I couldn’t see what Lilly was doing exactly, but I had a pretty clear idea when Céline let out a slight whimper."
-    ""
 
-# game/episode018.rpy:1649
+    "Je ne pouvais pas voir ce que Lilly faisait exactement, mais j'ai eu une idée assez claire quand Céline a laissé échapper un léger gémissement."
+
+
 translate french ep018_lilly_celine_ccac445c:
 
-    # l "I think I found Céline’s sweet spot already."
-    l ""
 
-# game/episode018.rpy:1650
+    l "Je crois que j'ai déjà trouvé le point sensible de Céline."
+
+
 translate french ep018_lilly_celine_49eedf34:
 
-    # ce "You...{w} Have..."
-    ce ""
 
-# game/episode018.rpy:1651
+    ce "Tu...{w} as..."
+
+
 translate french ep018_lilly_celine_4780eb1e:
 
-    # "I couldn’t control myself any longer."
-    ""
 
-# game/episode018.rpy:1652
+    "Je ne pouvais plus me contrôler."
+
+
 translate french ep018_lilly_celine_86da70f2:
 
-    # "While Lilly was fingering Céline, I quickly undressed."
-    ""
 
-# game/episode018.rpy:1653
+    "Pendant que Lilly doigte Céline, je me déshabille rapidement."
+
+
 translate french ep018_lilly_celine_a5d1e5d6:
 
-    # "Lilly eyed my erect member hungrily as I approached."
-    ""
 
-# game/episode018.rpy:1655
+    "Lilly a regardé mon membre en érection avec avidité lorsque je me suis approché."
+
+
 translate french ep018_lilly_celine_c920da7b:
 
-    # l "Look at that, brother-dear looks battle-ready."
-    l ""
 
-# game/episode018.rpy:1657
+    l "Regarde ça, mon frère a l'air prêt à se battre."
+
+
 translate french ep018_lilly_celine_65e84b23:
 
-    # l "Look at that, [p_name]-dear looks battle-ready."
-    l ""
 
-# game/episode018.rpy:1658
+    l "Regarde ça, [p_name]-dear a l'air prêt au combat."
+
+
 translate french ep018_lilly_celine_3413d55f:
 
-    # l "Are you sure we can do without him, Céline?"
-    l ""
 
-# game/episode018.rpy:1659
+    l "Es-tu sûre que nous pouvons nous passer de lui, Céline ?"
+
+
 translate french ep018_lilly_celine_9595ba30:
 
-    # ce "Looking at that magnificent cock of his, I’m suddenly less sure."
-    ce ""
 
-# game/episode018.rpy:1661
+    ce "En regardant sa magnifique bite, je suis soudain moins sûre."
+
+
 translate french ep018_lilly_celine_23edbcb2:
 
-    # "I walked closer, daring one of the girls to take my dick in her hands."
-    ""
 
-# game/episode018.rpy:1664
+    "Je me suis approché, mettant au défi l'une des filles de prendre ma bite dans ses mains."
+
+
 translate french ep018_lilly_celine_f3dc319e:
 
-    # "Céline was still distracted by my sister’s fingers in her slit, so Lilly managed to get first dibs on my cock."
-    ""
 
-# game/episode018.rpy:1666
+    "Céline était encore distraite par les doigts de ma sœur dans sa fente, alors Lilly a réussi à avoir la primeur de ma bite."
+
+
 translate french ep018_lilly_celine_1eca715d:
 
-    # "Céline was still distracted by her friend’s fingers in her slit, so Lilly managed to get first dibs on my cock."
-    ""
 
-# game/episode018.rpy:1668
+    "Céline était encore distraite par les doigts de son amie dans sa fente, alors Lilly a réussi à avoir la primeur de ma bite."
+
+
 translate french ep018_lilly_celine_5892f8cd:
 
-    # l "He’s very hard for us, Céline."
-    l ""
 
-# game/episode018.rpy:1669
+    l "Il est très dur pour nous, Céline."
+
+
 translate french ep018_lilly_celine_a4d47fab:
 
-    # l "I think he likes what he sees."
-    l ""
 
-# game/episode018.rpy:1670
+    l "Je crois qu'il aime ce qu'il voit."
+
+
 translate french ep018_lilly_celine_55961aa4:
 
-    # "Lilly continued stroking me, her other hand still playing with one of Céline’s breasts."
-    ""
 
-# game/episode018.rpy:1672
+    "Lilly a continué à me caresser, son autre main jouant toujours avec l'un des seins de Céline."
+
+
 translate french ep018_lilly_celine_a7b82bb6:
 
-    # "The distraction of my sister’s fingers on her slit gone, Céline shook herself out of her lustful daze."
-    ""
 
-# game/episode018.rpy:1674
+    "La distraction des doigts de ma sœur sur sa fente disparue, Céline s'est secouée pour sortir de son hébétude lascive."
+
+
 translate french ep018_lilly_celine_d0bdff66:
 
-    # "The distraction of Lilly’s fingers on her slit gone, Céline shook herself out of her lustful daze."
-    ""
 
-# game/episode018.rpy:1675
+    "La distraction des doigts de Lilly sur sa fente disparue, Céline s'est secouée pour sortir de son hébétude lascive."
+
+
 translate french ep018_lilly_celine_bc98f282:
 
-    # ce "I’m not sure you’re doing it right, let me help you."
-    ce ""
 
-# game/episode018.rpy:1677
+    ce "Je ne suis pas sûre que tu t'y prennes bien, laisse-moi t'aider."
+
+
 translate french ep018_lilly_celine_552ee61f:
 
-    # "Céline grabbed at my dick, trying to uncoil Lilly’s fingers from it."
-    ""
 
-# game/episode018.rpy:1679
+    "Céline s'est agrippée à ma bite, essayant d'en détacher les doigts de Lilly."
+
+
 translate french ep018_lilly_celine_1d1eb949:
 
-    # l "I know perfectly well what my brother likes, Céline."
-    l ""
 
-# game/episode018.rpy:1681
+    l "Je sais parfaitement ce que mon frère aime, Céline."
+
+
 translate french ep018_lilly_celine_fc88c64f:
 
-    # l "I know perfectly well what he likes, Céline."
-    l ""
 
-# game/episode018.rpy:1682
+    l "Je sais parfaitement ce qu'il aime, Céline."
+
+
 translate french ep018_lilly_celine_ad1d5f78:
 
-    # l "I’ve known him the longest after all."
-    l ""
 
-# game/episode018.rpy:1683
+    l "C'est moi qui le connais depuis le plus longtemps, après tout."
+
+
 translate french ep018_lilly_celine_857038b4:
 
-    # ce "Knowing him is something else than making love to him, Lilly..."
-    ce ""
 
-# game/episode018.rpy:1685
+    ce "Le connaître, c'est autre chose que de lui faire l'amour, Lilly..."
+
+
 translate french ep018_lilly_celine_b78b758a:
 
-    # "Based on the amount of pressure both their hands exerted on my cock, I could tell both girls started to get frustrated with each other again."
-    ""
 
-# game/episode018.rpy:1686
+    "D'après la pression que leurs deux mains exerçaient sur ma queue, je pouvais voir que les deux filles recommençaient à être frustrées l'une par rapport à l'autre."
+
+
 translate french ep018_lilly_celine_bd8209ab:
 
-    # "Both girls were fondling each other’s breasts again, but there wasn’t much tenderness in their respective motions."
-    ""
 
-# game/episode018.rpy:1687
+    "Les deux filles se caressaient à nouveau les seins, mais il n'y avait pas beaucoup de tendresse dans leurs mouvements respectifs."
+
+
 translate french ep018_lilly_celine_b7111c6f:
 
-    # "It was almost as if they were pushing against each other."
-    ""
 
-# game/episode018.rpy:1688
+    "C'était presque comme si elles se poussaient l'une contre l'autre."
+
+
 translate french ep018_lilly_celine_f0e57871:
 
-    # "My suspicions were confirmed when Lilly shoved Céline out of the way and turned her head towards my cock."
-    ""
 
-# game/episode018.rpy:1689
+    "Mes soupçons ont été confirmés lorsque Lilly a écarté Céline de son chemin et a tourné la tête vers ma queue."
+
+
 translate french ep018_lilly_celine_6e69f226:
 
-    # l "[p_name] loves it when I make love to him with my mouth."
-    l ""
 
-# game/episode018.rpy:1692
+    l "[p_name] adore que je lui fasse l'amour avec ma bouche."
+
+
 translate french ep018_lilly_celine_0ecd735f:
 
-    # "Still holding Céline abreast, my sister slipped the tip of my cock inside her mouth."
-    ""
 
-# game/episode018.rpy:1694
+    "Tenant toujours Céline à bout de bras, ma sœur a glissé le bout de ma bite dans sa bouche."
+
+
 translate french ep018_lilly_celine_5465b046:
 
-    # "Still holding Céline abreast, Lilly slipped the tip of my cock inside her mouth."
-    ""
 
-# game/episode018.rpy:1695
+    "Toujours en tenant Céline à bout de bras, Lilly a glissé le bout de ma bite dans sa bouche."
+
+
 translate french ep018_lilly_celine_91d3c18e:
 
-    # "The feeling of her warm mouth made me shudder."
-    ""
 
-# game/episode018.rpy:1697
+    "La sensation de sa bouche chaude m'a fait frissonner."
+
+
 translate french ep018_lilly_celine_3d259a33:
 
-    # "Céline was looking distinctly annoyed, pushed back by the hand on her chest."
-    ""
 
-# game/episode018.rpy:1698
+    "Céline avait l'air très ennuyée, repoussée par la main posée sur sa poitrine."
+
+
 translate french ep018_lilly_celine_bc4205e3:
 
-    # "I really hoped she wouldn’t do anything rash, like pulling Lilly away, because the feeling of her soft mouth wrapped around my cock was heavenly."
-    ""
 
-# game/episode018.rpy:1700
+    "J'espérais vraiment qu'elle ne ferait rien d'irréfléchi, comme éloigner Lilly, parce que la sensation de sa bouche douce autour de ma bite était paradisiaque."
+
+
 translate french ep018_lilly_celine_afc25555:
 
-    # ce "Are you sure she’s treating you right, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1701
+    ce "Es-tu sûr qu'elle te traite bien, [p_name_short] ?"
+
+
 translate french ep018_lilly_celine_090e3033:
 
-    # c "S-she...{w} Is."
-    c ""
 
-# game/episode018.rpy:1702
+    c "Elle... {w} est."
+
+
 translate french ep018_lilly_celine_823e74f9:
 
-    # ce "I can take you a lot deeper, you know."
-    ce ""
 
-# game/episode018.rpy:1703
+    ce "Je peux te prendre beaucoup plus profondément, tu sais."
+
+
 translate french ep018_lilly_celine_7ed692e8:
 
-    # ce "Don’t you want me to deepthroat you?"
-    ce ""
 
-# game/episode018.rpy:1704
+    ce "Tu ne veux pas que je te prenne par la gorge ?"
+
+
 translate french ep018_lilly_celine_5d9434cd:
 
-    # ce "I’d let you fuck my throat until you cum."
-    ce ""
 
-# game/episode018.rpy:1707
+    ce "Je te laisserais baiser ma gorge jusqu'à ce que tu jouisses."
+
+
 translate french ep018_lilly_celine_22f33866:
 
-    # "It took enormous effort, because Céline’s comments and Lilly’s tongue nearly made me shoot my load inside my sister’s mouth."
-    ""
 
-# game/episode018.rpy:1709
+    "Cela m'a demandé un effort énorme, car les commentaires de Céline et la langue de Lilly ont failli me faire exploser dans la bouche de ma sœur."
+
+
 translate french ep018_lilly_celine_6094bed3:
 
-    # "It took enormous effort, because Céline’s comments and Lilly’s tongue nearly made me shoot my load inside her mouth."
-    ""
 
-# game/episode018.rpy:1710
+    "Cela m'a demandé un effort énorme, car les commentaires de Céline et la langue de Lilly m'ont presque fait exploser dans la bouche de ma sœur."
+
+
 translate french ep018_lilly_celine_812a69b4:
 
-    # "Céline grew more annoyed, when Lilly took more of my cock inside her mouth, retching slightly when the tip hit the back of her throat."
-    ""
 
-# game/episode018.rpy:1714
+    "Céline s'est énervée lorsque Lilly a pris une plus grande partie de ma bite dans sa bouche, et a légèrement reculé lorsque le bout de la bite a touché le fond de sa gorge."
+
+
 translate french ep018_lilly_celine_e6d080a4:
 
-    # "My sister still sucking like her life depended on it, Céline suddenly stood up."
-    ""
 
-# game/episode018.rpy:1716
+    "Ma sœur suçait toujours comme si sa vie en dépendait, Céline s'est soudain levée."
+
+
 translate french ep018_lilly_celine_356df2a8:
 
-    # "Lilly still sucking like her life depended on it, Céline suddenly stood up."
-    ""
 
-# game/episode018.rpy:1717
+    "Lilly suçant toujours comme si sa vie en dépendait, Céline s'est soudain levée."
+
+
 translate french ep018_lilly_celine_74c82425:
 
-    # "I was afraid she’d walk out, fuming she’d be denied a chance to blow me, but instead she took position behind Lilly."
-    ""
 
-# game/episode018.rpy:1721
+    "Je craignais qu'elle ne parte, furieuse qu'on lui refuse la possibilité de me sucer, mais au lieu de cela, elle s'est placée derrière Lilly."
+
+
 translate french ep018_lilly_celine_714bdd43:
 
-    # "She draped an arm around my sister, the other resting against her throat."
-    ""
 
-# game/episode018.rpy:1723
+    "Elle a passé un bras autour de ma sœur, l'autre reposant sur sa gorge."
+
+
 translate french ep018_lilly_celine_291afe84:
 
-    # "She draped an arm around Lilly, the other resting against her throat."
-    ""
 
-# game/episode018.rpy:1724
+    "Elle a passé un bras autour de Lilly, l'autre reposant sur sa gorge."
+
+
 translate french ep018_lilly_celine_88447ab5:
 
-    # ce "I think you can take him deeper, Lilly."
-    ce ""
 
-# game/episode018.rpy:1726
+    ce "Je pense que tu peux le prendre plus profondément, Lilly."
+
+
 translate french ep018_lilly_celine_0fcc27a1:
 
-    # "Lilly struggled a little as more of my girth disappeared inside her mouth."
-    ""
 
-# game/episode018.rpy:1727
+    "Lilly s'est un peu débattue alors que ma taille disparaissait de plus en plus dans sa bouche."
+
+
 translate french ep018_lilly_celine_5668f3a5:
 
-    # ce "That’s it."
-    ce ""
 
-# game/episode018.rpy:1728
+    ce "C'est ça."
+
+
 translate french ep018_lilly_celine_5d1e8505:
 
-    # ce "I can feel your dick in her throat, poking against my arm."
-    ce ""
 
-# game/episode018.rpy:1730
+    ce "Je peux sentir ta bite dans sa gorge, qui se heurte à mon bras."
+
+
 translate french ep018_lilly_celine_037c4224:
 
-    # ce "How does your sister’s mouth feel, [p_name]?"
-    ce ""
 
-# game/episode018.rpy:1732
+    ce "Comment est la bouche de ta sœur, [p_name] ?"
+
+
 translate french ep018_lilly_celine_23a1a347:
 
-    # ce "How does Lilly’s mouth feel, [p_name]?"
-    ce ""
 
-# game/episode018.rpy:1733
+    ce "Comment est la bouche de Lilly, [p_name] ?"
+
+
 translate french ep018_lilly_celine_13e05a3a:
 
-    # c "S-she...{w} She’s so tight."
-    c ""
 
-# game/episode018.rpy:1735
+    c "Elle... {w} Elle est si serrée."
+
+
 translate french ep018_lilly_celine_5ae7c4b1:
 
-    # "Céline kept things playful and didn’t push her friend too far."
-    ""
 
-# game/episode018.rpy:1736
+    "Céline est restée enjouée et n'a pas poussé son amie trop loin."
+
+
 translate french ep018_lilly_celine_995ac124:
 
-    # "When Lilly retched, Céline eased her back a little."
-    ""
 
-# game/episode018.rpy:1738
+    "Lorsque Lilly a vomi, Céline l'a fait reculer un peu."
+
+
 translate french ep018_lilly_celine_5668f3a5_1:
 
-    # ce "That’s it."
-    ce ""
 
-# game/episode018.rpy:1739
+    ce "Voilà, c'est ça."
+
+
 translate french ep018_lilly_celine_788a1354:
 
-    # ce "Can you do that again?"
-    ce ""
 
-# game/episode018.rpy:1740
+    ce "Tu peux recommencer ?"
+
+
 translate french ep018_lilly_celine_8c72693a:
 
-    # "Lilly mumbled something affirmative, her speech still impeded by several inches of my flesh stuffed into her mouth."
-    ""
 
-# game/episode018.rpy:1742
+    "Lilly a marmonné quelque chose d'affirmatif, son élocution étant encore entravée par plusieurs centimètres de ma chair enfoncés dans sa bouche."
+
+
 translate french ep018_lilly_celine_93ede98f:
 
-    # "Céline pushed her back onto my cock again and repeated the movement several times."
-    ""
 
-# game/episode018.rpy:1743
+    "Céline l'a repoussée sur ma queue et a répété le mouvement plusieurs fois."
+
+
 translate french ep018_lilly_celine_6c63a75c:
 
-    # "Thick strings of saliva clung to my shaft and Lilly gasped for air as my dick slipped from her mouth."
-    ""
 
-# game/episode018.rpy:1744
+    "D'épais filets de salive s'accrochaient à ma queue et Lilly haletait lorsque ma queue s'est échappée de sa bouche."
+
+
 translate french ep018_lilly_celine_de796a86:
 
-    # ce "Maybe you should take a little break, Lilly."
-    ce ""
 
-# game/episode018.rpy:1746
+    ce "Tu devrais peut-être faire une petite pause, Lilly."
+
+
 translate french ep018_lilly_celine_966ac7d1:
 
-    # "Lilly didn’t respond to her friend and instead began to lick my shaft."
-    ""
 
-# game/episode018.rpy:1747
+    "Lilly n'a pas répondu à son amie et a commencé à lécher ma queue."
+
+
 translate french ep018_lilly_celine_612096a0:
 
-    # "Céline followed her lead soon after and licked my dick clean."
-    ""
 
-# game/episode018.rpy:1751
+    "Céline lui a emboîté le pas peu de temps après et a léché ma queue."
+
+
 translate french ep018_lilly_celine_2923e881:
 
-    # "My sister was about to take my cock inside her mouth again when I steadied her with a hand on her head."
-    ""
 
-# game/episode018.rpy:1753
+    "Ma sœur était sur le point de reprendre ma bite dans sa bouche quand je l'ai stabilisée en posant une main sur sa tête."
+
+
 translate french ep018_lilly_celine_514454e3:
 
-    # "Lilly was about to take my cock inside her mouth again when I steadied her with a hand on her head."
-    ""
 
-# game/episode018.rpy:1754
+    "Lilly était sur le point de reprendre ma bite dans sa bouche quand je l'ai soutenue avec une main sur sa tête."
+
+
 translate french ep018_lilly_celine_573ad761:
 
-    # c "Maybe Céline should take a turn, you and your hot little mouth will make me cum in seconds otherwise."
-    c ""
 
-# game/episode018.rpy:1757
+    c "Céline devrait peut-être prendre son tour, sinon toi et ta petite bouche chaude allez me faire jouir en quelques secondes."
+
+
 translate french ep018_lilly_celine_4fe34ea8:
 
-    # "Lilly relented and allowed Céline to devour my cock."
-    ""
 
-# game/episode018.rpy:1758
+    "Lilly a cédé et a permis à Céline de dévorer ma bite."
+
+
 translate french ep018_lilly_celine_7de83767:
 
-    # l "Just remember that if you make him cum, I did all the hard work."
-    l ""
 
-# game/episode018.rpy:1759
+    l "N'oublie pas que si tu le fais jouir, c'est moi qui ai fait tout le travail."
+
+
 translate french ep018_lilly_celine_018983db:
 
-    # "Céline sucked me as if she had something to prove."
-    ""
 
-# game/episode018.rpy:1761
+    "Céline m'a sucé comme si elle avait quelque chose à prouver."
+
+
 translate french ep018_lilly_celine_086cbaf8:
 
-    # "The ferocity with which she attacked my dick was a little painful at times, so I had to slow her down."
-    ""
 
-# game/episode018.rpy:1762
+    "La férocité avec laquelle elle s'attaquait à ma bite était parfois un peu douloureuse, alors j'ai dû la ralentir."
+
+
 translate french ep018_lilly_celine_51a3576b:
 
-    # l "You don’t have to devour him, you know."
-    l ""
 
-# game/episode018.rpy:1764
+    l "Tu n'es pas obligée de le dévorer, tu sais."
+
+
 translate french ep018_lilly_celine_8ec1506a:
 
-    # "Despite the initial intensity, Céline managed to establish a rhythm that had me soon at the edge."
-    ""
 
-# game/episode018.rpy:1765
+    "Malgré l'intensité initiale, Céline a réussi à établir un rythme qui m'a bientôt mis au bord du gouffre."
+
+
 translate french ep018_lilly_celine_c8154b49:
 
-    # "Precum flowed inside her mouth and a knowing grin played around the corners of her stuffed mouth."
-    ""
 
-# game/episode018.rpy:1766
+    "Du précum a coulé à l'intérieur de sa bouche et un sourire complice a joué aux coins de sa bouche fourrée."
+
+
 translate french ep018_lilly_celine_ffd0f9cd:
 
-    # c "C-Céline!"
-    c ""
 
-# game/episode018.rpy:1768
+    c "C-Céline !"
+
+
 translate french ep018_lilly_celine_317d3fc1:
 
-    # "My simple exclamation made both girls pause and my cock escaped from Céline’s mouth."
-    ""
 
-# game/episode018.rpy:1769
+    "Ma simple exclamation a fait réfléchir les deux filles et ma bite s'est échappée de la bouche de Céline."
+
+
 translate french ep018_lilly_celine_2c5509bb:
 
-    # l "Are we too much for you, [p_name]?"
-    l ""
 
-# game/episode018.rpy:1770
+    l "On est trop pour toi, [p_name] ?"
+
+
 translate french ep018_lilly_celine_a8023e23:
 
-    # c "Maybe...{w} But I just really want to fuck you now."
-    c ""
 
-# game/episode018.rpy:1771
+    c "Peut-être...{w} Mais j'ai vraiment envie de vous baiser maintenant."
+
+
 translate french ep018_lilly_celine_cb546680:
 
-    # l "Ooooh, do we let him, Céline?"
-    l ""
 
-# game/episode018.rpy:1772
+    l "Ooooh, on le laisse faire, Céline ?"
+
+
 translate french ep018_lilly_celine_a33ee466:
 
-    # ce "Yes, I think he’s earned it."
-    ce ""
 
-# game/episode018.rpy:1783
+    ce "Oui, je pense qu'il l'a bien mérité."
+
+
 translate french ep018_l_ce_fucking_2191361a:
 
-    # "I wanted to fuck my sister first, so I pulled Lilly on top of me and wrapped my hands around her waist."
-    ""
 
-# game/episode018.rpy:1785
+    "Je voulais d'abord baiser ma sœur, alors j'ai attiré Lilly sur moi et j'ai enroulé mes mains autour de sa taille."
+
+
 translate french ep018_l_ce_fucking_47d043d2:
 
-    # "I wanted to fuck Lilly first, so I pulled her on top of me and wrapped my hands around her waist."
-    ""
 
-# game/episode018.rpy:1788
+    "Je voulais baiser Lilly en premier, alors je l'ai attirée sur moi et j'ai enroulé mes mains autour de sa taille."
+
+
 translate french ep018_l_ce_fucking_5e4ad8bb:
 
-    # "I pulled my sister on top of me and wrapped my hands around her waist."
-    ""
 
-# game/episode018.rpy:1790
+    "J'ai attiré ma sœur sur moi et j'ai enroulé mes mains autour de sa taille."
+
+
 translate french ep018_l_ce_fucking_1d95e081:
 
-    # "I pulled Lilly on top of me and wrapped my hands around her waist."
-    ""
 
-# game/episode018.rpy:1791
+    "J'ai attiré Lilly sur moi et j'ai enroulé mes mains autour de sa taille."
+
+
 translate french ep018_l_ce_fucking_e99b1516:
 
-    # "Céline was behind her, brushing my cock against Lilly’s ass."
-    ""
 
-# game/episode018.rpy:1793
+    "Céline était derrière elle et frôlait le cul de Lilly avec ma bite."
+
+
 translate french ep018_l_ce_fucking_26904b61:
 
-    # ce "Hmmm, now where should this go, inside my mouth or into that dripping wet pussy?"
-    ce ""
 
-# game/episode018.rpy:1794
+    ce "Hmmm, où dois-je aller, dans ma bouche ou dans cette chatte humide et dégoulinante ?"
+
+
 translate french ep018_l_ce_fucking_1ec0bca1:
 
-    # l "Céline, please!"
-    l ""
 
-# game/episode018.rpy:1795
+    l "Céline, s'il te plaît !"
+
+
 translate french ep018_l_ce_fucking_b432a662:
 
-    # "Lilly’s frustration was certainly a little feigned, but it also had a desperate craving edge."
-    ""
 
-# game/episode018.rpy:1796
+    "La frustration de Lilly était certainement un peu feinte, mais elle avait aussi une pointe d'envie désespérée."
+
+
 translate french ep018_l_ce_fucking_eab98ab0:
 
-    # c "Do you want me inside you, Lilly?"
-    c ""
 
-# game/episode018.rpy:1797
+    c "Veux-tu que je sois en toi, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_11eae247:
 
-    # l "I want nothing else!"
-    l ""
 
-# game/episode018.rpy:1800
+    l "Je ne veux rien d'autre !"
+
+
 translate french ep018_l_ce_fucking_05f1672e:
 
-    # "I felt the roughness of Céline’s tongue on my shaft, giving it one long lick before plunging it into my sister’s pussy."
-    ""
 
-# game/episode018.rpy:1802
+    "J'ai senti la rugosité de la langue de Céline sur ma tige, lui donnant un long coup de langue avant de la plonger dans la chatte de ma sœur."
+
+
 translate french ep018_l_ce_fucking_354e51e5:
 
-    # "I felt the roughness of Céline’s tongue on my shaft, giving it one long lick before plunging it into Lilly’s pussy."
-    ""
 
-# game/episode018.rpy:1803
+    "J'ai senti la rugosité de la langue de Céline sur ma tige, lui donnant un long coup de langue avant de la plonger dans la chatte de Lilly."
+
+
 translate french ep018_l_ce_fucking_c60538b5:
 
-    # "Lilly moaned with pleasure, my dick inching past her moist pussy lips."
-    ""
 
-# game/episode018.rpy:1804
+    "Lilly a gémi de plaisir, ma bite passant devant les lèvres humides de sa chatte."
+
+
 translate french ep018_l_ce_fucking_8cc300a7:
 
-    # ce "Are you going to fuck her hard, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1805
+    ce "Tu vas la baiser à fond, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_19bbfe1c:
 
-    # "In response, I began to thrust."
-    ""
 
-# game/episode018.rpy:1806
+    "En réponse, j'ai commencé à pousser."
+
+
 translate french ep018_l_ce_fucking_d45af93c:
 
-    # ce "Oh my, look at that thick cock splitting that tight pussy."
-    ce ""
 
-# game/episode018.rpy:1809
+    ce "Oh là là, regarde cette grosse bite qui fend cette chatte serrée."
+
+
 translate french ep018_l_ce_fucking_40b16981:
 
-    # "Céline put a hand on my sister’s ass and pressed her tongue against Lilly’s pussy."
-    ""
 
-# game/episode018.rpy:1811
+    "Céline a posé une main sur le cul de ma sœur et a pressé sa langue contre la chatte de Lilly."
+
+
 translate french ep018_l_ce_fucking_0efba2c9:
 
-    # "Céline put a hand on Lilly’s ass and pressed her tongue against the other girl’s pussy."
-    ""
 
-# game/episode018.rpy:1813
+    "Céline a posé une main sur le cul de Lilly et a pressé sa langue contre la chatte de l'autre fille."
+
+
 translate french ep018_l_ce_fucking_17280aa4:
 
-    # "Every time my cock slid out of Lilly, ready to plunge back in again, Céline greedily lapped up her friend’s juices."
-    ""
 
-# game/episode018.rpy:1814
+    "Chaque fois que ma bite glissait hors de Lilly, prête à y replonger, Céline lapait avidement le jus de son amie."
+
+
 translate french ep018_l_ce_fucking_fd96ea4e:
 
-    # "The tightness of Lilly’s pussy never failed to amaze me, every inch was a riot of delight."
-    ""
 
-# game/episode018.rpy:1815
+    "L'étroitesse de la chatte de Lilly ne cessait de m'étonner, chaque centimètre était une émeute de plaisir."
+
+
 translate french ep018_l_ce_fucking_57f39096:
 
-    # l "Oh [p_name_short], I love your cock so much!"
-    l ""
 
-# game/episode018.rpy:1816
+    l "Oh [p_name_short], j'aime tellement ta bite !"
+
+
 translate french ep018_l_ce_fucking_a0560ac1:
 
-    # l "Deeper please!"
-    l ""
 
-# game/episode018.rpy:1817
+    l "Plus profond, s'il te plaît !"
+
+
 translate french ep018_l_ce_fucking_0025b5b2:
 
-    # "Céline stopped what she was doing and walked away from Lilly’s bouncing ass."
-    ""
 
-# game/episode018.rpy:1818
+    "Céline a arrêté ce qu'elle faisait et s'est éloignée du cul rebondi de Lilly."
+
+
 translate french ep018_l_ce_fucking_28d874f8:
 
-    # ce "I think that pussy is wet enough now."
-    ce ""
 
-# game/episode018.rpy:1819
+    ce "Je pense que cette chatte est suffisamment mouillée maintenant."
+
+
 translate french ep018_l_ce_fucking_199673bd:
 
-    # ce "Now you have to work on mine."
-    ce ""
 
-# game/episode018.rpy:1821
+    ce "Il faut maintenant que tu t'occupes de la mienne."
+
+
 translate french ep018_l_ce_fucking_80258026:
 
-    # "Céline lowered her cunt on my mouth, her lower body smothering my head."
-    ""
 
-# game/episode018.rpy:1822
+    "Céline a abaissé sa chatte sur ma bouche, le bas de son corps étouffant ma tête."
+
+
 translate french ep018_l_ce_fucking_acdfde84:
 
-    # "At once, the saline taste of her slit filled my mouth."
-    ""
 
-# game/episode018.rpy:1823
+    "Aussitôt, le goût salin de sa fente a envahi ma bouche."
+
+
 translate french ep018_l_ce_fucking_23f8b27f:
 
-    # "I began to lick her, and Céline moaned while steadying herself against Lilly."
-    ""
 
-# game/episode018.rpy:1826
+    "J'ai commencé à la lécher et Céline a gémi en se stabilisant contre Lilly."
+
+
 translate french ep018_l_ce_fucking_cb769eea:
 
-    # "Lilly sat up straighter and began to grind up and down my cock with more force, allowing me to hit her deep inside her vagina."
-    ""
 
-# game/episode018.rpy:1828
+    "Lilly s'est redressée et a commencé à faire monter et descendre ma bite avec plus de force, ce qui m'a permis de la frapper au plus profond de son vagin."
+
+
 translate french ep018_l_ce_fucking_f2b70734:
 
-    # "The girls moaned in unison, my tongue whirling over Céline’s gash and my cock plunging deep into my sister’s pussy."
-    ""
 
-# game/episode018.rpy:1830
+    "Les filles ont gémi à l'unisson, ma langue tourbillonnant sur l'entaille de Céline et ma bite plongeant profondément dans la chatte de ma sœur."
+
+
 translate french ep018_l_ce_fucking_985e04b8:
 
-    # "The girls moaned in unison, my tongue whirling over Céline’s gash and my cock plunging deep into Lilly’s pussy."
-    ""
 
-# game/episode018.rpy:1831
+    "Les filles ont gémi à l'unisson, ma langue tourbillonnant sur l'entaille de Céline et ma bite plongeant profondément dans la chatte de Lilly."
+
+
 translate french ep018_l_ce_fucking_b68259d8:
 
-    # l "He’s amazing, isn’t he?"
-    l ""
 
-# game/episode018.rpy:1832
+    l "Il est incroyable, n'est-ce pas ?"
+
+
 translate french ep018_l_ce_fucking_b54999f5:
 
-    # ce "So good."
-    ce ""
 
-# game/episode018.rpy:1834
+    ce "Tellement bon."
+
+
 translate french ep018_l_ce_fucking_0e1966bb:
 
-    # ce "How does your brother’s hard cock feel inside you, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1836
+    ce "Comment est la queue dure de ton frère en toi, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_219a82ae:
 
-    # ce "How does [p_name_short]’s hard cock feel inside you, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1837
+    ce "Comment est la queue dure de [p_name_short] en toi, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_58b4635a:
 
-    # l "I love it so much."
-    l ""
 
-# game/episode018.rpy:1838
+    l "Je l'aime tellement."
+
+
 translate french ep018_l_ce_fucking_9a4ea544:
 
-    # ce "His tongue is going to make me cum so hard!"
-    ce ""
 
-# game/episode018.rpy:1840
+    ce "Sa langue va me faire jouir si fort !"
+
+
 translate french ep018_l_ce_fucking_bb373d13:
 
-    # "Their exchange devolved into low moans, as I shoved my tongue inside Céline’s cunt and thrust deep into Lilly."
-    ""
 
-# game/episode018.rpy:1841
+    "Leur échange s'est transformé en gémissements graves, tandis que j'enfonçais ma langue dans la chatte de Céline et que je m'enfonçais profondément dans Lilly."
+
+
 translate french ep018_l_ce_fucking_b701a28c:
 
-    # l "Oh [p_name_short]!{w} [p_name_short]!"
-    l ""
 
-# game/episode018.rpy:1842
+    l "Oh [p_name_short] !{w} [p_name_short] !"
+
+
 translate french ep018_l_ce_fucking_a68e22b8:
 
-    # "I angled my thrusts and Lilly held her breath."
-    ""
 
-# game/episode018.rpy:1843
+    "J'ai orienté mes poussées et Lilly a retenu sa respiration."
+
+
 translate french ep018_l_ce_fucking_5cf1fd39:
 
-    # "A few more and she was convulsing on top of me."
-    ""
 
-# game/episode018.rpy:1844
+    "Quelques secondes de plus et elle s'est mise à convulser sur moi."
+
+
 translate french ep018_l_ce_fucking_16b18ffc:
 
-    # ce "Did he make you cum, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1846
+    ce "Est-ce qu'il t'a fait jouir, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_953ca4f3:
 
-    # "Lilly answered that question by moaning loudly into Céline’s face."
-    ""
 
-# game/episode018.rpy:1847
+    "Lilly a répondu à cette question en gémissant bruyamment sur le visage de Céline."
+
+
 translate french ep018_l_ce_fucking_83591e57:
 
-    # l "Oh [p_name_short]!{w} [p_name_short]!{w} I love your dick so much!"
-    l ""
 
-# game/episode018.rpy:1848
+    l "Oh [p_name_short] !{w} [p_name_short] !{w} J'aime tellement ta bite !"
+
+
 translate french ep018_l_ce_fucking_c57acfc1:
 
-    # "Her pussy was now even wetter than before, juice dripping along my shaft."
-    ""
 
-# game/episode018.rpy:1850
+    "Sa chatte était maintenant encore plus humide qu'avant, le jus dégoulinait le long de ma hampe."
+
+
 translate french ep018_l_ce_fucking_6439bf87:
 
-    # l "Céline, I want him to put a baby inside me!"
-    l ""
 
-# game/episode018.rpy:1852
+    l "Céline, je veux qu'il mette un bébé en moi !"
+
+
 translate french ep018_l_ce_fucking_631b4565:
 
-    # ce "Should your brother make you pregnant, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1854
+    ce "Ton frère doit-il te mettre enceinte, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_c5989c54:
 
-    # ce "Should he make you pregnant, Lilly?"
-    ce ""
 
-# game/episode018.rpy:1855
+    ce "Est-ce qu'il doit te mettre enceinte, Lilly ?"
+
+
 translate french ep018_l_ce_fucking_250ebf7c:
 
-    # l "Yes!{w} Yes!"
-    l ""
 
-# game/episode018.rpy:1856
+    l "Oui !{w} Oui !"
+
+
 translate french ep018_l_ce_fucking_b4d8637e:
 
-    # ce "Hear that, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1858
+    ce "Tu entends ça, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_44885587:
 
-    # ce "Breed your sister, she wants it so much!"
-    ce ""
 
-# game/episode018.rpy:1860
+    ce "Mets ta sœur enceinte, elle en a tellement envie !"
+
+
 translate french ep018_l_ce_fucking_3b64836e:
 
-    # ce "Lilly wants to be bred so much!"
-    ce ""
 
-# game/episode018.rpy:1861
+    ce "Lilly veut tellement être fécondée !"
+
+
 translate french ep018_l_ce_fucking_49b53f56:
 
-    # l "Yes, I want it so much!"
-    l ""
 
-# game/episode018.rpy:1863
+    l "Oui, je le veux tellement !"
+
+
 translate french ep018_l_ce_fucking_7af65773:
 
-    # l "Céline, his cock is splitting my little pussy apart!"
-    l ""
 
-# game/episode018.rpy:1865
+    l "Céline, sa bite fait éclater ma petite chatte !"
+
+
 translate french ep018_l_ce_fucking_c408ac2c:
 
-    # ce "Is your brother’s cock making you feel good?"
-    ce ""
 
-# game/episode018.rpy:1867
+    ce "Est-ce que la bite de ton frère te fait du bien ?"
+
+
 translate french ep018_l_ce_fucking_8530d81d:
 
-    # ce "Is it making you feel good?"
-    ce ""
 
-# game/episode018.rpy:1868
+    ce "Est-ce qu'elle te fait du bien ?"
+
+
 translate french ep018_l_ce_fucking_250ebf7c_1:
 
-    # l "Yes!{w} Yes!"
-    l ""
 
-# game/episode018.rpy:1869
+    l "Oui !{w} Oui !"
+
+
 translate french ep018_l_ce_fucking_b4d8637e_1:
 
-    # ce "Hear that, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1871
+    ce "Tu entends ça, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_a2ea9ed5:
 
-    # ce "Your sister wants you to destroy her pussy!"
-    ce ""
 
-# game/episode018.rpy:1873
+    ce "Ta sœur veut que tu détruises sa chatte !"
+
+
 translate french ep018_l_ce_fucking_a2d0aa80:
 
-    # ce "Lilly wants you to destroy her pussy!"
-    ce ""
 
-# game/episode018.rpy:1874
+    ce "Lilly veut que tu détruises sa chatte !"
+
+
 translate french ep018_l_ce_fucking_49b53f56_1:
 
-    # l "Yes, I want it so much!"
-    l ""
 
-# game/episode018.rpy:1876
+    l "Oui, j'en ai tellement envie !"
+
+
 translate french ep018_l_ce_fucking_e5acdead:
 
-    # "Their comments made me nearly shoot my sister full of cum."
-    ""
 
-# game/episode018.rpy:1878
+    "Leurs commentaires m'ont fait presque exploser le sperme dans ma sœur."
+
+
 translate french ep018_l_ce_fucking_906e297a:
 
-    # "Their comments made me nearly shoot Lilly full of cum."
-    ""
 
-# game/episode018.rpy:1880
+    "Leurs commentaires m'ont fait presque exploser le sperme dans ma Lilly."
+
+
 translate french ep018_l_ce_fucking_0be56dab:
 
-    # "I slowed my thrusts inside Lilly down a little and focused on Céline instead."
-    ""
 
-# game/episode018.rpy:1881
+    "J'ai ralenti un peu mes poussées dans Lilly et je me suis concentré sur Céline."
+
+
 translate french ep018_l_ce_fucking_2fb47787:
 
-    # "My tongue became a whirlwind and Céline almost screamed at the top of her lungs."
-    ""
 
-# game/episode018.rpy:1882
+    "Ma langue est devenue un tourbillon et Céline a presque crié à pleins poumons."
+
+
 translate french ep018_l_ce_fucking_c458d970:
 
-    # "Her strangled cries punctuated the release of more of her juices inside of my mouth."
-    ""
 
-# game/episode018.rpy:1883
+    "Ses cris étranglés ponctuaient la libération d'une plus grande quantité de son jus à l'intérieur de ma bouche."
+
+
 translate french ep018_l_ce_fucking_99d0c91e:
 
-    # "She was very close."
-    ""
 
-# game/episode018.rpy:1886
+    "Elle était très proche."
+
+
 translate french ep018_l_ce_fucking_c5ced95e:
 
-    # ce "Oh [p_name_short]!{w} [p_name]!"
-    ce ""
 
-# game/episode018.rpy:1888
+    ce "Oh [p_name_short] !{w} [p_name] !"
+
+
 translate french ep018_l_ce_fucking_45143f4a:
 
-    # ce "Lilly, your brother’s tongue is making me...{w} He’s making me..."
-    ce ""
 
-# game/episode018.rpy:1890
+    ce "Lilly, la langue de ton frère me fait...{w} Il me fait...."
+
+
 translate french ep018_l_ce_fucking_5a3816e7:
 
-    # ce "Lilly, [p_name_short]’s tongue is making me...{w} He’s making me..."
-    ce ""
 
-# game/episode018.rpy:1892
+    ce "Lilly, la langue de [p_name_short] me fait...{w} Il me fait..."
+
+
 translate french ep018_l_ce_fucking_4d863002:
 
-    # "Céline came."
-    ""
 
-# game/episode018.rpy:1893
+    "Céline a joui."
+
+
 translate french ep018_l_ce_fucking_0c0a1bf4:
 
-    # "She shuddered on top of my face, her cunt releasing more waves of saltiness into my mouth."
-    ""
 
-# game/episode018.rpy:1902
+    "Elle a frémi sur mon visage, sa chatte libérant de nouvelles vagues de sel dans ma bouche."
+
+
 translate french ep018_l_ce_fucking_cec1bafa:
 
-    # "Reluctantly, I slipped out of Lilly and she growled in annoyance."
-    ""
 
-# game/episode018.rpy:1903
+    "À contrecœur, j'ai glissé hors de Lilly et elle a grogné de contrariété."
+
+
 translate french ep018_l_ce_fucking_34e7e3dd:
 
-    # "Céline was ready to get fucked now."
-    ""
 
-# game/episode018.rpy:1906
+    "Céline était prête à se faire baiser maintenant."
+
+
 translate french ep018_l_ce_fucking_c8f846db:
 
-    # "I wanted to save my sister for later, so I pulled Céline toward me."
-    ""
 
-# game/episode018.rpy:1908
+    "Je voulais garder ma sœur pour plus tard, alors j'ai tiré Céline vers moi."
+
+
 translate french ep018_l_ce_fucking_3eca0b70:
 
-    # "I wanted to save Lilly for later, so I pulled Céline toward me."
-    ""
 
-# game/episode018.rpy:1909
+    "Je voulais sauver Lilly pour plus tard, alors j'ai tiré Céline vers moi."
+
+
 translate french ep018_l_ce_fucking_fe54a03e:
 
-    # "Lilly grudgingly helped me slip inside her friend’s cunt."
-    ""
 
-# game/episode018.rpy:1911
+    "Lilly m'a aidé à contrecœur à me glisser dans la chatte de son amie."
+
+
 translate french ep018_l_ce_fucking_a08564f5:
 
-    # l "I’m not sure he’ll fit inside you, Céline..."
-    l ""
 
-# game/episode018.rpy:1912
+    l "Je ne suis pas sûr qu'il tienne en toi, Céline..."
+
+
 translate french ep018_l_ce_fucking_0d1904f1:
 
-    # ce "Oh, he sure will."
-    ce ""
 
-# game/episode018.rpy:1914
+    ce "Oh, c'est sûr qu'il tiendra."
+
+
 translate french ep018_l_ce_fucking_47f79d64:
 
-    # "I thrust inside her and Céline let out a surprised gasp."
-    ""
 
-# game/episode018.rpy:1915
+    "J'ai poussé en elle et Céline a laissé échapper un souffle de surprise."
+
+
 translate french ep018_l_ce_fucking_ad6f9cc3:
 
-    # "Lilly was looking at my throbbing cock inching inside her friend’s tight slit."
-    ""
 
-# game/episode018.rpy:1917
+    "Lilly regardait ma bite palpitante s'enfoncer dans la fente serrée de son amie."
+
+
 translate french ep018_l_ce_fucking_5c579d57:
 
-    # "She spread the girl’s ass cheeks to give me a good view of Céline’s cunt."
-    ""
 
-# game/episode018.rpy:1918
+    "Elle a écarté les fesses de la fille pour me donner une bonne vue de la chatte de Céline."
+
+
 translate french ep018_l_ce_fucking_2b836f90:
 
-    # l "You’re not struggling are you, Céline?"
-    l ""
 
-# game/episode018.rpy:1919
+    l "Tu n'as pas de mal, n'est-ce pas, Céline ?"
+
+
 translate french ep018_l_ce_fucking_b4098abc:
 
-    # ce "N-no, I love it!"
-    ce ""
 
-# game/episode018.rpy:1921
+    ce "Non, j'adore ça !"
+
+
 translate french ep018_l_ce_fucking_940008d8:
 
-    # ce "My pussy feels so full with your brother’s dick."
-    ce ""
 
-# game/episode018.rpy:1923
+    ce "Ma chatte se sent tellement pleine avec la bite de ton frère."
+
+
 translate french ep018_l_ce_fucking_77029ba7:
 
-    # ce "My pussy feels so full with [p_name_short]’s dick."
-    ce ""
 
-# game/episode018.rpy:1925
+    ce "Ma chatte est tellement pleine de la bite de [p_name_short]."
+
+
 translate french ep018_l_ce_fucking_ad468da6:
 
-    # "Lilly managed a displeased groan and released Céline’s ass and positioned herself in front of the girl’s face."
-    ""
 
-# game/episode018.rpy:1927
+    "Lilly poussa un gémissement de mécontentement, relâcha le cul de Céline et se positionna devant le visage de la jeune fille."
+
+
 translate french ep018_l_ce_fucking_55ee7252:
 
-    # "Wordlessly, she pushed Céline’s head down on her pussy, probably to smother any more comments about how good it felt to be fucked."
-    ""
 
-# game/episode018.rpy:1928
+    "Sans rien dire, elle a poussé la tête de Céline vers le bas sur sa chatte, probablement pour étouffer tout autre commentaire sur le plaisir que l'on ressent à être baisé."
+
+
 translate french ep018_l_ce_fucking_bb22c3ce:
 
-    # "Céline licked her friend eagerly, causing Lilly to cry out in pleasure within seconds."
-    ""
 
-# game/episode018.rpy:1931
+    "Céline a léché son amie avec ardeur, ce qui a fait crier Lilly de plaisir en quelques secondes."
+
+
 translate french ep018_l_ce_fucking_4e5d390d:
 
-    # "I continued my assault on Céline’s pussy, gripping her ass tight and shoving her up and down my cock with force."
-    ""
 
-# game/episode018.rpy:1932
+    "J'ai continué mon assaut sur la chatte de Céline, en saisissant son cul fermement et en la faisant monter et descendre ma queue avec force."
+
+
 translate french ep018_l_ce_fucking_59572dbb:
 
-    # l "That’s it Céline!"
-    l ""
 
-# game/episode018.rpy:1934
+    l "Ça y est Céline !"
+
+
 translate french ep018_l_ce_fucking_7646e664:
 
-    # l "You look like such a cock sleeve."
-    l ""
 
-# game/episode018.rpy:1935
+    l "Tu as l'air d'une telle pochette de bite."
+
+
 translate french ep018_l_ce_fucking_fb169b0c:
 
-    # ce "I want nothing more!"
-    ce ""
 
-# game/episode018.rpy:1937
+    ce "Je ne veux rien de plus !"
+
+
 translate french ep018_l_ce_fucking_d5c8f6db:
 
-    # ce "Your sister tastes so sweet, [p_name_short]!"
-    ce ""
 
-# game/episode018.rpy:1939
+    ce "Ta sœur a un goût si doux, [p_name_short] !"
+
+
 translate french ep018_l_ce_fucking_f559e7d6:
 
-    # ce "Lilly tastes so sweet, [p_name_short]!"
-    ce ""
 
-# game/episode018.rpy:1940
+    ce "Lilly a un goût si doux, [p_name_short] !"
+
+
 translate french ep018_l_ce_fucking_36902513:
 
-    # ce "Oh yes!{w} You’re splitting me wide open!"
-    ce ""
 
-# game/episode018.rpy:1941
+    ce "Oh oui !{w} Tu es en train de m'ouvrir en grand !"
+
+
 translate french ep018_l_ce_fucking_0dd93cc7:
 
-    # "I fucked her harder, meaty slaps against her ass punctuated by the slobbering sounds of Céline’s mouth on Lilly’s pussy."
-    ""
 
-# game/episode018.rpy:1942
+    "Je l'ai baisée plus fort, des claques charnues contre son cul ponctuées par les sons baveux de la bouche de Céline sur la chatte de Lilly."
+
+
 translate french ep018_l_ce_fucking_391d2925:
 
-    # "Céline’s cunt stimulated me at all the right angles and I couldn’t suppress a series of increasingly desperate grunts."
-    ""
 
-# game/episode018.rpy:1945
+    "La chatte de Céline me stimulait sous tous les angles et je ne pouvais réprimer une série de grognements de plus en plus désespérés."
+
+
 translate french ep018_l_ce_fucking_17f15b6b:
 
-    # ce "Are you cumming, [p_name_short]?"
-    ce ""
 
-# game/episode018.rpy:1946
+    ce "Tu jouis, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_708b3555:
 
-    # ce "Are you going to shoot me full of cum?"
-    ce ""
 
-# game/episode018.rpy:1947
+    ce "Tu vas me gaver de sperme ?"
+
+
 translate french ep018_l_ce_fucking_7b66d85a:
 
-    # ce "I want it so much."
-    ce ""
 
-# game/episode018.rpy:1948
+    ce "J'en ai tellement envie."
+
+
 translate french ep018_l_ce_fucking_f00045c0:
 
-    # ce "All that warm cum inside my tight little pussy."
-    ce ""
 
-# game/episode018.rpy:1957
+    ce "Tout ce sperme chaud à l'intérieur de ma petite chatte serrée."
+
+
 translate french ep018_l_ce_fucking_dd270368:
 
-    # "My sister felt heavenly, but I really wanted to fuck Céline again."
-    ""
 
-# game/episode018.rpy:1959
+    "Ma sœur se sentait au paradis, mais j'avais vraiment envie de baiser Céline à nouveau."
+
+
 translate french ep018_l_ce_fucking_f6b5ff3e:
 
-    # "Lilly felt heavenly, but I really wanted to fuck Céline again."
-    ""
 
-# game/episode018.rpy:1961
+    "Lilly se sentait bien, mais j'avais vraiment envie de baiser Céline à nouveau."
+
+
 translate french ep018_l_ce_fucking_1065dff6:
 
-    # "I pushed Lilly aside and entered Céline again."
-    ""
 
-# game/episode018.rpy:1963
+    "J'ai poussé Lilly sur le côté et j'ai pénétré Céline à nouveau."
+
+
 translate french ep018_l_ce_fucking_6a215979:
 
-    # "I was too close to go back and decided to give Céline her wish."
-    ""
 
-# game/episode018.rpy:1964
+    "J'étais trop près pour revenir en arrière et j'ai décidé d'exaucer le souhait de Céline."
+
+
 translate french ep018_l_ce_fucking_390a76eb:
 
-    # ce "Oh yes, [p_name_short], that’s it!"
-    ce ""
 
-# game/episode018.rpy:1965
+    ce "Oh oui, [p_name_short], c'est ça !"
+
+
 translate french ep018_l_ce_fucking_28ad10fb:
 
-    # ce "Fill me up!"
-    ce ""
 
-# game/episode018.rpy:1966
+    ce "Remplis-moi !"
+
+
 translate french ep018_l_ce_fucking_78422552:
 
-    # "Ignoring the disappointed look of Lilly, I made my last thrusts inside Céline."
-    ""
 
-# game/episode018.rpy:1967
+    "Ignorant le regard déçu de Lilly, j'ai fait mes dernières poussées à l'intérieur de Céline."
+
+
 translate french ep018_l_ce_fucking_a81395b2:
 
-    # c "Oh fuck Céline!"
-    c ""
 
-# game/episode018.rpy:1968
+    c "Oh putain Céline !"
+
+
 translate french ep018_l_ce_fucking_10f45086:
 
-    # l "Are you close, [p_name_short]?"
-    l ""
 
-# game/episode018.rpy:1969
+    l "Tu es proche, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_a6791184:
 
-    # c "Yes!{w} Yes!"
-    c ""
 
-# game/episode018.rpy:1972
+    c "Oui !{w} Oui !"
+
+
 translate french ep018_l_ce_fucking_f2b4f0b5:
 
-    # "Ramming her against my groin I rooted my dick deep inside Céline’s cunt and released a stream of hot cum."
-    ""
 
-# game/episode018.rpy:1973
+    "En la plaquant contre mon aine, j'ai enfoncé ma bite dans la chatte de Céline et j'ai libéré un flot de sperme brûlant."
+
+
 translate french ep018_l_ce_fucking_b12e595d:
 
-    # ce "Oh yes!"
-    ce ""
 
-# game/episode018.rpy:1974
+    ce "Oh oui !"
+
+
 translate french ep018_l_ce_fucking_f4f6a969:
 
-    # ce "I can feel all that warm cum flowing inside me!"
-    ce ""
 
-# game/episode018.rpy:1976
+    ce "Je sens tout ce sperme chaud couler en moi !"
+
+
 translate french ep018_l_ce_fucking_7ed4b129:
 
-    # ce "Oh Lilly, your brother is filling me up."
-    ce ""
 
-# game/episode018.rpy:1978
+    ce "Oh Lilly, ton frère me remplit."
+
+
 translate french ep018_l_ce_fucking_5ad0e967:
 
-    # ce "Oh Lilly, [p_name_short] is filling me up."
-    ce ""
 
-# game/episode018.rpy:1979
+    ce "Oh Lilly, [p_name_short] me remplit."
+
+
 translate french ep018_l_ce_fucking_af2674fc:
 
-    # "Deep inside Céline my cock twitched and released several more spurts of cum."
-    ""
 
-# game/episode018.rpy:1982
+    "Au plus profond de Céline, ma bite a tressailli et a libéré plusieurs autres giclées de sperme."
+
+
 translate french ep018_l_ce_fucking_757de999:
 
-    # "When I slipped out of Céline, I found my sister beside me."
-    ""
 
-# game/episode018.rpy:1984
+    "Lorsque j'ai glissé hors de Céline, j'ai trouvé ma sœur à côté de moi."
+
+
 translate french ep018_l_ce_fucking_1f2886ea:
 
-    # "When I slipped out of Céline, I found Lilly beside me."
-    ""
 
-# game/episode018.rpy:1985
+    "Quand je suis sorti de Céline, j'ai trouvé Lilly à côté de moi."
+
+
 translate french ep018_l_ce_fucking_5f047a43:
 
-    # "She pressed her mouth against Céline’s cunt and greedily drank the cum that was oozing out of it."
-    ""
 
-# game/episode018.rpy:1989
+    "Elle a pressé sa bouche contre la chatte de Céline et a bu avec avidité le sperme qui en suintait."
+
+
 translate french ep018_l_ce_fucking_3bc84918:
 
-    # "As soon as Céline felt my sister’s lips connecting with her pussy, she strained to push more cum out of her cunt."
-    ""
 
-# game/episode018.rpy:1991
+    "Dès que Céline a senti les lèvres de ma sœur se connecter à sa chatte, elle s'est efforcée de faire sortir plus de sperme de sa chatte."
+
+
 translate french ep018_l_ce_fucking_dfd27827:
 
-    # "As soon as Céline felt my her friend’s lips connecting with her pussy, she strained to push more cum out of her cunt."
-    ""
 
-# game/episode018.rpy:1993
+    "Dès que Céline a senti les lèvres de son amie se connecter à sa chatte, elle s'est efforcée de faire sortir encore plus de sperme de sa chatte."
+
+
 translate french ep018_l_ce_fucking_fd346c8e:
 
-    # "When she had pushed everything out, Céline lay down and Lilly was on top of her in moments."
-    ""
 
-# game/episode018.rpy:1995
+    "Lorsqu'elle a tout expulsé, Céline s'est allongée et Lilly s'est retrouvée sur elle en quelques instants."
+
+
 translate french ep018_l_ce_fucking_71f1072b:
 
-    # "Céline managed to open her mouth in time to receive the cum dripping from my sister’s mouth."
-    ""
 
-# game/episode018.rpy:1997
+    "Céline a réussi à ouvrir la bouche à temps pour recevoir le sperme qui coulait de la bouche de ma soeur."
+
+
 translate french ep018_l_ce_fucking_10e26368:
 
-    # "Céline managed to open her mouth in time to receive the cum dripping from Lilly’s mouth."
-    ""
 
-# game/episode018.rpy:1999
+    "Céline a réussi à ouvrir la bouche à temps pour recevoir le sperme qui coulait de la bouche de Lilly."
+
+
 translate french ep018_l_ce_fucking_96b940de:
 
-    # "Lilly kept half of my cum inside her mouth and gifted Céline the rest of it."
-    ""
 
-# game/episode018.rpy:2000
+    "Lilly a gardé la moitié de mon sperme dans sa bouche et a donné le reste à Céline."
+
+
 translate french ep018_l_ce_fucking_87de9f76:
 
-    # "They both sat up to look at me, swallowing my entire load."
-    ""
 
-# game/episode018.rpy:2002
+    "Elles se sont toutes les deux redressées pour me regarder, avalant la totalité de mon sperme."
+
+
 translate french ep018_l_ce_fucking_e2a37b8c:
 
-    # l "See?{w} I’m nothing but generous."
-    l ""
 
-# game/episode018.rpy:2003
+    l "Tu vois ?{w} Je ne suis rien d'autre que généreux."
+
+
 translate french ep018_l_ce_fucking_b0940467:
 
-    # ce "It tastes so good."
-    ce ""
 
-# game/episode018.rpy:2008
+    ce "C'est tellement bon."
+
+
 translate french ep018_l_ce_fucking_a998c950:
 
-    # "Céline felt heavenly, but I really wanted to fuck my sister again."
-    ""
 
-# game/episode018.rpy:2010
+    "Céline s'est sentie au paradis, mais j'avais vraiment envie de baiser ma sœur à nouveau."
+
+
 translate french ep018_l_ce_fucking_4ea67957:
 
-    # "Céline felt heavenly, but I really wanted to fuck Lilly again."
-    ""
 
-# game/episode018.rpy:2013
+    "Céline se sentait au paradis, mais j'avais vraiment envie de baiser à nouveau Lilly."
+
+
 translate french ep018_l_ce_fucking_0e223c5a:
 
-    # "I pushed Céline aside and entered Lilly again."
-    ""
 
-# game/episode018.rpy:2016
+    "J'ai poussé Céline sur le côté et j'ai pénétré Lilly à nouveau."
+
+
 translate french ep018_l_ce_fucking_a449b405:
 
-    # "I was too close to go back and decided to give Lilly her wish."
-    ""
 
-# game/episode018.rpy:2017
+    "J'étais trop près pour revenir en arrière et j'ai décidé d'exaucer le souhait de Lilly."
+
+
 translate french ep018_l_ce_fucking_e24785fa:
 
-    # l "Oh yes, [p_name], that’s it!"
-    l ""
 
-# game/episode018.rpy:2018
+    l "Oh oui, [p_name], c'est ça !"
+
+
 translate french ep018_l_ce_fucking_06086748:
 
-    # l "Fill me up!"
-    l ""
 
-# game/episode018.rpy:2021
+    l "Remplis-moi !"
+
+
 translate french ep018_l_ce_fucking_8c1f1d2f:
 
-    # "My sister had told me herself she wanted to be bred, so I’d give her a pussy full of warm cum."
-    ""
 
-# game/episode018.rpy:2023
+    "Ma sœur m'avait dit elle-même qu'elle voulait être fécondée, alors je lui offrirais une chatte pleine de sperme chaud."
+
+
 translate french ep018_l_ce_fucking_080f07e7:
 
-    # "Lilly had told me herself she wanted to be bred, so I’d give her a pussy full of warm cum."
-    ""
 
-# game/episode018.rpy:2025
+    "Lilly m'avait dit elle-même qu'elle voulait être fécondée, alors je lui offrirais une chatte pleine de sperme chaud."
+
+
 translate french ep018_l_ce_fucking_7610b34a:
 
-    # "Ignoring the disappointed look of Céline, I made my last thrusts inside my sister."
-    ""
 
-# game/episode018.rpy:2027
+    "Ignorant le regard déçu de Céline, j'ai fait mes dernières poussées à l'intérieur de ma sœur."
+
+
 translate french ep018_l_ce_fucking_771cb097:
 
-    # "Ignoring the disappointed look of Céline, I made my last thrusts inside my girlfriend."
-    ""
 
-# game/episode018.rpy:2028
+    "Ignorant le regard déçu de Céline, j'ai fait mes dernières poussées dans ma copine."
+
+
 translate french ep018_l_ce_fucking_2a9bb49b:
 
-    # c "Oh Lilly!{w} Lilly!"
-    c ""
 
-# game/episode018.rpy:2029
+    c "Oh Lilly !{w} Lilly !"
+
+
 translate french ep018_l_ce_fucking_29f31902:
 
-    # l "Are you cumming, [p_name_short]?"
-    l ""
 
-# game/episode018.rpy:2030
+    l "Tu jouis, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_a6791184_1:
 
-    # c "Yes!{w} Yes!"
-    c ""
 
-# game/episode018.rpy:2033
+    c "Oui !{w} Oui !"
+
+
 translate french ep018_l_ce_fucking_cb4d9a1e:
 
-    # "Gripping her waist, I stabbed my dick deep inside my sister’s vagina and released a stream of hot cum."
-    ""
 
-# game/episode018.rpy:2035
+    "Saisissant sa taille, j'ai enfoncé ma bite au plus profond du vagin de ma sœur et j'ai libéré un flot de sperme brûlant."
+
+
 translate french ep018_l_ce_fucking_a2b0726e:
 
-    # "Gripping her waist, I stabbed my dick deep inside Lilly’s vagina and released a stream of hot cum."
-    ""
 
-# game/episode018.rpy:2036
+    "En saisissant sa taille, j'ai enfoncé ma bite dans le vagin de Lilly et j'ai libéré un flot de sperme chaud."
+
+
 translate french ep018_l_ce_fucking_0512087f:
 
-    # l "Oh yes!{w} I can feel it!"
-    l ""
 
-# game/episode018.rpy:2037
+    l "Oh oui !{w} Je le sens !"
+
+
 translate french ep018_l_ce_fucking_8a6b942e:
 
-    # l "All that warm cum inside me!"
-    l ""
 
-# game/episode018.rpy:2038
+    l "Tout ce sperme chaud en moi !"
+
+
 translate french ep018_l_ce_fucking_01f4edb5:
 
-    # l "Oh Céline, he’s filling me up."
-    l ""
 
-# game/episode018.rpy:2039
+    l "Oh Céline, il me remplit."
+
+
 translate french ep018_l_ce_fucking_8f3ba800:
 
-    # "My cock twitched and released several spurts of cum inside Lilly’s pussy."
-    ""
 
-# game/episode018.rpy:2041
+    "Ma queue a tressailli et a libéré plusieurs giclées de sperme dans la chatte de Lilly."
+
+
 translate french ep018_l_ce_fucking_d8ad3ffb:
 
-    # "When I slipped out of my sister, I found Céline eager to take my place."
-    ""
 
-# game/episode018.rpy:2043
+    "Lorsque j'ai glissé hors de ma sœur, j'ai trouvé Céline impatiente de prendre ma place."
+
+
 translate french ep018_l_ce_fucking_d98096e2:
 
-    # "When I slipped out of Lilly, I found Céline eager to take my place."
-    ""
 
-# game/episode018.rpy:2046
+    "Lorsque j'ai glissé hors de Lilly, j'ai trouvé Céline impatiente de prendre ma place."
+
+
 translate french ep018_l_ce_fucking_4792813a:
 
-    # "She pushed her head under Lilly’s cunt and opened her mouth."
-    ""
 
-# game/episode018.rpy:2047
+    "Elle a enfoncé sa tête sous la chatte de Lilly et a ouvert la bouche."
+
+
 translate french ep018_l_ce_fucking_0df90846:
 
-    # "A flood of cum flooded into her open mouth."
-    ""
 
-# game/episode018.rpy:2049
+    "Un flot de sperme s'est déversé dans sa bouche ouverte."
+
+
 translate french ep018_l_ce_fucking_a109a763:
 
-    # "Lilly understood what her friend was doing and pushed more cum out of her slit."
-    ""
 
-# game/episode018.rpy:2050
+    "Lilly a compris ce que faisait son amie et a fait sortir plus de sperme de sa fente."
+
+
 translate french ep018_l_ce_fucking_41597d37:
 
-    # "When the dribble of cum had stopped, Céline stood up beside Lilly, sloshing my cum inside her mouth."
-    ""
 
-# game/episode018.rpy:2053
+    "Lorsque le filet de sperme s'est arrêté, Céline s'est placée à côté de Lilly et a fait couler mon sperme dans sa bouche."
+
+
 translate french ep018_l_ce_fucking_f523b0a1:
 
-    # "The girls both opened their mouths and Céline deposited a string of cum onto my sister’s tongue."
-    ""
 
-# game/episode018.rpy:2055
+    "Les filles ont toutes deux ouvert la bouche et Céline a déposé un filet de sperme sur la langue de ma sœur."
+
+
 translate french ep018_l_ce_fucking_06440d71:
 
-    # "The girls both opened their mouths and Céline deposited a string of cum onto Lilly’s tongue."
-    ""
 
-# game/episode018.rpy:2057
+    "Les deux filles ont ouvert la bouche et Céline a déposé un filet de sperme sur la langue de Lilly."
+
+
 translate french ep018_l_ce_fucking_c6cf167b:
 
-    # "Céline made sure they both received an equal part of my seed."
-    ""
 
-# game/episode018.rpy:2059
+    "Céline s'est assurée qu'elles recevaient toutes les deux une part égale de ma semence."
+
+
 translate french ep018_l_ce_fucking_9c55cc0b:
 
-    # "The girls swallowed everything as they looked at me."
-    ""
 
-# game/episode018.rpy:2060
+    "Les filles ont tout avalé en me regardant."
+
+
 translate french ep018_l_ce_fucking_e28e5436:
 
-    # ce "There, nothing is wasted."
-    ce ""
 
-# game/episode018.rpy:2061
+    ce "Là, rien n'est gaspillé."
+
+
 translate french ep018_l_ce_fucking_81c64159:
 
-    # l "Mmmm, delicious."
-    l ""
 
-# game/episode018.rpy:2065
+    l "Mmmm, c'est délicieux."
+
+
 translate french ep018_l_ce_fucking_9eb78e14:
 
-    # "I wanted to give them both a taste of my cum, so at the last moment I pulled out of Céline."
-    ""
 
-# game/episode018.rpy:2067
+    "Je voulais leur faire goûter mon sperme à toutes les deux, alors au dernier moment, je me suis retiré de Céline."
+
+
 translate french ep018_l_ce_fucking_4b0552ca:
 
-    # "She was visibly disappointed, but lay down next to Lilly nonetheless."
-    ""
 
-# game/episode018.rpy:2069
+    "Elle était visiblement déçue, mais elle s'est quand même allongée à côté de Lilly."
+
+
 translate french ep018_l_ce_fucking_53ebf083:
 
-    # "I wanted to give them both a taste of my cum, so at the last moment I pulled out of Lilly."
-    ""
 
-# game/episode018.rpy:2072
+    "Je voulais leur faire goûter mon sperme à toutes les deux, alors au dernier moment, je me suis retiré de Lilly."
+
+
 translate french ep018_l_ce_fucking_136acd41:
 
-    # "She was visibly disappointed, but lay down next to Céline nonetheless."
-    ""
 
-# game/episode018.rpy:2074
+    "Elle était visiblement déçue, mais elle s'est quand même allongée à côté de Céline."
+
+
 translate french ep018_l_ce_fucking_4b2150dd:
 
-    # ce "I think your brother’s going to make a mess of us."
-    ce ""
 
-# game/episode018.rpy:2076
+    ce "Je pense que ton frère va nous mettre dans un sale état."
+
+
 translate french ep018_l_ce_fucking_bee992c3:
 
-    # ce "I think he’s going to make a mess of us."
-    ce ""
 
-# game/episode018.rpy:2077
+    ce "Je pense qu'il va nous mettre dans un sale état."
+
+
 translate french ep018_l_ce_fucking_db444a75:
 
-    # l "He sure is."
-    l ""
 
-# game/episode018.rpy:2078
+    l "C'est sûr."
+
+
 translate french ep018_l_ce_fucking_a62e1728:
 
-    # "Stroking my cock for the final push, I loomed over both their bodies."
-    ""
 
-# game/episode018.rpy:2081
+    "En caressant ma bite pour la dernière fois, je me suis penché sur leurs deux corps."
+
+
 translate french ep018_l_ce_fucking_9f102ae6:
 
-    # "When the cum finally shot out, my sister and Céline were visibly surprised."
-    ""
 
-# game/episode018.rpy:2083
+    "Lorsque le sperme est enfin sorti, ma sœur et Céline ont été visiblement surprises."
+
+
 translate french ep018_l_ce_fucking_97acfde2:
 
-    # "When the cum finally shot out, Lilly and Céline were visibly surprised."
-    ""
 
-# game/episode018.rpy:2084
+    "Lorsque le sperme est enfin sorti, Lilly et Céline ont été visiblement surprises."
+
+
 translate french ep018_l_ce_fucking_5ab3b96e:
 
-    # "Thick ropes of hot cum covered their bodies in seconds, coating their breasts and bellies."
-    ""
 
-# game/episode018.rpy:2087
+    "D'épaisses cordes de sperme chaud ont recouvert leurs corps en quelques secondes, enduisant leurs seins et leurs ventres."
+
+
 translate french ep018_l_ce_fucking_d434e76c:
 
-    # l "Mmmm, there’s so much of it."
-    l ""
 
-# game/episode018.rpy:2091
+    l "Mmmm, il y en a tellement."
+
+
 translate french ep018_l_ce_fucking_9eb78e14_1:
 
-    # "I wanted to give them both a taste of my cum, so at the last moment I pulled out of Céline."
-    ""
 
-# game/episode018.rpy:2094
+    "Je voulais leur donner à toutes les deux un avant-goût de mon sperme, alors au dernier moment, je me suis retiré de Céline."
+
+
 translate french ep018_l_ce_fucking_14c371f6:
 
-    # "She was visibly disappointed, but went down on her knees next to Lilly nonetheless."
-    ""
 
-# game/episode018.rpy:2096
+    "Elle était visiblement déçue, mais elle s'est quand même mise à genoux à côté de Lilly."
+
+
 translate french ep018_l_ce_fucking_53ebf083_1:
 
-    # "I wanted to give them both a taste of my cum, so at the last moment I pulled out of Lilly."
-    ""
 
-# game/episode018.rpy:2098
+    "Je voulais leur donner à toutes les deux un avant-goût de mon sperme, alors au dernier moment, je me suis retiré de Lilly."
+
+
 translate french ep018_l_ce_fucking_48f5d052:
 
-    # "She was visibly disappointed, but went down on her knees next to Céline nonetheless."
-    ""
 
-# game/episode018.rpy:2101
+    "Elle était visiblement déçue, mais elle s'est quand même mise à genoux à côté de Céline."
+
+
 translate french ep018_l_ce_fucking_6ab497e7:
 
-    # ce "I think your brother’s going to make a mess of our faces."
-    ce ""
 
-# game/episode018.rpy:2103
+    ce "Je pense que ton frère va mettre le bazar sur nos visages."
+
+
 translate french ep018_l_ce_fucking_bc8ebeea:
 
-    # ce "I think he’s going to make a mess of our faces."
-    ce ""
 
-# game/episode018.rpy:2104
+    ce "Je pense qu'il va mettre le bazar sur nos visages."
+
+
 translate french ep018_l_ce_fucking_db444a75_1:
 
-    # l "He sure is."
-    l ""
 
-# game/episode018.rpy:2105
+    l "C'est sûr."
+
+
 translate french ep018_l_ce_fucking_b802f370:
 
-    # "Stroking my cock for the final push, I loomed over both girls."
-    ""
 
-# game/episode018.rpy:2108
+    "En caressant ma bite pour la dernière fois, j'ai dominé les deux filles."
+
+
 translate french ep018_l_ce_fucking_44b087b1:
 
-    # "I shot a thick load of hot cum onto my sister’s face first."
-    ""
 
-# game/episode018.rpy:2110
+    "J'ai déversé une grosse quantité de sperme chaud sur le visage de ma sœur en premier."
+
+
 translate french ep018_l_ce_fucking_169897a2:
 
-    # "I shot a thick load of hot cum onto Lilly’s face first."
-    ""
 
-# game/episode018.rpy:2113
+    "J'ai fait couler une grosse quantité de sperme chaud sur le visage de Lilly en premier."
+
+
 translate french ep018_l_ce_fucking_d434e76c_1:
 
-    # l "Mmmm, there’s so much of it."
-    l ""
 
-# game/episode018.rpy:2115
+    l "Mmmm, il y en a tellement."
+
+
 translate french ep018_l_ce_fucking_0145e3ab:
 
-    # "With some effort, I angled my dick toward Céline and coated her face in cum too."
-    ""
 
-# game/episode018.rpy:2116
+    "Avec un peu d'effort, j'ai orienté ma bite vers Céline et je lui ai aussi enduit le visage de sperme."
+
+
 translate french ep018_l_ce_fucking_ac9309bd:
 
-    # "The two girls, covered like cum-hungry sluts, looked up at me in delight."
-    ""
 
-# game/episode018.rpy:2120
+    "Les deux filles, couvertes comme des salopes assoiffées de sperme, m'ont regardé avec plaisir."
+
+
 translate french ep018_l_ce_fucking_8520564d:
 
-    # "Both girls smiled and kissed each other, holding their cum-stained bodies."
-    ""
 
-# game/episode018.rpy:2122
+    "Les deux filles ont souri et se sont embrassées en se tenant le corps maculé de sperme."
+
+
 translate french ep018_l_ce_fucking_5898d448:
 
-    # "Both girls smiled and kissed each other with cum-stained lips."
-    ""
 
-# game/episode018.rpy:2124
+    "Les deux filles ont souri et se sont embrassées, les lèvres tachées de sperme."
+
+
 translate french ep018_l_ce_fucking_bcac4df0:
 
-    # "They both looked wantonly at me as they disengaged."
-    ""
 
-# game/episode018.rpy:2125
+    "Elles m'ont toutes les deux regardé avec envie en se dégageant."
+
+
 translate french ep018_l_ce_fucking_244c7f5d:
 
-    # l "Do you like us like this, [p_name_short]?"
-    l ""
 
-# game/episode018.rpy:2126
+    l "Est-ce que tu nous aimes comme ça, [p_name_short] ?"
+
+
 translate french ep018_l_ce_fucking_b8b995c7:
 
-    # c "I do, very much."
-    c ""
 
-# game/episode018.rpy:2131
+    c "Oui, beaucoup."
+
+
 translate french ep018_l_ce_fucking_368172e1:
 
-    # ce "Your brother is such a lech."
-    ce ""
 
-# game/episode018.rpy:2133
+    ce "Ton frère est un vrai pervers."
+
+
 translate french ep018_l_ce_fucking_0f51be70:
 
-    # ce "[p_name_short] is such a lech."
-    ce ""
 
-# game/episode018.rpy:2134
+    ce "[p_name_short] est un vrai pervers."
+
+
 translate french ep018_l_ce_fucking_1b652fc3:
 
-    # l "I know, but luckily he’s our lech."
-    l ""
 
-# game/episode018.rpy:2136
+    l "Je sais, mais heureusement, c'est notre pervers."
+
+
 translate french ep018_l_ce_fucking_c21503c0:
 
-    # "I lay down with both girls, who were just as exhausted as I was."
-    ""
 
-# game/episode018.rpy:2139
+    "Je me suis allongé avec les deux filles, qui étaient aussi épuisées que moi."
+
+
 translate french ep018_l_ce_fucking_731e292c:
 
-    # ce "You treat us so well, [p_name]."
-    ce ""
 
-# game/episode018.rpy:2141
+    ce "Tu nous traites si bien, [p_name]."
+
+
 translate french ep018_l_ce_fucking_1cab0e1f:
 
-    # l "He does, but we have to be careful not to wear him out too soon."
-    l ""
 
-# game/episode018.rpy:2142
+    l "C'est vrai, mais nous devons faire attention à ne pas l'épuiser trop tôt."
+
+
 translate french ep018_l_ce_fucking_c4302bd5:
 
-    # l "Promise me next time I want to be fucked first. "
-    l ""
 
-# game/episode018.rpy:2143
+    l "Promets-moi que la prochaine fois, je veux être baisée en premier. "
+
+
 translate french ep018_l_ce_fucking_fa2a048c:
 
-    # l "You bled him dry before I had my chance, Céline."
-    l ""
 
-# game/episode018.rpy:2145
+    l "Tu l'as saigné à blanc avant que je n'en aie l'occasion, Céline."
+
+
 translate french ep018_l_ce_fucking_2fde9d1b:
 
-    # ce "Promise."
-    ce ""
 
-# game/episode018.rpy:2146
+    ce "Promets-moi."
+
+
 translate french ep018_l_ce_fucking_5665eb21:
 
-    # c "Promise."
-    c ""
 
-# game/episode018.rpy:2149
+    c "Promis."
+
+
 translate french ep018_l_ce_fucking_0ed59217:
 
-    # l "You were so amazing, [p_name_short]."
-    l ""
 
-# game/episode018.rpy:2151
+    l "Tu as été tellement géniale, [p_name_short]."
+
+
 translate french ep018_l_ce_fucking_0f80b62e:
 
-    # ce "He was, but I still feel a little left out."
-    ce ""
 
-# game/episode018.rpy:2153
+    ce "Il l'était, mais je me sens toujours un peu exclue."
+
+
 translate french ep018_l_ce_fucking_9e961258:
 
-    # ce "I have as much right to your dick as your sister does, [p_name_short]."
-    ce ""
 
-# game/episode018.rpy:2155
+    ce "J'ai autant le droit à ta bite que ta sœur, [p_name_short]."
+
+
 translate french ep018_l_ce_fucking_be508c33:
 
-    # ce "I have as much right to your dick as Lilly does, [p_name_short]."
-    ce ""
 
-# game/episode018.rpy:2156
+    ce "J'ai autant le droit à ta bite que Lilly, [p_name_short]."
+
+
 translate french ep018_l_ce_fucking_46c3e7ce:
 
-    # ce "Next time I want to go first."
-    ce ""
 
-# game/episode018.rpy:2158
+    ce "La prochaine fois, je veux passer en premier."
+
+
 translate french ep018_l_ce_fucking_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode018.rpy:2159
+    c "Bien sûr."
+
+
 translate french ep018_l_ce_fucking_9b25227f:
 
-    # l "Sure thing."
-    l ""
 
-# game/episode018.rpy:2161
+    l "Bien sûr."
+
+
 translate french ep018_l_ce_fucking_7c6a0ff1:
 
-    # l "I don’t think I can do this again tonight, but I sure as hell want a rematch."
-    l ""
 
-# game/episode018.rpy:2163
+    l "Je ne pense pas pouvoir recommencer ce soir, mais je veux absolument une revanche."
+
+
 translate french ep018_l_ce_fucking_dbb6281c:
 
-    # ce "So do I."
-    ce ""
 
-# game/episode018.rpy:2164
+    ce "Moi aussi."
+
+
 translate french ep018_l_ce_fucking_27355369:
 
-    # ce "Oh, Lilly, I’m sorry I yelled at you earlier."
-    ce ""
 
-# game/episode018.rpy:2166
+    ce "Oh, Lilly, je suis désolé de t'avoir crié dessus tout à l'heure."
+
+
 translate french ep018_l_ce_fucking_8deb8336:
 
-    # l "I’m sorry too."
-    l ""
 
-# game/episode018.rpy:2169
+    l "Moi aussi, je suis désolée."
+
+
 translate french ep018_l_ce_fucking_f3da30c5:
 
-    # ce "If this is what sharing your brother will be like for the rest of my days, I’m not complaining."
-    ce ""
 
-# game/episode018.rpy:2171
+    ce "Si c'est ce que sera le partage de ton frère jusqu'à la fin de mes jours, je ne me plains pas."
+
+
 translate french ep018_l_ce_fucking_e4c8063e:
 
-    # ce "If this is what sharing [p_name] will be like for the rest of my days, I’m not complaining."
-    ce ""
 
-# game/episode018.rpy:2173
+    ce "Si c'est ce que sera le partage de [p_name] jusqu'à la fin de mes jours, je ne me plains pas."
+
+
 translate french ep018_l_ce_fucking_6ab111f2:
 
-    # l "Me neither."
-    l ""
 
-# game/episode018.rpy:2175
+    l "Moi non plus."
+
+
 translate french ep018_l_ce_fucking_09546dc2:
 
-    # l "I didn’t know your tongue was capable of things like that, Céline."
-    l ""
 
-# game/episode018.rpy:2177
+    l "Je ne savais pas que ta langue était capable de telles choses, Céline."
+
+
 translate french ep018_l_ce_fucking_ef8ef9e9:
 
-    # l "I didn’t know you were capable of moaning like that, Céline."
-    l ""
 
-# game/episode018.rpy:2179
+    l "Je ne savais pas que tu étais capable de gémir comme ça, Céline."
+
+
 translate french ep018_l_ce_fucking_ffa00e99:
 
-    # ce "It’s a hidden talent."
-    ce ""
 
-# game/episode018.rpy:2180
+    ce "C'est un talent caché."
+
+
 translate french ep018_l_ce_fucking_18d69154:
 
-    # ce "But your moans were something extra special as well."
-    ce ""
 
-# game/episode018.rpy:2182
+    ce "Mais tes gémissements avaient aussi quelque chose de très spécial."
+
+
 translate french ep018_l_ce_fucking_f93fbc25:
 
-    # "Lilly laughed and snuggled against my chest."
-    ""
 
-# game/episode018.rpy:2183
+    "Lilly rit et se blottit contre ma poitrine."
+
+
 translate french ep018_l_ce_fucking_9c5a12dc:
 
-    # c "I love you Lilly, and I love you, Céline."
-    c ""
 
-# game/episode018.rpy:2184
+    c "Je t'aime, Lilly, et je t'aime, Céline."
+
+
 translate french ep018_l_ce_fucking_86cd2863:
 
-    # c "You girls make me so happy."
-    c ""
 
-# game/episode018.rpy:2185
+    c "Vous me rendez si heureux."
+
+
 translate french ep018_l_ce_fucking_f341a9b8:
 
-    # ce "I love you too, [p_name_short]."
-    ce ""
 
-# game/episode018.rpy:2186
+    ce "Je t'aime aussi, [p_name_short]."
+
+
 translate french ep018_l_ce_fucking_a8c3060c:
 
-    # l "And I."
-    l ""
 
-# game/episode018.rpy:2188
+    l "Et moi aussi."
+
+
 translate french ep018_l_ce_fucking_218b0133:
 
-    # "We cuddled for a long time, relishing the newfound happiness we all shared. "
-    ""
 
-# game/episode018.rpy:2190
+    "Nous nous sommes câlinés pendant un long moment, savourant le nouveau bonheur que nous partagions tous. "
+
+
 translate french ep018_l_ce_fucking_f756c907:
 
-    # "Sandwiched by Céline and my sister, I fell asleep."
-    ""
 
-# game/episode018.rpy:2192
+    "Pris en sandwich par Céline et ma sœur, je me suis endormi."
+
+
 translate french ep018_l_ce_fucking_2ed3184b:
 
-    # "Sandwiched by Céline and Lilly, I fell asleep."
-    ""
 
-# game/episode018.rpy:2193
+    "Pris en sandwich par Céline et Lilly, je me suis endormi."
+
+
 translate french ep018_l_ce_fucking_ce76c663:
 
-    # "I’d have to make sure to wake up early, in order for us not to be discovered."
-    ""
 
-# game/episode018.rpy:2194
+    "Il faudrait que je fasse en sorte de me réveiller tôt, pour que nous ne soyons pas découverts."
+
+
 translate french ep018_l_ce_fucking_a63b7980:
 
-    # "I didn’t feel like explaining to the rest of the crew why we were sleeping naked with each other."
-    ""
 
-# game/episode018.rpy:2196
+    "Je n'avais pas envie d'expliquer au reste de l'équipage pourquoi nous dormions nus ensemble."
+
+
 translate french ep018_l_ce_fucking_553e3513:
 
-    # "When the first light of the day broke through, I eased out from under the two naked girls and dressed myself."
-    ""
 
-# game/episode018.rpy:2198
+    "Lorsque les premières lueurs du jour sont apparues, je me suis dégagé de sous les deux filles nues et je me suis habillé."
+
+
 translate french ep018_l_ce_fucking_b22eff27:
 
-    # "Lilly and Céline were still snoring contently, lying together like old lovers, when I left the building to enjoy the morning sun."
-    ""
+
+    "Lilly et Céline ronflaient encore de contentement, allongées l'une contre l'autre comme de vieilles amoureuses, lorsque j'ai quitté le bâtiment pour profiter du soleil matinal."
 
 translate french strings:
 
-    # game/episode018.rpy:3
+
     old "Episode 18"
-    new ""
+    new "Épisode 18"
 
-    # game/episode018.rpy:200
+
     old "Walgx"
-    new ""
+    new "Walgx"
 
-    # game/episode018.rpy:257
+
     old "Shoot Glixken"
-    new ""
+    new "Tue Glixken"
 
-    # game/episode018.rpy:257
+
     old "Let Thyia take out Glixken"
-    new ""
+    new "Laisse Thyia s'occuper de Glixken"
 
-    # game/episode018.rpy:724
+
     old "Officer"
-    new ""
+    new "Officier"
 
-    # game/episode018.rpy:813
+
     old "Foreman"
-    new ""
+    new "Contremaître"
 
-    # game/episode018.rpy:1360
+
     old "Separate relationships"
-    new ""
+    new "Séparer les relations"
 
-    # game/episode018.rpy:1774
+
     old "Fuck Lilly"
-    new ""
+    new "Baiser Lilly"
 
-    # game/episode018.rpy:1774
+
     old "Fuck Céline"
-    new ""
+    new "Baiser Céline"
 
-    # game/episode018.rpy:1774
+
     old "Cum"
-    new ""
+    new "Jouir"
 
-    # game/episode018.rpy:1952
+
     old "Creampie Céline"
-    new ""
+    new "Remplis la chatte de Céline"
 
-    # game/episode018.rpy:1952
+
     old "Creampie Lilly"
-    new ""
+    new "Remplis la chatte de Lilly"
 
-    # game/episode018.rpy:1952
+
     old "Cover their bodies"
-    new ""
+    new "Couvre leurs corps"
 
-    # game/episode018.rpy:1952
+
     old "Cover their faces"
-    new ""
-
+    new "Couvre leurs visages"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

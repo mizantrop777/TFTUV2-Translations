@@ -1,4748 +1,4744 @@
-﻿# TODO: Translation updated at 2024-12-11 22:09
 
-# game/episode016_conversations.rpy:74
 translate french ep016_eva_talk_c8e65724:
 
-    # "I walked into my quarters looking at my datapad, not even noticing why my door was left open."
-    ""
 
-# game/episode016_conversations.rpy:76
+    "Je suis entré dans mes quartiers en regardant mon datapad, sans même remarquer pourquoi ma porte était restée ouverte."
+
+
 translate french ep016_eva_talk_a64c9c90:
 
-    # "At the same time, Eva was in a rush to exit my quarters and we bumped into each other."
-    ""
 
-# game/episode016_conversations.rpy:78
+    "Au même moment, Eva était pressée de sortir de mes quartiers et nous nous sommes heurtés mutuellement."
+
+
 translate french ep016_eva_talk_390e294b:
 
-    # "The datapad clattered on the floor and the collision made Eva lose her balance and I had to grab her, or she would have been knocked on the floor."
-    ""
 
-# game/episode016_conversations.rpy:81
+    "Le datapad s'est écrasé sur le sol et la collision a fait perdre l'équilibre à Eva ; j'ai dû l'attraper, sinon elle aurait été projetée sur le sol."
+
+
 translate french ep016_eva_talk_849ed011:
 
-    # "The sudden nearness of my sister’s body, pressed against mine, and her smell were almost overwhelming."
-    ""
 
-# game/episode016_conversations.rpy:83
+    "La proximité soudaine du corps de ma sœur, pressé contre le mien, et son odeur étaient presque écrasantes."
+
+
 translate french ep016_eva_talk_b120635e:
 
-    # "The sudden nearness of Eva’s body, pressed against mine, and her smell were almost overwhelming."
-    ""
 
-# game/episode016_conversations.rpy:85
+    "La proximité soudaine du corps d'Eva, pressé contre le mien, et son odeur étaient presque écrasantes."
+
+
 translate french ep016_eva_talk_755b8f95:
 
-    # "Eva must have had the same sensation, as she attempted to draw even nearer, her lips parted."
-    ""
 
-# game/episode016_conversations.rpy:87
+    "Eva a dû éprouver la même sensation, car elle a tenté de se rapprocher encore plus, ses lèvres se sont écartées."
+
+
 translate french ep016_eva_talk_f7fcd884:
 
-    # "I responded and suddenly we were kissing."
-    ""
 
-# game/episode016_conversations.rpy:89
+    "J'ai répondu et soudain, nous nous sommes embrassés."
+
+
 translate french ep016_eva_talk_85854860:
 
-    # "The ferocity of our reaction surprised us both and this time we both nearly tripped and fell."
-    ""
 
-# game/episode016_conversations.rpy:90
+    "La férocité de notre réaction nous a surpris tous les deux et cette fois, nous avons failli trébucher et tomber."
+
+
 translate french ep016_eva_talk_62d8f8d4:
 
-    # "It broke the spell."
-    ""
 
-# game/episode016_conversations.rpy:92
+    "Cela a rompu le charme."
+
+
 translate french ep016_eva_talk_601f7fb5:
 
-    # e "I...{w} Uh...{w} I was here."
-    e ""
 
-# game/episode016_conversations.rpy:93
+    e "Je...{w} Euh...{w} J'étais là."
+
+
 translate french ep016_eva_talk_0e08f5d3:
 
-    # c "I noticed that."
-    c ""
 
-# game/episode016_conversations.rpy:95
+    c "Je l'ai remarqué."
+
+
 translate french ep016_eva_talk_81a61700:
 
-    # e "I mean, I wanted to speak to you, but you weren’t there."
-    e ""
 
-# game/episode016_conversations.rpy:96
+    e "Je veux dire que je voulais te parler, mais tu n'étais pas là."
+
+
 translate french ep016_eva_talk_ded44b0b:
 
-    # c "I am now."
-    c ""
 
-# game/episode016_conversations.rpy:97
+    c "Je le suis maintenant."
+
+
 translate french ep016_eva_talk_3cead5e5:
 
-    # e "I noticed that."
-    e ""
 
-# game/episode016_conversations.rpy:99
+    e "Je l'ai remarqué."
+
+
 translate french ep016_eva_talk_f7230018:
 
-    # "The similarity of her reply made us both smile."
-    ""
 
-# game/episode016_conversations.rpy:100
+    "La similitude de sa réponse nous a fait sourire tous les deux."
+
+
 translate french ep016_eva_talk_ad871e71:
 
-    # "Eva’s mirth soon evaporated, as a realization struck her."
-    ""
 
-# game/episode016_conversations.rpy:102
+    "Le sourire d'Eva s'est vite évaporé, car elle a pris conscience de la situation."
+
+
 translate french ep016_eva_talk_1dbca999:
 
-    # e "What are we doing, [p_name_short]?"
-    e ""
 
-# game/episode016_conversations.rpy:103
+    e "Que faisons-nous, [p_name_short] ?"
+
+
 translate french ep016_eva_talk_652f6c7e:
 
-    # c "I’m not sure."
-    c ""
 
-# game/episode016_conversations.rpy:104
+    c "Je n'en suis pas sûr."
+
+
 translate french ep016_eva_talk_9459b02e:
 
-    # c "It didn’t feel bad though."
-    c ""
 
-# game/episode016_conversations.rpy:106
+    c "Mais je ne me suis pas senti mal."
+
+
 translate french ep016_eva_talk_d447af93:
 
-    # e "No, maybe it didn’t."
-    e ""
 
-# game/episode016_conversations.rpy:107
+    e "Non, peut-être que non."
+
+
 translate french ep016_eva_talk_e01e730f:
 
-    # e "I think, maybe, we should talk."
-    e ""
 
-# game/episode016_conversations.rpy:108
+    e "Je pense que nous devrions peut-être parler."
+
+
 translate french ep016_eva_talk_034cc09e:
 
-    # e "That's the reason why I came to your room in the first place."
-    e ""
 
-# game/episode016_conversations.rpy:110
+    e "C'est la raison pour laquelle je suis venu dans ta chambre en premier lieu."
+
+
 translate french ep016_eva_talk_843cc00b:
 
-    # "I picked up my datapad that I had dropped as Eva and I bumped into each other, it didn't seem to badly damaged."
-    ""
 
-# game/episode016_conversations.rpy:111
+    "Je ramasse mon datapad que j'ai fait tomber quand Eva et moi nous sommes cognés l'un contre l'autre, il n'a pas l'air trop abîmé."
+
+
 translate french ep016_eva_talk_19cfbf44:
 
-    # "Eva sat on my bed as I closed the door."
-    ""
 
-# game/episode016_conversations.rpy:114
+    "Eva s'est assise sur mon lit pendant que je fermais la porte."
+
+
 translate french ep016_eva_talk_abb81d2f:
 
-    # "When I took a seat opposite of her, my sister let out a big sigh."
-    ""
 
-# game/episode016_conversations.rpy:116
+    "Lorsque j'ai pris place en face d'elle, ma sœur a poussé un grand soupir."
+
+
 translate french ep016_eva_talk_0139bff8:
 
-    # "When I took a seat opposite of her, my friend let out a big sigh."
-    ""
 
-# game/episode016_conversations.rpy:117
+    "Lorsque j'ai pris place en face d'elle, mon amie a poussé un gros soupir."
+
+
 translate french ep016_eva_talk_63a42747:
 
-    # e "My emotions, what happened between us, what you told me after rescuing me from the simulation, it's all such a mess."
-    e ""
 
-# game/episode016_conversations.rpy:118
+    e "Mes émotions, ce qui s'est passé entre nous, ce que tu m'as dit après m'avoir sauvée de la simulation, tout cela est un tel gâchis."
+
+
 translate french ep016_eva_talk_402ae1e1:
 
-    # c "Yes, I think we can both agree on that."
-    c ""
 
-# game/episode016_conversations.rpy:120
+    c "Oui, je pense que nous sommes tous les deux d'accord sur ce point."
+
+
 translate french ep016_eva_talk_e1861368:
 
-    # e "I didn't really respond after your confession in the medbay."
-    e ""
 
-# game/episode016_conversations.rpy:121
+    e "Je n'ai pas vraiment réagi après ta confession dans l'infirmerie."
+
+
 translate french ep016_eva_talk_6bba80fb:
 
-    # e "And while it's true I was tired after the whole ordeal, it was more the shock that overwhelmed me."
-    e ""
 
-# game/episode016_conversations.rpy:122
+    e "Et s'il est vrai que j'étais fatiguée après toute cette épreuve, c'est plutôt le choc qui m'a submergée."
+
+
 translate french ep016_eva_talk_b4e1e77a:
 
-    # c "I can imagine it must be a little too much to bear."
-    c ""
 
-# game/episode016_conversations.rpy:123
+    c "J'imagine que ça doit être un peu trop dur à supporter."
+
+
 translate french ep016_eva_talk_0376ebd8:
 
-    # e "Well, just in a sense that it was so unexpected, not out of disgust or anything."
-    e ""
 
-# game/episode016_conversations.rpy:124
+    e "Enfin, juste dans le sens où c'était tellement inattendu, pas par dégoût ou quoi que ce soit d'autre."
+
+
 translate french ep016_eva_talk_381cec6e:
 
-    # e "And the signs were there, of course."
-    e ""
 
-# game/episode016_conversations.rpy:126
+    e "Et les signes étaient là, bien sûr."
+
+
 translate french ep016_eva_talk_63dfb8ac:
 
-    # e "The simulation of our home, the kiss we shared in the fantasy sim."
-    e ""
 
-# game/episode016_conversations.rpy:128
+    e "La simulation de notre maison, le baiser que nous avons partagé dans la simulation fantastique."
+
+
 translate french ep016_eva_talk_3c037b79:
 
-    # e "But I could somehow dismiss those moments, like they were a heat of the moment thing, if you know what I mean."
-    e ""
 
-# game/episode016_conversations.rpy:129
+    e "Mais je pouvais en quelque sorte rejeter ces moments, comme s'il s'agissait d'un coup de chaud, si tu vois ce que je veux dire."
+
+
 translate french ep016_eva_talk_e9b281e4:
 
-    # c "I do, yes."
-    c ""
 
-# game/episode016_conversations.rpy:131
+    c "C'est vrai, oui."
+
+
 translate french ep016_eva_talk_a136d5ed:
 
-    # e "You've been honest about your feelings towards me, so I think it's only fair I will about mine."
-    e ""
 
-# game/episode016_conversations.rpy:133
+    e "Tu as été honnête à propos de tes sentiments envers moi, alors je pense qu'il est juste que je le sois à propos des miens."
+
+
 translate french ep016_eva_talk_070f6b63:
 
-    # e "We've always been so close, ever since we were kids."
-    e ""
 
-# game/episode016_conversations.rpy:134
+    e "Nous avons toujours été très proches, depuis que nous sommes enfants."
+
+
 translate french ep016_eva_talk_e04d228e:
 
-    # e "The thought of possibly seeing you again is part of what kept me going during my time as queen on Erigone."
-    e ""
 
-# game/episode016_conversations.rpy:135
+    e "L'idée de te revoir éventuellement fait partie de ce qui m'a permis de tenir le coup pendant mon séjour en tant que reine sur Erigone."
+
+
 translate french ep016_eva_talk_f48e43f3:
 
-    # e "So you can imagine my emotions when you finally arrived to get me off that planet."
-    e ""
 
-# game/episode016_conversations.rpy:136
+    e "Tu peux donc imaginer mes émotions lorsque tu es enfin arrivé pour me faire quitter cette planète."
+
+
 translate french ep016_eva_talk_53d9590d:
 
-    # e "Everything has been such a rollercoaster ever since."
-    e ""
 
-# game/episode016_conversations.rpy:138
+    e "Depuis, tout a été une véritable montagne russe."
+
+
 translate french ep016_eva_talk_730bdc9a:
 
-    # e "I mean, I thought I’d lost you just a short while back!"
-    e ""
 
-# game/episode016_conversations.rpy:140
+    e "Je pensais t'avoir perdu il y a encore peu de temps !"
+
+
 translate french ep016_eva_talk_ed5801e6:
 
-    # e "And then...{w} We kissed and it triggered all these confusing feelings I’ve felt for you for so long."
-    e ""
 
-# game/episode016_conversations.rpy:141
+    e "Et puis...{w} Nous nous sommes embrassés et cela a déclenché tous ces sentiments confus que je ressentais pour toi depuis si longtemps."
+
+
 translate french ep016_eva_talk_c5255654:
 
-    # e "It’s just..."
-    e ""
 
-# game/episode016_conversations.rpy:143
+    e "C'est juste que..."
+
+
 translate french ep016_eva_talk_cc197c6b:
 
-    # e "I love you, [p_name]."
-    e ""
 
-# game/episode016_conversations.rpy:144
+    e "Je t'aime, [p_name]."
+
+
 translate french ep016_eva_talk_192b3cae:
 
-    # e "I always have."
-    e ""
 
-# game/episode016_conversations.rpy:146
+    e "Je t'ai toujours aimé."
+
+
 translate french ep016_eva_talk_dc0db94c:
 
-    # e "And I can't help myself any longer."
-    e ""
 
-# game/episode016_conversations.rpy:147
+    e "Et je ne peux plus m'en empêcher."
+
+
 translate french ep016_eva_talk_65f57608:
 
-    # e "Even just now, when you're near me, the urge to give into all those conflicting feelings is too big."
-    e ""
 
-# game/episode016_conversations.rpy:148
+    e "Même maintenant, quand tu es près de moi, l'envie de céder à tous ces sentiments contradictoires est trop forte."
+
+
 translate french ep016_eva_talk_a4985493:
 
-    # e "I want you and I know I shouldn't, but I just don't care anymore."
-    e ""
 
-# game/episode016_conversations.rpy:149
+    e "J'ai envie de toi et je sais que je ne devrais pas, mais je n'en ai plus rien à faire."
+
+
 translate french ep016_eva_talk_c1424d6d:
 
-    # c "You don't know half how happy that makes me to hear you say that."
-    c ""
 
-# game/episode016_conversations.rpy:152
+    c "Tu ne sais pas à quel point cela me rend heureux de t'entendre dire cela."
+
+
 translate french ep016_eva_talk_91504219:
 
-    # e "But I don't want to say 'a sin', but we will be judged by everyone who knows us if we act on it."
-    e ""
 
-# game/episode016_conversations.rpy:153
+    e "Mais je ne veux pas dire « un péché », mais nous serons jugés par tous ceux qui nous connaissent si nous passons à l'acte."
+
+
 translate french ep016_eva_talk_a8087432:
 
-    # c "Well, considering our mother, I'm not so sure about that."
-    c ""
 
-# game/episode016_conversations.rpy:158
+    c "Vu notre mère, je n'en suis pas si sûr."
+
+
 translate french ep016_eva_talk_e2f766ad:
 
-    # "Eva suddenly looked pained and I was afraid I'd ruined the moment completely."
-    ""
 
-# game/episode016_conversations.rpy:160
+    "Eva a soudain pris un air peiné et j'ai eu peur d'avoir complètement gâché le moment."
+
+
 translate french ep016_eva_talk_1be2e035:
 
-    # e "Yes, about that."
-    e ""
 
-# game/episode016_conversations.rpy:163
+    e "Oui, à ce propos."
+
+
 translate french ep016_eva_talk_b0b14c69:
 
-    # e "You mentioned you were already involved with Aven and Lilly?"
-    e ""
 
-# game/episode016_conversations.rpy:165
+    e "Tu as dit que tu avais déjà une relation avec Aven et Lilly ?"
+
+
 translate french ep016_eva_talk_7f84375f:
 
-    # e "You mentioned you were already involved with Lilly?"
-    e ""
 
-# game/episode016_conversations.rpy:167
+    e "Tu as dit que tu avais déjà une relation avec Lilly ?"
+
+
 translate french ep016_eva_talk_92b0b260:
 
-    # e "You mentioned you were already involved with Aven?"
-    e ""
 
-# game/episode016_conversations.rpy:168
+    e "Tu as dit que tu étais déjà impliquée avec Aven ?"
+
+
 translate french ep016_eva_talk_b63d6bf3:
 
-    # c "I am."
-    c ""
 
-# game/episode016_conversations.rpy:174
+    c "C'est le cas."
+
+
 translate french ep016_eva_talk_2f4f3321:
 
-    # e "She kept all that a secret for a great many years, so I'm not sure if that's a good example."
-    e ""
 
-# game/episode016_conversations.rpy:176
+    e "Elle a gardé tout cela secret pendant de très nombreuses années, alors je ne suis pas sûr que ce soit un bon exemple."
+
+
 translate french ep016_eva_talk_65dea4fc:
 
-    # e "Besides, I heard a rumor you are already involved with someone?"
-    e ""
 
-# game/episode016_conversations.rpy:179
+    e "De plus, j'ai entendu une rumeur selon laquelle tu serais déjà impliqué avec quelqu'un ?"
+
+
 translate french ep016_eva_talk_678e2645:
 
-    # e "Be that as it may, but I heard a rumor you are already involved with someone?"
-    e ""
 
-# game/episode016_conversations.rpy:182
+    e "Quoi qu'il en soit, j'ai entendu une rumeur selon laquelle tu aurais déjà une relation avec quelqu'un ?"
+
+
 translate french ep016_eva_talk_25023803:
 
-    # c "Yes, Céline and I are in a relationship."
-    c ""
 
-# game/episode016_conversations.rpy:184
+    c "Oui, Céline et moi sommes en couple."
+
+
 translate french ep016_eva_talk_5232cfea:
 
-    # c "But she isn't the only the only girl I'm currently involved with."
-    c ""
 
-# game/episode016_conversations.rpy:187
+    c "Mais elle n'est pas la seule fille avec laquelle je suis actuellement engagé."
+
+
 translate french ep016_eva_talk_eff9b5bc:
 
-    # c "Putting our unconventional parentage aside, I'm at a point where I just don't care about what people think of me anymore."
-    c ""
 
-# game/episode016_conversations.rpy:189
+    c "En mettant de côté notre parenté non conventionnelle, je suis arrivé à un point où je ne me soucie plus de ce que les gens pensent de moi."
+
+
 translate french ep016_eva_talk_82983b4e:
 
-    # c "Putting our childhood friendship aside, I'm at a point where I just want us to be together."
-    c ""
 
-# game/episode016_conversations.rpy:190
+    c "En mettant de côté notre amitié d'enfance, j'en suis à un point où je veux juste que nous soyons ensemble."
+
+
 translate french ep016_eva_talk_1232dc0a:
 
-    # c "I love you and that should be enough."
-    c ""
 
-# game/episode016_conversations.rpy:192
+    c "Je t'aime et cela devrait suffire."
+
+
 translate french ep016_eva_talk_98cc1147:
 
-    # c "Out of respect for you, I do have another confession to make though and I feel I should do it right now."
-    c ""
 
-# game/episode016_conversations.rpy:193
+    c "Par respect pour toi, j'ai cependant un autre aveu à te faire et je pense que je dois le faire maintenant."
+
+
 translate french ep016_eva_talk_46d00547:
 
-    # c "I’d hate to ruin this moment, but you deserve the honest truth."
-    c ""
 
-# game/episode016_conversations.rpy:194
+    c "Je ne voudrais pas gâcher ce moment, mais tu mérites la vérité honnête."
+
+
 translate french ep016_eva_talk_9337e0e1:
 
-    # c "You’re not the only girl I’m currently involved with."
-    c ""
 
-# game/episode016_conversations.rpy:196
+    c "Tu n'es pas la seule fille avec qui j'ai une relation en ce moment."
+
+
 translate french ep016_eva_talk_3388a208:
 
-    # e "Oh..."
-    e ""
 
-# game/episode016_conversations.rpy:198
+    e "Oh..."
+
+
 translate french ep016_eva_talk_8bc134d7:
 
-    # "The disappointment on her face was almost too much to go on, but I couldn’t stop talking now."
-    ""
 
-# game/episode016_conversations.rpy:199
+    "La déception qui se lisait sur son visage était presque trop forte pour continuer, mais je ne pouvais pas arrêter de parler maintenant."
+
+
 translate french ep016_eva_talk_6fc40dcf:
 
-    # c "Over time, the crew grew so close, I mean, we went through so much together."
-    c ""
 
-# game/episode016_conversations.rpy:212
+    c "Avec le temps, l'équipe s'est rapprochée, je veux dire, nous avons traversé tellement de choses ensemble."
+
+
 translate french ep016_eva_talk_74a257f9:
 
-    # e "Who else are you involved with, [p_name]?"
-    e ""
 
-# game/episode016_conversations.rpy:213
+    e "Avec qui d'autre es-tu impliqué, [p_name] ?"
+
+
 translate french ep016_eva_talk_cfa6ca55:
 
-    # c "[romances]."
-    c ""
 
-# game/episode016_conversations.rpy:216
+    c "[romances]."
+
+
 translate french ep016_eva_talk_46b9dee5:
 
-    # e "But all those names, that’s almost the entire crew?!"
-    e ""
 
-# game/episode016_conversations.rpy:217
+    e "Mais tous ces noms, c'est presque toute l'équipe !"
+
+
 translate french ep016_eva_talk_e2ea8b1b:
 
-    # c "Yes, I know."
-    c ""
 
-# game/episode016_conversations.rpy:220
+    c "Oui, je sais."
+
+
 translate french ep016_eva_talk_91b682ec:
 
-    # e "So are you...{w} In a relationship with them?"
-    e ""
 
-# game/episode016_conversations.rpy:222
+    e "Alors tu es...{w} en couple avec elles ?"
+
+
 translate french ep016_eva_talk_bb949ab9:
 
-    # e "So are you...{w} In a relationship with her?"
-    e ""
 
-# game/episode016_conversations.rpy:223
+    e "Alors, es-tu...{w} en couple avec elle ?"
+
+
 translate french ep016_eva_talk_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode016_conversations.rpy:225
+    c "Oui, je le suis."
+
+
 translate french ep016_eva_talk_d2376172:
 
-    # "Eva was silent for a long while, visibly torn by her emotions."
-    ""
 
-# game/episode016_conversations.rpy:227
+    "Eva reste silencieuse un long moment, visiblement déchirée par ses émotions."
+
+
 translate french ep016_eva_talk_6bfa9893:
 
-    # e "So, am I too late?"
-    e ""
 
-# game/episode016_conversations.rpy:228
+    e "Alors, est-ce que j'arrive trop tard ?"
+
+
 translate french ep016_eva_talk_9c056f42:
 
-    # c "No, you're not."
-    c ""
 
-# game/episode016_conversations.rpy:230
+    c "Non, ce n'est pas vrai."
+
+
 translate french ep016_eva_talk_c050bcb6:
 
-    # e "But you just said you were in love with all those women."
-    e ""
 
-# game/episode016_conversations.rpy:232
+    e "Mais tu viens de dire que tu étais amoureux de toutes ces femmes."
+
+
 translate french ep016_eva_talk_66afa45d:
 
-    # e "But you just said you were in love with her."
-    e ""
 
-# game/episode016_conversations.rpy:233
+    e "Mais tu viens de dire que tu étais amoureux d'elle."
+
+
 translate french ep016_eva_talk_b63d6bf3_1:
 
-    # c "I am."
-    c ""
 
-# game/episode016_conversations.rpy:234
+    c "C'est le cas."
+
+
 translate french ep016_eva_talk_8ac3cee6:
 
-    # c "But there's room for you in my heart as well."
-    c ""
 
-# game/episode016_conversations.rpy:237
+    c "Mais il y a aussi de la place pour toi dans mon cœur."
+
+
 translate french ep016_eva_talk_471a21d7:
 
-    # e "You're asking me to accept the fact that you have all these women on the side?"
-    e ""
 
-# game/episode016_conversations.rpy:238
+    e "Tu me demandes d'accepter le fait que tu as toutes ces femmes à côté ?"
+
+
 translate french ep016_eva_talk_7e6e97ae:
 
-    # c "It's a little hard to explain, but I love all of you equally."
-    c ""
 
-# game/episode016_conversations.rpy:240
+    c "C'est un peu difficile à expliquer, mais je vous aime toutes de la même façon."
+
+
 translate french ep016_eva_talk_6fab5162:
 
-    # e "You're asking me to accept the fact that you have a woman on the side?"
-    e ""
 
-# game/episode016_conversations.rpy:241
+    e "Tu me demandes d'accepter le fait que tu aies une femme à côté ?"
+
+
 translate french ep016_eva_talk_328df0a1:
 
-    # c "It's a little hard to explain, but I love you both equally."
-    c ""
 
-# game/episode016_conversations.rpy:242
+    c "C'est un peu difficile à expliquer, mais je vous aime tous les deux de la même façon."
+
+
 translate french ep016_eva_talk_d1cdede4:
 
-    # c "I know monogamy is still the norm for some reason, but I find it a narrowing way of living your life."
-    c ""
 
-# game/episode016_conversations.rpy:244
+    c "Je sais que la monogamie est encore la norme pour une raison quelconque, mais je trouve que c'est une façon étriquée de vivre sa vie."
+
+
 translate french ep016_eva_talk_14270fa5:
 
-    # e "That's easy for you to say."
-    e ""
 
-# game/episode016_conversations.rpy:245
+    e "C'est facile à dire pour toi."
+
+
 translate french ep016_eva_talk_8d291360:
 
-    # e "I'm ready to share my love for you and instead you're telling me I'll be one of many, that I have to get in line for your heart."
-    e ""
 
-# game/episode016_conversations.rpy:246
+    e "Je suis prête à partager mon amour pour toi et au lieu de cela, tu me dis que je serai une parmi tant d'autres, que je dois faire la queue pour ton cœur."
+
+
 translate french ep016_eva_talk_d71c939c:
 
-    # c "It doesn't work like that for me."
-    c ""
 
-# game/episode016_conversations.rpy:248
+    c "Ça ne marche pas comme ça pour moi."
+
+
 translate french ep016_eva_talk_bf612b49:
 
-    # c "The feelings I have for you all are equally strong."
-    c ""
 
-# game/episode016_conversations.rpy:249
+    c "Les sentiments que j'éprouve pour vous toutes sont tout aussi forts."
+
+
 translate french ep016_eva_talk_a8fd0b0a:
 
-    # c "I don't want to choose between you all."
-    c ""
 
-# game/episode016_conversations.rpy:251
+    c "Je ne veux pas choisir entre vous toutes."
+
+
 translate french ep016_eva_talk_1ed8c55e:
 
-    # c "The feelings I have for you both are equally strong."
-    c ""
 
-# game/episode016_conversations.rpy:252
+    c "Les sentiments que j'éprouve pour vous deux sont aussi forts l'un que l'autre."
+
+
 translate french ep016_eva_talk_abdaf9c8:
 
-    # c "I don't want to choose between you two."
-    c ""
 
-# game/episode016_conversations.rpy:256
+    c "Je ne veux pas choisir entre vous deux."
+
+
 translate french ep016_eva_talk_084e52b6:
 
-    # e "How does Lilly accept that situation?"
-    e ""
 
-# game/episode016_conversations.rpy:257
+    e "Comment Lilly accepte-t-elle cette situation ?"
+
+
 translate french ep016_eva_talk_5fecaf4d:
 
-    # e "Or doesn't she know about the others?"
-    e ""
 
-# game/episode016_conversations.rpy:259
+    e "Ou bien ne sait-elle pas pour les autres ?"
+
+
 translate french ep016_eva_talk_5b25eaac:
 
-    # e "How will Lilly accept the situation?"
-    e ""
 
-# game/episode016_conversations.rpy:260
+    e "Comment Lilly va-t-elle accepter la situation ?"
+
+
 translate french ep016_eva_talk_754853d5:
 
-    # e "Or aren't you going to tell her?"
-    e ""
 
-# game/episode016_conversations.rpy:262
+    e "Ou bien tu ne vas pas lui dire ?"
+
+
 translate french ep016_eva_talk_7cee655a:
 
-    # c "Lilly knows I love other women."
-    c ""
 
-# game/episode016_conversations.rpy:264
+    c "Lilly sait que j'aime d'autres femmes."
+
+
 translate french ep016_eva_talk_7a0b1dee:
 
-    # c "I'll tell her."
-    c ""
 
-# game/episode016_conversations.rpy:266
+    c "Je lui dirai."
+
+
 translate french ep016_eva_talk_191fa270:
 
-    # e "You've managed to make me even more confused."
-    e ""
 
-# game/episode016_conversations.rpy:269
+    e "Tu as réussi à me rendre encore plus confuse."
+
+
 translate french ep016_eva_talk_355cda68:
 
-    # e "Here I was thinking I was some kind of freak, but instead you've gone ahead and acted on your impulses which I tried to repress for so long."
-    e ""
 
-# game/episode016_conversations.rpy:270
+    e "J'étais en train de penser que j'étais une sorte de monstre, mais au lieu de cela, tu es allé de l'avant et tu as agi selon tes impulsions que j'ai essayé de réprimer pendant si longtemps."
+
+
 translate french ep016_eva_talk_81bbc5bc:
 
-    # c "Do you need some time to think?"
-    c ""
 
-# game/episode016_conversations.rpy:272
+    c "As-tu besoin d'un peu de temps pour réfléchir ?"
+
+
 translate french ep016_eva_talk_bcb00d23:
 
-    # e "I...{w} I don't know."
-    e ""
 
-# game/episode016_conversations.rpy:273
+    e "Je...{w} Je ne sais pas."
+
+
 translate french ep016_eva_talk_d497a453:
 
-    # e "I need you."
-    e ""
 
-# game/episode016_conversations.rpy:275
+    e "J'ai besoin de toi."
+
+
 translate french ep016_eva_talk_d0c4b606:
 
-    # e "Ugh, I'm sounding desperate aren't I?"
-    e ""
 
-# game/episode016_conversations.rpy:276
+    e "Ugh, j'ai l'air désespérée, n'est-ce pas ?"
+
+
 translate french ep016_eva_talk_28f78377:
 
-    # e "I should have said something way, way earlier."
-    e ""
 
-# game/episode016_conversations.rpy:277
+    e "J'aurais dû dire quelque chose bien plus tôt."
+
+
 translate french ep016_eva_talk_5fdffee0:
 
-    # e "Confessed my feelings when you were leaving for the Academy."
-    e ""
 
-# game/episode016_conversations.rpy:278
+    e "Avouer mes sentiments quand tu partais pour l'Académie."
+
+
 translate french ep016_eva_talk_703fb785:
 
-    # c "I'm not sure I'd have understood you back then."
-    c ""
 
-# game/episode016_conversations.rpy:280
+    c "Je ne suis pas sûr que je t'aurais compris à l'époque."
+
+
 translate french ep016_eva_talk_bed5dbc1:
 
-    # c "The events on the research station were a revelation in that regard."
-    c ""
 
-# game/episode016_conversations.rpy:282
+    c "Les événements survenus sur la station de recherche ont été une révélation à cet égard."
+
+
 translate french ep016_eva_talk_51eb6594:
 
-    # c "It’s been a slow realization over the past months."
-    c ""
 
-# game/episode016_conversations.rpy:283
+    c "C'est une prise de conscience qui s'est faite lentement au cours des derniers mois."
+
+
 translate french ep016_eva_talk_26f514f4:
 
-    # c "Very much like the fact that I love multiple women at the same time."
-    c ""
 
-# game/episode016_conversations.rpy:285
+    c "Tout comme le fait que j'aime plusieurs femmes en même temps."
+
+
 translate french ep016_eva_talk_e392fe53:
 
-    # e "I'm happy with your first epiphany, much less so with the second."
-    e ""
 
-# game/episode016_conversations.rpy:287
+    e "Je suis contente de ta première révélation, beaucoup moins de la seconde."
+
+
 translate french ep016_eva_talk_36837bff:
 
-    # e "My head is spinning, I really need to lie down for a while and process all this."
-    e ""
 
-# game/episode016_conversations.rpy:288
+    e "J'ai la tête qui tourne, j'ai vraiment besoin de m'allonger un moment et d'assimiler tout ça."
+
+
 translate french ep016_eva_talk_24366554:
 
-    # c "I understand."
-    c ""
 
-# game/episode016_conversations.rpy:290
+    c "Je comprends."
+
+
 translate french ep016_eva_talk_baff113e:
 
-    # "Eva took my hand as she was about to turn and leave my quarters."
-    ""
 
-# game/episode016_conversations.rpy:292
+    "Eva me prit la main alors qu'elle s'apprêtait à tourner les talons et à quitter mes quartiers."
+
+
 translate french ep016_eva_talk_f7499c09:
 
-    # e "Whatever I decide in the end, I'd very much like you to kiss me again."
-    e ""
 
-# game/episode016_conversations.rpy:294
+    e "Quelle que soit ma décision finale, j'aimerais beaucoup que tu m'embrasses à nouveau."
+
+
 translate french ep016_eva_talk_bf74a186:
 
-    # "I didn't need much more encouragement and took her in my arms."
-    ""
 
-# game/episode016_conversations.rpy:296
+    "Je n'ai pas eu besoin de plus d'encouragement et je l'ai prise dans mes bras."
+
+
 translate french ep016_eva_talk_db4dfb6d:
 
-    # "The kiss we exchanged was as passionate as it was longing."
-    ""
 
-# game/episode016_conversations.rpy:298
+    "Le baiser que nous avons échangé était aussi passionné que désireux."
+
+
 translate french ep016_eva_talk_c3adc82b:
 
-    # "When the moment had passed, I watched Eva go, the inner conflict visible in her expression."
-    ""
 
-# game/episode016_conversations.rpy:299
+    "Une fois le moment passé, j'ai regardé Eva partir, le conflit intérieur visible dans son expression."
+
+
 translate french ep016_eva_talk_c5c24eb0:
 
-    # "The way she'd held me as we kissed made me feel hopeful however, despite my shocking confession, it might all just work out."
-    ""
 
-# game/episode016_conversations.rpy:309
+    "La façon dont elle m'avait serré dans ses bras pendant que nous nous embrassions m'a fait espérer que, malgré ma confession choquante, tout pourrait bien s'arranger."
+
+
 translate french ep016_celine_talk_5fff791f:
 
-    # "Late at night, I was looking over some data on one of the bridge consoles."
-    ""
 
-# game/episode016_conversations.rpy:310
+    "Tard dans la nuit, je consultais des données sur l'une des consoles de la passerelle."
+
+
 translate french ep016_celine_talk_5693e536:
 
-    # "Behind my back, I heard the door open."
-    ""
 
-# game/episode016_conversations.rpy:312
+    "Dans mon dos, j'ai entendu la porte s'ouvrir."
+
+
 translate french ep016_celine_talk_96f79375:
 
-    # ce "Oh...{w} I didn't think anyone would be here."
-    ce ""
 
-# game/episode016_conversations.rpy:313
+    ce "Oh...{w} Je ne pensais pas qu'il y aurait quelqu'un ici."
+
+
 translate french ep016_celine_talk_ad73e646:
 
-    # c "Just going over some details."
-    c ""
 
-# game/episode016_conversations.rpy:314
+    c "Je vérifiais juste quelques détails."
+
+
 translate french ep016_celine_talk_477ec93c:
 
-    # ce "I'll leave you alone then."
-    ce ""
 
-# game/episode016_conversations.rpy:315
+    ce "Je vais te laisser seul alors."
+
+
 translate french ep016_celine_talk_57187f9f:
 
-    # c "No, please stay."
-    c ""
 
-# game/episode016_conversations.rpy:317
+    c "Non, je t'en prie, reste."
+
+
 translate french ep016_celine_talk_f549f5b1:
 
-    # "Céline hesitated, almost turned away, but stepped inside and slumped into a chair opposite of me."
-    ""
 
-# game/episode016_conversations.rpy:318
+    "Céline a hésité, s'est presque détournée, mais elle est entrée et s'est affalée sur une chaise en face de moi."
+
+
 translate french ep016_celine_talk_800be268:
 
-    # c "Can't sleep?"
-    c ""
 
-# game/episode016_conversations.rpy:320
+    c "Tu n'arrives pas à dormir ?"
+
+
 translate french ep016_celine_talk_aa4293ac:
 
-    # ce "Not really no. "
-    ce ""
 
-# game/episode016_conversations.rpy:321
+    ce "Pas vraiment non. "
+
+
 translate french ep016_celine_talk_97520da4:
 
-    # c "Shall I get us something hot to drink from the mess?"
-    c ""
 
-# game/episode016_conversations.rpy:323
+    c "Tu veux que je nous apporte quelque chose de chaud à boire dans le bazar ?"
+
+
 translate french ep016_celine_talk_41c4f593:
 
-    # ce "No, I'd rather we just talk."
-    ce ""
 
-# game/episode016_conversations.rpy:324
+    ce "Non, je préfère que nous parlions."
+
+
 translate french ep016_celine_talk_897d2c63:
 
-    # ce "I've been putting it off, but since I'm thinking of that big reveal involving Lilly and me every free moment of my time, I think we should just talk."
-    ce ""
 
-# game/episode016_conversations.rpy:325
+    ce "J'ai repoussé l'échéance, mais comme je pense à cette grande révélation impliquant Lilly et moi à chaque moment de mon temps libre, je pense qu'il faut qu'on parle."
+
+
 translate french ep016_celine_talk_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode016_conversations.rpy:327
+    c "C'est vrai."
+
+
 translate french ep016_celine_talk_bc6e7387:
 
-    # ce "I won't lie that I felt betrayed, really betrayed."
-    ce ""
 
-# game/episode016_conversations.rpy:328
+    ce "Je ne vais pas te mentir, je me suis sentie trahie, vraiment trahie."
+
+
 translate french ep016_celine_talk_95d88cd4:
 
-    # ce "I mean, the thing between us has been going on for quite a long time, at the Academy even."
-    ce ""
 
-# game/episode016_conversations.rpy:330
+    ce "Je veux dire que ce qui se passe entre nous dure depuis longtemps, même à l'Académie."
+
+
 translate french ep016_celine_talk_fe916261:
 
-    # ce "So hearing about you being involved with another woman, other women even, was a gut punch."
-    ce ""
 
-# game/episode016_conversations.rpy:332
+    ce "Alors apprendre que tu as une relation avec une autre femme, d'autres femmes même, ça m'a fait l'effet d'un coup de poing."
+
+
 translate french ep016_celine_talk_65ef74e7:
 
-    # ce "So hearing about you being involved with another woman, was a gut punch."
-    ce ""
 
-# game/episode016_conversations.rpy:336
+    ce "Apprendre que tu as une relation avec une autre femme a été un coup de massue."
+
+
 translate french ep016_celine_talk_5585bd8a:
 
-    # ce "The fact that one of them is my closest friend and your own sister is just icing on the cake..."
-    ce ""
 
-# game/episode016_conversations.rpy:338
+    ce "Le fait que l'une d'entre elles soit mon amie la plus proche et ta propre sœur n'est qu'une cerise sur le gâteau..."
+
+
 translate french ep016_celine_talk_8a4afa75:
 
-    # ce "The fact that one of them is my closest friend is just icing on the cake..."
-    ce ""
 
-# game/episode016_conversations.rpy:342
+    ce "Le fait que l'une d'entre elles soit mon amie la plus proche n'est qu'une cerise sur le gâteau..."
+
+
 translate french ep016_celine_talk_df1b7e66:
 
-    # ce "The fact that she is my closest friend and your own sister is just icing on the cake..."
-    ce ""
 
-# game/episode016_conversations.rpy:344
+    ce "Le fait qu'elle soit mon amie la plus proche et ta propre sœur est juste une cerise sur le gâteau..."
+
+
 translate french ep016_celine_talk_49df59ff:
 
-    # ce "The fact that she is my closest friend is just icing on the cake..."
-    ce ""
 
-# game/episode016_conversations.rpy:346
+    ce "Le fait qu'elle soit mon amie la plus proche est une cerise sur le gâteau..."
+
+
 translate french ep016_celine_talk_62542ae4:
 
-    # ce "So I thought of giving up on us, on our relationship."
-    ce ""
 
-# game/episode016_conversations.rpy:348
+    ce "Alors j'ai pensé à renoncer à nous, à notre relation."
+
+
 translate french ep016_celine_talk_56e23501:
 
-    # ce "I mean, it would be the most logical thing to do, wouldn't it?"
-    ce ""
 
-# game/episode016_conversations.rpy:349
+    ce "Je veux dire, ce serait la chose la plus logique à faire, n'est-ce pas ?"
+
+
 translate french ep016_celine_talk_6feb2dda:
 
-    # c "Perhaps."
-    c ""
 
-# game/episode016_conversations.rpy:351
+    c "Peut-être."
+
+
 translate french ep016_celine_talk_07e33995:
 
-    # ce "But the thought of not being together is turning out too hard to bear."
-    ce ""
 
-# game/episode016_conversations.rpy:353
+    ce "Mais l'idée de ne pas être ensemble s'avère trop difficile à supporter."
+
+
 translate french ep016_celine_talk_fc666638:
 
-    # ce "I don't like that you want to be with other women, but I also want us to stay together."
-    ce ""
 
-# game/episode016_conversations.rpy:355
+    ce "Je n'aime pas que tu veuilles être avec d'autres femmes, mais je veux aussi que nous restions ensemble."
+
+
 translate french ep016_celine_talk_af78612a:
 
-    # ce "And I’ve been going back and forth in my head so many times now, it’s making me go crazy."
-    ce ""
 
-# game/episode016_conversations.rpy:356
+    ce "Et ça fait tellement de fois que je fais l'aller-retour dans ma tête que ça me rend folle."
+
+
 translate french ep016_celine_talk_e4290a9e:
 
-    # ce "So I think I’m going to have to choose."
-    ce ""
 
-# game/episode016_conversations.rpy:358
+    ce "Alors je crois que je vais devoir choisir."
+
+
 translate french ep016_celine_talk_b9d8324d:
 
-    # "Céline gave me a pained look, her emotions still torn."
-    ""
 
-# game/episode016_conversations.rpy:360
+    "Céline me lance un regard peiné, ses émotions sont encore déchirées."
+
+
 translate french ep016_celine_talk_7f92f967:
 
-    # ce "I want to give us a chance."
-    ce ""
 
-# game/episode016_conversations.rpy:362
+    ce "Je veux nous donner une chance."
+
+
 translate french ep016_celine_talk_108364e4:
 
-    # ce "I love you and couldn’t bear to be the one outside looking in."
-    ce ""
 
-# game/episode016_conversations.rpy:363
+    ce "Je t'aime et je ne supporterais pas d'être celle qui regarde à l'extérieur."
+
+
 translate french ep016_celine_talk_cde76d2b:
 
-    # c "You don’t know how happy that makes me."
-    c ""
 
-# game/episode016_conversations.rpy:366
+    c "Tu ne sais pas à quel point cela me rend heureux."
+
+
 translate french ep016_celine_talk_67a93635:
 
-    # ce "Now, you asked us both to consider some other form of love."
-    ce ""
 
-# game/episode016_conversations.rpy:367
+    ce "Maintenant, tu nous as demandé à toutes les deux d'envisager une autre forme d'amour."
+
+
 translate french ep016_celine_talk_fe556dd9:
 
-    # ce "Polyamory, for a lack of a more specific word."
-    ce ""
 
-# game/episode016_conversations.rpy:369
+    ce "Le polyamour, à défaut d'un mot plus précis."
+
+
 translate french ep016_celine_talk_fd832b6c:
 
-    # ce "I’m not sure if I’m ready to commit to that."
-    ce ""
 
-# game/episode016_conversations.rpy:370
+    ce "Je ne suis pas sûre d'être prête à m'engager dans cette voie."
+
+
 translate french ep016_celine_talk_da40fa4b:
 
-    # c "It’s okay if you won’t."
-    c ""
 
-# game/episode016_conversations.rpy:372
+    c "Ce n'est pas grave si tu ne veux pas."
+
+
 translate french ep016_celine_talk_21de6a6b:
 
-    # ce "I’m not saying I won’t, I’m just not ready yet to deal with something like that."
-    ce ""
 
-# game/episode016_conversations.rpy:373
+    ce "Je ne dis pas que je ne le ferai pas, c'est juste que je ne suis pas encore prête à faire face à quelque chose comme ça."
+
+
 translate french ep016_celine_talk_0f086256:
 
-    # ce "But who knows, maybe when our relationship feels a little more stable."
-    ce ""
 
-# game/episode016_conversations.rpy:377
+    ce "Mais qui sait, peut-être que lorsque notre relation sera un peu plus stable."
+
+
 translate french ep016_celine_talk_30343447:
 
-    # ce "Now, I’m aware you have a relationship with [romances]."
-    ce ""
 
-# game/episode016_conversations.rpy:379
+    ce "Je sais que tu as une relation avec [romances]."
+
+
 translate french ep016_celine_talk_77b69cd3:
 
-    # ce "I don’t want to hear about them."
-    ce ""
 
-# game/episode016_conversations.rpy:381
+    ce "Je ne veux pas en entendre parler."
+
+
 translate french ep016_celine_talk_63789502:
 
-    # ce "I don’t want to hear about her."
-    ce ""
 
-# game/episode016_conversations.rpy:382
+    ce "Je ne veux pas entendre parler d'elle."
+
+
 translate french ep016_celine_talk_db6984fb:
 
-    # ce "So, I’m asking you to be discreet and devote yourself completely to me when we’re together."
-    ce ""
 
-# game/episode016_conversations.rpy:383
+    ce "Alors, je te demande d'être discret et de te consacrer entièrement à moi lorsque nous serons ensemble."
+
+
 translate french ep016_celine_talk_58a954ef:
 
-    # c "I promise and I will."
-    c ""
 
-# game/episode016_conversations.rpy:384
+    c "Je te le promets et je le ferai."
+
+
 translate french ep016_celine_talk_ce7645f2:
 
-    # ce "I suppose that’s good enough for me."
-    ce ""
 
-# game/episode016_conversations.rpy:385
+    ce "Je suppose que cela me suffit."
+
+
 translate french ep016_celine_talk_73b5a556:
 
-    # c "You’re awesome, Céline."
-    c ""
 
-# game/episode016_conversations.rpy:387
+    c "Tu es géniale, Céline."
+
+
 translate french ep016_celine_talk_9676a87c:
 
-    # ce "I’m glad I got this off my chest."
-    ce ""
 
-# game/episode016_conversations.rpy:388
+    ce "Je suis contente d'avoir fait le tour de la question."
+
+
 translate french ep016_celine_talk_cfb537a7:
 
-    # ce "I feel ready to look forward now."
-    ce ""
 
-# game/episode016_conversations.rpy:389
+    ce "Je me sens prête à aller de l'avant maintenant."
+
+
 translate french ep016_celine_talk_bfa656fe:
 
-    # "Céline stood up and walked towards me."
-    ""
 
-# game/episode016_conversations.rpy:391
+    "Céline s'est levée et s'est approchée de moi."
+
+
 translate french ep016_celine_talk_7b9bd3a0:
 
-    # "I wrapped my arms around her and we kissed."
-    ""
 
-# game/episode016_conversations.rpy:393
+    "Je l'ai entourée de mes bras et nous nous sommes embrassés."
+
+
 translate french ep016_celine_talk_4467e7ea:
 
-    # "The kiss quickly turned into something more hungry and I had Céline’s top off in seconds."
-    ""
 
-# game/episode016_conversations.rpy:395
+    "Le baiser s'est rapidement transformé en quelque chose de plus affamé et j'ai enlevé le haut de Céline en quelques secondes."
+
+
 translate french ep016_celine_talk_ae7bae9b:
 
-    # "Her hands were on my crotch and she was about to undo my zipper when we heard a door open in the hallway."
-    ""
 
-# game/episode016_conversations.rpy:397
+    "Ses mains étaient sur mon entrejambe et elle était sur le point de défaire ma fermeture éclair quand nous avons entendu une porte s'ouvrir dans le couloir."
+
+
 translate french ep016_celine_talk_5ba83e8d:
 
-    # ce "Shit!"
-    ce ""
 
-# game/episode016_conversations.rpy:398
+    ce "Merde !"
+
+
 translate french ep016_celine_talk_a75f5abb:
 
-    # "Getting caught fucking on the bridge during night time would be a little hard to explain, so Céline rushed to get her top on again."
-    ""
 
-# game/episode016_conversations.rpy:400
+    "Se faire surprendre en train de baiser sur le pont pendant la nuit serait un peu difficile à expliquer, alors Céline s'est dépêchée de remettre son haut."
+
+
 translate french ep016_celine_talk_39b70b18:
 
-    # "Aven walked by the opened door and peeked inside."
-    ""
 
-# game/episode016_conversations.rpy:402
+    "Aven est passé devant la porte ouverte et a jeté un coup d'œil à l'intérieur."
+
+
 translate french ep016_celine_talk_b54ae4ad:
 
-    # av "Oh, it’s you, I thought I heard strange voices."
-    av ""
 
-# game/episode016_conversations.rpy:403
+    av "Oh, c'est vous, j'ai cru entendre des voix étranges."
+
+
 translate french ep016_celine_talk_72f6fd40:
 
-    # c "Can’t sleep either?"
-    c ""
 
-# game/episode016_conversations.rpy:404
+    c "Tu n'arrives pas à dormir non plus ?"
+
+
 translate french ep016_celine_talk_cc4fbcaf:
 
-    # av "No, not really."
-    av ""
 
-# game/episode016_conversations.rpy:405
+    av "Non, pas vraiment."
+
+
 translate french ep016_celine_talk_1fe826b4:
 
-    # av "I was on my way to the mess to get something to drink."
-    av ""
 
-# game/episode016_conversations.rpy:407
+    av "J'allais au mess pour prendre quelque chose à boire."
+
+
 translate french ep016_celine_talk_91046a2f:
 
-    # ce "I think I’m going to get some sleep."
-    ce ""
 
-# game/episode016_conversations.rpy:409
+    ce "Je pense que je vais dormir un peu."
+
+
 translate french ep016_celine_talk_b6ee53d0:
 
-    # ce "Thanks for the talk, [p_name_short], we should really continue some time tomorrow."
-    ce ""
 
-# game/episode016_conversations.rpy:410
+    ce "Merci pour la discussion, [p_name_short], il faudrait vraiment qu'on continue un de ces jours prochains."
+
+
 translate french ep016_celine_talk_84f0f4fe:
 
-    # "Céline’s meaningful expression suggested we wouldn’t do much talking tomorrow and I looked forward to it with glee."
-    ""
 
-# game/episode016_conversations.rpy:412
+    "L'expression significative de Céline suggérait que nous ne parlerions pas beaucoup demain et je l'attendais avec impatience."
+
+
 translate french ep016_celine_talk_95440418:
 
-    # "Aven didn’t seem to notice what happened between us and shuffled behind Céline towards the mess, leaving me alone on the bridge."
-    ""
 
-# game/episode016_conversations.rpy:421
+    "Aven n'a pas semblé remarquer ce qui se passait entre nous et s'est traîné derrière Céline en direction du mess, me laissant seul sur le pont."
+
+
 translate french ep016_thyia_talk_b1e772e6:
 
-    # th "MOTHERFUCK!"
-    th ""
 
-# game/episode016_conversations.rpy:422
+    th "PUTAIN DE MERDE !"
+
+
 translate french ep016_thyia_talk_3c7d07d4:
 
-    # "Thyia’s exclamation was followed by the crash of something metal against the bulkhead."
-    ""
 
-# game/episode016_conversations.rpy:424
+    "L'exclamation de Thyia a été suivie par le fracas de quelque chose de métallique contre la cloison."
+
+
 translate french ep016_thyia_talk_88ee53ce:
 
-    # "I had to evade a screwdriver that sailed through the air as I entered the engine room."
-    ""
 
-# game/episode016_conversations.rpy:425
+    "J'ai dû éviter un tournevis qui a volé dans les airs alors que j'entrais dans la salle des machines."
+
+
 translate french ep016_thyia_talk_14df272a:
 
-    # c "Thyia, are you okay?"
-    c ""
 
-# game/episode016_conversations.rpy:427
+    c "Thyia, ça va ?"
+
+
 translate french ep016_thyia_talk_71db2fc4:
 
-    # th "What?!"
-    th ""
 
-# game/episode016_conversations.rpy:429
+    th "Quoi ! ?"
+
+
 translate french ep016_thyia_talk_17937de3:
 
-    # th "Oh...{w} Shit...{w} Sorry."
-    th ""
 
-# game/episode016_conversations.rpy:430
+    th "Oh...{w} Merde...{w} Désolée."
+
+
 translate french ep016_thyia_talk_e5f6ea96:
 
-    # c "Is there something wrong?"
-    c ""
 
-# game/episode016_conversations.rpy:432
+    c "Il y a quelque chose qui ne va pas ?"
+
+
 translate french ep016_thyia_talk_eee8bd6d:
 
-    # th "Just frustrated."
-    th ""
 
-# game/episode016_conversations.rpy:433
+    th "Je suis juste frustrée."
+
+
 translate french ep016_thyia_talk_61792d20:
 
-    # c "Well, you just tried to either murder me or the ship’s engine, so I’d say it’s more than just frustration."
-    c ""
 
-# game/episode016_conversations.rpy:435
+    c "Tu viens d'essayer de m'assassiner ou de tuer le moteur du vaisseau, alors je dirais que c'est plus que de la frustration."
+
+
 translate french ep016_thyia_talk_1caa8f10:
 
-    # th "I’ve been trying to get this stupid robot to work."
-    th ""
 
-# game/episode016_conversations.rpy:436
+    th "J'ai essayé de faire fonctionner ce stupide robot."
+
+
 translate french ep016_thyia_talk_8295fdbc:
 
-    # c "Still working on that?"
-    c ""
 
-# game/episode016_conversations.rpy:437
+    c "Tu travailles toujours dessus ?"
+
+
 translate french ep016_thyia_talk_69ef852e:
 
-    # th "Yes, and I was progressing well, but I’m fiddling with the main processing unit."
-    th ""
 
-# game/episode016_conversations.rpy:438
+    th "Oui, et je progressais bien, mais je tripote l'unité de traitement principale."
+
+
 translate french ep016_thyia_talk_153bf0ac:
 
-    # th "It just won’t work."
-    th ""
 
-# game/episode016_conversations.rpy:439
+    th "Il ne veut tout simplement pas fonctionner."
+
+
 translate french ep016_thyia_talk_5e4a819f:
 
-    # c "Have you taken a break yet?"
-    c ""
 
-# game/episode016_conversations.rpy:441
+    c "As-tu déjà fait une pause ?"
+
+
 translate french ep016_thyia_talk_86d3c0bd:
 
-    # th "Sure I have."
-    th ""
 
-# game/episode016_conversations.rpy:442
+    th "Oui, bien sûr."
+
+
 translate french ep016_thyia_talk_63f6ac5d:
 
-    # c "When was the last time you actually stepped away from this, Thyia?"
-    c ""
 
-# game/episode016_conversations.rpy:444
+    c "C'est quand la dernière fois que tu t'es éloignée de tout ça, Thyia ?"
+
+
 translate french ep016_thyia_talk_eda4374d:
 
-    # th "Okay fine, I didn’t take any breaks."
-    th ""
 
-# game/episode016_conversations.rpy:445
+    th "D'accord, je n'ai pas fait de pause."
+
+
 translate french ep016_thyia_talk_e207147e:
 
-    # th "I just want this piece of trash to work!"
-    th ""
 
-# game/episode016_conversations.rpy:446
+    th "Je veux juste que cette ordure fonctionne !"
+
+
 translate french ep016_thyia_talk_acf226d7:
 
-    # c "I’m sure it will in due time."
-    c ""
 
-# game/episode016_conversations.rpy:447
+    c "Je suis sûr que ça marchera en temps voulu."
+
+
 translate french ep016_thyia_talk_c222da1a:
 
-    # c "But for now I’m going to whisk you away and we’re going to have have some fun in the city."
-    c ""
 
-# game/episode016_conversations.rpy:448
+    c "Mais pour l'instant, je vais t'emmener et nous allons nous amuser en ville."
+
+
 translate french ep016_thyia_talk_d66b087a:
 
-    # c "You’ve been cooped up for far too long in this metal cage."
-    c ""
 
-# game/episode016_conversations.rpy:450
+    c "Tu es enfermé depuis bien trop longtemps dans cette cage de métal."
+
+
 translate french ep016_thyia_talk_0c2e40ac:
 
-    # th "What are we going to do?"
-    th ""
 
-# game/episode016_conversations.rpy:451
+    th "Qu'est-ce qu'on va faire ?"
+
+
 translate french ep016_thyia_talk_dcbff6ec:
 
-    # c "We’re going out to dinner, wear something nice."
-    c ""
 
-# game/episode016_conversations.rpy:452
+    c "Nous allons sortir dîner, mets quelque chose de bien."
+
+
 translate french ep016_thyia_talk_f8949d43:
 
-    # th "But..."
-    th ""
 
-# game/episode016_conversations.rpy:453
+    th "Mais..."
+
+
 translate french ep016_thyia_talk_410b01c8:
 
-    # c "See you in an hour."
-    c ""
 
-# game/episode016_conversations.rpy:455
+    c "On se voit dans une heure."
+
+
 translate french ep016_thyia_talk_db13642d:
 
-    # "I didn’t wait for Thyia to come up with any excuses and walked out of the engine room."
-    ""
 
-# game/episode016_conversations.rpy:457
+    "Je n'ai pas attendu que Thyia trouve des excuses et je suis sorti de la salle des machines."
+
+
 translate french ep016_thyia_talk_112a07df:
 
-    # "When I returned an hour later, I was half-dreading to find Thyia still covered in grease and working on that robot of hers."
-    ""
 
-# game/episode016_conversations.rpy:459
+    "Lorsque je suis revenu une heure plus tard, je redoutais à moitié de trouver Thyia toujours couverte de graisse et en train de travailler sur son robot."
+
+
 translate french ep016_thyia_talk_4ac1799c:
 
-    # "Instead she was waiting for me, all dolled-up and decidedly not greasy."
-    ""
 
-# game/episode016_conversations.rpy:461
+    "Au lieu de cela, elle m'attendait, toute pomponnée et décidément pas grasse."
+
+
 translate french ep016_thyia_talk_aaf38d39:
 
-    # c "Damn, you look ready."
-    c ""
 
-# game/episode016_conversations.rpy:463
+    c "Bon sang, tu as l'air prête."
+
+
 translate french ep016_thyia_talk_085a906d:
 
-    # th "I think I am."
-    th ""
 
-# game/episode016_conversations.rpy:465
+    th "Je crois que je le suis."
+
+
 translate french ep016_thyia_talk_ecaae6e4:
 
-    # "We left the Bastard and headed out in to the Rhenkoy capital where I’d made reservations at an upscale restaurant."
-    ""
 
-# game/episode016_conversations.rpy:467
+    "Nous avons quitté le Bastard pour nous rendre dans la capitale de Rhenkoy où j'avais réservé dans un restaurant haut de gamme."
+
+
 translate french ep016_thyia_talk_d6024f96:
 
-    # "After we were seated I noticed Thyia looking a little tense."
-    ""
 
-# game/episode016_conversations.rpy:468
+    "Une fois assis, j'ai remarqué que Thyia avait l'air un peu tendue."
+
+
 translate french ep016_thyia_talk_4b9e0353:
 
-    # c "Are you alright?"
-    c ""
 
-# game/episode016_conversations.rpy:469
+    c "Tu vas bien ?"
+
+
 translate french ep016_thyia_talk_1051a283:
 
-    # th "Yes, it’s just..."
-    th ""
 
-# game/episode016_conversations.rpy:470
+    th "Oui, c'est juste que..."
+
+
 translate french ep016_thyia_talk_27735d9a:
 
-    # c "Not your kinda place?"
-    c ""
 
-# game/episode016_conversations.rpy:471
+    c "Ce n'est pas ton genre d'endroit ?"
+
+
 translate french ep016_thyia_talk_e4df7c6d:
 
-    # th "No, not that."
-    th ""
 
-# game/episode016_conversations.rpy:472
+    th "Non, pas du tout."
+
+
 translate french ep016_thyia_talk_684e94f5:
 
-    # th "It’s just that, I mean, this is a date, right?"
-    th ""
 
-# game/episode016_conversations.rpy:473
+    th "C'est juste que, je veux dire, c'est un rendez-vous, non ?"
+
+
 translate french ep016_thyia_talk_73d973b1:
 
-    # c "Well, we have to eat, so might as well do it somewhere nice."
-    c ""
 
-# game/episode016_conversations.rpy:474
+    c "On doit manger, alors autant le faire dans un endroit sympa."
+
+
 translate french ep016_thyia_talk_0efa351e:
 
-    # c "Also, considering what we’ve been through, I’d say we’re way past simple fuckbuddies."
-    c ""
 
-# game/episode016_conversations.rpy:475
+    c "Et puis, vu ce qu'on a vécu, je dirais qu'on a largement dépassé le stade de simples copains de baise."
+
+
 translate french ep016_thyia_talk_6470e046:
 
-    # c "Don’t you agree?"
-    c ""
 
-# game/episode016_conversations.rpy:477
+    c "Tu n'es pas d'accord ?"
+
+
 translate french ep016_thyia_talk_eb69507e:
 
-    # th "Maybe...{w} You know I’m not really good at relationships."
-    th ""
 
-# game/episode016_conversations.rpy:478
+    th "Peut-être...{w} Tu sais que je ne suis pas très douée pour les relations amoureuses."
+
+
 translate french ep016_thyia_talk_543432d3:
 
-    # c "So you’ve told me."
-    c ""
 
-# game/episode016_conversations.rpy:480
+    c "C'est ce que tu m'as dit."
+
+
 translate french ep016_thyia_talk_ee3a001e:
 
-    # th "We’re going to sit here for maybe two or three hours and I get nervous."
-    th ""
 
-# game/episode016_conversations.rpy:481
+    th "Nous allons rester assis ici pendant peut-être deux ou trois heures et je suis nerveuse."
+
+
 translate french ep016_thyia_talk_4e5a4202:
 
-    # c "Why?"
-    c ""
 
-# game/episode016_conversations.rpy:483
+    c "Pourquoi ?"
+
+
 translate french ep016_thyia_talk_8d360fba:
 
-    # th "Well, how are we going to fill all that time?"
-    th ""
 
-# game/episode016_conversations.rpy:484
+    th "Comment allons-nous occuper tout ce temps ?"
+
+
 translate french ep016_thyia_talk_09f53fd8:
 
-    # th "Maybe we run out of things to say and we’ll just sit there in silence."
-    th ""
 
-# game/episode016_conversations.rpy:485
+    th "Peut-être que nous n'aurons plus rien à dire et que nous resterons assis en silence."
+
+
 translate french ep016_thyia_talk_33fa342b:
 
-    # th "Or maybe I say something offensive...{w} I don’t know."
-    th ""
 
-# game/episode016_conversations.rpy:486
+    th "Ou peut-être que je dirai quelque chose d'offensant...{w} Je ne sais pas."
+
+
 translate french ep016_thyia_talk_b93898da:
 
-    # c "The conversation hasn’t stopped yet and I haven’t felt offended, so maybe we should just go with the flow."
-    c ""
 
-# game/episode016_conversations.rpy:487
+    c "La conversation ne s'est pas encore arrêtée et je ne me suis pas senti offensé, alors peut-être devrions-nous suivre le courant."
+
+
 translate french ep016_thyia_talk_72325f0a:
 
-    # c "Stop fretting so much."
-    c ""
 
-# game/episode016_conversations.rpy:489
+    c "Arrête de t'inquiéter autant."
+
+
 translate french ep016_thyia_talk_9d678f06:
 
-    # th "Maybe you’re right."
-    th ""
 
-# game/episode016_conversations.rpy:490
+    th "Tu as peut-être raison."
+
+
 translate french ep016_thyia_talk_d52232e6:
 
-    # th "I’ve always been on the defensive."
-    th ""
 
-# game/episode016_conversations.rpy:492
+    th "J'ai toujours été sur la défensive."
+
+
 translate french ep016_thyia_talk_26a13f9a:
 
-    # th "Always afraid I’d get hurt, or did something to hurt someone else."
-    th ""
 
-# game/episode016_conversations.rpy:493
+    th "J'ai toujours eu peur d'être blessée ou d'avoir fait quelque chose qui aurait pu blesser quelqu'un d'autre."
+
+
 translate french ep016_thyia_talk_c837c57e:
 
-    # th "So it’s really hard to get rid of that mindset."
-    th ""
 
-# game/episode016_conversations.rpy:494
+    th "C'est donc très difficile de se débarrasser de cet état d'esprit."
+
+
 translate french ep016_thyia_talk_3cf92ba9:
 
-    # c "I get that."
-    c ""
 
-# game/episode016_conversations.rpy:495
+    c "Je comprends."
+
+
 translate french ep016_thyia_talk_a05b155d:
 
-    # c "Try and let go of that."
-    c ""
 
-# game/episode016_conversations.rpy:496
+    c "Essaie de t'en débarrasser."
+
+
 translate french ep016_thyia_talk_9b757558:
 
-    # c "Just enjoy the moment."
-    c ""
 
-# game/episode016_conversations.rpy:498
+    c "Profite de l'instant présent."
+
+
 translate french ep016_thyia_talk_e1a2e642:
 
-    # th "I’ll try."
-    th ""
 
-# game/episode016_conversations.rpy:499
+    th "Je vais essayer."
+
+
 translate french ep016_thyia_talk_3348d68f:
 
-    # c "Good, ready to order?"
-    c ""
 
-# game/episode016_conversations.rpy:500
+    c "Bien, tu es prête à commander ?"
+
+
 translate french ep016_thyia_talk_e07b8a7f:
 
-    # th "Ready as I’ll ever be."
-    th ""
 
-# game/episode016_conversations.rpy:502
+    th "Aussi prête que je le serai jamais."
+
+
 translate french ep016_thyia_talk_0dc95215:
 
-    # "After someone came to take our order, conversation shifted away from Thyia’s existential crisis and we talked about everything and nothing."
-    ""
 
-# game/episode016_conversations.rpy:503
+    "Après que quelqu'un soit venu prendre notre commande, la conversation s'est éloignée de la crise existentielle de Thyia et nous avons parlé de tout et de rien."
+
+
 translate french ep016_thyia_talk_432c8ab4:
 
-    # "The wine made Thyia a little more loose-lipped than usual and conversation flowed easily."
-    ""
 
-# game/episode016_conversations.rpy:504
+    "Le vin a rendu Thyia un peu plus lâche que d'habitude et la conversation s'est déroulée facilement."
+
+
 translate french ep016_thyia_talk_b5e30d6b:
 
-    # "When the first real silence eventually fell, Thyia smiled at me."
-    ""
 
-# game/episode016_conversations.rpy:506
+    "Lorsque le premier vrai silence s'est installé, Thyia m'a souri."
+
+
 translate french ep016_thyia_talk_89729f04:
 
-    # th "I guess sitting in silence for a while isn’t as bad as I’d thought."
-    th ""
 
-# game/episode016_conversations.rpy:507
+    th "Je crois que rester assis en silence pendant un certain temps n'est pas si terrible que je le pensais."
+
+
 translate french ep016_thyia_talk_84aea57c:
 
-    # c "Certainly."
-    c ""
 
-# game/episode016_conversations.rpy:508
+    c "C'est vrai."
+
+
 translate french ep016_thyia_talk_50ed449d:
 
-    # c "Though you’d be in your rights to hit me if I’d took the opportunity to check my messages during that moment of silence."
-    c ""
 
-# game/episode016_conversations.rpy:510
+    c "Mais tu serais en droit de me frapper si j'avais profité de ce moment de silence pour consulter mes messages."
+
+
 translate french ep016_thyia_talk_9e6ed6b9:
 
-    # th "Noted."
-    th ""
 
-# game/episode016_conversations.rpy:512
+    th "C'est noté."
+
+
 translate french ep016_thyia_talk_f7b8072f:
 
-    # th "And thank you for bearing with me."
-    th ""
 
-# game/episode016_conversations.rpy:513
+    th "Et merci de m'avoir supporté."
+
+
 translate french ep016_thyia_talk_79d48745:
 
-    # th "I’m sure my antics aren’t always easy to deal with."
-    th ""
 
-# game/episode016_conversations.rpy:514
+    th "Je suis sûr que mes frasques ne sont pas toujours faciles à gérer."
+
+
 translate french ep016_thyia_talk_66d86daa:
 
-    # c "I would have left you raging at that half-finished robot in that case."
-    c ""
 
-# game/episode016_conversations.rpy:516
+    c "Dans ce cas, je t'aurais laissé te déchaîner sur ce robot à moitié terminé."
+
+
 translate french ep016_thyia_talk_db79743c:
 
-    # th "I might have destroyed it in the process, so thanks for taking me out."
-    th ""
 
-# game/episode016_conversations.rpy:517
+    th "Je l'aurais peut-être détruit par la même occasion, alors merci de m'avoir sorti de là."
+
+
 translate french ep016_thyia_talk_3422c136:
 
-    # th "The fear of me getting too comfortable is maddening sometimes, though."
-    th ""
 
-# game/episode016_conversations.rpy:519
+    th "La peur que je devienne trop à l'aise est parfois exaspérante."
+
+
 translate french ep016_thyia_talk_0b618437:
 
-    # th "I catch myself thinking about the future and a little voice starts telling me I shouldn’t, because it could all end up a disappointment."
-    th ""
 
-# game/episode016_conversations.rpy:520
+    th "Je me surprends à penser à l'avenir et une petite voix commence à me dire que je ne devrais pas, parce que tout cela pourrait finir par être une déception."
+
+
 translate french ep016_thyia_talk_7331ba48:
 
-    # c "I get why that would be tiresome."
-    c ""
 
-# game/episode016_conversations.rpy:521
+    c "Je comprends pourquoi c'est ennuyeux."
+
+
 translate french ep016_thyia_talk_2d0be977:
 
-    # c "Sometimes it’s good to just dream of what the future might hold."
-    c ""
 
-# game/episode016_conversations.rpy:522
+    c "Parfois, il est bon de rêver à ce que l'avenir pourrait nous réserver."
+
+
 translate french ep016_thyia_talk_def0fdfb:
 
-    # th "I know."
-    th ""
 
-# game/episode016_conversations.rpy:523
+    th "Je sais."
+
+
 translate french ep016_thyia_talk_744d21cb:
 
-    # c "What do you dream about?"
-    c ""
 
-# game/episode016_conversations.rpy:525
+    c "De quoi rêves-tu ?"
+
+
 translate french ep016_thyia_talk_b4bcc529:
 
-    # th "You know...{w} Things..."
-    th ""
 
-# game/episode016_conversations.rpy:526
+    th "Tu sais...{w} Des choses..."
+
+
 translate french ep016_thyia_talk_b05ec5fd:
 
-    # c "That’s very vague."
-    c ""
 
-# game/episode016_conversations.rpy:528
+    c "C'est très vague."
+
+
 translate french ep016_thyia_talk_05650964:
 
-    # th "All kinds of stuff."
-    th ""
 
-# game/episode016_conversations.rpy:529
+    th "Toutes sortes de choses."
+
+
 translate french ep016_thyia_talk_dbbd3e5c:
 
-    # c "You know you’re quite cute when you’re flustered."
-    c ""
 
-# game/episode016_conversations.rpy:531
+    c "Tu sais que tu es plutôt mignonne quand tu es troublée."
+
+
 translate french ep016_thyia_talk_72b961e9:
 
-    # th "Sadist."
-    th ""
 
-# game/episode016_conversations.rpy:533
+    th "Sadique."
+
+
 translate french ep016_thyia_talk_474be8f4:
 
-    # th "Alright, I’ll tell you, but you have to promise not to laugh."
-    th ""
 
-# game/episode016_conversations.rpy:534
+    th "D'accord, je vais te le dire, mais tu dois me promettre de ne pas rire."
+
+
 translate french ep016_thyia_talk_e5d49c39:
 
-    # th "Sometimes, I think about you and me, walking down the aisle."
-    th ""
 
-# game/episode016_conversations.rpy:535
+    th "Parfois, je pense à toi et moi, descendant l'allée."
+
+
 translate french ep016_thyia_talk_da35fef3:
 
-    # th "Like in the olden days, you know."
-    th ""
 
-# game/episode016_conversations.rpy:536
+    th "Comme au bon vieux temps, tu sais."
+
+
 translate french ep016_thyia_talk_767112d4:
 
-    # c "Getting married, you mean?"
-    c ""
 
-# game/episode016_conversations.rpy:537
+    c "Se marier, tu veux dire ?"
+
+
 translate french ep016_thyia_talk_b2c76295:
 
-    # th "Yes, it might be more common in the Sovereignty?"
-    th ""
 
-# game/episode016_conversations.rpy:538
+    th "Oui, c'est peut-être plus courant dans la Souveraineté ?"
+
+
 translate french ep016_thyia_talk_f38fd4b8:
 
-    # c "It certainly is among the nobility."
-    c ""
 
-# game/episode016_conversations.rpy:539
+    c "C'est certainement le cas dans la noblesse."
+
+
 translate french ep016_thyia_talk_ad0b4624:
 
-    # c "Sometimes the marriages are even arranged."
-    c ""
 
-# game/episode016_conversations.rpy:540
+    c "Parfois, les mariages sont même arrangés."
+
+
 translate french ep016_thyia_talk_08b2b216:
 
-    # c "But you’re trying to steer me away from the real subject."
-    c ""
 
-# game/episode016_conversations.rpy:542
+    c "Mais tu essaies de m'éloigner du vrai sujet."
+
+
 translate french ep016_thyia_talk_887e1f43:
 
-    # th "Which is?"
-    th ""
 
-# game/episode016_conversations.rpy:543
+    th "Lequel ?"
+
+
 translate french ep016_thyia_talk_8e7c2f09:
 
-    # c "You in a white dress."
-    c ""
 
-# game/episode016_conversations.rpy:545
+    c "Toi en robe blanche."
+
+
 translate french ep016_thyia_talk_2268d1f3:
 
-    # th "Oh fuck off."
-    th ""
 
-# game/episode016_conversations.rpy:546
+    th "Oh, va te faire foutre."
+
+
 translate french ep016_thyia_talk_f3025a13:
 
-    # c "You’d look lovely in it."
-    c ""
 
-# game/episode016_conversations.rpy:548
+    c "Tu serais ravissante dedans."
+
+
 translate french ep016_thyia_talk_af71460d:
 
-    # th "Maybe...{w} It’s something I’ve dreamed of as a little girl."
-    th ""
 
-# game/episode016_conversations.rpy:549
+    th "Peut-être...{w} C'est quelque chose dont j'ai rêvé quand j'étais petite."
+
+
 translate french ep016_thyia_talk_34930525:
 
-    # th "Me in a big wedding dress, looking like a princess and mothering over an army of kids."
-    th ""
 
-# game/episode016_conversations.rpy:551
+    th "Moi dans une grande robe de mariée, ressemblant à une princesse et maternant une armée d'enfants."
+
+
 translate french ep016_thyia_talk_a9ea40ae:
 
-    # th "So it feels a little childish to bring it up now."
-    th ""
 
-# game/episode016_conversations.rpy:552
+    th "Je me sens donc un peu puérile d'en parler maintenant."
+
+
 translate french ep016_thyia_talk_feed0188:
 
-    # c "It’s absolutely nothing like that."
-    c ""
 
-# game/episode016_conversations.rpy:554
+    c "Ça n'a absolument rien à voir avec ça."
+
+
 translate french ep016_thyia_talk_62bc6e90:
 
-    # th "Maybe not."
-    th ""
 
-# game/episode016_conversations.rpy:555
+    th "Peut-être pas."
+
+
 translate french ep016_thyia_talk_fdb5c5f8:
 
-    # c "But kids?"
-    c ""
 
-# game/episode016_conversations.rpy:557
+    c "Mais les enfants ?"
+
+
 translate french ep016_thyia_talk_d15356af:
 
-    # th "Oh shit, I meant nothing by that."
-    th ""
 
-# game/episode016_conversations.rpy:558
+    th "Oh merde, je ne voulais rien dire par là."
+
+
 translate french ep016_thyia_talk_2ad1e104:
 
-    # th "As I said, something I dreamed up as a little girl."
-    th ""
 
-# game/episode016_conversations.rpy:562
+    th "Comme je l'ai dit, c'est quelque chose dont j'ai rêvé quand j'étais petite fille."
+
+
 translate french ep016_thyia_talk_ccc698d1:
 
-    # c "But it’s something you’re still thinking about?"
-    c ""
 
-# game/episode016_conversations.rpy:564
+    c "Mais c'est quelque chose auquel tu penses encore ?"
+
+
 translate french ep016_thyia_talk_c9d75c2f:
 
-    # th "Just sometimes, and then reality sets in."
-    th ""
 
-# game/episode016_conversations.rpy:565
+    th "Juste parfois, et puis la réalité s'impose."
+
+
 translate french ep016_thyia_talk_ee9c0810:
 
-    # c "Yeah, the life we lead isn’t ideal, but I still want to start a family in the near future."
-    c ""
 
-# game/episode016_conversations.rpy:567
+    c "Oui, la vie que nous menons n'est pas idéale, mais je veux quand même fonder une famille dans un avenir proche."
+
+
 translate french ep016_thyia_talk_4ce31c99:
 
-    # th "You would?"
-    th ""
 
-# game/episode016_conversations.rpy:568
+    th "Et toi, tu le ferais ?"
+
+
 translate french ep016_thyia_talk_0de2deac:
 
-    # c "Yes, I would."
-    c ""
 
-# game/episode016_conversations.rpy:569
+    c "Oui, je le voudrais."
+
+
 translate french ep016_thyia_talk_22d33b7d:
 
-    # c "With you, if you’re willing."
-    c ""
 
-# game/episode016_conversations.rpy:570
+    c "Avec toi, si tu es d'accord."
+
+
 translate french ep016_thyia_talk_1bc2f807:
 
-    # th "I..."
-    th ""
 
-# game/episode016_conversations.rpy:571
+    th "Je..."
+
+
 translate french ep016_thyia_talk_128bce52:
 
-    # th "I’d need to think about it."
-    th ""
 
-# game/episode016_conversations.rpy:572
+    th "Il faudrait que j'y réfléchisse."
+
+
 translate french ep016_thyia_talk_e1e8978a:
 
-    # c "Of course, take your time."
-    c ""
 
-# game/episode016_conversations.rpy:573
+    c "Bien sûr, prends ton temps."
+
+
 translate french ep016_thyia_talk_f5e55463:
 
-    # c "Wedding first maybe?"
-    c ""
 
-# game/episode016_conversations.rpy:574
+    c "Le mariage d'abord peut-être ?"
+
+
 translate french ep016_thyia_talk_7daf669d:
 
-    # c "You in that white princess dress?"
-    c ""
 
-# game/episode016_conversations.rpy:576
+    c "Toi dans cette robe de princesse blanche ?"
+
+
 translate french ep016_thyia_talk_520cf5c6:
 
-    # th "Haha, be careful what you wish for."
-    th ""
 
-# game/episode016_conversations.rpy:577
+    th "Haha, fais attention à ce que tu souhaites."
+
+
 translate french ep016_thyia_talk_60acc0c1:
 
-    # c "So if I were to go on one knee in the near future, would you say yes?"
-    c ""
 
-# game/episode016_conversations.rpy:579
+    c "Alors, si je devais mettre un genou à terre dans un avenir proche, dirais-tu oui ?"
+
+
 translate french ep016_thyia_talk_4aa8942b:
 
-    # th "I’d certainly consider it seriously."
-    th ""
 
-# game/episode016_conversations.rpy:580
+    th "Je l'envisagerais certainement sérieusement."
+
+
 translate french ep016_thyia_talk_4cccaae7:
 
-    # c "Not the response I hoped for."
-    c ""
 
-# game/episode016_conversations.rpy:582
+    c "Ce n'est pas la réponse que j'espérais."
+
+
 translate french ep016_thyia_talk_4807fc76:
 
-    # th "Hey, if you asked me all these questions some months ago, I’d have panicked and run out of this place, leaving you to eat alone."
-    th ""
 
-# game/episode016_conversations.rpy:583
+    th "Hé, si tu m'avais posé toutes ces questions il y a quelques mois, j'aurais paniqué et je me serais enfui d'ici, te laissant manger seul."
+
+
 translate french ep016_thyia_talk_61212d91:
 
-    # c "I’ll count my blessings, in that case."
-    c ""
 
-# game/episode016_conversations.rpy:585
+    c "Dans ce cas, je compterai mes bénédictions."
+
+
 translate french ep016_thyia_talk_c6e9c5e8:
 
-    # c "Yeah, considering the life we lead, I don’t think starting a family is an option."
-    c ""
 
-# game/episode016_conversations.rpy:586
+    c "Oui, vu la vie que nous menons, je ne pense pas que fonder une famille soit une option."
+
+
 translate french ep016_thyia_talk_a8d2c302:
 
-    # c "A wedding though..."
-    c ""
 
-# game/episode016_conversations.rpy:588
+    c "Mais un mariage..."
+
+
 translate french ep016_thyia_talk_ec7856ff:
 
-    # th "Oh stop it."
-    th ""
 
-# game/episode016_conversations.rpy:589
+    th "Oh, arrête."
+
+
 translate french ep016_thyia_talk_b65bf52a:
 
-    # c "No, I’m serious."
-    c ""
 
-# game/episode016_conversations.rpy:590
+    c "Non, je suis sérieuse."
+
+
 translate french ep016_thyia_talk_622b9ce7:
 
-    # c "If I were to go on one knee in the near future, would you say yes?"
-    c ""
 
-# game/episode016_conversations.rpy:592
+    c "Si je devais mettre un genou à terre dans un avenir proche, dirais-tu oui ?"
+
+
 translate french ep016_thyia_talk_635a0ef5:
 
-    # th "I’d have to think about it."
-    th ""
 
-# game/episode016_conversations.rpy:593
+    th "Il faudrait que j'y réfléchisse."
+
+
 translate french ep016_thyia_talk_d491c046:
 
-    # c "Think about that princess in a white dress."
-    c ""
 
-# game/episode016_conversations.rpy:595
+    c "Pense à cette princesse en robe blanche."
+
+
 translate french ep016_thyia_talk_104c98cb:
 
-    # th "Haha, I will."
-    th ""
 
-# game/episode016_conversations.rpy:597
+    th "Haha, je le ferai."
+
+
 translate french ep016_thyia_talk_16fa8e95:
 
-    # "The server interrupted us with the dessert menu."
-    ""
 
-# game/episode016_conversations.rpy:599
+    "Le serveur nous a interrompus en nous présentant la carte des desserts."
+
+
 translate french ep016_thyia_talk_406b498e:
 
-    # "Thyia was visibly relaxed for the remainder of the evening."
-    ""
 
-# game/episode016_conversations.rpy:600
+    "Thyia était visiblement détendue pour le reste de la soirée."
+
+
 translate french ep016_thyia_talk_5bc7f5c9:
 
-    # "When we finally got the check, a mischievous smile played on her lips."
-    ""
 
-# game/episode016_conversations.rpy:602
+    "Lorsque nous avons enfin reçu l'addition, un sourire malicieux s'est joué sur ses lèvres."
+
+
 translate french ep016_thyia_talk_c780e7b7:
 
-    # th "I really want you to follow me to the restrooms."
-    th ""
 
-# game/episode016_conversations.rpy:603
+    th "J'aimerais vraiment que tu me suives aux toilettes."
+
+
 translate french ep016_thyia_talk_6ad256b6:
 
-    # c "The restrooms?"
-    c ""
 
-# game/episode016_conversations.rpy:604
+    c "Les toilettes ?"
+
+
 translate french ep016_thyia_talk_d24eaa0c:
 
-    # th "Yes, that dessert wasn’t enough for me."
-    th ""
 
-# game/episode016_conversations.rpy:606
+    th "Oui, ce dessert ne m'a pas suffi."
+
+
 translate french ep016_thyia_talk_64072020:
 
-    # "We both stood up and Thyia led me through the restaurant towards the restrooms."
-    ""
 
-# game/episode016_conversations.rpy:616
+    "Nous nous sommes levées en même temps et Thyia m'a conduit à travers le restaurant vers les toilettes."
+
+
 translate french ep016_vess_talk_836e7d0b:
 
-    # "I'd given Vess a list of chores to complete which were normally spread among the rest of the crew."
-    ""
 
-# game/episode016_conversations.rpy:617
+    "J'avais donné à Vess une liste de tâches à accomplir qui étaient normalement réparties entre le reste de l'équipage."
+
+
 translate french ep016_vess_talk_1e2cca4e:
 
-    # "Things like cleaning out the showers and sweeping the hallways."
-    ""
 
-# game/episode016_conversations.rpy:618
+    "Des choses comme nettoyer les douches et balayer les couloirs."
+
+
 translate french ep016_vess_talk_82d819f1:
 
-    # "Larger ships had bots to do that sort of janitorial work, we didn't have that luxury."
-    ""
 
-# game/episode016_conversations.rpy:620
+    "Les plus grands vaisseaux avaient des robots pour faire ce genre de travail de conciergerie, nous n'avions pas ce luxe."
+
+
 translate french ep016_vess_talk_f5d2f3a9:
 
-    # "Vess was to conclude her work in my quarters and that's where I found her."
-    ""
 
-# game/episode016_conversations.rpy:621
+    "Vess devait terminer son travail dans mes quartiers et c'est là que je l'ai trouvée."
+
+
 translate french ep016_vess_talk_33fb8378:
 
-    # c "Looks like you have quite some things to do."
-    c ""
 
-# game/episode016_conversations.rpy:623
+    c "On dirait que tu as beaucoup de choses à faire."
+
+
 translate french ep016_vess_talk_5e2b29b5:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode016_conversations.rpy:624
+    ve "Oui, maître."
+
+
 translate french ep016_vess_talk_37ea0667:
 
-    # c "Come here."
-    c ""
 
-# game/episode016_conversations.rpy:626
+    c "Viens ici."
+
+
 translate french ep016_vess_talk_990e919e:
 
-    # "Vess stopped what she was doing and approached me."
-    ""
 
-# game/episode016_conversations.rpy:627
+    "Vess a arrêté ce qu'elle faisait et s'est approchée de moi."
+
+
 translate french ep016_vess_talk_33d73948:
 
-    # "She smelled vaguely of sweat and her clothing was all crumpled."
-    ""
 
-# game/episode016_conversations.rpy:628
+    "Elle sentait vaguement la sueur et ses vêtements étaient tout froissés."
+
+
 translate french ep016_vess_talk_231c04e2:
 
-    # c "You're a dirty mess."
-    c ""
 
-# game/episode016_conversations.rpy:629
+    c "Tu n'es qu'un sale gâchis."
+
+
 translate french ep016_vess_talk_48978158:
 
-    # c "I don't want you here in my quarters looking like this."
-    c ""
 
-# game/episode016_conversations.rpy:630
+    c "Je ne veux pas que tu sois dans mes quartiers dans cet état."
+
+
 translate french ep016_vess_talk_3a32ff1b:
 
-    # c "You're going to take a shower right now and return here."
-    c ""
 
-# game/episode016_conversations.rpy:632
+    c "Tu vas prendre une douche tout de suite et tu reviendras ici."
+
+
 translate french ep016_vess_talk_5e2b29b5_1:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode016_conversations.rpy:633
+    ve "Oui, maître."
+
+
 translate french ep016_vess_talk_3d9efa8c:
 
-    # c "Oh and Vess, don't bother wearing anything when you come back."
-    c ""
 
-# game/episode016_conversations.rpy:634
+    c "Oh et Vess, ne t'embête pas à porter quoi que ce soit quand tu reviendras."
+
+
 translate french ep016_vess_talk_e2dba52c:
 
-    # c "You won't need clothing for what I have in mind for you next."
-    c ""
 
-# game/episode016_conversations.rpy:635
+    c "Tu n'auras pas besoin de vêtements pour ce que j'ai en tête pour toi ensuite."
+
+
 translate french ep016_vess_talk_d07a3b57:
 
-    # c "And don't dawdle."
-    c ""
 
-# game/episode016_conversations.rpy:637
+    c "Et ne traîne pas."
+
+
 translate french ep016_vess_talk_da79a3ce:
 
-    # "Vess nodded meekly and headed towards the showers."
-    ""
 
-# game/episode016_conversations.rpy:639
+    "Vess a acquiescé docilement et s'est dirigée vers les douches."
+
+
 translate french ep016_vess_talk_7a1cd164:
 
-    # "I poured myself a drink in her absence."
-    ""
 
-# game/episode016_conversations.rpy:640
+    "Je me suis servi un verre en son absence."
+
+
 translate french ep016_vess_talk_de67d178:
 
-    # "The girl was back in ten minutes."
-    ""
 
-# game/episode016_conversations.rpy:642
+    "La fille est revenue au bout de dix minutes."
+
+
 translate french ep016_vess_talk_cea64338:
 
-    # "Her hair was still damp and she looked decidedly cleaner."
-    ""
 
-# game/episode016_conversations.rpy:643
+    "Ses cheveux étaient encore humides et elle avait l'air décidément plus propre."
+
+
 translate french ep016_vess_talk_d909a8a9:
 
-    # "She was also wearing a towel around her upper body."
-    ""
 
-# game/episode016_conversations.rpy:644
+    "Elle portait également une serviette autour du haut de son corps."
+
+
 translate french ep016_vess_talk_d708e387:
 
-    # c "Vess, are you incapable of following a simple command?"
-    c ""
 
-# game/episode016_conversations.rpy:646
+    c "Vess, es-tu incapable de suivre un simple ordre ?"
+
+
 translate french ep016_vess_talk_b1318d5d:
 
-    # ve "No, master, I...{w} I thought..."
-    ve ""
 
-# game/episode016_conversations.rpy:647
+    ve "Non, maître, je...{w} Je pensais..."
+
+
 translate french ep016_vess_talk_a930a195:
 
-    # c "I told you to leave your clothes behind."
-    c ""
 
-# game/episode016_conversations.rpy:649
+    c "Je t'avais dit de laisser tes vêtements derrière toi."
+
+
 translate french ep016_vess_talk_c5c133b4:
 
-    # ve "I'm sorry, master, I didn't want to risk running naked into one of the crew."
-    ve ""
 
-# game/episode016_conversations.rpy:651
+    ve "Je suis désolée, maître, je ne voulais pas risquer de tomber nue sur un membre de l'équipage."
+
+
 translate french ep016_vess_talk_6de78f0b:
 
-    # ve "My body belongs solely to you."
-    ve ""
 
-# game/episode016_conversations.rpy:652
+    ve "Mon corps n'appartient qu'à toi."
+
+
 translate french ep016_vess_talk_79765511:
 
-    # c "Are you trying to be clever, Vess?"
-    c ""
 
-# game/episode016_conversations.rpy:654
+    c "Essaies-tu de faire le malin, Vess ?"
+
+
 translate french ep016_vess_talk_56f2fde7:
 
-    # ve "No, master."
-    ve ""
 
-# game/episode016_conversations.rpy:655
+    ve "Non, maître."
+
+
 translate french ep016_vess_talk_37ea0667_1:
 
-    # c "Come here."
-    c ""
 
-# game/episode016_conversations.rpy:656
+    c "Viens ici."
+
+
 translate french ep016_vess_talk_3994d381:
 
-    # c "Drop the towel."
-    c ""
 
-# game/episode016_conversations.rpy:663
+    c "Laisse tomber la serviette."
+
+
 translate french ep016_kit_talk_cb1ca5e6:
 
-    # ki "Hey, do you have a minute?"
-    ki ""
 
-# game/episode016_conversations.rpy:664
+    ki "Hé, tu as une minute ?"
+
+
 translate french ep016_kit_talk_c48dc32f:
 
-    # c "Sure."
-    c ""
 
-# game/episode016_conversations.rpy:665
+    c "Oui, bien sûr."
+
+
 translate french ep016_kit_talk_85bc6ca2:
 
-    # "We walked to the mess hall where Kit sat down on one of the chairs."
-    ""
 
-# game/episode016_conversations.rpy:667
+    "Nous avons marché jusqu'au réfectoire où Kit s'est assis sur l'une des chaises."
+
+
 translate french ep016_kit_talk_22c9049f:
 
-    # ki "So, I didn’t want to say anything back in that throne room, but something the Queen said to Nadya just stuck in my head for some reason."
-    ki ""
 
-# game/episode016_conversations.rpy:668
+    ki "Je ne voulais rien dire dans la salle du trône, mais quelque chose que la reine a dit à Nadya m'est resté en tête pour une raison ou une autre."
+
+
 translate french ep016_kit_talk_a6f102c7:
 
-    # c "It did?"
-    c ""
 
-# game/episode016_conversations.rpy:669
+    c "C'est vrai ?"
+
+
 translate french ep016_kit_talk_965f8ef1:
 
-    # ki "Yes, she referred to you as “Nadya’s son”."
-    ki ""
 
-# game/episode016_conversations.rpy:671
+    ki "Oui, elle a parlé de toi comme du « fils de Nadya »."
+
+
 translate french ep016_kit_talk_b4bbde5e:
 
-    # ki "So I was wondering, what’s up with that?"
-    ki ""
 
-# game/episode016_conversations.rpy:672
+    ki "Je me demandais donc ce qui se passait."
+
+
 translate french ep016_kit_talk_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode016_conversations.rpy:673
+    c "C'est vrai."
+
+
 translate french ep016_kit_talk_83ce0df3:
 
-    # c "It’s quite simple, Nadya is my mother."
-    c ""
 
-# game/episode016_conversations.rpy:675
+    c "C'est très simple, Nadya est ma mère."
+
+
 translate french ep016_kit_talk_de0d9e7b:
 
-    # ki "What, no shit?!"
-    ki ""
 
-# game/episode016_conversations.rpy:676
+    ki "Quoi, sans déconner ?!"
+
+
 translate french ep016_kit_talk_f4089204:
 
-    # c "No shit."
-    c ""
 
-# game/episode016_conversations.rpy:678
+    c "Sans déconner."
+
+
 translate french ep016_kit_talk_ebefcb98:
 
-    # ki "When did that happen?"
-    ki ""
 
-# game/episode016_conversations.rpy:679
+    ki "C'est arrivé quand ?"
+
+
 translate french ep016_kit_talk_06557524:
 
-    # c "Roughly around the time I was born, I reckon."
-    c ""
 
-# game/episode016_conversations.rpy:681
+    c "À peu près à l'époque où je suis né, je pense."
+
+
 translate french ep016_kit_talk_125ca565:
 
-    # ki "Very funny."
-    ki ""
 
-# game/episode016_conversations.rpy:682
+    ki "Très drôle."
+
+
 translate french ep016_kit_talk_d87b7646:
 
-    # ki "I mean, when did she tell you?"
-    ki ""
 
-# game/episode016_conversations.rpy:683
+    ki "Je veux dire, quand te l'a-t-elle dit ?"
+
+
 translate french ep016_kit_talk_9c6330cc:
 
-    # c "Just before we went up to the Theater of Senses."
-    c ""
 
-# game/episode016_conversations.rpy:685
+    c "Juste avant que nous allions au théâtre des sens."
+
+
 translate french ep016_kit_talk_6707d893:
 
-    # ki "So Yve..."
-    ki ""
 
-# game/episode016_conversations.rpy:686
+    ki "Alors Yve..."
+
+
 translate french ep016_kit_talk_68151dcd:
 
-    # c "She isn’t my real mother."
-    c ""
 
-# game/episode016_conversations.rpy:687
+    c "Elle n'est pas ma vraie mère."
+
+
 translate french ep016_kit_talk_deb48ab3:
 
-    # ki "And Lilly and Eva, half-sisters?"
-    ki ""
 
-# game/episode016_conversations.rpy:688
+    ki "Et Lilly et Eva, des demi-sœurs ?"
+
+
 translate french ep016_kit_talk_6bc30d7c:
 
-    # c "No, we all share the same mother."
-    c ""
 
-# game/episode016_conversations.rpy:690
+    c "Non, nous avons tous la même mère."
+
+
 translate french ep016_kit_talk_7d857939:
 
-    # ki "Damn..."
-    ki ""
 
-# game/episode016_conversations.rpy:692
+    ki "Bon sang..."
+
+
 translate french ep016_kit_talk_607554d2:
 
-    # ki "So Aven is your sister as well?"
-    ki ""
 
-# game/episode016_conversations.rpy:693
+    ki "Alors Aven est aussi ta sœur ?"
+
+
 translate french ep016_kit_talk_5eae321d:
 
-    # c "Yup."
-    c ""
 
-# game/episode016_conversations.rpy:694
+    c "Oui."
+
+
 translate french ep016_kit_talk_81d2a4e1:
 
-    # ki "How did that all happen?"
-    ki ""
 
-# game/episode016_conversations.rpy:695
+    ki "Comment tout cela est-il arrivé ?"
+
+
 translate french ep016_kit_talk_3c55ab93:
 
-    # c "It’s a long story and quite painful for her."
-    c ""
 
-# game/episode016_conversations.rpy:696
+    c "C'est une longue histoire et assez douloureuse pour elle."
+
+
 translate french ep016_kit_talk_158ae252:
 
-    # c "That’s one of the reasons she kept quiet for so long."
-    c ""
 
-# game/episode016_conversations.rpy:697
+    c "C'est l'une des raisons pour lesquelles elle a gardé le silence pendant si longtemps."
+
+
 translate french ep016_kit_talk_5b12aae8:
 
-    # c "She and Agust were madly in love when they were younger."
-    c ""
 
-# game/episode016_conversations.rpy:698
+    c "Agust et elle étaient follement amoureux quand ils étaient plus jeunes."
+
+
 translate french ep016_kit_talk_d1fb1885:
 
-    # c "So much so that they wanted children together, even behind Yve’s back, or so Nadya thought."
-    c ""
 
-# game/episode016_conversations.rpy:699
+    c "À tel point qu'ils voulaient des enfants ensemble, même dans le dos d'Yve, du moins c'est ce que pensait Nadya."
+
+
 translate french ep016_kit_talk_22eb7000:
 
-    # c "After she had my sisters and me, Agust all but kicked her out of the house eventually, so that he and his trophy-wife could raise us as their own instead."
-    c ""
 
-# game/episode016_conversations.rpy:700
+    c "Après nous avoir eus, mes sœurs et moi, Agust a fini par la mettre à la porte, pour que lui et sa femme-trophée puissent nous élever comme leurs propres enfants."
+
+
 translate french ep016_kit_talk_197191a0:
 
-    # ki "But Aven?"
-    ki ""
 
-# game/episode016_conversations.rpy:701
+    ki "Mais Aven ?"
+
+
 translate french ep016_kit_talk_7b4255e3:
 
-    # c "He allowed her to keep one of us, as a consolation prize."
-    c ""
 
-# game/episode016_conversations.rpy:703
+    c "Il lui a permis de garder l'une d'entre nous, en guise de lot de consolation."
+
+
 translate french ep016_kit_talk_1bbbeb2d:
 
-    # ki "A male heir and female twins."
-    ki ""
 
-# game/episode016_conversations.rpy:704
+    ki "Un héritier mâle et des jumelles."
+
+
 translate french ep016_kit_talk_3c7197c1:
 
-    # c "Yes, presumably he wanted to keep me to continue the dynasty."
-    c ""
 
-# game/episode016_conversations.rpy:705
+    c "Oui, il voulait sans doute me garder pour continuer la dynastie."
+
+
 translate french ep016_kit_talk_152ef5e0:
 
-    # c "Either Lilly or Eva tie into his obsession with the prophecy."
-    c ""
 
-# game/episode016_conversations.rpy:706
+    c "Lilly ou Eva sont liées à son obsession pour la prophétie."
+
+
 translate french ep016_kit_talk_6aeb09d2:
 
-    # ki "He’s been involved in that Prophecy stuff for that long?"
-    ki ""
 
-# game/episode016_conversations.rpy:707
+    ki "Il est impliqué dans cette histoire de prophétie depuis si longtemps ?"
+
+
 translate french ep016_kit_talk_df9ba1dc:
 
-    # c "Maybe not right from the start, but from our early childhood seems likely yes."
-    c ""
 
-# game/episode016_conversations.rpy:709
+    c "Peut-être pas depuis le début, mais depuis notre plus tendre enfance, ça semble probable oui."
+
+
 translate french ep016_kit_talk_fc4ff694:
 
-    # ki "Damn, I thought my mother was a cold-hearted bitch, but Agust and Yve really take the cake, don’t they?"
-    ki ""
 
-# game/episode016_conversations.rpy:710
+    ki "Bon sang, je pensais que ma mère était une salope au cœur froid, mais Agust et Yve sont vraiment les meilleurs, n'est-ce pas ?"
+
+
 translate french ep016_kit_talk_d2922a21:
 
-    # c "They’re in a league of their own, that’s for sure."
-    c ""
 
-# game/episode016_conversations.rpy:712
+    c "Ils sont dans une ligue à part, c'est sûr."
+
+
 translate french ep016_kit_talk_9f7a46f5:
 
-    # "Kit was silent for a while, clearly mulling over something."
-    ""
 
-# game/episode016_conversations.rpy:713
+    "Kit est resté silencieux pendant un moment, réfléchissant manifestement à quelque chose."
+
+
 translate french ep016_kit_talk_22fa64b6:
 
-    # c "You’ve employed that lobotomized stare again, as Aven so eloquently put it earlier."
-    c ""
 
-# game/episode016_conversations.rpy:715
+    c "Tu as encore utilisé ce regard lobotomisé, comme Aven l'a si bien dit tout à l'heure."
+
+
 translate french ep016_kit_talk_a9c78077:
 
-    # ki "Oh...{w} Right...{w} Just thinking of stuff."
-    ki ""
 
-# game/episode016_conversations.rpy:716
+    ki "Oh...{w} C'est vrai...{w} Je pense juste à des choses."
+
+
 translate french ep016_kit_talk_85a99ab5:
 
-    # c "Out with it."
-    c ""
 
-# game/episode016_conversations.rpy:717
+    c "Débarrasse-t'en."
+
+
 translate french ep016_kit_talk_d1d5f33d:
 
-    # ki "Well, I’m not sure, it might sound crass."
-    ki ""
 
-# game/episode016_conversations.rpy:718
+    ki "Eh bien, je ne suis pas sûr, ça peut paraître grossier."
+
+
 translate french ep016_kit_talk_b48c8858:
 
-    # c "I’m sure I’ve heard you say worse things."
-    c ""
 
-# game/episode016_conversations.rpy:720
+    c "Je suis sûr que je t'ai déjà entendu dire des choses bien pires."
+
+
 translate french ep016_kit_talk_53d621da:
 
-    # ki "It’s just, I can’t imagine having a relationship with your own sister..."
-    ki ""
 
-# game/episode016_conversations.rpy:722
+    ki "C'est juste que je ne peux pas imaginer avoir une relation avec ta propre soeur..."
+
+
 translate french ep016_kit_talk_2b942904:
 
-    # ki "I mean, me and Céline together...{w} Ultimately having a baby..."
-    ki ""
 
-# game/episode016_conversations.rpy:723
+    ki "Je veux dire, moi et Céline ensemble...{w} En fin de compte, avoir un bébé...."
+
+
 translate french ep016_kit_talk_c110cb1a:
 
-    # c "I don’t think love has such boundaries."
-    c ""
 
-# game/episode016_conversations.rpy:724
+    c "Je ne pense pas que l'amour ait de telles limites."
+
+
 translate french ep016_kit_talk_1ebcde73:
 
-    # ki "But your own sisters!"
-    ki ""
 
-# game/episode016_conversations.rpy:725
+    ki "Mais tes propres sœurs !"
+
+
 translate french ep016_kit_talk_f8ac909c:
 
-    # c "What about them?"
-    c ""
 
-# game/episode016_conversations.rpy:727
+    c "Qu'en est-il d'elles ?"
+
+
 translate french ep016_kit_talk_2d9996d6:
 
-    # ki "You’d have...{w} You’d do...{w} With one of your sisters?"
-    ki ""
 
-# game/episode016_conversations.rpy:728
+    ki "Tu aurais...{w} Tu ferais...{w} Avec une de tes sœurs ?"
+
+
 translate french ep016_kit_talk_eaf796c9:
 
-    # c "I’ve never known you to be at a loss for words when it comes to talking about sex, Kit."
-    c ""
 
-# game/episode016_conversations.rpy:729
+    c "Je ne t'ai jamais connu à court de mots quand il s'agit de parler de sexe, Kit."
+
+
 translate french ep016_kit_talk_2fcfb359:
 
-    # c "But to answer your question, yes, I’d have sex with my own sister, if we both wanted it."
-    c ""
 
-# game/episode016_conversations.rpy:730
+    c "Mais pour répondre à ta question, oui, je ferais l'amour avec ma propre sœur, si nous le voulions tous les deux."
+
+
 translate french ep016_kit_talk_abad4f6a:
 
-    # c "And I don’t think it’s unreasonable to fall in love with one of your siblings either."
-    c ""
 
-# game/episode016_conversations.rpy:731
+    c "Et je ne pense pas qu'il soit déraisonnable de tomber amoureux d'un de tes frères et sœurs non plus."
+
+
 translate french ep016_kit_talk_1c57b82a:
 
-    # c "You have that stare again."
-    c ""
 
-# game/episode016_conversations.rpy:733
+    c "Tu as de nouveau ce regard fixe."
+
+
 translate french ep016_kit_talk_39e2791f:
 
-    # ki "Right, you’ve really thought about this."
-    ki ""
 
-# game/episode016_conversations.rpy:735
+    ki "C'est vrai, tu as vraiment réfléchi à tout ça."
+
+
 translate french ep016_kit_talk_44bce052:
 
-    # ki "It’s just...{w} I’ve got to ask."
-    ki ""
 
-# game/episode016_conversations.rpy:736
+    ki "C'est juste que...{w} Je dois te demander."
+
+
 translate french ep016_kit_talk_f32b9021:
 
-    # ki "Is there something going on between you and either one of them?"
-    ki ""
 
-# game/episode016_conversations.rpy:741
+    ki "Y a-t-il quelque chose qui se passe entre toi et l'une ou l'autre d'entre elles ?"
+
+
 translate french ep016_kit_talk_0bbeb3b6:
 
-    # c "That’s none of your business, but yes there is."
-    c ""
 
-# game/episode016_conversations.rpy:743
+    c "Ce ne sont pas tes affaires, mais si, il y a quelque chose."
+
+
 translate french ep016_kit_talk_eaf5a959:
 
-    # c "That’s none of your business, but no there isn’t."
-    c ""
 
-# game/episode016_conversations.rpy:744
+    c "Ce ne sont pas tes affaires, mais non, ce n'est pas le cas."
+
+
 translate french ep016_kit_talk_6e020428:
 
-    # c "I'm in a relationship with Nadya."
-    c ""
 
-# game/episode016_conversations.rpy:748
+    c "J'ai une relation avec Nadya."
+
+
 translate french ep016_kit_talk_20c2e82b:
 
-    # ki "What?!"
-    ki ""
 
-# game/episode016_conversations.rpy:749
+    ki "Quoi ?"
+
+
 translate french ep016_kit_talk_4845c32a:
 
-    # ki "So you’re admitting to having...{w} You know...{w} Incest?"
-    ki ""
 
-# game/episode016_conversations.rpy:751
+    ki "Donc tu admets avoir...{w} Tu sais...{w} un inceste ?"
+
+
 translate french ep016_kit_talk_2bab60f9:
 
-    # ki "And you’re dating Céline, so I’d say it is my business."
-    ki ""
 
-# game/episode016_conversations.rpy:752
+    ki "Et tu sors avec Céline, donc je dirais que c'est mon affaire."
+
+
 translate french ep016_kit_talk_58ad8607:
 
-    # c "Céline is aware of it."
-    c ""
 
-# game/episode016_conversations.rpy:754
+    c "Céline est au courant."
+
+
 translate french ep016_kit_talk_61dddf8b:
 
-    # ki "How could you?"
-    ki ""
 
-# game/episode016_conversations.rpy:755
+    ki "Comment as-tu pu ?"
+
+
 translate french ep016_kit_talk_320ebf64:
 
-    # ki "And to Céline as well?!"
-    ki ""
 
-# game/episode016_conversations.rpy:756
+    ki "Et à Céline en plus ? !"
+
+
 translate french ep016_kit_talk_62d16627:
 
-    # c "It’s not something I purposely did to her."
-    c ""
 
-# game/episode016_conversations.rpy:758
+    c "Ce n'est pas quelque chose que j'ai fait exprès de lui faire."
+
+
 translate french ep016_kit_talk_4845c32a_1:
 
-    # ki "So you’re admitting to having...{w} You know...{w} Incest?"
-    ki ""
 
-# game/episode016_conversations.rpy:760
+    ki "Donc tu admets avoir...{w} Tu sais...{w} un inceste ?"
+
+
 translate french ep016_kit_talk_9a9de697:
 
-    # ki "But how could you do such a thing?"
-    ki ""
 
-# game/episode016_conversations.rpy:761
+    ki "Mais comment as-tu pu faire une telle chose ?"
+
+
 translate french ep016_kit_talk_3b633550:
 
-    # c "I fell in love, that’s all."
-    c ""
 
-# game/episode016_conversations.rpy:763
+    c "Je suis tombé amoureux, c'est tout."
+
+
 translate french ep016_kit_talk_c3438918:
 
-    # c "You of all people should know that love and lust cannot be confined to just one person."
-    c ""
 
-# game/episode016_conversations.rpy:765
+    c "Tu devrais savoir que l'amour et le désir ne se limitent pas à une seule personne."
+
+
 translate french ep016_kit_talk_7bbc274b:
 
-    # ki "Sure, I’ve had multiple lovers at once."
-    ki ""
 
-# game/episode016_conversations.rpy:767
+    ki "Bien sûr, j'ai eu plusieurs amantes à la fois."
+
+
 translate french ep016_kit_talk_4ded3881:
 
-    # c "You of all people should know that love and lust cannot be confined."
-    c ""
 
-# game/episode016_conversations.rpy:769
+    c "Tu devrais savoir que l'amour et le désir ne peuvent pas être limités."
+
+
 translate french ep016_kit_talk_0178f308:
 
-    # ki "Sure, I’ve had unconventional lovers before."
-    ki ""
 
-# game/episode016_conversations.rpy:772
+    ki "Bien sûr, j'ai déjà eu des amants peu conventionnels."
+
+
 translate french ep016_kit_talk_69dc54c6:
 
-    # ki "But your own sisters..."
-    ki ""
 
-# game/episode016_conversations.rpy:774
+    ki "Mais tes propres sœurs..."
+
+
 translate french ep016_kit_talk_cb022bcc:
 
-    # c "My mother too."
-    c ""
 
-# game/episode016_conversations.rpy:776
+    c "Ma mère aussi."
+
+
 translate french ep016_kit_talk_7946a698:
 
-    # ki "Wait, Nadya?!"
-    ki ""
 
-# game/episode016_conversations.rpy:779
+    ki "Attends, Nadya !"
+
+
 translate french ep016_kit_talk_769b8b37:
 
-    # ki "But your own mother..."
-    ki ""
 
-# game/episode016_conversations.rpy:780
+    ki "Mais ta propre mère..."
+
+
 translate french ep016_kit_talk_28a6a9b0:
 
-    # ki "Goddamn."
-    ki ""
 
-# game/episode016_conversations.rpy:783
+    ki "Bon sang."
+
+
 translate french ep016_kit_talk_c32cdd39:
 
-    # ki "I guess it makes sense, considering her history."
-    ki ""
 
-# game/episode016_conversations.rpy:785
+    ki "Je suppose que c'est logique, compte tenu de son histoire."
+
+
 translate french ep016_kit_talk_d70f0de6:
 
-    # ki "But just for the record, who exactly are we talking about?"
-    ki ""
 
-# game/episode016_conversations.rpy:787
+    ki "Mais juste pour que les choses soient claires, de qui parlons-nous exactement ?"
+
+
 translate french ep016_kit_talk_4f888928:
 
-    # c "[sister_romances]."
-    c ""
 
-# game/episode016_conversations.rpy:790
+    c "[sister_romances]."
+
+
 translate french ep016_kit_talk_1290568c:
 
-    # ki "That’s all of them!"
-    ki ""
 
-# game/episode016_conversations.rpy:792
+    ki "C'est tout le monde !"
+
+
 translate french ep016_kit_talk_5e96d51a:
 
-    # ki "That’s nearly your entire family!"
-    ki ""
 
-# game/episode016_conversations.rpy:794
+    ki "C'est presque toute ta famille !"
+
+
 translate french ep016_kit_talk_6bd9134f:
 
-    # ki "I can’t believe she’d be into it too!"
-    ki ""
 
-# game/episode016_conversations.rpy:796
+    ki "Je n'arrive pas à croire qu'elle soit aussi dans le coup !"
+
+
 translate french ep016_kit_talk_e0c384ec:
 
-    # ki "I’m having a hard time wrapping my head around all this."
-    ki ""
 
-# game/episode016_conversations.rpy:797
+    ki "J'ai du mal à comprendre tout ça."
+
+
 translate french ep016_kit_talk_7f737ecc:
 
-    # ki "I mean, we did some crazy shit together back at the Academy."
-    ki ""
 
-# game/episode016_conversations.rpy:799
+    ki "Je veux dire, on a fait des trucs dingues ensemble à l'Académie."
+
+
 translate french ep016_kit_talk_c5d1a94c:
 
-    # ki "Come to think of it, I nearly had a threesome with the Aledil twins back on Tuolovi."
-    ki ""
 
-# game/episode016_conversations.rpy:800
+    ki "Quand j'y pense, j'ai failli faire un plan à trois avec les jumelles Aledil à Tuolovi."
+
+
 translate french ep016_kit_talk_1185d8ff:
 
-    # c "I remember, you couldn’t shut up about it for weeks."
-    c ""
 
-# game/episode016_conversations.rpy:801
+    c "Je me souviens que tu n'as pas pu te taire pendant des semaines."
+
+
 translate french ep016_kit_talk_2e9d6060:
 
-    # ki "They backed out at the last moment, after sending me these insanely hot pictures for weeks."
-    ki ""
 
-# game/episode016_conversations.rpy:803
+    ki "Elles se sont retirées au dernier moment, après m'avoir envoyé des photos incroyablement chaudes pendant des semaines."
+
+
 translate french ep016_kit_talk_c0cc1ab6:
 
-    # ki "So I get the appeal of the forbidden, but acting on it with your own family..."
-    ki ""
 
-# game/episode016_conversations.rpy:804
+    ki "Alors je comprends l'attrait de l'interdit, mais passer à l'acte avec sa propre famille...."
+
+
 translate french ep016_kit_talk_9169160d:
 
-    # ki "But you said you fell in love, so it isn’t just sex?"
-    ki ""
 
-# game/episode016_conversations.rpy:805
+    ki "Mais tu as dit que vous étiez tombés amoureux, donc ce n'est pas que du sexe ?"
+
+
 translate french ep016_kit_talk_bd1081f6:
 
-    # c "That’s right."
-    c ""
 
-# game/episode016_conversations.rpy:807
+    c "C'est vrai."
+
+
 translate french ep016_kit_talk_73e11bba:
 
-    # ki "And Céline is okay with all of it?"
-    ki ""
 
-# game/episode016_conversations.rpy:808
+    ki "Et Céline est d'accord avec tout ça ?"
+
+
 translate french ep016_kit_talk_0a09d539:
 
-    # c "She is."
-    c ""
 
-# game/episode016_conversations.rpy:810
+    c "Oui, elle est d'accord."
+
+
 translate french ep016_kit_talk_34e1905c:
 
-    # ki "She’s a big girl, so she must know what’s she’s doing."
-    ki ""
 
-# game/episode016_conversations.rpy:811
+    ki "C'est une grande fille, elle doit savoir ce qu'elle fait."
+
+
 translate french ep016_kit_talk_f322d29c:
 
-    # ki "Treat her with respect."
-    ki ""
 
-# game/episode016_conversations.rpy:812
+    ki "Traite-la avec respect."
+
+
 translate french ep016_kit_talk_e5e957b2:
 
-    # c "Of course I will."
-    c ""
 
-# game/episode016_conversations.rpy:815
+    c "Bien sûr que je le ferai."
+
+
 translate french ep016_kit_talk_9e1b1608:
 
-    # ki "Man...{w} That’s nearly all of the female crew ruled out as potential partners."
-    ki ""
 
-# game/episode016_conversations.rpy:816
+    ki "Bon sang...{w} C'est presque tout l'équipage féminin qui a été écarté comme partenaire potentiel."
+
+
 translate french ep016_kit_talk_b1f578a9:
 
-    # ki "Why do you have to be so greedy?"
-    ki ""
 
-# game/episode016_conversations.rpy:817
+    ki "Pourquoi es-tu si avide ?"
+
+
 translate french ep016_kit_talk_f176f3c3:
 
-    # c "There’s a galaxy full of women waiting for you, Kit, don’t despair."
-    c ""
 
-# game/episode016_conversations.rpy:819
+    c "Il y a une galaxie pleine de femmes qui t'attendent, Kit, ne désespère pas."
+
+
 translate french ep016_kit_talk_c36ea322:
 
-    # ki "Right, next port I’m going to get laid."
-    ki ""
 
-# game/episode016_conversations.rpy:821
+    ki "Bon, au prochain port, je vais m'envoyer en l'air."
+
+
 translate french ep016_kit_talk_915288fd:
 
-    # c "You’ve just had fun with a snake and you’re asking for more already?"
-    c ""
 
-# game/episode016_conversations.rpy:822
+    c "Tu viens de t'amuser avec un serpent et tu en redemandes déjà ?"
+
+
 translate french ep016_kit_talk_a574cd88:
 
-    # ki "Says the man building a harem out of his own family."
-    ki ""
 
-# game/episode016_conversations.rpy:823
+    ki "Dit l'homme qui construit un harem avec sa propre famille."
+
+
 translate french ep016_kit_talk_665dbcc1:
 
-    # c "Touché."
-    c ""
 
-# game/episode016_conversations.rpy:825
+    c "Touché."
+
+
 translate french ep016_kit_talk_0eefaad8:
 
-    # ki "Considering you haven’t told me before, you don’t want these affairs to be public knowledge?"
-    ki ""
 
-# game/episode016_conversations.rpy:826
+    ki "Étant donné que tu ne m'as rien dit avant, tu ne veux pas que ces affaires soient connues du public ?"
+
+
 translate french ep016_kit_talk_d6aced3f:
 
-    # c "Not if I can help it, no."
-    c ""
 
-# game/episode016_conversations.rpy:827
+    c "Pas si je peux l'empêcher, non."
+
+
 translate french ep016_kit_talk_20d30bad:
 
-    # c "People aren’t too accepting of it and it will only lead to gossip anyway."
-    c ""
 
-# game/episode016_conversations.rpy:829
+    c "Les gens ne l'acceptent pas trop et de toute façon, cela ne ferait que créer des ragots."
+
+
 translate french ep016_kit_talk_eaf5a959_1:
 
-    # c "That’s none of your business, but no there isn’t."
-    c ""
 
-# game/episode016_conversations.rpy:831
+    c "Ce ne sont pas tes affaires, mais non, ce n'est pas le cas."
+
+
 translate french ep016_kit_talk_a5db1324:
 
-    # ki "Boy, am I glad to hear that."
-    ki ""
 
-# game/episode016_conversations.rpy:833
+    ki "Je suis bien contente d'entendre ça."
+
+
 translate french ep016_kit_talk_078eb535:
 
-    # ki "Considering you haven’t told me before, you don’t want this affair to be public knowledge?"
-    ki ""
 
-# game/episode016_conversations.rpy:834
+    ki "Étant donné que tu ne m'en as pas parlé avant, tu ne veux pas que cette affaire soit connue du public ?"
+
+
 translate french ep016_kit_talk_d6aced3f_1:
 
-    # c "Not if I can help it, no."
-    c ""
 
-# game/episode016_conversations.rpy:835
+    c "Pas si je peux l'empêcher, non."
+
+
 translate french ep016_kit_talk_20d30bad_1:
 
-    # c "People aren’t too accepting of it and it will only lead to gossip anyway."
-    c ""
 
-# game/episode016_conversations.rpy:836
+    c "Les gens ne l'acceptent pas trop et de toute façon, ça ne fera que créer des ragots."
+
+
 translate french ep016_kit_talk_3a53d444:
 
-    # c "I don’t want Nadya to get hurt by people flapping their mouths behind her back."
-    c ""
 
-# game/episode016_conversations.rpy:837
+    c "Je ne veux pas que Nadya soit blessée par des gens qui parlent dans son dos."
+
+
 translate french ep016_kit_talk_e135ff42:
 
-    # ki "Got it, my lips are sealed."
-    ki ""
 
-# game/episode016_conversations.rpy:839
+    ki "J'ai compris, mes lèvres sont scellées."
+
+
 translate french ep016_kit_talk_e0a69c98:
 
-    # "We parted ways, Kit still muttering in disbelief to himself as he walked to his quarters."
-    ""
 
-# game/episode016_conversations.rpy:851
+    "Nous nous sommes séparés, Kit marmonnant encore son incrédulité en marchant vers ses quartiers."
+
+
 translate french ep016_ziv_talk_8381553e:
 
-    # "Ziv and Raene were enjoying a meal in the mess."
-    ""
 
-# game/episode016_conversations.rpy:852
+    "Ziv et Raene étaient en train de prendre un repas au mess."
+
+
 translate french ep016_ziv_talk_2c992148:
 
-    # c "Mind if I join you?"
-    c ""
 
-# game/episode016_conversations.rpy:854
+    c "Ça vous dérange si je me joins à vous ?"
+
+
 translate french ep016_ziv_talk_09d6c55d:
 
-    # zi "Not at all."
-    zi ""
 
-# game/episode016_conversations.rpy:857
+    zi "Pas du tout."
+
+
 translate french ep016_ziv_talk_794614d0:
 
-    # "I felt Raene tense up as I sat next to her."
-    ""
 
-# game/episode016_conversations.rpy:859
+    "J'ai senti Raene se crisper lorsque je me suis assis à côté d'elle."
+
+
 translate french ep016_ziv_talk_f4dd3f54:
 
-    # zi "I was just explaining to Raene about everything that happened on Uailea."
-    zi ""
 
-# game/episode016_conversations.rpy:860
+    zi "J'étais justement en train d'expliquer à Raene tout ce qui s'est passé sur Uailea."
+
+
 translate french ep016_ziv_talk_33cd740e:
 
-    # c "How do you feel about leaving the planet again?"
-    c ""
 
-# game/episode016_conversations.rpy:861
+    c "Que ressens-tu à l'idée de quitter à nouveau la planète ?"
+
+
 translate french ep016_ziv_talk_43cbf0dc:
 
-    # zi "It’s bittersweet, actually."
-    zi ""
 
-# game/episode016_conversations.rpy:863
+    zi "C'est doux-amer, en fait."
+
+
 translate french ep016_ziv_talk_c64948b6:
 
-    # zi "It pains me to see our society struggle with corruption in this way."
-    zi ""
 
-# game/episode016_conversations.rpy:864
+    zi "Cela me fait de la peine de voir notre société lutter contre la corruption de cette façon."
+
+
 translate french ep016_ziv_talk_f9d7a0fd:
 
-    # zi "We have all these rules to guide our lives and still some stray off the path."
-    zi ""
 
-# game/episode016_conversations.rpy:865
+    zi "Nous avons toutes ces règles pour guider nos vies et pourtant certains s'écartent du chemin."
+
+
 translate french ep016_ziv_talk_d4434afe:
 
-    # c "For some people rules are something meant to be broken."
-    c ""
 
-# game/episode016_conversations.rpy:866
+    c "Pour certaines personnes, les règles sont faites pour être enfreintes."
+
+
 translate french ep016_ziv_talk_5d684fe8:
 
-    # c "Would you like to live on Uailea permanently again?"
-    c ""
 
-# game/episode016_conversations.rpy:867
+    c "Aimerais-tu vivre à nouveau à Uailea de façon permanente ?"
+
+
 translate french ep016_ziv_talk_f7919aa1:
 
-    # zi "I’ve thought about it once in a while."
-    zi ""
 
-# game/episode016_conversations.rpy:868
+    zi "J'y ai pensé de temps en temps."
+
+
 translate french ep016_ziv_talk_27dbb414:
 
-    # zi "But ultimately my answer is no."
-    zi ""
 
-# game/episode016_conversations.rpy:869
+    zi "Mais en fin de compte, ma réponse est non."
+
+
 translate french ep016_ziv_talk_595c196f:
 
-    # zi "I’m not sure I would even fit into a Cohort anymore."
-    zi ""
 
-# game/episode016_conversations.rpy:871
+    zi "Je ne suis même plus sûre de pouvoir m'intégrer dans une cohorte."
+
+
 translate french ep016_ziv_talk_7d6f2a44:
 
-    # zi "This ship is starting to feel more and more like a home."
-    zi ""
 
-# game/episode016_conversations.rpy:873
+    zi "Ce vaisseau commence à ressembler de plus en plus à une maison."
+
+
 translate french ep016_ziv_talk_59d816cd:
 
-    # ra "I agree."
-    ra ""
 
-# game/episode016_conversations.rpy:875
+    ra "Je suis d'accord."
+
+
 translate french ep016_ziv_talk_28078743:
 
-    # "Raene blushed as Ziv and I directed our attention to her."
-    ""
 
-# game/episode016_conversations.rpy:877
+    "Raene a rougi lorsque Ziv et moi avons dirigé notre attention sur elle."
+
+
 translate french ep016_ziv_talk_85bf2b57:
 
-    # "The beginnings of an apology for interrupting died on her lips as I smiled encouragingly at her."
-    ""
 
-# game/episode016_conversations.rpy:879
+    "Le début d'une excuse pour l'avoir interrompue est mort sur ses lèvres quand je lui ai souri de façon encourageante."
+
+
 translate french ep016_ziv_talk_0bb74e70:
 
-    # ra "It’s just that I feel so grateful for being able to stay with you all."
-    ra ""
 
-# game/episode016_conversations.rpy:881
+    ra "C'est juste que je suis très reconnaissante de pouvoir rester avec vous tous."
+
+
 translate french ep016_ziv_talk_84bdcfd4:
 
-    # ra "Contacting the Rhenkoy for help has been the best decision of my life."
-    ra ""
 
-# game/episode016_conversations.rpy:882
+    ra "Contacter les Rhenkoy pour obtenir de l'aide a été la meilleure décision de ma vie."
+
+
 translate french ep016_ziv_talk_37e5d322:
 
-    # ra "Funny as that may sound, considering my father’s fury and the search party still looking for us."
-    ra ""
 
-# game/episode016_conversations.rpy:884
+    ra "Aussi drôle que cela puisse paraître, compte tenu de la fureur de mon père et de l'équipe de recherche qui est toujours à nos trousses."
+
+
 translate french ep016_ziv_talk_2c848ebc:
 
-    # zi "I’m happy the Rhenkoy could be of service to you, Raene."
-    zi ""
 
-# game/episode016_conversations.rpy:885
+    zi "Je suis heureuse que les Rhenkoy ait pu te rendre service, Raene."
+
+
 translate french ep016_ziv_talk_8b34f3af:
 
-    # zi "You deserve to be happy."
-    zi ""
 
-# game/episode016_conversations.rpy:887
+    zi "Tu mérites d'être heureuse."
+
+
 translate french ep016_ziv_talk_5582558c:
 
-    # ra "Thank you."
-    ra ""
 
-# game/episode016_conversations.rpy:889
+    ra "Je te remercie."
+
+
 translate french ep016_ziv_talk_85c3e15c:
 
-    # "Raene was fidgeting nervously under the table."
-    ""
 
-# game/episode016_conversations.rpy:891
+    "Raene s'agitait nerveusement sous la table."
+
+
 translate french ep016_ziv_talk_94048fc9:
 
-    # "I softly touched her knee with my hand."
-    ""
 
-# game/episode016_conversations.rpy:893
+    "J'ai doucement touché son genou avec ma main."
+
+
 translate french ep016_ziv_talk_1ec4a105:
 
-    # "While I continued the conversation with Ziv, I felt Raene’s fingers brush mine."
-    ""
 
-# game/episode016_conversations.rpy:895
+    "Tout en poursuivant la conversation avec Ziv, j'ai senti les doigts de Raene effleurer les miens."
+
+
 translate french ep016_ziv_talk_a76dfeb3:
 
-    # "We remained like that, quietly enjoying our nearness."
-    ""
 
-# game/episode016_conversations.rpy:897
+    "Nous sommes restés ainsi, profitant tranquillement de notre proximité."
+
+
 translate french ep016_ziv_talk_65d4b1fb:
 
-    # zi "What’s next for us, [p_name], considering what you learned from interrogating the Scolguin prisoner?"
-    zi ""
 
-# game/episode016_conversations.rpy:898
+    zi "Quelle est la suite pour nous, [p_name], compte tenu de ce que tu as appris en interrogeant le prisonnier scolguin ?"
+
+
 translate french ep016_ziv_talk_8defbe97:
 
-    # c "We’ll petition the Scolguin and take it from there."
-    c ""
 
-# game/episode016_conversations.rpy:899
+    c "Nous ferons une requête aux Scolguin et nous nous occuperons du reste."
+
+
 translate french ep016_ziv_talk_0bc6f928:
 
-    # c "If the Scolguin lead doesn’t pan out we’ll have to think of something else."
-    c ""
 
-# game/episode016_conversations.rpy:900
+    c "Si la piste Scolguin n'aboutit pas, nous devrons réfléchir à autre chose."
+
+
 translate french ep016_ziv_talk_b577f387:
 
-    # c "But we’ll figure that out once that bridge needs to be crossed."
-    c ""
 
-# game/episode016_conversations.rpy:902
+    c "Mais nous y réfléchirons une fois que ce pont devra être franchi."
+
+
 translate french ep016_ziv_talk_800ac168:
 
-    # zi "Let’s hope the Scolguin have the information we need."
-    zi ""
 
-# game/episode016_conversations.rpy:903
+    zi "Espérons que les Scolguin disposent des informations dont nous avons besoin."
+
+
 translate french ep016_ziv_talk_25cc9214:
 
-    # c "We know they do, but whether they’re willing to provide it is another matter."
-    c ""
 
-# game/episode016_conversations.rpy:904
+    c "Nous savons qu'ils en ont, mais quant à savoir s'ils sont prêts à nous les fournir, c'est une autre affaire."
+
+
 translate french ep016_ziv_talk_7fc89825:
 
-    # zi "Quite."
-    zi ""
 
-# game/episode016_conversations.rpy:906
+    zi "Tout à fait."
+
+
 translate french ep016_ziv_talk_0e63488e:
 
-    # zi "Have you finished your meal, Raene?"
-    zi ""
 
-# game/episode016_conversations.rpy:909
+    zi "As-tu fini ton repas, Raene ?"
+
+
 translate french ep016_ziv_talk_235897a8:
 
-    # ra "What?"
-    ra ""
 
-# game/episode016_conversations.rpy:910
+    ra "Quoi ?"
+
+
 translate french ep016_ziv_talk_ff040db1:
 
-    # ra "Oh!"
-    ra ""
 
-# game/episode016_conversations.rpy:912
+    ra "Oh !"
+
+
 translate french ep016_ziv_talk_ed475543:
 
-    # ra "Yes."
-    ra ""
 
-# game/episode016_conversations.rpy:913
+    ra "Oui."
+
+
 translate french ep016_ziv_talk_69db29c6:
 
-    # "Raene was shocked out of her reverie, her attention only focused on me previously."
-    ""
 
-# game/episode016_conversations.rpy:914
+    "Raene a été choquée de sortir de sa rêverie, son attention ne s'étant portée que sur moi auparavant."
+
+
 translate french ep016_ziv_talk_8bc2d3e4:
 
-    # "Ziv raised her eyebrows when she noticed the distraction of her friend, but continued to collect the empty plates."
-    ""
 
-# game/episode016_conversations.rpy:916
+    "Ziv haussa les sourcils en remarquant la distraction de son amie, mais continua à ramasser les assiettes vides."
+
+
 translate french ep016_ziv_talk_af78b9cd:
 
-    # ra "I’ll help you with the dishes."
-    ra ""
 
-# game/episode016_conversations.rpy:917
+    ra "Je vais t'aider à faire la vaisselle."
+
+
 translate french ep016_ziv_talk_44f1d4f8:
 
-    # "Reluctantly, Raene removed her hand from mine and stood up."
-    ""
 
-# game/episode016_conversations.rpy:919
+    "À contrecœur, Raene retire sa main de la mienne et se lève."
+
+
 translate french ep016_ziv_talk_84b9c92b:
 
-    # c "See you around."
-    c ""
 
-# game/episode016_conversations.rpy:920
+    c "À bientôt."
+
+
 translate french ep016_ziv_talk_a9e8d06d:
 
-    # zi "We will."
-    zi ""
 
-# game/episode016_conversations.rpy:922
+    zi "Nous nous reverrons."
+
+
 translate french ep016_ziv_talk_514cf60c:
 
-    # "Both women left the mess hall, Raene looking over her shoulder once as they stepped out into the hall."
-    ""
 
-# game/episode016_conversations.rpy:925
+    "Les deux femmes quittèrent le réfectoire, Raene jetant un coup d'œil par-dessus son épaule une fois qu'elles sortirent dans le hall."
+
+
 translate french ep016_ziv_talk_c7ebe6a5:
 
-    # ra "Yes, I have."
-    ra ""
 
-# game/episode016_conversations.rpy:926
+    ra "Oui, c'est vrai."
+
+
 translate french ep016_ziv_talk_af78b9cd_1:
 
-    # ra "I’ll help you with the dishes."
-    ra ""
 
-# game/episode016_conversations.rpy:927
+    ra "Je vais t'aider à faire la vaisselle."
+
+
 translate french ep016_ziv_talk_84b9c92b_1:
 
-    # c "See you around."
-    c ""
 
-# game/episode016_conversations.rpy:928
+    c "À bientôt."
+
+
 translate french ep016_ziv_talk_a9e8d06d_1:
 
-    # zi "We will."
-    zi ""
 
-# game/episode016_conversations.rpy:930
+    zi "Nous nous reverrons."
+
+
 translate french ep016_ziv_talk_b4a64027:
 
-    # "Both women left the mess hall, leaving me alone."
-    ""
 
-# game/episode016_conversations.rpy:937
+    "Les deux femmes ont quitté le réfectoire, me laissant seule."
+
+
 translate french ep016_thim_talk_11ccb79f:
 
-    # "Thim was mumbling to himself while carrying a datapad around the medbay."
-    ""
 
-# game/episode016_conversations.rpy:938
+    "Thim marmonnait tout seul en transportant un datapad dans l'infirmerie."
+
+
 translate french ep016_thim_talk_e1946a5b:
 
-    # c "Do you ever leave this place?"
-    c ""
 
-# game/episode016_conversations.rpy:940
+    c "Est-ce que tu quittes cet endroit un jour ?"
+
+
 translate french ep016_thim_talk_6a9a7315:
 
-    # t "What?{w} Oh!"
-    t ""
 
-# game/episode016_conversations.rpy:942
+    t "Quoi ?{w} Oh !"
+
+
 translate french ep016_thim_talk_df7a7045:
 
-    # t "I do, thank you."
-    t ""
 
-# game/episode016_conversations.rpy:943
+    t "Oui, merci."
+
+
 translate french ep016_thim_talk_7a9403bc:
 
-    # t "Just taking inventory, because I assume you want to get patched up the next time you manage to get yourself mangled by someone?"
-    t ""
 
-# game/episode016_conversations.rpy:944
+    t "Je fais juste l'inventaire, parce que je suppose que tu veux te faire rafistoler la prochaine fois que tu réussiras à te faire mutiler par quelqu'un ?"
+
+
 translate french ep016_thim_talk_5339dd64:
 
-    # c "That would be nice, yes."
-    c ""
 
-# game/episode016_conversations.rpy:946
+    c "Ce serait bien, oui."
+
+
 translate french ep016_thim_talk_bcbf6436:
 
-    # t "We’re low on some things, is there a chance we could restock?"
-    t ""
 
-# game/episode016_conversations.rpy:947
+    t "Nous sommes à court de certaines choses, y a-t-il une chance que nous puissions nous réapprovisionner ?"
+
+
 translate french ep016_thim_talk_ea35042f:
 
-    # c "Of course, Altum station should have everything we need."
-    c ""
 
-# game/episode016_conversations.rpy:948
+    c "Bien sûr, la station d'Altum devrait avoir tout ce dont nous avons besoin."
+
+
 translate french ep016_thim_talk_a4a08a05:
 
-    # c "I’m sure Thyia will help you to get what you want."
-    c ""
 
-# game/episode016_conversations.rpy:950
+    c "Je suis sûr que Thyia t'aidera à obtenir ce que tu veux."
+
+
 translate french ep016_thim_talk_6436e1ce:
 
-    # t "Alright, I’ll ask her."
-    t ""
 
-# game/episode016_conversations.rpy:951
+    t "D'accord, je vais lui demander."
+
+
 translate french ep016_thim_talk_e52d4249:
 
-    # c "You look at home here."
-    c ""
 
-# game/episode016_conversations.rpy:953
+    c "Tu as l'air d'être chez toi ici."
+
+
 translate french ep016_thim_talk_4d5cc080:
 
-    # t "It’s weird, but I feel the same way."
-    t ""
 
-# game/episode016_conversations.rpy:954
+    t "C'est bizarre, mais je ressens la même chose."
+
+
 translate french ep016_thim_talk_93659525:
 
-    # t "I can finally do what I always wanted, instead of wasting my days as a third-rate officer on a bought commission."
-    t ""
 
-# game/episode016_conversations.rpy:955
+    t "Je peux enfin faire ce que j'ai toujours voulu, au lieu de gâcher mes journées en tant qu'officier de troisième ordre pour une commission achetée."
+
+
 translate french ep016_thim_talk_2b558c96:
 
-    # t "I’d almost forgotten how exciting medicine can be."
-    t ""
 
-# game/episode016_conversations.rpy:956
+    t "J'avais presque oublié à quel point la médecine pouvait être passionnante."
+
+
 translate french ep016_thim_talk_7c9cd1d0:
 
-    # t "You might think me crazy, but I’ve been staying up at night reading a lot of journals and new research papers."
-    t ""
 
-# game/episode016_conversations.rpy:957
+    t "Tu vas peut-être me prendre pour un fou, mais je suis resté éveillé la nuit à lire beaucoup de revues et de nouveaux documents de recherche."
+
+
 translate french ep016_thim_talk_7d23c47a:
 
-    # c "I could think of more exciting nighttime activities, but whatever wets your appetite."
-    c ""
 
-# game/episode016_conversations.rpy:959
+    c "Je pourrais penser à des activités nocturnes plus excitantes, mais peu importe ce qui te met en appétit."
+
+
 translate french ep016_thim_talk_d25dce0a:
 
-    # t "Who needs sex or sleep when you can read about new ways of treating ulcers or lancing boils, am I right?"
-    t ""
 
-# game/episode016_conversations.rpy:960
+    t "Qui a besoin de sexe ou de sommeil quand on peut lire des articles sur de nouvelles façons de traiter les ulcères ou d'enlever les furoncles, n'est-ce pas ?"
+
+
 translate french ep016_thim_talk_b3d2844b:
 
-    # c "Who indeed!"
-    c ""
 
-# game/episode016_conversations.rpy:962
+    c "Qui, en effet !"
+
+
 translate french ep016_thim_talk_349468f8:
 
-    # t "I’ll send Thyia a list of supplies."
-    t ""
 
-# game/episode016_conversations.rpy:963
+    t "J'enverrai à Thyia une liste de fournitures."
+
+
 translate french ep016_thim_talk_c8edd817:
 
-    # c "Alright, thanks, Thim."
-    c ""
 
-# game/episode016_conversations.rpy:966
+    c "D'accord, merci, Thim."
+
+
 translate french ep016_thim_talk_a4fb6ceb:
 
-    # "Thim was staring at a wall as I made my way to the bridge."
-    ""
 
-# game/episode016_conversations.rpy:967
+    "Thim fixait un mur pendant que je me dirigeais vers le pont."
+
+
 translate french ep016_thim_talk_af8a60ac:
 
-    # c "Why are you sitting here like that?"
-    c ""
 
-# game/episode016_conversations.rpy:969
+    c "Pourquoi es-tu assis ici comme ça ?"
+
+
 translate french ep016_thim_talk_58e0bae0:
 
-    # t "Mind your own business."
-    t ""
 
-# game/episode016_conversations.rpy:970
+    t "Occupe-toi de tes affaires."
+
+
 translate french ep016_thim_talk_5574a6fb:
 
-    # c "Is something wrong?"
-    c ""
 
-# game/episode016_conversations.rpy:971
+    c "Quelque chose ne va pas ?"
+
+
 translate french ep016_thim_talk_ec2601e4:
 
-    # t "Like you care."
-    t ""
 
-# game/episode016_conversations.rpy:973
+    t "Comme si tu t'en souciais."
+
+
 translate french ep016_thim_talk_79093e40:
 
-    # "When Thim noticed his terse replies didn’t scare me off, he turned towards me."
-    ""
 
-# game/episode016_conversations.rpy:974
+    "Quand Thim a remarqué que ses réponses laconiques ne me faisaient pas fuir, il s'est tourné vers moi."
+
+
 translate french ep016_thim_talk_7a4369d2:
 
-    # t "You know what’s wrong, [p_name]?"
-    t ""
 
-# game/episode016_conversations.rpy:976
+    t "Tu sais ce qui ne va pas, [p_name] ?"
+
+
 translate french ep016_thim_talk_f537178b:
 
-    # t "Me being here, that’s what’s wrong."
-    t ""
 
-# game/episode016_conversations.rpy:977
+    t "Ma présence ici, voilà ce qui ne va pas."
+
+
 translate french ep016_thim_talk_7c7e4c41:
 
-    # t "I never wanted to be here, but you just decided to take me along."
-    t ""
 
-# game/episode016_conversations.rpy:979
+    t "Je n'ai jamais voulu être ici, mais tu as décidé de m'emmener avec toi."
+
+
 translate french ep016_thim_talk_2475f47a:
 
-    # t "And I have tried to fit in."
-    t ""
 
-# game/episode016_conversations.rpy:980
+    t "Et j'ai essayé de m'intégrer."
+
+
 translate french ep016_thim_talk_cb971451:
 
-    # t "I really tried."
-    t ""
 
-# game/episode016_conversations.rpy:981
+    t "J'ai vraiment essayé."
+
+
 translate french ep016_thim_talk_51f8de35:
 
-    # t "I just can’t anymore."
-    t ""
 
-# game/episode016_conversations.rpy:982
+    t "Mais je n'y arrive plus."
+
+
 translate french ep016_thim_talk_6cc9151f:
 
-    # c "What do you want then?"
-    c ""
 
-# game/episode016_conversations.rpy:984
+    c "Qu'est-ce que tu veux alors ?"
+
+
 translate french ep016_thim_talk_cbaecd3b:
 
-    # t "I want to go back to the Sovereignty."
-    t ""
 
-# game/episode016_conversations.rpy:985
+    t "Je veux retourner à la Souveraineté."
+
+
 translate french ep016_thim_talk_945a527e:
 
-    # t "It’s my home."
-    t ""
 
-# game/episode016_conversations.rpy:986
+    t "C'est ma maison."
+
+
 translate french ep016_thim_talk_d38fd037:
 
-    # c "You know that’s not an option."
-    c ""
 
-# game/episode016_conversations.rpy:988
+    c "Tu sais que ce n'est pas une option."
+
+
 translate french ep016_thim_talk_80496313:
 
-    # t "Why not?"
-    t ""
 
-# game/episode016_conversations.rpy:989
+    t "Pourquoi ?"
+
+
 translate french ep016_thim_talk_ff36ae00:
 
-    # c "What do you expect will happen after getting back home?"
-    c ""
 
-# game/episode016_conversations.rpy:990
+    c "Que penses-tu qu'il se passera une fois rentré chez toi ?"
+
+
 translate french ep016_thim_talk_ee5bc563:
 
-    # c "You’ll just continue living your pampered life?"
-    c ""
 
-# game/episode016_conversations.rpy:991
+    c "Tu continueras à vivre ta vie choyée ?"
+
+
 translate french ep016_thim_talk_5344ead3:
 
-    # c "Getting an officers commission in the Navy somewhere?"
-    c ""
 
-# game/episode016_conversations.rpy:992
+    c "Obtenir une commission d'officier dans la marine quelque part ?"
+
+
 translate french ep016_thim_talk_6d7aec50:
 
-    # c "That’s not going to happen."
-    c ""
 
-# game/episode016_conversations.rpy:993
+    c "Cela n'arrivera pas."
+
+
 translate french ep016_thim_talk_97b2058d:
 
-    # c "The Sovereignty will try to somehow use you to get back to us."
-    c ""
 
-# game/episode016_conversations.rpy:994
+    c "La Souveraineté essaiera de t'utiliser d'une manière ou d'une autre pour revenir vers nous."
+
+
 translate french ep016_thim_talk_91977d91:
 
-    # c "And I don’t trust you enough to know you won’t give us up."
-    c ""
 
-# game/episode016_conversations.rpy:995
+    c "Et je ne te fais pas assez confiance pour savoir que tu ne nous abandonneras pas."
+
+
 translate french ep016_thim_talk_0838bdae:
 
-    # c "So if returning to the Sovereignty is the only thing you want, you’re out of luck as it won’t happen soon."
-    c ""
 
-# game/episode016_conversations.rpy:997
+    c "Alors si retourner à la Souveraineté est la seule chose que tu souhaites, tu n'as pas de chance car cela n'arrivera pas de sitôt."
+
+
 translate french ep016_thim_talk_1346583a:
 
-    # t "Well, fuck you then."
-    t ""
 
-# game/episode016_conversations.rpy:998
+    t "Eh bien, va te faire foutre."
+
+
 translate french ep016_thim_talk_52353795:
 
-    # c "I thought we were having a conversation, but it seems I was mistaken."
-    c ""
 
-# game/episode016_conversations.rpy:1000
+    c "Je pensais que nous avions une conversation, mais il semble que je me sois trompé."
+
+
 translate french ep016_thim_talk_e37b9291:
 
-    # t "Fuck.{w} You."
-    t ""
 
-# game/episode016_conversations.rpy:1001
+    t "Va te faire foutre.{w} Toi."
+
+
 translate french ep016_thim_talk_449d030a:
 
-    # "Thim growled those last two words and resumed staring at the wall again."
-    ""
 
-# game/episode016_conversations.rpy:1003
+    "Thim grogna ces deux derniers mots et se remit à fixer le mur."
+
+
 translate french ep016_thim_talk_7006d6ce:
 
-    # "A little disturbed by his behavior, I continued on my way."
-    ""
 
-# game/episode016_conversations.rpy:1014
+    "Un peu perturbée par son comportement, j'ai continué mon chemin."
+
+
 translate french ep016_vess_sex_db4d170e:
 
-    # "Vess let the towel fall to the floor as she approached me hesitantly."
-    ""
 
-# game/episode016_conversations.rpy:1015
+    "Vess laissa tomber la serviette sur le sol en s'approchant de moi d'un pas hésitant."
+
+
 translate french ep016_vess_sex_e828a8f5:
 
-    # c "Damn, it always gets me, but you have a body made for sex, you know that."
-    c ""
 
-# game/episode016_conversations.rpy:1016
+    c "Bon sang, ça m'énerve toujours, mais tu as un corps fait pour le sexe, tu le sais bien."
+
+
 translate french ep016_vess_sex_6df8e9a1:
 
-    # ve "Thank you, master, I’m all yours."
-    ve ""
 
-# game/episode016_conversations.rpy:1017
+    ve "Merci, maître, je suis tout à vous."
+
+
 translate french ep016_vess_sex_cbf2153f:
 
-    # c "Turn around then."
-    c ""
 
-# game/episode016_conversations.rpy:1019
+    c "Tourne-toi alors."
+
+
 translate french ep016_vess_sex_0d787b09:
 
-    # "Vess showed me her ass and I was overcome by an urge to have my way with those cheeks."
-    ""
 
-# game/episode016_conversations.rpy:1020
+    "Vess m'a montré son cul et j'ai été pris d'une envie irrépressible de m'occuper de ces joues."
+
+
 translate french ep016_vess_sex_9a177720:
 
-    # c "Get over here and lie down on your stomach."
-    c ""
 
-# game/episode016_conversations.rpy:1022
+    c "Viens par ici et allonge-toi sur le ventre."
+
+
 translate french ep016_vess_sex_8ae4279f:
 
-    # "The girl draped herself across my lap, holding on to the daybed I was sitting on."
-    ""
 
-# game/episode016_conversations.rpy:1023
+    "La jeune fille s'est drapée sur mes genoux, en s'accrochant au lit de repos sur lequel j'étais assis."
+
+
 translate french ep016_vess_sex_a941ad3d:
 
-    # c "That’s it."
-    c ""
 
-# game/episode016_conversations.rpy:1024
+    c "C'est ça."
+
+
 translate french ep016_vess_sex_a6dd5167:
 
-    # c "I think you know what’s coming..."
-    c ""
 
-# game/episode016_conversations.rpy:1027
+    c "Je pense que tu sais ce qui t'attend..."
+
+
 translate french ep016_vess_sex_e0ecea97:
 
-    # ve "I think so, master."
-    ve ""
 
-# game/episode016_conversations.rpy:1028
+    ve "Je pense que oui, maître."
+
+
 translate french ep016_vess_sex_063258f5:
 
-    # ve "Are you going to spank me?"
-    ve ""
 
-# game/episode016_conversations.rpy:1029
+    ve "Allez-vous me donner une fessée ?"
+
+
 translate french ep016_vess_sex_15972cf3:
 
-    # c "Yes, I’m going to teach that ass of yours a lesson."
-    c ""
 
-# game/episode016_conversations.rpy:1030
+    c "Oui, je vais donner une leçon à ton cul."
+
+
 translate french ep016_vess_sex_3a9f9663:
 
-    # "Vess gripped the sides of the daybed tighter as my arm rose into the air."
-    ""
 
-# game/episode016_conversations.rpy:1032
+    "Vess serra plus fort les côtés du lit de repo tandis que mon bras s'élevait dans les airs."
+
+
 translate french ep016_vess_sex_3be7ef1f:
 
-    # "The meaty slap of the flat of my hand against her ass cheeks masked the low groan she let out in response."
-    ""
 
-# game/episode016_conversations.rpy:1033
+    "Le claquement charnu du plat de ma main contre ses fesses a masqué le faible gémissement qu'elle a laissé échapper en réponse."
+
+
 translate french ep016_vess_sex_063327c4:
 
-    # "I continued treating her butt, the slaps punctuating the words I uttered."
-    ""
 
-# game/episode016_conversations.rpy:1034
+    "J'ai continué à traiter ses fesses, les claques ponctuant les mots que je prononçais."
+
+
 translate french ep016_vess_sex_85462306:
 
-    # c "You will learn to obey me."
-    c ""
 
-# game/episode016_conversations.rpy:1035
+    c "Tu apprendras à m'obéir."
+
+
 translate french ep016_vess_sex_b9aed2d4:
 
-    # c "Is that clear?"
-    c ""
 
-# game/episode016_conversations.rpy:1037
+    c "Est-ce que c'est clair ?"
+
+
 translate french ep016_vess_sex_75ac0f02:
 
-    # ve "Owww!{w} Yes!"
-    ve ""
 
-# game/episode016_conversations.rpy:1038
+    ve "Owww !{w} Oui !"
+
+
 translate french ep016_vess_sex_b66640d9:
 
-    # c "Yes who?!"
-    c ""
 
-# game/episode016_conversations.rpy:1039
+    c "Oui qui ? !"
+
+
 translate french ep016_vess_sex_fb8076cd:
 
-    # ve "Yes...{w} Ah!{w} Master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1040
+    ve "Oui...{w} Ah !{w} Maître !"
+
+
 translate french ep016_vess_sex_67aa4c0d:
 
-    # c "That’s a good little slut."
-    c ""
 
-# game/episode016_conversations.rpy:1042
+    c "C'est une bonne petite salope."
+
+
 translate french ep016_vess_sex_afde2b71:
 
-    # "A red mark decorated her ass cheek."
-    ""
 
-# game/episode016_conversations.rpy:1043
+    "Une marque rouge orne sa joue."
+
+
 translate french ep016_vess_sex_ca0b5525:
 
-    # "My hand connected several times with the soft white flesh and Vess clenched her teeth in response."
-    ""
 
-# game/episode016_conversations.rpy:1045
+    "Ma main s'est connectée plusieurs fois à la chair blanche et molle et Vess a serré les dents en réponse."
+
+
 translate french ep016_vess_sex_96e6db41:
 
-    # "Curious about something, I paused hitting her and put my hand between her legs instead."
-    ""
 
-# game/episode016_conversations.rpy:1046
+    "Curieux de quelque chose, j'ai cessé de la frapper et j'ai plutôt placé ma main entre ses jambes."
+
+
 translate french ep016_vess_sex_63cc97e0:
 
-    # c "I think someone is enjoying this a little too much, aren’t you Vess?"
-    c ""
 
-# game/episode016_conversations.rpy:1048
+    c "Je crois que quelqu'un s'amuse un peu trop, n'est-ce pas Vess ?"
+
+
 translate french ep016_vess_sex_1d708197:
 
-    # ve "I’m not sure what you mean, master."
-    ve ""
 
-# game/episode016_conversations.rpy:1049
+    ve "Je ne suis pas sûre de ce que vous voulez dire, maître."
+
+
 translate french ep016_vess_sex_158f6870:
 
-    # c "I just drenched my fingers in your pussy."
-    c ""
 
-# game/episode016_conversations.rpy:1050
+    c "Je viens de tremper mes doigts dans ta chatte."
+
+
 translate french ep016_vess_sex_adebdac4:
 
-    # c "Do you like your ass getting slapped?"
-    c ""
 
-# game/episode016_conversations.rpy:1051
+    c "Tu aimes qu'on te tape le cul ?"
+
+
 translate french ep016_vess_sex_50d06dda:
 
-    # ve "I do, master."
-    ve ""
 
-# game/episode016_conversations.rpy:1053
+    ve "Oui, maître."
+
+
 translate french ep016_vess_sex_e75d843c:
 
-    # "I ran my fingers one more time through her slit, making Vess shiver."
-    ""
 
-# game/episode016_conversations.rpy:1054
+    "J'ai passé mes doigts une dernière fois dans sa fente, ce qui a fait frissonner Vess."
+
+
 translate french ep016_vess_sex_6533978f:
 
-    # c "You bore your punishment well, little painslut, so I think I’m going to reward you."
-    c ""
 
-# game/episode016_conversations.rpy:1055
+    c "Tu as bien supporté ta punition, petite chieuse, alors je crois que je vais te récompenser."
+
+
 translate french ep016_vess_sex_db811a8a:
 
-    # c "You may sit."
-    c ""
 
-# game/episode016_conversations.rpy:1057
+    c "Tu peux t'asseoir."
+
+
 translate french ep016_vess_sex_408dc023:
 
-    # "Vess sat down gingerly, avoiding sitting on the areas where I’d tenderized the flesh of her ass."
-    ""
 
-# game/episode016_conversations.rpy:1058
+    "Vess s'assoit avec précaution, évitant de s'asseoir sur les zones où j'ai attendri la chair de son cul."
+
+
 translate french ep016_vess_sex_00e78f01:
 
-    # c "You know what to do with my cock."
-    c ""
 
-# game/episode016_conversations.rpy:1059
+    c "Tu sais ce que tu dois faire avec ma bite."
+
+
 translate french ep016_vess_sex_af23d584:
 
-    # c "Spread your legs."
-    c ""
 
-# game/episode016_conversations.rpy:1061
+    c "Écarte les jambes."
+
+
 translate french ep016_vess_sex_366c6e95:
 
-    # "The girl opened her legs after she grabbed my cock and began to jerk off."
-    ""
 
-# game/episode016_conversations.rpy:1062
+    "La jeune fille a ouvert les jambes après avoir attrapé ma bite et commencé à me branler."
+
+
 translate french ep016_vess_sex_77257766:
 
-    # "I’d inserted two fingers inside Vess’ pussy and was massaging her cunt with increasing ferocity."
-    ""
 
-# game/episode016_conversations.rpy:1063
+    "J'avais inséré deux doigts dans la chatte de Vess et je la massais de plus en plus fort."
+
+
 translate french ep016_vess_sex_e2665bb6:
 
-    # "Vess couldn’t suppress a moan, indicating she enjoyed what I was doing."
-    ""
 
-# game/episode016_conversations.rpy:1064
+    "Vess n'a pas pu réprimer un gémissement, indiquant qu'elle appréciait ce que je faisais."
+
+
 translate french ep016_vess_sex_65c327ec:
 
-    # "The flood of her juices amassing inside her slit were another tell."
-    ""
 
-# game/episode016_conversations.rpy:1066
+    "Le flot de jus qui s'accumulait à l'intérieur de sa fente en était un autre indice."
+
+
 translate french ep016_vess_sex_def3e2ba:
 
-    # c "I’m allowing you to cum."
-    c ""
 
-# game/episode016_conversations.rpy:1067
+    c "Je te laisse jouir."
+
+
 translate french ep016_vess_sex_63c72d16:
 
-    # c "Do you want to cum, Vess?"
-    c ""
 
-# game/episode016_conversations.rpy:1068
+    c "Veux-tu jouir, Vess ?"
+
+
 translate french ep016_vess_sex_cc582246:
 
-    # ve "I’d love to, master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1070
+    ve "J'en serais ravie, maître !"
+
+
 translate french ep016_vess_sex_6968fce7:
 
-    # "I began to stimulate her pussy more aggressively in response, my fingers moving rapidly in and out."
-    ""
 
-# game/episode016_conversations.rpy:1071
+    "En réponse, j'ai commencé à stimuler sa chatte de façon plus agressive, mes doigts entrant et sortant rapidement."
+
+
 translate french ep016_vess_sex_ef13a71e:
 
-    # "Vess had trouble holding onto my dick, due to the assault on her cunt."
-    ""
 
-# game/episode016_conversations.rpy:1072
+    "Vess avait du mal à se tenir à ma queue, à cause de l'assaut de sa chatte."
+
+
 translate french ep016_vess_sex_f56774eb:
 
-    # "Wet sounds emanated from her pussy as my fingers attacked her more violently."
-    ""
 
-# game/episode016_conversations.rpy:1073
+    "Des sons humides émanaient de sa chatte alors que mes doigts l'attaquaient plus violemment."
+
+
 translate french ep016_vess_sex_b261d87e:
 
-    # c "Are you going to cum hard for me, little slut?"
-    c ""
 
-# game/episode016_conversations.rpy:1075
+    c "Est-ce que tu vas jouir fort pour moi, petite salope ?"
+
+
 translate french ep016_vess_sex_3bb2ed26:
 
-    # ve "I-I...{w} I want to, master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1076
+    ve "Je...{w} Je le veux, maître !"
+
+
 translate french ep016_vess_sex_f8d19c52:
 
-    # ve "I want it so bad!"
-    ve ""
 
-# game/episode016_conversations.rpy:1077
+    ve "Je le veux tellement !"
+
+
 translate french ep016_vess_sex_08f87c18:
 
-    # c "Know that I’m not done with you yet."
-    c ""
 
-# game/episode016_conversations.rpy:1078
+    c "Sache que je n'en ai pas encore fini avec toi."
+
+
 translate french ep016_vess_sex_e04728fa:
 
-    # c "I’m going to fuck you like a whore next."
-    c ""
 
-# game/episode016_conversations.rpy:1079
+    c "Je vais ensuite te baiser comme une pute."
+
+
 translate french ep016_vess_sex_d0ee7b41:
 
-    # c "First you’re going to cum and then I’ll fuck your raw pussy so hard."
-    c ""
 
-# game/episode016_conversations.rpy:1080
+    c "D'abord, tu vas jouir et ensuite je baiserai ta chatte à vif si fort."
+
+
 translate french ep016_vess_sex_8c4abfdc:
 
-    # ve "Yes, master, I want it!"
-    ve ""
 
-# game/episode016_conversations.rpy:1081
+    ve "Oui, maître, je le veux !"
+
+
 translate french ep016_vess_sex_c79c3b20:
 
-    # ve "Please give it to me!"
-    ve ""
 
-# game/episode016_conversations.rpy:1082
+    ve "S'il vous plaît, donnez-la moi !"
+
+
 translate french ep016_vess_sex_d6c2ffea:
 
-    # "After a prolonged bout of finger-fucking, I felt Vess was ready to burst."
-    ""
 
-# game/episode016_conversations.rpy:1083
+    "Après une séance prolongée d'enculage au doigt, j'ai senti que Vess était prête à exploser."
+
+
 translate french ep016_vess_sex_d9008eff:
 
-    # "I plunged my fingers inside her for a final time and her body became absolutely rigid."
-    ""
 
-# game/episode016_conversations.rpy:1085
+    "J'ai plongé mes doigts en elle une dernière fois et son corps est devenu absolument rigide."
+
+
 translate french ep016_vess_sex_0fab866e:
 
-    # ve "Oh!{w} Oh!{w} Oh yes!{w} Yes, master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1087
+    ve "Oh !{w} Oh !{w} Oh oui !{w} Oui, maître !"
+
+
 translate french ep016_vess_sex_d72405ee:
 
-    # "A fountain of juice squirted from her slit, splashing on the floor."
-    ""
 
-# game/episode016_conversations.rpy:1089
+    "Une fontaine de jus a jailli de sa fente, éclaboussant le sol."
+
+
 translate french ep016_vess_sex_8435244a:
 
-    # "As Vess convulsed, more of her ejaculate spurted from her cunt."
-    ""
 
-# game/episode016_conversations.rpy:1090
+    "Au fur et à mesure que Vess se convulsait, une plus grande quantité de son éjaculat jaillissait de sa chatte."
+
+
 translate french ep016_vess_sex_a517984b:
 
-    # c "That’s it, soil yourself, my little whore."
-    c ""
 
-# game/episode016_conversations.rpy:1091
+    c "C'est ça, souille-toi, ma petite pute."
+
+
 translate french ep016_vess_sex_dfe6d7ac:
 
-    # "Vess wasn’t able to reply, her orgasm still wrecking her entire body."
-    ""
 
-# game/episode016_conversations.rpy:1093
+    "Vess n'a pas pu répondre, son orgasme détruisant encore tout son corps."
+
+
 translate french ep016_vess_sex_338de8a1:
 
-    # c "Do you think this is fair?"
-    c ""
 
-# game/episode016_conversations.rpy:1094
+    c "Tu penses que c'est juste ?"
+
+
 translate french ep016_vess_sex_e7ad31f6:
 
-    # ve "I-I-I’m not sure what you mean, master?"
-    ve ""
 
-# game/episode016_conversations.rpy:1095
+    ve "Je ne suis pas sûre de comprendre ce que vous voulez dire, maître ?"
+
+
 translate french ep016_vess_sex_12feb91a:
 
-    # c "I just made you cum, but did you give me the same release?"
-    c ""
 
-# game/episode016_conversations.rpy:1096
+    c "Je viens de te faire jouir, mais m'as-tu donné la même libération ?"
+
+
 translate french ep016_vess_sex_895eb1da:
 
-    # ve "I didn’t, master, but I will!"
-    ve ""
 
-# game/episode016_conversations.rpy:1097
+    ve "Je ne l'ai pas fait, maître, mais je le ferai !"
+
+
 translate french ep016_vess_sex_0ca0e52d:
 
-    # c "Oh yes, you will."
-    c ""
 
-# game/episode016_conversations.rpy:1099
+    c "Oh oui, tu le feras."
+
+
 translate french ep016_vess_sex_2b929615:
 
-    # c "Clean yourself up."
-    c ""
 
-# game/episode016_conversations.rpy:1100
+    c "Nettoie-toi."
+
+
 translate french ep016_vess_sex_57580e65:
 
-    # c "I’m not done with you yet."
-    c ""
 
-# game/episode016_conversations.rpy:1101
+    c "Je n'en ai pas encore fini avec toi."
+
+
 translate french ep016_vess_sex_16078d20:
 
-    # "Vess wiped most of the cum off her face and sat down on the bed when I ordered her to."
-    ""
 
-# game/episode016_conversations.rpy:1103
+    "Vess a essuyé la plus grande partie du sperme sur son visage et s'est assise sur le lit quand je le lui ai ordonné."
+
+
 translate french ep016_vess_sex_f096f607:
 
-    # "I forced her on her stomach, her ass high up in the air and slapped my dick against her pussy."
-    ""
 
-# game/episode016_conversations.rpy:1105
+    "Je l'ai forcée à se mettre sur le ventre, les fesses en l'air, et j'ai fait claquer ma bite contre sa chatte."
+
+
 translate french ep016_vess_sex_c93629b5:
 
-    # "Vess shuddered."
-    ""
 
-# game/episode016_conversations.rpy:1108
+    "Vess a tremblé."
+
+
 translate french ep016_vess_sex_336ea9fd:
 
-    # "When the throes of her climax had lessened, I hauled Vess on her knees and pulled her ass towards me."
-    ""
 
-# game/episode016_conversations.rpy:1110
+    "Lorsque les affres de son orgasme se sont calmées, j'ai mis Vess à genoux et j'ai tiré son cul vers moi."
+
+
 translate french ep016_vess_sex_5c7b02c8:
 
-    # "The feeling of my dick probing against her wet pussy made Vess shudder."
-    ""
 
-# game/episode016_conversations.rpy:1111
+    "La sensation de ma bite contre sa chatte humide a fait frémir Vess."
+
+
 translate french ep016_vess_sex_942da4c2:
 
-    # ve "M-master..."
-    ve ""
 
-# game/episode016_conversations.rpy:1113
+    ve "M-maître..."
+
+
 translate french ep016_vess_sex_fb359959:
 
-    # "I didn’t wait for her to complete her sentence and instead slid my cock inside her pussy."
-    ""
 
-# game/episode016_conversations.rpy:1114
+    "Je n'ai pas attendu qu'elle termine sa phrase et j'ai glissé ma bite dans sa chatte."
+
+
 translate french ep016_vess_sex_e5cf4e43:
 
-    # "Her vagina felt warm, wet and thoroughly inviting."
-    ""
 
-# game/episode016_conversations.rpy:1115
+    "Son vagin était chaud, humide et très accueillant."
+
+
 translate french ep016_vess_sex_f390b143:
 
-    # c "How does it feel, having a dick inside that messy pussy of yours?"
-    c ""
 
-# game/episode016_conversations.rpy:1117
+    c "Qu'est-ce que ça fait d'avoir une bite dans ta chatte en désordre ?"
+
+
 translate french ep016_vess_sex_06269afe:
 
-    # ve "You’re so big, master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1118
+    ve "Vous êtes si grand, maître !"
+
+
 translate french ep016_vess_sex_db008700:
 
-    # ve "It feels so good!"
-    ve ""
 
-# game/episode016_conversations.rpy:1120
+    ve "C'est tellement bon !"
+
+
 translate french ep016_vess_sex_35b82ed4:
 
-    # "Vess was mine in every way."
-    ""
 
-# game/episode016_conversations.rpy:1122
+    "Vess était à moi dans tous les sens du terme."
+
+
 translate french ep016_vess_sex_a7f3126b:
 
-    # "My dick rooted deep inside, her cunt responding to every thrust I made."
-    ""
 
-# game/episode016_conversations.rpy:1124
+    "Ma bite s'enracinait profondément à l'intérieur, sa chatte répondait à chacune de mes poussées."
+
+
 translate french ep016_vess_sex_5d812a08:
 
-    # "I wanted to fuck her harder than I already was, so I released her upper body and pulled her ass towards me."
-    ""
 
-# game/episode016_conversations.rpy:1125
+    "Je voulais la baiser plus fort que je ne l'étais déjà, alors j'ai relâché le haut de son corps et j'ai tiré son cul vers moi."
+
+
 translate french ep016_vess_sex_f43bf66b:
 
-    # "Vess collapsed against the cushions of the daybed while I shifted my position."
-    ""
 
-# game/episode016_conversations.rpy:1126
+    "Vess s'est effondrée contre les coussins du lit de repos pendant que je changeais de position."
+
+
 translate french ep016_vess_sex_881b34aa:
 
-    # c "You’re not getting up until I say so."
-    c ""
 
-# game/episode016_conversations.rpy:1128
+    c "Tu ne te lèveras pas tant que je ne te l'aurai pas dit."
+
+
 translate french ep016_vess_sex_0468c115:
 
-    # "To force my point across, I pressed my foot against her head and pinned her on the bed."
-    ""
 
-# game/episode016_conversations.rpy:1130
+    "Pour forcer mon point de vue, j'ai appuyé mon pied contre sa tête et je l'ai coincée sur le lit."
+
+
 translate french ep016_vess_sex_21831c30:
 
-    # "I kept fucking Vess hard in this position, careful not to let her escape from under me."
-    ""
 
-# game/episode016_conversations.rpy:1131
+    "Dans cette position, j'ai continué à baiser Vess à fond, en veillant à ce qu'elle ne s'échappe pas de dessous moi."
+
+
 translate french ep016_vess_sex_868417e1:
 
-    # "Not that she made any attempt."
-    ""
 
-# game/episode016_conversations.rpy:1132
+    "Elle n'a d'ailleurs pas tenté de le faire."
+
+
 translate french ep016_vess_sex_cf92a79f:
 
-    # c "How does it feel to be degraded like this?"
-    c ""
 
-# game/episode016_conversations.rpy:1135
+    c "Qu'est-ce que ça fait d'être dégradé comme ça ?"
+
+
 translate french ep016_vess_sex_52680821:
 
-    # ve "I don’t want you to stop!"
-    ve ""
 
-# game/episode016_conversations.rpy:1136
+    ve "Je ne veux pas que vous vous arrêtiez !"
+
+
 translate french ep016_vess_sex_2e183349:
 
-    # ve "Please keep fucking me like this!"
-    ve ""
 
-# game/episode016_conversations.rpy:1137
+    ve "Continuez à me baiser comme ça !"
+
+
 translate french ep016_vess_sex_d0e9850d:
 
-    # c "Does my dick make you feel that good?"
-    c ""
 
-# game/episode016_conversations.rpy:1138
+    c "Est-ce que ma bite te fait sentir aussi bien ?"
+
+
 translate french ep016_vess_sex_d16ea972:
 
-    # ve "Oh!{w} Oh!{w} It does!"
-    ve ""
 
-# game/episode016_conversations.rpy:1139
+    ve "Oh !{w} Oh !{w} C'est vrai !"
+
+
 translate french ep016_vess_sex_10dca024:
 
-    # c "You really are a nasty little whore, aren’t you?"
-    c ""
 
-# game/episode016_conversations.rpy:1140
+    c "Tu es vraiment une sale petite pute, n'est-ce pas ?"
+
+
 translate french ep016_vess_sex_4382626a:
 
-    # ve "I am!{w} I am your nasty little whore, master!"
-    ve ""
 
-# game/episode016_conversations.rpy:1142
+    ve "Je le suis !{w} Je suis votre sale petite pute, maître !"
+
+
 translate french ep016_vess_sex_d604cbf6:
 
-    # "I fucked her harder in response, my balls slapping against her every time I drove deeply into her."
-    ""
 
-# game/episode016_conversations.rpy:1143
+    "Je l'ai baisée plus fort en réponse, mes couilles claquant contre elle à chaque fois que je l'enfonçais profondément."
+
+
 translate french ep016_vess_sex_3d2efe47:
 
-    # "The intensity with which I was attacking Vess’ tight pussy brought me close to orgasm very quickly."
-    ""
 
-# game/episode016_conversations.rpy:1147
+    "L'intensité avec laquelle j'attaquais la chatte serrée de Vess m'a fait frôler l'orgasme très rapidement."
+
+
 translate french ep016_vess_sex_7a290e99:
 
-    # c "A dirty little whore like you deserves a big load inside her."
-    c ""
 
-# game/episode016_conversations.rpy:1150
+    c "Une sale petite pute comme toi mérite une grosse charge en elle."
+
+
 translate french ep016_vess_sex_3e23f974:
 
-    # ve "Yes!{w} Please, master, I’m yours!{w} Fill me up with your cum!"
-    ve ""
 
-# game/episode016_conversations.rpy:1152
+    ve "Oui !{w} S'il vous plaît, maître, je suis à vous !{w} Remplissez-moi de votre sperme !"
+
+
 translate french ep016_vess_sex_2d7f8b17:
 
-    # "I flooded her pussy with warm cum soon afterwards."
-    ""
 
-# game/episode016_conversations.rpy:1155
+    "J'ai inondé sa chatte de sperme chaud peu de temps après."
+
+
 translate french ep016_vess_sex_c1a341f0:
 
-    # "As I retracted my dick from her slit, cum started oozing out of her immediately."
-    ""
 
-# game/episode016_conversations.rpy:1158
+    "Lorsque j'ai retiré ma bite de sa fente, le sperme a commencé à suinter d'elle immédiatement."
+
+
 translate french ep016_vess_sex_45d83b58:
 
-    # c "A dirty little whore like you deserves to be covered by a big load."
-    c ""
 
-# game/episode016_conversations.rpy:1161
+    c "Une sale petite pute comme toi mérite d'être couverte par une grosse charge."
+
+
 translate french ep016_vess_sex_b2ba7ef5:
 
-    # ve "Yes!{w} Please, master, I’m yours!{w} Cover me with your cum!"
-    ve ""
 
-# game/episode016_conversations.rpy:1163
+    ve "Oui !{w} S'il te plaît, maître, je suis à toi !{w} Couvre-moi de ton sperme !"
+
+
 translate french ep016_vess_sex_c71a73f4:
 
-    # "Keeping her pinned, I whipped my dick out of her pussy and started pumping cum over her back and ass immediately."
-    ""
 
-# game/episode016_conversations.rpy:1166
+    "En la gardant coincée, j'ai sorti ma bite de sa chatte et j'ai commencé à pomper du sperme sur son dos et son cul immédiatement."
+
+
 translate french ep016_vess_sex_3fbfae1e:
 
-    # "Warm cum soon streaked across her spine and filled the crack of her ass."
-    ""
 
-# game/episode016_conversations.rpy:1169
+    "Le sperme chaud s'est bientôt répandu sur sa colonne vertébrale et a rempli la fente de son cul."
+
+
 translate french ep016_vess_sex_f14ee6a8:
 
-    # c "Come over here, that dirty little whore face of yours deserves to be covered by a big load."
-    c ""
 
-# game/episode016_conversations.rpy:1172
+    c "Viens par ici, ton sale petit visage de pute mérite d'être recouvert d'une grosse charge."
+
+
 translate french ep016_vess_sex_4903000f:
 
-    # ve "Yes!{w} Please, master, I’m yours!{w} Cover my face with your cum!"
-    ve ""
 
-# game/episode016_conversations.rpy:1173
+    ve "Oui !{w} S'il te plaît, maître, je suis à toi !{w} Couvre mon visage de ton sperme !"
+
+
 translate french ep016_vess_sex_f0b916da:
 
-    # c "You’ll have to work for it, like the slut you are."
-    c ""
 
-# game/episode016_conversations.rpy:1175
+    c "Tu devras travailler pour cela, comme la salope que tu es."
+
+
 translate french ep016_vess_sex_bc9edeb7:
 
-    # "After removing my foot from the girl’s head, I allowed her to turn around and lie beneath my throbbing cock."
-    ""
 
-# game/episode016_conversations.rpy:1176
+    "Après avoir retiré mon pied de la tête de la jeune fille, je l'ai laissée se retourner et s'allonger sous ma queue palpitante."
+
+
 translate french ep016_vess_sex_1fb1c2a9:
 
-    # "She began to milk my erection as I held her head in place."
-    ""
 
-# game/episode016_conversations.rpy:1178
+    "Elle a commencé à traire mon érection pendant que je maintenais sa tête en place."
+
+
 translate french ep016_vess_sex_09e15e5a:
 
-    # "Warm cum pumped out of my dick and splashed all over her upper body."
-    ""
 
-# game/episode016_conversations.rpy:1181
+    "Du sperme chaud a jailli de ma bite et a éclaboussé le haut de son corps."
+
+
 translate french ep016_vess_sex_a16bdb00:
 
-    # "Her face and breasts were soon streaked with semen."
-    ""
 
-# game/episode016_conversations.rpy:1182
+    "Son visage et ses seins furent bientôt couverts de sperme."
+
+
 translate french ep016_vess_sex_b1e44772:
 
-    # c "You’ve been a good slut and have satisfied me enough."
-    c ""
 
-# game/episode016_conversations.rpy:1183
+    c "Tu as été une bonne salope et tu m'as suffisamment satisfait."
+
+
 translate french ep016_vess_sex_fe466611:
 
-    # ve "Thank you for rewarding me, master."
-    ve ""
 
-# game/episode016_conversations.rpy:1184
+    ve "Merci de m'avoir récompensé, maître."
+
+
 translate french ep016_vess_sex_70d3d013:
 
-    # c "I believe you have some unfinished work."
-    c ""
 
-# game/episode016_conversations.rpy:1185
+    c "Je crois que tu as encore du travail à faire."
+
+
 translate french ep016_vess_sex_6026981e:
 
-    # c "No need for clothes, you’d get them dirty again anyway."
-    c ""
 
-# game/episode016_conversations.rpy:1187
+    c "Pas besoin de vêtements, tu les salirais à nouveau de toute façon."
+
+
 translate french ep016_vess_sex_bfc5c817:
 
-    # "Vess didn’t much enjoy having to clean my quarters naked, but I had a great time watching her, while enjoying another drink."
-    ""
 
-# game/episode016_conversations.rpy:1196
+    "Vess n'a pas beaucoup apprécié de devoir nettoyer mes quartiers toute nue, mais je me suis bien amusé à la regarder, tout en savourant un autre verre."
+
+
 translate french ep016_thyia_sex_02846eef:
 
-    # "She leaned against the wall and listened intently."
-    ""
 
-# game/episode016_conversations.rpy:1198
+    "Elle s'appuyait contre le mur et écoutait attentivement."
+
+
 translate french ep016_thyia_sex_1c97eda4:
 
-    # th "Perfect, I think it’s empty."
-    th ""
 
-# game/episode016_conversations.rpy:1199
+    th "Parfait, je crois qu'il est vide."
+
+
 translate french ep016_thyia_sex_6a513866:
 
-    # c "You’re suddenly very concerned about our privacy."
-    c ""
 
-# game/episode016_conversations.rpy:1200
+    c "Tu es soudain très soucieuse de notre intimité."
+
+
 translate french ep016_thyia_sex_864cff9f:
 
-    # c "I wonder why..."
-    c ""
 
-# game/episode016_conversations.rpy:1201
+    c "Je me demande pourquoi..."
+
+
 translate french ep016_thyia_sex_c2dcd9d1:
 
-    # th "I can think of a few things..."
-    th ""
 
-# game/episode016_conversations.rpy:1203
+    th "Je pense à plusieurs choses..."
+
+
 translate french ep016_thyia_sex_6a503530:
 
-    # "Thyia continued her way towards one of the stalls and slipped out of the bodice of her dress."
-    ""
 
-# game/episode016_conversations.rpy:1204
+    "Thyia a continué son chemin vers l'une des cabines et s'est glissée hors du corsage de sa robe."
+
+
 translate french ep016_thyia_sex_c58f1c37:
 
-    # c "I’m beginning to understand."
-    c ""
 
-# game/episode016_conversations.rpy:1209
+    c "Je commence à comprendre."
+
+
 translate french ep016_thyia_sex_5ef5add9:
 
-    # "She stepped into a stall and dropped the rest of her dress."
-    ""
 
-# game/episode016_conversations.rpy:1210
+    "Elle s'avança dans une cabine et laissa tomber le reste de sa robe."
+
+
 translate french ep016_thyia_sex_7d176387:
 
-    # th "Why don’t you come inside?"
-    th ""
 
-# game/episode016_conversations.rpy:1212
+    th "Pourquoi ne rentres-tu pas à l'intérieur ?"
+
+
 translate french ep016_thyia_sex_ae3ed35e:
 
-    # "Closing the stall door behind me, I pushed Thyia against the wall and we kissed."
-    ""
 
-# game/episode016_conversations.rpy:1214
+    "En fermant la porte de la cabine derrière moi, j'ai poussé Thyia contre le mur et nous nous sommes embrassés."
+
+
 translate french ep016_thyia_sex_9dac0169:
 
-    # th "Mmmm, yes."
-    th ""
 
-# game/episode016_conversations.rpy:1215
+    th "Mmmm, oui."
+
+
 translate french ep016_thyia_sex_a78ee3cd:
 
-    # th "I wanted you to fuck me from the moment we sat down to eat."
-    th ""
 
-# game/episode016_conversations.rpy:1217
+    th "Je voulais que tu me baises dès le moment où nous nous sommes assis pour manger."
+
+
 translate french ep016_thyia_sex_e4f46ce3:
 
-    # "I slipped a hand between her thighs and touched Thyia’s pussy."
-    ""
 
-# game/episode016_conversations.rpy:1219
+    "J'ai glissé une main entre ses cuisses et j'ai touché la chatte de Thyia."
+
+
 translate french ep016_thyia_sex_159c0b10:
 
-    # "My fingers came away wet."
-    ""
 
-# game/episode016_conversations.rpy:1221
+    "Mes doigts en sont ressortis mouillés."
+
+
 translate french ep016_thyia_sex_a46010d7:
 
-    # "Thyia looked at me with a hunger, wanting me to go further."
-    ""
 
-# game/episode016_conversations.rpy:1223
+    "Thyia m'a regardé avec appétit, voulant que j'aille plus loin."
+
+
 translate french ep016_thyia_sex_85ce3e8d:
 
-    # "I began to finger her, running my fingers across her slit and massaging her clit."
-    ""
 
-# game/episode016_conversations.rpy:1226
+    "J'ai commencé à la doigter, à faire courir mes doigts sur sa fente et à masser son clitoris."
+
+
 translate french ep016_thyia_sex_f26d5db2:
 
-    # th "Oh fuck, [p_name_short], that’s it!"
-    th ""
 
-# game/episode016_conversations.rpy:1227
+    th "Oh putain, [p_name_short], c'est ça !"
+
+
 translate french ep016_thyia_sex_4160e192:
 
-    # th "You make me so wet!"
-    th ""
 
-# game/episode016_conversations.rpy:1228
+    th "Tu me fais tellement mouiller !"
+
+
 translate french ep016_thyia_sex_abd0f1c4:
 
-    # th "Oh!{w} Oh!{w} Ah!"
-    th ""
 
-# game/episode016_conversations.rpy:1230
+    th "Oh !{w} Oh !{w} Ah !"
+
+
 translate french ep016_thyia_sex_b98ed533:
 
-    # "Thyia’s moaning had masked the sound of the restroom door opening."
-    ""
 
-# game/episode016_conversations.rpy:1231
+    "Les gémissements de Thyia avaient masqué le bruit de la porte des toilettes qui s'ouvrait."
+
+
 translate french ep016_thyia_sex_66dce125:
 
-    # th "Oh yes, right there!"
-    th ""
 
-# game/episode016_conversations.rpy:1233
+    th "Oh oui, juste là !"
+
+
 translate french ep016_thyia_sex_8af3e845:
 
-    # woman "Huh?"
-    woman ""
 
-# game/episode016_conversations.rpy:1234
+    woman "Hein ?"
+
+
 translate french ep016_thyia_sex_2c0c8bb7:
 
-    # "Just after Thyia had let out a shuddering sigh, we both heard the sound of approaching high heels connecting with the floor."
-    ""
 
-# game/episode016_conversations.rpy:1235
+    "Juste après que Thyia ait poussé un soupir frémissant, nous avons tous deux entendu le bruit des talons hauts qui s'approchaient et qui touchaient le sol."
+
+
 translate french ep016_thyia_sex_c95bbadc:
 
-    # woman "Are you okay in there, miss?"
-    woman ""
 
-# game/episode016_conversations.rpy:1237
+    woman "Vous allez bien là-dedans, mademoiselle ?"
+
+
 translate french ep016_thyia_sex_e269123d:
 
-    # th "Fuck!"
-    th ""
 
-# game/episode016_conversations.rpy:1238
+    th "Putain !"
+
+
 translate french ep016_thyia_sex_61c83641:
 
-    # th "Yes, yes, I’m fine!"
-    th ""
 
-# game/episode016_conversations.rpy:1239
+    th "Oui, oui, je vais bien !"
+
+
 translate french ep016_thyia_sex_5349d4ec:
 
-    # "The woman outside appeared to be satisfied with that answer and entered a stall near us."
-    ""
 
-# game/episode016_conversations.rpy:1240
+    "La femme qui se trouvait à l'extérieur a semblé se satisfaire de cette réponse et est entrée dans une cabine près de nous."
+
+
 translate french ep016_thyia_sex_d6075370:
 
-    # "Thyia listened to the sounds of the woman doing her business with bated breath."
-    ""
 
-# game/episode016_conversations.rpy:1242
+    "Thyia a écouté les bruits de la femme qui faisait son affaire en retenant son souffle."
+
+
 translate french ep016_thyia_sex_1a5700dc:
 
-    # "I couldn’t help but tease her by rubbing her pussy."
-    ""
 
-# game/episode016_conversations.rpy:1243
+    "Je n'ai pas pu m'empêcher de la taquiner en frottant sa chatte."
+
+
 translate french ep016_thyia_sex_623d173d:
 
-    # "Thyia’s response was a hoarse whisper, tinged with anxiety."
-    ""
 
-# game/episode016_conversations.rpy:1244
+    "La réponse de Thyia était un murmure rauque, teinté d'anxiété."
+
+
 translate french ep016_thyia_sex_a546d03e:
 
-    # th "F-fuck!{w} Wait, [p_name_short]!"
-    th ""
 
-# game/episode016_conversations.rpy:1246
+    th "Pu...Putain !{w} Attends, [p_name_short] !"
+
+
 translate french ep016_thyia_sex_46454ae6:
 
-    # "She could barely restrain herself and I nearly had her crying out in wanton despair."
-    ""
 
-# game/episode016_conversations.rpy:1247
+    "Elle avait du mal à se retenir et j'ai failli la faire pleurer de désespoir."
+
+
 translate french ep016_thyia_sex_a17611f2:
 
-    # "The woman next to us exited the stall, washed her hands and left the restrooms."
-    ""
 
-# game/episode016_conversations.rpy:1248
+    "La femme à côté de nous est sortie de la cabine, s'est lavé les mains et a quitté les toilettes."
+
+
 translate french ep016_thyia_sex_09d4f988:
 
-    # "As soon as the door closed, Thyia exhaled heavily."
-    ""
 
-# game/episode016_conversations.rpy:1251
+    "Dès que la porte s'est refermée, Thyia a expiré lourdement."
+
+
 translate french ep016_thyia_sex_e51a5670:
 
-    # th "You absolute monster!"
-    th ""
 
-# game/episode016_conversations.rpy:1252
+    th "Tu es un monstre absolu !"
+
+
 translate french ep016_thyia_sex_bc04833c:
 
-    # c "You didn’t like the unwanted audience?"
-    c ""
 
-# game/episode016_conversations.rpy:1253
+    c "Tu n'as pas aimé ce public indésirable ?"
+
+
 translate french ep016_thyia_sex_22b44530:
 
-    # th "I’m sure she knew what was going on."
-    th ""
 
-# game/episode016_conversations.rpy:1255
+    th "Je suis sûre qu'elle savait ce qui se passait."
+
+
 translate french ep016_thyia_sex_c55571d7:
 
-    # th "But are you going to make me cum, or what, mister?"
-    th ""
 
-# game/episode016_conversations.rpy:1256
+    th "Mais tu vas me faire jouir, ou quoi, monsieur ?"
+
+
 translate french ep016_thyia_sex_1a033f56:
 
-    # c "On it."
-    c ""
 
-# game/episode016_conversations.rpy:1258
+    c "C'est parti."
+
+
 translate french ep016_thyia_sex_1d1dc89b:
 
-    # "I squatted before her and pushed my head between her legs."
-    ""
 
-# game/episode016_conversations.rpy:1259
+    "Je me suis accroupi devant elle et j'ai enfoncé ma tête entre ses jambes."
+
+
 translate french ep016_thyia_sex_4c456b5c:
 
-    # "Extending my tongue, I lapped up the saltiness that coated her pussy."
-    ""
 
-# game/episode016_conversations.rpy:1262
+    "En étendant ma langue, j'ai lapé la salinité qui recouvrait sa chatte."
+
+
 translate french ep016_thyia_sex_b28beed6:
 
-    # th "That’s it, right there, lick that pussy."
-    th ""
 
-# game/episode016_conversations.rpy:1263
+    th "C'est ça, juste là, lèche cette chatte."
+
+
 translate french ep016_thyia_sex_cac62275:
 
-    # th "I’m so wet!"
-    th ""
 
-# game/episode016_conversations.rpy:1264
+    th "Je suis tellement mouillée !"
+
+
 translate french ep016_thyia_sex_fb7f4025:
 
-    # "I ran my tongue across the length of her slit."
-    ""
 
-# game/episode016_conversations.rpy:1267
+    "J'ai fait courir ma langue sur toute la longueur de sa fente."
+
+
 translate french ep016_thyia_sex_2f60255e:
 
-    # "When I approached her clitoris and lingered there, Thyia let out a longing moan."
-    ""
 
-# game/episode016_conversations.rpy:1268
+    "Lorsque je me suis approché de son clitoris et que je m'y suis attardé, Thyia a laissé échapper un gémissement de désir."
+
+
 translate french ep016_thyia_sex_afed7c1f:
 
-    # "Thyia moaned and writhed above me."
-    ""
 
-# game/episode016_conversations.rpy:1270
+    "Thyia a gémi et s'est tordue au-dessus de moi."
+
+
 translate french ep016_thyia_sex_b9c89fcb:
 
-    # th "Oh yes!"
-    th ""
 
-# game/episode016_conversations.rpy:1271
+    th "Oh oui !"
+
+
 translate french ep016_thyia_sex_2af9fb47:
 
-    # th "Are you already hard for me?"
-    th ""
 
-# game/episode016_conversations.rpy:1272
+    th "Tu es déjà dure pour moi ?"
+
+
 translate french ep016_thyia_sex_19b58f18:
 
-    # "From the moment we kissed I already had a raging erection in my pants."
-    ""
 
-# game/episode016_conversations.rpy:1273
+    "Dès le moment où nous nous sommes embrassés, j'avais déjà une érection furieuse dans mon pantalon."
+
+
 translate french ep016_thyia_sex_5774190a:
 
-    # th "I want it inside me so bad, [p_name_short]!"
-    th ""
 
-# game/episode016_conversations.rpy:1274
+    th "Je la veux tellement en moi, [p_name_short] !"
+
+
 translate french ep016_thyia_sex_88756323:
 
-    # "Thyia pulled me up and turned around while I freed my cock."
-    ""
 
-# game/episode016_conversations.rpy:1276
+    "Thyia m'a tiré vers le haut et s'est retournée pendant que je libérais ma bite."
+
+
 translate french ep016_thyia_sex_b3dd12e2:
 
-    # "Grabbing her ass, I let my hard member rest between her cheeks."
-    ""
 
-# game/episode016_conversations.rpy:1278
+    "Saisissant ses fesses, j'ai laissé mon membre dur reposer entre ses joues."
+
+
 translate french ep016_thyia_sex_2b90286f:
 
-    # "She rubbed herself against me, desperate for us to continue."
-    ""
 
-# game/episode016_conversations.rpy:1279
+    "Elle s'est frottée contre moi, désespérant que nous continuions."
+
+
 translate french ep016_thyia_sex_b581ce37:
 
-    # th "Put it inside me, I’m all ready for you!"
-    th ""
 
-# game/episode016_conversations.rpy:1281
+    th "Mets-la en moi, je suis prête pour toi !"
+
+
 translate french ep016_thyia_sex_538206ad:
 
-    # "I guided my cock between Thyia’s slick lips."
-    ""
 
-# game/episode016_conversations.rpy:1282
+    "J'ai guidé ma bite entre les lèvres lisses de Thyia."
+
+
 translate french ep016_thyia_sex_9d0832e3:
 
-    # "She slammed her hands against the wall in response, punctuated by a labored groan."
-    ""
 
-# game/episode016_conversations.rpy:1283
+    "Elle a claqué ses mains contre le mur en réponse, ponctuée d'un gémissement laborieux."
+
+
 translate french ep016_thyia_sex_52da8abc:
 
-    # th "That’s it! Deeper, [p_name_short], I want to feel all of that thick cock of yours!"
-    th ""
 
-# game/episode016_conversations.rpy:1285
+    th "Ça y est ! Plus profond, [p_name_short], je veux sentir toute ta grosse bite !"
+
+
 translate french ep016_thyia_sex_dedf6e9a:
 
-    # "I grabbed her shoulders and drove into her."
-    ""
 
-# game/episode016_conversations.rpy:1287
+    "J'ai attrapé ses épaules et je me suis enfoncé en elle."
+
+
 translate french ep016_thyia_sex_7b137904:
 
-    # "Her ass bounced against my abdomen as I fucked her tight slit."
-    ""
 
-# game/episode016_conversations.rpy:1288
+    "Son cul rebondit contre mon abdomen tandis que je baise sa fente serrée."
+
+
 translate french ep016_thyia_sex_5c6ff24a:
 
-    # th "Mmmm yes, that’s it!"
-    th ""
 
-# game/episode016_conversations.rpy:1290
+    th "Mmmm oui, c'est ça !"
+
+
 translate french ep016_thyia_sex_2aa23157:
 
-    # "My cock went in to the root, driving Thyia’s face against the wall every time I penetrated her deeply."
-    ""
 
-# game/episode016_conversations.rpy:1291
+    "Ma bite est entrée jusqu'à la racine, enfonçant le visage de Thyia contre le mur à chaque fois que je la pénétrais profondément."
+
+
 translate french ep016_thyia_sex_7c1c5ad2:
 
-    # c "How’s this for a dessert, Thyia?"
-    c ""
 
-# game/episode016_conversations.rpy:1292
+    c "Que dirais-tu d'un dessert, Thyia ?"
+
+
 translate french ep016_thyia_sex_5b190d88:
 
-    # th "Mmmmm, I fucking love it!"
-    th ""
 
-# game/episode016_conversations.rpy:1293
+    th "Mmmmm, j'adore ça !"
+
+
 translate french ep016_thyia_sex_4c8b258c:
 
-    # c "Turn around so I can see you while I fuck your pussy."
-    c ""
 
-# game/episode016_conversations.rpy:1296
+    c "Tourne-toi pour que je puisse te voir pendant que je baise ta chatte."
+
+
 translate french ep016_thyia_sex_7101718c:
 
-    # "Thyia leaned against the wall and I entered her cunt again."
-    ""
 
-# game/episode016_conversations.rpy:1298
+    "Thyia s'est appuyée contre le mur et j'ai pénétré à nouveau dans sa chatte."
+
+
 translate french ep016_thyia_sex_a9936d1c:
 
-    # "I grabbed and lifted her leg to gain better purchase."
-    ""
 
-# game/episode016_conversations.rpy:1301
+    "J'ai attrapé et soulevé sa jambe pour avoir une meilleure prise."
+
+
 translate french ep016_thyia_sex_f3dfb01d:
 
-    # "Compared to the previous position, this wasn’t the best way to fuck her, but at least I had a good view of her bouncing breasts and the delirious expression on her face."
-    ""
 
-# game/episode016_conversations.rpy:1303
+    "Par rapport à la position précédente, ce n'était pas la meilleure façon de la baiser, mais au moins j'avais une bonne vue sur ses seins rebondissants et sur l'expression délirante de son visage."
+
+
 translate french ep016_thyia_sex_a0be0146:
 
-    # th "Are you going to make me cum, [p_name]?"
-    th ""
 
-# game/episode016_conversations.rpy:1304
+    th "Tu vas me faire jouir, [p_name] ?"
+
+
 translate french ep016_thyia_sex_e9a5b6a6:
 
-    # c "I fully intend to."
-    c ""
 
-# game/episode016_conversations.rpy:1305
+    c "J'en ai bien l'intention."
+
+
 translate french ep016_thyia_sex_6e6df574:
 
-    # th "Good, good!{w} Oh yes, that’s the right spot!"
-    th ""
 
-# game/episode016_conversations.rpy:1307
+    th "Bien, bien !{w} Oh oui, c'est le bon endroit !"
+
+
 translate french ep016_thyia_sex_07749a19:
 
-    # "To gain better purchase, I lifted Thyia by her ass."
-    ""
 
-# game/episode016_conversations.rpy:1308
+    "Pour mieux m'agripper, je soulève Thyia par les fesses."
+
+
 translate french ep016_thyia_sex_2b455ff1:
 
-    # "Her other leg snaked around my back, while she balanced herself against the wall and the stall door."
-    ""
 
-# game/episode016_conversations.rpy:1309
+    "Son autre jambe a serpenté autour de mon dos, tandis qu'elle se tenait en équilibre contre le mur et la porte de la cabine."
+
+
 translate french ep016_thyia_sex_acc28b49:
 
-    # "I could reach the inner most depths of her cunt this way, her body coming down heavily on my throbbing cock."
-    ""
 
-# game/episode016_conversations.rpy:1311
+    "Je pouvais ainsi atteindre les profondeurs les plus intimes de sa chatte, son corps s'abattant lourdement sur ma bite palpitante."
+
+
 translate french ep016_thyia_sex_60993215:
 
-    # th "Oh fuck, [p_name_short], that feels so good!"
-    th ""
 
-# game/episode016_conversations.rpy:1312
+    th "Oh putain, [p_name_short], c'est si bon !"
+
+
 translate french ep016_thyia_sex_73530c16:
 
-    # c "I’m going to make you cum, Thyia."
-    c ""
 
-# game/episode016_conversations.rpy:1313
+    c "Je vais te faire jouir, Thyia."
+
+
 translate french ep016_thyia_sex_162ef344:
 
-    # th "Yes, yes, make me cum!"
-    th ""
 
-# game/episode016_conversations.rpy:1315
+    th "Oui, oui, fais-moi jouir !"
+
+
 translate french ep016_thyia_sex_b141d3b3:
 
-    # "I reinforced my words by thrusting rapidly in and out of her tight cunt."
-    ""
 
-# game/episode016_conversations.rpy:1316
+    "J'ai renforcé mes paroles en poussant rapidement dans et hors de sa chatte serrée."
+
+
 translate french ep016_thyia_sex_c5006755:
 
-    # "Thyia had trouble keeping herself balanced and moaned loudly."
-    ""
 
-# game/episode016_conversations.rpy:1317
+    "Thyia avait du mal à se maintenir en équilibre et gémissait bruyamment."
+
+
 translate french ep016_thyia_sex_01265570:
 
-    # "Her eyes fluttered open and she looked at me in sheer delight."
-    ""
 
-# game/episode016_conversations.rpy:1319
+    "Ses yeux se sont ouverts et elle m'a regardé avec plaisir."
+
+
 translate french ep016_thyia_sex_30fd2641:
 
-    # th "Oh [p_name_short]!"
-    th ""
 
-# game/episode016_conversations.rpy:1320
+    th "Oh [p_name_short] !"
+
+
 translate french ep016_thyia_sex_5ff10320:
 
-    # th "You’re making me cum!"
-    th ""
 
-# game/episode016_conversations.rpy:1321
+    th "Tu me fais jouir !"
+
+
 translate french ep016_thyia_sex_dc1f845a:
 
-    # th "I’m-"
-    th ""
 
-# game/episode016_conversations.rpy:1322
+    th "Je suis..."
+
+
 translate french ep016_thyia_sex_6e0a1c10:
 
-    # th "Nearly there!"
-    th ""
 
-# game/episode016_conversations.rpy:1323
+    th "J'y suis presque !"
+
+
 translate french ep016_thyia_sex_f06fc2e0:
 
-    # th "Nearly..."
-    th ""
 
-# game/episode016_conversations.rpy:1325
+    th "Presque..."
+
+
 translate french ep016_thyia_sex_90eada0f:
 
-    # th "Ffffuck!"
-    th ""
 
-# game/episode016_conversations.rpy:1328
+    th "Pppputain !"
+
+
 translate french ep016_thyia_sex_ea26d016:
 
-    # "That curse was the last thing Thyia was able to utter before the convulsions of her orgasm took over her body."
-    ""
 
-# game/episode016_conversations.rpy:1329
+    "Ce juron fut la dernière chose que Thyia put prononcer avant que les convulsions de son orgasme ne s'emparent de son corps."
+
+
 translate french ep016_thyia_sex_29d88612:
 
-    # "She banged her head against the wall as she climaxed on my cock."
-    ""
 
-# game/episode016_conversations.rpy:1331
+    "Elle s'est cogné la tête contre le mur alors qu'elle atteignait l'orgasme sur ma queue."
+
+
 translate french ep016_thyia_sex_5a7234c1:
 
-    # "The convulsions of her slit tipped me over the edge as well."
-    ""
 
-# game/episode016_conversations.rpy:1336
+    "Les convulsions de sa fente m'ont fait basculer à mon tour."
+
+
 translate french ep016_thyia_sex_b0f64f82:
 
-    # "As Thyia rode out the last throes of her orgasm, I came inside her."
-    ""
 
-# game/episode016_conversations.rpy:1337
+    "Alors que Thyia était dans les derniers retranchements de son orgasme, j'ai joui en elle."
+
+
 translate french ep016_thyia_sex_f5188694:
 
-    # "I kept fucking her while still depositing warm seed deep inside her."
-    ""
 
-# game/episode016_conversations.rpy:1340
+    "J'ai continué à la baiser tout en déposant de la semence chaude au plus profond d'elle."
+
+
 translate french ep016_thyia_sex_eef45c45:
 
-    # "When I pulled out, cum immediately began leaking out of her pussy."
-    ""
 
-# game/episode016_conversations.rpy:1344
+    "Quand je me suis retiré, le sperme a immédiatement commencé à s'écouler de sa chatte."
+
+
 translate french ep016_thyia_sex_9ceb99e4:
 
-    # "Even as Thyia was still riding out the last throes of her orgasm, I pulled out of her and pushed her on the toilet seat."
-    ""
 
-# game/episode016_conversations.rpy:1346
+    "Alors que Thyia était encore dans les derniers retranchements de son orgasme, je me suis retiré d'elle et je l'ai poussée sur le siège des toilettes."
+
+
 translate french ep016_thyia_sex_fb773dac:
 
-    # "As soon as she sat down, I sprayed warm seed all over her body."
-    ""
 
-# game/episode016_conversations.rpy:1349
+    "Dès qu'elle s'est assise, j'ai pulvérisé de la semence chaude sur tout son corps."
+
+
 translate french ep016_thyia_sex_6b94426e:
 
-    # "Her breasts and belly were soon covered in cum."
-    ""
 
-# game/episode016_conversations.rpy:1353
+    "Ses seins et son ventre ont rapidement été recouverts de sperme."
+
+
 translate french ep016_thyia_sex_9ceb99e4_1:
 
-    # "Even as Thyia was still riding out the last throes of her orgasm, I pulled out of her and pushed her on the toilet seat."
-    ""
 
-# game/episode016_conversations.rpy:1355
+    "Alors que Thyia était encore dans les derniers instants de son orgasme, je me suis retiré d'elle et je l'ai poussée sur le siège des toilettes."
+
+
 translate french ep016_thyia_sex_ed9c8966:
 
-    # "As soon as she sat down, I sprayed warm seed inside her open mouth."
-    ""
 
-# game/episode016_conversations.rpy:1358
+    "Dès qu'elle s'est assise, j'ai pulvérisé de la semence chaude dans sa bouche ouverte."
+
+
 translate french ep016_thyia_sex_95966adc:
 
-    # "Most of my cum went down her throat, but I also managed to make a mess of her left cheek."
-    ""
 
-# game/episode016_conversations.rpy:1360
+    "La plus grande partie de mon sperme est allée dans sa gorge, mais j'ai aussi réussi à salir sa joue gauche."
+
+
 translate french ep016_thyia_sex_22fbdb78:
 
-    # "Thyia managed to clean herself up somewhat before we headed back out into the restaurant."
-    ""
 
-# game/episode016_conversations.rpy:1362
+    "Thyia a réussi à se nettoyer un peu avant que nous retournions au restaurant."
+
+
 translate french ep016_thyia_sex_1a99c926:
 
-    # th "That was a very sweet dessert."
-    th ""
 
-# game/episode016_conversations.rpy:1363
+    th "C'était un dessert très doux."
+
+
 translate french ep016_thyia_sex_65a5346e:
 
-    # c "Just the right amount of cream, I reckon?"
-    c ""
 
-# game/episode016_conversations.rpy:1366
+    c "Juste ce qu'il faut de crème, je pense ?"
+
+
 translate french ep016_thyia_sex_6c25c17b:
 
-    # th "Yes, though some of it is still dribbling down my thigh..."
-    th ""
 
-# game/episode016_conversations.rpy:1368
+    th "Oui, bien qu'une partie de la crème dégouline encore sur ma cuisse..."
+
+
 translate french ep016_thyia_sex_594ba8be:
 
-    # th "Yes, so delicious!"
-    th ""
 
-# game/episode016_conversations.rpy:1369
+    th "Oui, c'est délicieux !"
+
+
 translate french ep016_thyia_sex_3b33b2a0:
 
-    # "The serving staff didn’t mention our prolonged absence and we finished our meal while still cherishing the post-coital afterglow."
-    ""
 
-# game/episode016_conversations.rpy:1371
+    "Le personnel de service n'a pas mentionné notre absence prolongée et nous avons terminé notre repas tout en chérissant encore la lueur post-coïtale."
+
+
 translate french ep016_thyia_sex_548a115a:
 
-    # "Early in the night, we headed back towards the Bastard."
-    ""
+
+    "Au début de la nuit, nous avons repris la direction du Bastard."
 
 translate french strings:
 
-    # game/episode016_conversations.rpy:559
+
     old "Want kids"
-    new ""
+    new "Vouloir des enfants"
 
-    # game/episode016_conversations.rpy:559
+
     old "Don’t want kids"
-    new ""
+    new "Ne pas vouloir d'enfants"
 
-# TODO: Translation updated at 2025-02-27 12:49
 
-# game/episode016_conversations.rpy:411
 translate french ep016_thyia_talk_6463c945:
 
-    # "For the duration of our stay, Thyia mostly stayed on the Bastard."
-    ""
 
-# game/episode016_conversations.rpy:413
+    "Pendant la durée de notre séjour, Thyia est surtout restée sur le Bastard."
+
+
 translate french ep016_thyia_talk_c0d66333:
 
-    # "For the duration of our stay, Thyia mostly remained holed up in the engine room."
-    ""
 
-# game/episode016_conversations.rpy:414
+    "Pendant toute la durée de notre séjour, Thyia est restée la plupart du temps terrée dans la salle des machines."
+
+
 translate french ep016_thyia_talk_fe0db63e:
 
-    # "She was working on something and that seemed to take up most of her time."
-    ""
 
-# game/episode016_conversations.rpy:416
+    "Elle travaillait sur quelque chose et cela semblait occuper la majeure partie de son temps."
+
+
 translate french ep016_thyia_talk_da20415c:
 
-    # "I went to check up on her."
-    ""
 
+    "Je suis allé voir ce qu'elle faisait."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

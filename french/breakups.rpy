@@ -1,1766 +1,1764 @@
-﻿# TODO: Translation updated at 2023-02-09 21:53
 
-# game/breakups.rpy:9
+
+
 translate french breakup_lilly_7a9d1306:
 
-    # l "Did you come to visit your favorite sister?"
-    l ""
 
-# game/breakups.rpy:11
+    l "Es-tu venu rendre visite à ta sœur préférée ?"
+
+
 translate french breakup_lilly_1d601f41:
 
-    # l "Did you come to visit your favorite girl?"
-    l ""
 
-# game/breakups.rpy:12
+    l "Es-tu venue rendre visite à ta fille préférée ?"
+
+
 translate french breakup_lilly_89048451:
 
-    # c "Lilly, I-"
-    c ""
 
-# game/breakups.rpy:13
+    c "Lilly, je..."
+
+
 translate french breakup_lilly_727fe754:
 
-    # l "I was hoping for a kiss first."
-    l ""
 
-# game/breakups.rpy:15
+    l "J'espérais d'abord un baiser."
+
+
 translate french breakup_lilly_0138559e:
 
-    # l "What’s the matter?"
-    l ""
 
-# game/breakups.rpy:16
+    l "Qu'est-ce qu'il y a ?"
+
+
 translate french breakup_lilly_09206561:
 
-    # c "Us...{w} It’s us."
-    c ""
 
-# game/breakups.rpy:17
+    c "Nous...{w} C'est nous."
+
+
 translate french breakup_lilly_93af30ce:
 
-    # c "I don’t think this is working."
-    c ""
 
-# game/breakups.rpy:18
+    c "Je ne pense pas que ça marche."
+
+
 translate french breakup_lilly_030d74ce:
 
-    # l "What are you talking about?!"
-    l ""
 
-# game/breakups.rpy:19
+    l "De quoi tu parles ?"
+
+
 translate french breakup_lilly_0f13e93d:
 
-    # l "Of course it is."
-    l ""
 
-# game/breakups.rpy:20
+    l "Bien sûr que si."
+
+
 translate french breakup_lilly_8bef2e86:
 
-    # c "We have to end things, Lilly."
-    c ""
 
-# game/breakups.rpy:22
+    c "Il faut en finir, Lilly."
+
+
 translate french breakup_lilly_0c6284e1:
 
-    # l "No, we don’t."
-    l ""
 
-# game/breakups.rpy:23
+    l "Non, nous ne devons pas."
+
+
 translate french breakup_lilly_e037c471:
 
-    # l "Last time you told me how you loved me and now you’re saying we have to end things?"
-    l ""
 
-# game/breakups.rpy:24
+    l "La dernière fois, tu m'as dit à quel point tu m'aimais et maintenant tu dis qu'il faut en finir ?"
+
+
 translate french breakup_lilly_6df9dc3f:
 
-    # l "You’re not making any sense."
-    l ""
 
-# game/breakups.rpy:25
+    l "Tu n'as aucun sens."
+
+
 translate french breakup_lilly_80de82df:
 
-    # c "I have to make a choice."
-    c ""
 
-# game/breakups.rpy:27
+    c "Je dois faire un choix."
+
+
 translate french breakup_lilly_52ef2e5b:
 
-    # l "What choice?"
-    l ""
 
-# game/breakups.rpy:28
+    l "Quel choix ?"
+
+
 translate french breakup_lilly_b380ec2a:
 
-    # l "Is there someone else?{w} There’s someone else isn’t there?"
-    l ""
 
-# game/breakups.rpy:29
+    l "Il y a quelqu'un d'autre ?{w} Il y a quelqu'un d'autre, n'est-ce pas ?"
+
+
 translate french breakup_lilly_ad8d0c81:
 
-    # l "Who is it?"
-    l ""
 
-# game/breakups.rpy:30
+    l "Qui est-ce ?"
+
+
 translate french breakup_lilly_049d1dc1:
 
-    # c "It’s Céline."
-    c ""
 
-# game/breakups.rpy:32
+    c "C'est Céline."
+
+
 translate french breakup_lilly_6b419aaa:
 
-    # l "Oh."
-    l ""
 
-# game/breakups.rpy:33
+    l "Oh."
+
+
 translate french breakup_lilly_82822a0c:
 
-    # l "..."
-    l ""
 
-# game/breakups.rpy:35
+    l "..."
+
+
 translate french breakup_lilly_5e4a1d1a:
 
-    # l "You miserable piece of shit!"
-    l ""
 
-# game/breakups.rpy:36
+    l "Espèce de misérable !"
+
+
 translate french breakup_lilly_6cbc0c1b:
 
-    # l "First you seduce me into letting my guard down, telling me to follow my feelings."
-    l ""
 
-# game/breakups.rpy:37
+    l "D'abord, tu me séduis pour que je baisse ma garde, en me disant de suivre mes sentiments."
+
+
 translate french breakup_lilly_842e13b2:
 
-    # l "I gave myself completely to you [p_name]!"
-    l ""
 
-# game/breakups.rpy:38
+    l "Je me suis complètement donné à toi [p_name] !"
+
+
 translate french breakup_lilly_28bd81ff:
 
-    # l "And now you’re telling me you want to be with Céline."
-    l ""
 
-# game/breakups.rpy:39
+    l "Et maintenant, tu me dis que tu veux être avec Céline."
+
+
 translate french breakup_lilly_bc3babae:
 
-    # c "Yes, I-"
-    c ""
 
-# game/breakups.rpy:40
+    c "Oui, je..."
+
+
 translate french breakup_lilly_a22a784b:
 
-    # l "Well fuck you, you selfish fucking piece of trash."
-    l ""
 
-# game/breakups.rpy:41
+    l "Et bien va te faire foutre, espèce de sale égoïste."
+
+
 translate french breakup_lilly_3c7597f2:
 
-    # l "I hope you both choke."
-    l ""
 
-# game/breakups.rpy:42
+    l "J'espère que vous vous étoufferez tous les deux."
+
+
 translate french breakup_lilly_5681801e:
 
-    # c "I-"
-    c ""
 
-# game/breakups.rpy:44
+    c "I-"
+
+
 translate french breakup_lilly_e47b24d7:
 
-    # l "GET.{w} THE.{w} FUCK.{w} OUT.{w} OF.{w} HERE!"
-    l ""
 
-# game/breakups.rpy:46
+    l "SORS.{w} DU.{w} PUTAIN.{w} D'ICI.{w} !"
+
+
 translate french breakup_lilly_47e3b86d:
 
-    # "When I closed the door to her quarters, I heard something crash against the wall, followed by Lilly wailing in rage."
-    ""
 
-# game/breakups.rpy:55
+    "Lorsque j'ai fermé la porte de ses quartiers, j'ai entendu quelque chose s'écraser contre le mur, suivi par les gémissements de rage de Lilly."
+
+
 translate french breakup_aven_443c7b5a:
 
-    # av "Hey!"
-    av ""
 
-# game/breakups.rpy:56
+    av "Hé !"
+
+
 translate french breakup_aven_6190f4db:
 
-    # c "Hey."
-    c ""
 
-# game/breakups.rpy:58
+    c "Hé !"
+
+
 translate french breakup_aven_adfb5d9a:
 
-    # av "Why do you look so serious?"
-    av ""
 
-# game/breakups.rpy:59
+    av "Pourquoi as-tu l'air si sérieux ?"
+
+
 translate french breakup_aven_e7a195f0:
 
-    # c "I think it’s better if we sit down."
-    c ""
 
-# game/breakups.rpy:60
+    c "Je pense qu'il vaut mieux s'asseoir."
+
+
 translate french breakup_aven_d2036769:
 
-    # av "No, I’m fine right here."
-    av ""
 
-# game/breakups.rpy:61
+    av "Non, je suis très bien ici."
+
+
 translate french breakup_aven_501fb853:
 
-    # av "Say what you have to say."
-    av ""
 
-# game/breakups.rpy:62
+    av "Dis ce que tu as à dire."
+
+
 translate french breakup_aven_ef51c996:
 
-    # c "Aven, what we have."
-    c ""
 
-# game/breakups.rpy:63
+    c "Aven, ce que nous avons."
+
+
 translate french breakup_aven_113d904d:
 
-    # c "The relationship we have-"
-    c ""
 
-# game/breakups.rpy:64
+    c "La relation que nous avons..."
+
+
 translate french breakup_aven_7800539c:
 
-    # c "It has to stop."
-    c ""
 
-# game/breakups.rpy:66
+    c "Il faut que ça s'arrête."
+
+
 translate french breakup_aven_f9b46ebc:
 
-    # av "No.{w} No.{w} Why?"
-    av ""
 
-# game/breakups.rpy:67
+    av "Non.{w} Non.{w} Pourquoi ?"
+
+
 translate french breakup_aven_4d298c6c:
 
-    # av "I love you, you love me."
-    av ""
 
-# game/breakups.rpy:68
+    av "Je t'aime, tu m'aimes."
+
+
 translate french breakup_aven_2fd0f870:
 
-    # av "Why?"
-    av ""
 
-# game/breakups.rpy:69
+    av "Pourquoi ?"
+
+
 translate french breakup_aven_03ff6531:
 
-    # "It was hard to look her in the eye at that point, but I’d made my choice."
-    ""
 
-# game/breakups.rpy:70
+    "C'était difficile de la regarder dans les yeux à ce moment-là, mais j'avais fait mon choix."
+
+
 translate french breakup_aven_ace7db70:
 
-    # c "I can’t continue on like this."
-    c ""
 
-# game/breakups.rpy:72
+    c "Je ne peux pas continuer comme ça."
+
+
 translate french breakup_aven_1d84d1f8:
 
-    # av "But all the things you told me?"
-    av ""
 
-# game/breakups.rpy:73
+    av "Mais toutes les choses que tu m'as dites ?"
+
+
 translate french breakup_aven_91102c8b:
 
-    # av "Was that all bullshit?!"
-    av ""
 
-# game/breakups.rpy:74
+    av "C'était des conneries ?!"
+
+
 translate french breakup_aven_4e44c1d7:
 
-    # c "No, it wasn’t, but-"
-    c ""
 
-# game/breakups.rpy:76
+    c "Non, ce n'était pas ça, mais..."
+
+
 translate french breakup_aven_ed5905fd:
 
-    # av "But what?!"
-    av ""
 
-# game/breakups.rpy:77
+    av "Mais quoi ? !"
+
+
 translate french breakup_aven_8d1fb449:
 
-    # av "You’re not making any sense."
-    av ""
 
-# game/breakups.rpy:78
+    av "Tu n'as aucun sens."
+
+
 translate french breakup_aven_1759b413:
 
-    # c "There’s someone else and I have to make a choice."
-    c ""
 
-# game/breakups.rpy:80
+    c "Il y a quelqu'un d'autre et je dois faire un choix."
+
+
 translate french breakup_aven_0970c317:
 
-    # av "I see."
-    av ""
 
-# game/breakups.rpy:81
+    av "Je vois."
+
+
 translate french breakup_aven_7165c5f6:
 
-    # av "Leave."
-    av ""
 
-# game/breakups.rpy:84
+    av "Pars."
+
+
 translate french breakup_aven_0ab499a4:
 
-    # c "I’m sorry Aven."
-    c ""
 
-# game/breakups.rpy:86
+    c "Je suis désolée Aven."
+
+
 translate french breakup_aven_0bd99041:
 
-    # "In tears, she was silent and staring in disbelief as I exited her room."
-    ""
 
-# game/breakups.rpy:89
+    "En larmes, elle était silencieuse et me regardait avec incrédulité lorsque je suis sortie de sa chambre."
+
+
 translate french breakup_aven_7f019fed:
 
-    # c "There are good reasons why-"
-    c ""
 
-# game/breakups.rpy:91
+    c "Il y a de bonnes raisons pour lesquelles..."
+
+
 translate french breakup_aven_742945d4:
 
-    # av "LEAVE!"
-    av ""
 
-# game/breakups.rpy:93
+    av "PARS !"
+
+
 translate french breakup_aven_0219247f:
 
-    # "In tears, she all but pushed me outside of her room, slamming the door shut in my face."
-    ""
 
-# game/breakups.rpy:102
+    "En larmes, elle m'a presque poussée hors de sa chambre, en me claquant la porte au nez."
+
+
 translate french breakup_ziv_b575be86:
 
-    # zi "Ah, [p_name], I’ve just finished meditating."
-    zi ""
 
-# game/breakups.rpy:103
+    zi "Ah, [p_name], je viens de terminer ma méditation."
+
+
 translate french breakup_ziv_ca46f8ff:
 
-    # zi "Why do you look so grim?"
-    zi ""
 
-# game/breakups.rpy:104
+    zi "Pourquoi as-tu l'air si sombre ?"
+
+
 translate french breakup_ziv_ed068c79:
 
-    # c "May I set down?"
-    c ""
 
-# game/breakups.rpy:105
+    c "Je peux m'asseoir ?"
+
+
 translate french breakup_ziv_8a409928:
 
-    # zi "Of course."
-    zi ""
 
-# game/breakups.rpy:106
+    zi "Bien sûr, je peux m'asseoir."
+
+
 translate french breakup_ziv_e897fbb0:
 
-    # c "Thank you."
-    c ""
 
-# game/breakups.rpy:107
+    c "Je te remercie."
+
+
 translate french breakup_ziv_834c5a1d:
 
-    # c "Ziv...{w} I think we’ve made a mistake."
-    c ""
 
-# game/breakups.rpy:109
+    c "Ziv...{w}, je crois que nous avons fait une erreur."
+
+
 translate french breakup_ziv_308945d5:
 
-    # zi "We have?"
-    zi ""
 
-# game/breakups.rpy:110
+    zi "Vraiment ?"
+
+
 translate french breakup_ziv_1b7674fd:
 
-    # c "I feel like we’ve rushed into things and I went along with it."
-    c ""
 
-# game/breakups.rpy:111
+    c "J'ai l'impression que nous nous sommes précipités et que j'ai suivi le mouvement."
+
+
 translate french breakup_ziv_5014ee52:
 
-    # c "And I know this sounds capricious, but I’ve come to realize that my heart belongs to another."
-    c ""
 
-# game/breakups.rpy:113
+    c "Et je sais que cela semble capricieux, mais j'ai réalisé que mon cœur appartient à un autre."
+
+
 translate french breakup_ziv_0e11054b:
 
-    # zi "It does sound capricious, yes."
-    zi ""
 
-# game/breakups.rpy:114
+    zi "Cela semble capricieux, oui."
+
+
 translate french breakup_ziv_7dc108aa:
 
-    # zi "When did you come to this ‘sudden’ realization?"
-    zi ""
 
-# game/breakups.rpy:115
+    zi "Quand en es-tu arrivé à cette prise de conscience « soudaine » ?"
+
+
 translate french breakup_ziv_cc92bafa:
 
-    # zi "Don’t answer, I don’t really want to know."
-    zi ""
 
-# game/breakups.rpy:116
+    zi "Ne réponds pas, je ne veux pas vraiment savoir."
+
+
 translate french breakup_ziv_79452f68:
 
-    # zi "You disappoint me, [p_name], just like I feared you would."
-    zi ""
 
-# game/breakups.rpy:117
+    zi "Tu me déçois, [p_name], comme je le craignais."
+
+
 translate french breakup_ziv_d2614009:
 
-    # zi "The promises in that grove sounded hollow from the start."
-    zi ""
 
-# game/breakups.rpy:118
+    zi "Les promesses de ce bosquet sonnaient creux dès le départ."
+
+
 translate french breakup_ziv_6a6fed57:
 
-    # zi "But of course you had to take advantage of me back on Erigone."
-    zi ""
 
-# game/breakups.rpy:119
+    zi "Mais bien sûr, il fallait que tu profites de moi à Erigone."
+
+
 translate french breakup_ziv_db678f09:
 
-    # zi "Now that you sated your hunger, you’re looking for something else to prey upon."
-    zi ""
 
-# game/breakups.rpy:123
+    zi "Maintenant que tu as assouvi ta faim, tu cherches une autre proie."
+
+
 translate french breakup_ziv_ddbfa532:
 
-    # c "It’s nothing like that, I-"
-    c ""
 
-# game/breakups.rpy:125
+    c "Ce n'est pas ça, je..."
+
+
 translate french breakup_ziv_385cbf34:
 
-    # zi "Save your breath, [p_name], just go."
-    zi ""
 
-# game/breakups.rpy:126
+    zi "Économise ta salive, [p_name], va-t'en."
+
+
 translate french breakup_ziv_3c747d5f:
 
-    # "I complied and left Ziv in her room."
-    ""
 
-# game/breakups.rpy:128
+    "Je me suis exécutée et j'ai laissé Ziv dans sa chambre."
+
+
 translate french breakup_ziv_aa9d4825:
 
-    # c "Well, if you’d like to think that, be my guest."
-    c ""
 
-# game/breakups.rpy:130
+    c "Eh bien, si tu aimes penser cela, ne te gêne pas."
+
+
 translate french breakup_ziv_a9bbe8f1:
 
-    # zi "I’m sure your new conquest will be very happy, until you leave her for the next one."
-    zi ""
 
-# game/breakups.rpy:132
+    zi "Je suis sûr que ta nouvelle conquête sera très heureuse, jusqu'à ce que tu la quittes pour la suivante."
+
+
 translate french breakup_ziv_c2669875:
 
-    # "I didn’t reply to her last comment and left Ziv in her room, seething."
-    ""
 
-# game/breakups.rpy:141
+    "Je n'ai pas répondu à son dernier commentaire et j'ai laissé Ziv dans sa chambre, en colère."
+
+
 translate french breakup_raene_452f99ec:
 
-    # ra "[p_name_short]! I really need to show you something."
-    ra ""
 
-# game/breakups.rpy:142
+    ra "[p_name_short] ! Il faut vraiment que je te montre quelque chose."
+
+
 translate french breakup_raene_523780b1:
 
-    # c "Please, Raene, would you sit down with me?"
-    c ""
 
-# game/breakups.rpy:143
+    c "S'il te plaît, Raene, tu veux bien t'asseoir avec moi ?"
+
+
 translate french breakup_raene_2299a9c3:
 
-    # c "We need to talk."
-    c ""
 
-# game/breakups.rpy:145
+    c "Il faut qu'on parle."
+
+
 translate french breakup_raene_0be7e561:
 
-    # ra "About what?"
-    ra ""
 
-# game/breakups.rpy:147
+    ra "De quoi ?"
+
+
 translate french breakup_raene_e103a4ee:
 
-    # ra "Why are you looking so grim?"
-    ra ""
 
-# game/breakups.rpy:149
+    ra "Pourquoi as-tu l'air si sombre ?"
+
+
 translate french breakup_raene_f49a4e90:
 
-    # ra "I thought we could-"
-    ra ""
 
-# game/breakups.rpy:150
+    ra "Je pensais qu'on pouvait..."
+
+
 translate french breakup_raene_75afd862:
 
-    # c "Raene, this isn’t working for me, our relationship, I mean."
-    c ""
 
-# game/breakups.rpy:152
+    c "Raene, ça ne marche pas pour moi, notre relation, je veux dire."
+
+
 translate french breakup_raene_6d86855f:
 
-    # ra "What...{w} How? What isn’t working?"
-    ra ""
 
-# game/breakups.rpy:153
+    ra "Quoi...{w} Comment ? Qu'est-ce qui ne marche pas ?"
+
+
 translate french breakup_raene_49c52b21:
 
-    # c "I don’t know how to say it any other way, but I can’t continue on."
-    c ""
 
-# game/breakups.rpy:154
+    c "Je ne sais pas comment le dire autrement, mais je ne peux pas continuer."
+
+
 translate french breakup_raene_83874fc7:
 
-    # ra "Why not, is there something wrong?"
-    ra ""
 
-# game/breakups.rpy:155
+    ra "Pourquoi pas, il y a quelque chose qui ne va pas ?"
+
+
 translate french breakup_raene_a41d8dc6:
 
-    # ra "Is it something I did?"
-    ra ""
 
-# game/breakups.rpy:156
+    ra "Est-ce que c'est quelque chose que j'ai fait ?"
+
+
 translate french breakup_raene_bf557386:
 
-    # c "No, not at all."
-    c ""
 
-# game/breakups.rpy:157
+    c "Non, pas du tout."
+
+
 translate french breakup_raene_50fc356b:
 
-    # c "You’re a wonderful girl, Raene, and I wish you all the happiness you deserve."
-    c ""
 
-# game/breakups.rpy:158
+    c "Tu es une fille merveilleuse, Raene, et je te souhaite tout le bonheur que tu mérites."
+
+
 translate french breakup_raene_85b1f272:
 
-    # c "It’s just that I can’t be the one who makes you happy."
-    c ""
 
-# game/breakups.rpy:160
+    c "C'est juste que je ne peux pas être celui qui te rend heureuse."
+
+
 translate french breakup_raene_ea9c2a95:
 
-    # ra "But..."
-    ra ""
 
-# game/breakups.rpy:164
+    ra "Mais..."
+
+
 translate french breakup_raene_3bfb3c0f:
 
-    # c "There’s someone else, Raene, and I have to make a choice."
-    c ""
 
-# game/breakups.rpy:166
+    c "Il y a quelqu'un d'autre, Raene, et je dois faire un choix."
+
+
 translate french breakup_raene_67fb8317:
 
-    # ra "Do you?"
-    ra ""
 
-# game/breakups.rpy:167
+    ra "Et toi ?"
+
+
 translate french breakup_raene_9539ab88:
 
-    # ra "Why didn’t you choose me?"
-    ra ""
 
-# game/breakups.rpy:169
+    ra "Pourquoi ne m'as-tu pas choisi ?"
+
+
 translate french breakup_raene_dd37514e:
 
-    # ra "There’s something wrong with me, isn’t there?"
-    ra ""
 
-# game/breakups.rpy:170
+    ra "Il y a quelque chose qui ne va pas chez moi, n'est-ce pas ?"
+
+
 translate french breakup_raene_017535ee:
 
-    # c "No, absolutely not."
-    c ""
 
-# game/breakups.rpy:171
+    c "Non, absolument pas."
+
+
 translate french breakup_raene_af3f78fb:
 
-    # c "It’s just that I’m forced to make a choice and-"
-    c ""
 
-# game/breakups.rpy:173
+    c "C'est juste que je suis obligée de faire un choix et..."
+
+
 translate french breakup_raene_60b97793:
 
-    # c "I’m sorry, Raene."
-    c ""
 
-# game/breakups.rpy:174
+    c "Je suis désolé, Raene."
+
+
 translate french breakup_raene_dd1b110b:
 
-    # c "I really hope you find some-"
-    c ""
 
-# game/breakups.rpy:175
+    c "J'espère vraiment que tu trouveras..."
+
+
 translate french breakup_raene_fb1f9f76:
 
-    # ra "Please go away, [p_name]."
-    ra ""
 
-# game/breakups.rpy:177
+    ra "S'il te plaît, va-t-en, [p_name]."
+
+
 translate french breakup_raene_6d2e8b7e:
 
-    # "Raene spoke her last words with such finality that I could only do as she asked."
-    ""
 
-# game/breakups.rpy:178
+    "Raene a prononcé ses derniers mots de façon si définitive que je n'ai pu que faire ce qu'elle demandait."
+
+
 translate french breakup_raene_335eac3a:
 
-    # "She was sobbing uncontrollably by the time I closed the door behind me."
-    ""
 
-# game/breakups.rpy:187
+    "Elle sanglotait de façon incontrôlable lorsque j'ai refermé la porte derrière moi."
+
+
 translate french breakup_thyia_877a09cd:
 
-    # th "Oh, [p_name_short], could you hand me that spanner?"
-    th ""
 
-# game/breakups.rpy:188
+    th "Oh, [p_name_short], peux-tu me passer cette clé à molette ?"
+
+
 translate french breakup_thyia_e0323b8d:
 
-    # c "Could you stop what you’re doing for a moment?"
-    c ""
 
-# game/breakups.rpy:189
+    c "Pourrais-tu arrêter ce que tu es en train de faire un instant ?"
+
+
 translate french breakup_thyia_c16eb3f1:
 
-    # th "What, why?"
-    th ""
 
-# game/breakups.rpy:191
+    th "Quoi, pourquoi ?"
+
+
 translate french breakup_thyia_6fabf92e:
 
-    # th "You look like you’ve swallowed something terrible."
-    th ""
 
-# game/breakups.rpy:192
+    th "On dirait que tu as avalé quelque chose de terrible."
+
+
 translate french breakup_thyia_8b02937d:
 
-    # th "Seriously, [p_name_short], what’s the matter?"
-    th ""
 
-# game/breakups.rpy:193
+    th "Sérieusement, [p_name_short], qu'est-ce qu'il y a ?"
+
+
 translate french breakup_thyia_71a03f3b:
 
-    # c "It’s us."
-    c ""
 
-# game/breakups.rpy:195
+    c "C'est nous."
+
+
 translate french breakup_thyia_3d9b1832:
 
-    # th "Us?"
-    th ""
 
-# game/breakups.rpy:196
+    th "Nous ?"
+
+
 translate french breakup_thyia_f8795997:
 
-    # th "I’m warning you, the next few words that come out of your mouth better be good."
-    th ""
 
-# game/breakups.rpy:197
+    th "Je te préviens, les prochains mots qui sortiront de ta bouche ont intérêt à être bons."
+
+
 translate french breakup_thyia_ddbebc15:
 
-    # c "I want to break up with you."
-    c ""
 
-# game/breakups.rpy:199
+    c "Je veux rompre avec toi."
+
+
 translate french breakup_thyia_3dea4a02:
 
-    # th "Yeah...{w} How about no?"
-    th ""
 
-# game/breakups.rpy:203
+    th "Oui...{w} Et pourquoi pas non ?"
+
+
 translate french breakup_thyia_0370cdcf:
 
-    # c "There’s someone else in my life."
-    c ""
 
-# game/breakups.rpy:204
+    c "Il y a quelqu'un d'autre dans ma vie."
+
+
 translate french breakup_thyia_cfa0282e:
 
-    # c "I didn’t want to choose between you both, but the situation has forced my hand."
-    c ""
 
-# game/breakups.rpy:206
+    c "Je ne voulais pas choisir entre vous deux, mais la situation m'a forcé la main."
+
+
 translate french breakup_thyia_67f7933a:
 
-    # c "It simply isn’t working for me."
-    c ""
 
-# game/breakups.rpy:208
+    c "Ça ne marche tout simplement pas pour moi."
+
+
 translate french breakup_thyia_e861757d:
 
-    # th "Oh fuck off, [p_name]."
-    th ""
 
-# game/breakups.rpy:209
+    th "Oh, va te faire foutre, [p_name]."
+
+
 translate french breakup_thyia_f31897b1:
 
-    # th "Just tell me the truth."
-    th ""
 
-# game/breakups.rpy:210
+    th "Dis-moi simplement la vérité."
+
+
 translate french breakup_thyia_fd0ee940:
 
-    # th "Tell me that you’ve found someone else and you want to be with her."
-    th ""
 
-# game/breakups.rpy:211
+    th "Dis-moi que tu as trouvé quelqu'un d'autre et que tu veux être avec elle."
+
+
 translate french breakup_thyia_50a1780a:
 
-    # th "Don’t offend me with your bullshit."
-    th ""
 
-# game/breakups.rpy:212
+    th "Ne m'offense pas avec tes conneries."
+
+
 translate french breakup_thyia_49034cd7:
 
-    # c "Okay, there’s someone else."
-    c ""
 
-# game/breakups.rpy:214
+    c "D'accord, il y a quelqu'un d'autre."
+
+
 translate french breakup_thyia_72ab3ab5:
 
-    # "Thyia remained eerily calm while she spoke next."
-    ""
 
-# game/breakups.rpy:215
+    "Thyia est restée étrangement calme pendant qu'elle parlait."
+
+
 translate french breakup_thyia_446fa45e:
 
-    # th "I knew I was a fool to trust someone again."
-    th ""
 
-# game/breakups.rpy:216
+    th "Je savais que j'étais idiote de faire à nouveau confiance à quelqu'un."
+
+
 translate french breakup_thyia_0e4c7e20:
 
-    # th "Thank you for making me see the error of my ways."
-    th ""
 
-# game/breakups.rpy:217
+    th "Merci de m'avoir fait comprendre mon erreur."
+
+
 translate french breakup_thyia_2e68660c:
 
-    # th "Now, before I do something I might regret, I’ll tell you how we interact with each other from now on."
-    th ""
 
-# game/breakups.rpy:218
+    th "Maintenant, avant que je ne fasse quelque chose que je pourrais regretter, je vais te dire comment nous interagirons les uns avec les autres à partir de maintenant."
+
+
 translate french breakup_thyia_6f867595:
 
-    # th "I’ll keep the ship running and won’t get in your way, if you don’t get in mine."
-    th ""
 
-# game/breakups.rpy:219
+    th "Je ferai marcher le vaisseau et je ne te gênerai pas, si tu ne me gênes pas."
+
+
 translate french breakup_thyia_87297ba9:
 
-    # th "We’ll speak to each other when the need arises, but other than that I don’t want to hear a fucking thing from you."
-    th ""
 
-# game/breakups.rpy:220
+    th "Nous nous parlerons quand le besoin s'en fera sentir, mais à part ça, je ne veux rien entendre de toi."
+
+
 translate french breakup_thyia_4224ab6a:
 
-    # th "We’re not doing the friend thing or even small talk."
-    th ""
 
-# game/breakups.rpy:221
+    th "On ne fait pas dans l'amitié, ni même dans la petite conversation."
+
+
 translate french breakup_thyia_73a1c791:
 
-    # th "Just business."
-    th ""
 
-# game/breakups.rpy:222
+    th "C'est juste du business."
+
+
 translate french breakup_thyia_70e54566:
 
-    # th "Agreed?"
-    th ""
 
-# game/breakups.rpy:223
+    th "Tu es d'accord ?"
+
+
 translate french breakup_thyia_88df38a7:
 
-    # c "Agreed."
-    c ""
 
-# game/breakups.rpy:224
+    c "D'accord."
+
+
 translate french breakup_thyia_32373670:
 
-    # th "Good.{w} Now fuck off."
-    th ""
 
-# game/breakups.rpy:226
+    th "Bien.{w} Maintenant, va te faire foutre."
+
+
 translate french breakup_thyia_f99b0ab0:
 
-    # "Thyia went back to her machinery as soon as I turned my back."
-    ""
 
-# game/breakups.rpy:227
+    "Thyia est retournée à ses machines dès que j'ai eu le dos tourné."
+
+
 translate french breakup_thyia_93deed4d:
 
-    # "I thought she was crying, because of the way her shoulder shook."
-    ""
 
-# game/breakups.rpy:229
+    "J'ai cru qu'elle pleurait, à cause de la façon dont son épaule tremblait."
+
+
 translate french breakup_thyia_c47926c3:
 
-    # "Any thought of that was gone immediately when she turned around and glared at me."
-    ""
 
-# game/breakups.rpy:230
+    "Cette idée a disparu immédiatement lorsqu'elle s'est retournée et m'a jeté un regard noir."
+
+
 translate french breakup_thyia_7bc5532e:
 
-    # "She stared at me in thinly-veiled disgust as I retreated from the engine room."
-    ""
 
-# game/breakups.rpy:239
+    "Elle m'a dévisagé avec un dégoût à peine voilé alors que je reculais de la salle des machines."
+
+
 translate french breakup_vess_209805c1:
 
-    # c "Hey Vess, do you have a minute?"
-    c ""
 
-# game/breakups.rpy:241
+    c "Vess, tu as une minute ?"
+
+
 translate french breakup_vess_4f172546:
 
-    # ve "How can you ask, for you always!"
-    ve ""
 
-# game/breakups.rpy:242
+    ve "Comment peux-tu demander, car tu es toujours là !"
+
+
 translate french breakup_vess_8516f17c:
 
-    # ve "If you have the time, maybe we could get a little more cozy?"
-    ve ""
 
-# game/breakups.rpy:243
+    ve "Si tu as le temps, on pourrait peut-être se rapprocher un peu plus ?"
+
+
 translate french breakup_vess_1c844a0b:
 
-    # c "Vess, please."
-    c ""
 
-# game/breakups.rpy:245
+    c "Vess, s'il te plaît."
+
+
 translate french breakup_vess_6ec3dbe0:
 
-    # ve "What, did I say something wrong?"
-    ve ""
 
-# game/breakups.rpy:246
+    ve "Quoi, j'ai dit quelque chose de mal ?"
+
+
 translate french breakup_vess_c4bdda27:
 
-    # c "No, not really."
-    c ""
 
-# game/breakups.rpy:247
+    c "Non, pas vraiment."
+
+
 translate french breakup_vess_d9a542f2:
 
-    # c "I hate to do this to you like this, but it can’t be helped."
-    c ""
 
-# game/breakups.rpy:249
+    c "Je déteste te faire ça comme ça, mais on ne peut rien y faire."
+
+
 translate french breakup_vess_233190fd:
 
-    # ve "What can’t be helped, why are you looking so serious?"
-    ve ""
 
-# game/breakups.rpy:250
+    ve "Ce qui ne peut pas être aidé, c'est pourquoi tu as l'air si sérieux ?"
+
+
 translate french breakup_vess_8c2aeaa3:
 
-    # c "Because I have to end our relationship, Vess."
-    c ""
 
-# game/breakups.rpy:252
+    c "Parce que je dois mettre fin à notre relation, Vess."
+
+
 translate french breakup_vess_314765c9:
 
-    # ve "What?!"
-    ve ""
 
-# game/breakups.rpy:253
+    ve "Quoi ?"
+
+
 translate french breakup_vess_9d207ba4:
 
-    # c "I have thought long and hard about it, but we can’t go on like this."
-    c ""
 
-# game/breakups.rpy:255
+    c "J'y ai longuement réfléchi, mais nous ne pouvons pas continuer ainsi."
+
+
 translate french breakup_vess_d0ebe124:
 
-    # ve "But why?"
-    ve ""
 
-# game/breakups.rpy:256
+    ve "Mais pourquoi ?"
+
+
 translate french breakup_vess_a821530e:
 
-    # ve "Is it because you don’t trust me?"
-    ve ""
 
-# game/breakups.rpy:257
+    ve "Est-ce parce que tu ne me fais pas confiance ?"
+
+
 translate french breakup_vess_26c91f72:
 
-    # ve "It is, isn’t it?"
-    ve ""
 
-# game/breakups.rpy:258
+    ve "C'est vrai, n'est-ce pas ?"
+
+
 translate french breakup_vess_6fc0684c:
 
-    # ve "I don’t know what else I can do to make amends."
-    ve ""
 
-# game/breakups.rpy:259
+    ve "Je ne sais pas ce que je peux faire d'autre pour me racheter."
+
+
 translate french breakup_vess_17cef3c0:
 
-    # ve "But you know I want to try."
-    ve ""
 
-# game/breakups.rpy:260
+    ve "Mais tu sais que je veux essayer."
+
+
 translate french breakup_vess_cff9bf98:
 
-    # ve "Isn’t that enough, [p_name]?"
-    ve ""
 
-# game/breakups.rpy:261
+    ve "N'est-ce pas suffisant, [p_name] ?"
+
+
 translate french breakup_vess_495fb72d:
 
-    # c "It’s not about you, Vess."
-    c ""
 
-# game/breakups.rpy:262
+    c "Il ne s'agit pas de toi, Vess."
+
+
 translate french breakup_vess_f6a64ef9:
 
-    # c "It’s a decision I made, which I was forced to make."
-    c ""
 
-# game/breakups.rpy:264
+    c "C'est une décision que j'ai prise, que j'ai été forcée de prendre."
+
+
 translate french breakup_vess_7ea8d4e2:
 
-    # ve "Forced?"
-    ve ""
 
-# game/breakups.rpy:265
+    ve "Forcé ?"
+
+
 translate french breakup_vess_5d2f9fb7:
 
-    # c "I’m in love with someone else."
-    c ""
 
-# game/breakups.rpy:266
+    c "Je suis amoureux de quelqu'un d'autre."
+
+
 translate french breakup_vess_a6730577:
 
-    # ve "Oh..."
-    ve ""
 
-# game/breakups.rpy:267
+    ve "Oh..."
+
+
 translate french breakup_vess_4604da78:
 
-    # ve "But you didn’t..."
-    ve ""
 
-# game/breakups.rpy:268
+    ve "Mais tu n'as pas..."
+
+
 translate french breakup_vess_c5f100c5:
 
-    # ve "But..."
-    ve ""
 
-# game/breakups.rpy:269
+    ve "Mais..."
+
+
 translate french breakup_vess_91eebadd:
 
-    # c "I should have told you about my feelings for her."
-    c ""
 
-# game/breakups.rpy:270
+    c "J'aurais dû te parler de mes sentiments pour elle."
+
+
 translate french breakup_vess_09990835:
 
-    # c "But what’s done is done."
-    c ""
 
-# game/breakups.rpy:272
+    c "Mais ce qui est fait est fait."
+
+
 translate french breakup_vess_0e168e7d:
 
-    # ve "I...{w} I understand."
-    ve ""
 
-# game/breakups.rpy:273
+    ve "Je...{w} Je comprends."
+
+
 translate french breakup_vess_37832318:
 
-    # ve "Could you leave me alone now?"
-    ve ""
 
-# game/breakups.rpy:274
+    ve "Peux-tu me laisser seule maintenant ?"
+
+
 translate french breakup_vess_54b63575:
 
-    # ve "I need to be alone."
-    ve ""
 
-# game/breakups.rpy:275
+    ve "J'ai besoin d'être seul."
+
+
 translate french breakup_vess_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/breakups.rpy:277
+    c "Bien sûr."
+
+
 translate french breakup_vess_d7638ec7:
 
-    # "After I closed the door, I could hear Vess crying with abandon."
-    ""
 
-# game/breakups.rpy:278
+    "Après avoir fermé la porte, j'ai entendu Vess pleurer avec abandon."
+
+
 translate french breakup_vess_91a13ecf:
 
-    # "Resisting the urge to go back in and comfort her, I made my way back to my quarters."
-    ""
 
-# game/breakups.rpy:286
+    "Résistant à l'envie de retourner la réconforter, je suis retournée dans mes quartiers."
+
+
 translate french breakup_nadya_d7669a36:
 
-    # c "I need to tell you something."
-    c ""
 
-# game/breakups.rpy:287
+    c "Il faut que je te dise quelque chose."
+
+
 translate french breakup_nadya_123344a8:
 
-    # c "It might be better if you sit down."
-    c ""
 
-# game/breakups.rpy:289
+    c "Il vaudrait mieux que tu t'assoies."
+
+
 translate french breakup_nadya_09362606:
 
-    # na "Okay..."
-    na ""
 
-# game/breakups.rpy:290
+    na "D'accord..."
+
+
 translate french breakup_nadya_3efe0ac3:
 
-    # c "I realize this might sound callous, but our relationship, it has to end."
-    c ""
 
-# game/breakups.rpy:291
+    c "Je sais que ça peut paraître insensible, mais notre relation doit cesser."
+
+
 translate french breakup_nadya_cdf6f71a:
 
-    # na "You don’t mince words, do you?"
-    na ""
 
-# game/breakups.rpy:292
+    na "Tu ne mâches pas tes mots, n'est-ce pas ?"
+
+
 translate french breakup_nadya_eb51bd5d:
 
-    # c "I just wanted to speak plainly."
-    c ""
 
-# game/breakups.rpy:294
+    c "Je voulais juste parler franchement."
+
+
 translate french breakup_nadya_154ec566:
 
-    # na "How very mature of you."
-    na ""
 
-# game/breakups.rpy:295
+    na "C'est très mature de ta part."
+
+
 translate french breakup_nadya_247086c5:
 
-    # na "Did you get bored of me already?"
-    na ""
 
-# game/breakups.rpy:296
+    na "Tu t'es déjà lassée de moi ?"
+
+
 translate french breakup_nadya_33bec90c:
 
-    # na "Found something better?"
-    na ""
 
-# game/breakups.rpy:298
+    na "Tu as trouvé quelque chose de mieux ?"
+
+
 translate french breakup_nadya_440730be:
 
-    # c "No mom, it isn’t like that."
-    c ""
 
-# game/breakups.rpy:300
+    c "Non maman, ce n'est pas comme ça."
+
+
 translate french breakup_nadya_e2186711:
 
-    # c "No, it isn’t like that."
-    c ""
 
-# game/breakups.rpy:302
+    c "Non, ce n'est pas comme ça."
+
+
 translate french breakup_nadya_1e3913ba:
 
-    # na "Well, it sure sounds like it to me."
-    na ""
 
-# game/breakups.rpy:305
+    na "En tout cas, ça m'en a tout l'air."
+
+
 translate french breakup_nadya_fdb95508:
 
-    # na "You’ve tasted of the forbidden and now want something else."
-    na ""
 
-# game/breakups.rpy:307
+    na "Tu as goûté à l'interdit et tu veux maintenant autre chose."
+
+
 translate french breakup_nadya_df277e26:
 
-    # na "You’ve had your taste and now want something else."
-    na ""
 
-# game/breakups.rpy:309
+    na "Tu as goûté et tu veux maintenant autre chose."
+
+
 translate french breakup_nadya_20629000:
 
-    # na "It’s because of my age, isn’t it?"
-    na ""
 
-# game/breakups.rpy:310
+    na "C'est à cause de mon âge, n'est-ce pas ?"
+
+
 translate french breakup_nadya_193c4aa2:
 
-    # c "No, it’s not that, honestly."
-    c ""
 
-# game/breakups.rpy:312
+    c "Non, ce n'est pas ça, honnêtement."
+
+
 translate french breakup_nadya_c48bf2d5:
 
-    # na "You know what, I don’t care."
-    na ""
 
-# game/breakups.rpy:313
+    na "Tu sais quoi, je m'en fiche."
+
+
 translate french breakup_nadya_377a7f9b:
 
-    # na "I never should have opened up to you like that, it was bound to be a disappointment."
-    na ""
 
-# game/breakups.rpy:315
+    na "Je n'aurais jamais dû m'ouvrir à toi comme ça, c'était forcément une déception."
+
+
 translate french breakup_nadya_447b54ad:
 
-    # c "Mother..."
-    c ""
 
-# game/breakups.rpy:317
+    c "Mère..."
+
+
 translate french breakup_nadya_cc1af782:
 
-    # c "Nadya..."
-    c ""
 
-# game/breakups.rpy:319
+    c "Nadya..."
+
+
 translate french breakup_nadya_3b853f3d:
 
-    # na "I’m not blaming you even, I should have been more careful."
-    na ""
 
-# game/breakups.rpy:320
+    na "Je ne te blâme même pas, j'aurais dû être plus prudente."
+
+
 translate french breakup_nadya_93310ed6:
 
-    # na "I just wish you thought of your concerns earlier, it would have saved us both a lot of pain."
-    na ""
 
-# game/breakups.rpy:321
+    na "J'aurais juste aimé que tu penses à tes préoccupations plus tôt, cela nous aurait épargné beaucoup de peine à tous les deux."
+
+
 translate french breakup_nadya_ea2e9aef:
 
-    # c "I know and I’m sorry."
-    c ""
 
-# game/breakups.rpy:322
+    c "Je sais et je suis désolée."
+
+
 translate french breakup_nadya_27fd475c:
 
-    # c "Please understand I didn’t come to this decision lightly."
-    c ""
 
-# game/breakups.rpy:324
+    c "Comprends que je n'ai pas pris cette décision à la légère."
+
+
 translate french breakup_nadya_138d70b7:
 
-    # na "There’s someone else, isn’t there?"
-    na ""
 
-# game/breakups.rpy:325
+    na "Il y a quelqu'un d'autre, n'est-ce pas ?"
+
+
 translate french breakup_nadya_29b2589a:
 
-    # c "Yes, there is."
-    c ""
 
-# game/breakups.rpy:327
+    c "Oui, il y a quelqu'un d'autre."
+
+
 translate french breakup_nadya_4141727e:
 
-    # na "I thought as much."
-    na ""
 
-# game/breakups.rpy:328
+    na "C'est ce que je pensais."
+
+
 translate french breakup_nadya_aff1075a:
 
-    # na "She asked you to break things off?"
-    na ""
 
-# game/breakups.rpy:329
+    na "Elle t'a demandé de rompre ?"
+
+
 translate french breakup_nadya_7961aac6:
 
-    # c "She did."
-    c ""
 
-# game/breakups.rpy:330
+    c "Elle me l'a demandé."
+
+
 translate french breakup_nadya_d17db83d:
 
-    # na "Well, I understand her position."
-    na ""
 
-# game/breakups.rpy:331
+    na "Je comprends sa position."
+
+
 translate french breakup_nadya_6a0fae82:
 
-    # na "You’ve appeared to make your choice and you should live by it."
-    na ""
 
-# game/breakups.rpy:332
+    na "Tu es apparu pour faire ton choix et tu dois t'y tenir."
+
+
 translate french breakup_nadya_49a26f5f:
 
-    # na "I want you to promise to maker her as happy as you possibly can and don’t let her down."
-    na ""
 
-# game/breakups.rpy:333
+    na "Je veux que tu me promettes de la rendre aussi heureuse que possible et de ne pas la laisser tomber."
+
+
 translate french breakup_nadya_94ccfb49:
 
-    # c "I won’t, I promise."
-    c ""
 
-# game/breakups.rpy:334
+    c "Je ne la décevrai pas, je le promets."
+
+
 translate french breakup_nadya_ccb084fe:
 
-    # na "Good."
-    na ""
 
-# game/breakups.rpy:336
+    na "C'est bien."
+
+
 translate french breakup_nadya_19ee6d5b:
 
-    # na "Could you leave me alone now, please?"
-    na ""
 
-# game/breakups.rpy:338
+    na "Pourriez-vous me laisser seule maintenant, s'il vous plaît ?"
+
+
 translate french breakup_nadya_e3ee3918:
 
-    # "I left my mother."
-    ""
 
-# game/breakups.rpy:340
+    "J'ai quitté ma mère."
+
+
 translate french breakup_nadya_10e0f1df:
 
-    # "I left Nadya."
-    ""
 
-# game/breakups.rpy:342
+    "J'ai quitté Nadya."
+
+
 translate french breakup_nadya_6052a82f:
 
-    # "Despite her firm voice just earlier, I heard her break down after closing the door."
-    ""
 
-# game/breakups.rpy:343
+    "Malgré la fermeté de sa voix tout à l'heure, je l'ai entendue s'effondrer après avoir fermé la porte."
+
+
 translate french breakup_nadya_b8504e1e:
 
-    # "Her heartfelt sobs haunted me all the way back to my quarters."
-    ""
 
-# game/breakups.rpy:352
+    "Ses sanglots sincères m'ont hanté jusqu'à mes quartiers."
+
+
 translate french breakup_celine_5610718f:
 
-    # ce "Hey, [p_name_short]."
-    ce ""
 
-# game/breakups.rpy:353
+    ce "Hé, [p_name_short]."
+
+
 translate french breakup_celine_6190f4db:
 
-    # c "Hey."
-    c ""
 
-# game/breakups.rpy:354
+    c "Hé !"
+
+
 translate french breakup_celine_baa13475:
 
-    # ce "Why are you looking at me like that?"
-    ce ""
 
-# game/breakups.rpy:355
+    ce "Pourquoi me regardes-tu comme ça ?"
+
+
 translate french breakup_celine_5c84cc48:
 
-    # ce "Is something the matter?"
-    ce ""
 
-# game/breakups.rpy:356
+    ce "Il y a un problème ?"
+
+
 translate french breakup_celine_efd090e2:
 
-    # c "Céline, we need to talk, about you and me."
-    c ""
 
-# game/breakups.rpy:358
+    c "Céline, il faut qu'on parle, de toi et moi."
+
+
 translate french breakup_celine_3bdd7b97:
 
-    # ce "Oh?"
-    ce ""
 
-# game/breakups.rpy:359
+    ce "Oh ?"
+
+
 translate french breakup_celine_57cae3c7:
 
-    # c "It's not working for me anymore."
-    c ""
 
-# game/breakups.rpy:360
+    c "Ça ne marche plus pour moi."
+
+
 translate french breakup_celine_06c84469:
 
-    # c "I've come to realize my feelings for you aren't as strong as they once were."
-    c ""
 
-# game/breakups.rpy:361
+    c "Je me suis rendu compte que mes sentiments pour toi ne sont plus aussi forts qu'avant."
+
+
 translate french breakup_celine_67e47fe9:
 
-    # ce "This can't be right."
-    ce ""
 
-# game/breakups.rpy:362
+    ce "Ce n'est pas possible."
+
+
 translate french breakup_celine_f131cf82:
 
-    # ce "Are you feeling alright, did something happen back on your father's ship?"
-    ce ""
 
-# game/breakups.rpy:363
+    ce "Tu te sens bien, il s'est passé quelque chose sur le vaisseau de ton père ?"
+
+
 translate french breakup_celine_f5b35eee:
 
-    # c "Nothing happened."
-    c ""
 
-# game/breakups.rpy:364
+    c "Il ne s'est rien passé."
+
+
 translate french breakup_celine_5f0b7414:
 
-    # c "My feelings towards you have just changed."
-    c ""
 
-# game/breakups.rpy:366
+    c "Mes sentiments à ton égard ont juste changé."
+
+
 translate french breakup_celine_21957598:
 
-    # ce "What about all those nights we spent together?!"
-    ce ""
 
-# game/breakups.rpy:367
+    ce "Et toutes ces nuits que nous avons passées ensemble ?!"
+
+
 translate french breakup_celine_480c773b:
 
-    # ce "You're lying, I can see it in your eyes!"
-    ce ""
 
-# game/breakups.rpy:368
+    ce "Tu mens, je le vois dans tes yeux !"
+
+
 translate french breakup_celine_f33dc7b4:
 
-    # ce "You're lying to me, to yourself."
-    ce ""
 
-# game/breakups.rpy:369
+    ce "Tu me mens, tu te mens à toi-même."
+
+
 translate french breakup_celine_dad94cdb:
 
-    # c "I have to end things, there's no other way."
-    c ""
 
-# game/breakups.rpy:370
+    c "Je dois en finir, il n'y a pas d'autre solution."
+
+
 translate french breakup_celine_e0342ec2:
 
-    # ce "What happened?"
-    ce ""
 
-# game/breakups.rpy:371
+    ce "Qu'est-ce qui s'est passé ?"
+
+
 translate french breakup_celine_f2f16b6b:
 
-    # c "I've found someone else, that's all I can say."
-    c ""
 
-# game/breakups.rpy:373
+    c "J'ai trouvé quelqu'un d'autre, c'est tout ce que je peux dire."
+
+
 translate french breakup_celine_8fc38651:
 
-    # ce "And she's making you do this?"
-    ce ""
 
-# game/breakups.rpy:374
+    ce "Et c'est elle qui te fait faire ça ?"
+
+
 translate french breakup_celine_6ec5eda3:
 
-    # ce "What we had was true, [p_name_short], and you're throwing it all away."
-    ce ""
 
-# game/breakups.rpy:375
+    ce "Ce que nous avions était vrai, [p_name_short], et tu es en train de tout gâcher."
+
+
 translate french breakup_celine_58002698:
 
-    # ce "Who's making you do this?"
-    ce ""
 
-# game/breakups.rpy:376
+    ce "Qui t'oblige à faire ça ?"
+
+
 translate french breakup_celine_08d4720b:
 
-    # c "I can't tell."
-    c ""
 
-# game/breakups.rpy:378
+    c "Je ne peux pas le dire."
+
+
 translate french breakup_celine_f90fa858:
 
-    # ce "Coward!"
-    ce ""
 
-# game/breakups.rpy:379
+    ce "Lâche !"
+
+
 translate french breakup_celine_d3e290cc:
 
-    # ce "I demand you tell me."
-    ce ""
 
-# game/breakups.rpy:380
+    ce "J'exige que tu me le dises."
+
+
 translate french breakup_celine_c318e691:
 
-    # ce "I have a right to know!"
-    ce ""
 
-# game/breakups.rpy:381
+    ce "J'ai le droit de savoir !"
+
+
 translate french breakup_celine_b1961263:
 
-    # c "No, you don't."
-    c ""
 
-# game/breakups.rpy:382
+    c "Non, tu n'as pas le droit."
+
+
 translate french breakup_celine_55079b6b:
 
-    # c "I'm sorry, Céline."
-    c ""
 
-# game/breakups.rpy:383
+    c "Je suis désolé, Céline."
+
+
 translate french breakup_celine_e4326d46:
 
-    # "Unable to comfort her in any way, I walked out of Céline's quarters."
-    ""
 
-# game/breakups.rpy:385
+    "Incapable de la réconforter de quelque façon que ce soit, je suis sorti des quartiers de Céline."
+
+
 translate french breakup_celine_6aeb82fb:
 
-    # ce "She won't make you happy!"
-    ce ""
 
-# game/breakups.rpy:386
+    ce "Elle ne te rendra pas heureuse !"
+
+
 translate french breakup_celine_d19301fd:
 
-    # ce "I'm the one for you, [p_name_short]."
-    ce ""
 
-# game/breakups.rpy:387
+    ce "Je suis celui qu'il te faut, [p_name_short]."
+
+
 translate french breakup_celine_054cf9c4:
 
-    # ce "I'm the only one who can make you happy."
-    ce ""
 
-# game/breakups.rpy:388
+    ce "Je suis le seul à pouvoir te rendre heureuse."
+
+
 translate french breakup_celine_4efe6d8b:
 
-    # ce "Come back, please!"
-    ce ""
 
-# game/breakups.rpy:390
+    ce "Reviens, s'il te plaît !"
+
+
 translate french breakup_celine_cac034fc:
 
-    # "I hurried through the corridors of the ship, away from her increasingly desperate pleas."
-    ""
 
-# game/breakups.rpy:406
+    "Je me suis précipitée dans les couloirs du vaisseau, loin de ses supplications de plus en plus désespérées."
+
+
 translate french breakup_jade_83b650fb:
 
-    # j "Do you want to have some fun?"
-    j ""
 
-# game/breakups.rpy:407
+    j "Tu veux t'amuser un peu ?"
+
+
 translate french breakup_jade_7b91b1bf:
 
-    # c "No Jade, I just wanted to talk."
-    c ""
 
-# game/breakups.rpy:409
+    c "Non Jade, je voulais juste parler."
+
+
 translate french breakup_jade_789e65fd:
 
-    # j "Talk about what?"
-    j ""
 
-# game/breakups.rpy:410
+    j "Parler de quoi ?"
+
+
 translate french breakup_jade_5474d622:
 
-    # c "About us."
-    c ""
 
-# game/breakups.rpy:412
+    c "De nous."
+
+
 translate french breakup_jade_32e7407c:
 
-    # j "Okay..."
-    j ""
 
-# game/breakups.rpy:413
+    j "D'accord..."
+
+
 translate french breakup_jade_0bc4ced0:
 
-    # c "Our relationship, I have to end it."
-    c ""
 
-# game/breakups.rpy:415
+    c "Notre relation, je dois y mettre fin."
+
+
 translate french breakup_jade_2fdefc32:
 
-    # j "Why?"
-    j ""
 
-# game/breakups.rpy:416
+    j "Pourquoi ?"
+
+
 translate french breakup_jade_026a14f9:
 
-    # c "I’m seeing someone else and it’s getting serious."
-    c ""
 
-# game/breakups.rpy:417
+    c "Je vois quelqu'un d'autre et ça devient sérieux."
+
+
 translate french breakup_jade_c4412c0e:
 
-    # c "Serious enough that there isn’t room for anything else."
-    c ""
 
-# game/breakups.rpy:418
+    c "Assez sérieux pour qu'il n'y ait plus de place pour autre chose."
+
+
 translate french breakup_jade_7988685c:
 
-    # j "That didn’t stop you before, what changed?"
-    j ""
 
-# game/breakups.rpy:419
+    j "Ça ne t'arrêtait pas avant, qu'est-ce qui a changé ?"
+
+
 translate french breakup_jade_851c3635:
 
-    # c "Everything, Jade."
-    c ""
 
-# game/breakups.rpy:420
+    c "Tout, Jade."
+
+
 translate french breakup_jade_5d938c19:
 
-    # c "You deserve a chance with someone else."
-    c ""
 
-# game/breakups.rpy:422
+    c "Tu mérites une chance avec quelqu'un d'autre."
+
+
 translate french breakup_jade_7a69cd3d:
 
-    # j "I don’t want to."
-    j ""
 
-# game/breakups.rpy:423
+    j "Je n'en ai pas envie."
+
+
 translate french breakup_jade_c422d5aa:
 
-    # j "I love you [p_name], I always have."
-    j ""
 
-# game/breakups.rpy:424
+    j "Je t'aime [p_name], je t'ai toujours aimée."
+
+
 translate french breakup_jade_fa5fd35a:
 
-    # j "You said you love me too and now you’re about to throw that all away?"
-    j ""
 
-# game/breakups.rpy:425
+    j "Tu as dit que tu m'aimais aussi et maintenant tu es sur le point de tout gâcher ?"
+
+
 translate french breakup_jade_2fa5b617:
 
-    # c "I’m sorry Jade, but I have to."
-    c ""
 
-# game/breakups.rpy:427
+    c "Je suis désolé Jade, mais je dois le faire."
+
+
 translate french breakup_jade_436804e3:
 
-    # j "You have to?"
-    j ""
 
-# game/breakups.rpy:428
+    j "Tu es obligée ?"
+
+
 translate french breakup_jade_6fe03362:
 
-    # j "You’re saying you’re forced to do this?"
-    j ""
 
-# game/breakups.rpy:429
+    j "Tu es en train de dire que tu es obligée de faire ça ?"
+
+
 translate french breakup_jade_84880f6c:
 
-    # c "I don’t see any other way."
-    c ""
 
-# game/breakups.rpy:431
+    c "Je ne vois pas d'autre solution."
+
+
 translate french breakup_jade_a5cfca61:
 
-    # j "Maybe you could have talked to me beforehand, instead of making a decision on your own."
-    j ""
 
-# game/breakups.rpy:433
+    j "Tu aurais peut-être pu m'en parler avant, au lieu de prendre une décision toute seule."
+
+
 translate french breakup_jade_f1e6962f:
 
-    # j "Are you sure this is what you want?"
-    j ""
 
-# game/breakups.rpy:434
+    j "Es-tu sûre que c'est ce que tu veux ?"
+
+
 translate french breakup_jade_b63d6bf3:
 
-    # c "I am."
-    c ""
 
-# game/breakups.rpy:436
+    c "Je le suis."
+
+
 translate french breakup_jade_f22d420a:
 
-    # j "Well then, you seem to have made up your mind."
-    j ""
 
-# game/breakups.rpy:437
+    j "Eh bien, tu sembles avoir pris ta décision."
+
+
 translate french breakup_jade_a78c9216:
 
-    # j "I hope she’s worth the betrayal."
-    j ""
 
-# game/breakups.rpy:438
+    j "J'espère qu'elle vaut la peine d'être trahie."
+
+
 translate french breakup_jade_73ea346e:
 
-    # j "Bye [p_name]."
-    j ""
 
-# game/breakups.rpy:440
+    j "Au revoir [p_name]."
+
+
 translate french breakup_jade_26ac6d73:
 
-    # "With those final words, she walked out of my quarters."
-    ""
+
+    "Sur ces derniers mots, elle est sortie de mes quartiers."
 
 translate french strings:
 
-    # game/breakups.rpy:82
+
     old "Leave"
-    new ""
+    new "Pars"
 
-    # game/breakups.rpy:82
+
     old "Try to explain"
-    new ""
+    new "Essayer d'expliquer"
 
-    # game/breakups.rpy:120
+
     old "Defend yourself"
-    new ""
+    new "Défends-toi"
 
-    # game/breakups.rpy:120
+
     old "Just leave"
-    new ""
+    new "Pars simplement"
 
-    # game/breakups.rpy:161
+
     old "Explain"
-    new ""
+    new "Explique-toi"
 
-    # game/breakups.rpy:161
+
     old "Don't explain"
-    new ""
+    new "N'explique pas"
 
-    # game/breakups.rpy:200
+
     old "Be honest"
-    new ""
+    new "Sois honnête"
 
-    # game/breakups.rpy:200
+
     old "Evade"
-    new ""
+    new "Evite"
 
-# TODO: Translation updated at 2025-02-27 12:49
 
-# game/breakups.rpy:399
 translate french breakup_eva_1260debe:
 
-    # "Eva was waiting for me with such a hopeful expression on her face that I nearly couldn’t go through with it."
-    ""
 
-# game/breakups.rpy:400
+    "Eva m'attendait avec une telle expression d'espoir sur le visage que j'ai failli ne pas pouvoir le faire."
+
+
 translate french breakup_eva_b1f8097e:
 
-    # e "Hey, what’s on your mind?"
-    e ""
 
-# game/breakups.rpy:401
+    e "Hé, qu'est-ce qui te tracasse ?"
+
+
 translate french breakup_eva_0ce8d137:
 
-    # c "I need to talk about us, Eva."
-    c ""
 
-# game/breakups.rpy:403
+    c "J'ai besoin de parler de nous, Eva."
+
+
 translate french breakup_eva_3388a208:
 
-    # e "Oh..."
-    e ""
 
-# game/breakups.rpy:404
+    e "Oh..."
+
+
 translate french breakup_eva_0f96d88c:
 
-    # e "That doesn’t sound good."
-    e ""
 
-# game/breakups.rpy:405
+    e "Ça n'a pas l'air bon."
+
+
 translate french breakup_eva_0add9b0f:
 
-    # c "I’m breaking up with you."
-    c ""
 
-# game/breakups.rpy:407
+    c "Je romps avec toi."
+
+
 translate french breakup_eva_394bcc56:
 
-    # e "What?!"
-    e ""
 
-# game/breakups.rpy:408
+    e "Quoi ?"
+
+
 translate french breakup_eva_d4993d94:
 
-    # e "But..."
-    e ""
 
-# game/breakups.rpy:409
+    e "Mais..."
+
+
 translate french breakup_eva_1ea97b2d:
 
-    # e "Why?"
-    e ""
 
-# game/breakups.rpy:410
+    e "Pourquoi ?"
+
+
 translate french breakup_eva_72f0b015:
 
-    # c "I’m being forced to make a choice and I’m choosing her."
-    c ""
 
-# game/breakups.rpy:412
+    c "Je suis obligé de faire un choix et je la choisis elle."
+
+
 translate french breakup_eva_d0bb04b8:
 
-    # e "But we had something special together!"
-    e ""
 
-# game/breakups.rpy:414
+    e "Mais nous avions quelque chose de spécial ensemble !"
+
+
 translate french breakup_eva_4dadb6ee:
 
-    # e "You wanted children with me?!"
-    e ""
 
-# game/breakups.rpy:415
+    e "Tu voulais des enfants avec moi !"
+
+
 translate french breakup_eva_3c45660b:
 
-    # e "How could you do such a thing like this?"
-    e ""
 
-# game/breakups.rpy:416
+    e "Comment as-tu pu faire une chose pareille ?"
+
+
 translate french breakup_eva_391009d5:
 
-    # c "I’m sorry, Eva."
-    c ""
 
-# game/breakups.rpy:417
+    c "Je suis désolé, Eva."
+
+
 translate french breakup_eva_4e60d810:
 
-    # e "There’s no chance you’ll reconsider?"
-    e ""
 
-# game/breakups.rpy:418
+    e "Il n'y a aucune chance que tu reviennes sur ta décision ?"
+
+
 translate french breakup_eva_51fa8c9a:
 
-    # c "No, this is final."
-    c ""
 
-# game/breakups.rpy:420
+    c "Non, c'est définitif."
+
+
 translate french breakup_eva_81959a5c:
 
-    # e "Go away then."
-    e ""
 
-# game/breakups.rpy:421
+    e "Va-t'en alors."
+
+
 translate french breakup_eva_a8dd7e4b:
 
-    # e "I don’t want you here."
-    e ""
 
-# game/breakups.rpy:422
+    e "Je ne veux pas de toi ici."
+
+
 translate french breakup_eva_35a18b0a:
 
-    # e "Go!"
-    e ""
 
-# game/breakups.rpy:424
+    e "Va-t'en !"
+
+
 translate french breakup_eva_b04ca312:
 
-    # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
-    ""
 
+    "Je recule et ferme la porte derrière moi, laissant ma sœur se dissoudre dans les larmes."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
