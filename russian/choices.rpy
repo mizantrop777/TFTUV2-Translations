@@ -1694,3 +1694,111 @@ translate russian strings:
     old "Filter by Type"
     new "Фильтр по Типу"
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/choices.rpy:10
+    old "TGN Ypotryll"
+    new ""
+
+    # game/choices.rpy:10
+    old "TGN Enfield"
+    new ""
+
+    # game/choices.rpy:10
+    old "Vulpes Velox"
+    new ""
+
+    # game/choices.rpy:10
+    old "Nyiruan 12-Beta"
+    new ""
+
+    # game/choices.rpy:10
+    old "Ryūjin Prime"
+    new ""
+
+    # game/choices.rpy:10
+    old "Iron Bastard"
+    new ""
+
+    # game/choices.rpy:10
+    old "Verdant Station"
+    new ""
+
+    # game/choices.rpy:10
+    old "Luzane"
+    new ""
+
+    # game/choices.rpy:10
+    old "Hannah"
+    new ""
+
+    # game/choices.rpy:10
+    old "Barranthis"
+    new ""
+
+    # game/choices.rpy:10
+    old "Höfel MDCL"
+    new ""
+
+    # game/choices.rpy:10
+    old "Almagest"
+    new ""
+
+    # game/choices.rpy:10
+    old "Erigone"
+    new ""
+
+    # game/choices.rpy:10
+    old "Rahia"
+    new ""
+
+    # game/choices.rpy:10
+    old "Athryn"
+    new ""
+
+    # game/choices.rpy:10
+    old "Frisa"
+    new ""
+
+    # game/choices.rpy:10
+    old "Caese"
+    new ""
+
+    # game/choices.rpy:10
+    old "Erylin"
+    new ""
+
+    # game/choices.rpy:10
+    old "Broke up with Céline."
+    new ""
+
+    # game/choices.rpy:10
+    old "Keodele"
+    new ""
+
+    # game/choices.rpy:10
+    old "Kepler XIV"
+    new ""
+
+    # game/choices.rpy:10
+    old "TGN Jaculus"
+    new ""
+
+    # game/choices.rpy:10
+    old "Kvi"
+    new ""
+
+    # game/choices.rpy:10
+    old "Broke up with Aven."
+    new ""
+
+    # game/choices.rpy:10
+    old "Broke up with Ziv."
+    new ""
+
+    # game/choices.rpy:10
+    old "Scolguin"
+    new ""
+

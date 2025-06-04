@@ -8110,3 +8110,27 @@ translate russian ep017_celine_aa7e8d37:
     # "Anal disabled"
     "Анал отключен"
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode017.rpy:244
+    old "Alien"
+    new ""
+
+    # game/episode017.rpy:963
+    old "Merc"
+    new ""
+
+    # game/episode017.rpy:1011
+    old "Shoot him"
+    new ""
+
+    # game/episode017.rpy:1689
+    old "Vaginal"
+    new ""
+
+    # game/episode017.rpy:1846
+    old "Anal creampie"
+    new ""
+

@@ -12632,3 +12632,51 @@ translate russian ep019_paclerara_jade_209ddf6e:
     # c "So, raising children with a Twi’ll husband?"
     c "Значит, растить детей с мужем Твилл?"
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode019.rpy:57
+    old "Proxima Centauri Orbital IV"
+    new ""
+
+    # game/episode019.rpy:138
+    old "Organizations"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Lilly"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Eva"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Céline"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Jade"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Ziv"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Thyia"
+    new ""
+
+    # game/episode019.rpy:169
+    old "Visit Kit"
+    new ""
+
+    # game/episode019.rpy:461
+    old "Apologize"
+    new ""
+
+    # game/episode019.rpy:461
+    old "Don't apologize"
+    new ""
+

@@ -6068,3 +6068,15 @@ translate russian ep014_eva_talk_cf7e5a53:
     # e "Why don’t you come with though and have a new adventure with me?"
     e "Почему бы тебе не отправиться со мной в новое путешествие?"
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode014_conversations.rpy:328
+    old "Maybe"
+    new ""
+
+    # game/episode014_conversations.rpy:542
+    old "Threaten her"
+    new ""
+

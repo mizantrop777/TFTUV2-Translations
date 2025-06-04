@@ -4134,3 +4134,35 @@ translate russian ep015_raene_talk_5eafdf59:
     # ra "It’s just that I had such a great time when we were last together."
     ra "Во время нашей последней встречи я прекрасно провела время."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode015_conversations.rpy:147
+    old "Mysterious aliens who generally demand a sacrifice before dealing with other species."
+    new ""
+
+    # game/episode015_conversations.rpy:304
+    old "Stay silent"
+    new ""
+
+    # game/episode015_conversations.rpy:502
+    old "Put her in her place"
+    new ""
+
+    # game/episode015_conversations.rpy:802
+    old "Agree"
+    new ""
+
+    # game/episode015_conversations.rpy:1017
+    old "Just fuck her"
+    new ""
+
+    # game/episode015_conversations.rpy:1210
+    old "Facial"
+    new ""
+
+    # game/episode015_conversations.rpy:1374
+    old "Swallow"
+    new ""
+

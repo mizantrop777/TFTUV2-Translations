@@ -3698,3 +3698,15 @@ translate russian ep018_eva_talk_67b61bbf:
     # c "If you ever think we’re going too far, just say so."
     c "Если тебе покажется, что мы зашли слишком далеко, просто скажи об этом."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode018_conversations.rpy:294
+    old "Deny"
+    new ""
+
+    # game/episode018_conversations.rpy:558
+    old "Keep looking"
+    new ""
+

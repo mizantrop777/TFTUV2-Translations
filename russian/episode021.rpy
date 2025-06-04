@@ -24211,4 +24211,15 @@ translate russian ep021_group_fuck_partial_a9eae425:
 translate russian strings:
 
     old "Cover their faces"
-    new "Кончить им на лица"
+    new "Кончить им на лица"# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode021.rpy:688
+    old "Visit Vess"
+    new ""
+
+    # game/episode021.rpy:3297
+    old "Let her suck your cock"
+    new ""
+

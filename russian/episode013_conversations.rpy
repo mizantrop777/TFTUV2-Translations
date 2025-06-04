@@ -6254,3 +6254,31 @@ translate russian ep013_celine_second_talk_b624faf9:
     # "Céline fell back into her seat, looking incredulously at me."
     "Селин откинулась на спинку стула, недоверчиво глядя на меня."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode013_conversations.rpy:298
+    old "Tell her about the others"
+    new ""
+
+    # game/episode013_conversations.rpy:1160
+    old "Tell her you love her"
+    new ""
+
+    # game/episode013_conversations.rpy:1160
+    old "Remain silent"
+    new ""
+
+    # game/episode013_conversations.rpy:1285
+    old "Species"
+    new ""
+
+    # game/episode013_conversations.rpy:1687
+    old "Creampie"
+    new ""
+
+    # game/episode013_conversations.rpy:1687
+    old "Body"
+    new ""
+

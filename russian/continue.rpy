@@ -202,3 +202,11 @@ translate russian strings:
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
     new "Наибольшее удовольствие от игры можно получить, если импортировать сохранение из Первого Сезона. Если вы потеряли доступ к своим сохранениям или просто хотите начать со Второго Сезона, вы можете выбрать наиболее важные варианты из первого сезона ниже, все остальные решения будут установлены по умолчанию."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/continue.rpy:91
+    old "Anal"
+    new "Анальный"
+

@@ -7954,3 +7954,15 @@ translate russian ep018_ruins_aven_673973c3:
     # "As I was about to return to the building I’d put down my sleeping bag, Aven stepped out from behind a pillar."
     "Когда я уже собирался вернуться в здание, где положил свой спальный мешок, из-за колонны вышла Эвин."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode018.rpy:724
+    old "Officer"
+    new ""
+
+    # game/episode018.rpy:1993
+    old "Cover their bodies"
+    new ""
+

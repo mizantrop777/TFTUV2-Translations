@@ -14312,3 +14312,11 @@ translate russian ep020_paclerara_thyia_c4e2be81:
     # th "Not unless you want your life expectancy to crash to ten percent."
     th "Только если ты не хочешь, чтобы продолжительность твоей жизни сократилась на десять процентов."
 
+# TODO: Translation updated at 2025-06-04 13:51
+
+translate russian strings:
+
+    # game/episode020.rpy:190
+    old "Visit Raene"
+    new ""
+
