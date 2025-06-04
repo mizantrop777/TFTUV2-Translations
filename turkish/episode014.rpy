@@ -4278,3 +4278,11 @@ translate turkish strings:
     old "Stop talking"
     new "Konuşmayı kes"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/episode014.rpy:3
+    old "Episode 14"
+    new ""
+

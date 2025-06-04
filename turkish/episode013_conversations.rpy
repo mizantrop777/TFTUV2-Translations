@@ -6234,3 +6234,17 @@ translate turkish strings:
     old "Make her swallow"
     new "Yutmasını sağla"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode013_conversations.rpy:720
+translate turkish ep013_nadya_talk_9caa56ec:
+
+    # na "Some of it is Acarhyn history, an interesting but gruesome read."
+    na ""
+
+# game/episode013_conversations.rpy:976
+translate turkish ep013_celine_second_talk_b624faf9:
+
+    # "Céline fell back into her seat, looking incredulously at me."
+    ""
+

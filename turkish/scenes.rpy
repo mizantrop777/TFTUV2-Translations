@@ -154,3 +154,123 @@ translate turkish strings:
     old "BFF"
     new "BFF"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/scenes.rpy:3
+    old "Semen Shower"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Bed Ass"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Round Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Rainforest"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Eva Evening"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Breeding the Books"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Lickety-spit"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Ziv's Zenith"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Fuckers"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Nightcap"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Shower For Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Balcony Bonking"
+    new ""
+
+    # game/scenes.rpy:3
+    old "It Takes Two"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Paclerara Passion"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Massage Make-out"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Poolside Plow"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Intercourse In Transit"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Attendant Arousal"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Ramrod Raene"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Four Is A Crowd"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Over By The Window"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Coitus"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Couch Corruption"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Shagging After Showering"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Operative Oral"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Duo Dalliance"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Two Turned-on Tools"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Boinking On The Bridge"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Bridge Bitches"
+    new ""
+

@@ -7932,3 +7932,35 @@ translate turkish strings:
     old "Cover their faces"
     new "Yüzlerini örtün"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode018.rpy:399
+translate turkish ep018_desert_exit_a4444079:
+
+    # c "Don't tell me you've found conclusive evidence of Glixken secretly being a tender-hearted hero of the people?"
+    c ""
+
+# game/episode018.rpy:653
+translate turkish ep018_taagmar_eec6d6c5:
+
+    # ve "The Confessor relies on varied tricks to enhance his mystique."
+    ve ""
+
+# game/episode018.rpy:730
+translate turkish ep018_taagmar_38edd898:
+
+    # "The officer knew better than to argue and proceeded to bark orders to every soldier assembled."
+    ""
+
+# game/episode018.rpy:1053
+translate turkish ep018_ruins_aven_673973c3:
+
+    # "As I was about to return to the building I’d put down my sleeping bag, Aven stepped out from behind a pillar."
+    ""
+
+translate turkish strings:
+
+    # game/episode018.rpy:3
+    old "Episode 18"
+    new ""
+

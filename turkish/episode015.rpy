@@ -7202,4 +7202,11 @@ translate turkish strings:
 
     # game/episode015.rpy:1751
     old "Declare your love"
-    new "Aşkını ilan et"
+    new "Aşkını ilan et"# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/episode015.rpy:3
+    old "Episode 15"
+    new ""
+

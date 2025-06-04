@@ -190,3 +190,39 @@ translate turkish strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new "{=location_subheading}LOKASYON:{/=location_subheading}\n[location]"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/script.rpy:258
+    old " and "
+    new ""
+
+    # game/script.rpy:469
+    old "Character Selection"
+    new ""
+
+    # game/script.rpy:476
+    old "Who participates in this scene?"
+    new ""
+
+    # game/script.rpy:534
+    old "Select at least two characters."
+    new ""
+
+    # game/script.rpy:627
+    old "THANK YOU"
+    new ""
+
+    # game/script.rpy:628
+    old "A big thank you to my top tier backers, you rock!"
+    new ""
+
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new ""
+
+    # game/script.rpy:862
+    old "Unread"
+    new ""
+

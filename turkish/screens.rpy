@@ -522,3 +522,51 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new ""
+
+    # game/screens.rpy:463
+    old "v[config.version] • Taboo Edition, Extra Scenes"
+    new ""
+
+    # game/screens.rpy:465
+    old "v[config.version] • Standard Edition, Extra Scenes"
+    new ""
+
+    # game/screens.rpy:468
+    old "v[config.version] • Taboo Edition"
+    new ""
+
+    # game/screens.rpy:470
+    old "v[config.version] • Standard Edition"
+    new ""
+
+    # game/screens.rpy:484
+    old "Support me on  Patreon:\nwww.patreon.com/perverteer"
+    new ""
+
+    # game/screens.rpy:1473
+    old "Português (parcial)"
+    new ""
+
+    # game/screens.rpy:1474
+    old "Français"
+    new ""
+
+    # game/screens.rpy:1477
+    old "Italiano (parziale)"
+    new ""
+
+    # game/screens.rpy:1478
+    old "Español (parcial)"
+    new ""
+
+    # game/screens.rpy:1479
+    old "Русский (частичный)"
+    new ""
+

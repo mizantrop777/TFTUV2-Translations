@@ -4568,3 +4568,11 @@ translate turkish strings:
     old "Don't kiss her"
     new "Onu öpme"
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate turkish strings:
+
+    # game/episode013.rpy:3
+    old "Episode 13"
+    new ""
+

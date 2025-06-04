@@ -3690,3 +3690,11 @@ translate turkish strings:
     old "Walk away"
     new "Yürü git."
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode018_conversations.rpy:130
+translate turkish ep018_eva_talk_67b61bbf:
+
+    # c "If you ever think we’re going too far, just say so."
+    c ""
+
