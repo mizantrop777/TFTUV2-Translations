@@ -127,3 +127,111 @@ translate italian strings:
     old "Credits"
     new "Crediti"
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+translate italian strings:
+
+    # game/script.rpy:238
+    old "Eva"
+    new ""
+
+    # game/script.rpy:240
+    old "Aven"
+    new ""
+
+    # game/script.rpy:244
+    old "Céline"
+    new ""
+
+    # game/script.rpy:246
+    old "Jade"
+    new ""
+
+    # game/script.rpy:248
+    old "Raene"
+    new ""
+
+    # game/script.rpy:250
+    old "Ziv"
+    new ""
+
+    # game/script.rpy:252
+    old "Thyia"
+    new ""
+
+    # game/script.rpy:254
+    old "Vess"
+    new ""
+
+    # game/script.rpy:258
+    old " and "
+    new ""
+
+    # game/script.rpy:263
+    old "one"
+    new ""
+
+    # game/script.rpy:265
+    old "two"
+    new ""
+
+    # game/script.rpy:267
+    old "three"
+    new ""
+
+    # game/script.rpy:269
+    old "four"
+    new ""
+
+    # game/script.rpy:271
+    old "five"
+    new ""
+
+    # game/script.rpy:273
+    old "six"
+    new ""
+
+    # game/script.rpy:275
+    old "seven"
+    new ""
+
+    # game/script.rpy:277
+    old "eight"
+    new ""
+
+    # game/script.rpy:279
+    old "nine"
+    new ""
+
+    # game/script.rpy:281
+    old "a lot"
+    new ""
+
+    # game/script.rpy:391
+    old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
+    new ""
+
+    # game/script.rpy:469
+    old "Character Selection"
+    new ""
+
+    # game/script.rpy:476
+    old "Who participates in this scene?"
+    new ""
+
+    # game/script.rpy:534
+    old "Select at least two characters."
+    new ""
+
+    # game/script.rpy:627
+    old "THANK YOU"
+    new ""
+
+    # game/script.rpy:628
+    old "A big thank you to my top tier backers, you rock!"
+    new ""
+
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new ""
+

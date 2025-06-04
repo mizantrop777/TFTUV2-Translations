@@ -4611,3 +4611,11 @@ translate italian strings:
     old "Don't kiss her"
     new "Non baciarla"
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+# game/episode013.rpy:620
+translate italian ep013_douvis_e616bd86:
+
+    # "Would she dare go beyond what’s proper between regular friends?"
+    ""
+

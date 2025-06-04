@@ -4347,3 +4347,11 @@ translate italian strings:
     old "Just fuck her"
     new "Scoparla solo"
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+# game/episode015_conversations.rpy:894
+translate italian ep015_raene_talk_5eafdf59:
+
+    # ra "It’s just that I had such a great time when we were last together."
+    ra ""
+

@@ -6253,3 +6253,23 @@ translate italian strings:
     old "Make her swallow"
     new "Falla ingoiare"
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+# game/episode013_conversations.rpy:494
+translate italian ep013_lilly_second_talk_4756333a:
+
+    # c "But you have me all for yourself."
+    c ""
+
+# game/episode013_conversations.rpy:720
+translate italian ep013_nadya_talk_9caa56ec:
+
+    # na "Some of it is Acarhyn history, an interesting but gruesome read."
+    na ""
+
+# game/episode013_conversations.rpy:976
+translate italian ep013_celine_second_talk_b624faf9:
+
+    # "Céline fell back into her seat, looking incredulously at me."
+    ""
+

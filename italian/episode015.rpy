@@ -7877,3 +7877,35 @@ translate italian strings:
     old "En-route to Uailea capital"
     new "In viaggio verso la capitale di Uailea"
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+# game/episode015.rpy:167
+translate italian episode015_f6bdb5f6:
+
+    # "On the bridge, I watched our approach of the capital."
+    ""
+
+# game/episode015.rpy:1757
+translate italian ep015_sim_post_9b001cbb:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1821
+translate italian ep015_sim_post_9b001cbb_1:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1853
+translate italian ep015_sim_post_9b001cbb_2:
+
+    # e "Everything feels so confusing."
+    e ""
+
+# game/episode015.rpy:1944
+translate italian ep015_eva_confession_1d3d6624:
+
+    # e "Everything feels so confusing right now."
+    e ""
+

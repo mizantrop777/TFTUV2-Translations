@@ -6659,3 +6659,59 @@ translate italian strings:
     old "A space station near the Hawwa cluster. The station has taken in a lot of refugees fleeing the conflict instigated by the Sovereignty against the Taagmar."
     new "{alt}Altum Station è {/alt}Una stazione spaziale vicino all'ammasso stellare Hawwa. La stazione ha accolto numerosi rifugiati in fuga dal conflitto istigato dalla Sovranità contro i Taagmar."
 
+# TODO: Translation updated at 2025-06-04 13:45
+
+# game/episode016.rpy:769
+translate italian ep016_scolguin_fleet_85f36f3c:
+
+    # "The Scolguin queen was draped on the throne and looked at us through the gloom."
+    ""
+
+# game/episode016.rpy:818
+translate italian ep016_scolguin_fleet_11b72724:
+
+    # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
+    c ""
+
+# game/episode016.rpy:1023
+translate italian ep016_altum_approach_5eaf061c:
+
+    # man "Be aware though that supplies are constrained at the moment as our docking bays are nearly at full capacity."
+    man ""
+
+# game/episode016.rpy:1029
+translate italian ep016_altum_approach_c86b8656:
+
+    # "The Bastard fit into one of the smaller bays, which were already teeming with activity."
+    ""
+
+# game/episode016.rpy:1225
+translate italian ep016_uailea_nadya_sex_be3e7a3e:
+
+    # "More precum leaked into Nadya’s mouth and she swallowed it eagerly."
+    ""
+
+# game/episode016.rpy:1255
+translate italian ep016_uailea_nadya_sex_a3c74a1a:
+
+    # "Holding her tight, I slipped inside Nadya’s warm wet cunt."
+    ""
+
+# game/episode016.rpy:1455
+translate italian ep016_uailea_lilly_sex_f2f90dd1:
+
+    # "I could be mistaken, but I saw her lower lips glistening with moisture already."
+    ""
+
+# game/episode016.rpy:1473
+translate italian ep016_uailea_lilly_sex_14f174d7:
+
+    # "Lilly laid down in front of me, both her hands wrapped around my dick."
+    ""
+
+# game/episode016.rpy:1923
+translate italian ep016_scolguin_sex_ab4eaf84:
+
+    # xa "You may think otherwise, but me and my fellow soldiers will someday leave this prison."
+    xa ""
+
