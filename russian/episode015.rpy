@@ -7564,31 +7564,3 @@ translate russian strings:
     old "Episode 15"
     new "Эпизод 15"
 
-# TODO: Translation updated at 2024-12-09 00:03
-
-translate russian strings:
-
-    # game/episode015.rpy:205
-    old "Ignore her"
-    new "Игнорировать её"
-
-    # game/episode015.rpy:427
-    old "Accept"
-    new "Согласиться"
-
-    # game/episode015.rpy:427
-    old "Decline"
-    new "Отказаться"
-
-    # game/episode015.rpy:945
-    old "Truth"
-    new "Правда"
-
-    # game/episode015.rpy:945
-    old "Lie"
-    new "Ложь"
-
-    # game/episode015.rpy:1232
-    old "Refuse"
-    new "Отказаться"
-

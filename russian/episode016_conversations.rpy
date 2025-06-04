@@ -4740,3 +4740,29 @@ translate russian ep016_ziv_talk_f4dd3f54:
     # zi "I was just explaining to Raene about everything that happened on Uailea."
     zi "Я как раз объясняла Рэин всё, что произошло на Уайлии."
 
+# TODO: Translation updated at 2025-02-04 18:17
+
+# game/episode016_conversations.rpy:415
+translate russian ep016_thyia_talk_6463c945:
+
+    # "For the duration of our stay, Thyia mostly stayed on the Bastard."
+    "На протяжении всего нашего пребывания Тхия в основном оставалась на Ублюдке."
+
+# game/episode016_conversations.rpy:417
+translate russian ep016_thyia_talk_c0d66333:
+
+    # "For the duration of our stay, Thyia mostly remained holed up in the engine room."
+    "На протяжении всего нашего пребывания Тхия в основном отсиживалась в машинном отделении."
+
+# game/episode016_conversations.rpy:418
+translate russian ep016_thyia_talk_fe0db63e:
+
+    # "She was working on something and that seemed to take up most of her time."
+    "Она над чем-то работала, и это, казалось, занимало большую часть её времени."
+
+# game/episode016_conversations.rpy:420
+translate russian ep016_thyia_talk_da20415c:
+
+    # "I went to check up on her."
+    "Я пошёл проведать её."
+

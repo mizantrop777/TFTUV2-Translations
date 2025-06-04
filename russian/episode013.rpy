@@ -4604,15 +4604,3 @@ translate russian strings:
     old "Episode 13"
     new "Эпизод 13"
 
-# TODO: Translation updated at 2024-12-09 00:03
-
-translate russian strings:
-
-    # game/episode013.rpy:503
-    old "Planets"
-    new "Планеты"
-
-    # game/episode013.rpy:1142
-    old "Kiss her"
-    new "Поцеловать её"
-

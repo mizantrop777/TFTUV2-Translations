@@ -2104,7 +2104,7 @@ translate russian extra_scene_35_ea0c4e63:
 translate russian extra_scene_35_bb29b368:
 
     # "Vess retched and gagged as more and more of my dick entered her mouth."
-    "Весс отплёвывалась и давилась, в то время как всё большая и большая часть моего члена входила в её рот."
+    "Весс давилась, едва сдерживая рвотный позыв, в то время как всё большая и большая часть моего члена входила в её рот."
 
 # game/extras.rpy:699
 translate russian extra_scene_35_aca6c6ac:
@@ -2158,7 +2158,7 @@ translate russian extra_scene_35_bfdf5b58:
 translate russian extra_scene_35_b0ad3bf1:
 
     # "Vess retched again and I pulled my cock out for a short while."
-    "Весс снова застонала, и я ненадолго вытащил свой член."
+    "Весс снова затошнило, и я ненадолго вытащил свой член."
 
 # game/extras.rpy:716
 translate russian extra_scene_35_cdc6c126:
@@ -5262,11 +5262,1999 @@ translate russian extra_scene_43_e9a42f65:
     # l "I really, really want you inside me!"
     l "Я очень, очень хочу, чтобы ты был внутри меня!"
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2025-02-04 18:17
 
-# game/extras.rpy:413
+# game/extras.rpy:426
 translate russian extra_scene_32_26e7a21d:
 
     # "Aven started to work on my member with powerful strokes, whipping me up in a frenzy."
-    "Моя сестра начала обрабатывать мой член мощными заглатываниями, доводя меня до исступления."
+    "Эвин начала обрабатывать мой член мощными заглатываниями, доводя меня до исступления."
+
+# game/extras.rpy:1716
+translate russian extra_scene_44_4174cd28:
+
+    # "Eva had taken residence in one of the larger quarters."
+    "Ева поселилась в одном из самых больших помещений."
+
+# game/extras.rpy:1718
+translate russian extra_scene_44_307438d0:
+
+    # "She was leaning on the bar in the kitchen when I came in."
+    "Когда я вошёл, она стояла, облокотившись на стойку бара на кухне."
+
+# game/extras.rpy:1720
+translate russian extra_scene_44_b434a7b2:
+
+    # c "How’s my favorite sister?"
+    c "Как поживает моя любимая сестрёнка?"
+
+# game/extras.rpy:1722
+translate russian extra_scene_44_8cd09df3:
+
+    # c "How’s my favorite person?"
+    c "Как поживает моя любимица?"
+
+# game/extras.rpy:1725
+translate russian extra_scene_44_19f0c191:
+
+    # e "Okay, I think."
+    e "Хорошо, думаю."
+
+# game/extras.rpy:1726
+translate russian extra_scene_44_ffcfc44e:
+
+    # e "A little nausea in the morning, but I guess that’s to be expected."
+    e "Небольшая тошнота по утрам, но, думаю, этого следовало ожидать."
+
+# game/extras.rpy:1727
+translate russian extra_scene_44_f0ac2359:
+
+    # c "I’m afraid so."
+    c "Да, к сожалению."
+
+# game/extras.rpy:1729
+translate russian extra_scene_44_54a3896e:
+
+    # c "They all took the news well, earlier, don’t you think?"
+    c "Они все хорошо восприняли эту новость, тебе не кажется?"
+
+# game/extras.rpy:1731
+translate russian extra_scene_44_1fdc091c:
+
+    # e "Yes, I’m so relieved."
+    e "Да, я чувствую огромное облегчение."
+
+# game/extras.rpy:1735
+translate russian extra_scene_44_bcd0de28:
+
+    # "Yes, but it’s a shame about Lilly."
+    "Да, но жаль, что так получилось с Лилли."
+
+# game/extras.rpy:1737
+translate russian extra_scene_44_08dc9196:
+
+    # "Yes, but it’s a shame about Mom."
+    "Да, но жаль, что так получилось с мамой."
+
+# game/extras.rpy:1739
+translate russian extra_scene_44_7b0b0af8:
+
+    # "Yes, but it’s a shame about Aven."
+    "Да, но жаль, что так получилось с Эвин."
+
+# game/extras.rpy:1740
+translate russian extra_scene_44_a92bd7d2:
+
+    # c "I’m sure she’ll come around."
+    c "Я уверен, что она передумает."
+
+# game/extras.rpy:1743
+translate russian extra_scene_44_c09843c4:
+
+    # "Yes, but it’s a shame about Lilly and Aven."
+    "Да, но жаль, что так получилось с Лилли и Эвин."
+
+# game/extras.rpy:1745
+translate russian extra_scene_44_7ac1aac6:
+
+    # "Yes, but it’s a shame about Lilly and Mom."
+    "Да, но жаль, что так получилось с Лилли и мамой."
+
+# game/extras.rpy:1747
+translate russian extra_scene_44_101865b6:
+
+    # "Yes, but it’s a shame about Aven and Mom."
+    "Да, но жаль, что так получилось с Эвин и мамой."
+
+# game/extras.rpy:1748
+translate russian extra_scene_44_390d846e:
+
+    # c "I’m sure they’ll come around."
+    c "Я уверен, что они передумают."
+
+# game/extras.rpy:1749
+translate russian extra_scene_44_dd7e1a4f:
+
+    # e "I hope so."
+    e "Надеюсь, что так."
+
+# game/extras.rpy:1751
+translate russian extra_scene_44_d19da08f:
+
+    # e "And I guess the orgy afterwards was a roaring endorsement too."
+    e "И, полагаю, оргия после этого тоже прошла с большим энтузиазмом."
+
+# game/extras.rpy:1752
+translate russian extra_scene_44_61ed7c35:
+
+    # c "You can say that again."
+    c "Можно и так сказать."
+
+# game/extras.rpy:1754
+translate russian extra_scene_44_ceccc65a:
+
+    # e "I’m doing great."
+    e "У меня всё отлично."
+
+# game/extras.rpy:1755
+translate russian extra_scene_44_d810616c:
+
+    # e "I’m glad you’re alone here with me now."
+    e "Я рада, что сейчас ты здесь со мной наедине."
+
+# game/extras.rpy:1756
+translate russian extra_scene_44_ad9b1c95:
+
+    # e "I was really craving for some privacy."
+    e "Я действительно жаждала немного уединения."
+
+# game/extras.rpy:1757
+translate russian extra_scene_44_71a71396:
+
+    # c "Was that the only thing you were craving for?"
+    c "Это единственное, чего ты жаждала?"
+
+# game/extras.rpy:1758
+translate russian extra_scene_44_5d25027a:
+
+    # e "No..."
+    e "Нет..."
+
+# game/extras.rpy:1763
+translate russian extra_scene_44_32836e40:
+
+    # "Eva walked away from the bar and dropped her kimono in the process."
+    "Ева отошла от стойки и при этом сбросила кимоно."
+
+# game/extras.rpy:1764
+translate russian extra_scene_44_89fca16d:
+
+    # "She leaned against the opposite wall and stretched, giving me a good look at her nubile body."
+    "Она прислонилась к противоположной стене и потянулась, давая мне возможность хорошенько рассмотреть её стройное тело."
+
+# game/extras.rpy:1765
+translate russian extra_scene_44_70e0767d:
+
+    # c "You’re so incredibly sexy."
+    c "Ты такая невероятно сексуальная."
+
+# game/extras.rpy:1766
+translate russian extra_scene_44_0dbf2382:
+
+    # e "Am I?"
+    e "Правда?"
+
+# game/extras.rpy:1767
+translate russian extra_scene_44_23c99b26:
+
+    # e "So you like this?"
+    e "Значит, тебе нравится?"
+
+# game/extras.rpy:1770
+translate russian extra_scene_44_4d6cc6d8:
+
+    # "My sister unclasped her bra and showed me her firm breasts."
+    "Моя сестра расстегнула лифчик и показала мне свою упругую грудь."
+
+# game/extras.rpy:1772
+translate russian extra_scene_44_5081bcef:
+
+    # "My girlfriend unclasped her bra and showed me her firm breasts."
+    "Моя девушка расстегнула лифчик и показала мне свою упругую грудь."
+
+# game/extras.rpy:1773
+translate russian extra_scene_44_f733bf22:
+
+    # c "I love this."
+    c "Мне очень нравится."
+
+# game/extras.rpy:1774
+translate russian extra_scene_44_5131871e:
+
+    # e "Good."
+    e "Прекрасно."
+
+# game/extras.rpy:1779
+translate russian extra_scene_44_b28aff87:
+
+    # "Her panties were next."
+    "Следующими были её трусики."
+
+# game/extras.rpy:1780
+translate russian extra_scene_44_624a1bed:
+
+    # "Eva turned around, showing off her tight little ass, while I got out of my clothes too."
+    "Ева повернулась, демонстрируя свою маленькую упругую попку, в то время как я тоже разделся."
+
+# game/extras.rpy:1781
+translate russian extra_scene_44_740e480c:
+
+    # "I couldn’t hold back any longer and took Eva into my arms to kiss her."
+    "Я больше не мог сдерживаться и заключил Еву в объятия, чтобы поцеловать её."
+
+# game/extras.rpy:1783
+translate russian extra_scene_44_4c6fc53c:
+
+    # "When I was naked, my sister took hold of my erection and dropped to her knees."
+    "Когда я полностью разделся, моя сестра схватила меня за эрекцию и опустилась на колени."
+
+# game/extras.rpy:1784
+translate russian extra_scene_44_d6c3fb3a:
+
+    # e "I’m going to make you feel good."
+    e "Сейчас я сделаю тебе приятное."
+
+# game/extras.rpy:1786
+translate russian extra_scene_44_c8c98f2f:
+
+    # "She licked my shaft at first, getting the entire length wet."
+    "Сначала она лизнула мой ствол, полностью намочив его."
+
+# game/extras.rpy:1788
+translate russian extra_scene_44_a3b892f5:
+
+    # "Then her lips wrapped around my dick and she began to suck me."
+    "Затем её губы обхватили мой член, и она начала мне отсасывать."
+
+# game/extras.rpy:1789
+translate russian extra_scene_44_e3b95bd1:
+
+    # c "Your mouth feels so good on me."
+    c "Как же классно ощущать твой ротик на своём члене."
+
+# game/extras.rpy:1792
+translate russian extra_scene_44_dd1b7595:
+
+    # "My sister subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
+    "Моя сестра сделала мне очень интенсивный минет, как будто хотела насладиться вкусом каждого дюйма моего члена."
+
+# game/extras.rpy:1794
+translate russian extra_scene_44_c27d8ad0:
+
+    # "My girlfriend subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
+    "Моя подруга сделала мне очень интенсивный минет, как будто хотела насладиться вкусом каждого дюйма моего члена."
+
+# game/extras.rpy:1795
+translate russian extra_scene_44_b47e425a:
+
+    # c "That’s it, Eva, right there."
+    c "Вот так, Ева, вот так."
+
+# game/extras.rpy:1796
+translate russian extra_scene_44_1b0203fd:
+
+    # c "You’re going to make me cum so hard with your mouth."
+    c "Своим ротиком ты заставишь меня очень сильно кончить."
+
+# game/extras.rpy:1798
+translate russian extra_scene_44_f1582b1a:
+
+    # "Eva swayed on her legs, possibly cramping up because of the position she was in."
+    "Ева покачивалась на ногах, которые, возможно, свело судорогой из-за положения, в котором она находилась."
+
+# game/extras.rpy:1799
+translate russian extra_scene_44_00c088a6:
+
+    # c "Do you want me inside you, Eva?"
+    c "Хочешь, чтобы я проник в тебя, Ева?"
+
+# game/extras.rpy:1800
+translate russian extra_scene_44_c09ca473:
+
+    # c "I really want to fuck you."
+    c "Я очень хочу трахнуть тебя."
+
+# game/extras.rpy:1802
+translate russian extra_scene_44_30372b29:
+
+    # "Eva hesitated, but kept blowing me, determined to get me to climax."
+    "Ева колебалась, но продолжала делать мне минет, решив довести меня до кульминации."
+
+# game/extras.rpy:1804
+translate russian extra_scene_44_61cfbd25:
+
+    # "I wanted to do much more to my sister than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
+    "Мне хотелось сделать с сестрой гораздо больше, чем просто кончить ей в рот, поэтому я осторожно оторвал её голову от своего члена и направил её к креслу в гостиной."
+
+# game/extras.rpy:1806
+translate russian extra_scene_44_7f815542:
+
+    # "I wanted to do much more to Eva than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
+    "Мне хотелось сделать с Евой гораздо больше, чем просто кончить ей в рот, поэтому я осторожно оторвал её голову от своего члена и направил её к креслу в гостиной."
+
+# game/extras.rpy:1808
+translate russian extra_scene_44_a6496f5c:
+
+    # "Whilst seated, I hefted Eva onto my lap and cupped her butt as she eased onto my hard cock."
+    "Сидя, я посадил Еву к себе на колени и обхватил её попку, пока она насаживалась на мой твёрдый член."
+
+# game/extras.rpy:1809
+translate russian extra_scene_44_c32818f9:
+
+    # e "Mmmm, that feels so good."
+    e "Ммм, как же хорошо."
+
+# game/extras.rpy:1811
+translate russian extra_scene_44_b087c7fe:
+
+    # "Eva had prepared my dick with enough moisture, but my sister was dripping wet, so entering her felt as smooth as butter."
+    "Ева наполнила мой член достаточным количеством влаги, но моя сестра так намокла, что вход в неё был гладким как масло."
+
+# game/extras.rpy:1813
+translate russian extra_scene_44_6bc180a4:
+
+    # "Eva had prepared my dick with enough moisture, but my girlfriend was dripping wet, so entering her felt as smooth as butter."
+    "Ева наполнила мой член достаточным количеством влаги, но моя девушка так намокла, что вход в неё был гладким как масло."
+
+# game/extras.rpy:1815
+translate russian extra_scene_44_494da927:
+
+    # c "I love your pussy so much!"
+    c "Как же я обожаю твои киску!"
+
+# game/extras.rpy:1817
+translate russian extra_scene_44_550c92e2:
+
+    # "We began to move, the length of my shaft stimulated by my sister’s tight slit."
+    "Мы начали двигаться, мой ствол стимулировался тугой щёлочкой моей сестры."
+
+# game/extras.rpy:1819
+translate russian extra_scene_44_2c4c60e6:
+
+    # "We began to move, the length of my shaft stimulated by my girlfriend’s tight slit."
+    "Мы начали двигаться, мой ствол стимулировался тугой щёлочкой моей девушки."
+
+# game/extras.rpy:1821
+translate russian extra_scene_44_8ec8b6dc:
+
+    # "Eva moaned loudly when I took one of her nipples in my mouth and licked the hard tip."
+    "Ева громко застонала, когда я взял в рот один из её сосков и лизнул твёрдый кончик."
+
+# game/extras.rpy:1822
+translate russian extra_scene_44_67c523eb:
+
+    # e "Don’t stop, please don’t stop fucking me!"
+    e "Не останавливайся, прошу, не прекращай трахать меня!"
+
+# game/extras.rpy:1823
+translate russian extra_scene_44_94590da5:
+
+    # e "You fuck me so well!"
+    e "Как же офигенно ты меня трахаешь!"
+
+# game/extras.rpy:1825
+translate russian extra_scene_44_daa42a96:
+
+    # "She was so wet, my cock slipped out of her cunt multiple times."
+    "Она была такой мокрой, что мой член несколько раз выскальзывал из её пизды."
+
+# game/extras.rpy:1826
+translate russian extra_scene_44_d82179ea:
+
+    # "We both made frustrated noises every time it happened, so I decided to do something about it the next time it happened."
+    "Мы оба издавали разочарованные звуки каждый раз, когда это происходило, и в следующий раз я решил что-нибудь предпринять."
+
+# game/extras.rpy:1828
+translate russian extra_scene_44_f660876b:
+
+    # "I lifted Eva from my lap, turned her around and pulled her back on my cock again."
+    "Я поднял Еву со своих колен, развернул её и снова усадил спиной на свой член."
+
+# game/extras.rpy:1830
+translate russian extra_scene_44_69df71eb:
+
+    # "My sister now rode me reverse cowgirl, allowing access to a whole new range of sensations."
+    "Моя сестра теперь скакала на мне в позе обратной наездницы, открывая доступ к совершенно новой гамме ощущений."
+
+# game/extras.rpy:1832
+translate russian extra_scene_44_a3b6af67:
+
+    # "My girlfriend now rode me reverse cowgirl, allowing access to a whole new range of sensations."
+    "Моя девушка теперь скакала на мне в позе обратной наездницы, открывая доступ к совершенно новой гамме ощущений."
+
+# game/extras.rpy:1835
+translate russian extra_scene_44_dad8cdf2:
+
+    # "Eva groaned when my cock buried itself deep into her dripping pussy."
+    "Ева застонала, когда мой член глубоко погрузился в её мокрую киску."
+
+# game/extras.rpy:1836
+translate russian extra_scene_44_aee5c221:
+
+    # e "Oh yes, fuck my tight little pussy!"
+    e "О да, трахни мою маленькую тугую киску!"
+
+# game/extras.rpy:1837
+translate russian extra_scene_44_a66c2965:
+
+    # e "Harder, please fuck me harder!"
+    e "Жёстче, прошу, трахай меня жёстче!"
+
+# game/extras.rpy:1838
+translate russian extra_scene_44_0900af78:
+
+    # "My hard methodical strokes were slowly but surely sending her over the edge."
+    "Мои жёсткие методичные толчки медленно, но верно доводили её до предела."
+
+# game/extras.rpy:1839
+translate russian extra_scene_44_1e069ce0:
+
+    # "Eva clenched her arm around my neck and moaned with each deep thrust."
+    "Ева обхватила меня рукой за шею и стонала при каждом глубоком толчке."
+
+# game/extras.rpy:1842
+translate russian extra_scene_44_f10ee58a:
+
+    # e "Oh [p_name_short], you’re making me-"
+    e "О, [p_name_short], ты заставишь меня-"
+
+# game/extras.rpy:1843
+translate russian extra_scene_44_939f830a:
+
+    # e "You’re-"
+    e "Ты-"
+
+# game/extras.rpy:1844
+translate russian extra_scene_44_86bbf7a8:
+
+    # e "Oh fuck, [p_name_short], I’m cumming!"
+    e "Ох, бля, [p_name_short], я кончаю!"
+
+# game/extras.rpy:1847
+translate russian extra_scene_44_39275fa9:
+
+    # "My sister orgasmed on my cock."
+    "Моя сестра кончила на мой член."
+
+# game/extras.rpy:1849
+translate russian extra_scene_44_6bcd9859:
+
+    # "My girlfriend orgasmed on my cock."
+    "Моя девушка кончила на мой член."
+
+# game/extras.rpy:1852
+translate russian extra_scene_44_5511662e:
+
+    # "Her slit flooded with juices and she held me even tighter, her climax shaking her to the core."
+    "Её щель наполнилась соками, и она обняла меня ещё крепче, оргазм пронзил её насквозь."
+
+# game/extras.rpy:1853
+translate russian extra_scene_44_8e94ed12:
+
+    # "Fucking her convulsing pussy triggered the onset of my orgasm too."
+    "Трахая её бьющуюся в конвульсиях киску, я тоже испытал оргазм."
+
+# game/extras.rpy:1857
+translate russian extra_scene_44_6ab30c4e:
+
+    # c "I’m going to cum inside you, Eva!"
+    c "Я кончу в тебя, Ева!"
+
+# game/extras.rpy:1859
+translate russian extra_scene_44_2942ab8f:
+
+    # e "Yes, please fill my pregnant pussy!"
+    e "Да, прошу, наполни мою беременную киску!"
+
+# game/extras.rpy:1861
+translate russian extra_scene_44_a035132f:
+
+    # e "Yes, please fill my pussy!"
+    e "Да, прошу, наполни мою киску!"
+
+# game/extras.rpy:1864
+translate russian extra_scene_44_d2968ec2:
+
+    # "I roared and blasted my sister’s pussy full of warm cum."
+    "Я взревел и наполнил киску моей сестры тёплой спермой."
+
+# game/extras.rpy:1866
+translate russian extra_scene_44_fb79feeb:
+
+    # "I roared and blasted my girlfriend’s pussy full of warm cum."
+    "Я взревел и наполнил киску моей девушки тёплой спермой."
+
+# game/extras.rpy:1867
+translate russian extra_scene_44_b2d7f9d5:
+
+    # "Squeezing her flesh, I continued to hold her, until every spurt of seed was inside her."
+    "Сжимая её плоть, я продолжал удерживать её, пока каждая струйка семени не оказалась внутри неё."
+
+# game/extras.rpy:1870
+translate russian extra_scene_44_1734419a:
+
+    # "When my cock flopped from her cunt, semen started flowing out of her in thick globs."
+    "Когда мой член выскочил из её пизды, сперма начала вытекать из неё густыми струйками."
+
+# game/extras.rpy:1873
+translate russian extra_scene_44_f2d8a629:
+
+    # c "I’m going to cum all over you, Eva!"
+    c "Сейчас я всю тебя обкончаю, Ева!"
+
+# game/extras.rpy:1874
+translate russian extra_scene_44_bfc2e875:
+
+    # e "Yes, please shoot it all on my body!"
+    e "Да, прошу, обкончай моё тело!"
+
+# game/extras.rpy:1877
+translate russian extra_scene_44_28c76a41:
+
+    # "I roared and blasted my cum all over my sister’s body."
+    "Я взревел и выпустил струйки спермы на тело своей сестры."
+
+# game/extras.rpy:1879
+translate russian extra_scene_44_b952ff7b:
+
+    # "I roared and blasted my cum all over my girlfriend’s body."
+    "Я взревел и выпустил струйки спермы на тело своей девушки."
+
+# game/extras.rpy:1882
+translate russian extra_scene_44_26312c9f:
+
+    # "Warm seed streaked her belly and breasts."
+    "Тёплое семя потекло по её животу и грудям."
+
+# game/extras.rpy:1885
+translate russian extra_scene_44_60e9b568:
+
+    # c "I want to cum in your mouth, Eva!"
+    c "Я хочу кончить тебе в ротик, Ева!"
+
+# game/extras.rpy:1887
+translate russian extra_scene_44_65653b5d:
+
+    # "On the verge of climaxing, Eva kneeled in front of me and licked my twitching cock."
+    "На грани оргазма Ева опустилась передо мной на колени и облизала мой дёргающийся член."
+
+# game/extras.rpy:1888
+translate russian extra_scene_44_a1ab0747:
+
+    # e "Please, shoot it all in my mouth."
+    e "Прошу, выпусти сперму мне в ротик."
+
+# game/extras.rpy:1891
+translate russian extra_scene_44_52d40234:
+
+    # "I roared and my sister quickly put my dick in her mouth."
+    "Я взревел, а моя сестра быстро взяла мой член в рот."
+
+# game/extras.rpy:1893
+translate russian extra_scene_44_be1c53fc:
+
+    # "I roared and my girlfriend quickly put my dick in her mouth."
+    "Я взревел, а моя девушка быстро взяла мой член в рот."
+
+# game/extras.rpy:1894
+translate russian extra_scene_44_bc0ddb15:
+
+    # "Warm cum blasted out of my cock and into her mouth."
+    "Тёплая сперма хлынула из моего члена ей в рот."
+
+# game/extras.rpy:1898
+translate russian extra_scene_44_64b3b8e7:
+
+    # "My sister gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
+    "Моя сестра с радостью приняла всё до последней капли семени и открыла рот, чтобы показать, как сильно я кончил ей в рот."
+
+# game/extras.rpy:1900
+translate russian extra_scene_44_a6cae995:
+
+    # "My girlfriend gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
+    "Моя девушка с радостью приняла всё до последней капли семени и открыла рот, чтобы показать, как сильно я кончил ей в рот."
+
+# game/extras.rpy:1902
+translate russian extra_scene_44_8ea8b541:
+
+    # "Smiling, she swallowed it all."
+    "Улыбаясь, она всё проглотила."
+
+# game/extras.rpy:1904
+translate russian extra_scene_44_1277fdb4:
+
+    # "Both thoroughly satisfied, we made out in the chair for a while before dressing and returning to our daily routines."
+    "Оба удовлетворённые, мы ещё какое-то время целовались в кресле, прежде чем одеться и вернуться к своим повседневным делам."
+
+# game/extras.rpy:1916
+translate russian extra_scene_45_da05018d:
+
+    # "Returning from the shower, I noticed I had a message from my mother requesting me to come to her quarters."
+    "Вернувшись из душа, я заметил, что получил сообщение от матери с просьбой зайти к ней."
+
+# game/extras.rpy:1918
+translate russian extra_scene_45_30a9a4c0:
+
+    # "Returning from the shower, I noticed I had a message from Nadya requesting me to come to her quarters."
+    "Вернувшись из душа, я заметил, что получил сообщение от Надии с просьбой зайти к ней."
+
+# game/extras.rpy:1919
+translate russian extra_scene_45_ed1e5617:
+
+    # "I was fairly certain she didn’t want to discuss the current mission details with me, so I quickly put some clothes on and headed to her quarters."
+    "Я был совершенно уверен, что она не хочет обсуждать со мной детали текущей миссии, поэтому быстро оделся и направился в её каюту."
+
+# game/extras.rpy:1922
+translate russian extra_scene_45_244265e2:
+
+    # "When I opened the door, my mother was leaning against a book case, only dressed in her underwear."
+    "Когда я открыл дверь, моя мама стояла, прислонившись к книжному шкафу, одетая лишь в нижнее бельё."
+
+# game/extras.rpy:1924
+translate russian extra_scene_45_67d94f58:
+
+    # "When I opened the door, Nadya was leaning against a book case, only dressed in her underwear."
+    "Когда я открыл дверь, Надия стояла, прислонившись к книжному шкафу, одетая лишь в нижнее бельё."
+
+# game/extras.rpy:1925
+translate russian extra_scene_45_8ac948f2:
+
+    # na "Oh hey [p_name_short], you’re quick."
+    na "О, привет, [p_name_short], быстро ты."
+
+# game/extras.rpy:1927
+translate russian extra_scene_45_09805c2c:
+
+    # c "I always am when I know my mother is waiting for me in her spiciest lingerie."
+    c "Я всегда быстр, когда знаю, что мама ждёт меня в своём самом пикантном нижнем белье."
+
+# game/extras.rpy:1929
+translate russian extra_scene_45_238ed13b:
+
+    # c "I always am when I know you’re is waiting for me in spicy lingerie."
+    c "Я всегда быстр, когда знаю, что ты ждёшь меня в своём самом пикантном нижнем белье."
+
+# game/extras.rpy:1930
+translate russian extra_scene_45_dfe59296:
+
+    # na "I’m glad you like what you’re seeing."
+    na "Я рада, что тебе нравится вид."
+
+# game/extras.rpy:1931
+translate russian extra_scene_45_80256382:
+
+    # c "I love what I’m seeing."
+    c "Мне очень нравится вид."
+
+# game/extras.rpy:1932
+translate russian extra_scene_45_39ae201a:
+
+    # c "You know what I really want?"
+    c "Знаешь, чего я на самом деле хочу?"
+
+# game/extras.rpy:1933
+translate russian extra_scene_45_8321e32f:
+
+    # na "No, tell me?"
+    na "Нет, расскажи мне."
+
+# game/extras.rpy:1935
+translate russian extra_scene_45_7b30d0f7:
+
+    # "I closed the door behind me and advanced on Nadya."
+    "Я закрыл за собой дверь и подошёл к Надии."
+
+# game/extras.rpy:1936
+translate russian extra_scene_45_6fab0bb2:
+
+    # c "I want to taste your pussy and make you climax in my face."
+    c "Я хочу попробовать твою киску и заставить тебя кончить мне на лицо."
+
+# game/extras.rpy:1937
+translate russian extra_scene_45_98e2f795:
+
+    # na "And I want you to."
+    na "Я тоже этого хочу."
+
+# game/extras.rpy:1938
+translate russian extra_scene_45_cb1f2fd0:
+
+    # na "What are we waiting for?"
+    na "Чего же мы ждем?"
+
+# game/extras.rpy:1939
+translate russian extra_scene_45_295bb550:
+
+    # c "Well, there’s one problem."
+    c "Ну, есть одна проблема."
+
+# game/extras.rpy:1940
+translate russian extra_scene_45_9149406d:
+
+    # na "Oh?"
+    na "Оу?"
+
+# game/extras.rpy:1941
+translate russian extra_scene_45_f09bb314:
+
+    # c "It’s virtually impossible to move around here with all the books everywhere."
+    c "Здесь практически невозможно передвигаться, потому что повсюду книги."
+
+# game/extras.rpy:1943
+translate russian extra_scene_45_36936914:
+
+    # "Nadya’s quarters resembled a very tiny library, maintained by a very untidy librarian."
+    "Каюта Надии напоминала крошечную библиотеку, которую вела очень неопрятная библиотекарша."
+
+# game/extras.rpy:1944
+translate russian extra_scene_45_055bf43b:
+
+    # c "It’s a small wonder you actually get to reach the bed each night."
+    c "Удивительно, что ты вообще каждую ночь добираешься до кровати."
+
+# game/extras.rpy:1945
+translate russian extra_scene_45_346881c8:
+
+    # na "Okay, okay, I’m putting them away already."
+    na "Хорошо, хорошо, я уже убираю их."
+
+# game/extras.rpy:1947
+translate russian extra_scene_45_ac64ac99:
+
+    # "She was virtually throwing books off the bed, very eager to get my tongue in her pussy."
+    "Она буквально сбрасывала книги с кровати, очень желая, чтобы мой язык проник в её киску."
+
+# game/extras.rpy:1948
+translate russian extra_scene_45_d2c94b52:
+
+    # "A large stack of books nearly toppled over as she carried them to put them on the floor."
+    "Большая стопка книг чуть не опрокинулась, когда она несла их, чтобы положить на пол."
+
+# game/extras.rpy:1949
+translate russian extra_scene_45_6bfdf829:
+
+    # c "Need help with that?"
+    c "Нужна помощь?"
+
+# game/extras.rpy:1950
+translate russian extra_scene_45_9741b7ef:
+
+    # na "Yes, please."
+    na "Да, пожалуйста."
+
+# game/extras.rpy:1955
+translate russian extra_scene_45_a264ba39:
+
+    # "After clearing the bed of books, Nadya undressed and lay down."
+    "Очистив кровать от книг, Надия разделась и легла."
+
+# game/extras.rpy:1956
+translate russian extra_scene_45_44c0c90d:
+
+    # na "All ready for you now."
+    na "Теперь всё для тебя готово."
+
+# game/extras.rpy:1958
+translate russian extra_scene_45_e38fb39b:
+
+    # "I opened my mother’s legs and pushed them backward to give me better access to her cunt."
+    "Я раздвинул мамины ноги и отодвинул их назад, чтобы обеспечить лучший доступ к её пизде."
+
+# game/extras.rpy:1960
+translate russian extra_scene_45_d5369cc7:
+
+    # "I opened Nadya’s legs and pushed them backward to give me better access to her cunt."
+    "Я раздвинул ноги Надии и отодвинул их назад, чтобы обеспечить лучший доступ к её пизде."
+
+# game/extras.rpy:1962
+translate russian extra_scene_45_46f277f5:
+
+    # "Nadya moaned as I probed her slit with my tongue."
+    "Надия застонала, когда я проник языком в её щель."
+
+# game/extras.rpy:1963
+translate russian extra_scene_45_75f5d60c:
+
+    # "She was already wet and I slowly licked up the juices from her pussy."
+    "Она уже была мокрой, и я медленно слизывал соки с её киски."
+
+# game/extras.rpy:1965
+translate russian extra_scene_45_139be819:
+
+    # na "Oh yes, [p_name_short]!"
+    na "О, да, [p_name_short]!"
+
+# game/extras.rpy:1966
+translate russian extra_scene_45_325fc8d5:
+
+    # na "That’s it, right there!"
+    na "Вот так, именно там!"
+
+# game/extras.rpy:1968
+translate russian extra_scene_45_4000fbbf:
+
+    # "I alternated between sucking and licking her labia, sending waves of pleasure through her body."
+    "Я попеременно сосал и облизывал её половые губы, посылая волны удовольствия по её телу."
+
+# game/extras.rpy:1970
+translate russian extra_scene_45_ea9ef225:
+
+    # "When I lingered on her clit, my mother began to tremble violently."
+    "Когда я задержался на её клиторе, мама начала неистово дрожать."
+
+# game/extras.rpy:1972
+translate russian extra_scene_45_3b6c8ec9:
+
+    # "When I lingered on her clit, Nadya began to tremble violently."
+    "Когда я задержался на её клиторе, Надия начала неистово дрожать."
+
+# game/extras.rpy:1974
+translate russian extra_scene_45_df0158ea:
+
+    # na "I want your hard cock inside me, [p_name_short]!"
+    na "Я хочу, чтобы твой твёрдый член был внутри меня, [p_name_short]!"
+
+# game/extras.rpy:1975
+translate russian extra_scene_45_9e960a96:
+
+    # na "Fuck me, please!"
+    na "Трахни меня, прошу!"
+
+# game/extras.rpy:1978
+translate russian extra_scene_45_56dee434:
+
+    # "Letting go of her legs, I moved on top of her and pressed my dick inside my mother’s pussy."
+    "Отпустив её ноги, я забрался на неё сверху и вдавил свой член в мамину киску."
+
+# game/extras.rpy:1980
+translate russian extra_scene_45_1c098f40:
+
+    # "Letting go of her legs, I moved on top of her and pressed my dick inside Nadya’s pussy."
+    "Отпустив её ноги, я забрался на неё сверху и вдавил свой член в киску Надии."
+
+# game/extras.rpy:1981
+translate russian extra_scene_45_424b637e:
+
+    # na "That’s it!"
+    na "Вот так!"
+
+# game/extras.rpy:1982
+translate russian extra_scene_45_487de577:
+
+    # c "Mmmm, your pussy feels so good."
+    c "Ммм, какая же классная у тебя киска."
+
+# game/extras.rpy:1983
+translate russian extra_scene_45_d44e79a5:
+
+    # na "And you feel so good inside me."
+    na "И мне так приятно ощущать внутри себя твой член."
+
+# game/extras.rpy:1985
+translate russian extra_scene_45_b74e7091:
+
+    # na "Fuck your mother hard, [p_name_short]!"
+    na "Трахни свою маму жёстко, [p_name_short]!"
+
+# game/extras.rpy:1987
+translate russian extra_scene_45_097a20b5:
+
+    # na "Fuck me hard, [p_name_short]!"
+    na "Трахни меня жёстко, [p_name_short]!"
+
+# game/extras.rpy:1989
+translate russian extra_scene_45_22a03cce:
+
+    # "I didn’t need any encouragement."
+    "Я не нуждался ни в каком поощрении."
+
+# game/extras.rpy:1990
+translate russian extra_scene_45_bfac44d5:
+
+    # "With bold measured strokes, I attacked her cunt."
+    "Смелыми размеренными толчками я атаковал её влагалище."
+
+# game/extras.rpy:1991
+translate russian extra_scene_45_5335c713:
+
+    # "The wet sounds of my dick burrowing deep inside her resounded through the room."
+    "Влажные звуки моего члена, проникающего глубоко в неё, разносились по комнате."
+
+# game/extras.rpy:1993
+translate russian extra_scene_45_6d96cafd:
+
+    # na "Keep going!{w} Keep going!{w} I’m going to cum!"
+    na "Продолжай!{w} Продолжай!{w} Я вот-вот кончу!"
+
+# game/extras.rpy:1995
+translate russian extra_scene_45_523c4485:
+
+    # "I didn’t stop thrusting, reducing my mother to whimpering cries of lust."
+    "Я не прекращал наседать, доводя маму до хныкающих криков вожделения."
+
+# game/extras.rpy:1997
+translate russian extra_scene_45_c4359c19:
+
+    # "I didn’t stop thrusting, reducing Nadya to whimpering cries of lust."
+    "Я не прекращал наседать, доводя Надию до хныкающих криков вожделения."
+
+# game/extras.rpy:1999
+translate russian extra_scene_45_a27ad045:
+
+    # "Kissing her, she reached her climax."
+    "Я целовал её, в то время она достигла оргазма."
+
+# game/extras.rpy:2000
+translate russian extra_scene_45_c6a9e5f4:
+
+    # "Her pussy convulsed as her body shuddered, but I didn’t stop."
+    "Её киска билась в конвульсиях, а тело содрогалось, но я не останавливался."
+
+# game/extras.rpy:2001
+translate russian extra_scene_45_0d40c9cd:
+
+    # "My deep thrusts prolonged her orgasm for a good while."
+    "Мои глубокие толчки на какое-то время продлили её оргазм."
+
+# game/extras.rpy:2002
+translate russian extra_scene_45_a4a6eb45:
+
+    # na "Oh [p_name], I love your dick so much!"
+    na "О, [p_name], как же сильно я обожаю твой член!"
+
+# game/extras.rpy:2003
+translate russian extra_scene_45_a7e277d3:
+
+    # na "Let me ride you, please!"
+    na "Прошу, позволь мне поскакать на тебе!"
+
+# game/extras.rpy:2005
+translate russian extra_scene_45_e16e3de7:
+
+    # "When the throes of her orgasm had subsided, I pulled out of my mother and lay on my back."
+    "Когда муки её оргазма утихли, я вышел из матери и лёг на спину."
+
+# game/extras.rpy:2007
+translate russian extra_scene_45_9e1a81c1:
+
+    # "When the throes of her orgasm had subsided, I pulled out of Nadya and lay on my back."
+    "Когда муки её оргазма утихли, я вышел из Надии и лёг на спину."
+
+# game/extras.rpy:2009
+translate russian extra_scene_45_ec38bf85:
+
+    # "Nadya squatted on top of my dick and allowed herself to be penetrated by me again."
+    "Надя присела на корточки поверх моего члена и позволила мне снова проникнуть в себя."
+
+# game/extras.rpy:2010
+translate russian extra_scene_45_8ef5edda:
+
+    # "She fucked me slow and intense, my full length stimulated by her wet pussy."
+    "Она трахала меня медленно и интенсивно, её влажная киска стимулировала весь мой член."
+
+# game/extras.rpy:2012
+translate russian extra_scene_45_e380895b:
+
+    # "When I was buried deep inside her, my mother ground her pussy against my abdomen."
+    "Когда я оказался глубоко в ней, мама прижалась своей киской к моему животу."
+
+# game/extras.rpy:2014
+translate russian extra_scene_45_4f6e559e:
+
+    # "When I was buried deep inside her, Nadya ground her pussy against my abdomen."
+    "Когда я оказался глубоко в ней, Надия прижалась своей киской к моему животу."
+
+# game/extras.rpy:2017
+translate russian extra_scene_45_a84f024a:
+
+    # c "Oh fuck, that feels so good."
+    c "Ох, бля, как же офигенно."
+
+# game/extras.rpy:2018
+translate russian extra_scene_45_3e198932:
+
+    # na "Yes, does my pussy feel good?"
+    na "Да, от моей киски офигенные ощущения?"
+
+# game/extras.rpy:2019
+translate russian extra_scene_45_93346968:
+
+    # c "Yes, keep riding me like that!"
+    c "Да, продолжай вот так скакать на мне!"
+
+# game/extras.rpy:2023
+translate russian extra_scene_45_4c5cd7cf:
+
+    # "My mother’s large breasts swayed right in front of me, so I took hold and began to massage them."
+    "Большие мамины груди колыхались прямо передо мной, и я взял их в руки и начал массировать."
+
+# game/extras.rpy:2024
+translate russian extra_scene_45_7793f610:
+
+    # c "I love your tits so much, mom."
+    c "Мне так нравятся твои сиськи, мам."
+
+# game/extras.rpy:2026
+translate russian extra_scene_45_c1051920:
+
+    # "Nadya’s large breasts swayed right in front of me, so I took hold and began to massage them."
+    "Большие груди Надии колыхались прямо передо мной, и я взял их в руки и начал массировать."
+
+# game/extras.rpy:2027
+translate russian extra_scene_45_2e4e6a8e:
+
+    # c "I love your tits so much, Nadya."
+    c "Мне так нравятся твои сиськи, Надия."
+
+# game/extras.rpy:2028
+translate russian extra_scene_45_982c63c4:
+
+    # na "They’re all yours, baby."
+    na "Они все твои, детка."
+
+# game/extras.rpy:2029
+translate russian extra_scene_45_079d52ee:
+
+    # na "You can do anything to me, anything to make you cum!"
+    na "Ты можешь делать со мной всё, что угодно, лишь бы ты кончил!"
+
+# game/extras.rpy:2033
+translate russian extra_scene_45_e2cd59a5:
+
+    # "My orgasm was close, my mother’s tight slit made sure of that."
+    "Мой оргазм был уже близок, тугая мамина щёлочка позаботилась об этом."
+
+# game/extras.rpy:2035
+translate russian extra_scene_45_8f61513d:
+
+    # "My orgasm was close, Nadya’s tight slit made sure of that."
+    "Мой оргазм был уже близок, тугая щёлочка Надии позаботилась об этом."
+
+# game/extras.rpy:2039
+translate russian extra_scene_45_a98ba642:
+
+    # "There was no question where my seed would end up."
+    "Не было никаких сомнений в том, где окажется моё семя."
+
+# game/extras.rpy:2042
+translate russian extra_scene_45_88f2e3d1:
+
+    # c "I want to make you pregnant, mom."
+    c "Я хочу оплодотворить тебя, мам."
+
+# game/extras.rpy:2044
+translate russian extra_scene_45_39516bb0:
+
+    # c "I want to make you pregnant, Nadya."
+    c "Я хочу оплодотворить тебя, Надия."
+
+# game/extras.rpy:2045
+translate russian extra_scene_45_1ad90fb3:
+
+    # na "Yes, [p_name_short], breed my pussy."
+    na "Да, [p_name_short], оплодотвори меня."
+
+# game/extras.rpy:2048
+translate russian extra_scene_45_2528021b:
+
+    # c "I want to fill you up, mom."
+    c "Я хочу наполнить тебя, мам."
+
+# game/extras.rpy:2050
+translate russian extra_scene_45_caceb0f2:
+
+    # c "I want to fill you up, Nadya."
+    c "Я хочу наполнить тебя, Надия."
+
+# game/extras.rpy:2051
+translate russian extra_scene_45_bcf1c4d4:
+
+    # na "Yes, [p_name_short], fill my pussy!"
+    na "Да, [p_name_short], наполни мою киску!"
+
+# game/extras.rpy:2052
+translate russian extra_scene_45_351fa52d:
+
+    # "Several thrusts later, my climax had arrived."
+    "Спустя несколько толчков наступила моя кульминация."
+
+# game/extras.rpy:2053
+translate russian extra_scene_45_9f8272ff:
+
+    # c "I’m going to cum!"
+    c "Я вот-вот кончу!"
+
+# game/extras.rpy:2054
+translate russian extra_scene_45_df45e3b2:
+
+    # c "I’m cumming!"
+    c "Я кончаю!"
+
+# game/extras.rpy:2055
+translate russian extra_scene_45_d02e0daa:
+
+    # na "Yes, that’s it."
+    na "Да, вот так."
+
+# game/extras.rpy:2058
+translate russian extra_scene_45_241f094b:
+
+    # na "Put a baby inside your mother!"
+    na "Заделай ребёночка в своей матери!"
+
+# game/extras.rpy:2060
+translate russian extra_scene_45_062f225a:
+
+    # na "Put a baby inside me!"
+    na "Заделай во мне ребёночка!"
+
+# game/extras.rpy:2063
+translate russian extra_scene_45_29baad40:
+
+    # na "Fill your mother up!"
+    na "Наполни свою маму!"
+
+# game/extras.rpy:2065
+translate russian extra_scene_45_a2120f82:
+
+    # na "Fill me up!"
+    na "Наполни меня!"
+
+# game/extras.rpy:2068
+translate russian extra_scene_45_ac5eddb5:
+
+    # "Hot cum flooded my mother’s vagina."
+    "Горячая сперма хлынула во влагалище моей матери."
+
+# game/extras.rpy:2070
+translate russian extra_scene_45_3f6bb027:
+
+    # "Hot cum flooded Nadya’s vagina."
+    "Горячая сперма хлынула во влагалище Надии."
+
+# game/extras.rpy:2071
+translate russian extra_scene_45_18970cb4:
+
+    # "She kept riding me until my cock ceased spewing cum and then she allowed me to pull out."
+    "Она продолжала скакать на мне, пока мой член не перестал извергать сперму, и тогда она позволила мне выйти."
+
+# game/extras.rpy:2075
+translate russian extra_scene_45_62ab9017:
+
+    # "My warm seed softly flowed from my mother’s gaping pussy."
+    "Моё тёплое семя мягко вытекло из зияющей киски моей матери."
+
+# game/extras.rpy:2077
+translate russian extra_scene_45_58ce4e49:
+
+    # "My warm seed softly flowed from Nadya’s gaping pussy."
+    "Моё тёплое семя мягко вытекло из зияющей киски Надии."
+
+# game/extras.rpy:2081
+translate russian extra_scene_45_6e9d6d1d:
+
+    # "I wanted to mark my mother with my seed."
+    "Я хотел пометить свою мать своим семенем."
+
+# game/extras.rpy:2082
+translate russian extra_scene_45_6b579e07:
+
+    # c "I want to shoot my cum all over your body, mom."
+    c "Я хочу размазать свою сперму по всему твоему телу, мам."
+
+# game/extras.rpy:2084
+translate russian extra_scene_45_9fbb9152:
+
+    # "I wanted to mark Nadya with my seed."
+    "Я хотел пометить Надию своим семенем."
+
+# game/extras.rpy:2085
+translate russian extra_scene_45_654ac753:
+
+    # c "I want to shoot my cum all over your body, Nadya."
+    c "Я хочу размазать свою сперму по всему твоему телу, Надия."
+
+# game/extras.rpy:2086
+translate russian extra_scene_45_3a337e93:
+
+    # na "Yes, [p_name_short], make a mess of my body!"
+    na "Да, [p_name_short], запачкай всё моё тело!"
+
+# game/extras.rpy:2088
+translate russian extra_scene_45_4111fb7e:
+
+    # "Several thrusts later, my climax arrived and I pulled out."
+    "Спустя несколько толчков наступила моя кульминация, и я вышел."
+
+# game/extras.rpy:2092
+translate russian extra_scene_45_7a4a5920:
+
+    # "Hot cum splashed all over my mother’s back and butt."
+    "Горячая сперма забрызгала всю спину и ягодицы моей матери."
+
+# game/extras.rpy:2094
+translate russian extra_scene_45_1ed4fccc:
+
+    # "Hot cum splashed all over Nadya’s back and butt."
+    "Горячая сперма забрызгала всю спину и ягодицы Надии."
+
+# game/extras.rpy:2096
+translate russian extra_scene_45_45657d78:
+
+    # "Exhausted, we cuddled together."
+    "Истощённые, мы прижались друг к другу."
+
+# game/extras.rpy:2097
+translate russian extra_scene_45_8cb27660:
+
+    # c "So this is what it takes to make you clean your room?"
+    c "Так вот что нужно, чтобы заставить тебя навести порядок в своей комнате?"
+
+# game/extras.rpy:2098
+translate russian extra_scene_45_7a16a2cb:
+
+    # na "Yes, every time."
+    na "Да, каждый раз."
+
+# game/extras.rpy:2099
+translate russian extra_scene_45_2b538134:
+
+    # c "Just to be clear, that’s not a punishment at all."
+    c "Просто чтобы внести ясность, это вовсе не наказание."
+
+# game/extras.rpy:2101
+translate russian extra_scene_45_d2296f3d:
+
+    # "We needed to get ready for our arrival on Petrarch, so I left my mother’s quarters after kissing her goodbye."
+    "Нам нужно было подготовиться к нашему прибытию на Петрарку, поэтому я покинул каюту своей матери, поцеловав её на прощание."
+
+# game/extras.rpy:2103
+translate russian extra_scene_45_34382141:
+
+    # "We needed to get ready for our arrival on Petrarch, so I left Nadya’s quarters after kissing her goodbye."
+    "Нам нужно было подготовиться к нашему прибытию на Петрарку, поэтому я покинул каюту Надии, поцеловав её на прощание."
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+# game/extras.rpy:2128
+translate russian extra_scene_44_80e94728:
+
+    # "When I was naked, Eva took hold of my erection and dropped to her knees."
+    "Когда я полностью разделся, Ева схватила меня за эрекцию и опустилась на колени."
+
+# game/extras.rpy:2509
+translate russian extra_scene_46_10eef4af:
+
+    # "Is Vess submissive in this scene?"
+    "Весс в этой сцене саб?"
+
+# game/extras.rpy:2513
+translate russian extra_scene_46_a2cec5b9:
+
+    # "Vess submissive"
+    "Весс саб"
+
+# game/extras.rpy:2516
+translate russian extra_scene_46_2be4f19f:
+
+    # "Vess not submissive"
+    "Весс не саб"
+
+# game/extras.rpy:2518
+translate russian extra_scene_46_a7af1bbe:
+
+    # "I pulled out of Vess and allowed her to catch her breath."
+    "Я отстранился от Весс и дал ей перевести дыхание."
+
+# game/extras.rpy:2520
+translate russian extra_scene_46_b8472df8:
+
+    # c "You’re both such good little cock sluts."
+    c "Вы обе те ещё жадные до члена шлюшки."
+
+# game/extras.rpy:2521
+translate russian extra_scene_46_4ba8056a:
+
+    # c "I really want to return the favor, so why don’t you both spread your legs for me."
+    c "Мне очень хочется отплатить вам, так почему бы вам обеим не раздвинуть для меня ноги."
+
+# game/extras.rpy:2523
+translate russian extra_scene_46_7665ccd0:
+
+    # "Both Vess and Céline obliged, opening their legs and displaying their sweet little pussies for me."
+    "Весс и Селин подчинились, раздвинув ножки и показав мне свои сладкие киски."
+
+# game/extras.rpy:2524
+translate russian extra_scene_46_b2f0b128:
+
+    # c "Now who shall I pick first?"
+    c "С кого же мне начать?"
+
+# game/extras.rpy:2527
+translate russian extra_scene_46_03583cd3:
+
+    # ve "I’m all ready for you, master."
+    ve "Я полностью готова, господин."
+
+# game/extras.rpy:2529
+translate russian extra_scene_46_f93b076e:
+
+    # ve "I’m all ready for you."
+    ve "Я полностью готова."
+
+# game/extras.rpy:2531
+translate russian extra_scene_46_2c03e1e0:
+
+    # ce "Me please!"
+    ce "С меня, прошу!"
+
+# game/extras.rpy:2532
+translate russian extra_scene_46_ada9d059:
+
+    # ce "I’ll squirt for you again!"
+    ce "Я снова сквиртану для тебя!"
+
+# game/extras.rpy:2533
+translate russian extra_scene_46_a44b63aa:
+
+    # c "Oh Vess, I don’t think I can resist that offer."
+    c "О, Весс, я не думаю, что смогу устоять перед таким предложением."
+
+# game/extras.rpy:2538
+translate russian extra_scene_46_611b62ca:
+
+    # "I went down to my knees and pushed Céline’s legs backward."
+    "Я опустился на колени и оттолкнул ноги Селин назад."
+
+# game/extras.rpy:2539
+translate russian extra_scene_46_cac52928:
+
+    # "She shivered as my tongue connected with her pussy lips."
+    "Она вздрогнула, когда мой язык коснулся её половых губ."
+
+# game/extras.rpy:2540
+translate russian extra_scene_46_27d2ab80:
+
+    # c "Mmmm, you’re already drenched, Céline."
+    c "Ммм, ты уже течёшь, Селин."
+
+# game/extras.rpy:2541
+translate russian extra_scene_46_31d5c584:
+
+    # ce "Yes, you’re making me all wet."
+    ce "Да, из-за тебя я вся намокла."
+
+# game/extras.rpy:2545
+translate russian extra_scene_46_ca2d3f65:
+
+    # ce "Oh [p_name_short], your tongue feels so good on my pussy."
+    ce "О, [p_name_short], как же приятно ощущать твой язычок на своей киске."
+
+# game/extras.rpy:2546
+translate russian extra_scene_46_bbbeb7ad:
+
+    # "Holding her in place, I began to lick Céline’s tight pussy."
+    "Удерживая её на месте, я начал лизать тугую киску Селин."
+
+# game/extras.rpy:2547
+translate russian extra_scene_46_b45dbc6f:
+
+    # "She quivered and moaned, growing increasingly wet."
+    "Она дрожала и стонала, намокая всё больше."
+
+# game/extras.rpy:2549
+translate russian extra_scene_46_9cb13caf:
+
+    # "Ejaculate oozed from her cunt, as her muscles tightened in the onslaught of my tongue."
+    "Эякулят засочился из её влагалища, когда её мышцы напряглись под натиском моего языка."
+
+# game/extras.rpy:2550
+translate russian extra_scene_46_4a5ec619:
+
+    # ce "Yes, [p_name_short], right there."
+    ce "Да, [p_name_short], именно там."
+
+# game/extras.rpy:2551
+translate russian extra_scene_46_252ae0db:
+
+    # ce "Lick my clit!"
+    ce "Лижи мой клитор!"
+
+# game/extras.rpy:2552
+translate russian extra_scene_46_99fda8e6:
+
+    # ce "Please don’t stop!"
+    ce "Прошу, не останавливайся!"
+
+# game/extras.rpy:2554
+translate russian extra_scene_46_abcbea03:
+
+    # ve "You’re going to cum for him, aren’t you Céline?"
+    ve "Ты же кончишь для него, да, Селин?"
+
+# game/extras.rpy:2555
+translate russian extra_scene_46_1ef6a273:
+
+    # ce "Yes, I am."
+    ce "Да, кончу."
+
+# game/extras.rpy:2556
+translate russian extra_scene_46_8ba17c5e:
+
+    # ce "He’s going to make me cum so hard!"
+    ce "Он заставит меня очень сильно кончить!"
+
+# game/extras.rpy:2561
+translate russian extra_scene_46_ac505a8c:
+
+    # "Emboldened, I increased the pressure on her slit and throbbing clitoris."
+    "Воодушевлённый, я усилил давление на её щёлочку и пульсирующий клитор."
+
+# game/extras.rpy:2562
+translate russian extra_scene_46_120b6074:
+
+    # "Céline slammed the palms of her hands repeatedly on the floor of the ship, her anguished moans reverberating throughout the bridge."
+    "Селин несколько раз ударила ладонями по полу корабля, и её мучительные стоны разнеслись по всему мостику."
+
+# game/extras.rpy:2563
+translate russian extra_scene_46_56119beb:
+
+    # "I could feel her climax was very near, as my senses were suddenly overwhelmed by her salty taste."
+    "Я чувствовал, что её оргазм очень близко, так как мои чувства внезапно переполнил её солёный вкус."
+
+# game/extras.rpy:2564
+translate russian extra_scene_46_e6446b11:
+
+    # ce "Oh fuck, [p_name_short]! I’m cumming!"
+    ce "Ох, бля, [p_name_short]! Я кончаю!"
+
+# game/extras.rpy:2565
+translate russian extra_scene_46_797f2030:
+
+    # ce "I’m going to-"
+    ce "Я вот-вот-"
+
+# game/extras.rpy:2566
+translate russian extra_scene_46_f83bd7cc:
+
+    # "Her words were lost to the frenzy that had overtaken her body."
+    "Её слова потонули в исступлении, охватившем её тело."
+
+# game/extras.rpy:2571
+translate russian extra_scene_46_f51565c2:
+
+    # "Ejaculate sprayed from her slit and into my face."
+    "Эякулят брызнул из её щели прямо мне в лицо."
+
+# game/extras.rpy:2573
+translate russian extra_scene_46_f8820d9f:
+
+    # "I kept licking her pussy and managed to elicit another squirt."
+    "Я продолжал лизать её киску, и мне удалось добиться ещё одного сквирта."
+
+# game/extras.rpy:2574
+translate russian extra_scene_46_1d17cc7b:
+
+    # "Both Vess and me held her as she convulsed violently on the floor, a puddle of her ejaculate forming underneath her ass."
+    "Мы с Весс оба держали её, пока она яростно билась в конвульсиях на полу, а под её задницей образовывалась лужица эякулята."
+
+# game/extras.rpy:2575
+translate russian extra_scene_46_cd3e0055:
+
+    # "When the tremors wracking her body receded, Céline looked up to me in adoration."
+    "Когда дрожь, сотрясавшая её тело, утихла, Селин с обожанием посмотрела на меня."
+
+# game/extras.rpy:2576
+translate russian extra_scene_46_2d3d6dd6:
+
+    # c "Now Vess, be a good girl and clean her up."
+    c "А теперь, Весс, будь хорошей девочкой и приведи её в порядок."
+
+# game/extras.rpy:2581
+translate russian extra_scene_46_d3dc9363:
+
+    # "Vess, lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
+    "Весс опустилась между бёдер Селин и начала слизывать соки, покрывавшие её киску."
+
+# game/extras.rpy:2583
+translate russian extra_scene_46_67aa4c0d:
+
+    # c "That’s a good little slut."
+    c "Какая хорошая шлюшка."
+
+# game/extras.rpy:2585
+translate russian extra_scene_46_61717e30:
+
+    # c "That’s a good girl."
+    c "Вот умница."
+
+# game/extras.rpy:2588
+translate russian extra_scene_46_565ca7e1:
+
+    # "Céline was too dazed to respond at first, but as Vess kept licking her slit, she slowly came to her senses again."
+    "Поначалу Селин была слишком ошеломлена, чтобы ответить, но по мере того как Весс продолжала вылизывать её щёлочку, она постепенно приходила в себя."
+
+# game/extras.rpy:2589
+translate russian extra_scene_46_5e9f5852:
+
+    # "Another hungry moan escaped her."
+    "Из неё вырвался ещё один голодный стон."
+
+# game/extras.rpy:2590
+translate russian extra_scene_46_111e62f6:
+
+    # c "I think you’re turning her on, Vess."
+    c "Мне кажется, ты её заводишь, Весс."
+
+# game/extras.rpy:2591
+translate russian extra_scene_46_f631b0c9:
+
+    # c "Is Vess making you horny again, Céline?"
+    c "Весс снова возбуждает тебя, Селин?"
+
+# game/extras.rpy:2592
+translate russian extra_scene_46_c636eed0:
+
+    # c "Do you want more?"
+    c "Ты хочешь большего?"
+
+# game/extras.rpy:2593
+translate russian extra_scene_46_1f024a06:
+
+    # ce "Yes!"
+    ce "Да!"
+
+# game/extras.rpy:2594
+translate russian extra_scene_46_e37f9d7b:
+
+    # c "But what about Vess?"
+    c "А как же Весс?"
+
+# game/extras.rpy:2595
+translate russian extra_scene_46_80b59389:
+
+    # ce "What about her?"
+    ce "А что с ней?"
+
+# game/extras.rpy:2596
+translate russian extra_scene_46_64e0260b:
+
+    # c "My, you’re greedy."
+    c "Ну и ну, какая же ты жадная."
+
+# game/extras.rpy:2598
+translate russian extra_scene_46_3f05aeda:
+
+    # c "Vess has been a good whore, don’t you think she should be allowed to cum too?"
+    c "Весс была хорошей шлюхой, тебе не кажется, что ей тоже нужно позволить кончить?"
+
+# game/extras.rpy:2600
+translate russian extra_scene_46_a2f28a12:
+
+    # c "Don’t you think Vess should cum too?"
+    c "Тебе не кажется, что Весс тоже должна кончить?"
+
+# game/extras.rpy:2601
+translate russian extra_scene_46_e8e252a2:
+
+    # ce "I guess..."
+    ce "Пожалуй..."
+
+# game/extras.rpy:2602
+translate russian extra_scene_46_dd2b5dd0:
+
+    # c "Céline doesn’t want you to cum, Vess."
+    c "Селин не хочет, чтобы ты кончала, Весс."
+
+# game/extras.rpy:2604
+translate russian extra_scene_46_ac1361b9:
+
+    # ve "I’m happy with whatever you decide for me, master."
+    ve "Я приму любое ваше решение, господин."
+
+# game/extras.rpy:2605
+translate russian extra_scene_46_a4523da3:
+
+    # c "Make her cum then and maybe I’ll reward you."
+    c "Заставь её кончить, и, возможно, я вознагражу тебя."
+
+# game/extras.rpy:2607
+translate russian extra_scene_46_dd2f5814:
+
+    # ve "Maybe she’ll think differently when I make her squirt again."
+    ve "Может быть, она передумает, когда я вновь доведу её до сквирта."
+
+# game/extras.rpy:2608
+translate russian extra_scene_46_e14ea048:
+
+    # c "That gives me all the time to focus on you."
+    c "Это даёт мне возможность полностью сосредоточиться на тебе."
+
+# game/extras.rpy:2614
+translate russian extra_scene_46_2363a94b:
+
+    # "I made Vess lie on the floor where Céline squatted on top of her face."
+    "Я заставил Весс лечь на пол, а Селин присела на корточки перед её лицом."
+
+# game/extras.rpy:2615
+translate russian extra_scene_46_26b4ae4a:
+
+    # "Vess pushed one finger into Céline’s wet slit and began to finger fuck her."
+    "Весс ввела один палец во влажную щель Селин и начала трахать её."
+
+# game/extras.rpy:2616
+translate russian extra_scene_46_b4b36016:
+
+    # "I pushed the blonde girl’s legs apart and inserted two fingers inside her tight pussy."
+    "Я раздвинул ноги блондинки и ввёл два пальца в её тугую киску."
+
+# game/extras.rpy:2617
+translate russian extra_scene_46_8a39b621:
+
+    # "Like Céline, Vess was dripping wet as well."
+    "Как и Селин, Весс тоже была насквозь мокрой."
+
+# game/extras.rpy:2618
+translate russian extra_scene_46_09a44d00:
+
+    # "Céline moaned hoarsely, the muscles in her legs straining against the rapid motions of Vess’s finger inside her cunt."
+    "Селин хрипло застонала, мышцы её ног напряглись от быстрых движений пальца Весс внутри её влагалища."
+
+# game/extras.rpy:2620
+translate russian extra_scene_46_f9fd2124:
+
+    # "Vess writhed against my fingers, drenching them in ejaculate."
+    "Весс извивалась под моими пальцами, обливая их эякулятом."
+
+# game/extras.rpy:2622
+translate russian extra_scene_46_ec908869:
+
+    # ve "Yes, master, you’re making me feel so good!"
+    ve "Да, господин, вы сводите меня с ума!"
+
+# game/extras.rpy:2624
+translate russian extra_scene_46_af2ec482:
+
+    # ve "Yes, right there!"
+    ve "ДА, именно там!"
+
+# game/extras.rpy:2626
+translate russian extra_scene_46_487ca84c:
+
+    # ce "Oh fuck, Vess!"
+    ce "Ох, бля, Весс!"
+
+# game/extras.rpy:2627
+translate russian extra_scene_46_b2e2bf86:
+
+    # ce "Keep going, keep going!"
+    ce "Продолжай, продолжай!"
+
+# game/extras.rpy:2632
+translate russian extra_scene_46_1a51db7e:
+
+    # "Céline let out one tortured groan and liquid shot out of her pussy with great force, splashing on Vess’s face."
+    "Селин издала мучительный стон, и жидкость с огромной силой вырвалась из её киски, забрызгав лицо Весс."
+
+# game/extras.rpy:2633
+translate russian extra_scene_46_94553b6e:
+
+    # c "Drink it!"
+    c "Выпей!"
+
+# game/extras.rpy:2635
+translate russian extra_scene_46_7d285b7a:
+
+    # "Vess opened her mouth and received another spray of ejaculate right from Céline’s convulsing slit."
+    "Весс открыла рот и получила ещё одну струю эякулята прямо из бьющейся в конвульсиях щёлочки Селин."
+
+# game/extras.rpy:2637
+translate russian extra_scene_46_52f6a948:
+
+    # "While Céline was orgasming, I fingered Vess with renewed intensity."
+    "Пока Селин испытывала оргазм, я ускорил движения пальцев внутри Весс."
+
+# game/extras.rpy:2639
+translate russian extra_scene_46_799e4842:
+
+    # ve "Oh master! Yes! Right there!"
+    ve "О, господин! Да! Именно там!"
+
+# game/extras.rpy:2641
+translate russian extra_scene_46_921da3a0:
+
+    # ve "Oh [p_name_short]! Yes! Right there!"
+    ve "О, [p_name_short]! Да! Именно там!"
+
+# game/extras.rpy:2642
+translate russian extra_scene_46_3c094942:
+
+    # ve "You’re making me cum!"
+    ve "Ты заставляешь меня кончать!"
+
+# game/extras.rpy:2645
+translate russian extra_scene_46_fc57bae7:
+
+    # "With that statement Vess came hard."
+    "После этого заявления Весс обильно кончила."
+
+# game/extras.rpy:2646
+translate russian extra_scene_46_23172224:
+
+    # "She arched her back and collapsed back onto the floor as her orgasm shuddered through her body."
+    "Она выгнула спину и рухнула обратно на пол, когда оргазм пронзил её тело."
+
+# game/extras.rpy:2647
+translate russian extra_scene_46_95b2d641:
+
+    # "The sight of both girls in a state of utmost arousal made me want to fuck them hard right then and there."
+    "Вид обеих девушек в состоянии крайнего возбуждения вызвал у меня желание жёстко трахнуть их прямо здесь и сейчас."
+
+# game/extras.rpy:2654
+translate russian extra_scene_47_2f657ef1:
+
+    # "Do you suck Ziv's dick?"
+    "Ты отсасываешь Зив?"
+
+# game/extras.rpy:2658
+translate russian extra_scene_47_1cb50eca:
+
+    # "Fellatio on Ziv"
+    "Минет Зив"
+
+# game/extras.rpy:2661
+translate russian extra_scene_47_c82eab70:
+
+    # "No fellatio on Ziv"
+    "Нет минета Зив"
+
+# game/extras.rpy:2664
+translate russian extra_scene_47_6553bad0:
+
+    # zi "You liked that, didn’t you?"
+    zi "Тебе же нравится, да?"
+
+# game/extras.rpy:2665
+translate russian extra_scene_47_42e16d70:
+
+    # c "Your tight mouth felt so great."
+    c "Ощущения от твоего плотного ротика просто потрясающие."
+
+# game/extras.rpy:2666
+translate russian extra_scene_47_dea66856:
+
+    # zi "Do you want to really fuck it?"
+    zi "Ты правда хочешь трахнуть его?"
+
+# game/extras.rpy:2667
+translate russian extra_scene_47_ee67f3f3:
+
+    # c "I’d love that."
+    c "Я бы с удовольствием."
+
+# game/extras.rpy:2672
+translate russian extra_scene_47_d21bc05c:
+
+    # "Ziv positioned herself on her back, her tongue outstretched, her mouth eager to receive my erection."
+    "Зив легла на спину, высунув язык, её рот жаждал принять мою эрекцию."
+
+# game/extras.rpy:2673
+translate russian extra_scene_47_8a50978d:
+
+    # "She had her fingers wrapped around her own dick and stroked herself softly."
+    "Она обхватила пальцами свой член и начала тихонько его надрачивать."
+
+# game/extras.rpy:2675
+translate russian extra_scene_47_9a674638:
+
+    # zi "Mmmm, put it inside me and fuck my mouth."
+    zi "Мммм, засунь его в меня и оттрахай мой ротик."
+
+# game/extras.rpy:2680
+translate russian extra_scene_47_3ce7c585:
+
+    # "I grabbed her legs and pushed the tip of my dick against her lips."
+    "Я схватил её за ноги и прижал головку члена к её губам."
+
+# game/extras.rpy:2681
+translate russian extra_scene_47_cc90c89f:
+
+    # "Ziv gulped me down greedily and the warm wetness of her mouth enveloped my throbbing cock."
+    "Зив жадно заглотила меня, и теплая влага её рта обволокла мой пульсирующий член."
+
+# game/extras.rpy:2682
+translate russian extra_scene_47_df37af83:
+
+    # "My first thrusts were exploratory, in order to sense how far Ziv could take it."
+    "Первые мои толчки были пробными, чтобы понять, насколько глубоко Зив сможет его взять."
+
+# game/extras.rpy:2685
+translate russian extra_scene_47_28ddb18f:
+
+    # "Soon, I hit the back of her throat and Ziv retched in response."
+    "Вскоре я достиг задней стенки её горла, и Зив подавилась, едва сдерживая рвотный позыв."
+
+# game/extras.rpy:2686
+translate russian extra_scene_47_361496c3:
+
+    # "Her tongue slithered along the length of my shaft to compensate and to keep me inside her mouth."
+    "Её язык скользил по длине моего ствола, чтобы компенсировать это и удержать меня внутри её рта."
+
+# game/extras.rpy:2687
+translate russian extra_scene_47_eb8f45cd:
+
+    # c "That’s it Ziv, you can take it."
+    c "Вот так, Зив, у тебя получится."
+
+# game/extras.rpy:2691
+translate russian extra_scene_47_13524693:
+
+    # "I began to penetrate her mouth in earnest, with slow methodical strokes."
+    "Я начал проникать в её рот со всей серьёзностью, медленными методичными движениями."
+
+# game/extras.rpy:2692
+translate russian extra_scene_47_f985acc6:
+
+    # "Wet gagging sounds erupted from Ziv, each time I hit her deep inside her throat."
+    "Влажные рвотные звуки вырывались у Зив каждый раз, когда я проникал глубоко в её горло."
+
+# game/extras.rpy:2695
+translate russian extra_scene_47_c7d53172:
+
+    # "Ziv was enjoying the violation of her throat, as evidenced by the fact that she was jerking herself off more rapidly than before."
+    "Зив наслаждалась насилием над своим горлом, о чём свидетельствовал тот факт, что она дрочила себе ещё быстрее, чем раньше."
+
+# game/extras.rpy:2696
+translate russian extra_scene_47_3d0837b6:
+
+    # "A glistening sheen of precum covered the tip of her own dick."
+    "Блестящий слой предэякулята покрывал головку её собственного члена."
+
+# game/extras.rpy:2697
+translate russian extra_scene_47_7dc8b45e:
+
+    # c "I want you to take charge for a while."
+    c "Я хочу, чтобы ты на какое-то время взяла контроль."
+
+# game/extras.rpy:2698
+translate russian extra_scene_47_d6eb76ed:
+
+    # c "See how deep you can take me."
+    c "Посмотрим, насколько глубоко ты сможешь взять мой член."
+
+# game/extras.rpy:2704
+translate russian extra_scene_47_bec898d1:
+
+    # "I pulled out of Ziv’s mouth and lay on my back."
+    "Я вытащил член изо рта Зив и лёг на спину."
+
+# game/extras.rpy:2705
+translate russian extra_scene_47_961153b8:
+
+    # "Ziv crawled on top me, her cock dangling in my face."
+    "Зив забралась на меня сверху, её член болтался у моего лица."
+
+# game/extras.rpy:2710
+translate russian extra_scene_47_23a739aa:
+
+    # "With her hands held on her back, she swallowed me whole again."
+    "Сложив руки за спиной, она вновь целиком заглотила мой член."
+
+# game/extras.rpy:2714
+translate russian extra_scene_47_173e2891:
+
+    # "Bobbing up and down, she took me balls-deep into her mouth, often holding it there for several seconds."
+    "Покачиваясь вверх-вниз, она брала мой член по самые яйца в рот, часто задерживая его там на несколько секунд."
+
+# game/extras.rpy:2715
+translate russian extra_scene_47_8a3fcf58:
+
+    # "Mucus streamed readily down the length of my shaft, as Ziv allowed me to fuck her face hard."
+    "Слизь обильно стекала по моему стволу, пока Зив позволяла мне жестко трахать её личико."
+
+# game/extras.rpy:2720
+translate russian extra_scene_47_e86e764c:
+
+    # "Her own cock was inside my mouth too and I savored the saline taste of her arousal."
+    "Её член тоже находился у меня во рту, и я наслаждался солёным вкусом её возбуждения."
+
+# game/extras.rpy:2721
+translate russian extra_scene_47_fd8cc43a:
+
+    # "It wasn’t long before I would erupt and Ziv knew it."
+    "До момента моего извержения оставалось немного, и Зив это знала."
+
+# game/extras.rpy:2722
+translate russian extra_scene_47_06652eca:
+
+    # "She increased the pace, bringing me ever closer to my climax."
+    "Она нарастила темп, всё больше приближая меня к оргазму."
+
+# game/extras.rpy:2725
+translate russian extra_scene_47_ac2a8b38:
+
+    # c "I want to cum inside your mouth, Ziv."
+    c "Я хочу кончить тебе в рот, Зив."
+
+# game/extras.rpy:2730
+translate russian extra_scene_47_72d94788:
+
+    # "After several thrusts, I came deep inside Ziv’s mouth."
+    "После нескольких толчков я кончил глубоко в рот Зив."
+
+# game/extras.rpy:2733
+translate russian extra_scene_47_b646ff72:
+
+    # "Thick ropes of warm cum shot straight into her throat and she swallowed everything diligently."
+    "Густые струи тёплой спермы устремились прямо в её глотку, и она старательно всё проглотила."
+
+# game/extras.rpy:2734
+translate russian extra_scene_47_df1e6abf:
+
+    # zi "Mmmm, so tasty."
+    zi "Ммм, какая вкуснятина."
+
+# game/extras.rpy:2736
+translate russian extra_scene_47_fcbc4c63:
+
+    # "I want to cum all over your face, Ziv."
+    c "Я хочу обкончать твоё лицо, Зив."
+
+# game/extras.rpy:2744
+translate russian extra_scene_47_ff02ad80:
+
+    # "Ziv released my cock from her mouth after several deep thrusts and jerked me off intensely."
+    "После нескольких глубоких толчков Зив выпустила мой член изо рта и начала интенсивно дрочить."
+
+# game/extras.rpy:2749
+translate russian extra_scene_47_ab2c4d72:
+
+    # "My dick was spurting cum in seconds."
+    "Мой член за считанные секунды изверг сперму."
+
+# game/extras.rpy:2757
+translate russian extra_scene_47_bed2ce4a:
+
+    # "Thick ropes of semen coated one side of Ziv’s face."
+    "Густые струи спермы покрыли одну сторону лица Зив."
+
+# game/extras.rpy:2758
+translate russian extra_scene_47_9fcc3be6:
+
+    # zi "Mmmm, so hot."
+    zi "Ммм, такая горячая."
+
+# game/extras.rpy:2763
+translate russian extra_scene_47_5f03d1d7:
+
+    # "Ziv climbed off me and regarded me with the same hunger as before."
+    "Зив слезла с меня и посмотрела на меня с тем же голодом, что и ранее."
+
+# game/extras.rpy:2765
+translate russian extra_scene_47_e61b8b76:
+
+    # zi "That felt so good."
+    zi "Как же это было классно."
+
+# game/extras.rpy:2766
+translate russian extra_scene_47_3cabc550:
+
+    # zi "We’re not done yet, are we?"
+    zi "Мы же ещё не закончили, верно?"
+
+# game/extras.rpy:2767
+translate russian extra_scene_47_b40d1a45:
+
+    # c "Certainly not."
+    c "Конечно же, нет."
 

@@ -4318,7 +4318,7 @@ translate russian ep020_pirate_rendevous_154ee49a:
 translate russian ep020_pirate_rendevous_bdf0e24c:
 
     # xi "Our latest intel suggests he’s holed up with his crew, the Skivs, in his base on Aretine."
-    xi "Согласно нашим последним данным, он скрывается со своей командой, Скивсами, на своей базе на Аретине."
+    xi "Согласно нашим последним данным, он скрывается со своей командой, Скивами, на своей базе на Аретине."
 
 # game/episode020.rpy:1300
 translate russian ep020_pirate_rendevous_584b5da2:
@@ -9658,7 +9658,7 @@ translate russian ep020_lilly_aven_sex_257fa852:
 translate russian ep020_lilly_aven_sex_a117e036:
 
     # av "How would you feel about that, Lilly?"
-    av "Как ты к этому относишься, Лили?"
+    av "Как ты к этому относишься, Лилли?"
 
 # game/episode020.rpy:2737
 translate russian ep020_lilly_aven_sex_1ffb65ab:
@@ -14266,53 +14266,49 @@ translate russian strings:
     old "Fuck Vess again"
     new "Снова трахнуть Весс"
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2024-10-22 19:08
 
-# game/episode020.rpy:636
+# game/episode020.rpy:639
 translate russian ep020_paclerara_nadya_ab1ccf7c:
 
     # c "Making you a mother would be a dream come true."
-    c "Сделать тебя снова матерью - это было бы воплощением мечты."
+    c "Сделать тебя матерью было бы воплощением моей мечты."
 
-# game/episode020.rpy:985
-translate russian ep020_paclerara_thyia_c4e2be81:
-
-    # th "Not unless you want your life expectancy to crash to ten percent."
-    th "Нет, если ты хочешь, чтобы продолжительность твоей жизни сократилась на десять процентов."
-
-# game/episode020.rpy:1257
+# game/episode020.rpy:1260
 translate russian ep020_pirate_rendevous_e0e9a782:
 
     # "Thyia was the first to sit up."
-    "Тхия первой подняла голову."
+    "Тхия первой поднялась на ноги."
 
-# game/episode020.rpy:2628
+# game/episode020.rpy:2631
 translate russian ep020_paclerara_eva_87add7cf:
 
     # c "More likely I would have been court-martialled immediately over some stupid transgression."
     c "Скорее всего, я бы немедленно предстал перед судом за какой-нибудь глупый проступок."
 
-# game/episode020.rpy:2797
+# game/episode020.rpy:2800
 translate russian ep020_lilly_aven_sex_e92026ec:
 
     # "Aven bent her knees slightly and hovered on top of her friend’s face."
-    "Эвин слегка согнула колени и нависла над лицом сестры."
+    "Эвин слегка согнула колени и нависла над лицом своей подруги."
 
-# game/episode020.rpy:3109
+# game/episode020.rpy:3112
 translate russian ep020_l_av_fucking_dea32d45:
 
     # "Thick strands of warm cum splashed all over Aven’s back."
-    "Густые струи тёплой спермы разлетелись по животу и груди Лилли."
+    "Густые струи тёплой спермы разлетелись по спине Эвин."
 
-# game/episode020.rpy:3336
+# game/episode020.rpy:3339
 translate russian ep020_eva_sex_b5f99b95_1:
 
     # "I made my last rapid thrusts, driving Eva over the edge."
-    "Я сделал свои последние быстрые толчки, доводя свою сестру до предела."
+    "Я сделал свои последние быстрые толчки, доводя Еву до предела."
 
-translate russian strings:
+# TODO: Translation updated at 2025-02-04 18:17
 
-    # game/episode020.rpy:190
-    old "Visit Raene"
-    new "Посетить Рэин"
+# game/episode020.rpy:985
+translate russian ep020_paclerara_thyia_c4e2be81:
+
+    # th "Not unless you want your life expectancy to crash to ten percent."
+    th "Только если ты не хочешь, чтобы продолжительность твоей жизни сократилась на десять процентов."
 

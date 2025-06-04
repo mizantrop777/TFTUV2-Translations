@@ -4038,11 +4038,11 @@ translate russian strings:
 
     # game/episode015_conversations.rpy:501
     old "Promise to do better"
-    new "Обещание стать лучше"
+    new ""
 
     # game/episode015_conversations.rpy:605
     old "Pick a fight"
-    new "Затеять драку"
+    new ""
 
     # game/episode015_conversations.rpy:974
     old "Pee on her"
@@ -4133,36 +4133,4 @@ translate russian ep015_raene_talk_5eafdf59:
 
     # ra "It’s just that I had such a great time when we were last together."
     ra "Во время нашей последней встречи я прекрасно провела время."
-
-# TODO: Translation updated at 2024-12-09 00:03
-
-translate russian strings:
-
-    # game/episode015_conversations.rpy:147
-    old "Mysterious aliens who generally demand a sacrifice before dealing with other species."
-    new "Таинственные инопланетяне, которые обычно требуют жертвоприношения, прежде чем иметь дело с другими видами."
-
-    # game/episode015_conversations.rpy:304
-    old "Stay silent"
-    new "Молчать"
-
-    # game/episode015_conversations.rpy:502
-    old "Put her in her place"
-    new "Поставь её на место"
-
-    # game/episode015_conversations.rpy:802
-    old "Agree"
-    new "Согласиться"
-
-    # game/episode015_conversations.rpy:1008
-    old "Just fuck her"
-    new "Просто трахнуть её"
-
-    # game/episode015_conversations.rpy:1172
-    old "Facial"
-    new "Лицо"
-
-    # game/episode015_conversations.rpy:1306
-    old "Swallow"
-    new "В рот"
 

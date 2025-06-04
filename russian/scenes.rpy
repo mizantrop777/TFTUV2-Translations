@@ -664,9 +664,89 @@ translate russian strings:
 
     # game/scenes.rpy:3
     old "Massage Make-out"
-    new "Массаж с поцелуями"
+    new "Массажные ласки"
 
     # game/scenes.rpy:3
     old "Poolside Plow"
-    new "Плуг у бассейна"
+    new "Перепихон у бассейна"
+
+# TODO: Translation updated at 2025-02-04 18:17
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Eva Evening"
+    new "Вечер с Евой"
+
+    # game/scenes.rpy:3
+    old "Breeding the Books"
+    new "Размножение книг"
+
+    # game/scenes.rpy:3
+    old "Episode #21"
+    new "Эпизод #21"
+
+    # game/scenes.rpy:3
+    old "Intercourse In Transit"
+    new "Соитие уже в пути"
+
+    # game/scenes.rpy:3
+    old "Attendant Arousal"
+    new "Возбуждение прислужницы"
+
+    # game/scenes.rpy:3
+    old "Ramrod Raene"
+    new "Шомпол Рэин"
+
+    # game/scenes.rpy:3
+    old "Four Is A Crowd"
+    new "Четверо - это Толпа"
+
+    # game/scenes.rpy:3
+    old "Over By The Window"
+    new "У окна"
+
+    # game/scenes.rpy:3
+    old "Couch Coitus"
+    new "Соитие на диване"
+
+    # game/scenes.rpy:3
+    old "Couch Corruption"
+    new "Диванное совращение"
+
+    # game/scenes.rpy:3
+    old "Shagging After Showering"
+    new "Потрахушки после душа"
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Lickety-spit"
+    new "ТурбоЛиз"
+
+    # game/scenes.rpy:3
+    old "Ziv's Zenith"
+    new "Зив в Зените"
+
+    # game/scenes.rpy:3
+    old "Operative Oral"
+    new "Оперативный Орал"
+
+    # game/scenes.rpy:3
+    old "Duo Dalliance"
+    new "Дуэт Дальянс"
+
+    # game/scenes.rpy:3
+    old "Two Turned-on Tools"
+    new "Два заведённых инструмента"
+
+    # game/scenes.rpy:3
+    old "Boinking On The Bridge"
+    new "Перепихон на мостике"
+
+    # game/scenes.rpy:3
+    old "Bridge Bitches"
+    new "Мостовые Сучки"
 

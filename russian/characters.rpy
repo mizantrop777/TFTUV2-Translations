@@ -200,9 +200,9 @@ translate russian strings:
 
     # game/characters.rpy:168
     old "Xile"
-    new "Чили"
+    new "Ксиль"
 
     # game/characters.rpy:171
     old "Skeda"
-    new "Расписание"
+    new "Скеда"
 

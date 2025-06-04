@@ -6472,11 +6472,11 @@ translate russian ep016_altum_approach_c86b8656:
     # "The Bastard fit into one of the smaller bays, which were already teeming with activity."
     "Ублюдок располагается в одном из маленьких отсеков, которые уже кишели активностью."
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2025-02-04 18:17
 
-translate russian strings:
+# game/episode016.rpy:814
+translate russian ep016_scolguin_fleet_11b72724:
 
-    # game/episode016.rpy:219
-    old "Guard"
-    new "Охранник"
+    # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
+    c "Мы обменяемся информацией, которую получил мой отец, а затем я улечу, чтобы вернуться через десять лет и подвергнуть себя любой психической обработке, необходимой для извлечения новых, созданных мною воспоминаний."
 

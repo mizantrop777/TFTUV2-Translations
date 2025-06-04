@@ -6246,32 +6246,11 @@ translate russian ep013_nadya_talk_9caa56ec:
     # na "Some of it is Acarhyn history, an interesting but gruesome read."
     na "Часть из них - об история Акархина, интересное, но жуткое чтиво."
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2025-02-04 18:17
 
-translate russian strings:
+# game/episode013_conversations.rpy:976
+translate russian ep013_celine_second_talk_b624faf9:
 
-    # game/episode013_conversations.rpy:298
-    old "Tell her about the others"
-    new "Рассказать ей об остальных"
-
-    # game/episode013_conversations.rpy:1160
-    old "Tell her you love her"
-    new "Сказать, что любишь её"
-
-    # game/episode013_conversations.rpy:1160
-
-    old "Remain silent"
-    new "Молчать"
-
-    # game/episode013_conversations.rpy:1285
-    old "Species"
-    new "Виды"
-
-    # game/episode013_conversations.rpy:1651
-    old "Creampie"
-    new "Внутрь"
-
-    # game/episode013_conversations.rpy:1651
-    old "Body"
-    new "Тело"
+    # "Céline fell back into her seat, looking incredulously at me."
+    "Селин откинулась на спинку стула, недоверчиво глядя на меня."
 

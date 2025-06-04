@@ -1,6 +1,7 @@
 
 
 translate russian python:
+    gui.text_size = 30
     gui.text_font = "fonts/RobotoSlab-Regular.ttf"
     gui.choice_button_text_font = "fonts/RobotoSlab-Regular.ttf"
 
@@ -722,4 +723,12 @@ translate russian strings:
     new "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
 
 
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+translate russian strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new "Выборы"
 

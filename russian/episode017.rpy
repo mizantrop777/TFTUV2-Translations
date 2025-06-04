@@ -8090,35 +8090,23 @@ translate russian strings:
     old "Episode 17"
     new "Эпизод 17"
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2025-02-04 18:17
 
-translate russian strings:
+# game/episode017.rpy:1588
+translate russian ep017_celine_3acd41e7:
 
-    # game/episode017.rpy:244
-    old "Alien"
-    new "Инопланетянин"
+    # "Do you want to be able to have anal sex with Céline?"
+    "Ты хочешь иметь возможность заняться с Селин анальным сексом?"
 
-    # game/episode017.rpy:506
-    old "Scolguin"
-    new "Сколгин"
+# game/episode017.rpy:1592
+translate russian ep017_celine_ef35d6d6:
 
-    # game/episode017.rpy:963
-    old "Merc"
-    new "Мерк"
+    # "Anal enabled"
+    "Анал включен"
 
-    # game/episode017.rpy:1011
-    old "Shoot him"
-    new "Выстрелить в него"
+# game/episode017.rpy:1595
+translate russian ep017_celine_aa7e8d37:
 
-    # game/episode017.rpy:1669
-    old "Vaginal"
-    new "Вагинальный секс"
-
-    # game/episode017.rpy:1669
-    old "Anal"
-    new "Анальный секс"
-
-    # game/episode017.rpy:1808
-    old "Anal Creampie"
-    new "Анальный кремпай"
+    # "Anal disabled"
+    "Анал отключен"
 

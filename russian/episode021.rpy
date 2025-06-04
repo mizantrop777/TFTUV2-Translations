@@ -12484,7 +12484,7 @@ translate russian ep021_group_fuck_full_349210a9:
 translate russian ep021_group_fuck_full_f774c405:
 
     # "I rested my head against Lilly’s legs, who was at the same time busy working on Aven’s cunt."
-    "Я прислонился головой к ногам Лилли, которая в это время была занята пиздой Эвен."
+    "Я прислонился головой к ногам Лилли, которая в это время была занята пиздой Эвин."
 
 # game/episode021.rpy:3860
 translate russian ep021_group_fuck_full_0b4166ab:
@@ -22222,7 +22222,7 @@ translate russian ep021_vess_sex_facial_90d2055a:
 translate russian ep021_vess_sex_facial_8e11f87c:
 
     # ve "Yes, master, my body is yours to do as you please."
-    ve "Да, господин, моё тело принадлежит тебе, делай с ним что хочешь."
+    ve "Да, господин, моё тело принадлежит вам, делайте с ним что хотите."
 
 # game/episode021.rpy:6985
 translate russian ep021_vess_sex_facial_08a63607:
@@ -22648,7 +22648,7 @@ translate russian ep021_vess_sex_hard_7ca3d16d:
 translate russian ep021_vess_sex_hard_a2b33ee2:
 
     # ve "Only when you’re finished with me, master."
-    ve "Только когда ты закончишь со мной, господин."
+    ve "Только когда вы закончите со мной, господин."
 
 # game/episode021.rpy:7086
 translate russian ep021_vess_sex_hard_a4729853:
@@ -22690,7 +22690,7 @@ translate russian ep021_vess_sex_hard_4de62c9a:
 translate russian ep021_vess_sex_hard_4df44abc:
 
     # ve "My pussy is yours, master."
-    ve "Моя киска целиком и полностью твоя, господин."
+    ve "Моя киска целиком и полностью ваша, господин."
 
 # game/episode021.rpy:7099
 translate russian ep021_vess_sex_hard_ddfd9364:
@@ -22732,7 +22732,7 @@ translate russian ep021_vess_sex_hard_e9311127:
 translate russian ep021_vess_sex_hard_66098f06:
 
     # ve "They’re all yours, master."
-    ve "Они полностью в твоём распоряжении, господин."
+    ve "Они полностью в вашем распоряжении, господин."
 
 # game/episode021.rpy:7110
 translate russian ep021_vess_sex_hard_94b2f2ba:
@@ -22762,7 +22762,7 @@ translate russian ep021_vess_sex_hard_78e18482:
 translate russian ep021_vess_sex_hard_6b6e4ab6:
 
     # ve "Yes, master, please fuck me."
-    ve "Да, господин, прошу, оттрахай меня."
+    ve "Да, господин, прошу, оттрахайте меня."
 
 # game/episode021.rpy:7117
 translate russian ep021_vess_sex_hard_3d09bf07:
@@ -22822,7 +22822,7 @@ translate russian ep021_vess_sex_hard_f04e0552:
 translate russian ep021_vess_sex_hard_8297c6b1:
 
     # ve "Fill me all the way up, master."
-    ve "Наполни меня полностью, господин."
+    ve "Наполните меня полностью, господин."
 
 # game/episode021.rpy:7133
 translate russian ep021_vess_sex_hard_586dca10:
@@ -22900,7 +22900,7 @@ translate russian ep021_vess_sex_hard_5a34f1eb:
 translate russian ep021_vess_sex_hard_c8072225:
 
     # ve "Yes master, please use my holes as you please."
-    ve "Да, господин, прошу, используй мои дырочки так, как тебе заблагорассудится."
+    ve "Да, господин, прошу, используйте мои дырочки так, как вам заблагорассудится."
 
 # game/episode021.rpy:7160
 translate russian ep021_vess_sex_hard_36924509:
@@ -22936,7 +22936,7 @@ translate russian ep021_vess_sex_hard_cc08835c:
 translate russian ep021_vess_sex_hard_37ffc41d:
 
     # ve "Yes, master, please fuck my ass."
-    ve "Да, господин, прошу, трахни мою задницу."
+    ve "Да, господин, прошу, трахните мою задницу."
 
 # game/episode021.rpy:7167
 translate russian ep021_vess_sex_hard_4a6e3949:
@@ -22948,7 +22948,7 @@ translate russian ep021_vess_sex_hard_4a6e3949:
 translate russian ep021_vess_sex_hard_10a7bbc3:
 
     # ve "I know, master, you may use me any way you want."
-    ve "Да, господин, ты можешь использовать меня так, как захочешь."
+    ve "Да, господин, вы можете использовать меня так, как захотите."
 
 # game/episode021.rpy:7171
 translate russian ep021_vess_sex_hard_7afe04e7:
@@ -22990,7 +22990,7 @@ translate russian ep021_vess_sex_hard_8b56bb71:
 translate russian ep021_vess_sex_hard_0aa64a7b:
 
     # ve "My ass is yours, master!"
-    ve "Моя попка в твоём распоряжении, господин!"
+    ve "Моя попка в вашем распоряжении, господин!"
 
 # game/episode021.rpy:7182
 translate russian ep021_vess_sex_hard_1746d86d:
@@ -23032,7 +23032,7 @@ translate russian ep021_vess_sex_hard_be6f473f:
 translate russian ep021_vess_sex_hard_6606a663:
 
     # ve "Please fuck me like the whore I am, master."
-    ve "Прошу, трахни меня как шлюху, которой я и являюсь, господин."
+    ve "Прошу, трахните меня как шлюху, которой я и являюсь, господин."
 
 # game/episode021.rpy:7192
 translate russian ep021_vess_sex_hard_5ec60385:
@@ -23140,7 +23140,7 @@ translate russian ep021_vess_sex_hard_9a9b6582:
 translate russian ep021_vess_sex_hard_227dce13:
 
     # ve "I’d like to stay here with you, master."
-    ve "Мне бы очень хотелось остаться здесь, с тобой, господин."
+    ve "Мне бы очень хотелось остаться здесь, с вами, господин."
 
 # game/episode021.rpy:7228
 translate russian ep021_vess_sex_hard_5f45fe62:
@@ -24130,7 +24130,7 @@ translate russian strings:
 
     # game/episode021.rpy:689
     old "Make your rounds"
-    new "совершить обход"
+    new "Совершить обход"
 
     # game/episode021.rpy:1349
     old "Leave her be"
@@ -24164,3 +24164,51 @@ translate russian strings:
     old "Throatfuck"
     new "Трахнуть глотку"
 
+# TODO: Translation updated at 2025-05-18 20:59
+
+# game/episode021.rpy:951
+translate russian ep021_temple_return_d5c949ba:
+
+    # shk "Welcome, your arrival has been eagerly anticipated..."
+    shk "Добро пожаловать, мы с нетерпением ожидали вашего прибытия..."
+
+# game/episode021.rpy:1240
+translate russian ep021_eva_talk_e554e3e6:
+
+    # e "It must have been the first time we’ve been intimate together, after we escaped that desert planet."
+    e "Должно быть, это был первый раз, когда мы настолько сблизились друг с другом, после того, как мы сбежали с той пустынной планеты."
+
+# game/episode021.rpy:2294
+translate russian ep021_group_talk_6a3c4bde:
+
+    # c "So, we have some news we’d like to share with you."
+    c "Итак, у нас есть новости, которыми мы хотим с вами поделиться."
+
+# game/episode021.rpy:2688
+translate russian ep021_group_talk_fddca88a:
+
+    # c "Yes, I think we need to have a conversation later on."
+    c "Да, я думаю, нам нужно поговорить позже."
+
+# game/episode021.rpy:3483
+translate russian ep021_raene_sex_91280f6d:
+
+    # c "Keep fucking my ass like that!"
+    c "Продолжай вот так трахать мою задницу!"
+
+# game/episode021.rpy:5122
+translate russian ep021_group_fuck_partial_b4eaf91f:
+
+    # "With some effort, I managed to blast all of my sisters’ faces."
+    "С некоторым усилием мне удалось извергнуться на лица своих сестёр."
+
+# game/episode021.rpy:5124
+translate russian ep021_group_fuck_partial_a9eae425:
+
+    # "With some effort, I managed to blast all of their faces."
+    "С некоторым усилием мне удалось извергнуться на их лица."
+
+translate russian strings:
+
+    old "Cover their faces"
+    new "Кончить им на лица"

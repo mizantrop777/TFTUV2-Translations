@@ -5968,7 +5968,7 @@ translate russian ep019_paclerara_celine_3d63edce:
 translate russian ep019_paclerara_celine_40f607f8:
 
     # ce "So you want to have children with Lilly?"
-    ce "Так ты хочешь иметь детей от Лили?"
+    ce "Так ты хочешь иметь детей от Лилли?"
 
 # game/episode019.rpy:1729
 translate russian ep019_paclerara_celine_9d9fb6df:
@@ -12474,7 +12474,7 @@ translate russian strings:
 
     # game/episode019.rpy:138
     old "Auric Exemplar"
-    new "Auric Exemplar"
+    new "Аурический Образец"
 
     # game/episode019.rpy:138
     old "Location: Sovereignty Space"
@@ -12606,7 +12606,7 @@ translate russian ep019_docked_b51eb0f9:
 translate russian ep019_paclerara_arrival_5603bbe1:
 
     # "The Paclerara Residence supposedly housed several thousand and was the main port of the entire planet."
-    "Резиденция Паклерара, предположительно, вмещала несколько тысяч человек и была главным портом всей планеты."
+    ""
 
 # game/episode019.rpy:1024
 translate russian ep019_paclerara_aven_d4704e18:
@@ -12631,56 +12631,4 @@ translate russian ep019_paclerara_jade_209ddf6e:
 
     # c "So, raising children with a Twi’ll husband?"
     c "Значит, растить детей с мужем Твилл?"
-
-# TODO: Translation updated at 2024-12-09 00:03
-
-translate russian strings:
-
-    # game/episode019.rpy:57
-    old "Proxima Centauri Orbital IV"
-    new "Орбита Проксима Центавра IV"
-
-    # game/episode019.rpy:138
-    old "Organizations"
-    new "Организации"
-
-    # game/episode019.rpy:169
-    old "Visit Lilly"
-    new "Посетить Лилли"
-
-    # game/episode019.rpy:169
-    old "Visit Eva"
-    new "Посетить Еву"
-
-    # game/episode019.rpy:169
-    old "Visit Céline"
-    new "Посетите Селин"
-
-    # game/episode019.rpy:169
-    old "Visit Jade"
-    new "Посетить Джейд"
-
-    # game/episode019.rpy:169
-    old "Visit Ziv"
-    new "Посетить Зив"
-
-    # game/episode019.rpy:169
-    old "Visit Thyia"
-    new "Посетить Тхию"
-
-    # game/episode019.rpy:169
-    old "Visit Kit"
-    new "Проведать Кита"
-
-    # game/episode019.rpy:461
-    old "Apologize"
-    new "Извиняться"
-
-    # game/episode019.rpy:461
-    old "Don't apologize"
-    new "Не извиняйся"
-
-    # game/episode019.rpy:2683
-    old "Anal creampie"
-    new "Анальный кремпай"
 

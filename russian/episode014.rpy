@@ -4286,27 +4286,3 @@ translate russian strings:
     old "Episode 14"
     new "Эпизод 14"
 
-# TODO: Translation updated at 2024-12-09 00:03
-
-translate russian strings:
-
-    # game/episode014.rpy:24
-    old "Unknown"
-    new "Неизвестный"
-
-    # game/episode014.rpy:278
-    old "Keep watching"
-    new "Продолжать смотреть"
-
-    # game/episode014.rpy:574
-    old "Characters"
-    new "Персонажи"
-
-    # game/episode014.rpy:694
-    old "Places"
-    new "Места"
-
-    # game/episode014.rpy:1079
-    old "Suck her cock"
-    new "Сосать её член"
-

@@ -366,31 +366,27 @@ translate russian strings:
     old "a lot"
     new "много"
 
-# TODO: Translation updated at 2024-12-09 00:03
+# TODO: Translation updated at 2025-02-04 18:17
 
 translate russian strings:
 
-    # game/script.rpy:194
-    old "Lilly"
-    new "Лилли"
+    # game/script.rpy:538
+    old "Character Selection"
+    new "Выбор персонажа"
 
-    # game/script.rpy:196
-    old "Eva"
-    new "Ева"
+    # game/script.rpy:545
+    old "Who participates in this scene?"
+    new "Кто участвует в этой сцене?"
 
-    # game/script.rpy:198
-    old "Aven"
-    new "Эвин"
+    # game/script.rpy:603
+    old "Select at least two characters."
+    new "Выбери как минимум двух персонажей."
 
-    # game/script.rpy:204
-    old "Jade"
-    new "Джейд"
+# TODO: Translation updated at 2025-05-18 20:59
 
-    # game/script.rpy:208
-    old "Ziv"
-    new "Зив"
+translate russian strings:
 
-    # game/script.rpy:212
-    old "Vess"
-    new "Весс"
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Русский){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
 
