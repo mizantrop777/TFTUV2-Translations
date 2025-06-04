@@ -4,37 +4,37 @@
 translate italian breakup_lilly_7a9d1306:
 
 
-    l "Sei venuta a trovare la tua sorella preferita?"
+    l "Sei venuto a trovare la tua sorella preferita?"
 
 
 translate italian breakup_lilly_1d601f41:
 
 
-    l "Sei venuto a trovare la tua ragazza preferita?"
+    l "Sei venuta a trovare la tua ragazza preferita?"
 
 
 translate italian breakup_lilly_89048451:
 
 
-    c "Lilli, io..."
+    c "Lilly, io..."
 
 
 translate italian breakup_lilly_727fe754:
 
 
-    l "Speravo in un bacio prima."
+    l "Speravo di ricevere prima un bacio."
 
 
 translate italian breakup_lilly_0138559e:
 
 
-    l "Cosa c'è?"
+    l "Qual è il problema?"
 
 
 translate italian breakup_lilly_09206561:
 
 
-    c "Noi...{w} si tratta di noi."
+    c "Noi...{w} Siamo noi."
 
 
 translate italian breakup_lilly_93af30ce:
@@ -46,7 +46,7 @@ translate italian breakup_lilly_93af30ce:
 translate italian breakup_lilly_030d74ce:
 
 
-    l "Di cosa stai parlando?!"
+    l "Di cosa stai parlando?"
 
 
 translate italian breakup_lilly_0f13e93d:
@@ -58,19 +58,19 @@ translate italian breakup_lilly_0f13e93d:
 translate italian breakup_lilly_8bef2e86:
 
 
-    c "Dobbiamo finire, Lilli."
+    c "Dobbiamo porre fine alle cose, Lilly."
 
 
 translate italian breakup_lilly_0c6284e1:
 
 
-    l "No, non lo facciamo."
+    l "No, non dobbiamo."
 
 
 translate italian breakup_lilly_e037c471:
 
 
-    l "L'ultima volta mi hai detto che mi amavi e ora dici che dobbiamo lasciarci?"
+    l "L'ultima volta mi hai detto che mi amavi e ora dici che dobbiamo chiudere?"
 
 
 translate italian breakup_lilly_6df9dc3f:
@@ -94,7 +94,7 @@ translate italian breakup_lilly_52ef2e5b:
 translate italian breakup_lilly_b380ec2a:
 
 
-    l "Hai qualcun altro?{w} Hai un'altra persona, vero?"
+    l "C'è qualcun altro?{w} C'è qualcun altro, vero?"
 
 
 translate italian breakup_lilly_ad8d0c81:
@@ -112,7 +112,7 @@ translate italian breakup_lilly_049d1dc1:
 translate italian breakup_lilly_6b419aaa:
 
 
-    l "Ah."
+    l "Oh."
 
 
 translate italian breakup_lilly_82822a0c:
@@ -124,7 +124,7 @@ translate italian breakup_lilly_82822a0c:
 translate italian breakup_lilly_5e4a1d1a:
 
 
-    l "Miserabile bastardo!"
+    l "Miserabile pezzo di merda!"
 
 
 translate italian breakup_lilly_6cbc0c1b:
@@ -136,7 +136,7 @@ translate italian breakup_lilly_6cbc0c1b:
 translate italian breakup_lilly_842e13b2:
 
 
-    l "Ho dato tutto me stesso per te, [p_name]!"
+    l "Mi sono concessa completamente a te [p_name]!"
 
 
 translate italian breakup_lilly_28bd81ff:
@@ -160,55 +160,49 @@ translate italian breakup_lilly_a22a784b:
 translate italian breakup_lilly_3c7597f2:
 
 
-    l "Spero che vi soffochiate."
+    l "Spero che soffochiate entrambi."
 
 
 translate italian breakup_lilly_5681801e:
 
 
-    c "Io..."
+    c "I-"
 
 
 translate italian breakup_lilly_e47b24d7:
 
 
-    l "VAI.{w} FUORI.{w} DA.{w} QUESTO.{w} CAZZO!"
-
-
-translate italian breakup_lilly_ae25e00c:
-
-
-    "Mentre chiudevo la porta del suo alloggio, ho sentito qualcosa sbattere contro il muro, seguito da Lilli che urlava di rabbia."
+    l "VATTENE.{w} VIA.{w} DA QUESTO CAZZO DI POSTO.{w}!"
 
 
 translate italian breakup_lilly_47e3b86d:
 
 
-    "Mentre chiudevo la porta del suo alloggio, ho sentito qualcosa sbattere contro il muro, seguito da Lilli che urlava di rabbia."
+    "Quando ho chiuso la porta del suo alloggio, ho sentito qualcosa sbattere contro il muro, seguito da un lamento di rabbia di Lilly."
 
 
 translate italian breakup_aven_443c7b5a:
 
 
-    av "Oi!"
+    av "Ehi!"
 
 
 translate italian breakup_aven_6190f4db:
 
 
-    c "Ciao."
+    c "Ehi!"
 
 
 translate italian breakup_aven_adfb5d9a:
 
 
-    av "Perché sei così serio?"
+    av "Perché hai un'aria così seria?"
 
 
 translate italian breakup_aven_e7a195f0:
 
 
-    c "È meglio che ci sediamo."
+    c "Penso che sia meglio se ci sediamo."
 
 
 translate italian breakup_aven_d2036769:
@@ -232,19 +226,19 @@ translate italian breakup_aven_ef51c996:
 translate italian breakup_aven_113d904d:
 
 
-    c "Il rapporto che abbiamo..."
+    c "La relazione che abbiamo..."
 
 
 translate italian breakup_aven_7800539c:
 
 
-    c "Questa storia deve finire."
+    c "Deve finire."
 
 
 translate italian breakup_aven_f9b46ebc:
 
 
-    av "No. No. Perché?"
+    av "No.{w} No.{w} Perché?"
 
 
 translate italian breakup_aven_4d298c6c:
@@ -262,7 +256,7 @@ translate italian breakup_aven_2fd0f870:
 translate italian breakup_aven_03ff6531:
 
 
-    "È stato difficile guardarla negli occhi in quel momento, ma avevo fatto la mia scelta."
+    "Era difficile guardarla negli occhi a quel punto, ma avevo fatto la mia scelta."
 
 
 translate italian breakup_aven_ace7db70:
@@ -274,25 +268,25 @@ translate italian breakup_aven_ace7db70:
 translate italian breakup_aven_1d84d1f8:
 
 
-    av "Ma tutto quello che mi hai detto?"
+    av "Ma tutte le cose che mi hai detto?"
 
 
 translate italian breakup_aven_91102c8b:
 
 
-    av "Era tutta una bugia?!"
+    av "Erano tutte stronzate?"
 
 
 translate italian breakup_aven_4e44c1d7:
 
 
-    c "No, non lo era, ma...."
+    c "No, non lo erano, ma..."
 
 
 translate italian breakup_aven_ed5905fd:
 
 
-    av "Ma cosa?!"
+    av "Ma cosa?"
 
 
 translate italian breakup_aven_8d1fb449:
@@ -310,55 +304,55 @@ translate italian breakup_aven_1759b413:
 translate italian breakup_aven_0970c317:
 
 
-    av "Capito."
+    av "Capisco."
 
 
 translate italian breakup_aven_7165c5f6:
 
 
-    av "Esci."
+    av "Vattene."
 
 
 translate italian breakup_aven_0ab499a4:
 
 
-    c "Scusa, Aven."
+    c "Mi dispiace Aven."
 
 
 translate italian breakup_aven_0bd99041:
 
 
-    "Piangendo, mi fissò in silenzio mentre uscivo dalla sua stanza."
+    "In lacrime, era in silenzio e mi guardava incredula mentre uscivo dalla sua stanza."
 
 
 translate italian breakup_aven_7f019fed:
 
 
-    c "Hai delle buone ragioni per...."
+    c "Ci sono buone ragioni per..."
 
 
 translate italian breakup_aven_742945d4:
 
 
-    av "ESCI!"
+    av "VATTENE!"
 
 
 translate italian breakup_aven_0219247f:
 
 
-    "Piangendo, mi ha quasi spinto fuori dalla stanza, sbattendo la porta davanti a me."
+    "In lacrime, mi ha quasi spinto fuori dalla sua stanza, sbattendomi la porta in faccia."
 
 
 translate italian breakup_ziv_b575be86:
 
 
-    zi "Ah, [p_name], stavo solo meditando."
+    zi "Ah, [p_name], ho appena finito di meditare."
 
 
 translate italian breakup_ziv_ca46f8ff:
 
 
-    zi "Perché sei così serio?"
+    zi "Perché hai un'aria così triste?"
 
 
 translate italian breakup_ziv_ed068c79:
@@ -382,109 +376,109 @@ translate italian breakup_ziv_e897fbb0:
 translate italian breakup_ziv_834c5a1d:
 
 
-    c "Ziv...{w} credo che abbiamo commesso un errore."
+    c "Ziv...{w} Credo che abbiamo commesso un errore."
 
 
 translate italian breakup_ziv_308945d5:
 
 
-    zi "Commesso un errore?"
+    zi "Davvero?"
 
 
 translate italian breakup_ziv_1b7674fd:
 
 
-    c "Mi sembra che abbiamo affrettato le cose e che io abbia seguito l'onda."
+    c "Mi sembra che abbiamo fatto le cose di fretta e io ho accettato."
 
 
 translate italian breakup_ziv_5014ee52:
 
 
-    c "E so che può sembrare stravagante, ma ho capito che il mio cuore appartiene a un altro."
+    c "E so che sembra capriccioso, ma ho capito che il mio cuore appartiene a un altro."
 
 
 translate italian breakup_ziv_0e11054b:
 
 
-    zi "Sembra davvero stravagante, sì."
+    zi "In effetti sembra capriccioso, sì."
 
 
 translate italian breakup_ziv_7dc108aa:
 
 
-    zi "Quando è arrivata a questa 'improvvisa' realizzazione?"
+    zi "Quando hai preso questa \"improvvisa\" consapevolezza?"
 
 
 translate italian breakup_ziv_cc92bafa:
 
 
-    zi "Non rispondere, non mi interessa."
+    zi "Non rispondere, non voglio saperlo."
 
 
 translate italian breakup_ziv_79452f68:
 
 
-    zi "Mi deludi, [p_name], così come pensavo che avresti fatto."
+    zi "Mi deludi, [p_name], proprio come temevo."
 
 
 translate italian breakup_ziv_d2614009:
 
 
-    zi "Le promesse nel bosco erano vuote fin dall'inizio."
+    zi "Le promesse fatte in quel boschetto sembravano vuote fin dall'inizio."
 
 
 translate italian breakup_ziv_6a6fed57:
 
 
-    zi "Ma ovviamente dovevi approfittare di me a Erigone."
+    zi "Ma ovviamente dovevi approfittare di me quando eri su Erigone."
 
 
 translate italian breakup_ziv_db678f09:
 
 
-    zi "Ora che hai saziato la tua fame, stai cercando un'altra preda da predare."
+    zi "Ora che hai saziato la tua fame, stai cercando qualcos'altro da predare."
 
 
 translate italian breakup_ziv_ddbfa532:
 
 
-    c "Non è così, io...."
+    c "Non è così, io..."
 
 
 translate italian breakup_ziv_385cbf34:
 
 
-    zi "Risparmia le parole, [p_name], vai e basta."
+    zi "Risparmia il fiato, [p_name], vattene e basta."
 
 
 translate italian breakup_ziv_3c747d5f:
 
 
-    "Ho accettato e ho lasciato Ziv nella sua stanza."
+    "Mi adeguai e lasciai Ziv nella sua stanza."
 
 
 translate italian breakup_ziv_aa9d4825:
 
 
-    c "Beh, se vuoi trovarlo, accomodati pure."
+    c "Beh, se ti piace pensare questo, accomodati pure."
 
 
 translate italian breakup_ziv_a9bbe8f1:
 
 
-    zi "Immagino che la vostra conquista sarà abbastanza felice, finché non la lascerete per la prossima."
+    zi "Sono sicuro che la tua nuova conquista sarà molto felice, finché non la lascerai per la prossima."
 
 
 translate italian breakup_ziv_c2669875:
 
 
-    "Non ho risposto all'ultimo commento e ho lasciato Ziv arrabbiata nella sua stanza."
+    "Non risposi al suo ultimo commento e lasciai Ziv nella sua stanza, furiosa."
 
 
 translate italian breakup_raene_452f99ec:
 
 
-    ra "[p_name_short]! Devo mostrarti una cosa."
+    ra "[p_name_short]! Ho davvero bisogno di mostrarti qualcosa."
 
 
 translate italian breakup_raene_523780b1:
@@ -502,13 +496,13 @@ translate italian breakup_raene_2299a9c3:
 translate italian breakup_raene_0be7e561:
 
 
-    ra "Su cosa?"
+    ra "Di cosa?"
 
 
 translate italian breakup_raene_e103a4ee:
 
 
-    ra "Perché sei così serio?"
+    ra "Perché hai un'aria così cupa?"
 
 
 translate italian breakup_raene_f49a4e90:
@@ -520,19 +514,19 @@ translate italian breakup_raene_f49a4e90:
 translate italian breakup_raene_75afd862:
 
 
-    c "Raene, non sta funzionando per me. Voglio dire, la nostra relazione."
+    c "Raene, questa cosa non funziona per me, la nostra relazione, intendo."
 
 
 translate italian breakup_raene_6d86855f:
 
 
-    ra "Cosa...{w} come? Cosa non funziona?"
+    ra "Cosa...{w} Come? Cosa non funziona?"
 
 
 translate italian breakup_raene_49c52b21:
 
 
-    c "Non so come altro dirlo, ma non posso continuare."
+    c "Non so come dirlo in un altro modo, ma non posso continuare."
 
 
 translate italian breakup_raene_83874fc7:
@@ -544,31 +538,25 @@ translate italian breakup_raene_83874fc7:
 translate italian breakup_raene_a41d8dc6:
 
 
-    ra "È stato qualcosa che ho fatto?"
+    ra "È qualcosa che ho fatto?"
 
 
 translate italian breakup_raene_bf557386:
 
 
-    c "No, affatto."
-
-
-translate italian breakup_raene_9e0fb0bf:
-
-
-    c "Sei una ragazza fantastica, Raene, e ti auguro tutta la felicità che meriti."
+    c "No, niente affatto."
 
 
 translate italian breakup_raene_50fc356b:
 
 
-    c "Sei una ragazza fantastica, Raene, e ti auguro tutta la felicità che meriti."
+    c "Sei una ragazza meravigliosa, Raene, e ti auguro tutta la felicità che meriti."
 
 
 translate italian breakup_raene_85b1f272:
 
 
-    c "È solo che non sarò io a renderti felice."
+    c "È solo che non posso essere io a renderti felice."
 
 
 translate italian breakup_raene_ea9c2a95:
@@ -577,28 +565,16 @@ translate italian breakup_raene_ea9c2a95:
     ra "Ma..."
 
 
-translate italian breakup_raene_4490931d:
-
-
-    c "Raene, c'è qualcun altro e devo fare una scelta."
-
-
 translate italian breakup_raene_3bfb3c0f:
 
 
-    c "Raene, c'è qualcun altro e devo fare una scelta."
+    c "C'è qualcun altro, Raene, e devo fare una scelta."
 
 
 translate italian breakup_raene_67fb8317:
 
 
-    ra "C'è?"
-
-
-translate italian breakup_raene_63852b13:
-
-
-    ra "Perché non hai scelto me?"
+    ra "E tu?"
 
 
 translate italian breakup_raene_9539ab88:
@@ -610,31 +586,31 @@ translate italian breakup_raene_9539ab88:
 translate italian breakup_raene_dd37514e:
 
 
-    ra "C'è qualcosa che non va in me, vero?"
+    ra "C'è qualcosa di sbagliato in me, vero?"
 
 
 translate italian breakup_raene_017535ee:
 
 
-    c "No, certamente no."
+    c "No, assolutamente no."
 
 
 translate italian breakup_raene_af3f78fb:
 
 
-    c "È che sono costretto a fare una scelta, e-"
+    c "È solo che sono costretta a fare una scelta e..."
 
 
 translate italian breakup_raene_60b97793:
 
 
-    c "Scusa, Raene."
+    c "Mi dispiace, Raene."
 
 
 translate italian breakup_raene_dd1b110b:
 
 
-    c "Spero davvero che troverai qualche..."
+    c "Spero davvero che tu possa trovare..."
 
 
 translate italian breakup_raene_fb1f9f76:
@@ -646,25 +622,25 @@ translate italian breakup_raene_fb1f9f76:
 translate italian breakup_raene_6d2e8b7e:
 
 
-    "Raene ha pronunciato le sue ultime parole con una tale finezza che non ho avuto altra scelta se non quella di fare ciò che mi ha chiesto."
+    "Raene pronunciò le sue ultime parole con una tale fermezza che non potei che fare come mi aveva chiesto."
 
 
 translate italian breakup_raene_335eac3a:
 
 
-    "Piangeva in modo incontrollato quando ho chiuso la porta dietro di me."
+    "Stava singhiozzando in modo incontrollato quando mi chiusi la porta alle spalle."
 
 
 translate italian breakup_thyia_877a09cd:
 
 
-    th "Ah, [p_name_short], posso avere quella chiave?"
+    th "Oh, [p_name_short], potresti passarmi quella chiave inglese?"
 
 
 translate italian breakup_thyia_e0323b8d:
 
 
-    c "Puoi smettere di fare quello che stai facendo per un po'?"
+    c "Potresti smettere di fare quello che stai facendo per un momento?"
 
 
 translate italian breakup_thyia_c16eb3f1:
@@ -676,7 +652,7 @@ translate italian breakup_thyia_c16eb3f1:
 translate italian breakup_thyia_6fabf92e:
 
 
-    th "Sembra che tu sia molto preoccupato."
+    th "Sembra che tu abbia ingoiato qualcosa di terribile."
 
 
 translate italian breakup_thyia_8b02937d:
@@ -688,7 +664,7 @@ translate italian breakup_thyia_8b02937d:
 translate italian breakup_thyia_71a03f3b:
 
 
-    c "Noi."
+    c "Siamo noi."
 
 
 translate italian breakup_thyia_3d9b1832:
@@ -700,7 +676,7 @@ translate italian breakup_thyia_3d9b1832:
 translate italian breakup_thyia_f8795997:
 
 
-    th "Ti avverto, spero che le prossime parole che usciranno dalla tua bocca siano buone."
+    th "Ti avverto, le prossime parole che usciranno dalla tua bocca dovranno essere buone."
 
 
 translate italian breakup_thyia_ddbebc15:
@@ -712,7 +688,7 @@ translate italian breakup_thyia_ddbebc15:
 translate italian breakup_thyia_3dea4a02:
 
 
-    th "È...{w} che ne dici di no?"
+    th "Sì...{w} Che ne dici di no?"
 
 
 translate italian breakup_thyia_0370cdcf:
@@ -724,133 +700,559 @@ translate italian breakup_thyia_0370cdcf:
 translate italian breakup_thyia_cfa0282e:
 
 
-    c "Non volevo dover scegliere tra voi due, ma la situazione mi costringe."
+    c "Non volevo scegliere tra voi due, ma la situazione mi ha costretto a scegliere."
 
 
 translate italian breakup_thyia_67f7933a:
 
 
-    c "Non sta funzionando per me."
+    c "Semplicemente non funziona per me."
 
 
 translate italian breakup_thyia_e861757d:
 
 
-    th "Ah, vaffanculo, [p_name]."
+    th "Vaffanculo, [p_name]."
 
 
 translate italian breakup_thyia_f31897b1:
 
 
-    th "Dimmi la verità."
+    th "Dimmi solo la verità."
 
 
 translate italian breakup_thyia_fd0ee940:
 
 
-    th "Parla del fatto che hai trovato un'altra persona e che vuoi stare con lei."
+    th "Dimmi che hai trovato un'altra persona e che vuoi stare con lei."
 
 
 translate italian breakup_thyia_50a1780a:
 
 
-    th "Non offendermi con le tue sciocchezze."
+    th "Non offendermi con le tue stronzate."
 
 
 translate italian breakup_thyia_49034cd7:
 
 
-    c "Ok, c'è qualcun altro."
+    c "Ok, c'è un'altra persona."
 
 
 translate italian breakup_thyia_72ab3ab5:
 
 
-    "Thyia era stranamente calma quando ha parlato."
+    "Thyia rimase stranamente calma mentre parlava."
 
 
 translate italian breakup_thyia_446fa45e:
 
 
-    th "Sapevo di essere una pazza a fidarmi di nuovo di qualcuno."
+    th "Sapevo di essere un pazzo a fidarmi di nuovo di qualcuno."
 
 
 translate italian breakup_thyia_0e4c7e20:
 
 
-    th "Grazie per avermi fatto capire dove ho sbagliato."
+    th "Grazie per avermi fatto capire gli errori che ho commesso."
 
 
 translate italian breakup_thyia_2e68660c:
 
 
-    th "Ora, prima di fare qualcosa di cui mi pentirò, ti dico come interagiremo d'ora in poi."
+    th "Ora, prima che faccia qualcosa di cui potrei pentirmi, ti dirò come interagiremo tra noi d'ora in poi."
 
 
 translate italian breakup_thyia_6f867595:
 
 
-    th "Io farò funzionare la nave e non mi metterò sulla tua strada, e tu non ti metterai sulla mia."
+    th "Io mi occuperò di mandare avanti la nave e non ti intralcerò, se tu non intralcerai la mia."
 
 
 translate italian breakup_thyia_87297ba9:
 
 
-    th "Parleremo quando sarà necessario, ma a parte questo, non voglio sentire un cazzo di niente da te."
+    th "Ci parleremo quando sarà necessario, ma a parte questo non voglio sentire un cazzo di niente da te."
 
 
 translate italian breakup_thyia_4224ab6a:
 
 
-    th "Non facciamo finta di essere amici e non facciamo chiacchiere."
+    th "Non stiamo facendo amicizia e nemmeno chiacchiere."
 
 
 translate italian breakup_thyia_73a1c791:
 
 
-    th "Solo per affari."
+    th "Solo affari."
 
 
 translate italian breakup_thyia_70e54566:
 
 
-    th "Sei d'accordo?"
+    th "D'accordo?"
 
 
 translate italian breakup_thyia_88df38a7:
 
 
-    c "Sono d'accordo."
+    c "D'accordo."
 
 
 translate italian breakup_thyia_32373670:
 
 
-    th "Fantastico. Ora vattene via, cazzo."
+    th "Bene.{w} Ora vattene."
 
 
 translate italian breakup_thyia_f99b0ab0:
 
 
-    "Thyia è tornata a lavorare sulle macchine non appena mi sono voltato."
+    "Thyia è tornata al suo macchinario non appena le ho voltato le spalle."
 
 
 translate italian breakup_thyia_93deed4d:
 
 
-    "Ho pensato che stesse piangendo da come le tremava la spalla."
+    "Pensavo che stesse piangendo, visto il modo in cui le tremava la spalla."
 
 
 translate italian breakup_thyia_c47926c3:
 
 
-    "Ogni residuo di quell'idea è svanito quando si è girata e mi ha affrontato."
+    "Ogni pensiero è svanito immediatamente quando si è girata e mi ha guardato."
 
 
 translate italian breakup_thyia_7bc5532e:
 
 
-    "Mi fissò mentre uscivo dalla sala macchine, nascondendo a stento il suo disgusto."
+    "Mi fissò con un velato disgusto mentre mi allontanavo dalla sala macchine."
+
+
+translate italian breakup_vess_209805c1:
+
+
+    c "Ehi Vess, hai un minuto?"
+
+
+translate italian breakup_vess_4f172546:
+
+
+    ve "Come puoi chiederlo, visto che sei sempre tu!"
+
+
+translate italian breakup_vess_8516f17c:
+
+
+    ve "Se hai tempo, forse potremmo metterci un po' più comodi?"
+
+
+translate italian breakup_vess_1c844a0b:
+
+
+    c "Vess, per favore."
+
+
+translate italian breakup_vess_6ec3dbe0:
+
+
+    ve "Che c'è, ho detto qualcosa di sbagliato?"
+
+
+translate italian breakup_vess_c4bdda27:
+
+
+    c "No, non proprio."
+
+
+translate italian breakup_vess_d9a542f2:
+
+
+    c "Odio doverti fare una cosa del genere, ma non si può fare altrimenti."
+
+
+translate italian breakup_vess_233190fd:
+
+
+    ve "Cosa non si può fare, perché sei così serio?"
+
+
+translate italian breakup_vess_8c2aeaa3:
+
+
+    c "Perché devo porre fine alla nostra relazione, Vess."
+
+
+translate italian breakup_vess_314765c9:
+
+
+    ve "Cosa?"
+
+
+translate italian breakup_vess_9d207ba4:
+
+
+    c "Ci ho pensato a lungo, ma non possiamo continuare così."
+
+
+translate italian breakup_vess_d0ebe124:
+
+
+    ve "Ma perché?"
+
+
+translate italian breakup_vess_a821530e:
+
+
+    ve "È perché non ti fidi di me?"
+
+
+translate italian breakup_vess_26c91f72:
+
+
+    ve "È così, non è vero?"
+
+
+translate italian breakup_vess_6fc0684c:
+
+
+    ve "Non so cos'altro posso fare per fare ammenda."
+
+
+translate italian breakup_vess_17cef3c0:
+
+
+    ve "Ma sai che voglio provarci."
+
+
+translate italian breakup_vess_cff9bf98:
+
+
+    ve "Non è abbastanza, [p_name]?"
+
+
+translate italian breakup_vess_495fb72d:
+
+
+    c "Non si tratta di te, Vess."
+
+
+translate italian breakup_vess_f6a64ef9:
+
+
+    c "È una decisione che ho preso e che sono stato costretto a prendere."
+
+
+translate italian breakup_vess_7ea8d4e2:
+
+
+    ve "Costretto?"
+
+
+translate italian breakup_vess_5d2f9fb7:
+
+
+    c "Sono innamorato di un'altra persona."
+
+
+translate italian breakup_vess_a6730577:
+
+
+    ve "Oh..."
+
+
+translate italian breakup_vess_4604da78:
+
+
+    ve "Ma tu non hai..."
+
+
+translate italian breakup_vess_c5f100c5:
+
+
+    ve "Ma..."
+
+
+translate italian breakup_vess_91eebadd:
+
+
+    c "Avrei dovuto dirti dei miei sentimenti per lei."
+
+
+translate italian breakup_vess_09990835:
+
+
+    c "Ma quello che è fatto è fatto."
+
+
+translate italian breakup_vess_0e168e7d:
+
+
+    ve "Io...{w} capisco."
+
+
+translate italian breakup_vess_37832318:
+
+
+    ve "Potresti lasciarmi in pace ora?"
+
+
+translate italian breakup_vess_54b63575:
+
+
+    ve "Ho bisogno di stare da sola."
+
+
+translate italian breakup_vess_4e8c7062:
+
+
+    c "Ma certo."
+
+
+translate italian breakup_vess_d7638ec7:
+
+
+    "Dopo aver chiuso la porta, sentii Vess piangere con abbandono."
+
+
+translate italian breakup_vess_91a13ecf:
+
+
+    "Resistendo all'impulso di tornare a confortarla, mi sono diretto verso il mio alloggio."
+
+
+translate italian breakup_nadya_d7669a36:
+
+
+    c "Devo dirti una cosa."
+
+
+translate italian breakup_nadya_123344a8:
+
+
+    c "Forse è meglio se ti siedi."
+
+
+translate italian breakup_nadya_09362606:
+
+
+    na "Ok..."
+
+
+translate italian breakup_nadya_3efe0ac3:
+
+
+    c "Mi rendo conto che può sembrare insensibile, ma la nostra relazione deve finire."
+
+
+translate italian breakup_nadya_cdf6f71a:
+
+
+    na "Non sei un chiacchierone, vero?"
+
+
+translate italian breakup_nadya_eb51bd5d:
+
+
+    c "Volevo solo parlare chiaramente."
+
+
+translate italian breakup_nadya_154ec566:
+
+
+    na "Molto maturo da parte tua."
+
+
+translate italian breakup_nadya_247086c5:
+
+
+    na "Ti sei già stufato di me?"
+
+
+translate italian breakup_nadya_33bec90c:
+
+
+    na "Hai trovato qualcosa di meglio?"
+
+
+translate italian breakup_nadya_440730be:
+
+
+    c "No mamma, non è così."
+
+
+translate italian breakup_nadya_e2186711:
+
+
+    c "No, non è così."
+
+
+translate italian breakup_nadya_1e3913ba:
+
+
+    na "Beh, a me sembra proprio di sì."
+
+
+translate italian breakup_nadya_fdb95508:
+
+
+    na "Hai assaggiato il proibito e ora vuoi qualcos'altro."
+
+
+translate italian breakup_nadya_df277e26:
+
+
+    na "Hai assaggiato e ora vuoi qualcos'altro."
+
+
+translate italian breakup_nadya_20629000:
+
+
+    na "È a causa della mia età, vero?"
+
+
+translate italian breakup_nadya_193c4aa2:
+
+
+    c "No, non è questo, onestamente."
+
+
+translate italian breakup_nadya_c48bf2d5:
+
+
+    na "Sai una cosa? Non mi interessa."
+
+
+translate italian breakup_nadya_377a7f9b:
+
+
+    na "Non avrei mai dovuto aprirmi con te in questo modo, sarebbe stata una delusione."
+
+
+translate italian breakup_nadya_447b54ad:
+
+
+    c "Mamma..."
+
+
+translate italian breakup_nadya_cc1af782:
+
+
+    c "Nadya..."
+
+
+translate italian breakup_nadya_3b853f3d:
+
+
+    na "Non ti sto incolpando, avrei dovuto essere più prudente."
+
+
+translate italian breakup_nadya_93310ed6:
+
+
+    na "Vorrei solo che avessi pensato prima alle tue preoccupazioni, ci saremmo risparmiati un sacco di dolore."
+
+
+translate italian breakup_nadya_ea2e9aef:
+
+
+    c "Lo so e mi dispiace."
+
+
+translate italian breakup_nadya_27fd475c:
+
+
+    c "Ti prego di capire che non ho preso questa decisione alla leggera."
+
+
+translate italian breakup_nadya_138d70b7:
+
+
+    na "C'è qualcun altro, vero?"
+
+
+translate italian breakup_nadya_29b2589a:
+
+
+    c "Sì, c'è."
+
+
+translate italian breakup_nadya_4141727e:
+
+
+    na "Lo pensavo anch'io."
+
+
+translate italian breakup_nadya_aff1075a:
+
+
+    na "Ti ha chiesto di rompere con lei?"
+
+
+translate italian breakup_nadya_7961aac6:
+
+
+    c "L'ha fatto."
+
+
+translate italian breakup_nadya_d17db83d:
+
+
+    na "Beh, capisco la sua posizione."
+
+
+translate italian breakup_nadya_6a0fae82:
+
+
+    na "Hai fatto la tua scelta e dovresti rispettarla."
+
+
+translate italian breakup_nadya_49a26f5f:
+
+
+    na "Voglio che tu prometta di renderla felice il più possibile e di non deluderla."
+
+
+translate italian breakup_nadya_94ccfb49:
+
+
+    c "Non lo farò, te lo prometto."
+
+
+translate italian breakup_nadya_ccb084fe:
+
+
+    na "Bene."
+
+
+translate italian breakup_nadya_19ee6d5b:
+
+
+    na "Potresti lasciarmi in pace ora, per favore?"
+
+
+translate italian breakup_nadya_e3ee3918:
+
+
+    "Ho lasciato mia madre."
+
+
+translate italian breakup_nadya_10e0f1df:
+
+
+    "Ho lasciato Nadya."
+
+
+translate italian breakup_nadya_6052a82f:
+
+
+    "Nonostante la sua voce ferma di poco prima, la sentii crollare dopo aver chiuso la porta."
+
+
+translate italian breakup_nadya_b8504e1e:
+
+
+    "I suoi singhiozzi sinceri mi hanno perseguitato per tutto il tragitto fino al mio alloggio."
 
 
 translate italian breakup_celine_5610718f:
@@ -862,7 +1264,7 @@ translate italian breakup_celine_5610718f:
 translate italian breakup_celine_6190f4db:
 
 
-    c "Ciao."
+    c "Ehi."
 
 
 translate italian breakup_celine_baa13475:
@@ -874,55 +1276,55 @@ translate italian breakup_celine_baa13475:
 translate italian breakup_celine_5c84cc48:
 
 
-    ce "C'è un problema?"
+    ce "C'è qualcosa che non va?"
 
 
 translate italian breakup_celine_efd090e2:
 
 
-    c "Céline, dobbiamo parlare di noi."
+    c "Céline, dobbiamo parlare, di te e di me."
 
 
 translate italian breakup_celine_3bdd7b97:
 
 
-    ce "Uhm?"
+    ce "Oh?"
 
 
 translate italian breakup_celine_57cae3c7:
 
 
-    c "Non funziona più per me."
+    c "Non funziona più con me."
 
 
 translate italian breakup_celine_06c84469:
 
 
-    c "Mi sono reso conto che i miei sentimenti per te non sono più così forti come prima."
+    c "Ho capito che i miei sentimenti per te non sono più forti come una volta."
 
 
 translate italian breakup_celine_67e47fe9:
 
 
-    ce "Non può essere."
+    ce "Non può essere giusto."
 
 
 translate italian breakup_celine_f131cf82:
 
 
-    ce "Ti senti bene, è successo qualcosa sulla nave di tuo padre?"
+    ce "Ti senti bene? È successo qualcosa sulla nave di tuo padre?"
 
 
 translate italian breakup_celine_f5b35eee:
 
 
-    c "Non è successo niente."
+    c "Non è successo nulla."
 
 
 translate italian breakup_celine_5f0b7414:
 
 
-    c "I miei sentimenti per te sono cambiati."
+    c "I miei sentimenti verso di te sono solo cambiati."
 
 
 translate italian breakup_celine_21957598:
@@ -940,43 +1342,43 @@ translate italian breakup_celine_480c773b:
 translate italian breakup_celine_f33dc7b4:
 
 
-    ce "Stai mentendo a me e a te stesso."
+    ce "Stai mentendo a me, a te stesso."
 
 
 translate italian breakup_celine_dad94cdb:
 
 
-    c "Devo finire questa cosa, non vedo altri modi."
+    c "Devo porre fine alle cose, non c'è altro modo."
 
 
 translate italian breakup_celine_e0342ec2:
 
 
-    ce "Cosa è successo?"
+    ce "Che cosa è successo?"
 
 
 translate italian breakup_celine_f2f16b6b:
 
 
-    c "Ho trovato un'altra persona, non posso dire altro."
+    c "Ho trovato un'altra persona, questo è tutto ciò che posso dire."
 
 
 translate italian breakup_celine_8fc38651:
 
 
-    ce "E lei te lo fa fare?"
+    ce "E lei ti sta facendo fare questo?"
 
 
 translate italian breakup_celine_6ec5eda3:
 
 
-    ce "Quello che avevamo era reale, [p_name_short], e tu stai buttando via tutto."
+    ce "Quello che c'era tra noi era vero, [p_name_short], e tu stai buttando via tutto."
 
 
 translate italian breakup_celine_58002698:
 
 
-    ce "Chi te lo fa fare?"
+    ce "Chi ti sta facendo fare questo?"
 
 
 translate italian breakup_celine_08d4720b:
@@ -988,7 +1390,7 @@ translate italian breakup_celine_08d4720b:
 translate italian breakup_celine_f90fa858:
 
 
-    ce "Vigliacco!"
+    ce "Codardo!"
 
 
 translate italian breakup_celine_d3e290cc:
@@ -1006,19 +1408,19 @@ translate italian breakup_celine_c318e691:
 translate italian breakup_celine_b1961263:
 
 
-    c "No, non è così."
+    c "No, non ce l'hai."
 
 
 translate italian breakup_celine_55079b6b:
 
 
-    c "Scusa, Céline."
+    c "Mi dispiace, Céline."
 
 
 translate italian breakup_celine_e4326d46:
 
 
-    "Non potendo confortarla in alcun modo, ho lasciato l'alloggio di Céline."
+    "Non riuscendo a confortarla in alcun modo, uscii dall'alloggio di Céline."
 
 
 translate italian breakup_celine_6aeb82fb:
@@ -1030,25 +1432,25 @@ translate italian breakup_celine_6aeb82fb:
 translate italian breakup_celine_d19301fd:
 
 
-    ce "Sono la persona giusta per te, [p_name_short]."
+    ce "Sono io quello giusto per te, [p_name_short]."
 
 
 translate italian breakup_celine_054cf9c4:
 
 
-    ce "Sono l'unica che può renderti felice."
+    ce "Sono l'unico che può renderti felice."
 
 
 translate italian breakup_celine_4efe6d8b:
 
 
-    ce "Torna indietro, per favore!"
+    ce "Torna indietro, ti prego!"
 
 
 translate italian breakup_celine_cac034fc:
 
 
-    "Corsi lungo i corridoi della nave, lontano dalle sue urla sempre più disperate."
+    "Mi affrettai a percorrere i corridoi della nave, allontanandomi dalle sue suppliche sempre più disperate."
 
 
 translate italian breakup_jade_83b650fb:
@@ -1060,13 +1462,7 @@ translate italian breakup_jade_83b650fb:
 translate italian breakup_jade_7b91b1bf:
 
 
-    c "No Jade, voglio solo parlare."
-
-
-translate italian breakup_jade_31086652:
-
-
-    j "Parlare di cosa?"
+    c "No Jade, volevo solo parlare."
 
 
 translate italian breakup_jade_789e65fd:
@@ -1090,7 +1486,7 @@ translate italian breakup_jade_32e7407c:
 translate italian breakup_jade_0bc4ced0:
 
 
-    c "Devo porre fine alla nostra relazione."
+    c "La nostra relazione deve finire."
 
 
 translate italian breakup_jade_2fdefc32:
@@ -1108,7 +1504,7 @@ translate italian breakup_jade_026a14f9:
 translate italian breakup_jade_c4412c0e:
 
 
-    c "Abbastanza seria da non avere spazio per nient'altro."
+    c "Così seria che non c'è spazio per nient'altro."
 
 
 translate italian breakup_jade_7988685c:
@@ -1138,31 +1534,31 @@ translate italian breakup_jade_7a69cd3d:
 translate italian breakup_jade_c422d5aa:
 
 
-    j "Ti amo, [p_name], da sempre."
+    j "Ti amo [p_name], ti ho sempre amato."
 
 
 translate italian breakup_jade_fa5fd35a:
 
 
-    j "Anche tu hai detto di amarmi e ora vuoi buttare via tutto?"
+    j "Hai detto che anche tu mi ami e ora stai per buttare via tutto?"
 
 
 translate italian breakup_jade_2fa5b617:
 
 
-    c "Scusa, Jade, ma devo farlo."
+    c "Mi dispiace Jade, ma devo farlo."
 
 
 translate italian breakup_jade_436804e3:
 
 
-    j "E tu?"
+    j "Sei costretta?"
 
 
 translate italian breakup_jade_6fe03362:
 
 
-    j "Sta dicendo che sei stato costretto a farlo?"
+    j "Stai dicendo che sei costretto a farlo?"
 
 
 translate italian breakup_jade_84880f6c:
@@ -1174,7 +1570,7 @@ translate italian breakup_jade_84880f6c:
 translate italian breakup_jade_a5cfca61:
 
 
-    j "Forse avresti potuto parlarmi prima, invece di decidere da solo."
+    j "Forse avresti potuto parlarmi prima, invece di prendere una decisione da sola."
 
 
 translate italian breakup_jade_f1e6962f:
@@ -1186,494 +1582,53 @@ translate italian breakup_jade_f1e6962f:
 translate italian breakup_jade_b63d6bf3:
 
 
-    c "Lo voglio."
+    c "Lo sono."
 
 
 translate italian breakup_jade_f22d420a:
 
 
-    j "Beh, sembra che tu abbia deciso."
+    j "Bene, allora sembra che tu abbia deciso."
 
 
 translate italian breakup_jade_a78c9216:
 
 
-    j "Spero che valga la pena di essere tradita."
+    j "Spero che valga la pena tradire."
 
 
 translate italian breakup_jade_73ea346e:
 
 
-    j "Ciao, [p_name]."
+    j "Ciao [p_name]."
 
 
 translate italian breakup_jade_26ac6d73:
 
 
-    "Con queste ultime parole ha lasciato le mie stanze."
-
-
-translate italian breakup_vess_209805c1:
-
-
-    c "Ehi Vess, hai un minuto?"
-
-
-translate italian breakup_vess_4f172546:
-
-
-    ve "Quando vuoi, io ci sono sempre per te!"
-
-
-translate italian breakup_vess_8516f17c:
-
-
-    ve "Se hai tempo, forse possiamo metterci più comodi!"
-
-
-translate italian breakup_vess_1c844a0b:
-
-
-    c "Vess, per favore."
-
-
-translate italian breakup_vess_6ec3dbe0:
-
-
-    ve "Cosa, ho detto qualcosa di sbagliato?"
-
-
-translate italian breakup_vess_c4bdda27:
-
-
-    c "Non proprio."
-
-
-translate italian breakup_vess_d9a542f2:
-
-
-    c "Odio doverti fare questo, ma non c'è altro modo."
-
-
-translate italian breakup_vess_233190fd:
-
-
-    ve "Non c'è altro modo, perché sei così serio?"
-
-
-translate italian breakup_vess_8c2aeaa3:
-
-
-    c "Perché devo porre fine alla nostra relazione, Vess."
-
-
-translate italian breakup_vess_314765c9:
-
-
-    ve "Cosa?!"
-
-
-translate italian breakup_vess_9d207ba4:
-
-
-    c "Ci ho pensato molto, ma non possiamo continuare così."
-
-
-translate italian breakup_vess_d0ebe124:
-
-
-    ve "Ma perché?"
-
-
-translate italian breakup_vess_a821530e:
-
-
-    ve "È perché non ti fidi di me?"
-
-
-translate italian breakup_vess_26c91f72:
-
-
-    ve "È così, non è vero?"
-
-
-translate italian breakup_vess_6fc0684c:
-
-
-    ve "Non so cos'altro posso fare per redimermi."
-
-
-translate italian breakup_vess_17cef3c0:
-
-
-    ve "Ma sai che voglio provarci."
-
-
-translate italian breakup_vess_cff9bf98:
-
-
-    ve "Non è abbastanza, [p_name]?"
-
-
-translate italian breakup_vess_495fb72d:
-
-
-    c "Non si tratta di te, Vess."
-
-
-translate italian breakup_vess_f6a64ef9:
-
-
-    c "È una decisione che ho preso, che sono stato costretto a prendere."
-
-
-translate italian breakup_vess_7ea8d4e2:
-
-
-    "Costretto?"
-
-
-translate italian breakup_vess_5d2f9fb7:
-
-
-    c "Amo un'altra persona."
-
-
-translate italian breakup_vess_a6730577:
-
-
-    ve "Ah..."
-
-
-translate italian breakup_vess_4604da78:
-
-
-    ve "Ma tu non...."
-
-
-translate italian breakup_vess_c5f100c5:
-
-
-    ve "Ma..."
-
-
-translate italian breakup_vess_91eebadd:
-
-
-    c "Avrei dovuto dirti dei miei sentimenti per lei."
-
-
-translate italian breakup_vess_09990835:
-
-
-    c "Ma ciò che è passato è passato."
-
-
-translate italian breakup_vess_0e168e7d:
-
-
-    ve "Io... capisco."
-
-
-translate italian breakup_vess_37832318:
-
-
-    ve "Puoi lasciarmi in pace adesso?"
-
-
-translate italian breakup_vess_54b63575:
-
-
-    ve "Ho bisogno di stare da sola."
-
-
-translate italian breakup_vess_4e8c7062:
-
-
-    c "Certo."
-
-
-translate italian breakup_vess_d7638ec7:
-
-
-    "Dopo aver chiuso la porta, ho sentito Vess piangere senza sosta."
-
-
-translate italian breakup_vess_91a13ecf:
-
-
-    "Resistendo all'impulso di tornare a confortarla, sono tornato nel mio alloggio."
-
-
-translate italian breakup_nadya_d7669a36:
-
-
-    c "Devo dirti una cosa."
-
-
-translate italian breakup_nadya_123344a8:
-
-
-    c "Forse è meglio se ti siedi."
-
-
-translate italian breakup_nadya_09362606:
-
-
-    na "Va bene..."
-
-
-translate italian breakup_nadya_3efe0ac3:
-
-
-    c "Può sembrare insensibile, ma la nostra relazione deve finire."
-
-
-translate italian breakup_nadya_cdf6f71a:
-
-
-    na "Non usi mezzi termini, eh?"
-
-
-translate italian breakup_nadya_eb51bd5d:
-
-
-    c "Volevo solo parlare chiaramente."
-
-
-translate italian breakup_nadya_154ec566:
-
-
-    na "Come sei maturo."
-
-
-translate italian breakup_nadya_247086c5:
-
-
-    na "Ne hai abbastanza di me?"
-
-
-translate italian breakup_nadya_33bec90c:
-
-
-    na "Hai trovato qualcosa di meglio?"
-
-
-translate italian rottura_nadya_440730be:
-
-
-    c "No mamma, non è proprio così."
-
-
-translate italian breakup_nadya_e2186711:
-
-
-    c "No, non proprio."
-
-
-translate italian breakup_nadya_426f3b71:
-
-
-    na "Beh, a me sembra proprio così."
-
-
-translate italian breakup_nadya_1e3913ba:
-
-
-    na "Beh, a me sembra proprio così."
-
-
-translate italian breakup_nadya_f0d5d68b:
-
-
-    na "Hai assaggiato il frutto proibito e ora vuoi qualcos'altro."
-
-
-translate italian breakup_nadya_fdb95508:
-
-
-    na "Hai assaggiato il frutto proibito e ora vuoi qualcos'altro."
-
-
-translate italian breakup_nadya_0b46ce46:
-
-
-    na "Ti sei divertito e ora vuoi qualcos'altro."
-
-
-translate italian breakup_nadya_20629000:
-
-
-    na "È a causa della mia età, vero?"
-
-
-translate italian breakup_nadya_193c4aa2:
-
-
-    c "No, non è quello, davvero."
-
-
-translate italian breakup_nadya_c48bf2d5:
-
-
-    na "Sai cosa, non mi dispiace."
-
-
-translate italian breakup_nadya_377a7f9b:
-
-
-    na "Non avrei mai dovuto aprirmi con te in quel modo, sarebbe finita inevitabilmente con una delusione."
-
-
-translate italian breakup_nadya_447b54ad:
-
-
-    c "Madre..."
-
-
-translate italian breakup_nadya_cc1af782:
-
-
-    c "Nadia..."
-
-
-translate italian breakup_nadya_3b853f3d:
-
-
-    na "Non ti sto nemmeno incolpando, avrei dovuto fare più attenzione."
-
-
-translate italian rottura_nadya_93310ed6:
-
-
-    na "Vorrei solo che avessi pensato prima a queste tue preoccupazioni, ci saremmo risparmiati un sacco di dolore."
-
-
-translate italian breakup_nadya_ea2e9aef:
-
-
-    c "Lo so, e mi dispiace."
-
-
-translate italian breakup_nadya_27fd475c:
-
-
-    c "Ti prego di comprendere che non ho preso questa decisione facilmente."
-
-
-translate italian breakup_nadya_138d70b7:
-
-
-    na "Hai un'altra persona, vero?"
-
-
-translate italian breakup_nadya_29b2589a:
-
-
-    c "Sì, è così."
-
-
-translate italian breakup_nadya_4141727e:
-
-
-    na "L'ho immaginato."
-
-
-translate italian breakup_nadya_aff1075a:
-
-
-    na "Ti ha chiesto di rompere?"
-
-
-translate italian breakup_nadya_7961aac6:
-
-
-    c "Sì."
-
-
-translate italian breakup_nadya_d17db83d:
-
-
-    na "Beh, capisco la sua posizione."
-
-
-translate italian breakup_nadya_6a0fae82:
-
-
-    na "Sembra che tu abbia fatto la tua scelta, e devo rispettarla."
-
-
-translate italian breakup_nadya_49a26f5f:
-
-
-    na "Voglio che tu prometta di renderla il più possibile felice e di non deluderla."
-
-
-translate italian breakup_nadya_94ccfb49:
-
-
-    c "Non lo farò, lo prometto."
-
-
-translate italian breakup_nadya_ccb084fe:
-
-
-    na "Grande."
-
-
-translate italian breakup_nadya_19ee6d5b:
-
-
-    na "Puoi lasciarmi in pace adesso, per favore?"
-
-
-translate italian breakup_nadya_e3ee3918:
-
-
-    "Ho lasciato mia madre."
-
-
-translate italian breakup_nadya_10e0f1df:
-
-
-    "Ho lasciato Nadia."
-
-
-translate italian breakup_nadya_6052a82f:
-
-
-    "Nonostante la sua voce ferma di prima, l'ho sentita piangere dopo aver chiuso la porta."
-
-
-translate italian breakup_nadya_b8504e1e:
-
-
-    "Il suo grido accorato mi ha perseguitato per tutto il viaggio di ritorno al mio alloggio."
-
-
-translate italian breakup_nadya_df277e26:
-
-
-    na "Ti sei divertito e ora vuoi qualcos'altro."
-
+    "Con queste ultime parole, uscì dal mio alloggio."
 
 translate italian strings:
 
 
     old "Leave"
-    new "Lasciare"
+    new "Congedo"
 
 
     old "Try to explain"
-    new "Tentare di spiegarsi"
+    new "Cerca di spiegare"
+
+
+    old "Defend yourself"
+    new "Difenditi"
 
 
     old "Just leave"
-    new "Lasciare e basta"
+    new "Vattene e basta"
 
 
     old "Explain"
-    new "Spiegare"
+    new "Spiega"
 
 
     old "Don't explain"
@@ -1681,143 +1636,131 @@ translate italian strings:
 
 
     old "Be honest"
-    new "Essere onesti"
+    new "Sii onesto"
 
 
     old "Evade"
-    new "Evitare"
+    new "Evadere"
 
-# TODO: Translation updated at 2025-06-04 13:45
 
-# game/breakups.rpy:298
-translate italian breakup_nadya_440730be:
 
-    # c "No mom, it isn’t like that."
-    c ""
 
-# game/breakups.rpy:320
-translate italian breakup_nadya_93310ed6:
-
-    # na "I just wish you thought of your concerns earlier, it would have saved us both a lot of pain."
-    na ""
-
-# game/breakups.rpy:399
 translate italian breakup_eva_1260debe:
 
-    # "Eva was waiting for me with such a hopeful expression on her face that I nearly couldn’t go through with it."
-    ""
 
-# game/breakups.rpy:400
+    "Eva mi aspettava con un'espressione così speranzosa sul viso che quasi non riuscivo ad andare avanti."
+
+
 translate italian breakup_eva_b1f8097e:
 
-    # e "Hey, what’s on your mind?"
-    e ""
 
-# game/breakups.rpy:401
+    e "Ehi, cosa ti passa per la testa?"
+
+
 translate italian breakup_eva_0ce8d137:
 
-    # c "I need to talk about us, Eva."
-    c ""
 
-# game/breakups.rpy:403
+    c "Devo parlare di noi, Eva."
+
+
 translate italian breakup_eva_3388a208:
 
-    # e "Oh..."
-    e ""
 
-# game/breakups.rpy:404
+    e "Oh..."
+
+
 translate italian breakup_eva_0f96d88c:
 
-    # e "That doesn’t sound good."
-    e ""
 
-# game/breakups.rpy:405
+    e "Non suona bene."
+
+
 translate italian breakup_eva_0add9b0f:
 
-    # c "I’m breaking up with you."
-    c ""
 
-# game/breakups.rpy:407
+    c "Sto rompendo con te."
+
+
 translate italian breakup_eva_394bcc56:
 
-    # e "What?!"
-    e ""
 
-# game/breakups.rpy:408
+    e "Cosa?"
+
+
 translate italian breakup_eva_d4993d94:
 
-    # e "But..."
-    e ""
 
-# game/breakups.rpy:409
+    e "Ma..."
+
+
 translate italian breakup_eva_1ea97b2d:
 
-    # e "Why?"
-    e ""
 
-# game/breakups.rpy:410
+    e "Perché?"
+
+
 translate italian breakup_eva_72f0b015:
 
-    # c "I’m being forced to make a choice and I’m choosing her."
-    c ""
 
-# game/breakups.rpy:412
+    c "Sono costretto a fare una scelta e scelgo lei."
+
+
 translate italian breakup_eva_d0bb04b8:
 
-    # e "But we had something special together!"
-    e ""
 
-# game/breakups.rpy:414
+    e "Ma avevamo qualcosa di speciale insieme!"
+
+
 translate italian breakup_eva_4dadb6ee:
 
-    # e "You wanted children with me?!"
-    e ""
 
-# game/breakups.rpy:415
+    e "Volevi dei figli da me?!"
+
+
 translate italian breakup_eva_3c45660b:
 
-    # e "How could you do such a thing like this?"
-    e ""
 
-# game/breakups.rpy:416
+    e "Come hai potuto fare una cosa del genere?"
+
+
 translate italian breakup_eva_391009d5:
 
-    # c "I’m sorry, Eva."
-    c ""
 
-# game/breakups.rpy:417
+    c "Mi dispiace, Eva."
+
+
 translate italian breakup_eva_4e60d810:
 
-    # e "There’s no chance you’ll reconsider?"
-    e ""
 
-# game/breakups.rpy:418
+    e "Non c'è nessuna possibilità che tu ci ripensi?"
+
+
 translate italian breakup_eva_51fa8c9a:
 
-    # c "No, this is final."
-    c ""
 
-# game/breakups.rpy:420
+    c "No, questo è definitivo."
+
+
 translate italian breakup_eva_81959a5c:
 
-    # e "Go away then."
-    e ""
 
-# game/breakups.rpy:421
+    e "Allora vattene."
+
+
 translate italian breakup_eva_a8dd7e4b:
 
-    # e "I don’t want you here."
-    e ""
 
-# game/breakups.rpy:422
+    e "Non ti voglio qui."
+
+
 translate italian breakup_eva_35a18b0a:
 
-    # e "Go!"
-    e ""
 
-# game/breakups.rpy:424
+    e "Vai!"
+
+
 translate italian breakup_eva_b04ca312:
 
-    # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
-    ""
 
+    "Mi ritirai e chiusi la porta dietro di me, lasciando che mia sorella si sciogliesse in lacrime."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

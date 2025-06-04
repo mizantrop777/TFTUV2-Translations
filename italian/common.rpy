@@ -1,27 +1,26 @@
 
 
-
 translate italian strings:
 
 
     old "Self-voicing disabled."
-    new "Assistenza vocale disabilitata."
+    new "Voce automatica disabilitata."
 
 
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing abilitata. "
+    new "Voicing negli appunti abilitato."
 
 
     old "Self-voicing enabled. "
-    new "Assistenza vocale abilitata. "
+    new "Voce automatica abilitata."
 
 
     old "bar"
-    new "barra"
+    new "bar"
 
 
     old "selected"
-    new "è in selezione"
+    new "selezionato"
 
 
     old "viewport"
@@ -37,11 +36,11 @@ translate italian strings:
 
 
     old "activate"
-    new "attivato"
+    new "attivare"
 
 
     old "deactivate"
-    new "disattivato"
+    new "disattivare"
 
 
     old "increase"
@@ -69,7 +68,7 @@ translate italian strings:
 
 
     old "Text Size Scaling"
-    new "Ridimensionamento testo"
+    new "Ridimensionamento del testo"
 
 
     old "Reset"
@@ -77,11 +76,11 @@ translate italian strings:
 
 
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "Scala spaziatura linea"
 
 
     old "Self-Voicing"
-    new "Assistenza vocale"
+    new "Auto-voce"
 
 
     old "Off"
@@ -257,39 +256,39 @@ translate italian strings:
 
 
     old "%b %d, %H:%M"
-    new "%b %d - %H:%M"
+    new "%b %d, %H:%M"
 
 
     old "Save slot %s: [text]"
-    new "Salvataggio nello slot %s: [text]"
+    new "Salva slot %s: [text]"
 
 
     old "Load slot %s: [text]"
-    new "Caricamento dallo slot %s: [text]"
+    new "Carica slot %s: [text]"
 
 
     old "Delete slot [text]"
-    new "Cancella lo slot [text]"
+    new "Elimina lo slot [text]"
 
 
     old "File page auto"
-    new "Pagina degli slot automatici"
+    new "File pagina auto"
 
 
     old "File page quick"
-    new "Pagina degli slot rapidi"
+    new "File pagina veloce"
 
 
     old "File page [text]"
-    new "Pagina slot [text]"
+    new "Pagina del file [text]"
 
 
     old "Next file page."
-    new "Pagina slot successiva."
+    new "Pagina file successiva."
 
 
     old "Previous file page."
-    new "Pagina slot precedente."
+    new "Pagina del file precedente."
 
 
     old "Quick save complete."
@@ -297,7 +296,7 @@ translate italian strings:
 
 
     old "Quick save."
-    new "Salvataggio rapido."
+    new "Salvataggio veloce."
 
 
     old "Quick load."
@@ -309,7 +308,7 @@ translate italian strings:
 
 
     old "The interactive director is not enabled here."
-    new "L'interactive director non è abilitato qui."
+    new "Il direttore interattivo non è abilitato qui."
 
 
     old "⬆"
@@ -325,11 +324,11 @@ translate italian strings:
 
 
     old "(statement)"
-    new "(stato)"
+    new "(dichiarazione)"
 
 
     old "(tag)"
-    new "(tag)"
+    new "(etichetta)"
 
 
     old "(attributes)"
@@ -337,7 +336,7 @@ translate italian strings:
 
 
     old "(transform)"
-    new "(trasformazione)"
+    new "(trasformare)"
 
 
     old "(transition)"
@@ -349,15 +348,15 @@ translate italian strings:
 
 
     old "(filename)"
-    new "(nome file)"
+    new "(nome del file)"
 
 
     old "Change"
-    new "Modifica"
+    new "Modificare"
 
 
     old "Add"
-    new "Aggiungi"
+    new "Inserisci"
 
 
     old "Cancel"
@@ -365,15 +364,15 @@ translate italian strings:
 
 
     old "Remove"
-    new "Rimuovi"
+    new "Rimuovere"
 
 
     old "Statement:"
-    new "Stato:"
+    new "Dichiarazione:"
 
 
     old "Tag:"
-    new "Tag:"
+    new "Etichetta:"
 
 
     old "Attributes:"
@@ -381,7 +380,7 @@ translate italian strings:
 
 
     old "Transforms:"
-    new "Trasformazioni:"
+    new "Trasforma:"
 
 
     old "Behind:"
@@ -405,23 +404,23 @@ translate italian strings:
 
 
     old "Are you sure you want to delete this save?"
-    new "Sei sicuro di voler cancellare questo salvataggio?"
+    new "Sei sicuro di voler eliminare questo salvataggio?"
 
 
     old "Are you sure you want to overwrite your save?"
-    new "Sei sicuro di voler sovrascrivere il salvataggio?"
+    new "Sei sicuro di voler sovrascrivere il tuo salvataggio?"
 
 
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Il caricamento comporta la perdita dei progressi non salvati.\nSei sicuro di voler continuare?"
+    new "Il caricamento perderà i progressi non salvati.\nSei sicuro di volerlo fare?"
 
 
     old "Are you sure you want to quit?"
-    new "Sei sicuro di voler terminare il gioco?"
+    new "Sei sicuro di voler uscire?"
 
 
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Sei sicuro di voler tornare al menu principale?\nQuesto comporta la perdita dei progressi non salvati."
+    new "Sei sicuro di voler tornare al menu principale?\nQuesto perderà i progressi non salvati."
 
 
     old "Are you sure you want to end the replay?"
@@ -429,15 +428,15 @@ translate italian strings:
 
 
     old "Are you sure you want to begin skipping?"
-    new "Sei sicuro di voler cominciare a saltare?"
+    new "Sei sicuro di voler iniziare a saltare?"
 
 
     old "Are you sure you want to skip to the next choice?"
-    new "Sei sicuro di voler saltare alla successiva scelta?"
+    new "Sei sicuro di voler passare alla scelta successiva?"
 
 
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Sei sicuro di voler saltare il dialogo non visto alla successiva scelta?"
+    new "Sei sicuro di voler saltare il dialogo invisibile alla scelta successiva?"
 
 
     old "Failed to save screenshot as %s."
@@ -449,15 +448,15 @@ translate italian strings:
 
 
     old "Skip Mode"
-    new "Modalità salto"
+    new "Modalità Salta"
 
 
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Questo programma contiene software gratuito in base a una serie di licenze, tra cui la Licenza MIT e la Licenza pubblica generale minore GNU. Un elenco completo di software, inclusi collegamenti a codice sorgente completo, è disponibile {a=https://www.renpy.org/l/license}qui{/a}."
+    new "Questo programma contiene software gratuito con una serie di licenze, inclusa la licenza MIT e la GNU Lesser General Public License. Un elenco completo del software, inclusi i collegamenti al codice sorgente completo, può essere trovato {a=https://www.renpy.org/l/license}qui{/a}."
 
 
     old "display"
-    new "schermo"
+    new "Schermo"
 
 
     old "transitions"
@@ -465,7 +464,7 @@ translate italian strings:
 
 
     old "skip transitions"
-    new "salta transizioni"
+    new "salta le transizioni"
 
 
     old "video sprites"
@@ -473,23 +472,23 @@ translate italian strings:
 
 
     old "show empty window"
-    new "mostra finestra vuota"
+    new "mostra la finestra vuota"
 
 
     old "text speed"
-    new "velocità testo"
+    new "velocità del testo"
 
 
     old "joystick"
-    new "joystick"
+    new "telecomando da gioco"
 
 
     old "joystick..."
-    new "joystick..."
+    new "telecomando da gioco..."
 
 
     old "skip"
-    new "salta"
+    new "Salta"
 
 
     old "skip unseen [text]"
@@ -497,11 +496,11 @@ translate italian strings:
 
 
     old "skip unseen text"
-    new "salta il testo non visto"
+    new "salta il testo invisibile"
 
 
     old "begin skipping"
-    new "inizio salto"
+    new "iniziare a saltare"
 
 
     old "after choices"
@@ -509,23 +508,23 @@ translate italian strings:
 
 
     old "skip after choices"
-    new "salta dopo le scelte"
+    new "saltare dopo le scelte"
 
 
     old "auto-forward time"
-    new "tempo di autoavanzamento"
+    new "tempo di avanzamento automatico"
 
 
     old "auto-forward"
-    new "autoavanzamento"
+    new "avanzamento automatico"
 
 
     old "Auto forward"
-    new "Autoavanzamento"
+    new "Avanti automatico"
 
 
     old "auto-forward after click"
-    new "autoavanzamento dopo il click"
+    new "inoltro automatico dopo il clic"
 
 
     old "automatic move"
@@ -533,27 +532,27 @@ translate italian strings:
 
 
     old "wait for voice"
-    new "attesa per voci"
+    new "aspetta la voce"
 
 
     old "voice sustain"
-    new "voice sustain"
+    new "sostegno vocale"
 
 
     old "self voicing"
-    new "assistenza vocale"
+    new "voce automatica"
 
 
     old "clipboard voicing"
-    new "clipboard voicing"
+    new "voicing negli appunti"
 
 
     old "debug voicing"
-    new "debug vocale"
+    new "debug voicing"
 
 
     old "emphasize audio"
-    new "enfatizzazione audio"
+    new "enfatizzare l'audio"
 
 
     old "rollback side"
@@ -569,7 +568,7 @@ translate italian strings:
 
 
     old "gl tearing"
-    new "gl tearing"
+    new "gl strappo"
 
 
     old "font transform"
@@ -577,11 +576,11 @@ translate italian strings:
 
 
     old "font size"
-    new "font size"
+    new "dimensione del font"
 
 
     old "font line spacing"
-    new "font line spacing"
+    new "interlinea dei caratteri"
 
 
     old "music volume"
@@ -597,31 +596,31 @@ translate italian strings:
 
 
     old "mute music"
-    new "senza musica"
+    new "musica muta"
 
 
     old "mute sound"
-    new "senza suoni"
+    new "suono muto"
 
 
     old "mute voice"
-    new "senza voci"
+    new "voce muta"
 
 
     old "mute all"
-    new "disattivare la musica"
+    new "disattiva tutto"
 
 
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing abilitata. Premi 'shift+C' per disabilitarla."
+    new "Voicing negli appunti abilitato. Premere \"MAIUSC + C\" per disabilitare."
 
 
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing dice \"[renpy.display.tts.last]\". Premi 'alt+shift+V' per disabilitarla."
+    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
 
 
     old "Self-voicing enabled. Press 'v' to disable."
-    new "{#immersive-mode}"
+    new "Voce automatica abilitata. Premere \"v\" per disabilitare."
 
 
     old "Empty Slot."
@@ -633,7 +632,7 @@ translate italian strings:
 
 
     old "Next"
-    new "Successiva"
+    new "Il prossimo"
 
 
     old "Joystick Mapping"
@@ -645,19 +644,19 @@ translate italian strings:
 
 
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "Direttore interattivo (D)"
 
 
     old "Reload Game (Shift+R)"
-    new "Ricarica gioco (Shift+R)"
+    new "Ricarica il gioco (Maiusc + R)"
 
 
     old "Console (Shift+O)"
-    new "Console (Shift+O)"
+    new "Console (Maiusc + O)"
 
 
     old "Variable Viewer"
-    new "Visualizzatore variabili"
+    new "Visualizzatore di variabili"
 
 
     old "Image Location Picker"
@@ -665,7 +664,7 @@ translate italian strings:
 
 
     old "Filename List"
-    new "Lista nomi file"
+    new "Elenco nomi file"
 
 
     old "Show Image Load Log (F4)"
@@ -677,7 +676,7 @@ translate italian strings:
 
 
     old "Image Attributes"
-    new "Attributi immagine"
+    new "Attributi dell'immagine"
 
 
     old "[name] [attributes] (hidden)"
@@ -689,7 +688,7 @@ translate italian strings:
 
 
     old "Nothing to inspect."
-    new "Nulla da ispezionare."
+    new "Niente da ispezionare."
 
 
     old "Hide deleted"
@@ -697,7 +696,7 @@ translate italian strings:
 
 
     old "Show deleted"
-    new "Mostra cancellati"
+    new "Mostra cancellato"
 
 
     old "Return to the developer menu"
@@ -709,31 +708,31 @@ translate italian strings:
 
 
     old "Mouse position: %r"
-    new "Posizione mouse: %r"
+    new "Posizione del mouse: %r"
 
 
     old "Right-click or escape to quit."
-    new "Click destro o ESC per uscire."
+    new "Fare clic con il pulsante destro del mouse o uscire per uscire."
 
 
     old "Rectangle copied to clipboard."
-    new "Rettangolo copiato nella clipboard."
+    new "Rettangolo copiato negli appunti."
 
 
     old "Position copied to clipboard."
-    new "Posizione copiata nella clipboard."
+    new "Posizione copiata negli appunti."
 
 
     old "Type to filter: "
-    new "Digita per filtrare: "
+    new "Digita per filtrare:"
 
 
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "Trame: [tex_count] ([tex_size_mb:.1f] MB)"
 
 
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Cache immagine: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
 
     old "✔ "
@@ -745,15 +744,15 @@ translate italian strings:
 
 
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ immagine prevista (valida){/color}\n{color=#fcc}✘ immagine non prevista (non valida){/color}\n{color=#fff} Trascina per muovere.{/color}"
+    new "\n{color=#cfc} ✔ immagine prevista (buona){/color}\n{color=#fcc}✘ immagine non prevista (cattiva){/color}\n{color=#fff} Trascina su spostare.{/color}"
 
 
     old "Displayable Inspector"
-    new "Displayable Inspector"
+    new "Inspector visualizzabile"
 
 
     old "Size"
-    new "Dimensioni"
+    new "Taglia"
 
 
     old "Style"
@@ -765,27 +764,27 @@ translate italian strings:
 
 
     old "Inspecting Styles of [displayable_name!q]"
-    new "Ispezione stili di [displayable_name!q]"
+    new "Ispezione degli stili di [displayable_name!q]"
 
 
     old "displayable:"
-    new "displayable:"
+    new "visualizzabile:"
 
 
     old "        (no properties affect the displayable)"
-    new "        (no properties affect the displayable)"
+    new "        (nessuna proprietà influisce sulla visualizzabile)"
 
 
     old "        (default properties omitted)"
-    new "        (default properties omitted)"
+    new "        (proprietà predefinite omesse)"
 
 
     old "<repr() failed>"
-    new "<repr() fallito>"
+    new "<repr () non riuscito>"
 
 
     old "a"
-    new "a"
+    new "un"
 
 
     old "q"
@@ -793,27 +792,27 @@ translate italian strings:
 
 
     old "Contacting App Store\nPlease Wait..."
-    new "Connessione all'App Store\nAttendere prego..."
+    new "Contattare l'App Store\nAttendi ..."
 
 
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "L'aggiornamento di Ren'Py non è supportato dai dispositivi mobili."
+    new "Il Ren'Py Updater non è supportato sui dispositivi mobili."
 
 
     old "An error is being simulated."
-    new "Un errore è in fase di simulazione."
+    new "È in corso la simulazione di un errore."
 
 
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Questo programma non supporta l'aggiornamento, o il file di stato dell'aggiornamento è stato eliminato."
+    new "Questo progetto non supporta l'aggiornamento o il file di stato dell'aggiornamento è stato eliminato."
 
 
     old "This account does not have permission to perform an update."
-    new "Questo account non ha i permessi per eseguire un aggiornamento."
+    new "Questo account non dispone dell'autorizzazione per eseguire un aggiornamento."
 
 
     old "This account does not have permission to write the update log."
-    new "Questo account non ha i permessi per scrivere il file di registro."
+    new "Questo account non dispone dell'autorizzazione per scrivere il registro degli aggiornamenti."
 
 
     old "Could not verify update signature."
@@ -825,7 +824,7 @@ translate italian strings:
 
 
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "Il file di aggiornamento non ha il digest corretto: potrebbe essere danneggiato."
+    new "Il file di aggiornamento non ha il digest corretto: potrebbe essere stato danneggiato."
 
 
     old "While unpacking {}, unknown type {}."
@@ -845,27 +844,27 @@ translate italian strings:
 
 
     old "This program is up to date."
-    new "Questo programma è obsoleto."
+    new "Questo programma è aggiornato."
 
 
     old "[u.version] is available. Do you want to install it?"
-    new "La versione [u.version] è disponibile. Vuoi installarla?"
+    new "[u.version] è disponibile. Vuoi installarlo?"
 
 
     old "Preparing to download the updates."
-    new "Preparazione al download degli aggiornamenti."
+    new "Prepararsi a scaricare gli aggiornamenti."
 
 
     old "Downloading the updates."
-    new "Scaricamento aggiornamenti in corso."
+    new "Download degli aggiornamenti."
 
 
     old "Unpacking the updates."
-    new "Scompattamento aggiornamenti."
+    new "Disimballaggio degli aggiornamenti."
 
 
     old "Finishing up."
-    new "Quasi finito."
+    new "Finendo."
 
 
     old "The updates have been installed. The program will restart."
@@ -881,7 +880,7 @@ translate italian strings:
 
 
     old "Proceed"
-    new "Procedi"
+    new "Procedere"
 
 
     old "Image [index] of [count] locked."
@@ -889,11 +888,11 @@ translate italian strings:
 
 
     old "prev"
-    new "precedente"
+    new "prec"
 
 
     old "next"
-    new "successivo"
+    new "Il prossimo"
 
 
     old "slideshow"
@@ -901,7 +900,7 @@ translate italian strings:
 
 
     old "return"
-    new "indietro"
+    new "ritorno"
 
 
     old "Renderer"
@@ -909,23 +908,27 @@ translate italian strings:
 
 
     old "Automatically Choose"
-    new "Selezione automatica"
+    new "Scegli automaticamente"
 
 
     old "Force Angle/DirectX Renderer"
-    new "Forza il render Angle/DirectX"
+    new "Force Angle / DirectX Renderer"
 
 
     old "Force OpenGL Renderer"
-    new "Forza il render OpenGL"
+    new "Forza OpenGL Renderer"
 
 
     old "Force Software Renderer"
-    new "Forza il render software"
+    new "Forza software di rendering"
 
 
     old "NPOT"
     new "NPOT"
+
+
+    old "Enable"
+    new "Abilitare"
 
 
     old "Powersave"
@@ -933,7 +936,7 @@ translate italian strings:
 
 
     old "Framerate"
-    new "Framerate"
+    new "Frequenza dei fotogrammi"
 
 
     old "Screen"
@@ -949,11 +952,11 @@ translate italian strings:
 
 
     old "Tearing"
-    new "Tearing"
+    new "Lacrimazione"
 
 
     old "Changes will take effect the next time this program is run."
-    new "Le modifiche avranno effetto al successivo riavvio."
+    new "Le modifiche avranno effetto alla prossima esecuzione di questo programma."
 
 
     old "Performance Warning"
@@ -973,11 +976,11 @@ translate italian strings:
 
 
     old "This computer has a problem displaying graphics: [problem]."
-    new "Questo dispositivo ha problemi alla grafica: [problem]."
+    new "Questo computer ha un problema con la visualizzazione della grafica: [problem]."
 
 
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "I driver della grafica potrebbero non essere aggiornati o non funzionare correttamente. Ciò può causare una visualizzazione grafica lenta o errata. L'aggiornamento di DirectX potrebbe risolvere questo problema."
+    new "I suoi driver grafici potrebbero non essere aggiornati o non funzionare correttamente. Ciò può causare una visualizzazione grafica lenta o errata. L'aggiornamento di DirectX potrebbe risolvere questo problema."
 
 
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -989,11 +992,11 @@ translate italian strings:
 
 
     old "Continue, Show this warning again"
-    new "Continua, mostra ancora questo avviso"
+    new "Continua, mostra di nuovo questo avviso"
 
 
     old "Continue, Don't show warning again"
-    new "Continua, non mostrare più questo avviso"
+    new "Continua, non mostrare più l'avviso"
 
 
     old "Updating DirectX."
@@ -1017,7 +1020,7 @@ translate italian strings:
 
 
     old "Select Gamepad to Calibrate"
-    new "Seleziona il gamepad da calibrare"
+    new "Seleziona Gamepad per calibrare"
 
 
     old "No Gamepads Available"
@@ -1025,11 +1028,11 @@ translate italian strings:
 
 
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrazione di [name] ([i]/[total])"
+    new "Calibrazione di [name] ([i] / [total])"
 
 
     old "Press or move the [control!r] [kind]."
-    new "Premi o muovi il [control!r] [kind]."
+    new "Premi o sposta il pulsante [control!r] [kind]."
 
 
     old "Skip (A)"
@@ -1041,11 +1044,11 @@ translate italian strings:
 
 
     old "Open"
-    new "Apri"
+    new "Aperto"
 
 
     old "Opens the traceback.txt file in a text editor."
-    new "Apre il file traceback.txt in un editor testi."
+    new "Apre il file traceback.txt in un editor di testo."
 
 
     old "Copy BBCode"
@@ -1053,7 +1056,7 @@ translate italian strings:
 
 
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copia il file traceback.txt nella clipboard come BBcode per forum come https://lemmasoft.renai.us/."
+    new "Copia il file traceback.txt negli appunti come BBcode per forum come https://lemmasoft.renai.us/."
 
 
     old "Copy Markdown"
@@ -1061,11 +1064,11 @@ translate italian strings:
 
 
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copia il file traceback.txt nella clipboard come Markdown per Discord."
+    new "Copia il file traceback.txt negli appunti come Markdown for Discord."
 
 
     old "An exception has occurred."
-    new "Si è verificato un errore."
+    new "Si è verificata un'eccezione."
 
 
     old "Rollback"
@@ -1073,27 +1076,27 @@ translate italian strings:
 
 
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Tenta di eseguire il rollback ad uno step precedente, consentendoti di salvare o fare una scelta diversa."
+    new "Tenta di ripristinare un orario precedente, consentendo di salvare o scegliere una scelta diversa."
 
 
     old "Ignore"
-    new "Ignora"
+    new "Ignorare"
 
 
     old "Ignores the exception, allowing you to continue."
-    new "Ignora l'errore per poter continuare."
+    new "Ignora l'eccezione, consentendoti di continuare."
 
 
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignora l'errore, consentendoti di continuare. Questo porta spesso a ulteriori errori."
+    new "Ignora l'eccezione, consentendoti di continuare. Questo spesso porta a ulteriori errori."
 
 
     old "Reload"
-    new "Ricarica"
+    new "Ricaricare"
 
 
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Ricarica il gioco dal disco, salvando e ripristinando lo stato del gioco, se possibile."
+    new "Ricarica il gioco dal disco, salvando e ripristinando lo stato del gioco se possibile."
 
 
     old "Console"
@@ -1101,7 +1104,7 @@ translate italian strings:
 
 
     old "Opens a console to allow debugging the problem."
-    new "Apre una console per consentire la risoluzione del problema."
+    new "Apre una console per consentire il debug del problema."
 
 
     old "Quits the game."
@@ -1113,15 +1116,15 @@ translate italian strings:
 
 
     old "Opens the errors.txt file in a text editor."
-    new "Apre il file errors.txt in un editor testi."
+    new "Apre il file errors.txt in un editor di testo."
 
 
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copia il file errors.txt nella clipboard come BBcode per forum come https://lemmasoft.renai.us/."
+    new "Copia il file errors.txt negli appunti come BBcode per forum come https://lemmasoft.renai.us/."
 
 
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "Copia il file errors.txt nella clipboard come Markdown per Discord."
+    new "Copia il file errors.txt negli appunti come Markdown for Discord."
 
 
 
@@ -1129,11 +1132,11 @@ translate italian strings:
 
 
     old "Self-Voicing Volume Drop"
-    new "Diminuzione volume assistente vocale"
+    new "Abbassamento del volume a voce automatica"
 
 
     old "self voicing volume drop"
-    new "diminuzione volume assistente vocale"
+    new "calo del volume con voce automatica"
 
 
     old "system cursor"
@@ -1141,31 +1144,31 @@ translate italian strings:
 
 
     old "Force GL Renderer"
-    new "Forza render GL"
+    new "Render GL forzato"
 
 
     old "Force ANGLE Renderer"
-    new "Forza render ANGLE"
+    new "Forza ANGOLO Renderer"
 
 
     old "Force GLES Renderer"
-    new "Forza render GLES"
+    new "Renderizzatore Force GLES"
 
 
     old "Force GL2 Renderer"
-    new "Forza render GL2"
+    new "Renderizzatore Force GL2"
 
 
     old "Force ANGLE2 Renderer"
-    new "Forza render ANGLE2"
+    new "Renderizzatore Force ANGLE2"
 
 
     old "Force GLES2 Renderer"
-    new "Forza render GLES2"
+    new "Forza GLES2 Renderer"
 
 
     old "Enable (No Blocklist)"
-    new "Abilita (No Blocklist)"
+    new "Abilita (nessuna lista bloccata)"
 
 
     old "This game requires use of GL2 that can't be initialised."
@@ -1173,19 +1176,19 @@ translate italian strings:
 
 
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "Il file {a=edit:1:log.txt}log.txt{/a} può contenere informazioni utili alla risoluzione di eventuali problemi con il dispositivo."
+    new "Il file {a=edit:1:log.txt} log.txt {/a} potrebbe contenere informazioni per aiutarti a determinare cosa c'è che non va nel tuo computer."
 
 
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Ulteriori dettagli su come risolvere questo problema sono disponibili {a=[url]}qui{/a}."
+    new "Maggiori dettagli su come risolvere questo problema possono essere trovati nella {a=[url]}documentazione{/a}."
 
 
     old "Change render options"
-    new "Cambia le opzioni di render"
+    new "Cambia le opzioni di rendering"
 
 
     old "Press or move the '[control!s]' [kind]."
-    new "Premi o muovi il '[control!s]' [kind]."
+    new "Premi o sposta \"[control!s]\" [kind]."
 
 
 
@@ -1211,243 +1214,251 @@ translate italian strings:
     old "high contrast text"
     new "testo ad alto contrasto"
 
-# TODO: Translation updated at 2025-06-04 13:45
+
 
 translate italian strings:
 
-    # renpy/common/00accessibility.rpy:122
-    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new ""
 
-    # renpy/common/00accessibility.rpy:199
-    old "Self-voicing support is limited when using a touch screen."
-    new ""
-
-    # renpy/common/00action_other.rpy:781
     old "Open [text] directory."
-    new ""
+    new "Apri la directory [text]."
 
-    # renpy/common/00director.rpy:1753
-    old "Click to toggle attribute, right click to toggle negative attribute."
-    new ""
 
-    # renpy/common/00director.rpy:1776
-    old "Click to set transform, right click to add to transform list."
-    new ""
-
-    # renpy/common/00director.rpy:1777
-    old "Customize director.transforms to add more transforms."
-    new ""
-
-    # renpy/common/00director.rpy:1800
-    old "Click to set, right click to add to behind list."
-    new ""
-
-    # renpy/common/00director.rpy:1822
-    old "Click to set."
-    new ""
-
-    # renpy/common/00director.rpy:1823
-    old "Customize director.transitions to add more transitions."
-    new ""
-
-    # renpy/common/00director.rpy:1846
-    old "Customize director.audio_channels to add more channels."
-    new ""
-
-    # renpy/common/00gui.rpy:454
-    old "Are you sure you want to continue where you left off?"
-    new ""
-
-    # renpy/common/00gui.rpy:459
-    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new ""
-
-    # renpy/common/00gui.rpy:460
-    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new ""
-
-    # renpy/common/00preferences.rpy:440
-    old "self voicing enable"
-    new ""
-
-    # renpy/common/00preferences.rpy:442
-    old "self voicing disable"
-    new ""
-
-    # renpy/common/00preferences.rpy:457
-    old "clipboard voicing enable"
-    new ""
-
-    # renpy/common/00preferences.rpy:459
-    old "clipboard voicing disable"
-    new ""
-
-    # renpy/common/00preferences.rpy:466
-    old "debug voicing enable"
-    new ""
-
-    # renpy/common/00preferences.rpy:468
-    old "debug voicing disable"
-    new ""
-
-    # renpy/common/00preferences.rpy:546
     old "audio when minimized"
-    new ""
+    new "audio quando è ridotto a icona"
 
-    # renpy/common/00preferences.rpy:555
-    old "audio when unfocused"
-    new ""
 
-    # renpy/common/00preferences.rpy:564
-    old "web cache preload"
-    new ""
-
-    # renpy/common/00preferences.rpy:579
-    old "voice after game menu"
-    new ""
-
-    # renpy/common/00preferences.rpy:588
-    old "restore window position"
-    new ""
-
-    # renpy/common/00preferences.rpy:597
-    old "reset"
-    new ""
-
-    # renpy/common/00preferences.rpy:610
     old "main volume"
-    new ""
+    new "volume principale"
 
-    # renpy/common/00preferences.rpy:614
+
     old "mute main"
-    new ""
+    new "Disattiva il volume principale"
 
-    # renpy/common/00speechbubble.rpy:420
+
+
+translate italian strings:
+
+
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Clicca per attivare l'attributo, clicca con il tasto destro per attivare l'attributo negativo."
+
+
+    old "Click to set transform, right click to add to transform list."
+    new "Clicca per impostare la trasformazione, clicca con il tasto destro per aggiungerla all'elenco delle trasformazioni."
+
+
+    old "Click to set, right click to add to behind list."
+    new "Clicca per impostare, clicca con il tasto destro del mouse per aggiungere all'elenco dei retroscena."
+
+
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Questo salvataggio è stato creato su un altro dispositivo. I file di salvataggio creati male possono danneggiare il tuo computer. Ti fidi del creatore di questo salvataggio e di tutti coloro che potrebbero aver modificato il file?"
+
+
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Ti fidi del dispositivo su cui è stato creato il salvataggio? Dovresti scegliere sì solo se sei l'unico utente del dispositivo."
+
+
+    old "audio when unfocused"
+    new "audio quando non viene messo a fuoco"
+
+
+    old "web cache preload"
+    new "precaricamento della cache web"
+
+
+    old "voice after game menu"
+    new "voce dopo il menu di gioco"
+
+
     old "Speech Bubble Editor"
-    new ""
+    new "Editor di bolle vocali"
 
-    # renpy/common/00speechbubble.rpy:425
+
     old "(hide)"
-    new ""
+    new "(nascondi)"
 
-    # renpy/common/00speechbubble.rpy:436
-    old "(clear retained bubbles)"
-    new ""
 
-    # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new ""
+    new "Sincronizzazione scaricata."
 
-    # renpy/common/00sync.rpy:197
+
     old "Could not connect to the Ren'Py Sync server."
-    new ""
+    new "Impossibile connettersi al server Ren'Py Sync."
 
-    # renpy/common/00sync.rpy:199
+
     old "The Ren'Py Sync server timed out."
-    new ""
+    new "Il server Ren'Py Sync è scaduto."
 
-    # renpy/common/00sync.rpy:201
+
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new ""
+    new "Si è verificato un errore sconosciuto durante la connessione al server Ren'Py Sync."
 
-    # renpy/common/00sync.rpy:217
+
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new ""
+    new "Il server Ren'Py Sync non ha una copia di questo sync. L'ID di sincronizzazione potrebbe non essere valido o potrebbe essere scaduto."
 
-    # renpy/common/00sync.rpy:320
+
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new ""
+    new "Inserisci l'ID di sincronizzazione che hai generato. \nNon inserire mai un ID di sincronizzazione che non hai creato tu stesso."
 
-    # renpy/common/00sync.rpy:339
+
     old "The sync ID is not in the correct format."
-    new ""
+    new "L'ID di sincronizzazione non è nel formato corretto."
 
-    # renpy/common/00sync.rpy:359
+
     old "The sync could not be decrypted."
-    new ""
+    new "Non è stato possibile decifrare la sincronizzazione."
 
-    # renpy/common/00sync.rpy:382
+
     old "The sync belongs to a different game."
-    new ""
+    new "La sincronizzazione appartiene a un altro gioco."
 
-    # renpy/common/00sync.rpy:387
+
     old "The sync contains a file with an invalid name."
-    new ""
+    new "La sincronizzazione contiene un file con un nome non valido."
 
-    # renpy/common/00sync.rpy:446
+
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new ""
+    new "Questa operazione caricherà i tuoi salvataggi sul {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nVuoi continuare?"
 
-    # renpy/common/00sync.rpy:478
+
     old "Enter Sync ID"
-    new ""
+    new "Inserisci l'ID di sincronizzazione"
 
-    # renpy/common/00sync.rpy:489
+
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new ""
+    new "Contatterà il {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
 
-    # renpy/common/00sync.rpy:519
+
     old "Sync Success"
-    new ""
+    new "Successo della sincronizzazione"
 
-    # renpy/common/00sync.rpy:522
+
     old "The Sync ID is:"
-    new ""
+    new "L'ID di sincronizzazione è:"
 
-    # renpy/common/00sync.rpy:528
+
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new ""
+    new "Puoi usare questo ID per scaricare il tuo salvataggio su un altro dispositivo.\nQuesta sincronizzazione scadrà tra un'ora.\nRen'Py Sync è supportato dagli sponsor di {a=https://www.renpy.org/sponsors.html}Ren'Py{/a}."
 
-    # renpy/common/00sync.rpy:557
+
     old "Sync Error"
-    new ""
+    new "Errore di sincronizzazione"
 
-    # renpy/common/00translation.rpy:63
+
+
+translate italian strings:
+
+
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menu di accessibilità. Usa le frecce su e giù per navigare e l'invio per attivare i pulsanti e le barre."
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Il supporto all'auto-vocazione è limitato quando si utilizza un touch screen."
+
+
+    old "Customize director.transforms to add more transforms."
+    new "Personalizza director.transforms per aggiungere altre trasformazioni."
+
+
+    old "Click to set."
+    new "Clicca per impostare."
+
+
+    old "Customize director.transitions to add more transitions."
+    new "Personalizza director.transitions per aggiungere altre transizioni."
+
+
+    old "Customize director.audio_channels to add more channels."
+    new "Personalizza director.audio_channels per aggiungere altri canali."
+
+
+    old "Are you sure you want to continue where you left off?"
+    new "Sei sicuro di voler continuare da dove hai lasciato?"
+
+
+    old "self voicing enable"
+    new "auto-voto abilitato"
+
+
+    old "self voicing disable"
+    new "Auto-vocazione disabilitata"
+
+
+    old "clipboard voicing enable"
+    new "Attivazione della voce negli appunti"
+
+
+    old "clipboard voicing disable"
+    new "Disabilita la vocalizzazione degli appunti"
+
+
+    old "debug voicing enable"
+    new "debug voicing abilita"
+
+
+    old "debug voicing disable"
+    new "disabilita il debug voicing"
+
+
+    old "restore window position"
+    new "ripristina la posizione della finestra"
+
+
+    old "reset"
+    new "ripristina"
+
+
+    old "(clear retained bubbles)"
+    new "(cancella le bolle trattenute)"
+
+
     old "Translation identifier: [identifier]"
-    new ""
+    new "Identificatore di traduzione: [identifier]"
 
-    # renpy/common/00translation.rpy:84
+
     old " translates [tl.filename]:[tl.linenumber]"
-    new ""
+    new " traduce [tl.filename]:[tl.linenumber]"
 
-    # renpy/common/00translation.rpy:101
+
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new ""
+    new "\n{color=#fff}Copiato negli appunti.{/color}"
 
-    # renpy/common/00updater.rpy:505
+
     old "No update methods found."
-    new ""
+    new "Nessun metodo di aggiornamento trovato."
 
-    # renpy/common/00updater.rpy:552
+
     old "Could not download file list: "
-    new ""
+    new "Impossibile scaricare l'elenco dei file: "
 
-    # renpy/common/00updater.rpy:555
+
     old "File list digest does not match."
-    new ""
+    new "Il digest dell'elenco dei file non corrisponde."
 
-    # renpy/common/00updater.rpy:2080
+
     old "Preparing to download the game data."
-    new ""
+    new "Preparazione al download dei dati di gioco."
 
-    # renpy/common/00updater.rpy:2082
+
     old "Downloading the game data."
-    new ""
+    new "Download dei dati di gioco."
 
-    # renpy/common/00updater.rpy:2084
+
     old "The game data has been downloaded."
-    new ""
+    new "I dati del gioco sono stati scaricati."
 
-    # renpy/common/00updater.rpy:2086
+
     old "An error occured when trying to download game data:"
-    new ""
+    new "Si è verificato un errore durante il tentativo di scaricare i dati di gioco:"
 
-    # renpy/common/00updater.rpy:2091
+
     old "This game cannot be run until the game data has been downloaded."
-    new ""
+    new "Questo gioco non può essere eseguito finché non sono stati scaricati i dati del gioco."
 
-    # renpy/common/00updater.rpy:2098
+
     old "Retry"
-    new ""
-
+    new "Riprova"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

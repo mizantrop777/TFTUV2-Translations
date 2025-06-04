@@ -1,4 +1,4 @@
-
+﻿
 
 
 translate italian extra_scene_28_ce6d4bfa:
@@ -68,12 +68,6 @@ translate italian extra_scene_28_baef194d:
 
 
 translate italian extra_scene_28_3d7c44ca:
-
-
-    "Le ho praticato un intenso massaggio con la lingua sulle labbra inferiori e ho prestato particolare attenzione al suo clitoride."
-
-
-translate italian extra_scene_28_fa0132ae:
 
 
     "Le ho praticato un intenso massaggio con la lingua sulle labbra inferiori e ho prestato particolare attenzione al suo clitoride."
@@ -209,18 +203,6 @@ translate italian extra_scene_28_7f6712dc:
 
 
     ce "Voglio tanto quel cazzo duro dentro di me."
-
-
-translate italian extra_scene_28_514c5f0e:
-
-
-    "Il sapore della sua figa lussureggiante era più che coinvolgente, e io ero felice di farla fremere a ogni passaggio della mia lingua."
-
-
-translate italian extra_scene_28_90596255:
-
-
-    "Ad ogni leccata, aumentavo la pressione sul suo clitoride gonfio."
 
 
 translate italian extra_scene_29_fa029747:
@@ -376,7 +358,7 @@ translate italian extra_scene_29_e5496e7e:
 translate italian extra_scene_29_f92266bc:
 
 
-    th "Il tuo grosso cazzo è così bello dentro di me!{w} Più forte!"
+    th "Il tuo grosso cazzo è così bello dentro di me! {w} Più forte!"
 
 
 translate italian extra_scene_29_c5db0e02:
@@ -451,58 +433,78 @@ translate italian extra_scene_29_1ef9fd1f:
     "Rimanemmo entrambi sdraiati l'uno accanto all'altra, godendoci la luce del giorno dopo e ascoltando i suoni della nave intorno a noi."
 
 
+
+
+translate italian extra_scene_28_fa0132ae:
+
+
+    "Le ho praticato un intenso massaggio con la lingua sulle labbra inferiori e ho prestato particolare attenzione al suo clitoride."
+
+
+translate italian extra_scene_28_514c5f0e:
+
+
+    "Il sapore del suo squarcio cremoso era più che coinvolgente e mi piaceva farla fremere a ogni colpo di lingua."
+
+
+translate italian extra_scene_28_90596255:
+
+
+    "A ogni passata di lingua, aumentavo la pressione sul suo clitoride gonfio."
+
+
 translate italian extra_scene_30_330e5c5c:
 
 
-    "Avrei dovuto interrompere subito il collegamento, ma non riuscivo a smettere di fissare il corpo nudo di mia sorella."
+    "Avrei dovuto interrompere subito la connessione, ma non potevo fare a meno di guardare il corpo nudo di mia sorella."
 
 
 translate italian extra_scene_30_42dbe5d1:
 
 
-    "Avrei dovuto interrompere subito il collegamento, ma non riuscivo a smettere di fissare il corpo nudo della mia ragazza."
+    "Avrei dovuto interrompere subito la connessione, ma non potevo fare a meno di guardare il corpo nudo della mia ragazza."
 
 
 translate italian extra_scene_30_87af3532:
 
 
-    "Era così bella, l'acqua si riversava sui suoi seni sodi, fino alle sue gambe ben definite."
+    "Era così bella, l'acqua scorreva sui suoi seni sodi, fino alle sue gambe formose."
 
 
 translate italian extra_scene_30_1add6489:
 
 
-    "Ho quasi urlato quando Lilli ha guardato proprio nella mia direzione."
+    "Ho quasi strillato quando Lilly ha guardato dritto nella mia direzione."
 
 
 translate italian extra_scene_30_37fcfbc4:
 
 
-    l "Ciao, c'è qualcuno?"
+    l "Pronto, c'è qualcuno?"
 
 
 translate italian extra_scene_30_608d50a7:
 
 
-    "Certo, non poteva sapere che la spiavo."
+    "Ovviamente non poteva sapere che la stavo guardando."
 
 
 translate italian extra_scene_30_f13808cf:
 
 
-    "Mia sorella ha finito di fare il bagno e ha preso un asciugamano."
+    "Mia sorella finì la doccia e prese un asciugamano."
 
 
 translate italian extra_scene_30_8a901718:
 
 
-    "Lilli si è appena fatta una doccia e ha preso un asciugamano."
+    "Lilly finì la doccia e prese un asciugamano."
 
 
 translate italian extra_scene_30_650f8180:
 
 
-    "Il suo giovane corpo era completamente in mostra e mi è venuto duro a guardarla mentre si asciugava."
+    "Il suo corpo nubile era in bella mostra e mi veniva duro solo a guardarla mentre si asciugava."
 
 
 translate italian extra_scene_30_1863ea66:
@@ -514,76 +516,76 @@ translate italian extra_scene_30_1863ea66:
 translate italian extra_scene_30_e9cba2bb:
 
 
-    "Proprio quando pensavo che si sarebbe vestita, Lilli si è seduta sulla panchina."
+    "Proprio quando pensavo che si sarebbe vestita, Lilly si sedette sulla panchina."
 
 
 translate italian extra_scene_30_42a6f7e4:
 
 
-    "Si guardò intorno e si toccò la coscia con la mano sinistra, provocando brividi in tutto il corpo."
+    "Si guardò intorno e si sfiorò la coscia con la mano sinistra, provocando brividi nel suo corpo."
 
 
 translate italian extra_scene_30_4a0fba4f:
 
 
-    "Più determinata, la sua mano scese verso la figa."
+    "Più determinata, la sua mano si diresse verso la sua figa."
 
 
-translate italian extra_scene_30_1b07acfd:
+translate italian extra_scene_30_83774b23:
 
 
-    "Mia sorella gemette, le sue dita entrarono in contatto con la sua stretta apertura."
+    "Mia sorella gemette quando le sue dita entrarono in contatto con la sua stretta fessura."
 
 
-translate italian extra_scene_30_d185e60e:
+translate italian extra_scene_30_ff4f7058:
 
 
-    "La mia ragazza ha emesso un gemito, le sue dita si sono collegate alla sua stretta apertura."
+    "La mia ragazza gemette quando le sue dita entrarono in contatto con la sua fessura stretta."
 
 
 translate italian extra_scene_30_d88acbc7:
 
 
-    l "Ah!"
+    l "Oh!"
 
 
 translate italian extra_scene_30_4051b7b9:
 
 
-    "Quel primo tocco deve aver liberato qualcosa dentro di lei, perché Lilli ha iniziato a stimolare il clitoride direttamente con le dita."
+    "Quella prima sonda deve aver sbloccato qualcosa dentro di lei, perché Lilly iniziò a stimolare il suo clitoride direttamente con le dita."
 
 
 translate italian extra_scene_30_bef4c298:
 
 
-    l "Così, toccami lì, [p_name_short]!"
+    l "Proprio così, toccami lì, [p_name_short]!"
 
 
 translate italian extra_scene_30_45a89119:
 
 
-    "Mia sorella si è morsa il labbro non appena il mio nome le è sfuggito di bocca."
+    "Mia sorella si morse il labbro non appena il mio nome uscì dalla sua bocca."
 
 
 translate italian extra_scene_30_19dcc7da:
 
 
-    "La mia ragazza si è morsa il labbro non appena il mio nome le è sfuggito di bocca."
+    "La mia ragazza si è morsa il labbro non appena il mio nome è uscito dalla sua bocca."
 
 
 translate italian extra_scene_30_24694c05:
 
 
-    "Nonostante la situazione con Céline, il suo desiderio per me non era cambiato."
+    "Nonostante la situazione con Céline, la sua passione per me era immutata."
 
 
 translate italian extra_scene_30_4eebc82c:
 
 
-    "Non capivo tutte le parole che pronunciava, ma quelle che capivo mi facevano ancora più male."
+    "Non riuscii a capire tutte le parole che borbottò, ma quelle che colsi mi fecero crescere ancora di più."
 
 
-translate italian extra_scene_30_acd988ddd:
+translate italian extra_scene_30_acd988dd:
 
 
     l "Sì, certo che voglio il grosso cazzo di mio fratello dentro di me."
@@ -598,43 +600,43 @@ translate italian extra_scene_30_3e6229f0:
 translate italian extra_scene_30_accc2075:
 
 
-    "Lilli ha iniziato a masturbarsi più intensamente."
+    "Lilly iniziò a sditalinarsi più intensamente."
 
 
 translate italian extra_scene_30_3dc45595:
 
 
-    "La sua figa luccicava dei suoi liquidi mentre stuzzicava forti movimenti con le dita."
+    "La sua figa luccicava con la sua umidità, mentre lei si muoveva con movimenti decisi delle dita."
 
 
 translate italian extra_scene_30_8339a1fa:
 
 
-    l "Ah!{w} Ah!{w} Ci siamo quasi!"
+    l "Oh!{w} Oh!{w} Ci siamo quasi!"
 
 
 translate italian extra_scene_30_edd3ebe2:
 
 
-    "Si alternava tra un ditalino e uno sfregamento del clitoride."
+    "Alternava la scopata con le dita allo sfregamento del clitoride."
 
 
 translate italian extra_scene_30_bbe2c1f6:
 
 
-    "Ad ogni gemito, Lilli aumentava la velocità e l'intensità."
+    "Ad ogni gemito, Lilly aumentava la velocità e la ferocia."
 
 
 translate italian extra_scene_30_6fc10518:
 
 
-    "Quando ho visto che tutto il suo corpo era teso, ho capito che era pronta."
+    "Quando vidi tutto il suo corpo tendersi, capii che era pronta."
 
 
 translate italian extra_scene_30_78a520d3:
 
 
-    l "[p_name]!{w} Ah, [p_name]!"
+    l "[p_name]!{w} Oh [p_name]!"
 
 
 translate italian extra_scene_30_291f6f9e:
@@ -646,49 +648,37 @@ translate italian extra_scene_30_291f6f9e:
 translate italian extra_scene_30_53f39d35:
 
 
-    "Mentre gridava il mio nome, la mia ragazza ha avuto un orgasmo, tremando sul sedile."
+    "Mentre gridava il mio nome, la mia ragazza ha avuto un orgasmo, tremando sulla panchina."
 
 
 translate italian extra_scene_30_45cb910b:
 
 
-    "Mentre si dibatteva, le sue dita erano ancora saldamente incastrate nella sua apertura."
+    "Mentre si contorceva, le sue dita erano ancora saldamente radicate nella sua fessura."
 
 
 translate italian extra_scene_30_5e903eef:
 
 
-    "Quando le ultime tracce del suo orgasmo furono terminate, ritirò le dita, un sottile filo di liquido le rimase attaccato sulla punta delle dita."
+    "Quando le ultime tracce dell'orgasmo si sono placate, ha ritratto le dita, con un sottile filo di sperma attaccato alla punta delle dita."
 
 
 translate italian extra_scene_30_d1a68d1e:
 
 
-    "Con un grande sospiro, Lilli riprese fiato per diversi minuti."
+    "Con un pesante sospiro, Lilly si rilassò e riprese fiato per diversi minuti."
 
 
 translate italian extra_scene_30_109d0157:
 
 
-    "Ho capito che lo spettacolo era finito quando si è vestita ed è uscita dal bagno."
-
-
-translate italian extra_scene_30_83774b23:
-
-
-    "Mia sorella gemette quando le sue dita entrarono in contatto con la sua stretta apertura."
-
-
-translate italian extra_scene_30_ff4f7058:
-
-
-    "La mia ragazza gemette quando le sue dita entrarono in contatto con la sua stretta apertura."
+    "Capii che lo spettacolo era finito quando si infilò i suoi vestiti e uscì dalle docce."
 
 
 translate italian extra_scene_31_21960cba:
 
 
-    "Stavo bevendo un bicchiere di whisky durante il momento più tranquillo della nave quando qualcuno ha bussato alla mia porta."
+    "Mi stavo godendo un bicchiere di whisky durante le ore di tranquillità sulla nave quando qualcuno bussò alla mia porta."
 
 
 translate italian extra_scene_31_72005fc6:
@@ -700,25 +690,25 @@ translate italian extra_scene_31_72005fc6:
 translate italian extra_scene_31_da431e51:
 
 
-    ve "Ehi."
+    ve "Ehi tu."
 
 
 translate italian extra_scene_31_6190f4db:
 
 
-    c "Ops."
+    c "Ciao."
 
 
 translate italian extra_scene_31_9f33358b:
 
 
-    c "Hai dormito un po'?"
+    c "Hai dormito bene?"
 
 
 translate italian extra_scene_31_64477f88:
 
 
-    ve "Come una pietra."
+    ve "Come un ghiro."
 
 
 translate italian extra_scene_31_c797fe91:
@@ -730,13 +720,13 @@ translate italian extra_scene_31_c797fe91:
 translate italian extra_scene_31_d7ae8504:
 
 
-    c "Neanche un po'."
+    c "No, per niente."
 
 
 translate italian extra_scene_31_31894db7:
 
 
-    ve "Non ero sicura che saresti stato solo."
+    ve "Non ero sicuro che fossi sola."
 
 
 translate italian extra_scene_31_0cd0cc7f:
@@ -757,10 +747,10 @@ translate italian extra_scene_31_e3365eb3:
     ve "No, grazie."
 
 
-translate italian extra_scene_31_a04ff447:
+translate italian extra_scene_31_7899f349:
 
 
-    "Vess si è avvicinata a me e il suo profumo inebriante ha preso il sopravvento."
+    "Vess si avvicinò molto a me e il suo odore inebriante mi invase."
 
 
 translate italian extra_scene_31_42718de9:
@@ -772,25 +762,25 @@ translate italian extra_scene_31_42718de9:
 translate italian extra_scene_31_ff64d08a:
 
 
-    c "No, avevo solo dimenticato il tuo buon odore."
+    c "No, ho solo dimenticato il tuo buon odore."
 
 
 translate italian extra_scene_31_3e5f7d28:
 
 
-    ve "Ho fatto una doccia poco prima di tornare nel mio alloggio."
+    ve "Ho fatto una doccia subito dopo essere tornato nel mio alloggio."
 
 
 translate italian extra_scene_31_34333283:
 
 
-    c "Non è che...{w} è...{w} tutto."
+    c "Non è che...{w} È solo...{w} Tutto."
 
 
 translate italian extra_scene_31_743a328f:
 
 
-    "Sapevo che a quel punto non aveva molto senso."
+    "Sapevo di non avere molto senso in quel momento."
 
 
 translate italian extra_scene_31_17dae2c1:
@@ -802,7 +792,7 @@ translate italian extra_scene_31_17dae2c1:
 translate italian extra_scene_31_1b7746ea:
 
 
-    "L'ho sentita con le mie dita che accarezzavano la pelle morbida della sua coscia."
+    "Assaporai ancora di più di lei mentre le mie dita accarezzavano la pelle morbida della sua coscia."
 
 
 translate italian extra_scene_31_0230ac42:
@@ -811,70 +801,70 @@ translate italian extra_scene_31_0230ac42:
     "Vess non si tirò indietro, ma mi guardò intensamente."
 
 
-translate italian extra_scene_31_bddfe82d8:
+translate italian extra_scene_31_bdfe82d8:
 
 
-    c "Ti voglio così tanto, Vess."
+    c "Ti desidero così tanto, Vess."
 
 
 translate italian extra_scene_31_8304ce65:
 
 
-    "Vess mi rivolse un timido sorriso, che mi spinse a lasciare che le mie dita salissero ancora un po' sulla sua gonna."
+    "Vess mi rivolse un timido sorriso, che mi spinse a far salire le mie dita un po' più in alto sulla sua gonna."
 
 
 translate italian extra_scene_31_3fbffbd2:
 
 
-    "La ragazza si morse il labbro e sollevò lentamente la gonna, rivelando parte della sua figa."
+    "La ragazza si morse il labbro e lentamente si tirò su la gonna, rivelando parte della sua figa."
 
 
 translate italian extra_scene_31_93bc8278:
 
 
-    "Le labbra della sua figa erano scintillanti e umide, a indicare il suo stato di erezione."
+    "L'umidità luccicava tra le labbra della sua figa, indicando il suo stato di eccitazione."
 
 
 translate italian extra_scene_31_4d5fc4d5:
 
 
-    "La tirai sulle mie ginocchia e ci baciammo appassionatamente."
+    "La tirai sulle mie ginocchia e ci scambiammo un bacio appassionato."
 
 
 translate italian extra_scene_31_d74ac866:
 
 
-    ve "Ah, [p_name_short]! Voglio anche te!"
+    ve "Oh, [p_name_short]! Anch'io ti voglio!"
 
 
 translate italian extra_scene_31_340398a4:
 
 
-    "Avevo una gran voglia di sentire il sup seno e le ho tirato su il vestito per scoprirlo."
+    "Desideravo sentire i suoi seni e le tirai indietro il vestito per scoprirli."
 
 
-translate italian extra_scene_31_79dca581:
+translate italian extra_scene_31_b5a868ba:
 
 
-    "I suoi capezzoli erano già duri, e ha inarcato il suo culo contro il mio inguine, chiedendomi di continuare."
+    "I suoi capezzoli erano già duri e lei appoggiò il suo sedere contro il mio inguine, esortandomi a continuare."
 
 
 translate italian extra_scene_31_21beac26:
 
 
-    "Tirando su il suo vestito, ho rivelato completamente la sua stretta apertura."
+    "Tirando su il morbido tessuto del suo vestito, rivelai completamente la sua stretta fessura."
 
 
 translate italian extra_scene_31_1c39adfb:
 
 
-    "Vess sospirò e io la tirai vicino."
+    "Vess ansimava mentre la tiravo più vicino a me."
 
 
 translate italian extra_scene_31_b4d0e905:
 
 
-    "Ha gemuto quando le mie dita hanno toccato il suo clitoride."
+    "Quando le mie dita toccarono il suo clitoride, emise un lungo gemito."
 
 
 translate italian extra_scene_31_689dfd7a:
@@ -886,31 +876,31 @@ translate italian extra_scene_31_689dfd7a:
 translate italian extra_scene_31_b4008dd3:
 
 
-    ve "Non posso sopportare ancora molto."
+    ve "Non posso aspettare ancora a lungo."
 
 
 translate italian extra_scene_31_4670f7c3:
 
 
-    "Piuttosto maldestramente, si è arrampicata su di me mentre armeggiavo con i pantaloni."
+    "Un po' goffamente, lei si arrampicò su di me, mentre io mi mettevo a sistemare i pantaloni."
 
 
 translate italian extra_scene_31_ac8a59ae:
 
 
-    "Entrambi seminudi, lei si è seduta sopra di me."
+    "Entrambi in uno stato di mezza svestizione, lei si sedette sopra di me."
 
 
-translate italian extra_scene_31_7f73bf29:
+translate italian extra_scene_31_2ac75dcb:
 
 
-    "Le sue mani morbide hanno toccato il mio cazzo e lei ha strofinato il mio membro contro la sua figa."
+    "Le sue mani morbide toccarono il mio cazzo e lei tenne il mio membro contro la sua figa."
 
 
 translate italian extra_scene_31_e8ec838e:
 
 
-    "Guidò lentamente il mio cazzo verso la sua apertura umida."
+    "Guidò lentamente il mio cazzo all'interno della sua fessura umida."
 
 
 translate italian extra_scene_31_a1edd177:
@@ -922,19 +912,19 @@ translate italian extra_scene_31_a1edd177:
 translate italian extra_scene_31_09994211:
 
 
-    ve "Ah, che bella sensazione, il tuo cazzo è così bello dentro di me."
+    ve "Oh, è così bello, il tuo cazzo è così bello dentro di me."
 
 
-translate italian extra_scene_31_2e10d1d3:
+translate italian extra_scene_31_67e5ac44:
 
 
-    "La mia prima spinta fece piegare Vess, che si mise in equilibrio con la mano sul mio ginocchio. "
+    "La mia prima spinta ha fatto raddoppiare Vess, che si è tenuta ferma con una mano artigliata sul mio ginocchio."
 
 
 translate italian extra_scene_31_df6f2823:
 
 
-    ve "Ah, [p_name_short], continua ad andare!"
+    ve "Oh [p_name_short], continua!"
 
 
 translate italian extra_scene_31_c079267d:
@@ -946,13 +936,13 @@ translate italian extra_scene_31_c079267d:
 translate italian extra_scene_31_b06a0c5f:
 
 
-    "Mantenendo l'equilibrio sulle mie gambe, Vess cominciò a muoversi accanto a me, permettendomi di spingere più a fondo dentro di lei."
+    "Mantenendo l'equilibrio sulle mie gambe, Vess iniziò a muoversi all'unisono con me, permettendomi di penetrarla a fondo."
 
 
 translate italian extra_scene_31_21c14db0:
 
 
-    "Lo sforzo che stavamo facendo ha finito per diventare eccessivo, così mi sono rilassato, appoggiando il suo sedere sul mio addome."
+    "La tensione che stavamo subendo entrambi divenne un po' eccessiva, così la tirai un po' indietro, facendo aderire il suo sedere al mio addome."
 
 
 translate italian extra_scene_31_c707b387:
@@ -964,31 +954,31 @@ translate italian extra_scene_31_c707b387:
 translate italian extra_scene_31_59534c48:
 
 
-    "Guidandola per la vita, le ho fatto cavalcare il mio cazzo."
+    "Guidandola per la vita, la feci cavalcare il mio cazzo."
 
 
 translate italian extra_scene_31_62cd6390:
 
 
-    "Vess è scesa con forza e io ho spinto a fondo dentro di lei."
+    "Vess scese pesantemente quando la penetrai a fondo."
 
 
 translate italian extra_scene_31_cfea2794:
 
 
-    ve "[p_name_short], sei così grande, che bello!"
+    ve "Sei così grande, [p_name_short], è così bello!"
 
 
 translate italian extra_scene_31_5a30342e:
 
 
-    "Non ho potuto resistere a lungo alla sua figa stretta."
+    "Non riuscii a resistere a lungo alla stretta della sua fessura."
 
 
 translate italian extra_scene_31_3da4e05c:
 
 
-    "Dando alcune spinte disperate, cominciò a formarsi un orgasmo."
+    "Con qualche spinta disperata, l'orgasmo cominciò a crescere."
 
 
 translate italian extra_scene_31_b3b567eb:
@@ -1000,25 +990,25 @@ translate italian extra_scene_31_b3b567eb:
 translate italian extra_scene_31_8d2cc6e6:
 
 
-    ve "Mandami tutto dentro, per favore, [p_name_short]!"
+    ve "Spara fino in fondo dentro di me, ti prego [p_name_short]!"
 
 
 translate italian extra_scene_31_cb95c651:
 
 
-    "Il mio cazzo è entrato in profondità e lo sperma caldo ha iniziato a scorrere dentro di lei."
+    "Il mio cazzo la colpì in profondità mentre lo sperma caldo iniziava a scorrere dentro di lei."
 
 
 translate italian extra_scene_31_da7150db:
 
 
-    "Sono rimasto dentro, continuando a sgorgare ad ogni spinta."
+    "Rimasi dentro di lei, continuando ad eiaculare ad ogni spinta."
 
 
 translate italian extra_scene_31_d31d7da0:
 
 
-    "Quando sono uscito dalla sua figa, lo sperma ha iniziato subito a colare dalle sue labbra umide."
+    "Quando uscii dalla sua fica, lo sperma iniziò subito a trasudare tra le sue labbra umide."
 
 
 translate italian extra_scene_31_25faf199:
@@ -1030,175 +1020,151 @@ translate italian extra_scene_31_25faf199:
 translate italian extra_scene_31_42161757:
 
 
-    ve "Mettimi nei guai, [p_name_short]!"
+    ve "Fammi un casino, [p_name_short]!"
 
 
 translate italian extra_scene_31_ea4c6c4f:
 
 
-    "Ho tirato fuori il mio cazzo da lei non appena ho iniziato a sborrare."
+    "Estrassi il mio cazzo da lei proprio mentre iniziavo a eiaculare."
 
 
 translate italian extra_scene_31_b6eedddc:
 
 
-    "Lo sperma caldo le colò sulla figa e sull'addome, imbrattandole il vestito."
-
-
-translate italian extra_scene_31_af5c414b:
-
-
-    "Vess si accoccolò tra le mie braccia e ci godemmo il tempo in silenzio."
-
-
-translate italian extra_scene_31_7899f349:
-
-
-    "Vess era molto vicina a me, il suo profumo inebriante mi invadeva."
-
-
-translate italian extra_scene_31_cd8e7327:
-
-
-    "I suoi capezzoli erano già duri e ha inarcato il suo culo contro il mio inguine, chiedendomi di continuare."
-
-
-translate italian extra_scene_31_2ac75dcb:
-
-
-    "Le sue mani morbide hanno toccato il mio cazzo e lei ha tenuto il mio membro contro la sua figa."
-
-
-translate italian extra_scene_31_67e5ac44:
-
-
-    "La mia prima spinta fece piegare Vess, che si mise in equilibrio con la mano sul mio ginocchio."
+    "Lo sperma caldo le schizzò sulla figa e sull'addome, macchiandole il vestito."
 
 
 translate italian extra_scene_31_4e6db62f:
 
 
-    "Vess si è accoccolata tra le mie braccia e ce la siamo goduta in silenzio."
-
-
-translate italian extra_scene_31_b5a868ba:
-
-
-    "I suoi capezzoli erano già duri, e ha inarcato il suo culo contro il mio inguine, chiedendomi di continuare."
+    "Vess si accoccolò tra le mie braccia e ci godemmo il post-sborrata in silenzio."
 
 
 translate italian extra_scene_32_37b89343:
 
 
-    "Si fermò all'improvviso per inginocchiarsi e io la fissai in attesa."
+    "Si fermò improvvisamente per inginocchiarsi e io la guardai con trepidazione."
 
 
 translate italian extra_scene_32_82db13e0:
 
 
-    av "Sembri pronto a sborrare, ma non voglio che tu lo faccia troppo in fretta."
+    av "Sembravi pronta a venire e non voglio che tu sborri troppo velocemente."
 
 
 translate italian extra_scene_32_7dbaeaf1:
 
 
-    "In ginocchio, ha iniziato ad accarezzarmi il cazzo con la lingua."
+    "In ginocchio, iniziò ad accarezzare il mio cazzo con la lingua."
 
 
 translate italian extra_scene_32_62c0ecc2:
 
 
-    "Era una sensazione diversa rispetto a quella della sua bocca calda."
+    "Era una sensazione molto diversa rispetto alla sensazione della sua bocca calda."
 
 
 translate italian extra_scene_32_ad3e6e80:
 
 
-    "Con la punta della lingua, mia sorella percorreva l'estremità esposta del mio cazzo, accarezzando le parti sensibili."
+    "Con la punta della lingua, mia sorella percorreva la punta esposta del mio cazzo, sondando le creste sensibili."
 
 
 translate italian extra_scene_32_8efeff5e:
 
 
-    "Con la punta della lingua, la mia ragazza passò sulla punta esposta del mio cazzo, accarezzando le parti intime."
+    "Usando la punta della sua lingua, la mia ragazza percorse la punta esposta del mio cazzo, sondando le creste sensibili."
 
 
 translate italian extra_scene_32_86a24d7e:
 
 
-    "Quasi immediatamente, il pre-sperma cominciò a trasudare dal mio cazzo, che lei leccò avidamente."
+    "Cominciai a perdere presborra quasi subito, che lei leccò con piacere."
 
 
 translate italian extra_scene_32_b3ecaae0:
 
 
-    av "{noalt}Mmmm{/noalt}{alt}Ham{/alt}, sei così delizioso."
+    av "Mmmm, hai un sapore così buono."
 
 
 translate italian extra_scene_32_a73161c6:
 
 
-    av "Ora sdraiati e divertiti."
+    av "Ora, sdraiati e goditi il piacere."
 
 
 translate italian extra_scene_32_633754a2:
 
 
-    av "Lascia che mi prenda cura di te con questi ragazzini che ti piacciono tanto."
+    av "Lascia che ti tratti con quei cuccioli che sembrano piacerti così tanto."
 
 
 translate italian extra_scene_32_785a4242:
 
 
-    "Aven si è sporto in avanti e ha infilato il mio cazzo tra i suoi seni."
+    "Aven si chinò in avanti e incastrò il mio cazzo tra i suoi seni."
 
 
 translate italian extra_scene_32_3b720dec:
 
 
-    "Con il mio cazzo circondato dalla sua carne morbida, mia sorella iniziò a muovere il suo corpo su e giù."
+    "Con il mio uccello protetto dalla sua morbida carne, mia sorella iniziò a muovere il suo corpo su e giù."
+
+
+translate italian extra_scene_32_fcd3ad43:
+
+
+    "Con il mio cazzo protetto dalla sua morbida carne, la mia ragazza iniziò a muovere il suo corpo su e giù."
 
 
 translate italian extra_scene_32_f4c62a30:
 
 
-    "La stimolazione è stata incredibile e ho perso altro liquido, che lei ha usato per lubrificare il mio cazzo."
+    "La stimolazione era incredibile e io versai un'altra goccia di presborra che lei usò per lubrificare il mio cazzo."
 
 
 translate italian extra_scene_32_fc726bd3:
 
 
-    "Rilasciando i suoi seni, Aven spinse di nuovo il mio cazzo nella sua bocca."
+    "Lasciando andare i suoi seni, Aven prese di nuovo il mio cazzo in bocca."
 
 
 translate italian extra_scene_32_155a15ec:
 
 
-    "Mia sorella ha iniziato a ingoiare il mio cazzo con forti spinte, portandomi alla frenesia."
+    "Mia sorella iniziò a lavorare sul mio membro con colpi potenti, mandandomi in fibrillazione."
+
+
+translate italian extra_scene_32_172b5583:
+
+
+    "Lilly iniziò a lavorare sul mio membro con colpi potenti, facendomi impazzire."
 
 
 translate italian extra_scene_32_44fb6e7f:
 
 
-    "Mi sono dimenato sulla sedia, lottando per non sborrare nella sua bocca."
+    "Mi contorcevo sulla sedia, lottando per non scaricarmi nella sua bocca."
 
 
 translate italian extra_scene_32_4ce8725e:
 
 
-    "Con diversi centimetri di cazzo ancora in bocca, Aven sorrise al mio problema."
+    "Con diversi centimetri di cazzo ancora in bocca, Aven sorrise della mia situazione."
 
 
 translate italian extra_scene_32_c46a6e4a:
 
 
-    c "Ah, cazzo, Aven! Ci siamo quasi!"
+    c "Oh cazzo, Aven!{w} Ci siamo quasi!"
 
 
 translate italian extra_scene_32_bce0f339:
 
 
-    "Il sorriso di Aven è diventato ancora più grande e ha accelerato il passo."
+    "Il sorriso di Aven si trasformò in un ghigno e aumentò il ritmo."
 
 
 translate italian extra_scene_32_0993110a:
@@ -1210,19 +1176,25 @@ translate italian extra_scene_32_0993110a:
 translate italian extra_scene_32_7f21137a:
 
 
-    "Proprio quando il mio cazzo ha iniziato a sgorgare sperma, mia sorella se l'è tolto dalla bocca."
+    "Proprio quando il mio cazzo cominciava a pulsare di sperma, mia sorella se lo tolse dalla bocca."
+
+
+translate italian extra_scene_32_3c7f4947:
+
+
+    "Proprio quando il mio cazzo iniziò a pulsare di sperma, Lilly lo tolse dalla bocca."
 
 
 translate italian extra_scene_32_7ee9367b:
 
 
-    "Una grande quantità di sperma le è finita sul viso."
+    "Un grande spruzzo di sperma le schizzò sul viso."
 
 
 translate italian extra_scene_32_64ec7e93:
 
 
-    "Dopo aver ripulito tutto, Aven si è arrampicata sulle mie ginocchia."
+    "Dopo aver ripulito il tutto, Aven si mise sulle mie ginocchia."
 
 
 translate italian extra_scene_32_aa095a56:
@@ -1234,85 +1206,67 @@ translate italian extra_scene_32_aa095a56:
 translate italian extra_scene_32_f54d8a63:
 
 
-    "Il mio cazzo ha iniziato a sgorgare sperma e mia sorella ha continuato a succhiare."
-
-
-translate italian extra_scene_32_318d692d:
-
-
-    "Le sono venuto in bocca e lei ha ingoiato tutto d'un fiato."
-
-
-translate italian extra_scene_32_51971c49:
-
-
-    "Leccandosi le labbra, mi è salita in grembo."
-
-
-translate italian extra_scene_32_aa125676:
-
-
-    "Accarezzai leggermente la pelle delle sue cosce e riempii di baci i suoi seni."
-
-
-translate italian extra_scene_32_b0d7c5d9:
-
-
-    "Nonostante l'orgasmo, il mio cazzo era ancora mezzo duro."
-
-
-translate italian extra_scene_32_0f47ad2f:
-
-
-    "Quando Aven si è mossa, il suo culo si è strusciato contro il mio cazzo, l'erezione ha iniziato a diventare di nuovo dura."
-
-
-translate italian extra_scene_32_27a845bb:
-
-
-    av "Credo che qualcuno sia pronto per qualcosa di più..."
-
-
-translate italian extra_scene_32_637f3368:
-
-
-    c "Sei troppo sexy."
-
-
-translate italian extra_scene_32_00151859:
-
-
-    "Pronto per il secondo round, ho lasciato che mia sorella salisse su di me."
-
-
-translate italian extra_scene_32_e3930012:
-
-
-    "Pronto per il secondo round, ho lasciato che la mia ragazza mi salisse addosso."
-
-
-translate italian extra_scene_32_fcd3ad43:
-
-
-    "Con il mio cazzo circondato dalla sua carne morbida, la mia ragazza iniziò a muoversi su e giù per il suo corpo."
-
-
-translate italian extra_scene_32_172b5583:
-
-
-    "Lilli ha iniziato a ingoiare il mio cazzo con forti spinte, portandomi alla frenesia."
-
-
-translate italian extra_scene_32_3c7f4947:
-
-
-    "Proprio quando il mio cazzo ha iniziato a sgorgare sperma, Lilli se lo è tolto dalla bocca."
+    "Mentre il mio cazzo iniziava a pulsare sperma, mia sorella continuava a succhiarlo."
 
 
 translate italian extra_scene_32_fbae6ae9:
 
 
-    "Il mio cazzo ha iniziato a sgorgare sperma e Lilli ha continuato a succhiare."
+    "Mentre il mio cazzo iniziava a pulsare di sperma, Lilly continuava a succhiarlo."
+
+
+translate italian extra_scene_32_318d692d:
+
+
+    "Le ho riempito la bocca di crema e lei ha ingoiato tutto con un grosso sorso."
+
+
+translate italian extra_scene_32_51971c49:
+
+
+    "Leccandosi le labbra, si mise sulle mie ginocchia."
+
+
+translate italian extra_scene_32_aa125676:
+
+
+    "Accarezzai dolcemente la pelle delle sue cosce e punteggiai il suo seno di baci."
+
+
+translate italian extra_scene_32_b0d7c5d9:
+
+
+    "Nonostante l'orgasmo, il mio cazzo era ancora mezzo rigido."
+
+
+translate italian extra_scene_32_0f47ad2f:
+
+
+    "Quando Aven si spostò, con il suo sedere che sfiorava il mio cazzo, l'erezione iniziò a indurirsi di nuovo completamente."
+
+
+translate italian extra_scene_32_27a845bb:
+
+
+    av "Credo che qualcuno abbia voglia di fare di più..."
+
+
+translate italian extra_scene_32_637f3368:
+
+
+    c "Sei dannatamente sexy."
+
+
+translate italian extra_scene_32_00151859:
+
+
+    "Pronto per il secondo round, lasciai che mia sorella salisse sopra di me."
+
+
+translate italian extra_scene_32_e3930012:
+
+
+    "Pronto per il secondo round, ho lasciato che la mia ragazza salisse sopra di me."
 
 
 translate italian extra_scene_33_ccaa75ad:
@@ -1324,79 +1278,79 @@ translate italian extra_scene_33_ccaa75ad:
 translate italian extra_scene_33_cebb2792:
 
 
-    "Jade sottomessa"
+    "Giada è sottomessa"
 
 
 translate italian extra_scene_33_19f79486:
 
 
-    "Jade non sottomessa"
+    "Giada non sottomessa"
 
 
-translate italian extra_scene_33_37de0311:
+translate italian extra_scene_33_8d8b889d:
 
 
-    "Vuoi abilitare l'urina in questa scena?"
+    "Vuoi abilitare gli sport acquatici (uomo su donna) per questa scena?"
 
 
 translate italian extra_scene_33_e1b3f2a2:
 
 
-    "Urina abilitata"
+    "Sport acquatici abilitati"
 
 
 translate italian extra_scene_33_9a79f488:
 
 
-    "Urina disabilitata"
+    "Sport acquatici disabilitati"
 
 
 translate italian extra_scene_33_a39e408b:
 
 
-    c "Capisci che ora dovrai essere punito?"
+    c "Capisci che ora dovrai essere punita?"
 
 
 translate italian extra_scene_33_dfbd709e:
 
 
-    j "Capisco, maestro."
+    j "Capisco, padrone."
 
 
 translate italian extra_scene_33_5e3d50b6:
 
 
-    c "Questo può essere facilmente risolto."
+    c "Questo si può certamente organizzare."
 
 
 translate italian extra_scene_33_0c67e2c1:
 
 
-    "L'ho spinto di nuovo contro Jade, facendole quasi perdere l'equilibrio."
+    "Mi sono infilato di nuovo dentro Jade, facendole quasi perdere l'equilibrio."
 
 
 translate italian extra_scene_33_d717e559:
 
 
-    "Con il mio cazzo avvolto nella sua figa calda e stretta, ho aspettato."
+    "Il mio cazzo era avvolto nella sua calda e stretta fessura e aspettavo."
 
 
 translate italian extra_scene_33_3c07be10:
 
 
-    j "Non vuoi scoparmi, padrone?"
+    j "Non hai intenzione di scoparmi, padrone?"
 
 
 translate italian extra_scene_33_8e25a2c6:
 
 
-    c "Pazienta."
+    c "Pazienza."
 
 
 translate italian extra_scene_33_51bf8c8d:
 
 
-    j "C'è qualcosa che non va, maes-{w} ah!{w} Ah!"
+    j "C'è qualcosa che non va, maestro...{w} Oh!{w} Oh!"
 
 
 translate italian extra_scene_33_4f8f7857:
@@ -1408,181 +1362,181 @@ translate italian extra_scene_33_4f8f7857:
 translate italian extra_scene_33_8e25a2c6_1:
 
 
-    c "Pazienta."
+    c "Pazienza."
 
 
 translate italian extra_scene_33_9c087009:
 
 
-    j "Che cosa... ah! Ah!"
+    j "Cosa stai...{w} Oh!{w} Oh!"
 
 
 translate italian extra_scene_33_dcfd0331:
 
 
-    "Quando la mia erezione si abbassò abbastanza, cominciai a far scorrere liberamente il piscio che trattenevo."
+    "Quando la mia erezione si allentò abbastanza, iniziai a far scorrere liberamente la pipì che avevo trattenuto."
 
 
 translate italian extra_scene_33_cf53aa01:
 
 
-    "Lentamente, riempii la figa di Jade di urina calda."
+    "Lentamente, riempii la fica di Jade di pipì calda."
 
 
 translate italian extra_scene_33_6913ec46:
 
 
-    j "La mia figa è così piena del tuo piscio, padrone!"
+    j "La mia fica è così piena del tuo piscio, padrone!"
 
 
 translate italian extra_scene_33_30c9471b:
 
 
-    j "Sì, riempimi la figa con il tuo piscio, [p_name_short]!"
+    j "Sì, riempi la mia fica di piscio, [p_name_short]!"
 
 
 translate italian extra_scene_33_78c8ccb9:
 
 
-    j "È così buono! Ce n'è così tanto dentro di me!"
+    j "È così caldo!{w} C'è così tanto dentro di me!"
 
 
 translate italian extra_scene_33_157292a0:
 
 
-    "Estrassi lentamente il mio cazzo dalla sua fessura e subito l'urina cominciò a fuoriuscire dalla sua figa."
+    "Ritrassi lentamente il mio cazzo dal suo tumulo e, mentre lo facevo, la pipì iniziò subito a fuoriuscire dalla sua figa."
 
 
 translate italian extra_scene_33_3c667cbe:
 
 
-    "La figa di Jade si aprì e un getto di urina calda cominciò a fuoriuscire dalla sua apertura."
+    "La figa di Giada si aprì e un getto di pipì calda schizzò dalla sua apertura."
 
 
 translate italian extra_scene_33_7b7cecd7:
 
 
-    j "{noalt}C-c-cazzo{/noalt}{alt}Cazzo{/alt}!"
+    j "F-f-fuck!"
 
 
 translate italian extra_scene_33_d0f5567f:
 
 
-    "Un'altra esplosione la fece quasi crollare sulle ginocchia tremanti."
+    "Un altro schizzo la fece quasi cadere in ginocchio tremante."
 
 
 translate italian extra_scene_33_d4037b27:
 
 
-    c "Basta così, lurida puttana!"
+    c "Ecco, sporca puttana!"
 
 
 translate italian extra_scene_33_77051073:
 
 
-    j "Ti prego, stupra ancora la mia figa bagnata, padrone!"
+    j "Ti prego, viola ancora la mia figa bagnata, padrone!"
 
 
 translate italian extra_scene_33_f48b1629:
 
 
-    c "Ecco!"
+    c "Così!"
 
 
 translate italian extra_scene_33_6492c213:
 
 
-    j "Scopa di nuovo la mia figa lurida e bagnata, [p_name]!"
+    j "Scopa ancora la mia sporca figa bagnata, [p_name]!"
 
 
 translate italian extra_scene_33_720e5249:
 
 
-    "Ho infilato di nuovo il mio cazzo nella sua figa riscaldata dal piscio e ho iniziato a scoparla con forza."
+    "Le infilai di nuovo il cazzo nello squarcio sporco di piscio e iniziai a scoparla con forza."
 
 
 translate italian extra_scene_33_a0a09e26:
 
 
-    "Tirando il suo corpo a me, ho iniziato a scoparla con forza."
+    "Tirando il suo corpo verso di me, iniziai a scoparla con forza."
 
 
 translate italian extra_scene_33_135f8604:
 
 
-    "La forza delle mie spinte costringeva Jade contro la parete del bagno e lei continuava a chiedere di più."
+    "La forza delle mie spinte spingeva Jade contro il banco del bagno, ma lei continuava a chiedere di più."
 
 
 translate italian extra_scene_33_6ec815ec:
 
 
-    j "Ti prego padrone, abusa della mia figa, il tuo cazzo è così caldo!"
+    j "Ti prego, padrone, abusa della mia figa, il tuo cazzo è così bello!"
 
 
-translate italian extra_scene_33_d6ea0fd0:
+translate italian extra_scene_33_dbcf5775:
 
 
-    "Più forte! Scopami la figa più forte!"
+    j "Più forte!{w} Scopami la figa più forte!"
 
 
 translate italian extra_scene_33_fd05b3dc:
 
 
-    j "Lasciami essere la tua lurida puttanella!"
+    j "Fammi diventare la tua sporca puttana!"
 
 
 translate italian extra_scene_33_19e066df:
 
 
-    "Il mio ultimo spintone l'ha quasi fatta cadere a terra, così ho lasciato che Jade recuperasse l'equilibrio."
+    "La mia ultima spinta la fece quasi cadere a terra, così permisi a Giada di trovare il suo equilibrio."
 
 
 translate italian extra_scene_33_9bca5c40:
 
 
-    "Jade riposava la testa sul pavimento che aveva appena sporcato, in attesa di essere scopata di nuovo nella sua figa."
+    "Giada appoggiò la testa al pavimento che aveva appena sporcato, aspettandosi di essere scopata di nuovo nella figa."
 
 
 translate italian extra_scene_33_9d5fac6a:
 
 
-    "Jade appoggiò la testa sul pavimento, in attesa di essere scopata di nuovo nella sua figa."
+    "Giada appoggiò la testa al pavimento, aspettandosi di essere scopata di nuovo nella figa."
 
 
 translate italian extra_scene_33_930372b3:
 
 
-    "Jade si aspettava che glielo infilassi di nuovo nella figa, ma il suo culo era così appariscente."
+    "Giada si aspettava che la penetrassi di nuovo nella figa, ma il suo culo sembrava troppo invitante."
 
 
 translate italian extra_scene_33_ebf12199:
 
 
-    "Ha emesso un piccolo urlo quando invece ho spinto la punta del mio cazzo contro il suo ano."
+    "Emise un piccolo grido quando spinsi la punta del mio cazzo contro il suo ano."
 
 
 translate italian extra_scene_33_2adef5e1:
 
 
-    j "Vuoi usare il mio culo, maestro?"
+    j "Hai intenzione di usare il mio culo, padrone?"
 
 
 translate italian extra_scene_33_7ee5ed72:
 
 
-    c "Sì, voglio che tu senta ogni centimetro della mia delusione per il tuo comportamento."
+    c "Sì, voglio che tu senta ogni centimetro della mia insoddisfazione per il tuo comportamento."
 
 
 translate italian extra_scene_33_edac6246:
 
 
-    j "Sono pronto, maestro."
+    j "Sono pronta per te, padrone."
 
 
 translate italian extra_scene_33_d97f323a:
 
 
-    j "Ah, sì, usa il mio culo per favore."
+    j "Oh sì, usa il mio culo per favore."
 
 
 translate italian extra_scene_33_288469df:
@@ -1600,73 +1554,73 @@ translate italian extra_scene_33_bbd09c5f:
 translate italian extra_scene_33_5e3c4fea:
 
 
-    "Ho spinto il mio cazzo dentro, godendo della sensazione di resistenza che mi dava il suo culo."
+    "Spinsi il mio cazzo all'interno, godendo della sensazione di resistenza che mi dava il suo stretto buco del culo."
 
 
 translate italian extra_scene_33_7fec5d15:
 
 
-    j "Maestro, sei così grande!"
+    j "Oh padrone, sei così grande!"
 
 
 translate italian extra_scene_33_920c1950:
 
 
-    j "Ah, cazzo, così, più a fondo!"
+    j "Oh cazzo, sì, più in profondità!"
 
 
 translate italian extra_scene_33_328b30a1:
 
 
-    "Jade, impotente, si è afferrata la natica e l'ha aperta, un debole tentativo di darmi accesso."
+    "Giada afferrò debolmente la guancia del suo culo e la divaricò in un debole tentativo di darmi libero accesso."
 
 
 translate italian extra_scene_33_8a85fc19:
 
 
-    "Ero ormai saldamente dentro di lei."
+    "Ora ero saldamente dentro di lei."
 
 
 translate italian extra_scene_33_d3bb046d:
 
 
-    "Con il mio cazzo avvolto nella sua cavità anale, ho aspettato."
+    "Il mio cazzo era avvolto nella sua calda e stretta cavità anale e aspettavo."
 
 
 translate italian extra_scene_33_616f4b99:
 
 
-    "Jade si aspettava ovviamente di essere distrutta immediatamente e ha alzato lo sguardo sorpreso quando non ho continuato."
+    "Giada ovviamente si aspettava di essere inveita immediatamente e alzò lo sguardo sorpreso quando non continuai."
 
 
 translate italian extra_scene_33_747d724f:
 
 
-    "Jade si spazientì e mi guardò."
+    "Jade si spazientì un po' e mi guardò."
 
 
 translate italian extra_scene_33_51bf8c8d_1:
 
 
-    j "C'è qualcosa che non va, maes-{w} ah!{w} Ah!"
+    j "C'è qualcosa che non va, mas-{w} Oh!{w} Oh!"
 
 
 translate italian extra_scene_33_9c087009_1:
 
 
-    j "Che cosa...{w} ah!{w} Ah!"
+    j "Cosa stai...{w} Oh!{w} Oh!"
 
 
 translate italian extra_scene_33_3b1a6efe:
 
 
-    "Quando la mia erezione si abbassò abbastanza, cominciai a far scorrere liberamente il piscio che trattenevo."
+    "Quando la mia erezione si allentò abbastanza, iniziai a far scorrere liberamente la pipì che avevo trattenuto. "
 
 
 translate italian extra_scene_33_a22ba3ec:
 
 
-    "Lentamente, ho riempito il culo di Jade di urina calda."
+    "Lentamente, riempii il buco del culo di Jade con la sua pipì calda."
 
 
 translate italian extra_scene_33_bcf1ec41:
@@ -1678,181 +1632,181 @@ translate italian extra_scene_33_bcf1ec41:
 translate italian extra_scene_33_232a25cc:
 
 
-    j "Sì, riempimi il culo di piscio, [p_name_short]!"
+    j "Sì, riempimi il culo di pipì, [p_name_short]!"
 
 
 translate italian extra_scene_33_78c8ccb9_1:
 
 
-    j "È così caldo! C'è così tanto dentro di me!"
+    j "È così caldo!{w} C'è così tanto dentro di me!"
 
 
 translate italian extra_scene_33_3d6359f1:
 
 
-    "Estrassi lentamente il mio cazzo dal suo ano, facendo attenzione a non versarne troppo sul pavimento."
+    "Ritrassi lentamente il mio cazzo dal suo ano, facendo attenzione a non versarne troppo sul pavimento."
 
 
 translate italian extra_scene_33_9c566cd1:
 
 
-    c "Ora tienilo dentro fino a quando non dirò il contrario."
+    c "Ora, tienilo dentro finché non ti dico altrimenti."
 
 
 translate italian extra_scene_33_19f5739d:
 
 
-    j "Sì, padrone, ma sono così piena...."
+    j "Sì, padrone, ma mi sento pieno..."
 
 
 translate italian extra_scene_33_1c57e278:
 
 
-    c "Puoi tenerlo dentro?"
+    c "Riesci a tenerlo tutto dentro?"
 
 
 translate italian extra_scene_33_2ba9885a:
 
 
-    j "Ah, [p_name_short], sono così piena...."
+    j "Oh [p_name_short], mi sento così pieno..."
 
 
 translate italian extra_scene_33_789e2fad:
 
 
-    j "Non sono sicura di quanto tempo posso sopportare... ah!"
+    j "Non sono sicura di quanto tempo potrò...{w} Oh!"
 
 
 translate italian extra_scene_33_d59266df:
 
 
-    "Jade rabbrividì per lo sforzo di tenere il culo chiuso."
+    "Giada tremò per lo sforzo di tenere chiuso il suo buco del culo."
 
 
 translate italian extra_scene_33_16318879:
 
 
-    "La pressione contro le pieghe dell'ano deve essere stata tremenda."
+    "La pressione contro le pieghe serrate del suo ano deve essere stata tremenda."
 
 
 translate italian extra_scene_33_084a9c03:
 
 
-    c "Lasciami!"
+    c "Rilascio!"
 
 
 translate italian extra_scene_33_a460ed65:
 
 
-    "Il culo di Jade si aprì e un getto di urina calda uscì dalla sua apertura."
+    "Il buco del culo di Jade si aprì e un getto di piscio caldo schizzò dalla sua apertura."
 
 
 translate italian extra_scene_33_7b7cecd7_1:
 
 
-    j "{noalt}C-c-cazzo{/noalt}{alt}Cazzo{/alt}!"
+    j "F-f-fuck!"
 
 
 translate italian extra_scene_33_d0f5567f_1:
 
 
-    "Un'altra esplosione la fece quasi crollare sulle ginocchia tremanti."
+    "Un altro schizzo la fece quasi cadere in ginocchio tremante."
 
 
 translate italian extra_scene_33_d4037b27_1:
 
 
-    c "Basta così, lurida puttana!"
+    c "Ecco, sporca puttana!"
 
 
 translate italian extra_scene_33_77bb8c62:
 
 
-    j "Ti prego, stupra ancora il mio culo bagnato, padrone!"
+    j "Ti prego, viola ancora il mio culo bagnato, padrone!"
 
 
 translate italian extra_scene_33_f48b1629_1:
 
 
-    c "Ecco!"
+    c "Così!"
 
 
 translate italian extra_scene_33_05d218e0:
 
 
-    j "Scopa ancora il mio lurido culo bagnato, [p_name]!"
+    j "Scopa ancora il mio sporco culo bagnato, [p_name]!"
 
 
 translate italian extra_scene_33_bf9ae993:
 
 
-    "Ho infilato di nuovo il mio cazzo nel suo culo riscaldato dal piscio e ho iniziato a scoparla con forza."
+    "Le infilai di nuovo il cazzo nel culo sporco di piscio e iniziai a scoparla con forza."
 
 
 translate italian extra_scene_33_ab6d769b:
 
 
-    "Le ho scopato il culo con forza, con spinte lunghe e profonde."
+    "Le scopai il culo con forza, usando colpi lunghi e profondi."
 
 
 translate italian extra_scene_33_f24f4eba:
 
 
-    "La forza dei miei slanci ha spinto la faccia di Jade sul terreno, ma lei è rimasta a implorare di più."
+    "La forza delle mie spinte spingeva la faccia di Jade contro il pavimento, ma lei continuava a chiedere di più."
 
 
 translate italian extra_scene_33_91a786d3:
 
 
-    j "Ti prego padrone, abusa del mio culo, il tuo cazzo è così gustoso!"
+    j "Ti prego, padrone, abusa del mio buco del culo, il tuo cazzo è così bello!"
 
 
 translate italian extra_scene_33_585f5fa1:
 
 
-    j "Più forte! Scopami il culo più forte!"
+    j "Più forte!{w} Scopami il culo più forte!"
 
 
 translate italian extra_scene_33_04d866ef:
 
 
-    j "Fammi diventare la tua piccola troia anale!"
+    j "Fammi diventare la tua puttana anale!"
 
 
 translate italian extra_scene_33_4242fd86:
 
 
-    "Jade giocava con i suoi seni mentre io usavo tutta la forza del mio cazzo duro sul suo ano."
+    "Jade giocava con i suoi seni mentre io trattavo il suo ano con tutta la forza del mio cazzo duro come la roccia."
 
 
 translate italian extra_scene_33_e6cb21d2:
 
 
-    c "Come sta il tuo culo adesso, puttana?"
+    c "Come si sente ora il tuo culo, troia?"
 
 
 translate italian extra_scene_33_f41e0ead:
 
 
-    j "Fa tanto male, ma amo il dolore, padrone!"
+    j "Fa molto male, ma adoro il dolore, padrone!"
 
 
 translate italian extra_scene_33_862a9af7:
 
 
-    c "Te lo infilo di nuovo nella figa."
+    c "Sto per entrare di nuovo nella tua figa."
 
 
 translate italian extra_scene_33_ba38a407:
 
 
-    c "Ti piacerebbe, vero, avere di nuovo un cazzo nel tuo buchino, tutto spalmato sul tuo culo?"
+    c "Ti piacerebbe, vero, avere di nuovo quel cazzo dentro il tuo buco, tutto sporcato dal tuo culo?"
 
 
 translate italian extra_scene_33_95b6ff1c:
 
 
-    j "Mi piace, maestro!"
+    j "Mi piace, padrone!"
 
 
 translate italian extra_scene_33_b390dfbd:
@@ -1864,79 +1818,67 @@ translate italian extra_scene_33_b390dfbd:
 translate italian extra_scene_33_1556cc39:
 
 
-    "A causa della violenza con cui l'ho trattata, a un certo punto il mio cazzo è uscito dal suo culo."
+    "A causa della violenza con cui l'ho trattata, a un certo punto il mio cazzo è uscito dal suo buco del culo."
 
 
 translate italian extra_scene_33_d9033051:
 
 
-    "Desideroso di sentire di nuovo la sua figa, ho cambiato buco, con grande gioia perversa di Jade."
-
-
-translate italian extra_scene_33_8d8b889d:
-
-
-    "Vuoi abilitare l'urina (uomo su donna) per questa scena?"
-
-
-translate italian extra_scene_33_dbcf5775:
-
-
-    j "Più forte! Scopami la figa più forte!"
+    "Desideroso di sentire di nuovo la sua figa, cambiai buco, con grande gioia perversa di Jade."
 
 
 translate italian extra_scene_34_acfc368f:
 
 
-    "Nadia è uscita dall'acqua."
+    "Nadya uscì dall'acqua."
 
 
 translate italian extra_scene_34_83edbb4c:
 
 
-    na "Credo sia meglio tornare indietro, [p_name]."
+    na "Penso che dovremmo tornare indietro, [p_name]."
 
 
 translate italian extra_scene_34_717bb5be:
 
 
-    c "Subito."
+    c "Tra un minuto."
 
 
 translate italian extra_scene_34_e3378668:
 
 
-    na "Vuoi rimanere a nuotare un po'?"
+    na "Vuoi rimanere a nuotare per un po'?"
 
 
 translate italian extra_scene_34_ede8758a:
 
 
-    c "Non è esattamente quello che pensavo."
+    c "Non è esattamente quello che avevo in mente."
 
 
 translate italian extra_scene_34_9149406d:
 
 
-    na "{noalt}Hm?{/noalt}{alt}Ham?{/alt}"
+    na "Oh?"
 
 
 translate italian extra_scene_34_f0752462:
 
 
-    "Mi avvicinai a mia madre, guardando avidamente i suoi grandi seni."
+    "Mi avvicinai a mia madre, guardando con fame i suoi seni pieni."
 
 
 translate italian extra_scene_34_0f23c224:
 
 
-    "Mi sono avvicinato a Nadia, guardando avidamente i suoi grandi seni."
+    "Mi avvicinai a Nadya, guardando con fame i suoi seni pieni."
 
 
 translate italian extra_scene_34_dbb262a7:
 
 
-    "Si è accorta che stavo fissando il suo corpo e ha allargato lentamente le gambe, scoprendo la sua figa."
+    "Lei si accorse che stavo fissando il suo corpo e aprì lentamente le gambe per scoprire la sua figa."
 
 
 translate italian extra_scene_34_c73f8744:
@@ -1948,49 +1890,49 @@ translate italian extra_scene_34_c73f8744:
 translate italian extra_scene_34_99eca7ea:
 
 
-    na "Vieni."
+    na "Vieni qui."
 
 
 translate italian extra_scene_34_ba47f9be:
 
 
-    "Ho nuotato tra le sue gambe aperte."
+    "Nuotai tra le sue gambe aperte."
 
 
-translate italian extra_scene_34_284e8d66:
+translate italian extra_scene_34_009902f5:
 
 
-    "Anticipando quello che sarebbe successo, Nadia si è tesa e io le ho baciato tutta la coscia."
+    "Anticipando ciò che stava per accadere, Nadya si tese quando le punteggiai l'interno coscia di baci."
 
 
 translate italian extra_scene_34_424b637e:
 
 
-    na "Così!"
+    na "Ecco!"
 
 
 translate italian extra_scene_34_8377edcb:
 
 
-    "A giudicare dall'odore forte, la sua figa non era bagnata solo a causa della piscina."
+    "A giudicare dall'odore di terra, la sua figa non era solo bagnata dall'acqua della piscina."
 
 
 translate italian extra_scene_34_64c1653e:
 
 
-    "Per conferma ho passato le dita sulla sua figa."
+    "Feci scorrere le dita nella sua fessura per averne conferma."
 
 
 translate italian extra_scene_34_2ac6a23b:
 
 
-    "Era bagnata fradicia ad aspettarmi."
+    "Era bagnata fradicia per me."
 
 
 translate italian extra_scene_34_d11fbb16:
 
 
-    na "Ah! Questo è il mio ragazzo!"
+    na "Ah!{w} Ecco il mio ragazzo!"
 
 
 translate italian extra_scene_34_3016039d:
@@ -2002,121 +1944,43 @@ translate italian extra_scene_34_3016039d:
 translate italian extra_scene_34_6145dbf2:
 
 
-    "Nadia mi passò una mano tra i capelli mentre le stimolavo la figa e il clitoride."
+    "Nadya mi passò una mano tra i capelli mentre le stimolavo la figa e il clitoride."
 
 
 translate italian extra_scene_34_731fedf2:
 
 
-    na "Vuoi mettermi alla prova, [p_name]?"
+    na "Vuoi un assaggio di me, [p_name]?"
 
 
 translate italian extra_scene_34_24850122:
 
 
-    "Non ha aspettato la risposta e si è sdraiata sulla pietra fredda del pavimento della piscina."
+    "Non attese la risposta e si sdraiò sul pavimento di pietra della piscina."
 
 
 translate italian extra_scene_34_e4fb43c8:
 
 
-    "La sua figa era ora molto accessibile e ho infilato la testa tra le sue gambe."
+    "La sua fica era ora facilmente accessibile e io spinsi la testa tra le sue gambe."
 
 
 translate italian extra_scene_34_062e38b4:
 
 
-    "Quando la mia lingua ha toccato la sua vulva, ha urlato nella notte."
+    "Quando la mia lingua entrò in contatto con la sua vulva, gridò nella notte."
 
 
 translate italian extra_scene_34_a88806f3:
 
 
-    na "Ah questo, questo!"
+    na "Oh sì, sì!"
 
 
 translate italian extra_scene_34_d125fe19:
 
 
-    "Ho iniziato a leccarla con ferocia, Nadia ha iniziato a masturbarsi con un dito sul clitoride."
-
-
-translate italian extra_scene_34_cdcf883f:
-
-
-    "Sì, fai sborrare tua madre!"
-
-
-translate italian extra_scene_34_fddce99c:
-
-
-    "Sì, fammi sborrare!"
-
-
-translate italian extra_scene_34_16630584:
-
-
-    "Ho raddoppiato i miei sforzi, leccando con forza la sua figa."
-
-
-translate italian extra_scene_34_edc4a765:
-
-
-    "Ha versato una grande quantità di liquido, sciogliendo la mia lingua e le sue labbra inferiori."
-
-
-translate italian extra_scene_34_275624a3:
-
-
-    na "Ah, [p_name]!{w} Io... ci sono quasi!"
-
-
-translate italian extra_scene_34_e83569a3:
-
-
-    na "Io-"
-
-
-translate italian extra_scene_34_74500d0b:
-
-
-    "Nadia non è riuscita a finire l'ultima frase, perché a quel punto ha iniziato a gemere forte e a tremare."
-
-
-translate italian extra_scene_34_ef588cdc:
-
-
-    "Mia madre mi stuzzicò con forza, rilasciando un'altra scarica di fluidi, che fu leccata avidamente."
-
-
-translate italian extra_scene_34_28f1db44:
-
-
-    "Nadia stuzzicò con forza, rilasciando un'altra scarica di fluidi, che fu leccata avidamente."
-
-
-translate italian extra_scene_34_850de465:
-
-
-    "Rimase lì a lungo, ansimante, con la mia testa ancora tra le sue gambe."
-
-
-translate italian extra_scene_34_a6d63e33:
-
-
-    "Quando gli ultimi fremiti del suo orgasmo si sono placati, mi ha baciato ed è tornata in piscina."
-
-
-translate italian extra_scene_34_3eb4aebf:
-
-
-    "Abbiamo nuotato per un po', godendoci il silenzio."
-
-
-translate italian extra_scene_34_009902f5:
-
-
-    "Anticipando quello che sarebbe successo, Nadia si è tesa e io le ho baciato tutta la coscia."
+    "Cominciai a leccarla ferocemente, mentre Nadya si aiutava sditalinando il suo clitoride."
 
 
 translate italian extra_scene_34_e6acb9d4:
@@ -2128,25 +1992,85 @@ translate italian extra_scene_34_e6acb9d4:
 translate italian extra_scene_34_0d8e3d95:
 
 
-    na "Sì, fammi sborrare!"
+    na "Ecco, fammi sborrare!"
+
+
+translate italian extra_scene_34_16630584:
+
+
+    "Raddoppiai gli sforzi, leccando la sua fessura con colpi potenti."
+
+
+translate italian extra_scene_34_edc4a765:
+
+
+    "Lei rilasciò un'abbondante quantità di succhi che ricoprirono la mia lingua e le sue labbra inferiori."
+
+
+translate italian extra_scene_34_275624a3:
+
+
+    na "Oh [p_name]!{w} Sono... Sono così vicino!"
+
+
+translate italian extra_scene_34_e83569a3:
+
+
+    na "I-"
+
+
+translate italian extra_scene_34_74500d0b:
+
+
+    "Nadya non riuscì a completare l'ultima frase, perché a quel punto gemette forte e iniziò a tremare."
+
+
+translate italian extra_scene_34_ef588cdc:
+
+
+    "Mia madre raggiunse l'orgasmo in maniera pesante, rilasciando un'altra marea di succhi, che venne leccato avidamente."
+
+
+translate italian extra_scene_34_28f1db44:
+
+
+    "Nadya raggiunse l'orgasmo in maniera pesante, rilasciando un'altra marea di succhi, che fu leccata avidamente."
+
+
+translate italian extra_scene_34_850de465:
+
+
+    "Rimase sdraiata per un po' di tempo, respirando pesantemente, con la mia testa ancora tra le sue gambe."
+
+
+translate italian extra_scene_34_a6d63e33:
+
+
+    "Quando gli ultimi fremiti del suo orgasmo si sono placati, mi ha baciato e si è infilata di nuovo in piscina."
+
+
+translate italian extra_scene_34_3eb4aebf:
+
+
+    "Nuotammo per un po', godendoci il silenzio."
 
 
 translate italian extra_scene_35_c183937a:
 
 
-    "Ho spinto la ragazza tra le mie gambe e le ho strofinato il cazzo in faccia."
+    "Spinsi la ragazza tra le mie gambe e spinsi il mio cazzo sul suo viso."
 
 
 translate italian extra_scene_35_ce8dc22d:
 
 
-    c "Lecca come una brava puttanella."
+    c "Leccalo come una brava puttanella."
 
 
 translate italian extra_scene_35_dcb96ea8:
 
 
-    "Ho sentito Vess rispondere immediatamente, la sua lingua scorreva su tutto il mio cazzo."
+    "Sentii Vess rispondere immediatamente, la sua lingua scorreva lungo tutta la mia asta."
 
 
 translate italian extra_scene_35_d16b4f0c:
@@ -2158,67 +2082,73 @@ translate italian extra_scene_35_d16b4f0c:
 translate italian extra_scene_35_ea0c4e63:
 
 
-    "Ho infilato il mio cazzo duro nella sua bocca aperta."
+    "Spinsi il mio cazzo duro dentro la sua bocca aperta."
 
 
 translate italian extra_scene_35_bb29b368:
 
 
-    "Vess soffocava mentre il mio cazzo entrava sempre più nella sua bocca."
+    "Vess vomitava e conati di vomito mentre il mio cazzo entrava sempre di più nella sua bocca."
 
 
 translate italian extra_scene_35_aca6c6ac:
 
 
-    "Il mio cazzo era ormai completamente dentro la sua bocca e ho toccato il fondo della sua gola."
+    "La mia asta era ormai completamente dentro la sua bocca e le toccai la parte posteriore della gola."
 
 
 translate italian extra_scene_35_353ffc7c:
 
 
-    "La ragazza ha lottato sotto di me, ma ha resistito bene."
+    "La ragazza si dimenava sotto di me, ma riusciva a mantenere la calma."
 
 
 translate italian extra_scene_35_0518a0c2:
 
 
-    "Ho iniziato a scoparti la bocca."
+    "Iniziai a scoparle la bocca."
 
 
 translate italian extra_scene_35_579966f5:
 
 
-    "Vess cercò senza successo di regolare le mie spinte spingendo le mani contro le mie cosce, ma non era in grado di esercitare alcuna influenza."
+    "Vess tentò debolmente di regolare le mie spinte spingendo le mani contro le mie cosce, ma non era in grado di esercitare alcuna influenza."
 
 
 translate italian extra_scene_35_809449a1:
 
 
-    c "Ti piace quel cazzo in bocca, Vess?"
+    c "Ti piace questo cazzo in bocca, Vess?"
 
 
 translate italian extra_scene_35_5b0a2495:
 
 
-    c "La tua gola è una delizia."
+    c "La tua gola è così bella."
 
 
 translate italian extra_scene_35_faac21b0:
 
 
-    "Afferrando uno dei suoi seni, spinsi il mio cazzo in profondità nella sua bocca, colpendo il fondo della sua gola ogni volta che andavo giù."
+    "Afferrando uno dei suoi seni, affondai il mio cazzo profondamente nella sua bocca, colpendo la parte posteriore della sua gola ogni volta che scendevo."
+
+
+translate italian extra_scene_35_bfdf5b58:
+
+
+    "Per essere una principiante, ha preso piuttosto bene la scopata in gola."
 
 
 translate italian extra_scene_35_b0ad3bf1:
 
 
-    "Vess si è soffocata di nuovo e io ho tolto il mio cazzo per un po'."
+    "Vess ha vomitato di nuovo e io ho tirato fuori il mio cazzo per un po'."
 
 
 translate italian extra_scene_35_cdc6c126:
 
 
-    "Il muco ha iniziato a colare dal viso mentre cercava di respirare."
+    "Il muco aveva iniziato a colare sul suo viso e lei ansimava per prendere aria."
 
 
 translate italian extra_scene_35_57580e65:
@@ -2230,37 +2160,37 @@ translate italian extra_scene_35_57580e65:
 translate italian extra_scene_35_7cbc9c33:
 
 
-    ve "Certo, maestro."
+    ve "Certo, padrone."
 
 
 translate italian extra_scene_35_c3426282:
 
 
-    "Tenendole il collo, mi spinsi di nuovo dentro e cominciai a scoparle la gola con l'assoluta intenzione di riempirle la bocca di sperma."
+    "Prendendo il suo collo, entrai di nuovo e iniziai a scoparle la gola con l'intenzione di riempirle la bocca di sperma."
 
 
 translate italian extra_scene_35_1183e90c:
 
 
-    c "Oh, così, la tua bocca è così deliziosa!"
+    c "Oh sì, la tua bocca è così bella!"
 
 
 translate italian extra_scene_35_8f99726b:
 
 
-    "Vess ha fatto dei gargarismi mentre soffocava il mio cazzo."
+    "Vess emetteva dei gorgoglii umidi mentre soffocava il mio cazzo."
 
 
 translate italian extra_scene_35_35d510a3:
 
 
-    "La sua impotenza, insieme alla sua gola stretta, mi ha impedito di durare a lungo."
+    "La sua impotenza e la stretta della sua gola non mi hanno fatto durare a lungo."
 
 
 translate italian extra_scene_35_5a63abac:
 
 
-    c "Adesso ti faccio un regalo."
+    c "Ora ti farò un regalo."
 
 
 translate italian extra_scene_35_7eaebdfe:
@@ -2272,4976 +2202,5039 @@ translate italian extra_scene_35_7eaebdfe:
 translate italian extra_scene_35_b5b45a07:
 
 
-    "Sono venuto parecchio dentro la sua bocca."
+    "Venni con forza nella sua bocca."
 
 
 translate italian extra_scene_35_7620b200:
 
 
-    "Lo sperma caldo ha riempito la gola di Vess."
+    "Lo sperma caldo riempì la gola di Vess."
 
 
 translate italian extra_scene_35_2984240d:
 
 
-    "Ce n'era così tanta che ha iniziato a fuoriuscire dalla bocca."
+    "Ce n'era così tanto che iniziò a traboccare dalla sua bocca."
 
 
 translate italian extra_scene_35_179c6e42:
 
 
-    c "Ah, ecco, cazzo, ora ingoia, mia piccola puttana."
+    c "Oh cazzo, sì, ora ingoia, mia piccola sgualdrina."
 
 
 translate italian extra_scene_35_eba91ace:
 
 
-    "Ho tolto il mio cazzo dalla sua bocca, lasciando che Vess respirasse."
+    "Estrassi il mio cazzo dalla sua bocca, permettendo a Vess di respirare."
 
 
 translate italian extra_scene_35_e4ba8ccf:
 
 
-    "Quando si è ripresa un po', ha ingoiato ogni goccia ancora presente."
+    "Quando si riprese un po', ingoiò fino all'ultima goccia che aveva ancora in bocca."
 
 
 translate italian extra_scene_35_3a3d7ea9:
 
 
-    "Non appena ho tolto il mio cazzo dalla sua bocca, sono venuto con forza."
+    "Non appena mi sfilai dalla sua bocca, venni con forza."
 
 
 translate italian extra_scene_35_de104e38:
 
 
-    "Lo sperma caldo si è riversato sul suo viso, mescolato alla saliva che aveva già sciolto tutto."
+    "Lo sperma caldo le schizzò sul viso, mischiandosi alla saliva che aveva già rovinato tutto."
 
 
 translate italian extra_scene_35_4237b946:
 
 
-    c "Oh cazzo, ora finalmente sembri la stronza che sei in realtà."
+    c "Oh, cazzo, ora sembri finalmente la piccola troia che sei."
 
 
 translate italian extra_scene_35_0a69d437:
 
 
-    "È rimasta sdraiata sul divano per un po', cercando di riprendersi e ansimando."
+    "Rimase sdraiata sul lettino per un po' di tempo, cercando di riprendersi e respirando a fatica."
 
 
 translate italian extra_scene_35_f3d20082:
 
 
-    "Lo sperma e la saliva le cadevano dal viso, formando una pozza sul pavimento sotto di lei."
+    "Lo sperma e la saliva le colavano dal viso, formando una pozza sul pavimento sotto di lei."
 
 
-translate italian extra_scene_35_bfdf5b58:
+translate italian extra_scene_36_f075abc3:
 
 
-    "Per essere una principiante, ha tenuto bene il cazzo in gola."
+    ve "È stato così bello."
 
+
+translate italian extra_scene_36_0507ec3d:
+
+
+    ve "Ora voglio restituirti il favore."
+
+
+translate italian extra_scene_36_d284e484:
+
+
+    c "Cosa mi farai, Vess?"
+
+
+translate italian extra_scene_36_5b4f49f3:
+
+
+    ve "Prenderò il tuo cazzo in bocca e te lo succhierò a lungo e con forza, finché non mi sborrerai in bocca."
+
+
+translate italian extra_scene_36_5f3a338b:
+
+
+    c "Meglio iniziare allora."
+
+
+translate italian extra_scene_36_1918d0aa:
+
+
+    "Vess sorrise e abbassò la testa."
+
+
+translate italian extra_scene_36_10a913f9:
+
+
+    "Le misi una mano di guida sulla nuca mentre sentivo la sua lingua entrare in contatto con il mio cazzo."
+
+
+translate italian extra_scene_36_3cec2467:
+
+
+    "Leccò la testa del mio cazzo con movimenti delicati."
+
+
+translate italian extra_scene_36_442a3a96:
+
+
+    "All'inizio Vess non ha usato le mani, così ho tenuto il mio cazzo, quasi imboccandolo."
+
+
+translate italian extra_scene_36_5f967358:
+
+
+    "Dopo aver bagnato la punta, Vess mi fece sdraiare e si mise comoda."
+
+
+translate italian extra_scene_36_bce74a7d:
+
+
+    "Ha preso in mano il mio membro e ha avvolto le sue labbra intorno alla mia asta."
+
+
+translate italian extra_scene_36_f48b1629:
+
+
+    c "Ecco!"
+
+
+translate italian extra_scene_36_2c1bd385:
+
+
+    "Vess muoveva lentamente la testa su e giù, mentre il mio cazzo scivolava dentro e fuori dalla sua bocca."
+
+
+translate italian extra_scene_36_afa9096c:
+
+
+    "La mia mano le strinse il culo per un po', finché non infilai le dita tra le sue gambe."
+
+
+translate italian extra_scene_36_4741b7f5:
+
+
+    "La sua fica era esposta e ancora bagnata dall'orgasmo precedente."
+
+
+translate italian extra_scene_36_06d96568:
+
+
+    "Esitò, spaventata dalle mie dita che improvvisamente si facevano strada nella sua figa."
+
+
+translate italian extra_scene_36_281fada9:
+
+
+    "Vess riprese il ritmo, cercando di far entrare il più possibile il mio cazzo nella sua bocca."
+
+
+translate italian extra_scene_36_705e995b:
+
+
+    c "Cazzo, la tua bocca è così bella intorno al mio cazzo, Vess!"
+
+
+translate italian extra_scene_36_eed1bd12:
+
+
+    c "Continua così."
+
+
+translate italian extra_scene_36_79207436:
+
+
+    "La presborra aveva iniziato a scorrere liberamente e Vess stava attenta a non versarne una goccia, leccando il liquido con la lingua."
+
+
+translate italian extra_scene_36_16250544:
+
+
+    "Le mie dita erano ancora dentro la sua fessura, ma avevo sempre più difficoltà a muovere gli arti, grazie alle sensazioni che Vess mi procurava lavorando sul mio cazzo."
+
+
+translate italian extra_scene_36_08a6a58a:
+
+
+    c "Oh Vess!{w} Vess!{w} Sto per..."
+
+
+translate italian extra_scene_36_0e1622de:
+
+
+    "Vess sembrava decisa a farmi sborrare con forza e teneva la sua bocca saldamente avvolta sul mio cazzo."
+
+
+translate italian extra_scene_36_535f5f14:
+
+
+    c "Non fermarti ora!"
+
+
+translate italian extra_scene_36_85ad0f7a:
+
+
+    "Vess continuò finché il mio cazzo pulsante non iniziò a pulsare."
+
+
+translate italian extra_scene_36_d51d1344:
+
+
+    "Lo sperma caldo le schizzò in bocca, traboccando rapidamente."
+
+
+translate italian extra_scene_36_0fc75a30:
+
+
+    "Ne ingoiò la maggior parte, ma dovette far uscire il mio cazzo dalla sua bocca per prendere aria, tossendo lo sperma."
+
+
+translate italian extra_scene_36_a695cf9d:
+
+
+    "Vess mi sorrise, chiaramente soddisfatta dell'enorme quantità di sperma che era riuscita a provocare."
+
+
+translate italian extra_scene_36_9ba1d5ee:
+
+
+    ve "Sei una bestia, un po' di sperma mi è finito anche nel naso."
+
+
+translate italian extra_scene_36_85ad0f7a_1:
+
+
+    "Vess continuò fino a quando il mio cazzo pulsante iniziò a pulsare."
+
+
+translate italian extra_scene_36_21ad3657:
+
+
+    "Mi tolse l'uccello dalla bocca mentre un getto di sperma caldo veniva sparato in aria."
+
+
+translate italian extra_scene_36_740c0d18:
+
+
+    "La maggior parte schizzò sul suo viso, il resto gocciolò lungo la mia asta sulle sue mani."
+
+
+translate italian extra_scene_36_618ee5c4:
+
+
+    "Pulendosi il viso, Vess mi sorrise e si sdraiò di fronte a me."
+
+
+translate italian extra_scene_36_4515d55d:
+
+
+    "La soddisfazione si trasformò in improvvisa preoccupazione."
+
+
+translate italian extra_scene_36_465bc7a6:
+
+
+    ve "Ne vuoi ancora, vero?"
+
+
+translate italian extra_scene_36_a130a3c6:
+
+
+    c "Certo che lo sono!"
+
+
+translate italian extra_scene_37_cb791a55:
+
+
+    "Céline sta ricevendo un rapporto anale in questa scena?"
+
+
+translate italian extra_scene_37_3a5b56d1:
+
+
+    "Scena anale"
+
+
+translate italian extra_scene_37_d1b21525:
+
+
+    "Scena vaginale"
+
+
+translate italian extra_scene_37_aa2f220f:
+
+
+    c "Ti farò sborrare così tanto, Céline."
+
+
+translate italian extra_scene_37_430822fe:
+
+
+    ce "Lo stai facendo?"
+
+
+translate italian extra_scene_37_38d82f3b:
+
+
+    c "Sì, ti romperò il culo e la figa."
+
+
+translate italian extra_scene_37_55532b99:
+
+
+    "Per sottolineare le mie parole, ho premuto le dita contro la fica di Céline."
+
+
+translate italian extra_scene_37_59f59671:
+
+
+    "Serrai la mano sulla sua fessura mentre spingevo il mio cazzo con forza dentro il suo buco del culo."
+
+
+translate italian extra_scene_37_2591b28a:
+
+
+    "Céline gemette in un misto di dolore e piacere, inzuppando le mie dita nel suo nettare."
+
+
+translate italian extra_scene_37_a96177a1:
+
+
+    ce "Ti prego, fammi sborrare!"
+
+
+translate italian extra_scene_37_8953996f:
+
+
+    ce "Usa il mio culo, ma non dimenticare la mia figa!"
+
+
+translate italian extra_scene_37_ee25c35e:
+
+
+    "Volevo spingere il mio cazzo ancora più a fondo nel suo culo, così la tirai su."
+
+
+translate italian extra_scene_37_efce12af:
+
+
+    "Céline spinse i piedi contro il muro e mi mise un braccio intorno al collo."
+
+
+translate italian extra_scene_37_24c31ebb:
+
+
+    "Continuai a sditalinarla mentre il mio cazzo scivolava ancora più in profondità nel suo buco del culo."
+
+
+translate italian extra_scene_37_fa4fb548:
+
+
+    ce "Oh cazzo!{w} Oh sì!"
+
+
+translate italian extra_scene_37_fa21b7ff:
+
+
+    ce "Il tuo cazzo grosso mi sta squarciando il culo."
+
+
+translate italian extra_scene_37_b12ccbf3:
+
+
+    ce "È così bello!"
+
+
+translate italian extra_scene_37_0be4a404:
+
+
+    "Con due dita dentro il suo buco, le massaggiavo il clitoride con l'indice."
+
+
+translate italian extra_scene_37_35c472f4:
+
+
+    "La posizione in cui ci trovavamo non era esattamente comoda, soprattutto se si aggiungeva lo sforzo di tenere Céline contro il muro."
+
+
+translate italian extra_scene_37_4fb536a8:
+
+
+    "Ogni muscolo di entrambi i nostri corpi era teso, ma non volevamo fermarci."
+
+
+translate italian extra_scene_37_5835c9aa:
+
+
+    "Céline era molto vicina al culmine, quindi intensificai la stimolazione sia del suo culo che della sua figa."
+
+
+translate italian extra_scene_37_0671ba3a:
+
+
+    ce "Sto per..."
+
+
+translate italian extra_scene_37_2e04b38f:
+
+
+    ce "Io...{w} Oh [p_name_short]! [p_name_short]!"
+
+
+translate italian extra_scene_37_0c343264:
+
+
+    "Sentii il suo buco del culo stringersi attorno al mio cazzo mentre un climax tremante iniziava a percorrere il corpo di Céline."
+
+
+translate italian extra_scene_37_dc6e0d37:
+
+
+    "Si sentì quasi cadere a terra mentre eiaculava, il liquido schizzò violentemente contro il muro."
+
+
+translate italian extra_scene_37_85165680:
+
+
+    "Céline si è quasi afflosciata mentre la facevo cadere a terra."
+
+
+translate italian extra_scene_37_53d07417:
+
+
+    "La tenevo sollevata verso l'alto, con il mio cazzo ancora dentro il suo culo."
+
+
+translate italian extra_scene_37_acfb5ff7:
+
+
+    c "Non ho mentito sul fatto di aver sborrato forte, vero?"
+
+
+translate italian extra_scene_37_04874a34:
+
+
+    ce "È stato davvero fantastico!"
+
+
+translate italian extra_scene_37_b5110cae:
+
+
+    c "Ma non abbiamo ancora finito."
+
+
+translate italian extra_scene_37_98df1681:
+
+
+    "La mia prima spinta nel suo culo la sorprese e Céline mugolò in segno di sconfitta."
+
+
+translate italian extra_scene_37_aaf5297e:
+
+
+    "Ma quando ho iniziato a scoparla seriamente, i suoi gemiti sono diventati sempre più forti e ha iniziato a incitarmi di nuovo verso il mio climax."
+
+
+translate italian extra_scene_37_aa2f220f_1:
+
+
+    c "Ti farò sborrare così tanto, Céline."
+
+
+translate italian extra_scene_37_430822fe_1:
+
+
+    ce "Lo stai facendo?"
+
+
+translate italian extra_scene_37_9275ad88:
+
+
+    c "Sì, ti sfonderò la figa."
+
+
+translate italian extra_scene_37_55532b99_1:
+
+
+    "Per sottolineare le mie parole, premetti le dita contro la fica di Céline."
+
+
+translate italian extra_scene_37_93a88dc0:
+
+
+    "Continuai a scoparla con spinte brevi e violente, mentre le mie dita massaggiavano il suo clitoride."
+
+
+translate italian extra_scene_37_fa4fb548_1:
+
+
+    ce "Oh cazzo!{w} Oh sì!"
+
+
+translate italian extra_scene_37_eb1b9f7d:
+
+
+    ce "Il tuo cazzo grosso mi sta squarciando la fica."
+
+
+translate italian extra_scene_37_4c6b0922:
+
+
+    "Continuando a stimolare il suo clitoride, la spinsi contro il muro."
+
+
+translate italian extra_scene_37_aaa48859:
+
+
+    "Céline ovviamente apprezzò la doppia attenzione che la sua fica stava ricevendo, poiché si girò e mi afferrò il viso per baciarmi violentemente."
+
+
+translate italian extra_scene_37_055faeca:
+
+
+    ce "Continua così, [p_name_short]!"
+
+
+translate italian extra_scene_37_bc86f3d3:
+
+
+    ce "Mi farai sborrare così tanto!"
+
+
+translate italian extra_scene_37_64e447c3:
+
+
+    "I baci mi stavano facendo girare la testa e dovevo tenermi fermo per paura di scivolare fuori dalla fica scivolosa di Céline."
+
+
+translate italian extra_scene_37_a155b97e:
+
+
+    "Avvolsi le dita intorno al suo centro e la tirai più vicino a me."
+
+
+translate italian extra_scene_37_f0906d9f:
+
+
+    "All'inizio Céline emise dei versi di fastidio perché le mie dita non toccavano più il suo clitoride."
+
+
+translate italian extra_scene_37_5abf4925:
+
+
+    "Il fastidio si trasformò presto in sorpresa."
+
+
+translate italian extra_scene_37_bb9d630a:
+
+
+    "Sentii il suo respiro affannoso quando il mio cazzo si infilò dentro di lei con una certa angolazione."
+
+
+translate italian extra_scene_37_8fb365cd:
+
+
+    "Quando le spinte successive provocarono suoni sempre più umidi dalla sua figa, capii che avevo raggiunto il suo punto debole."
+
+
+translate italian extra_scene_37_4d32d15f:
+
+
+    "I brividi che attraversavano il corpo di Céline confermarono i miei sospetti."
+
+
+translate italian extra_scene_37_bd9ff606:
+
+
+    ce "Qualunque cosa tu faccia...{w} non fermarti!"
+
+
+translate italian extra_scene_37_a042e585:
+
+
+    "Continuai a colpirla profondamente nella stessa posizione, facendo cadere Céline in uno stato quasi di trance."
+
+
+translate italian extra_scene_37_78851557:
+
+
+    "La sua figa stava ormai grondando di succhi."
+
+
+translate italian extra_scene_37_f9b396d7:
+
+
+    ce "Sono così vicina!"
+
+
+translate italian extra_scene_37_bc7187b3:
+
+
+    ce "Adoro la sensazione del tuo cazzo grosso dentro la mia piccola figa!"
+
+
+translate italian extra_scene_37_ae6c1597:
+
+
+    "Céline era così vicina al culmine, che continuai a scoparla con colpi costanti fino a quando non sentii tutto il suo corpo tendersi."
+
+
+translate italian extra_scene_37_9ff1b78d:
+
+
+    "La sua figa si è stretta intorno al mio cazzo e Céline ha emesso un gemito."
+
+
+translate italian extra_scene_37_f2a00a69:
+
+
+    ce "Sto...{w} Io...{w} Oh [p_name_short]! [p_name_short]!"
+
+
+translate italian extra_scene_37_3cacedf1:
+
+
+    "Riuscii a dare alcune brevi e forti spinte finché il mio cazzo non fu espulso violentemente dalla sua vagina."
+
+
+translate italian extra_scene_37_ab3faea2:
+
+
+    "Seguì un forte getto di eiaculato che schizzò sulle mie gambe."
+
+
+translate italian extra_scene_37_9e98beb2:
+
+
+    "Seguirono altri schizzi, Céline si strusciava con la schiena contro il muro mentre l'orgasmo le attraversava il corpo."
+
+
+translate italian extra_scene_37_b9be6e17:
+
+
+    "Quasi si accasciò mentre altri succhi della sua figa schizzavano sul pavimento."
+
+
+translate italian extra_scene_37_acfb5ff7_1:
+
+
+    c "Non ho mentito sul fatto che ho sborrato forte, vero?"
+
+
+translate italian extra_scene_37_04874a34_1:
+
+
+    ce "È stato davvero incredibile!"
+
+
+translate italian extra_scene_37_b5110cae_1:
+
+
+    c "Ma non abbiamo ancora finito."
+
+
+translate italian extra_scene_37_fd1bac97:
+
+
+    "Sono entrato di nuovo nel suo tumulo palpitante e bagnato, riprendendo il ritmo da dove l'avevo lasciato."
 
 translate italian strings:
 
 
     old "Cum in her mouth"
-    new "Ingoiare"
+    new "Sborra nella sua bocca"
 
 
     old "Cum on her face"
-    new "Facciale"
+    new "Sborra sul suo viso"
 
 
-    old "Vaginal"
-    new "Vaginale"
 
 
-    old "Anal"
-    new "Anale"
-
-# TODO: Translation updated at 2025-06-04 13:45
-
-# game/extras.rpy:297
-translate italian extra_scene_30_acd988dd:
-
-    # l "Yes, of course I want my brother’s big cock inside me."
-    l ""
-
-# game/extras.rpy:373
-translate italian extra_scene_31_bdfe82d8:
-
-    # c "I want you so very much, Vess."
-    c ""
-
-# game/extras.rpy:511
-translate italian extra_scene_32_26e7a21d:
-
-    # "Aven started to work on my member with powerful strokes, whipping me up in a frenzy."
-    ""
-
-# game/extras.rpy:975
-translate italian extra_scene_36_f075abc3:
-
-    # ve "That was so good."
-    ve ""
-
-# game/extras.rpy:976
-translate italian extra_scene_36_0507ec3d:
-
-    # ve "Now I want to return the favor."
-    ve ""
-
-# game/extras.rpy:977
-translate italian extra_scene_36_d284e484:
-
-    # c "What are you going to do to me, Vess?"
-    c ""
-
-# game/extras.rpy:979
-translate italian extra_scene_36_5b4f49f3:
-
-    # ve "I’m going to take your cock in my mouth and suck you long and hard, until you cum inside my mouth."
-    ve ""
-
-# game/extras.rpy:980
-translate italian extra_scene_36_5f3a338b:
-
-    # c "Better get started then."
-    c ""
-
-# game/extras.rpy:985
-translate italian extra_scene_36_1918d0aa:
-
-    # "Vess smiled and lowered her head."
-    ""
-
-# game/extras.rpy:987
-translate italian extra_scene_36_10a913f9:
-
-    # "I put a guiding hand on the back of her head as I felt her tongue connect with my cock."
-    ""
-
-# game/extras.rpy:989
-translate italian extra_scene_36_3cec2467:
-
-    # "She licked the head of my cock with delicate strokes."
-    ""
-
-# game/extras.rpy:991
-translate italian extra_scene_36_442a3a96:
-
-    # "Vess didn’t use her hands at first, so I held my dick, almost feeding it to her."
-    ""
-
-# game/extras.rpy:996
-translate italian extra_scene_36_5f967358:
-
-    # "After wetting the tip, Vess made me lie back and made herself comfortable."
-    ""
-
-# game/extras.rpy:998
-translate italian extra_scene_36_bce74a7d:
-
-    # "She took hold of my member and wrapped her lips around my shaft."
-    ""
-
-# game/extras.rpy:999
-translate italian extra_scene_36_f48b1629:
-
-    # c "That’s it!"
-    c ""
-
-# game/extras.rpy:1001
-translate italian extra_scene_36_2c1bd385:
-
-    # "Vess slowly bobbed her head up and down, my cock sliding in and out of her mouth."
-    ""
-
-# game/extras.rpy:1004
-translate italian extra_scene_36_afa9096c:
-
-    # "My hand cupped her ass for a while, until I slipped my fingers between her legs."
-    ""
-
-# game/extras.rpy:1005
-translate italian extra_scene_36_4741b7f5:
-
-    # "Her cunt was exposed and still wet from her previous orgasm."
-    ""
-
-# game/extras.rpy:1010
-translate italian extra_scene_36_06d96568:
-
-    # "She hesitated, startled because of my fingers suddenly forcing their way inside her pussy."
-    ""
-
-# game/extras.rpy:1015
-translate italian extra_scene_36_281fada9:
-
-    # "Vess picked up the pace again, trying to get as much of my cock inside her mouth as possible."
-    ""
-
-# game/extras.rpy:1018
-translate italian extra_scene_36_705e995b:
-
-    # c "Fuck, your mouth feels so good around my cock, Vess!"
-    c ""
-
-# game/extras.rpy:1019
-translate italian extra_scene_36_eed1bd12:
-
-    # c "Keep going like that."
-    c ""
-
-# game/extras.rpy:1020
-translate italian extra_scene_36_79207436:
-
-    # "Precum had started flowing freely and Vess was careful not to spill a drop, licking the liquid up with her tongue."
-    ""
-
-# game/extras.rpy:1025
-translate italian extra_scene_36_16250544:
-
-    # "My fingers were still inside her slit, but I had increasing trouble moving any of my limbs, due to the sensations Vess brought out working on my cock."
-    ""
-
-# game/extras.rpy:1026
-translate italian extra_scene_36_08a6a58a:
-
-    # c "Oh Vess!{w} Vess!{w} I’m about to..."
-    c ""
-
-# game/extras.rpy:1028
-translate italian extra_scene_36_0e1622de:
-
-    # "Vess seemed determined to make me cum hard and kept her mouth firmly wrapped around my dick."
-    ""
-
-# game/extras.rpy:1032
-translate italian extra_scene_36_535f5f14:
-
-    # c "Don’t stop now!"
-    c ""
-
-# game/extras.rpy:1033
-translate italian extra_scene_36_85ad0f7a:
-
-    # "Vess kept going until my throbbing cock began to pulse."
-    ""
-
-# game/extras.rpy:1039
-translate italian extra_scene_36_d51d1344:
-
-    # "Warm cum shot inside her mouth, overflowing quickly."
-    ""
-
-# game/extras.rpy:1042
-translate italian extra_scene_36_0fc75a30:
-
-    # "She swallowed most of it, but had to let my cock out of her mouth to gasp for air, coughing up cum."
-    ""
-
-# game/extras.rpy:1044
-translate italian extra_scene_36_a695cf9d:
-
-    # "Vess smiled at me, clearly satisfied with the massive amount of cum she managed to elicit."
-    ""
-
-# game/extras.rpy:1045
-translate italian extra_scene_36_9ba1d5ee:
-
-    # ve "You’re a beast, some of it even got into my nose."
-    ve ""
-
-# game/extras.rpy:1048
-translate italian extra_scene_36_85ad0f7a_1:
-
-    # "Vess kept going until my throbbing cock began to pulse."
-    ""
-
-# game/extras.rpy:1054
-translate italian extra_scene_36_21ad3657:
-
-    # "She took my dick out of her mouth as a jet of warm cum shot into the air."
-    ""
-
-# game/extras.rpy:1057
-translate italian extra_scene_36_740c0d18:
-
-    # "Most of it splashed onto her face, the rest dribbled down my shaft onto her hands."
-    ""
-
-# game/extras.rpy:1059
-translate italian extra_scene_36_618ee5c4:
-
-    # "Cleaning her face, Vess smiled at me and lay down in front of me."
-    ""
-
-# game/extras.rpy:1063
-translate italian extra_scene_36_4515d55d:
-
-    # "Satisfaction turned into sudden worry."
-    ""
-
-# game/extras.rpy:1064
-translate italian extra_scene_36_465bc7a6:
-
-    # ve "You’re up for more, aren’t you?"
-    ve ""
-
-# game/extras.rpy:1065
-translate italian extra_scene_36_a130a3c6:
-
-    # c "Of course I am!"
-    c ""
-
-# game/extras.rpy:1070
-translate italian extra_scene_37_cb791a55:
-
-    # "Is Céline receiving anal in this scene?"
-    ""
-
-# game/extras.rpy:1075
-translate italian extra_scene_37_3a5b56d1:
-
-    # "Anal scene"
-    ""
-
-# game/extras.rpy:1079
-translate italian extra_scene_37_d1b21525:
-
-    # "Vaginal scene"
-    ""
-
-# game/extras.rpy:1084
-translate italian extra_scene_37_aa2f220f:
-
-    # c "I’m going to make you cum so hard, Céline."
-    c ""
-
-# game/extras.rpy:1085
-translate italian extra_scene_37_430822fe:
-
-    # ce "You are?"
-    ce ""
-
-# game/extras.rpy:1086
-translate italian extra_scene_37_38d82f3b:
-
-    # c "Yes, I’m going to break your ass and your pussy."
-    c ""
-
-# game/extras.rpy:1088
-translate italian extra_scene_37_55532b99:
-
-    # "Punctuating my words, I pressed my fingers against Céline’s cunt."
-    ""
-
-# game/extras.rpy:1093
-translate italian extra_scene_37_59f59671:
-
-    # "I clamped my hand over her slit as I drove my cock hard inside her asshole."
-    ""
-
-# game/extras.rpy:1095
-translate italian extra_scene_37_2591b28a:
-
-    # "Céline wailed in a mixture of pain and delight, drenching my fingers in her nectar."
-    ""
-
-# game/extras.rpy:1097
-translate italian extra_scene_37_a96177a1:
-
-    # ce "Please make me cum!"
-    ce ""
-
-# game/extras.rpy:1099
-translate italian extra_scene_37_8953996f:
-
-    # ce "Use my ass, but don’t forget my pussy!"
-    ce ""
-
-# game/extras.rpy:1104
-translate italian extra_scene_37_ee25c35e:
-
-    # "I wanted to push my dick even deeper in side her ass, so I hauled her up."
-    ""
-
-# game/extras.rpy:1105
-translate italian extra_scene_37_efce12af:
-
-    # "Céline pushed her feet against the wall and slung an arm around my neck."
-    ""
-
-# game/extras.rpy:1108
-translate italian extra_scene_37_24c31ebb:
-
-    # "I continued fingering her as my cock slid even deeper inside her asshole."
-    ""
-
-# game/extras.rpy:1109
-translate italian extra_scene_37_fa4fb548:
-
-    # ce "Oh fuck!{w} Oh yes!"
-    ce ""
-
-# game/extras.rpy:1110
-translate italian extra_scene_37_fa21b7ff:
-
-    # ce "Your thick cock is tearing through my ass."
-    ce ""
-
-# game/extras.rpy:1111
-translate italian extra_scene_37_b12ccbf3:
-
-    # ce "It feels so good!"
-    ce ""
-
-# game/extras.rpy:1116
-translate italian extra_scene_37_0be4a404:
-
-    # "Two fingers inside her gash, I massaged her clit with my index finger."
-    ""
-
-# game/extras.rpy:1117
-translate italian extra_scene_37_35c472f4:
-
-    # "The position we were in wasn’t exactly comfortable, especially coupled with the strain of keeping Céline up against the wall."
-    ""
-
-# game/extras.rpy:1119
-translate italian extra_scene_37_4fb536a8:
-
-    # "Every muscle in both our bodies was strained, but we didn’t want to stop."
-    ""
-
-# game/extras.rpy:1120
-translate italian extra_scene_37_5835c9aa:
-
-    # "Céline was so very close to her climax, so I intensified the stimulation of both her ass and her pussy."
-    ""
-
-# game/extras.rpy:1121
-translate italian extra_scene_37_0671ba3a:
-
-    # ce "I’m about to-"
-    ce ""
-
-# game/extras.rpy:1122
-translate italian extra_scene_37_2e04b38f:
-
-    # ce "I...{w} Oh [p_name_short]! [p_name_short]!"
-    ce ""
-
-# game/extras.rpy:1123
-translate italian extra_scene_37_0c343264:
-
-    # "I could feel her asshole clench around my cock as a shuddering climax began to ripple through Céline’s body."
-    ""
-
-# game/extras.rpy:1129
-translate italian extra_scene_37_dc6e0d37:
-
-    # "She nearly feel on the ground as she ejaculated, the liquid spattering violently against the wall."
-    ""
-
-# game/extras.rpy:1130
-translate italian extra_scene_37_85165680:
-
-    # "Céline almost went limp as I lowered her to the ground."
-    ""
-
-# game/extras.rpy:1135
-translate italian extra_scene_37_53d07417:
-
-    # "I held her upward, my cock still deep inside her ass."
-    ""
-
-# game/extras.rpy:1136
-translate italian extra_scene_37_acfb5ff7:
-
-    # c "I didn’t lie about cumming hard, did I?"
-    c ""
-
-# game/extras.rpy:1137
-translate italian extra_scene_37_04874a34:
-
-    # ce "That was so amazing!"
-    ce ""
-
-# game/extras.rpy:1139
-translate italian extra_scene_37_b5110cae:
-
-    # c "But we’re far from done here."
-    c ""
-
-# game/extras.rpy:1140
-translate italian extra_scene_37_98df1681:
-
-    # "My first thrust inside her ass surprised her and Céline whimpered in defeat."
-    ""
-
-# game/extras.rpy:1141
-translate italian extra_scene_37_aaf5297e:
-
-    # "But when I began fucking her in earnest, her moans became increasingly strong and she began urging me on again towards my climax."
-    ""
-
-# game/extras.rpy:1144
-translate italian extra_scene_37_aa2f220f_1:
-
-    # c "I’m going to make you cum so hard, Céline."
-    c ""
-
-# game/extras.rpy:1145
-translate italian extra_scene_37_430822fe_1:
-
-    # ce "You are?"
-    ce ""
-
-# game/extras.rpy:1146
-translate italian extra_scene_37_9275ad88:
-
-    # c "Yes, I’m going to break your pussy."
-    c ""
-
-# game/extras.rpy:1151
-translate italian extra_scene_37_55532b99_1:
-
-    # "Punctuating my words, I pressed my fingers against Céline’s cunt."
-    ""
-
-# game/extras.rpy:1152
-translate italian extra_scene_37_93a88dc0:
-
-    # "I kept fucking her with short violent thrusts, while my fingers massaged her clitoris."
-    ""
-
-# game/extras.rpy:1153
-translate italian extra_scene_37_fa4fb548_1:
-
-    # ce "Oh fuck!{w} Oh yes!"
-    ce ""
-
-# game/extras.rpy:1154
-translate italian extra_scene_37_eb1b9f7d:
-
-    # ce "Your thick cock is tearing through my pussy."
-    ce ""
-
-# game/extras.rpy:1156
-translate italian extra_scene_37_4c6b0922:
-
-    # "Still continuing to stimulate her clitoris, I drove her against the wall."
-    ""
-
-# game/extras.rpy:1157
-translate italian extra_scene_37_aaa48859:
-
-    # "Céline obviously enjoyed the double attention her cunt was receiving, as she turned around and grabbed my face to kiss me violently."
-    ""
-
-# game/extras.rpy:1158
-translate italian extra_scene_37_055faeca:
-
-    # ce "Keep going like this, [p_name_short]!"
-    ce ""
-
-# game/extras.rpy:1159
-translate italian extra_scene_37_bc86f3d3:
-
-    # ce "You're going to make me cum so hard!"
-    ce ""
-
-# game/extras.rpy:1164
-translate italian extra_scene_37_64e447c3:
-
-    # "The kissing was making me light-headed, and I had to steady myself for fear of slipping out of Céline's slippery cunt."
-    ""
-
-# game/extras.rpy:1165
-translate italian extra_scene_37_a155b97e:
-
-    # "I wrapped my fingers around her middle and pulled her closer."
-    ""
-
-# game/extras.rpy:1167
-translate italian extra_scene_37_f0906d9f:
-
-    # "Céline made annoyed noises at first, because my fingers were no longer touching her clit."
-    ""
-
-# game/extras.rpy:1168
-translate italian extra_scene_37_5abf4925:
-
-    # "The annoyance soon turned into surprise."
-    ""
-
-# game/extras.rpy:1169
-translate italian extra_scene_37_bb9d630a:
-
-    # "I heard her breath catch as my dick speared inside her at a certain angle."
-    ""
-
-# game/extras.rpy:1171
-translate italian extra_scene_37_8fb365cd:
-
-    # "When the subsequent thrusts elicited increasingly wet sounds from her pussy, I knew I'd hit her sweet spot."
-    ""
-
-# game/extras.rpy:1172
-translate italian extra_scene_37_4d32d15f:
-
-    # "The shudders coursing through Céline's body confirmed my suspicions."
-    ""
-
-# game/extras.rpy:1177
-translate italian extra_scene_37_bd9ff606:
-
-    # ce "Whatever you do...{w} don't stop!"
-    ce ""
-
-# game/extras.rpy:1178
-translate italian extra_scene_37_a042e585:
-
-    # "I kept hitting her deeply in the same position, putting Céline in an almost trance-like state."
-    ""
-
-# game/extras.rpy:1180
-translate italian extra_scene_37_78851557:
-
-    # "Her pussy was dripping with juices by then."
-    ""
-
-# game/extras.rpy:1182
-translate italian extra_scene_37_f9b396d7:
-
-    # ce "I'm so close!"
-    ce ""
-
-# game/extras.rpy:1183
-translate italian extra_scene_37_bc7187b3:
-
-    # ce "I love the feeling of your thick cock inside my tiny pussy!"
-    ce ""
-
-# game/extras.rpy:1185
-translate italian extra_scene_37_ae6c1597:
-
-    # "Céline was so very near her climax, I kept fucking her with steady strokes until I felt her entire body tense up."
-    ""
-
-# game/extras.rpy:1186
-translate italian extra_scene_37_9ff1b78d:
-
-    # "Her pussy constricted around my cock, and Céline wailed."
-    ""
-
-# game/extras.rpy:1187
-translate italian extra_scene_37_f2a00a69:
-
-    # ce "I’m...{w} I...{w} Oh [p_name_short]! [p_name_short]!"
-    ce ""
-
-# game/extras.rpy:1192
-translate italian extra_scene_37_3cacedf1:
-
-    # "I managed to make a few short hard thrusts until my cock was violently ejected from her vagina."
-    ""
-
-# game/extras.rpy:1193
-translate italian extra_scene_37_ab3faea2:
-
-    # "A hard jet of ejaculate followed, splashing against my upper legs."
-    ""
-
-# game/extras.rpy:1195
-translate italian extra_scene_37_9e98beb2:
-
-    # "More squirting followed, Céline rubbing her back against the wall as her orgasm coursed through her body."
-    ""
-
-# game/extras.rpy:1196
-translate italian extra_scene_37_b9be6e17:
-
-    # "She nearly collapsed as more of her pussy juice spattered on the floor."
-    ""
-
-# game/extras.rpy:1201
-translate italian extra_scene_37_acfb5ff7_1:
-
-    # c "I didn’t lie about cumming hard, did I?"
-    c ""
-
-# game/extras.rpy:1202
-translate italian extra_scene_37_04874a34_1:
-
-    # ce "That was so amazing!"
-    ce ""
-
-# game/extras.rpy:1208
-translate italian extra_scene_37_b5110cae_1:
-
-    # c "But we’re far from done here."
-    c ""
-
-# game/extras.rpy:1212
-translate italian extra_scene_37_fd1bac97:
-
-    # "I entered her throbbing wet mound again, picking up the pace where I left off."
-    ""
-
-# game/extras.rpy:1217
 translate italian extra_scene_38_19a0e31b:
 
-    # e "Shall I make you feel good with my mouth?"
-    e ""
 
-# game/extras.rpy:1219
+    e "Ti faccio sentire bene con la mia bocca?"
+
+
 translate italian extra_scene_38_2961bf4e:
 
-    # "My sister had gotten on all fours and hovered over my cock."
-    ""
 
-# game/extras.rpy:1221
+    "Mia sorella si era messa a quattro zampe e si era messa a cavalcioni sul mio cazzo."
+
+
 translate italian extra_scene_38_52a3b597:
 
-    # "My girlfriend had gotten on all fours and hovered over my cock."
-    ""
 
-# game/extras.rpy:1222
+    "La mia ragazza si era messa a quattro zampe e si era messa sopra il mio cazzo."
+
+
 translate italian extra_scene_38_dc1bc716:
 
-    # "The longing look she gave me made me swallow."
-    ""
 
-# game/extras.rpy:1223
+    "Lo sguardo bramoso che mi rivolse mi fece deglutire."
+
+
 translate italian extra_scene_38_9e119c7b:
 
-    # c "How could I refuse?"
-    c ""
 
-# game/extras.rpy:1228
+    c "Come potevo rifiutare?"
+
+
 translate italian extra_scene_38_d23ef4c2:
 
-    # "Eva licked my shaft first, her tongue trailing slowly along the length."
-    ""
 
-# game/extras.rpy:1229
+    "Eva leccò per prima la mia asta, facendo scorrere lentamente la sua lingua lungo tutta la lunghezza."
+
+
 translate italian extra_scene_38_4dc4e545:
 
-    # "The tip of her tongue traced all the veins of my cock tentatively, as if mapping the entirety of it."
-    ""
 
-# game/extras.rpy:1231
+    "La punta della sua lingua ha tracciato tutte le vene del mio uccello in modo incerto, come se ne stesse mappando l'interezza."
+
+
 translate italian extra_scene_38_b4eaf705:
 
-    # e "Will you tell me if I do anything wrong?"
-    e ""
 
-# game/extras.rpy:1232
+    e "Mi dirai se faccio qualcosa di sbagliato?"
+
+
 translate italian extra_scene_38_4a2576e4:
 
-    # e "It’s my first time doing this and I want to get it right."
-    e ""
 
-# game/extras.rpy:1233
+    e "È la prima volta che lo faccio e voglio farlo bene."
+
+
 translate italian extra_scene_38_46a7b3b0:
 
-    # c "Ever the perfectionist."
-    c ""
 
-# game/extras.rpy:1234
+    c "Sempre perfezionista."
+
+
 translate italian extra_scene_38_6611d424:
 
-    # e "You know me."
-    e ""
 
-# game/extras.rpy:1235
+    e "Mi conosci."
+
+
 translate italian extra_scene_38_d2a44c81:
 
-    # e "Does this feel good?"
-    e ""
 
-# game/extras.rpy:1237
+    e "È una bella sensazione?"
+
+
 translate italian extra_scene_38_a6e91254:
 
-    # "Eva licked my shaft again, paying extra attention to the exposed tip."
-    ""
 
-# game/extras.rpy:1238
+    "Eva leccò di nuovo la mia asta, prestando particolare attenzione alla punta esposta."
+
+
 translate italian extra_scene_38_01828a0c:
 
-    # "I shivered as her warm tongue connected to the sensitive skin."
-    ""
 
-# game/extras.rpy:1239
+    "Ho rabbrividito quando la sua lingua calda ha toccato la pelle sensibile."
+
+
 translate italian extra_scene_38_ecc6c234:
 
-    # "Her tongue lingered over the head, Eva keenly aware of the response expressed by my body."
-    ""
 
-# game/extras.rpy:1241
+    "La sua lingua indugiava sulla testa, Eva era consapevole della risposta espressa dal mio corpo."
+
+
 translate italian extra_scene_38_69f24c6d:
 
-    # "Precum pearled out of the tip."
-    ""
 
-# game/extras.rpy:1242
+    "La presborra è fuoriuscito dalla punta."
+
+
 translate italian extra_scene_38_48da2449:
 
-    # e "I guess that does feel good."
-    e ""
 
-# game/extras.rpy:1243
+    e "Immagino che sia una bella sensazione."
+
+
 translate italian extra_scene_38_1a511913:
 
-    # c "It does, don’t stop."
-    c ""
 
-# game/extras.rpy:1244
+    c "È vero, non smettere."
+
+
 translate italian extra_scene_38_a57d6be2:
 
-    # e "Mmmm."
-    e ""
 
-# game/extras.rpy:1246
+    e "Mmmm."
+
+
 translate italian extra_scene_38_9b035822:
 
-    # "My sister licked up the precum that flowed all over the tip of my cock."
-    ""
 
-# game/extras.rpy:1248
+    "Mia sorella leccò la presborra che scorreva sulla punta del mio cazzo."
+
+
 translate italian extra_scene_38_8ee5afb8:
 
-    # "My girlfriend licked up the precum that flowed all over the tip of my cock."
-    ""
 
-# game/extras.rpy:1249
+    "La mia ragazza ha leccato la presborra che scorreva sulla punta del mio cazzo."
+
+
 translate italian extra_scene_38_fb1f53fa:
 
-    # e "Oh!{w} It’s salty!"
-    e ""
 
-# game/extras.rpy:1250
+    e "Oh!{w} È salato!"
+
+
 translate italian extra_scene_38_90cc9a13:
 
-    # e "It tastes a bit like mine."
-    e ""
 
-# game/extras.rpy:1255
+    e "Ha un sapore simile al mio."
+
+
 translate italian extra_scene_38_c433fa5f:
 
-    # "Eva wrapped her mouth around the first inches of my dick."
-    ""
 
-# game/extras.rpy:1256
+    "Eva avvolse la sua bocca intorno ai primi centimetri del mio cazzo."
+
+
 translate italian extra_scene_38_e780c572:
 
-    # "Her tongue darted out again immediately, hungry for more precum."
-    ""
 
-# game/extras.rpy:1257
+    "La sua lingua uscì subito, affamata di altra presborra."
+
+
 translate italian extra_scene_38_a95dc51f:
 
-    # e "Don’t you have more for me?"
-    e ""
 
-# game/extras.rpy:1258
+    e "Non ne hai ancora per me?"
+
+
 translate italian extra_scene_38_ffda32fd:
 
-    # c "I will, if you would just keep going like that."
-    c ""
 
-# game/extras.rpy:1259
+    c "Lo farò, se continuerai a farlo in questo modo."
+
+
 translate italian extra_scene_38_1d5e6da4:
 
-    # e "Like this?"
-    e ""
 
-# game/extras.rpy:1262
+    e "Così?"
+
+
 translate italian extra_scene_38_cd5c9e26:
 
-    # "Eva moved her head down and swallowed more of my cock."
-    ""
 
-# game/extras.rpy:1263
+    "Eva spostò la testa verso il basso e ingoiò ancora di più il mio cazzo."
+
+
 translate italian extra_scene_38_a1ccea64:
 
-    # "When she came up again, her mouth constricted against my throbbing shaft."
-    ""
 
-# game/extras.rpy:1264
+    "Quando risalì, la sua bocca si strinse contro la mia asta pulsante."
+
+
 translate italian extra_scene_38_6202017d:
 
-    # c "Fuck yes, like that!"
-    c ""
 
-# game/extras.rpy:1269
+    c "Cazzo, sì, così!"
+
+
 translate italian extra_scene_38_fed2549f:
 
-    # "Happy with her success, Eva continued on, daring to take more of my girth with each motion."
-    ""
 
-# game/extras.rpy:1270
+    "Felice del suo successo, Eva continuò, osando prendere più della mia circonferenza ad ogni movimento."
+
+
 translate italian extra_scene_38_44e14632:
 
-    # "She was so greedy for more of my ejaculate, that she cleaned everything up as soon as more of it emanated."
-    ""
 
-# game/extras.rpy:1271
+    "Era così avida di avere più eiaculato che ripuliva tutto non appena ne usciva dell'altro."
+
+
 translate italian extra_scene_38_c0cdee07:
 
-    # "The lack of fluids started to grate a little, Eva’s stimulation verging on becoming uncomfortable."
-    ""
 
-# game/extras.rpy:1272
+    "La mancanza di liquidi iniziava a dare fastidio, la stimolazione di Eva stava per diventare scomoda."
+
+
 translate italian extra_scene_38_21f5b2ef:
 
-    # c "Could you use a bit more spit, Eva?"
-    c ""
 
-# game/extras.rpy:1273
+    c "Potresti usare un po' più di saliva, Eva?"
+
+
 translate italian extra_scene_38_4dea6196:
 
-    # e "Oh!{w} Yes, of course."
-    e ""
 
-# game/extras.rpy:1277
+    e "Oh!{w} Sì, certo."
+
+
 translate italian extra_scene_38_0a0f83a2:
 
-    # "My sister let a string of saliva dribble out of her mouth onto my cock."
-    ""
 
-# game/extras.rpy:1279
+    "Mia sorella lasciò che un filo di saliva le colasse dalla bocca sul mio cazzo."
+
+
 translate italian extra_scene_38_db105710:
 
-    # "Eva let a string of saliva dribble out of her mouth onto my cock."
-    ""
 
-# game/extras.rpy:1280
+    "Eva ha lasciato colare un filo di saliva dalla sua bocca sul mio cazzo."
+
+
 translate italian extra_scene_38_8de67ea3:
 
-    # "After rubbing my dick in it, she took my member in her mouth again."
-    ""
 
-# game/extras.rpy:1281
+    "Dopo avermi strofinato il cazzo, prese di nuovo il mio membro in bocca."
+
+
 translate italian extra_scene_38_2db6385a:
 
-    # "This time she made sure to keep my cock nice and wet."
-    ""
 
-# game/extras.rpy:1283
+    "Questa volta si è assicurata di mantenere il mio cazzo bello bagnato."
+
+
 translate italian extra_scene_38_fb10dc84:
 
-    # "I relaxed and took in the sight of my sister blowing me."
-    ""
 
-# game/extras.rpy:1285
+    "Mi rilassai e mi godetti la vista di mia sorella che mi spompinava."
+
+
 translate italian extra_scene_38_9cb220e9:
 
-    # "I relaxed and took in the sight of Eva blowing me."
-    ""
 
-# game/extras.rpy:1287
+    "Mi rilassai e mi godetti la vista di Eva che mi spompinava."
+
+
 translate italian extra_scene_38_c2fcb415:
 
-    # "Her ass stood proudly in the air while her mouth worked wonders."
-    ""
 
-# game/extras.rpy:1288
+    "Il suo culo si ergeva orgoglioso nell'aria mentre la sua bocca faceva miracoli."
+
+
 translate italian extra_scene_38_0066c702:
 
-    # c "That’s it, Eva, keep going like that!"
-    c ""
 
-# game/extras.rpy:1293
+    c "Così, Eva, continua così!"
+
+
 translate italian extra_scene_38_a8b9b736:
 
-    # "Eva sucked my dick with increasing ferocity."
-    ""
 
-# game/extras.rpy:1294
+    "Eva mi succhiava il cazzo con sempre maggiore ferocia."
+
+
 translate italian extra_scene_38_c49ce90c:
 
-    # "The movements of her tongue over the length of my shaft had me on edge constantly."
-    ""
 
-# game/extras.rpy:1296
+    "I movimenti della sua lingua sulla lunghezza della mia asta mi tenevano costantemente sulle spine."
+
+
 translate italian extra_scene_38_66d81587:
 
-    # "I felt the precum oozing inside her mouth at an alarming rate."
-    ""
 
-# game/extras.rpy:1298
+    "Sentivo la presborra che trasudava all'interno della sua bocca a un ritmo allarmante."
+
+
 translate italian extra_scene_38_384209af:
 
-    # "She was getting me ready in record time and visibly enjoyed the power she exerted over me."
-    ""
 
-# game/extras.rpy:1302
+    "Mi stava preparando a tempo di record e godeva visibilmente del potere che esercitava su di me."
+
+
 translate italian extra_scene_38_631912e5:
 
-    # "Eva kept blowing me, ready for my orgasm."
-    ""
 
-# game/extras.rpy:1307
+    "Eva continuava a spompinarmi, pronta per il mio orgasmo."
+
+
 translate italian extra_scene_38_8dfdb7ce:
 
-    # "The moment still surprised her, as did the amount of cum that exploded from my cock."
-    ""
 
-# game/extras.rpy:1308
+    "Il momento la sorprese ancora, così come la quantità di sperma che esplose dal mio cazzo."
+
+
 translate italian extra_scene_38_85b6f47e:
 
-    # "I shot several thick spurts of cum inside Eva’s mouth, which she accepted happily."
-    ""
 
-# game/extras.rpy:1312
+    "Sparai diversi spruzzi densi di sperma nella bocca di Eva, che li accettò con piacere."
+
+
 translate italian extra_scene_38_15348f4a:
 
-    # "Savoring the taste for a short moment, my sister swallowed my entire load in one gulp."
-    ""
 
-# game/extras.rpy:1314
+    "Assaporando il sapore per un breve momento, mia sorella ingoiò tutto il mio carico in un solo sorso."
+
+
 translate italian extra_scene_38_f10e7b7b:
 
-    # "Savoring the taste for a short moment, Eva swallowed my entire load in one gulp."
-    ""
 
-# game/extras.rpy:1316
+    "Assaporando il gusto per un breve momento, Eva ingoiò tutto il mio carico in un solo sorso."
+
+
 translate italian extra_scene_38_e2a8c67e:
 
-    # e "Mmmm, I feel so dirty now."
-    e ""
 
-# game/extras.rpy:1318
+    e "Mmmm, mi sento così sporca ora."
+
+
 translate italian extra_scene_38_0b664ffe:
 
-    # e "You’ve made your own sister into a cum-hungry little slut!"
-    e ""
 
-# game/extras.rpy:1320
+    e "Hai trasformato tua sorella in una piccola troia affamata di sperma!"
+
+
 translate italian extra_scene_38_b4cca928:
 
-    # e "You’ve made me into a cum-hungry little slut!"
-    e ""
 
-# game/extras.rpy:1323
+    e "Hai fatto di me una piccola troia affamata di sperma!"
+
+
 translate italian extra_scene_38_33439679:
 
-    # "Eva kept blowing me, right until I couldn’t hold it any longer."
-    ""
 
-# game/extras.rpy:1328
+    "Eva continuò a spompinarmi, fino a quando non riuscii più a resistere."
+
+
 translate italian extra_scene_38_454a2fed:
 
-    # "At my urging, she pulled my cock from her mouth."
-    ""
 
-# game/extras.rpy:1334
+    "Su mia sollecitazione, estrasse il mio cazzo dalla sua bocca."
+
+
 translate italian extra_scene_38_1f80e79b:
 
-    # "My cock resting against her face, I shot a big load of warm cum onto my sister’s smiling face."
-    ""
 
-# game/extras.rpy:1336
+    "Con il cazzo appoggiato al suo viso, ho sparato un grosso carico di sperma caldo sul viso sorridente di mia sorella."
+
+
 translate italian extra_scene_38_2ad2c5b0:
 
-    # "My cock resting against her face, I shot a big load of warm cum onto Eva’s smiling face."
-    ""
 
-# game/extras.rpy:1339
+    "Il mio cazzo appoggiato al suo viso, ho sparato un grosso carico di sperma caldo sul viso sorridente di Eva."
+
+
 translate italian extra_scene_38_e2a8c67e_1:
 
-    # e "Mmmm, I feel so dirty now."
-    e ""
 
-# game/extras.rpy:1341
+    e "Mmmm, mi sento così sporco ora."
+
+
 translate italian extra_scene_38_6a781e5b:
 
-    # e "You’ve made your own sister into a little slut!"
-    e ""
 
-# game/extras.rpy:1343
+    e "Hai trasformato tua sorella in una piccola troia!"
+
+
 translate italian extra_scene_38_0b45f235:
 
-    # e "You’ve made me into a little slut!"
-    e ""
 
-# game/extras.rpy:1349
+    e "Hai trasformato me in una puttanella!"
+
+
 translate italian extra_scene_38_ed70d8f7:
 
-    # "I almost couldn’t believe my ears, hearing my sister say a thing like that, but the satisfied grin on her face was too infectious."
-    ""
 
-# game/extras.rpy:1351
+    "Quasi non credevo alle mie orecchie sentendo mia sorella dire una cosa del genere, ma il sorriso soddisfatto sul suo viso era troppo contagioso."
+
+
 translate italian extra_scene_38_5a180190:
 
-    # "I almost couldn’t believe my ears, hearing my girlfriend say a thing like that, but the satisfied grin on her face was too infectious."
-    ""
 
-# game/extras.rpy:1352
+    "Quasi non riuscivo a credere alle mie orecchie sentendo la mia ragazza dire una cosa del genere, ma il sorriso soddisfatto sul suo volto era troppo contagioso."
+
+
 translate italian extra_scene_38_27282f8f:
 
-    # "My erection already started growing again, a fact Eva noticed with clear elation."
-    ""
 
-# game/extras.rpy:1354
+    "La mia erezione aveva già ricominciato a crescere, cosa che Eva notò con evidente euforia."
+
+
 translate italian extra_scene_38_1d30f9b0:
 
-    # c "Is my slutty little sister ready to get fucked?"
-    c ""
 
-# game/extras.rpy:1356
+    c "La mia sorellina troia è pronta per essere scopata?"
+
+
 translate italian extra_scene_38_9145808e:
 
-    # c "Is my slutty little girlfriend ready to get fucked?"
-    c ""
 
-# game/extras.rpy:1357
+    c "La mia fidanzatina troia è pronta a farsi scopare?"
+
+
 translate italian extra_scene_38_9b153341:
 
-    # e "Oh I am, very much!"
-    e ""
 
-# game/extras.rpy:1370
+    e "Oh, lo sono, moltissimo!"
+
+
 translate italian extra_scene_39_ed3a20ce:
 
-    # "We both undressed quickly, not wanting to waste the momentum."
-    ""
 
-# game/extras.rpy:1371
+    "Ci spogliammo entrambe velocemente, non volendo sprecare il momento."
+
+
 translate italian extra_scene_39_7a9af1e3:
 
-    # c "God, you’re beautiful."
-    c ""
 
-# game/extras.rpy:1376
+    c "Dio, sei bellissima."
+
+
 translate italian extra_scene_39_d9767356:
 
-    # "Aven twirled around once, a radiant smile on her face."
-    ""
 
-# game/extras.rpy:1378
+    "Aven si girò una volta, con un sorriso radioso sul viso."
+
+
 translate italian extra_scene_39_b9e0b209:
 
-    # "I stepped closer and kissed her."
-    ""
 
-# game/extras.rpy:1379
+    "Mi avvicinai e la baciai."
+
+
 translate italian extra_scene_39_b86d5af6:
 
-    # "Clearly, we both didn’t want to waste any time."
-    ""
 
-# game/extras.rpy:1381
+    "Chiaramente, entrambi non volevamo perdere tempo."
+
+
 translate italian extra_scene_39_ef566be4:
 
-    # "Aven’s hand was around my cock, getting me even harder than I already was."
-    ""
 
-# game/extras.rpy:1382
+    "La mano di Aven era intorno al mio cazzo, facendomi diventare ancora più duro di quanto non lo fossi già."
+
+
 translate italian extra_scene_39_4c21abb7:
 
-    # "I massaged her breasts, her nipples already in a state of arousal."
-    ""
 
-# game/extras.rpy:1383
+    "Le massaggiai i seni, i cui capezzoli erano già in uno stato di eccitazione."
+
+
 translate italian extra_scene_39_4235567f:
 
-    # av "Just take me, I want you inside me!"
-    av ""
 
-# game/extras.rpy:1384
+    av "Prendimi, ti voglio dentro di me!"
+
+
 translate italian extra_scene_39_04df4c27:
 
-    # "I pushed her against the stone wall and lifted her leg."
-    ""
 
-# game/extras.rpy:1389
+    "La spinsi contro il muro di pietra e le sollevai una gamba."
+
+
 translate italian extra_scene_39_78db7aae:
 
-    # "Aven steadied herself against the wall as I rammed my cock inside her slit."
-    ""
 
-# game/extras.rpy:1390
+    "Aven si appoggiò al muro mentre io infilavo il mio cazzo nella sua fessura."
+
+
 translate italian extra_scene_39_b940a15e:
 
-    # av "Oh fuck yes, that’s it!"
-    av ""
 
-# game/extras.rpy:1391
+    av "Oh, cazzo, sì, così!"
+
+
 translate italian extra_scene_39_bdf54369:
 
-    # av "Hit me deeper!"
-    av ""
 
-# game/extras.rpy:1394
+    av "Colpiscimi più a fondo!"
+
+
 translate italian extra_scene_39_3ed4ed84:
 
-    # "I started fucking her with rapid thrusts, her thick ass bouncing alluringly."
-    ""
 
-# game/extras.rpy:1395
+    "Iniziai a scoparla con spinte rapide, il suo culo grosso rimbalzava in modo seducente."
+
+
 translate italian extra_scene_39_cf7294ac:
 
-    # "Aven tried to suppress her ragged moans, but she couldn’t help herself."
-    ""
 
-# game/extras.rpy:1397
+    "Aven cercava di reprimere i suoi gemiti rochi, ma non poteva farne a meno."
+
+
 translate italian extra_scene_39_a75c0bf7:
 
-    # "If anybody got close enough they’d hear us fucking."
-    ""
 
-# game/extras.rpy:1398
+    "Se qualcuno si fosse avvicinato abbastanza, ci avrebbe sentito scopare."
+
+
 translate italian extra_scene_39_848415bf:
 
-    # av "I love this so much, [p_name]!"
-    av ""
 
-# game/extras.rpy:1401
+    av "Mi piace così tanto, [p_name]!"
+
+
 translate italian extra_scene_39_4ae58875:
 
-    # "The position we were in allowed me to go inside my sister very deeply."
-    ""
 
-# game/extras.rpy:1403
+    "La posizione in cui eravamo mi permetteva di penetrare mia sorella molto profondamente."
+
+
 translate italian extra_scene_39_106a7bc6:
 
-    # "The position we were in allowed me to go inside my girlfriend very deeply."
-    ""
 
-# game/extras.rpy:1404
+    "La posizione in cui ci trovavamo mi permetteva di penetrare la mia ragazza molto profondamente."
+
+
 translate italian extra_scene_39_83f4e319:
 
-    # "I could see Aven was straining against the wall, though, and I missed the feeling of her soft breasts in my hands."
-    ""
 
-# game/extras.rpy:1410
+    "Vedevo però che Aven si stava sforzando contro il muro e mi mancava la sensazione dei suoi seni morbidi tra le mani."
+
+
 translate italian extra_scene_39_ec4bfe44:
 
-    # "My cock still inside Aven, I helped her down slightly and faced her."
-    ""
 
-# game/extras.rpy:1411
+    "Con il mio cazzo ancora dentro Aven, la aiutai ad abbassarsi leggermente e mi misi di fronte a lei."
+
+
 translate italian extra_scene_39_ed0e4ff0:
 
-    # "We were very close now, her face pressed against mine."
-    ""
 
-# game/extras.rpy:1412
+    "Eravamo molto vicini ora, il suo viso era premuto contro il mio."
+
+
 translate italian extra_scene_39_e3fec919:
 
-    # "I could feel her breath come out in hot gasps on my bare skin."
-    ""
 
-# game/extras.rpy:1413
+    "Potevo sentire il suo respiro uscire in ansimi caldi sulla mia pelle nuda."
+
+
 translate italian extra_scene_39_e56d494b:
 
-    # c "You’re hot as fuck like this, you know that?"
-    c ""
 
-# game/extras.rpy:1415
+    c "Sei eccitante come un cazzo in questo modo, lo sai?"
+
+
 translate italian extra_scene_39_60695725:
 
-    # av "That’s just because you make me feel so good."
-    av ""
 
-# game/extras.rpy:1416
+    av "È solo perché mi fai sentire così bene."
+
+
 translate italian extra_scene_39_b612762a:
 
-    # av "Tell me more!"
-    av ""
 
-# game/extras.rpy:1417
+    av "Dimmi di più!"
+
+
 translate italian extra_scene_39_25847aa6:
 
-    # c "I love the way my cock fits inside your tight pussy."
-    c ""
 
-# game/extras.rpy:1418
+    c "Adoro il modo in cui il mio cazzo entra nella tua figa stretta."
+
+
 translate italian extra_scene_39_46785eb1:
 
-    # c "I want to bury my face in your breasts and fuck you like there’s no tomorrow."
-    c ""
 
-# game/extras.rpy:1419
+    c "Voglio seppellire il mio viso tra i tuoi seni e scoparti come se non ci fosse un domani."
+
+
 translate italian extra_scene_39_054b491a:
 
-    # av "You are!"
-    av ""
 
-# game/extras.rpy:1420
+    av "Lo sei!"
+
+
 translate italian extra_scene_39_a27d7eee:
 
-    # av "Yes, right there!"
-    av ""
 
-# game/extras.rpy:1422
+    av "Sì, proprio così!"
+
+
 translate italian extra_scene_39_e02ea7fa:
 
-    # "I didn’t stop fucking Aven when we spoke and hit her sensitive spot every time my cock dug into her."
-    ""
 
-# game/extras.rpy:1423
+    "Non ho smesso di scopare Aven mentre parlavamo e ho colpito il suo punto sensibile ogni volta che il mio cazzo scavava dentro di lei."
+
+
 translate italian extra_scene_39_ad151fe7:
 
-    # c "I-I...{w} I don’t think I can hold out much longer."
-    c ""
 
-# game/extras.rpy:1424
+    c "Io...{w} Non credo di poter resistere ancora a lungo."
+
+
 translate italian extra_scene_39_1f5d318f:
 
-    # av "I’m ready!"
-    av ""
 
-# game/extras.rpy:1429
+    av "Sono pronto!"
+
+
 translate italian extra_scene_39_0d7bb467:
 
-    # c "I’m going to flood your womb with my cum."
-    c ""
 
-# game/extras.rpy:1431
+    c "Sto per inondare il tuo utero con il mio sperma."
+
+
 translate italian extra_scene_39_4e47c30d:
 
-    # c "I’m going to flood your pussy with my cum."
-    c ""
 
-# game/extras.rpy:1432
+    c "Inonderò la tua figa con il mio sperma."
+
+
 translate italian extra_scene_39_cbcfadd8:
 
-    # c "You want that, don’t you?"
-    c ""
 
-# game/extras.rpy:1434
+    c "Lo vuoi, vero?"
+
+
 translate italian extra_scene_39_7eba5e7d:
 
-    # av "Yes, I do!"
-    av ""
 
-# game/extras.rpy:1437
+    av "Sì, lo voglio!"
+
+
 translate italian extra_scene_39_0063f4bc:
 
-    # c "You want your brother to impregnate you?"
-    c ""
 
-# game/extras.rpy:1439
+    c "Vuoi che tuo fratello ti ingravidi?"
+
+
 translate italian extra_scene_39_c8f6c9ce:
 
-    # c "You want me to impregnate you?"
-    c ""
 
-# game/extras.rpy:1440
+    c "Vuoi che io ti ingravidi?"
+
+
 translate italian extra_scene_39_bd0cc39a:
 
-    # av "Yes, I want you to breed me!"
-    av ""
 
-# game/extras.rpy:1442
+    av "Sì, voglio che tu mi metta al mondo!"
+
+
 translate italian extra_scene_39_e77cd758:
 
-    # av "Breed your sister, please!"
-    av ""
 
-# game/extras.rpy:1444
+    av "Alleva tua sorella, ti prego!"
+
+
 translate italian extra_scene_39_d81a9521:
 
-    # av "Breed me, please!"
-    av ""
 
-# game/extras.rpy:1447
+    av "Alleva me, ti prego!"
+
+
 translate italian extra_scene_39_673e0705:
 
-    # c "You want your brother’s cum all inside you?"
-    c ""
 
-# game/extras.rpy:1449
+    c "Vuoi lo sperma di tuo fratello tutto dentro di te?"
+
+
 translate italian extra_scene_39_2a0ebbd6:
 
-    # c "You want your boyfriend’s cum all inside you?"
-    c ""
 
-# game/extras.rpy:1450
+    c "Vuoi lo sperma del tuo ragazzo tutto dentro di te?"
+
+
 translate italian extra_scene_39_6ac09347:
 
-    # av "Yes, I want it so much!"
-    av ""
 
-# game/extras.rpy:1455
+    av "Sì, lo voglio così tanto!"
+
+
 translate italian extra_scene_39_e84a5893:
 
-    # "My ecstatic roar split the quiet of the night, as I came inside Aven."
-    ""
 
-# game/extras.rpy:1456
+    "Il mio ruggito estatico squarciò la quiete della notte, mentre venivo dentro Aven."
+
+
 translate italian extra_scene_39_71ba5c56:
 
-    # "Hopefully the others would think it was some desert critter, dying in agony, despite the fact that this planet appeared to be lifeless."
-    ""
 
-# game/extras.rpy:1457
+    "Speriamo che gli altri pensino che si tratti di una creatura del deserto che sta morendo in agonia, nonostante il fatto che il pianeta sembri privo di vita."
+
+
 translate italian extra_scene_39_b412e913:
 
-    # "Holding her tight against me, my cock released a flood of cum inside her vagina."
-    ""
 
-# game/extras.rpy:1458
+    "Tenendola stretta contro di me, il mio cazzo rilasciò un fiume di sperma nella sua vagina."
+
+
 translate italian extra_scene_39_c1c9ede0:
 
-    # "Aven was trembling on her legs, accepting the full brunt of my orgasm with feverish delight."
-    ""
 
-# game/extras.rpy:1462
+    "Aven tremava sulle sue gambe, accogliendo con febbrile piacere tutta la forza del mio orgasmo."
+
+
 translate italian extra_scene_39_d1d1b95b:
 
-    # "My dick slipped out of my sister’s pussy and a stream of cum dribbled on the ground."
-    ""
 
-# game/extras.rpy:1464
+    "Il mio cazzo scivolò fuori dalla figa di mia sorella e un fiotto di sperma colò a terra."
+
+
 translate italian extra_scene_39_9620b48f:
 
-    # "My dick slipped out of my girlfriend’s pussy and a stream of cum dribbled on the ground."
-    ""
 
-# game/extras.rpy:1471
+    "Il mio cazzo è scivolato fuori dalla figa della mia ragazza e un fiotto di sperma è colato a terra."
+
+
 translate italian extra_scene_39_16f8c20b:
 
-    # "I slipped out of Aven’s pussy and let her kneel on the ground."
-    ""
 
-# game/extras.rpy:1477
+    "Uscii dalla figa di Aven e la lasciai inginocchiata a terra."
+
+
 translate italian extra_scene_39_bb3a126b:
 
-    # "With an ecstatic roar that split the quiet of the night, I painted my sister’s face with thick strings of cum."
-    ""
 
-# game/extras.rpy:1479
+    "Con un ruggito estatico che squarciò la quiete della notte, dipinsi il viso di mia sorella con spesse strisce di sperma."
+
+
 translate italian extra_scene_39_24a83654:
 
-    # "With an ecstatic roar that split the quiet of the night, I painted my girlfriend’s face with thick strings of cum."
-    ""
 
-# game/extras.rpy:1482
+    "Con un ruggito estatico che squarciò la quiete della notte, dipinsi il viso della mia ragazza con spessi fili di sperma."
+
+
 translate italian extra_scene_39_ecaae4c4:
 
-    # "Aven licked my seed from the corners of her mouth and swallowed appreciatively."
-    ""
 
-# game/extras.rpy:1487
+    "Aven leccò il mio seme dagli angoli della sua bocca e ingoiò con piacere."
+
+
 translate italian extra_scene_39_149be259:
 
-    # av "Mmmm, this was all I wanted."
-    av ""
 
-# game/extras.rpy:1491
+    av "Mmmm, era tutto quello che volevo."
+
+
 translate italian extra_scene_39_06f73d74:
 
-    # av "Now I need to hurry back, I think Nadya wanted me for something."
-    av ""
 
-# game/extras.rpy:1492
+    av "Ora devo tornare in fretta, credo che Nadya mi volesse per qualcosa."
+
+
 translate italian extra_scene_39_c4b7aacc:
 
-    # c "Ever the researcher."
-    c ""
 
-# game/extras.rpy:1494
+    c "Sempre la solita ricercatrice."
+
+
 translate italian extra_scene_39_7756b366:
 
-    # av "Yeah, though I’d rather be with you and do field research like this."
-    av ""
 
-# game/extras.rpy:1495
+    av "Sì, anche se preferirei stare con te e fare ricerche sul campo come questa."
+
+
 translate italian extra_scene_39_7d06b60f:
 
-    # c "I’ll put in a request to borrow you from Professor Nadya."
-    c ""
 
-# game/extras.rpy:1498
+    c "Chiederò di prestarti alla professoressa Nadya."
+
+
 translate italian extra_scene_39_3e24cac4:
 
-    # av "Haha, I’m sure our mother would be nothing if not accommodating."
-    av ""
 
-# game/extras.rpy:1500
+    av "Haha, sono sicuro che nostra madre non sarebbe altro che accomodante."
+
+
 translate italian extra_scene_39_da529f97:
 
-    # av "Haha, I’m sure Nadya would be nothing if not accommodating."
-    av ""
 
-# game/extras.rpy:1501
+    av "Haha, sono sicuro che Nadya non sarebbe da meno."
+
+
 translate italian extra_scene_39_4075a011:
 
-    # c "Go science!"
-    c ""
 
-# game/extras.rpy:1503
+    c "Forza scienza!"
+
+
 translate italian extra_scene_39_a272a8e4:
 
-    # av "Indeed."
-    av ""
 
-# game/extras.rpy:1504
+    av "Infatti."
+
+
 translate italian extra_scene_39_74b9ff39:
 
-    # av "See you, [p_name_short]."
-    av ""
 
-# game/extras.rpy:1505
+    av "Ci vediamo, [p_name_short]."
+
+
 translate italian extra_scene_39_0850efde:
 
-    # c "Good night, Aven."
-    c ""
 
-# game/extras.rpy:1510
+    c "Buona notte, Aven."
+
+
+
+
 translate italian extra_scene_40_a2f8d68c:
 
-    # na "Mmmm, I long for a taste of my big boy."
-    na ""
 
-# game/extras.rpy:1512
+    na "Mmmm, desidero un assaggio del mio ragazzone."
+
+
 translate italian extra_scene_40_facb22f1:
 
-    # "My mother surprised me by going on her knees in front of me."
-    ""
 
-# game/extras.rpy:1514
+    "Mia madre mi ha sorpreso mettendosi in ginocchio davanti a me."
+
+
 translate italian extra_scene_40_94ffb2b3:
 
-    # na "Mommy wants a taste first..."
-    na ""
 
-# game/extras.rpy:1516
+    na "La mamma vuole prima assaggiare..."
+
+
 translate italian extra_scene_40_8187158b:
 
-    # "Nadya surprised me by going on her knees in front of me."
-    ""
 
-# game/extras.rpy:1518
+    "Nadya mi ha sorpreso mettendosi in ginocchio davanti a me."
+
+
 translate italian extra_scene_40_27d0235c:
 
-    # na "I want a taste first..."
-    na ""
 
-# game/extras.rpy:1519
+    na "Voglio assaggiare prima io..."
+
+
 translate italian extra_scene_40_f387d964:
 
-    # na "Do you think you can handle that?"
-    na ""
 
-# game/extras.rpy:1520
+    na "Pensi di poterlo sopportare?"
+
+
 translate italian extra_scene_40_d78599bd:
 
-    # "I was about to make an assured reply, but then I looked into her lust-filled eyes and my confidence wavered."
-    ""
 
-# game/extras.rpy:1525
+    "Stavo per rispondere con sicurezza, ma poi ho guardato i suoi occhi pieni di lussuria e la mia sicurezza ha vacillato."
+
+
 translate italian extra_scene_40_6901e3da:
 
-    # "She took my cock in her hand and surprised me for a second time by lifting it and pressing her open mouth on my balls, instead of swallowing my shaft."
-    ""
 
-# game/extras.rpy:1527
+    "Prese il mio cazzo in mano e mi sorprese per la seconda volta sollevandolo e premendo la sua bocca aperta sulle mie palle, invece di ingoiare la mia asta."
+
+
 translate italian extra_scene_40_7c810218:
 
-    # "My mother began jerking me with slow strokes as her tongue whirled over my balls."
-    ""
 
-# game/extras.rpy:1529
+    "Mia madre iniziò a masturbarmi con colpi lenti mentre la sua lingua vorticava sulle mie palle."
+
+
 translate italian extra_scene_40_bef1e4ae:
 
-    # "Nadya began jerking me with slow strokes as her tongue whirled over my balls."
-    ""
 
-# game/extras.rpy:1532
+    "Nadya iniziò a masturbarmi con colpi lenti mentre la sua lingua vorticava sulle mie palle."
+
+
 translate italian extra_scene_40_515c1998:
 
-    # "I nearly lost it when she took one of my balls in her mouth and began to suck it."
-    ""
 
-# game/extras.rpy:1534
+    "Stavo per perdere la testa quando prese in bocca una delle mie palle e iniziò a succhiarla."
+
+
 translate italian extra_scene_40_7ca309c3:
 
-    # c "Oh fuck, mom!"
-    c ""
 
-# game/extras.rpy:1536
+    c "Oh cazzo, mamma!"
+
+
 translate italian extra_scene_40_7ce54992:
 
-    # c "Oh fuck, Nadya!"
-    c ""
 
-# game/extras.rpy:1539
+    c "Oh cazzo, Nadya!"
+
+
 translate italian extra_scene_40_952449b3:
 
-    # na "Mmmm, I can tell you like it."
-    na ""
 
-# game/extras.rpy:1540
+    na "Mmmm, posso dire che ti piace."
+
+
 translate italian extra_scene_40_75e055dd:
 
-    # na "You’re growing even harder in my hand."
-    na ""
 
-# game/extras.rpy:1545
+    na "Stai diventando ancora più duro nella mia mano."
+
+
 translate italian extra_scene_40_d323c086:
 
-    # "She took my other testicle in her mouth and gripped my cock tighter."
-    ""
 
-# game/extras.rpy:1546
+    "Prese in bocca l'altro testicolo e strinse più forte il mio cazzo."
+
+
 translate italian extra_scene_40_b659e17f:
 
-    # "The sensation caused me to let out a low growl."
-    ""
 
-# game/extras.rpy:1547
+    "La sensazione mi fece emettere un basso ringhio."
+
+
 translate italian extra_scene_40_a97f3d79:
 
-    # na "You’re not cumming already, are you?"
-    na ""
 
-# game/extras.rpy:1549
+    na "Non stai già sborrando, vero?"
+
+
 translate italian extra_scene_40_acd2f75e:
 
-    # na "Because mommy’s just getting started."
-    na ""
 
-# game/extras.rpy:1551
+    na "Perché la mamma ha appena iniziato."
+
+
 translate italian extra_scene_40_9adc5011:
 
-    # na "Because I’m just getting started."
-    na ""
 
-# game/extras.rpy:1554
+    na "Perché ho appena iniziato."
+
+
 translate italian extra_scene_40_b0c29462:
 
-    # "Her mouth released my balls and she cupped them with her hand."
-    ""
 
-# game/extras.rpy:1556
+    "La sua bocca lasciò le mie palle e le prese con la mano."
+
+
 translate italian extra_scene_40_eff05f58:
 
-    # "My mother’s lips were now pressed against the tip of my dick."
-    ""
 
-# game/extras.rpy:1558
+    "Le labbra di mia madre erano ora premute contro la punta del mio cazzo."
+
+
 translate italian extra_scene_40_8915dfc0:
 
-    # "Nadya’s lips were now pressed against the tip of my dick."
-    ""
 
-# game/extras.rpy:1563
+    "Le labbra di Nadya erano ora premute contro la punta del mio cazzo."
+
+
 translate italian extra_scene_40_775adc1b:
 
-    # "She massaged my testicles as she took my shaft in her mouth."
-    ""
 
-# game/extras.rpy:1564
+    "Mi massaggiò i testicoli mentre prendeva in bocca la mia asta."
+
+
 translate italian extra_scene_40_be2ef37e:
 
-    # "Keeping pressure at the root with her other hand, she worked on the tip with firm strokes."
-    ""
 
-# game/extras.rpy:1565
+    "Con l'altra mano faceva pressione sulla radice e lavorava sulla punta con colpi decisi."
+
+
 translate italian extra_scene_40_8d5d694e:
 
-    # c "Yes, your mouth feels so good."
-    c ""
 
-# game/extras.rpy:1568
+    c "Sì, la tua bocca è così piacevole."
+
+
 translate italian extra_scene_40_4bda881b:
 
-    # c "You enjoy having your son’s dick in your mouth, don’t you?"
-    c ""
 
-# game/extras.rpy:1569
+    c "Ti piace avere il cazzo di tuo figlio in bocca, vero?"
+
+
 translate italian extra_scene_40_869f56c5:
 
-    # "My mother responded by squeezing my balls slightly and increasing the stimulation of my cock with her mouth."
-    ""
 
-# game/extras.rpy:1571
+    "Mia madre rispose stringendomi leggermente le palle e aumentando la stimolazione del mio cazzo con la sua bocca."
+
+
 translate italian extra_scene_40_cbcce166:
 
-    # c "You enjoy having my dick in your mouth, don’t you?"
-    c ""
 
-# game/extras.rpy:1572
+    c "Ti piace avere il mio cazzo in bocca, vero?"
+
+
 translate italian extra_scene_40_b82977b2:
 
-    # "Nadya responded by squeezing my balls slightly and increasing the stimulation of my cock with her mouth."
-    ""
 
-# game/extras.rpy:1574
+    "Nadya rispose stringendomi leggermente le palle e aumentando la stimolazione del mio cazzo con la sua bocca."
+
+
 translate italian extra_scene_40_c6f8a757:
 
-    # "I struggled against the onslaught of her mouth, but each time her mouth slid over my shaft I lost a modicum of control."
-    ""
 
-# game/extras.rpy:1575
+    "Ho lottato contro l'assalto della sua bocca, ma ogni volta che la sua bocca scivolava sulla mia asta perdevo un minimo di controllo."
+
+
 translate italian extra_scene_40_3628eba0:
 
-    # "When one of her fingers started stimulating my taint as well as my balls, I knew she’d won."
-    ""
 
-# game/extras.rpy:1577
+    "Quando una delle sue dita iniziò a stimolare il mio perineo e le mie palle, capii che aveva vinto."
+
+
 translate italian extra_scene_40_261a77da:
 
-    # c "Mom, I’m going to-"
-    c ""
 
-# game/extras.rpy:1579
+    c "Mamma, sto per..."
+
+
 translate italian extra_scene_40_d09866c1:
 
-    # c "Nadya, I’m going to-"
-    c ""
 
-# game/extras.rpy:1584
+    c "Nadya, sto per..."
+
+
 translate italian extra_scene_40_fa47c105:
 
-    # c "I want to cum all over your face!"
-    c ""
 
-# game/extras.rpy:1586
+    c "Voglio sborrare sulla tua faccia!"
+
+
 translate italian extra_scene_40_93b90a1d:
 
-    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1588
+    "Mia madre mi ha succhiato l'uccello fino a quando non ha sentito il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_7690966c:
 
-    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1593
+    "Nadya mi ha succhiato l'uccello fino a quando non ha sentito il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_2408d3a8:
 
-    # "She released my member from her mouth and it began to spray cum immediately."
-    ""
 
-# game/extras.rpy:1597
+    "Ha liberato il mio membro dalla sua bocca e questo ha iniziato a spruzzare immediatamente sperma."
+
+
 translate italian extra_scene_40_d23ab357:
 
-    # "Thick ropes of warm cum were lathered onto her face, as my mother still cupped my drained balls in her hand."
-    ""
 
-# game/extras.rpy:1599
+    "Spesse corde di sborra calda si spalmarono sul suo viso, mentre mia madre continuava a stringere le mie palle svuotate nella sua mano."
+
+
 translate italian extra_scene_40_d8204ea9:
 
-    # "Thick ropes of warm cum were lathered onto her face, as Nadya still cupped my drained balls in her hand."
-    ""
 
-# game/extras.rpy:1602
+    "Spesse corde di sperma caldo si spalmarono sul suo viso, mentre Nadya continuava a stringere le mie palle svuotate nella sua mano."
+
+
 translate italian extra_scene_40_042c8879:
 
-    # c "I want you to swallow it all!"
-    c ""
 
-# game/extras.rpy:1604
+    c "Voglio che tu lo ingoi tutto!"
+
+
 translate italian extra_scene_40_93b90a1d_1:
 
-    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1606
+    "Mia madre succhiò il mio cazzo fino a quando non sentì il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_7690966c_1:
 
-    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1611
+    "Nadya succhiò il mio cazzo finché non sentì il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_a6ccc4a9:
 
-    # "She released my member from her mouth and it began to spray cum immediately into her open mouth."
-    ""
 
-# game/extras.rpy:1614
+    "Ha liberato il mio membro dalla sua bocca e questo ha iniziato a spruzzare sperma immediatamente nella sua bocca aperta."
+
+
 translate italian extra_scene_40_1149bc18:
 
-    # "I deposited thick ropes of warm cum into her open mouth."
-    ""
 
-# game/extras.rpy:1617
+    "Depositai delle spesse corde di sperma caldo nella sua bocca aperta."
+
+
 translate italian extra_scene_40_182dfec6:
 
-    # "My mother swallowed my seed eagerly, looking me in the eye intently all of the time."
-    ""
 
-# game/extras.rpy:1619
+    "Mia madre ingoiò avidamente il mio seme, guardandomi intensamente negli occhi per tutto il tempo."
+
+
 translate italian extra_scene_40_2ae1bcc4:
 
-    # "Nadya swallowed my seed eagerly, looking me in the eye intently all of the time."
-    ""
 
-# game/extras.rpy:1620
+    "Nadya ha ingoiato il mio seme con impazienza, guardandomi negli occhi per tutto il tempo."
+
+
 translate italian extra_scene_40_269d4a4d:
 
-    # na "Mmmm, you taste so good."
-    na ""
 
-# game/extras.rpy:1624
+    na "Mmmm, hai un sapore così buono."
+
+
 translate italian extra_scene_40_93b90a1d_2:
 
-    # "My mother sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1626
+    "Mia madre succhiò il mio uccello fino a quando non sentì il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_7690966c_2:
 
-    # "Nadya sucked on my cock until she felt my orgasm roaring to the fore."
-    ""
 
-# game/extras.rpy:1631
+    "Nadya succhiò il mio cazzo finché non sentì il mio orgasmo ruggire in primo piano."
+
+
 translate italian extra_scene_40_2408d3a8_1:
 
-    # "She released my member from her mouth and it began to spray cum immediately."
-    ""
 
-# game/extras.rpy:1635
+    "Rilasciò il mio membro dalla sua bocca e questo iniziò subito a spruzzare sperma."
+
+
 translate italian extra_scene_40_97809770:
 
-    # "Thick ropes of warm cum were lathered onto her breasts, as my mother still cupped my drained balls in her hand."
-    ""
 
-# game/extras.rpy:1637
+    "Spesse corde di sborra calda si spalmarono sui suoi seni, mentre mia madre continuava a stringere le mie palle svuotate nella sua mano."
+
+
 translate italian extra_scene_40_a532ef2e:
 
-    # "Thick ropes of warm cum were lathered onto her breasts, as Nadya still cupped my drained balls in her hand."
-    ""
 
-# game/extras.rpy:1644
+    "Spesse corde di sperma caldo si spalmavano sui suoi seni, mentre Nadya continuava a stringere le mie palle svuotate nella sua mano."
+
+
 translate italian extra_scene_40_386eb949:
 
-    # "My mother stood up and wrapped her arms around me."
-    ""
 
-# game/extras.rpy:1646
+    "Mia madre si alzò e mi abbracciò."
+
+
 translate italian extra_scene_40_57845543:
 
-    # "Nadya stood up and wrapped her arms around me."
-    ""
 
-# game/extras.rpy:1647
+    "Nadya si alzò e mi abbracciò."
+
+
 translate italian extra_scene_40_0f963a49:
 
-    # "We exchanged a lustful kiss."
-    ""
 
-# game/extras.rpy:1648
+    "Ci scambiammo un bacio lussurioso."
+
+
 translate italian extra_scene_40_32852e4f:
 
-    # na "You’re not done yet, are you?"
-    na ""
 
-# game/extras.rpy:1649
+    na "Non hai ancora finito, vero?"
+
+
 translate italian extra_scene_40_f5449bc8:
 
-    # na "Because I’m not."
-    na ""
 
-# game/extras.rpy:1650
+    na "Perché io non ho finito."
+
+
 translate italian extra_scene_40_60db654e:
 
-    # na "And I know my boy still has more to give."
-    na ""
 
-# game/extras.rpy:1652
+    na "E so che il mio ragazzo ha ancora molto da dare."
+
+
 translate italian extra_scene_40_44589ccf:
 
-    # na "You’re not going to deny your mother a long hard fuck, are you?"
-    na ""
 
-# game/extras.rpy:1654
+    na "Non negherai a tua madre una lunga e dura scopata, vero?"
+
+
 translate italian extra_scene_40_ed7cf717:
 
-    # na "You’re not going to deny me a long hard fuck, are you?"
-    na ""
 
-# game/extras.rpy:1655
+    na "Non mi negherai una lunga e dura scopata, vero?"
+
+
 translate italian extra_scene_40_162d3be9:
 
-    # "With that statement, my erection came to life again."
-    ""
 
-# game/extras.rpy:1662
+    "Con questa affermazione, la mia erezione riprese vita."
+
+
 translate italian extra_scene_41_08c0f7db:
 
-    # "Raene and I lay together for a while, both breathing heavily from exertion."
-    ""
 
-# game/extras.rpy:1663
+    "Io e Raene rimanemmo sdraiati per un po', respirando entrambi pesantemente per lo sforzo."
+
+
 translate italian extra_scene_41_2dfcc344:
 
-    # "I was about to doze off, when I felt Raene’s dick stiffening against my body again."
-    ""
 
-# game/extras.rpy:1664
+    "Stavo per assopirmi, quando sentii il cazzo di Raene irrigidirsi di nuovo contro il mio corpo."
+
+
 translate italian extra_scene_41_11b38228:
 
-    # "My cock began to grow as well."
-    ""
 
-# game/extras.rpy:1666
+    "Anche il mio cazzo ha iniziato a crescere."
+
+
 translate italian extra_scene_41_f44d6850:
 
-    # c "Considering what I feel poking in my hip right now, I’d love to know what you’re thinking about."
-    c ""
 
-# game/extras.rpy:1667
+    c "Considerando ciò che sento pulsare nel mio fianco in questo momento, mi piacerebbe sapere a cosa stai pensando."
+
+
 translate italian extra_scene_41_1e5bf561:
 
-    # ra "Oh...{w} Uh...{w} I was just thinking about how it felt when you were inside me just now."
-    ra ""
 
-# game/extras.rpy:1668
+    ra "Oh...{w} Ehm...{w} Stavo solo pensando a come mi sentivo quando eri dentro di me poco fa."
+
+
 translate italian extra_scene_41_ff555e96:
 
-    # c "And that thought made you hard almost immediately?"
-    c ""
 
-# game/extras.rpy:1669
+    c "E questo pensiero ti ha fatto diventare duro quasi subito?"
+
+
 translate italian extra_scene_41_d7e3e0a5:
 
-    # ra "You don’t know how good it felt."
-    ra ""
 
-# game/extras.rpy:1670
+    ra "Non sai quanto sia stato bello."
+
+
 translate italian extra_scene_41_1b0ec263:
 
-    # c "I have a pretty good idea..."
-    c ""
 
-# game/extras.rpy:1671
+    c "Ho un'idea piuttosto precisa..."
+
+
 translate italian extra_scene_41_84c524b9:
 
-    # c "We could go again, if you’re up to it."
-    c ""
 
-# game/extras.rpy:1673
+    c "Potremmo rifarlo, se te la senti."
+
+
 translate italian extra_scene_41_c49a8eab:
 
-    # ra "Really?!"
-    ra ""
 
-# game/extras.rpy:1674
+    ra "Davvero?!"
+
+
 translate italian extra_scene_41_93ea1599:
 
-    # ra "I mean, yes, I’d like that very much."
-    ra ""
 
-# game/extras.rpy:1675
+    ra "Voglio dire, sì, mi piacerebbe molto."
+
+
 translate italian extra_scene_41_60634812:
 
-    # "Raene lounged on the bed and spread her legs for me."
-    ""
 
-# game/extras.rpy:1680
+    "Raene si sdraiò sul letto e allargò le gambe per me."
+
+
 translate italian extra_scene_41_4cd91d8a:
 
-    # "I grabbed one of her legs and pushed my cock against her asshole."
-    ""
 
-# game/extras.rpy:1681
+    "Afferrai una delle sue gambe e spinsi il mio cazzo contro il suo buco del culo."
+
+
 translate italian extra_scene_41_0e5bd173:
 
-    # "Raene spread her ass cheeks a little further as I started pushing my dick inside her."
-    ""
 
-# game/extras.rpy:1683
+    "Raene allargò un po' di più le guance mentre io iniziavo a spingere il mio cazzo dentro di lei."
+
+
 translate italian extra_scene_41_a4427ee8:
 
-    # "The creampie I’d left earlier lubricated her hole nicely, and I slipped in."
-    ""
 
-# game/extras.rpy:1685
+    "La cremina che le avevo lasciato prima lubrificava bene il suo buco e io scivolai dentro di lei."
+
+
 translate italian extra_scene_41_ec469440:
 
-    # "The after-effects of her orgasm had made her relaxed, so I slipped inside her with relative ease."
-    ""
 
-# game/extras.rpy:1687
+    "I postumi dell'orgasmo l'avevano resa rilassata, così scivolai dentro di lei con relativa facilità."
+
+
 translate italian extra_scene_41_30d9dc13:
 
-    # ra "Oh yes!"
-    ra ""
 
-# game/extras.rpy:1688
+    ra "Oh sì!"
+
+
 translate italian extra_scene_41_959e5c7a:
 
-    # ra "Your dick in my ass feels so right!"
-    ra ""
 
-# game/extras.rpy:1689
+    ra "Il tuo cazzo nel mio culo è una sensazione bellissima!"
+
+
 translate italian extra_scene_41_310edeb5:
 
-    # c "You like it a lot, don’t you, Raene?"
-    c ""
 
-# game/extras.rpy:1690
+    c "Ti piace molto, vero Raene?"
+
+
 translate italian extra_scene_41_2cb04444:
 
-    # ra "I love it so much!"
-    ra ""
 
-# game/extras.rpy:1696
+    ra "Mi piace tantissimo!"
+
+
 translate italian extra_scene_41_2c4806a4:
 
-    # "I began to move inside her and Raene let out a shuddering breath."
-    ""
 
-# game/extras.rpy:1697
+    "Cominciai a muovermi dentro di lei e Raene emise un respiro tremante."
+
+
 translate italian extra_scene_41_013d5e3d:
 
-    # c "You’re my little buttslut, aren’t you, Raene?"
-    c ""
 
-# game/extras.rpy:1698
+    c "Sei la mia piccola svergognata, vero Raene?"
+
+
 translate italian extra_scene_41_a6c2a174:
 
-    # ra "Yes, I am!"
-    ra ""
 
-# game/extras.rpy:1699
+    ra "Sì, lo sono!"
+
+
 translate italian extra_scene_41_0776ad35:
 
-    # "It felt so good being inside Raene’s tight ass again."
-    ""
 
-# game/extras.rpy:1702
+    "Era così bello essere di nuovo dentro il culo stretto di Raene."
+
+
 translate italian extra_scene_41_678a4bd0:
 
-    # "My shaft brushed against her fingers, every time my cock slid out of her asshole, increasing my arousal even more."
-    ""
 
-# game/extras.rpy:1703
+    "La mia asta sfiorava le sue dita ogni volta che il mio cazzo scivolava fuori dal suo culo, aumentando ancora di più la mia eccitazione."
+
+
 translate italian extra_scene_41_8a3da393:
 
-    # "As we both reached fever pitch, a sudden urge came over me."
-    ""
 
-# game/extras.rpy:1704
+    "Quando entrambi raggiungemmo il livello di febbre, un impulso improvviso mi assalì."
+
+
 translate italian extra_scene_41_d5e7301b:
 
-    # "I wanted to drink in her scent, possess every inch of her body and breed her asshole, because nothing else mattered."
-    ""
 
-# game/extras.rpy:1710
+    "Volevo assaporare il suo profumo, possedere ogni centimetro del suo corpo e penetrare il suo buco del culo, perché non importava nient'altro."
+
+
 translate italian extra_scene_41_97250238:
 
-    # "Pushing against her legs, I lifted her butt of the bed and began to fuck her ass with deep strokes."
-    ""
 
-# game/extras.rpy:1711
+    "Spingendo contro le sue gambe, le sollevai il sedere dal letto e iniziai a scoparle il culo con colpi profondi."
+
+
 translate italian extra_scene_41_558b81ec:
 
-    # "Within seconds, I had Raene reduced to gibbering cries of lust."
-    ""
 
-# game/extras.rpy:1712
+    "Nel giro di pochi secondi, Raene era ridotta a urlare di lussuria."
+
+
 translate italian extra_scene_41_4d96114a:
 
-    # "When she was able to form at least parts of a sentence, she urged me to go on."
-    ""
 
-# game/extras.rpy:1714
+    "Quando fu in grado di formulare almeno una parte di frase, mi esortò a continuare."
+
+
 translate italian extra_scene_41_0dcf824f:
 
-    # ra "Don’t stop!{w} Keep hitting me there!{w} Oh yes!"
-    ra ""
 
-# game/extras.rpy:1715
+    ra "Non fermarti! {w} Continua a colpirmi lì! {w} Oh sì!"
+
+
 translate italian extra_scene_41_9e6317af:
 
-    # "In the knowledge I’d struck gold, I kept my thrusts angled and even."
-    ""
 
-# game/extras.rpy:1717
+    "Consapevole di aver trovato l'oro, mantenni le mie spinte angolate e regolari."
+
+
 translate italian extra_scene_41_b33785b7:
 
-    # "Raene took a series of halted breaths and precum started flowing from the tip of her cock."
-    ""
 
-# game/extras.rpy:1718
+    "Raene fece una serie di respiri affannosi e la presborra iniziò a scorrere dalla punta del suo cazzo."
+
+
 translate italian extra_scene_41_e360a523:
 
-    # c "I’m going to make you cum so hard, Raene."
-    c ""
 
-# game/extras.rpy:1719
+    c "Ti farò sborrare così tanto, Raene."
+
+
 translate italian extra_scene_41_1caaa92b:
 
-    # c "You’re going to make such a mess of that pretty body of yours."
-    c ""
 
-# game/extras.rpy:1721
+    c "Farai un tale casino con quel tuo bel corpo."
+
+
 translate italian extra_scene_41_899abc8c:
 
-    # ra "I-I-I want to!"
-    ra ""
 
-# game/extras.rpy:1722
+    ra "Io... io... lo voglio!"
+
+
 translate italian extra_scene_41_6b2d94d6:
 
-    # ra "Make me cum, [p_name]!"
-    ra ""
 
-# game/extras.rpy:1723
+    ra "Fammi sborrare, [p_name]!"
+
+
 translate italian extra_scene_41_8b7b6cf3:
 
-    # "Hitting her prostate once again I managed to open the floodgates."
-    ""
 
-# game/extras.rpy:1728
+    "Colpendo ancora una volta la sua prostata, riuscii ad aprire le cateratte."
+
+
 translate italian extra_scene_41_b836adb8:
 
-    # "Raene trembled in ecstasy as her cock spewed a flood of cum into the air."
-    ""
 
-# game/extras.rpy:1729
+    "Raene tremava in estasi mentre il suo cazzo vomitava una marea di sperma nell'aria."
+
+
 translate italian extra_scene_41_74181fe0:
 
-    # "Her orgasm was so violent I was afraid she’d lose consciousness."
-    ""
 
-# game/extras.rpy:1732
+    "Il suo orgasmo fu così violento che temevo potesse perdere i sensi."
+
+
 translate italian extra_scene_41_de7fa4e0:
 
-    # "Luckily she didn’t pass out and rode her climax to the very edge, pumping cum all over her body."
-    ""
 
-# game/extras.rpy:1733
+    "Per fortuna non è svenuta e ha cavalcato il suo climax fino al limite, pompando sperma su tutto il corpo."
+
+
 translate italian extra_scene_41_87d9ce19:
 
-    # "It took a while for her fevered eyes to regain focus and look at me."
-    ""
 
-# game/extras.rpy:1734
+    "Ci volle un po' prima che i suoi occhi febbricitanti recuperassero la concentrazione e mi guardassero."
+
+
 translate italian extra_scene_41_37eefac9:
 
-    # "Her cock still twitched and released small pearls of fluid, dripping onto her abdomen."
-    ""
 
-# game/extras.rpy:1736
+    "Il suo cazzo si contraeva ancora e rilasciava piccole perle di liquido che le colavano sull'addome."
+
+
 translate italian extra_scene_41_b87ace6d:
 
-    # ra "You make me feel so good!"
-    ra ""
 
-# game/extras.rpy:1740
+    ra "Mi fai sentire così bene!"
+
+
 translate italian extra_scene_41_321ff256:
 
-    # c "You want me to cum in your ass again, don't you?"
-    c ""
 
-# game/extras.rpy:1741
+    c "Vuoi che ti sborri di nuovo nel culo, vero?"
+
+
 translate italian extra_scene_41_068ab7e9:
 
-    # ra "I wouldn’t want it anywhere else."
-    ra ""
 
-# game/extras.rpy:1742
+    ra "Non lo vorrei da nessun'altra parte."
+
+
 translate italian extra_scene_41_4d9cd079:
 
-    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
-    ""
 
-# game/extras.rpy:1743
+    "L'ano di Raene si stava ancora restringendo nei postumi del suo orgasmo e questo fece sì che anch'io raggiungessi l'orgasmo."
+
+
 translate italian extra_scene_41_77e6a5f5:
 
-    # c "I’m going to breed that ass!"
-    c ""
 
-# game/extras.rpy:1744
+    c "Mi farò quel culo!"
+
+
 translate italian extra_scene_41_f95a0301:
 
-    # ra "Yes, yes, oh yes!"
-    ra ""
 
-# game/extras.rpy:1749
+    ra "Sì, sì, oh sì!"
+
+
 translate italian extra_scene_41_02f5aea6:
 
-    # "Deep inside her ass my cock exploded and flooded her bowels with warm cum."
-    ""
 
-# game/extras.rpy:1752
+    "Nel profondo del suo culo il mio cazzo esplose e inondò il suo intestino di caldo sperma."
+
+
 translate italian extra_scene_41_4cc43aae:
 
-    # "I stayed as long as possible inside her and then removed my cock to allow my cum to ooze freely from her winking asshole."
-    ""
 
-# game/extras.rpy:1755
+    "Rimasi il più a lungo possibile dentro di lei e poi rimossi il mio cazzo per permettere al mio sperma di trasudare liberamente dal suo buco del culo ammiccante."
+
+
 translate italian extra_scene_41_bc6fb699:
 
-    # c "I’m going to make an even greater mess of your body."
-    c ""
 
-# game/extras.rpy:1756
+    c "Farò un casino ancora più grande del tuo corpo."
+
+
 translate italian extra_scene_41_46d51160:
 
-    # ra "Yes, cum for me, [p_name]!"
-    ra ""
 
-# game/extras.rpy:1757
+    ra "Sì, sborra per me, [p_name]!"
+
+
 translate italian extra_scene_41_4d9cd079_1:
 
-    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
-    ""
 
-# game/extras.rpy:1762
+    "L'ano di Raene si stava ancora restringendo nei postumi del suo orgasmo e questo fece sì che anch'io raggiungessi l'orgasmo."
+
+
 translate italian extra_scene_41_5570d065:
 
-    # "I pulled out of her ass and my cock exploded all over her body."
-    ""
 
-# game/extras.rpy:1765
+    "Uscii dal suo culo e il mio cazzo esplose su tutto il suo corpo."
+
+
 translate italian extra_scene_41_ded9ed6e:
 
-    # "Cum shot out as far as her breasts, leaving her upper body coated in my warm cum."
-    ""
 
-# game/extras.rpy:1768
+    "Lo sperma le uscì fino ai seni, lasciando la parte superiore del corpo ricoperta dal mio sperma caldo."
+
+
 translate italian extra_scene_41_52acdf3e:
 
-    # c "I want to make a mess of that pretty face of yours."
-    c ""
 
-# game/extras.rpy:1769
+    c "Voglio sporcare quel tuo bel viso."
+
+
 translate italian extra_scene_41_02664792:
 
-    # ra "Oh yes, feed me your cum, [p_name]!"
-    ra ""
 
-# game/extras.rpy:1770
+    ra "Oh sì, dammi il tuo sperma, [p_name]!"
+
+
 translate italian extra_scene_41_4d9cd079_2:
 
-    # "Raene’s anus was still constricting in the afterthroes of her orgasm and it caused me to climax as well."
-    ""
 
-# game/extras.rpy:1775
+    "L'ano di Raene si stava ancora restringendo nei postumi del suo orgasmo e questo fece sì che anch'io raggiungessi l'orgasmo."
+
+
 translate italian extra_scene_41_a42731e5:
 
-    # "I pulled out of her ass, jumped off the bed and stood over her naked body."
-    ""
 
-# game/extras.rpy:1780
+    "Mi sfilai dal suo culo, saltai giù dal letto e mi misi in piedi davanti al suo corpo nudo."
+
+
 translate italian extra_scene_41_52468778:
 
-    # "With one stroke of my hand, cum sprayed over her face and into her open mouth."
-    ""
 
-# game/extras.rpy:1783
+    "Con un colpo di mano, lo sperma spruzzò sul suo viso e nella sua bocca aperta."
+
+
 translate italian extra_scene_41_19fd14a6:
 
-    # "When my cock stopped twitching, Raene’s face was covered in my warm cum."
-    ""
 
-# game/extras.rpy:1794
+    "Quando il mio cazzo smise di contrarsi, il viso di Raene era ricoperto del mio sperma caldo."
+
+
 translate italian extra_scene_42_3c4230e8:
 
-    # e "Wait a minute, are you growing hard again?"
-    e ""
 
-# game/extras.rpy:1796
+    e "Aspetta un attimo, ti sta tornando duro?"
+
+
 translate italian extra_scene_42_39fafa78:
 
-    # c "Maybe...{w} It’s all that talk about cumming inside you."
-    c ""
 
-# game/extras.rpy:1798
+    c "Forse...{w} È tutto quel parlare di sborrare dentro di te."
+
+
 translate italian extra_scene_42_3bbc8a78:
 
-    # c "Maybe...{w} It’s all that talk about having sex with you."
-    c ""
 
-# game/extras.rpy:1799
+    c "Forse... {w} È tutto quel parlare di fare sesso con te."
+
+
 translate italian extra_scene_42_94329641:
 
-    # c "Let’s just talk about optimizing the power distribution of the Bastard and it will soon shrivel back to nothing."
-    c ""
 
-# game/extras.rpy:1801
+    c "Parliamo solo di ottimizzare la distribuzione della potenza del Bastardo e presto si ridurrà a zero."
+
+
 translate italian extra_scene_42_9eeac23f:
 
-    # e "We certainly won’t be doing that."
-    e ""
 
-# game/extras.rpy:1802
+    e "Di certo non lo faremo."
+
+
 translate italian extra_scene_42_b2093ec9:
 
-    # c "We’re not?"
-    c ""
 
-# game/extras.rpy:1803
+    c "Non lo faremo?"
+
+
 translate italian extra_scene_42_92398e13:
 
-    # "I could already tell where this was leading, but I had too much fun drawing it out of her."
-    ""
 
-# game/extras.rpy:1804
+    "Avevo già capito dove si andava a parare, ma mi sono divertito troppo a farglielo capire."
+
+
 translate italian extra_scene_42_aeaead8e:
 
-    # e "Nope, we’re going to have sex again, of course."
-    e ""
 
-# game/extras.rpy:1805
+    e "No, faremo di nuovo sesso, ovviamente."
+
+
 translate italian extra_scene_42_82878a68:
 
-    # c "Well, only if you really want to..."
-    c ""
 
-# game/extras.rpy:1807
+    c "Beh, solo se lo vuoi davvero..."
+
+
 translate italian extra_scene_42_7e5be565:
 
-    # e "What?"
-    e ""
 
-# game/extras.rpy:1809
+    e "Cosa?"
+
+
 translate italian extra_scene_42_5f1e2059:
 
-    # e "If I didn’t know you any better, I’d say you were reluctant to fuck your own sister..."
-    e ""
 
-# game/extras.rpy:1811
+    e "Se non ti conoscessi meglio, direi che sei riluttante a scoparti tua sorella..."
+
+
 translate italian extra_scene_42_3c393c9c:
 
-    # e "If I didn’t know you any better, I’d say you were reluctant to fuck me..."
-    e ""
 
-# game/extras.rpy:1812
+    e "Se non ti conoscessi meglio, direi che sei riluttante a scopare con me..."
+
+
 translate italian extra_scene_42_69a94ab2:
 
-    # e "I’ll get off on my own then."
-    e ""
 
-# game/extras.rpy:1813
+    e "Allora me la caverò da sola."
+
+
 translate italian extra_scene_42_aee095a0:
 
-    # c "Hold your horses, you little minx!"
-    c ""
 
-# game/extras.rpy:1814
+    c "Non ti preoccupare, piccola sgualdrina!"
+
+
 translate italian extra_scene_42_5f545dd1:
 
-    # c "Of course I want you."
-    c ""
 
-# game/extras.rpy:1815
+    c "Certo che ti voglio."
+
+
 translate italian extra_scene_42_a4dca0e3:
 
-    # e "You had me worried there."
-    e ""
 
-# game/extras.rpy:1816
+    e "Mi hai fatto preoccupare."
+
+
 translate italian extra_scene_42_7563520d:
 
-    # c "I was just messing with you."
-    c ""
 
-# game/extras.rpy:1817
+    c "Ti stavo solo prendendo in giro."
+
+
 translate italian extra_scene_42_7dc9ab89:
 
-    # e "I should have known."
-    e ""
 
-# game/extras.rpy:1819
+    e "Avrei dovuto capirlo."
+
+
 translate italian extra_scene_42_85d49d85:
 
-    # "I was about to pull her to me, but she slapped my hand away."
-    ""
 
-# game/extras.rpy:1820
+    "Stavo per tirarla a me, ma lei mi ha dato uno schiaffo."
+
+
 translate italian extra_scene_42_ebf214e4:
 
-    # e "No, you don’t get to do that now."
-    e ""
 
-# game/extras.rpy:1821
+    e "No, non puoi farlo ora."
+
+
 translate italian extra_scene_42_1d11ae19:
 
-    # e "I liked being in control just before."
-    e ""
 
-# game/extras.rpy:1826
+    e "Mi piaceva avere il controllo prima."
+
+
 translate italian extra_scene_42_c23e8511:
 
-    # "Before I could protest, she climbed on top of me."
-    ""
 
-# game/extras.rpy:1827
+    "Prima che potessi protestare, si arrampicò su di me."
+
+
 translate italian extra_scene_42_c6263d64:
 
-    # "Straddling my body, Eva guided my hard cock inside her tight slit."
-    ""
 
-# game/extras.rpy:1828
+    "A cavalcioni sul mio corpo, Eva guidò il mio cazzo duro all'interno della sua stretta fessura."
+
+
 translate italian extra_scene_42_64ae28ef:
 
-    # c "You were surprised I got horny again so fast, but your wet pussy is telling me the same story."
-    c ""
 
-# game/extras.rpy:1830
+    c "Eri sorpresa che mi fossi eccitato di nuovo così in fretta, ma la tua figa bagnata mi sta raccontando la stessa storia."
+
+
 translate italian extra_scene_42_3b54fa7d:
 
-    # e "Mmmm, some of it is yours, but I won’t deny getting wet just thinking of you sometimes."
-    e ""
 
-# game/extras.rpy:1832
+    e "Mmmm, in parte è tua, ma non nego che a volte mi bagno solo pensando a te."
+
+
 translate italian extra_scene_42_389a42b4:
 
-    # e "I won’t deny getting wet just thinking of you sometimes."
-    e ""
 
-# game/extras.rpy:1834
+    e "Non posso negare di essermi bagnata solo pensando a te a volte."
+
+
 translate italian extra_scene_42_0fa1b3e0:
 
-    # "I thrust my hips in response, causing my dick to slide deeper inside my sister."
-    ""
 
-# game/extras.rpy:1836
+    "Spingo i fianchi in risposta, facendo scivolare il mio cazzo più a fondo dentro mia sorella."
+
+
 translate italian extra_scene_42_7f38d06f:
 
-    # "I thrust my hips in response, causing my dick to slide deeper inside her."
-    ""
 
-# game/extras.rpy:1837
+    "Spingo i fianchi in risposta, facendo scivolare il mio cazzo più a fondo dentro di lei."
+
+
 translate italian extra_scene_42_0176e7c3:
 
-    # e "Hey!{w} I was supposed to be in control."
-    e ""
 
-# game/extras.rpy:1838
+    e "Ehi! {w} Dovevo avere io il controllo."
+
+
 translate italian extra_scene_42_e6d28111:
 
-    # e "Down boy!"
-    e ""
 
-# game/extras.rpy:1843
+    e "Giù, ragazzo!"
+
+
 translate italian extra_scene_42_a505be92:
 
-    # "Eva bent backward and rested the palms of her hands on my chest, I steadied my hands on her ass."
-    ""
 
-# game/extras.rpy:1844
+    "Eva si piegò all'indietro e appoggiò i palmi delle sue mani sul mio petto, mentre io appoggiavo le mie mani sul suo sedere."
+
+
 translate italian extra_scene_42_b3a1e4c3:
 
-    # "She began to slowly grind on my cock."
-    ""
 
-# game/extras.rpy:1845
+    "Iniziò a strusciarsi lentamente sul mio cazzo."
+
+
 translate italian extra_scene_42_e7b07002:
 
-    # e "Mmmm, this feels so good."
-    e ""
 
-# game/extras.rpy:1847
+    e "Mmmm, che bella sensazione."
+
+
 translate italian extra_scene_42_232c717c:
 
-    # "My sister continued her slow progress, luxuriating in the sensation my veined shaft was arousing inside her."
-    ""
 
-# game/extras.rpy:1849
+    "Mia sorella continuò a muoversi lentamente, godendosi le sensazioni che la mia asta venosa suscitava dentro di lei."
+
+
 translate italian extra_scene_42_fc85f6e4:
 
-    # "Eva continued her slow progress, luxuriating in the sensation my veined shaft was arousing inside her."
-    ""
 
-# game/extras.rpy:1850
+    "Eva continuò a muoversi lentamente, assaporando le sensazioni che la mia asta venosa suscitava in lei."
+
+
 translate italian extra_scene_42_f614deef:
 
-    # "The experience was both heaven and torture for me."
-    ""
 
-# game/extras.rpy:1855
+    "L'esperienza era allo stesso tempo un paradiso e una tortura per me."
+
+
 translate italian extra_scene_42_1b726dca:
 
-    # "Despite Eva’s protests earlier, I tried to take the initiative again and began to thrust."
-    ""
 
-# game/extras.rpy:1856
+    "Nonostante le proteste di Eva, cercai di prendere nuovamente l'iniziativa e iniziai a spingere."
+
+
 translate italian extra_scene_42_0784eb99:
 
-    # "Eva didn’t complain, but still dictated how deep my thrusts could be, by how deep she squatted on top of me."
-    ""
 
-# game/extras.rpy:1857
+    "Eva non si lamentava, ma era comunque lei a dettare la profondità delle mie spinte, accovacciandosi sopra di me."
+
+
 translate italian extra_scene_42_528c3592:
 
-    # "Her ribbed tunnel stimulated me in all the right ways, but I also longed to take back control and give Eva the time of her life."
-    ""
 
-# game/extras.rpy:1860
+    "Il suo tunnel rigato mi stimolava in tutti i modi giusti, ma desideravo anche riprendere il controllo e far vivere a Eva il momento più bello della sua vita."
+
+
 translate italian extra_scene_42_bfb2641a:
 
-    # e "I love your dick inside me."
-    e ""
 
-# game/extras.rpy:1861
+    e "Adoro il tuo cazzo dentro di me."
+
+
 translate italian extra_scene_42_fc4c418a:
 
-    # e "It’s so big and so hard."
-    e ""
 
-# game/extras.rpy:1866
+    e "È così grande e così duro."
+
+
 translate italian extra_scene_42_6e9aafcf:
 
-    # "My hands still rested on Eva’s buttocks and I couldn’t resist pinching them to spur her into more vigorous action."
-    ""
 
-# game/extras.rpy:1870
+    "Le mie mani erano ancora appoggiate sulle natiche di Eva e non potevo resistere a pizzicarle per spronarla a un'azione più vigorosa."
+
+
 translate italian extra_scene_42_3a1ff5c5:
 
-    # "Instead, she slowed down even more."
-    ""
 
-# game/extras.rpy:1871
+    "Invece, lei rallentò ancora di più."
+
+
 translate italian extra_scene_42_be131bad:
 
-    # c "Ugh, you’re such a tease!"
-    c ""
 
-# game/extras.rpy:1872
+    c "Sei proprio una provocatrice!"
+
+
 translate italian extra_scene_42_281ee7f5:
 
-    # c "You’re trying to drive me crazy."
-    c ""
 
-# game/extras.rpy:1875
+    c "Stai cercando di farmi impazzire."
+
+
 translate italian extra_scene_42_7e5be565_1:
 
-    # e "What?"
-    e ""
 
-# game/extras.rpy:1876
+    e "Cosa?"
+
+
 translate italian extra_scene_42_c4218e91:
 
-    # "Her breathless response came out innocent, but she knew what she was doing."
-    ""
 
-# game/extras.rpy:1878
+    "La sua risposta senza fiato è stata innocente, ma sapeva cosa stava facendo."
+
+
 translate italian extra_scene_42_75a5c4b6:
 
-    # "I grabbed her around the waist and hoisted her off me."
-    ""
 
-# game/extras.rpy:1879
+    "La afferrai intorno alla vita e la sollevai da me."
+
+
 translate italian extra_scene_42_68417882:
 
-    # "Eva yelped in surprise and laughed."
-    ""
 
-# game/extras.rpy:1880
+    "Eva urlò di sorpresa e rise."
+
+
 translate italian extra_scene_42_d218b51f:
 
-    # e "I really was driving you crazy!"
-    e ""
 
-# game/extras.rpy:1881
+    e "Ti stavo davvero facendo impazzire!"
+
+
 translate italian extra_scene_42_838b376e:
 
-    # c "Don’t be so smug..."
-    c ""
 
-# game/extras.rpy:1882
+    c "Non essere così compiaciuto..."
+
+
 translate italian extra_scene_42_4bf0374b:
 
-    # "I pushed her down so that she was on all fours."
-    ""
 
-# game/extras.rpy:1887
+    "La spinsi a terra in modo che fosse a quattro zampe."
+
+
 translate italian extra_scene_42_a222f69e:
 
-    # "Pulling her ass toward my abdomen, I entered her again."
-    ""
 
-# game/extras.rpy:1888
+    "Tirando il suo sedere verso il mio addome, la penetrai di nuovo."
+
+
 translate italian extra_scene_42_1bbf6eee:
 
-    # e "Mmmm, you’re going to show me how it’s done, aren’t you?"
-    e ""
 
-# game/extras.rpy:1890
+    e "Mmmm, mi farai vedere come si fa, vero?"
+
+
 translate italian extra_scene_42_a42ff3ed:
 
-    # "I slapped my sister’s ass and thrust inside her."
-    ""
 
-# game/extras.rpy:1892
+    "Schiaffeggiai il culo di mia sorella e spinsi dentro di lei."
+
+
 translate italian extra_scene_42_d8e84de6:
 
-    # "I slapped her ass and thrust inside her."
-    ""
 
-# game/extras.rpy:1894
+    "Le diedi uno schiaffo sul culo e spinsi dentro di lei."
+
+
 translate italian extra_scene_42_f3f9162d:
 
-    # "Eva grunted in response."
-    ""
 
-# game/extras.rpy:1895
+    "Eva grugnì in risposta."
+
+
 translate italian extra_scene_42_5fa689fe:
 
-    # e "Again!"
-    e ""
 
-# game/extras.rpy:1900
+    e "Ancora!"
+
+
 translate italian extra_scene_42_d23c46a6:
 
-    # "My hand connected with the soft flesh of her butt as I began to fuck her in earnest."
-    ""
 
-# game/extras.rpy:1901
+    "La mia mano toccò la morbida carne del suo sedere mentre iniziavo a scoparla sul serio."
+
+
 translate italian extra_scene_42_ab74a420:
 
-    # "Eva moaned and steadied herself on the mattress."
-    ""
 
-# game/extras.rpy:1902
+    "Eva gemeva e si reggeva sul materasso."
+
+
 translate italian extra_scene_42_dfc2e409:
 
-    # "I kept my hands on the firm flesh of her ass and picked up the pace."
-    ""
 
-# game/extras.rpy:1903
+    "Mantenni le mie mani sulla carne soda del suo sedere e aumentai il ritmo."
+
+
 translate italian extra_scene_42_5d0ecf2b:
 
-    # c "You’re so tight, Eva, your pussy feels so good!"
-    c ""
 
-# game/extras.rpy:1909
+    c "Sei così stretta, Eva, la tua figa è così bella!"
+
+
 translate italian extra_scene_42_cf2fc0ed:
 
-    # "I slammed inside her, again and again, reducing my sister to gibbering moans."
-    ""
 
-# game/extras.rpy:1911
+    "La sbattei dentro di lei, ancora e ancora, riducendo mia sorella a gemiti strazianti."
+
+
 translate italian extra_scene_42_0fc4c089:
 
-    # "I slammed inside her, again and again, reducing Eva to gibbering moans."
-    ""
 
-# game/extras.rpy:1912
+    "La sbattei dentro di lei, ancora e ancora, riducendo Eva a gemiti strazianti."
+
+
 translate italian extra_scene_42_c14e8539:
 
-    # "As my earlier orgasm wasn’t that long ago, I’d have thought I’d have more stamina, but Eva’s pussy proved to be irresistible."
-    ""
 
-# game/extras.rpy:1913
+    "Dato che il mio precedente orgasmo non era passato molto tempo, avrei pensato di avere più resistenza, ma la figa di Eva si dimostrò irresistibile."
+
+
 translate italian extra_scene_42_f73ff12c:
 
-    # "Her tightness stimulated my cock in all the right ways and I could feel to my surprise that my climax wasn’t that far off."
-    ""
 
-# game/extras.rpy:1918
+    "La sua stretta stimolava il mio cazzo in tutti i modi giusti e sentivo con sorpresa che il mio orgasmo non era poi così lontano."
+
+
 translate italian extra_scene_42_8d06d0aa:
 
-    # c "I’m going to cum inside you again."
-    c ""
 
-# game/extras.rpy:1920
+    c "Sto per sborrare di nuovo dentro di te."
+
+
 translate italian extra_scene_42_605bdba9:
 
-    # c "I’m going to cum inside you."
-    c ""
 
-# game/extras.rpy:1921
+    c "Sto per sborrare dentro di te."
+
+
 translate italian extra_scene_42_30fcd5e1:
 
-    # e "Yes, [p_name_short], shoot all of your cum inside my pussy!"
-    e ""
 
-# game/extras.rpy:1926
+    e "Sì, [p_name_short], spara tutto il tuo sperma nella mia figa!"
+
+
 translate italian extra_scene_42_7dff50ec:
 
-    # "I came."
-    ""
 
-# game/extras.rpy:1929
+    "Sono venuta."
+
+
 translate italian extra_scene_42_ed656fa5:
 
-    # e "That’s it, [p_name], put a baby inside your sister!"
-    e ""
 
-# game/extras.rpy:1931
+    e "Ecco, [p_name], metti un bambino dentro tua sorella!"
+
+
 translate italian extra_scene_42_642c9c78:
 
-    # e "That’s it, [p_name], put a baby inside me!"
-    e ""
 
-# game/extras.rpy:1934
+    e "Ecco, [p_name], metti un bambino dentro di me!"
+
+
 translate italian extra_scene_42_c3585f28:
 
-    # e "That’s it, [p_name], put your sister full of cum!"
-    e ""
 
-# game/extras.rpy:1936
+    e "Ecco, [p_name], riempi tua sorella di sperma!"
+
+
 translate italian extra_scene_42_91f6777f:
 
-    # e "That’s it, [p_name], put me full of cum!"
-    e ""
 
-# game/extras.rpy:1940
+    e "Ecco, [p_name], riempimi di sperma!"
+
+
 translate italian extra_scene_42_9eb97310:
 
-    # "Wave after wave of warm seed spilled into my sister’s vagina."
-    ""
 
-# game/extras.rpy:1942
+    "Un'ondata dopo l'altra di seme caldo si riversò nella vagina di mia sorella."
+
+
 translate italian extra_scene_42_bd0e7ec1:
 
-    # "Wave after wave of warm seed spilled into Eva’s vagina."
-    ""
 
-# game/extras.rpy:1943
+    "Un'ondata dopo l'altra di caldo seme si riversò nella vagina di Eva."
+
+
 translate italian extra_scene_42_4b40d562:
 
-    # "Pulling out of her overflowing pussy, cum began to leak out of her immediately."
-    ""
 
-# game/extras.rpy:1947
+    "Quando mi staccai dalla sua figa straripante, lo sperma iniziò a fuoriuscire immediatamente da lei."
+
+
 translate italian extra_scene_42_dc5f9695:
 
-    # c "I’m going to cum all over you again."
-    c ""
 
-# game/extras.rpy:1949
+    c "Sto per sborrare di nuovo su di te."
+
+
 translate italian extra_scene_42_e109fc7b:
 
-    # c "I’m going to cum all over you."
-    c ""
 
-# game/extras.rpy:1950
+    c "Sto per sborrare su di te."
+
+
 translate italian extra_scene_42_921956a8:
 
-    # e "Yes, [p_name_short], shoot your cum all over my body!"
-    e ""
 
-# game/extras.rpy:1955
+    e "Sì, [p_name_short], spara il tuo sperma su tutto il mio corpo!"
+
+
 translate italian extra_scene_42_7dff50ec_1:
 
-    # "I came."
-    ""
 
-# game/extras.rpy:1957
+    "Sono venuta."
+
+
 translate italian extra_scene_42_7519388e:
 
-    # e "That’s it, [p_name], drench your sister in cum!"
-    e ""
 
-# game/extras.rpy:1959
+    e "Ecco, [p_name], inzuppa tua sorella di sperma!"
+
+
 translate italian extra_scene_42_93e06400:
 
-    # e "That’s it, [p_name], drench me in cum!"
-    e ""
 
-# game/extras.rpy:1963
+    e "Ecco, [p_name], inzuppami di sperma!"
+
+
 translate italian extra_scene_42_92ba7534:
 
-    # "Wave after wave of warm seed sprayed out over my sister’s nubile body."
-    ""
 
-# game/extras.rpy:1965
+    "Ondata dopo ondata di seme caldo spruzzato sul corpo nubile di mia sorella."
+
+
 translate italian extra_scene_42_52e90afa:
 
-    # "Wave after wave of warm seed sprayed out over Eva’s nubile body."
-    ""
 
-# game/extras.rpy:1966
+    "Un'ondata dopo l'altra di caldo seme spruzzava sul corpo nubiloso di Eva."
+
+
 translate italian extra_scene_42_563dafa2:
 
-    # "Her abdomen and breasts were a downright mess after I’d finished."
-    ""
 
-# game/extras.rpy:1970
+    "Il suo addome e i suoi seni erano un vero disastro dopo che avevo finito."
+
+
 translate italian extra_scene_42_27ab03c9:
 
-    # "We both collapsed on the bed again, Eva finding her place on my chest again."
-    ""
 
-# game/extras.rpy:1973
+    "Entrambi crollammo di nuovo sul letto, Eva trovò di nuovo il suo posto sul mio petto."
+
+
 translate italian extra_scene_42_43ba7b57:
 
-    # c "Thinking about babies again?"
-    c ""
 
-# game/extras.rpy:1975
+    c "Pensavo di nuovo ai bambini?"
+
+
 translate italian extra_scene_42_118adec5:
 
-    # e "Yes."
-    e ""
 
-# game/extras.rpy:1976
+    e "Si."
+
+
 translate italian extra_scene_42_7566d10f:
 
-    # c "Maybe this was the one, then?"
-    c ""
 
-# game/extras.rpy:1977
+    c "Forse questo era quello giusto, allora?"
+
+
 translate italian extra_scene_42_88a18207:
 
-    # e "Maybe, but I think we really need to try more, just to be on the safe side."
-    e ""
 
-# game/extras.rpy:1980
+    e "Forse, ma credo che dovremmo fare altri tentativi, per essere sicuri."
+
+
 translate italian extra_scene_42_3c443c18:
 
-    # c "And, did we prove your theory?"
-    c ""
 
-# game/extras.rpy:1982
+    c "Abbiamo dimostrato la tua teoria?"
+
+
 translate italian extra_scene_42_d1c6d027:
 
-    # e "It was incredible, but I think we really need to gather more evidence."
-    e ""
 
-# game/extras.rpy:1983
+    e "È stata incredibile, ma credo che dobbiamo raccogliere altre prove."
+
+
 translate italian extra_scene_42_fed7dd4b:
 
-    # c "I won’t argue with that, for sure."
-    c ""
 
-# game/extras.rpy:1984
+    c "Su questo non ci piove, di sicuro."
+
+
 translate italian extra_scene_42_5131871e:
 
-    # e "Good."
-    e ""
 
-# game/extras.rpy:1985
+    e "Bene."
+
+
 translate italian extra_scene_42_52f6a5db:
 
-    # e "I wish we could go at it again, but I’m so tired."
-    e ""
 
-# game/extras.rpy:1986
+    e "Vorrei che potessimo ricominciare, ma sono così stanca."
+
+
 translate italian extra_scene_42_7313b67b:
 
-    # c "As am I."
-    c ""
 
-# game/extras.rpy:1987
+    c "Anch'io."
+
+
 translate italian extra_scene_42_fe179427:
 
-    # c "I love you, Eva."
-    c ""
 
-# game/extras.rpy:1988
+    c "Ti amo, Eva."
+
+
 translate italian extra_scene_42_7830073f:
 
-    # e "I love you too, [p_name_short]."
-    e ""
 
-# game/extras.rpy:1993
+    e "Anch'io ti amo, [p_name_short]."
+
+
 translate italian extra_scene_43_d110a243:
 
-    # c "Not so fast, little sis..."
-    c ""
 
-# game/extras.rpy:1995
+    c "Non così in fretta, sorellina..."
+
+
 translate italian extra_scene_43_f92779fe:
 
-    # c "Not so fast, Lilly..."
-    c ""
 
-# game/extras.rpy:1997
+    c "Non così in fretta, Lilly..."
+
+
 translate italian extra_scene_43_6555ca97:
 
-    # "Lilly kicked off her shoes and I helped her strip out of her pants."
-    ""
 
-# game/extras.rpy:1998
+    "Lilly si tolse le scarpe e io la aiutai a togliersi i pantaloni."
+
+
 translate italian extra_scene_43_9ef7752c:
 
-    # "Expectantly, she leaned naked against the tree."
-    ""
 
-# game/extras.rpy:2003
+    "In attesa, si appoggiò nuda all'albero."
+
+
 translate italian extra_scene_43_d522ccdf:
 
-    # "I went to my knees and dotted her abdomen with kisses, working slowly toward the prize between her legs."
-    ""
 
-# game/extras.rpy:2005
+    "Mi inginocchiai e le diedi dei baci sull'addome, lavorando lentamente verso il premio che aveva tra le gambe."
+
+
 translate italian extra_scene_43_bdb9a408:
 
-    # "Lilly had an inkling of what I was about to do and I could feel her hold in her breath."
-    ""
 
-# game/extras.rpy:2010
+    "Lilly aveva intuito cosa stavo per fare e sentivo che tratteneva il respiro."
+
+
 translate italian extra_scene_43_85171aee:
 
-    # "When my tongue finally connected with her pussy, she shudderingly released the pent up air."
-    ""
 
-# game/extras.rpy:2011
+    "Quando la mia lingua entrò finalmente in contatto con la sua figa, tremò e rilasciò l'aria repressa."
+
+
 translate italian extra_scene_43_658c2977:
 
-    # l "Oh fuck yes!"
-    l ""
 
-# game/extras.rpy:2014
+    l "Oh, cazzo, sì!"
+
+
 translate italian extra_scene_43_9bbbf09f:
 
-    # "Lilly had lifted her leg and rested it on my shoulder in order to give me better access to her cunt."
-    ""
 
-# game/extras.rpy:2015
+    "Lilly aveva sollevato la gamba e l'aveva appoggiata sulla mia spalla per permettermi di accedere meglio alla sua fica."
+
+
 translate italian extra_scene_43_35aa129c:
 
-    # "I savored her distinctive salty taste emanating from her slit."
-    ""
 
-# game/extras.rpy:2020
+    "Assaporai il suo caratteristico sapore salato che emanava dalla sua fessura."
+
+
 translate italian extra_scene_43_d6dca20e:
 
-    # l "Please keep going like that, [p_name_short]!"
-    l ""
 
-# game/extras.rpy:2021
+    l "Ti prego, continua così, [p_name_short]!"
+
+
 translate italian extra_scene_43_767908e9:
 
-    # "She shuddered against the tree trunk, her body slowly becoming undone with the motions of my tongue."
-    ""
 
-# game/extras.rpy:2024
+    "Rabbrividì contro il tronco dell'albero, il suo corpo si stava lentamente disfacendo con i movimenti della mia lingua."
+
+
 translate italian extra_scene_43_4903bbf0:
 
-    # "When I introduced my fingers inside her, she let out a moan that reverberated through the forest."
-    ""
 
-# game/extras.rpy:2026
+    "Quando ho introdotto le mie dita dentro di lei, ha emesso un gemito che si è riverberato nella foresta."
+
+
 translate italian extra_scene_43_07c124f8:
 
-    # "My sister was dripping wet now, her hand clawing through my hair, pushing me hard against her cunt."
-    ""
 
-# game/extras.rpy:2028
+    "Mia sorella era bagnata fradicia, la sua mano mi artigliava i capelli e mi spingeva con forza contro la sua fica."
+
+
 translate italian extra_scene_43_c6d5a955:
 
-    # "Lilly was dripping wet now, her hand clawing through my hair, pushing me hard against her cunt."
-    ""
 
-# game/extras.rpy:2032
+    "Lilly era bagnata fradicia, la sua mano mi artigliava i capelli e mi spingeva con forza contro la sua fica."
+
+
 translate italian extra_scene_43_3d5cf40c:
 
-    # l "Oh [p_name_short], you’re making me..."
-    l ""
 
-# game/extras.rpy:2033
+    l "Oh [p_name_short], mi stai facendo..."
+
+
 translate italian extra_scene_43_c22d672a:
 
-    # l "Yes, right there!"
-    l ""
 
-# game/extras.rpy:2034
+    l "Sì, proprio lì!"
+
+
 translate italian extra_scene_43_4298e085:
 
-    # l "Right there!"
-    l ""
 
-# game/extras.rpy:2036
+    l "Proprio lì!"
+
+
 translate italian extra_scene_43_50d66a44:
 
-    # "Licking her clit, I used my fingers to fuck her pussy."
-    ""
 
-# game/extras.rpy:2037
+    "Leccando il suo clitoride, usai le dita per scoparle la fica."
+
+
 translate italian extra_scene_43_cd238832:
 
-    # "The sound of wet flesh mixed with Lilly’s longing moans."
-    ""
 
-# game/extras.rpy:2038
+    "Il suono della carne bagnata si mescolava ai gemiti di desiderio di Lilly."
+
+
 translate italian extra_scene_43_5700c849:
 
-    # l "I’m-"
-    l ""
 
-# game/extras.rpy:2039
+    l "Sto..."
+
+
 translate italian extra_scene_43_c98af9f6:
 
-    # l "Oh fuck!{w} I’m cumming!"
-    l ""
 
-# game/extras.rpy:2044
+    l "Oh cazzo! {w} Sto sborrando!"
+
+
 translate italian extra_scene_43_a305c5e4:
 
-    # "Lilly released an unexpected volley of liquid into my face."
-    ""
 
-# game/extras.rpy:2046
+    "Lilly rilasciò un'inaspettata scarica di liquido sul mio viso."
+
+
 translate italian extra_scene_43_879d5fbd:
 
-    # "My sister leaned hard against the tree, her naked back scraping against the rough bark."
-    ""
 
-# game/extras.rpy:2048
+    "Mia sorella si appoggiò con forza all'albero, con la schiena nuda che raschiava la corteccia ruvida."
+
+
 translate italian extra_scene_43_0d796fdf:
 
-    # "She leaned hard against the tree, her naked back scraping against the rough bark."
-    ""
 
-# game/extras.rpy:2050
+    "Si appoggiò con forza all'albero, con la schiena nuda che raschiava la corteccia ruvida."
+
+
 translate italian extra_scene_43_5904d0fd:
 
-    # "All the while she squirted her ejaculate into my mouth as I attempted to stay connected to her slit."
-    ""
 
-# game/extras.rpy:2051
+    "Per tutto il tempo schizzò la sua eiaculazione nella mia bocca, mentre io cercavo di rimanere connesso alla sua fessura."
+
+
 translate italian extra_scene_43_73f4afd0:
 
-    # "Only the support of the tree allowed her to stay upright, as she shuddered and convulsed."
-    ""
 
-# game/extras.rpy:2056
+    "Solo il sostegno dell'albero le permetteva di rimanere in piedi, mentre tremava e si contorceva."
+
+
 translate italian extra_scene_43_5dd12e8c:
 
-    # "When Lilly had found her bearings again, she guided me up with trembling hands and kissed me."
-    ""
 
-# game/extras.rpy:2057
+    "Quando Lilly ritrovò l'orientamento, mi guidò con mani tremanti e mi baciò."
+
+
 translate italian extra_scene_43_7fa5a4d7:
 
-    # "My face was still coated with the secretions of her cunt, but she clearly didn’t mind."
-    ""
 
-# game/extras.rpy:2059
+    "Il mio viso era ancora ricoperto dalle secrezioni della sua fica, ma a lei chiaramente non importava."
+
+
 translate italian extra_scene_43_aeb3fdf1:
 
-    # l "That was the best ever!"
-    l ""
 
-# game/extras.rpy:2060
+    l "È stato il massimo!"
+
+
 translate italian extra_scene_43_b2ad0782:
 
-    # l "Your fingers..."
-    l ""
 
-# game/extras.rpy:2061
+    l "Le tue dita..."
+
+
 translate italian extra_scene_43_a1d04de9:
 
-    # l "Like magic!"
-    l ""
 
-# game/extras.rpy:2062
+    l "Come una magia!"
+
+
 translate italian extra_scene_43_b7864afa:
 
-    # "Lilly obviously had some trouble forming coherent thoughts."
-    ""
 
-# game/extras.rpy:2064
+    "Lilly aveva ovviamente qualche problema a formare pensieri coerenti."
+
+
 translate italian extra_scene_43_8bd172bf:
 
-    # "Smiling I kissed her again."
-    ""
 
-# game/extras.rpy:2066
+    "Sorridendo, la baciai di nuovo."
+
+
 translate italian extra_scene_43_e9a42f65:
 
-    # l "I really, really want you inside me!"
-    l ""
 
-# game/extras.rpy:2080
+    l "Ti voglio davvero, davvero tanto dentro di me!"
+
+
+
+
+translate italian extra_scene_32_26e7a21d:
+
+
+    "Aven iniziò a lavorare sul mio membro con colpi potenti, facendomi impazzire."
+
+
 translate italian extra_scene_44_4174cd28:
 
-    # "Eva had taken residence in one of the larger quarters."
-    ""
 
-# game/extras.rpy:2082
+    "Eva si era sistemata in uno degli alloggi più grandi."
+
+
 translate italian extra_scene_44_307438d0:
 
-    # "She was leaning on the bar in the kitchen when I came in."
-    ""
 
-# game/extras.rpy:2084
+    "Era appoggiata al bancone della cucina quando entrai."
+
+
 translate italian extra_scene_44_b434a7b2:
 
-    # c "How’s my favorite sister?"
-    c ""
 
-# game/extras.rpy:2086
+    c "Come sta la mia sorella preferita?"
+
+
 translate italian extra_scene_44_8cd09df3:
 
-    # c "How’s my favorite person?"
-    c ""
 
-# game/extras.rpy:2089
+    c "Come sta la mia persona preferita?"
+
+
 translate italian extra_scene_44_19f0c191:
 
-    # e "Okay, I think."
-    e ""
 
-# game/extras.rpy:2090
+    e "Bene, credo."
+
+
 translate italian extra_scene_44_ffcfc44e:
 
-    # e "A little nausea in the morning, but I guess that’s to be expected."
-    e ""
 
-# game/extras.rpy:2091
+    e "Un po' di nausea al mattino, ma credo che ci sia da aspettarselo."
+
+
 translate italian extra_scene_44_f0ac2359:
 
-    # c "I’m afraid so."
-    c ""
 
-# game/extras.rpy:2093
+    c "Temo di sì."
+
+
+translate italian extra_scene_44_54a3896e:
+
+
+    c "Hanno tutti preso bene la notizia, prima, non credi?"
+
+
+translate italian extra_scene_44_1fdc091c:
+
+
+    e "Sì, sono molto sollevata."
+
+
+translate italian extra_scene_44_bcd0de28:
+
+
+    "Sì, ma è un peccato per Lilly."
+
+
+translate italian extra_scene_44_08dc9196:
+
+
+    "Sì, ma è un peccato per la mamma."
+
+
+translate italian extra_scene_44_7b0b0af8:
+
+
+    "Sì, ma è un peccato per Aven."
+
+
+translate italian extra_scene_44_a92bd7d2:
+
+
+    c "Sono sicura che si riprenderà."
+
+
+translate italian extra_scene_44_c09843c4:
+
+
+    "Sì, ma è un peccato per Lilly e Aven."
+
+
+translate italian extra_scene_44_7ac1aac6:
+
+
+    "Sì, ma è un peccato per Lilly e la mamma."
+
+
+translate italian extra_scene_44_101865b6:
+
+
+    "Sì, ma è un peccato per Aven e la mamma."
+
+
+translate italian extra_scene_44_390d846e:
+
+
+    c "Sono sicuro che si riprenderanno."
+
+
+translate italian extra_scene_44_dd7e1a4f:
+
+
+    e "Lo spero."
+
+
+translate italian extra_scene_44_d19da08f:
+
+
+    e "E immagino che anche l'orgia successiva sia stata un'approvazione entusiastica."
+
+
+translate italian extra_scene_44_61ed7c35:
+
+
+    c "Puoi dirlo forte."
+
+
 translate italian extra_scene_44_ceccc65a:
 
-    # e "I’m doing great."
-    e ""
 
-# game/extras.rpy:2094
+    e "Sto benissimo."
+
+
 translate italian extra_scene_44_d810616c:
 
-    # e "I’m glad you’re alone here with me now."
-    e ""
 
-# game/extras.rpy:2095
+    e "Sono felice che tu sia qui da solo con me ora."
+
+
 translate italian extra_scene_44_ad9b1c95:
 
-    # e "I was really craving for some privacy."
-    e ""
 
-# game/extras.rpy:2096
+    e "Avevo proprio voglia di un po' di privacy."
+
+
 translate italian extra_scene_44_71a71396:
 
-    # c "Was that the only thing you were craving for?"
-    c ""
 
-# game/extras.rpy:2097
+    c "Era l'unica cosa che desideravi?"
+
+
 translate italian extra_scene_44_5d25027a:
 
-    # e "No..."
-    e ""
 
-# game/extras.rpy:2102
+    e "No..."
+
+
 translate italian extra_scene_44_32836e40:
 
-    # "Eva walked away from the bar and dropped her kimono in the process."
-    ""
 
-# game/extras.rpy:2103
+    "Eva si allontanò dal bar e nel farlo lasciò cadere il kimono."
+
+
 translate italian extra_scene_44_89fca16d:
 
-    # "She leaned against the opposite wall and stretched, giving me a good look at her nubile body."
-    ""
 
-# game/extras.rpy:2104
+    "Si appoggiò alla parete opposta e si stiracchiò, dandomi una buona visione del suo corpo nubile."
+
+
 translate italian extra_scene_44_70e0767d:
 
-    # c "You’re so incredibly sexy."
-    c ""
 
-# game/extras.rpy:2105
+    c "Sei incredibilmente sexy."
+
+
 translate italian extra_scene_44_0dbf2382:
 
-    # e "Am I?"
-    e ""
 
-# game/extras.rpy:2106
+    e "Lo sono?"
+
+
 translate italian extra_scene_44_23c99b26:
 
-    # e "So you like this?"
-    e ""
 
-# game/extras.rpy:2109
+    e "Quindi ti piace questo?"
+
+
 translate italian extra_scene_44_4d6cc6d8:
 
-    # "My sister unclasped her bra and showed me her firm breasts."
-    ""
 
-# game/extras.rpy:2111
+    "Mia sorella si slacciò il reggiseno e mi mostrò il suo seno sodo."
+
+
 translate italian extra_scene_44_5081bcef:
 
-    # "My girlfriend unclasped her bra and showed me her firm breasts."
-    ""
 
-# game/extras.rpy:2112
+    "La mia ragazza si è slacciata il reggiseno e mi ha mostrato il suo seno sodo."
+
+
 translate italian extra_scene_44_f733bf22:
 
-    # c "I love this."
-    c ""
 
-# game/extras.rpy:2113
+    c "Mi piace questo."
+
+
 translate italian extra_scene_44_5131871e:
 
-    # e "Good."
-    e ""
 
-# game/extras.rpy:2118
+    e "Bene."
+
+
 translate italian extra_scene_44_b28aff87:
 
-    # "Her panties were next."
-    ""
 
-# game/extras.rpy:2119
+    "Le sue mutandine furono le prossime."
+
+
 translate italian extra_scene_44_624a1bed:
 
-    # "Eva turned around, showing off her tight little ass, while I got out of my clothes too."
-    ""
 
-# game/extras.rpy:2120
+    "Eva si girò, mettendo in mostra il suo culetto sodo, mentre anch'io mi liberavo dei miei vestiti."
+
+
 translate italian extra_scene_44_740e480c:
 
-    # "I couldn’t hold back any longer and took Eva into my arms to kiss her."
-    ""
 
-# game/extras.rpy:2126
+    "Non riuscii più a trattenermi e presi Eva tra le braccia per baciarla."
+
+
 translate italian extra_scene_44_4c6fc53c:
 
-    # "When I was naked, my sister took hold of my erection and dropped to her knees."
-    ""
+
+    "Quando fui nudo, mia sorella prese in mano la mia erezione e si mise in ginocchio."
+
+
+translate italian extra_scene_44_d6c3fb3a:
+
+
+    e "Ti farò sentire bene."
+
+
+translate italian extra_scene_44_c8c98f2f:
+
+
+    "All'inizio mi leccò l'asta, bagnando tutta la lunghezza."
+
+
+translate italian extra_scene_44_a3b892f5:
+
+
+    "Poi le sue labbra avvolsero il mio cazzo e iniziò a succhiarlo."
+
+
+translate italian extra_scene_44_e3b95bd1:
+
+
+    c "La tua bocca è così bella su di me."
+
+
+translate italian extra_scene_44_dd1b7595:
+
+
+    "Mia sorella mi ha sottoposto a un pompino molto intenso, come se volesse assaporare il gusto di ogni centimetro del mio cazzo."
+
+
+translate italian extra_scene_44_c27d8ad0:
+
+
+    "La mia ragazza mi ha sottoposto a un pompino molto intenso, come se volesse assaporare il gusto di ogni centimetro del mio cazzo."
+
+
+translate italian extra_scene_44_b47e425a:
+
+
+    c "Ecco, Eva, proprio così."
+
+
+translate italian extra_scene_44_1b0203fd:
+
+
+    c "Mi farai sborrare con la tua bocca."
+
+
+translate italian extra_scene_44_f1582b1a:
+
+
+    "Eva ondeggiava sulle gambe, forse a causa dei crampi dovuti alla posizione in cui si trovava."
+
+
+translate italian extra_scene_44_00c088a6:
+
+
+    c "Mi vuoi dentro di te, Eva?"
+
+
+translate italian extra_scene_44_c09ca473:
+
+
+    c "Voglio davvero scoparti."
+
+
+translate italian extra_scene_44_30372b29:
+
+
+    "Eva esitò, ma continuò a spompinarmi, determinata a farmi raggiungere l'orgasmo."
+
+
+translate italian extra_scene_44_61cfbd25:
+
+
+    "Volevo fare a mia sorella molto di più che venirle in bocca, quindi le ho tolto delicatamente la testa dal mio cazzo e l'ho guidata verso la poltrona della zona giorno."
+
+
+translate italian extra_scene_44_7f815542:
+
+
+    "Volevo fare a Eva molto di più che venirle in bocca, così le tolsi delicatamente la testa dal mio cazzo e la guidai verso la poltrona del soggiorno."
+
+
+translate italian extra_scene_44_a6496f5c:
+
+
+    "Una volta seduto, ho sollevato Eva sulle mie ginocchia e le ho toccato il sedere mentre si accoccolava sul mio cazzo duro."
+
+
+translate italian extra_scene_44_c32818f9:
+
+
+    e "Mmmm, che bella sensazione."
+
+
+translate italian extra_scene_44_b087c7fe:
+
+
+    "Eva aveva preparato il mio cazzo con una quantità sufficiente di umidità, ma mia sorella era bagnata fradicia, quindi entrare in lei è stato liscio come il burro."
+
+
+translate italian extra_scene_44_6bc180a4:
+
+
+    "Eva aveva preparato il mio cazzo con sufficiente umidità, ma la mia ragazza era bagnata fradicia, quindi entrare in lei è stato liscio come il burro."
+
+
+translate italian extra_scene_44_494da927:
+
+
+    c "Adoro la tua figa!"
+
+
+translate italian extra_scene_44_550c92e2:
+
+
+    "Iniziammo a muoverci, la lunghezza della mia asta stimolata dalla stretta fessura di mia sorella."
+
+
+translate italian extra_scene_44_2c4c60e6:
+
+
+    "Iniziammo a muoverci, la lunghezza della mia asta stimolata dalla stretta fessura della mia ragazza."
+
+
+translate italian extra_scene_44_8ec8b6dc:
+
+
+    "Eva gemette forte quando presi in bocca uno dei suoi capezzoli e ne leccai la punta dura."
+
+
+translate italian extra_scene_44_67c523eb:
+
+
+    e "Non fermarti, ti prego, non smettere di scoparmi!"
+
+
+translate italian extra_scene_44_94590da5:
+
+
+    e "Mi scopi così bene!"
+
+
+translate italian extra_scene_44_daa42a96:
+
+
+    "Era così bagnata che il mio cazzo scivolò fuori dalla sua fica più volte."
+
+
+translate italian extra_scene_44_d82179ea:
+
+
+    "Entrambi emettevamo dei versi di frustrazione ogni volta che succedeva, così decisi di fare qualcosa la volta successiva."
+
+
+translate italian extra_scene_44_f660876b:
+
+
+    "Sollevai Eva dal mio grembo, la feci girare e la tirai di nuovo sul mio cazzo."
+
+
+translate italian extra_scene_44_69df71eb:
+
+
+    "Mia sorella ora mi cavalcava in reverse cowgirl, consentendomi di accedere a una nuova gamma di sensazioni."
+
+
+translate italian extra_scene_44_a3b6af67:
+
+
+    "La mia ragazza ora mi cavalcava in reverse cowgirl, dando accesso a una nuova gamma di sensazioni."
+
+
+translate italian extra_scene_44_dad8cdf2:
+
+
+    "Eva gemette quando il mio cazzo si insinuò profondamente nella sua figa grondante."
+
+
+translate italian extra_scene_44_aee5c221:
+
+
+    e "Oh sì, scopa la mia piccola figa stretta!"
+
+
+translate italian extra_scene_44_a66c2965:
+
+
+    e "Più forte, ti prego, scopami più forte!"
+
+
+translate italian extra_scene_44_0900af78:
+
+
+    "I miei colpi duri e metodici la stavano lentamente ma inesorabilmente portando al limite."
+
+
+translate italian extra_scene_44_1e069ce0:
+
+
+    "Eva stringeva le braccia intorno al mio collo e gemeva ad ogni spinta profonda."
+
+
+translate italian extra_scene_44_f10ee58a:
+
+
+    e "Oh [p_name_short], mi stai facendo..."
+
+
+translate italian extra_scene_44_939f830a:
+
+
+    e "Mi stai..."
+
+
+translate italian extra_scene_44_86bbf7a8:
+
+
+    e "Oh cazzo, [p_name_short], sto sborrando!"
+
+
+translate italian extra_scene_44_39275fa9:
+
+
+    "Mia sorella ha avuto un orgasmo sul mio cazzo."
+
+
+translate italian extra_scene_44_6bcd9859:
+
+
+    "La mia ragazza ha avuto un orgasmo sul mio cazzo."
+
+
+translate italian extra_scene_44_5511662e:
+
+
+    "La sua fessura si inondò di succhi e lei mi strinse ancora di più, il suo climax la scosse fino al midollo."
+
+
+translate italian extra_scene_44_8e94ed12:
+
+
+    "Scopare la sua figa in preda alle convulsioni ha scatenato anche il mio orgasmo."
+
+
+translate italian extra_scene_44_6ab30c4e:
+
+
+    c "Sto per sborrare dentro di te, Eva!"
+
+
+translate italian extra_scene_44_2942ab8f:
+
+
+    e "Sì, ti prego, riempi la mia figa incinta!"
+
+
+translate italian extra_scene_44_a035132f:
+
+
+    e "Sì, ti prego, riempi la mia figa!"
+
+
+translate italian extra_scene_44_d2968ec2:
+
+
+    "Ruggì e riempii la figa di mia sorella di caldo sperma."
+
+
+translate italian extra_scene_44_fb79feeb:
+
+
+    "Ruggì e riempii la figa della mia ragazza di caldo sperma."
+
+
+translate italian extra_scene_44_b2d7f9d5:
+
+
+    "Stringendo la sua carne, continuai a tenerla stretta fino a quando ogni schizzo di seme non fu dentro di lei."
+
+
+translate italian extra_scene_44_1734419a:
+
+
+    "Quando il mio cazzo uscì dalla sua fica, lo sperma iniziò a fuoriuscire da lei in grosse quantità."
+
+
+translate italian extra_scene_44_f2d8a629:
+
+
+    c "Sto per sborrare su di te, Eva!"
+
+
+translate italian extra_scene_44_bfc2e875:
+
+
+    e "Sì, ti prego, spara tutto sul mio corpo!"
+
+
+translate italian extra_scene_44_28c76a41:
+
+
+    "Ruggì e sparai il mio sperma su tutto il corpo di mia sorella."
+
+
+translate italian extra_scene_44_b952ff7b:
+
+
+    "Ruggì e sparai il mio sperma su tutto il corpo della mia ragazza."
+
+
+translate italian extra_scene_44_26312c9f:
+
+
+    "Il seme caldo le ha cosparso la pancia e i seni."
+
+
+translate italian extra_scene_44_60e9b568:
+
+
+    c "Voglio sborrare nella tua bocca, Eva!"
+
+
+translate italian extra_scene_44_65653b5d:
+
+
+    "Sull'orlo dell'orgasmo, Eva si inginocchiò davanti a me e leccò il mio cazzo che si contraeva."
+
+
+translate italian extra_scene_44_a1ab0747:
+
+
+    e "Ti prego, sparami tutto in bocca!"
+
+
+translate italian extra_scene_44_52d40234:
+
+
+    "Ho ruggito e mia sorella si è subito messa il mio cazzo in bocca."
+
+
+translate italian extra_scene_44_be1c53fc:
+
+
+    "Ruggì e la mia ragazza si infilò rapidamente il mio cazzo in bocca."
+
+
+translate italian extra_scene_44_bc0ddb15:
+
+
+    "Lo sperma caldo uscì dal mio cazzo e finì nella sua bocca."
+
+
+translate italian extra_scene_44_64b3b8e7:
+
+
+    "Mia sorella accolse con piacere fino all'ultima goccia di seme e aprì la bocca per mostrare quanto ne avevo sparato dentro di lei."
+
+
+translate italian extra_scene_44_a6cae995:
+
+
+    "La mia ragazza ricevette volentieri fino all'ultima goccia di seme e aprì la bocca per mostrare quanto ne avevo sparato dentro di lei."
+
+
+translate italian extra_scene_44_8ea8b541:
+
+
+    "Sorridendo, ingoiò tutto."
+
+
+translate italian extra_scene_44_1277fdb4:
+
+
+    "Entrambi soddisfatti, pomiciammo sulla sedia per un po' prima di vestirci e tornare alle nostre abitudini quotidiane."
+
+
+translate italian extra_scene_45_da05018d:
+
+
+    "Tornando dalla doccia, mi accorsi di avere un messaggio di mia madre che mi chiedeva di andare nel suo alloggio."
+
+
+translate italian extra_scene_45_30a9a4c0:
+
+
+    "Tornando dalla doccia, ho notato che c'era un messaggio di Nadya che mi chiedeva di andare nel suo alloggio."
+
+
+translate italian extra_scene_45_ed1e5617:
+
+
+    "Ero abbastanza sicuro che non volesse discutere con me i dettagli della missione in corso, così mi sono vestito velocemente e mi sono diretto verso il suo alloggio."
+
+
+translate italian extra_scene_45_244265e2:
+
+
+    "Quando ho aperto la porta, mia madre era appoggiata a una libreria, vestita solo della sua biancheria intima."
+
+
+translate italian extra_scene_45_67d94f58:
+
+
+    "Quando ho aperto la porta, Nadya era appoggiata a una libreria, vestita solo di biancheria intima."
+
+
+translate italian extra_scene_45_8ac948f2:
+
+
+    na "Oh hey [p_name_short], sei veloce."
+
+
+translate italian extra_scene_45_09805c2c:
+
+
+    c "Lo sono sempre quando so che mia madre mi sta aspettando con la sua lingerie più piccante."
+
+
+translate italian extra_scene_45_238ed13b:
+
+
+    c "Lo sono sempre quando so che tu mi stai aspettando in lingerie piccante."
+
+
+translate italian extra_scene_45_dfe59296:
+
+
+    na "Sono felice che ti piaccia quello che stai vedendo."
+
+
+translate italian extra_scene_45_80256382:
+
+
+    c "Adoro quello che sto vedendo."
+
+
+translate italian extra_scene_45_39ae201a:
+
+
+    c "Sai cosa voglio davvero?"
+
+
+translate italian extra_scene_45_8321e32f:
+
+
+    na "No, dimmelo."
+
+
+translate italian extra_scene_45_7b30d0f7:
+
+
+    "Chiusi la porta dietro di me e avanzai verso Nadya."
+
+
+translate italian extra_scene_45_6fab0bb2:
+
+
+    c "Voglio assaggiare la tua figa e farti raggiungere l'orgasmo in faccia."
+
+
+translate italian extra_scene_45_98e2f795:
+
+
+    na "E voglio che tu lo faccia."
+
+
+translate italian extra_scene_45_cb1f2fd0:
+
+
+    na "Cosa stiamo aspettando?"
+
+
+translate italian extra_scene_45_295bb550:
+
+
+    c "Beh, c'è un problema."
+
+
+translate italian extra_scene_45_9149406d:
+
+
+    na "Oh?"
+
+
+translate italian extra_scene_45_f09bb314:
+
+
+    c "È praticamente impossibile muoversi qui con tutti i libri che ci sono ovunque."
+
+
+translate italian extra_scene_45_36936914:
+
+
+    "L'alloggio di Nadya assomigliava a una minuscola biblioteca, gestita da un bibliotecario molto disordinato."
+
+
+translate italian extra_scene_45_055bf43b:
+
+
+    c "È un piccolo miracolo che tu riesca a raggiungere il letto ogni sera."
+
+
+translate italian extra_scene_45_346881c8:
+
+
+    na "Ok, ok, li sto già mettendo via."
+
+
+translate italian extra_scene_45_ac64ac99:
+
+
+    "Stava praticamente gettando i libri dal letto, desiderosa di avere la mia lingua nella sua figa."
+
+
+translate italian extra_scene_45_d2c94b52:
+
+
+    "Una grande pila di libri si è quasi rovesciata mentre li trasportava per metterli sul pavimento."
+
+
+translate italian extra_scene_45_6bfdf829:
+
+
+    c "Hai bisogno di aiuto per questo?"
+
+
+translate italian extra_scene_45_9741b7ef:
+
+
+    na "Sì, grazie."
+
+
+translate italian extra_scene_45_a264ba39:
+
+
+    "Dopo aver liberato il letto dai libri, Nadya si spogliò e si sdraiò."
+
+
+translate italian extra_scene_45_44c0c90d:
+
+
+    na "Ora è tutto pronto per te."
+
+
+translate italian extra_scene_45_e38fb39b:
+
+
+    "Aprii le gambe di mia madre e le spinsi all'indietro per avere un migliore accesso alla sua fica."
+
+
+translate italian extra_scene_45_d5369cc7:
+
+
+    "Aprii le gambe di Nadya e le spinsi all'indietro per darmi un migliore accesso alla sua fica."
+
+
+translate italian extra_scene_45_46f277f5:
+
+
+    "Nadya gemeva mentre sondavo la sua fessura con la lingua."
+
+
+translate italian extra_scene_45_75f5d60c:
+
+
+    "Era già bagnata e leccai lentamente i succhi della sua fica."
+
+
+translate italian extra_scene_45_139be819:
+
+
+    na "Oh sì, [p_name_short]!"
+
+
+translate italian extra_scene_45_325fc8d5:
+
+
+    na "Ecco, proprio così!"
+
+
+translate italian extra_scene_45_4000fbbf:
+
+
+    "Alternavo la suzione e la leccata delle sue labbra, provocando ondate di piacere nel suo corpo."
+
+
+translate italian extra_scene_45_ea9ef225:
+
+
+    "Quando mi soffermavo sul suo clitoride, mia madre iniziava a tremare violentemente."
+
+
+translate italian extra_scene_45_3b6c8ec9:
+
+
+    "Quando mi soffermai sul suo clitoride, Nadya iniziò a tremare violentemente."
+
+
+translate italian extra_scene_45_df0158ea:
+
+
+    na "Voglio il tuo cazzo duro dentro di me, [p_name_short]!"
+
+
+translate italian extra_scene_45_9e960a96:
+
+
+    na "Scopami, ti prego!"
+
+
+translate italian extra_scene_45_56dee434:
+
+
+    "Lasciando andare le sue gambe, mi spostai sopra di lei e spinsi il mio cazzo dentro la figa di mia madre."
+
+
+translate italian extra_scene_45_1c098f40:
+
+
+    "Lasciando le sue gambe, mi spostai sopra di lei e spinsi il mio cazzo dentro la figa di Nadya."
+
+
+translate italian extra_scene_45_424b637e:
+
+
+    na "Così!"
+
+
+translate italian extra_scene_45_487de577:
+
+
+    c "Mmmm, la tua figa è così bella."
+
+
+translate italian extra_scene_45_d44e79a5:
+
+
+    na "E tu ti senti così bene dentro di me."
+
+
+translate italian extra_scene_45_b74e7091:
+
+
+    na "Scopa tua madre con forza, [p_name_short]!"
+
+
+translate italian extra_scene_45_097a20b5:
+
+
+    na "Scopami forte, [p_name_short]!"
+
+
+translate italian extra_scene_45_22a03cce:
+
+
+    "Non avevo bisogno di alcun incoraggiamento."
+
+
+translate italian extra_scene_45_bfac44d5:
+
+
+    "Con colpi audaci e misurati, attaccai la sua fica."
+
+
+translate italian extra_scene_45_5335c713:
+
+
+    "Il suono umido del mio cazzo che scavava dentro di lei risuonava nella stanza."
+
+
+translate italian extra_scene_45_6d96cafd:
+
+
+    na "Continua!{w} Continua!{w} Sto per sborrare!"
+
+
+translate italian extra_scene_45_523c4485:
+
+
+    "Non smisi di spingere, riducendo mia madre a mugolii di lussuria."
+
+
+translate italian extra_scene_45_c4359c19:
+
+
+    "Non smisi di spingere, riducendo Nadya a mugolii di lussuria."
+
+
+translate italian extra_scene_45_a27ad045:
+
+
+    "Baciandola, raggiunse il culmine."
+
+
+translate italian extra_scene_45_c6a9e5f4:
+
+
+    "La sua figa si contorceva mentre il suo corpo tremava, ma io non mi fermai."
+
+
+translate italian extra_scene_45_0d40c9cd:
+
+
+    "Le mie spinte profonde prolungarono il suo orgasmo per un bel po'."
+
+
+translate italian extra_scene_45_a4a6eb45:
+
+
+    na "Oh [p_name], mi piace così tanto il tuo cazzo!"
+
+
+translate italian extra_scene_45_a7e277d3:
+
+
+    na "Lascia che ti cavalchi, ti prego!"
+
+
+translate italian extra_scene_45_e16e3de7:
+
+
+    "Quando le pulsazioni del suo orgasmo si attenuarono, uscii da mia madre e mi sdraiai sulla schiena."
+
+
+translate italian extra_scene_45_9e1a81c1:
+
+
+    "Quando le pulsazioni del suo orgasmo si sono placate, sono uscito da Nadya e mi sono sdraiato sulla schiena."
+
+
+translate italian extra_scene_45_ec38bf85:
+
+
+    "Nadya si accovacciò sopra il mio cazzo e si lasciò penetrare di nuovo da me."
+
+
+translate italian extra_scene_45_8ef5edda:
+
+
+    "Mi scopò lentamente e intensamente, stimolando la mia intera lunghezza con la sua figa bagnata."
+
+
+translate italian extra_scene_45_e380895b:
+
+
+    "Quando fui sepolto in profondità dentro di lei, mia madre appoggiò la sua figa sul mio addome."
+
+
+translate italian extra_scene_45_4f6e559e:
+
+
+    "Quando fui sepolto profondamente dentro di lei, Nadya appoggiò la sua figa sul mio addome."
+
+
+translate italian extra_scene_45_a84f024a:
+
+
+    c "Oh cazzo, che bella sensazione."
+
+
+translate italian extra_scene_45_3e198932:
+
+
+    na "Sì, la mia figa è bella?"
+
+
+translate italian extra_scene_45_93346968:
+
+
+    c "Sì, continua a cavalcarmi così!"
+
+
+translate italian extra_scene_45_4c5cd7cf:
+
+
+    "I grandi seni di mia madre ondeggiavano proprio davanti a me, così li presi in mano e iniziai a massaggiarli."
+
+
+translate italian extra_scene_45_7793f610:
+
+
+    c "Mi piacciono tanto le tue tette, mamma."
+
+
+translate italian extra_scene_45_c1051920:
+
+
+    "I grandi seni di Nadya ondeggiavano davanti a me, così li presi in mano e iniziai a massaggiarli."
+
+
+translate italian extra_scene_45_2e4e6a8e:
+
+
+    c "Adoro le tue tette, Nadya."
+
+
+translate italian extra_scene_45_982c63c4:
+
+
+    na "Sono tutte tue, piccola."
+
+
+translate italian extra_scene_45_079d52ee:
+
+
+    na "Puoi farmi qualsiasi cosa, qualsiasi cosa per farti venire!"
+
+
+translate italian extra_scene_45_e2cd59a5:
+
+
+    "Il mio orgasmo era vicino, la stretta fessura di mia madre lo dimostrava."
+
+
+translate italian extra_scene_45_8f61513d:
+
+
+    "Il mio orgasmo era vicino, la stretta fessura di Nadya lo garantiva."
+
+
+translate italian extra_scene_45_a98ba642:
+
+
+    "Non c'erano dubbi su dove sarebbe finito il mio seme."
+
+
+translate italian extra_scene_45_88f2e3d1:
+
+
+    c "Voglio metterti incinta, mamma."
+
+
+translate italian extra_scene_45_39516bb0:
+
+
+    c "Voglio metterti incinta, Nadya."
+
+
+translate italian extra_scene_45_1ad90fb3:
+
+
+    na "Sì, [p_name_short], riproduci la mia figa."
+
+
+translate italian extra_scene_45_2528021b:
+
+
+    c "Voglio riempirti, mamma."
+
+
+translate italian extra_scene_45_caceb0f2:
+
+
+    c "Voglio riempirti, Nadya."
+
+
+translate italian extra_scene_45_bcf1c4d4:
+
+
+    na "Sì, [p_name_short], riempi la mia figa!"
+
+
+translate italian extra_scene_45_351fa52d:
+
+
+    "Diverse spinte dopo, il mio climax era arrivato."
+
+
+translate italian extra_scene_45_9f8272ff:
+
+
+    c "Sto per sborrare!"
+
+
+translate italian extra_scene_45_df45e3b2:
+
+
+    c "Sto sborrando!"
+
+
+translate italian extra_scene_45_d02e0daa:
+
+
+    na "Sì, è così."
+
+
+translate italian extra_scene_45_241f094b:
+
+
+    na "Metti un bambino dentro tua madre!"
+
+
+translate italian extra_scene_45_062f225a:
+
+
+    na "Metti un bambino dentro di me!"
+
+
+translate italian extra_scene_45_29baad40:
+
+
+    na "Riempi tua madre!"
+
+
+translate italian extra_scene_45_a2120f82:
+
+
+    na "Riempimi!"
+
+
+translate italian extra_scene_45_ac5eddb5:
+
+
+    "Lo sperma caldo inondò la vagina di mia madre."
+
+
+translate italian extra_scene_45_3f6bb027:
+
+
+    "Lo sperma caldo inondò la vagina di Nadya."
+
+
+translate italian extra_scene_45_18970cb4:
+
+
+    "Continuò a cavalcarmi finché il mio cazzo non smise di sputare sperma e poi mi permise di estrarlo."
+
+
+translate italian extra_scene_45_62ab9017:
+
+
+    "Il mio seme caldo sgorgava dolcemente dalla figa spalancata di mia madre."
+
+
+translate italian extra_scene_45_58ce4e49:
+
+
+    "Il mio seme caldo sgorgava dolcemente dalla figa spalancata di Nadya."
+
+
+translate italian extra_scene_45_6e9d6d1d:
+
+
+    "Volevo segnare mia madre con il mio seme."
+
+
+translate italian extra_scene_45_6b579e07:
+
+
+    c "Voglio spargere il mio sperma su tutto il tuo corpo, mamma."
+
+
+translate italian extra_scene_45_9fbb9152:
+
+
+    "Volevo marchiare Nadya con il mio seme."
+
+
+translate italian extra_scene_45_654ac753:
+
+
+    c "Voglio sparare il mio sperma su tutto il tuo corpo, Nadya."
+
+
+translate italian extra_scene_45_3a337e93:
+
+
+    na "Sì, [p_name_short], fai un casino sul mio corpo!"
+
+
+translate italian extra_scene_45_4111fb7e:
+
+
+    "Dopo diverse spinte, il mio climax arrivò e lo tirai fuori."
+
+
+translate italian extra_scene_45_7a4a5920:
+
+
+    "Lo sperma caldo schizzò su tutta la schiena e il sedere di mia madre."
+
+
+translate italian extra_scene_45_1ed4fccc:
+
+
+    "Lo sperma caldo schizzò sulla schiena e sul sedere di Nadya."
+
+
+translate italian extra_scene_45_45657d78:
+
+
+    "Esauste, ci accoccolammo insieme."
+
+
+translate italian extra_scene_45_8cb27660:
+
+
+    c "Quindi è questo che serve per farti pulire la tua stanza?"
+
+
+translate italian extra_scene_45_7a16a2cb:
+
+
+    na "Sì, ogni volta."
+
+
+translate italian extra_scene_45_2b538134:
+
+
+    c "Per essere chiari, non è affatto una punizione."
+
+
+translate italian extra_scene_45_d2296f3d:
+
+
+    "Dovevamo prepararci per il nostro arrivo sul Petrarca, così lasciai l'alloggio di mia madre dopo averla salutata con un bacio."
+
+
+translate italian extra_scene_45_34382141:
+
+
+    "Dovevamo prepararci per il nostro arrivo sul Petrarca, quindi ho lasciato l'alloggio di Nadya dopo averla salutata con un bacio."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-05-18 19:53
 
 # game/extras.rpy:2128
 translate italian extra_scene_44_80e94728:
 
     # "When I was naked, Eva took hold of my erection and dropped to her knees."
-    ""
+    "Quando fui nudo, Eva prese in mano la mia erezione e si mise in ginocchio."
 
-# game/extras.rpy:2129
-translate italian extra_scene_44_d6c3fb3a:
-
-    # e "I’m going to make you feel good."
-    e ""
-
-# game/extras.rpy:2131
-translate italian extra_scene_44_c8c98f2f:
-
-    # "She licked my shaft at first, getting the entire length wet."
-    ""
-
-# game/extras.rpy:2136
-translate italian extra_scene_44_a3b892f5:
-
-    # "Then her lips wrapped around my dick and she began to suck me."
-    ""
-
-# game/extras.rpy:2137
-translate italian extra_scene_44_e3b95bd1:
-
-    # c "Your mouth feels so good on me."
-    c ""
-
-# game/extras.rpy:2140
-translate italian extra_scene_44_dd1b7595:
-
-    # "My sister subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
-    ""
-
-# game/extras.rpy:2142
-translate italian extra_scene_44_c27d8ad0:
-
-    # "My girlfriend subjected me to a very intense blowjob, as if she wanted to savor the taste of every inch of my dick."
-    ""
-
-# game/extras.rpy:2143
-translate italian extra_scene_44_b47e425a:
-
-    # c "That’s it, Eva, right there."
-    c ""
-
-# game/extras.rpy:2144
-translate italian extra_scene_44_1b0203fd:
-
-    # c "You’re going to make me cum so hard with your mouth."
-    c ""
-
-# game/extras.rpy:2146
-translate italian extra_scene_44_f1582b1a:
-
-    # "Eva swayed on her legs, possibly cramping up because of the position she was in."
-    ""
-
-# game/extras.rpy:2147
-translate italian extra_scene_44_00c088a6:
-
-    # c "Do you want me inside you, Eva?"
-    c ""
-
-# game/extras.rpy:2148
-translate italian extra_scene_44_c09ca473:
-
-    # c "I really want to fuck you."
-    c ""
-
-# game/extras.rpy:2150
-translate italian extra_scene_44_30372b29:
-
-    # "Eva hesitated, but kept blowing me, determined to get me to climax."
-    ""
-
-# game/extras.rpy:2152
-translate italian extra_scene_44_61cfbd25:
-
-    # "I wanted to do much more to my sister than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
-    ""
-
-# game/extras.rpy:2154
-translate italian extra_scene_44_7f815542:
-
-    # "I wanted to do much more to Eva than just come in her mouth, so I gently eased her head from my cock and guided her to the chair in the living area."
-    ""
-
-# game/extras.rpy:2158
-translate italian extra_scene_44_a6496f5c:
-
-    # "Whilst seated, I hefted Eva onto my lap and cupped her butt as she eased onto my hard cock."
-    ""
-
-# game/extras.rpy:2159
-translate italian extra_scene_44_c32818f9:
-
-    # e "Mmmm, that feels so good."
-    e ""
-
-# game/extras.rpy:2161
-translate italian extra_scene_44_b087c7fe:
-
-    # "Eva had prepared my dick with enough moisture, but my sister was dripping wet, so entering her felt as smooth as butter."
-    ""
-
-# game/extras.rpy:2163
-translate italian extra_scene_44_6bc180a4:
-
-    # "Eva had prepared my dick with enough moisture, but my girlfriend was dripping wet, so entering her felt as smooth as butter."
-    ""
-
-# game/extras.rpy:2165
-translate italian extra_scene_44_494da927:
-
-    # c "I love your pussy so much!"
-    c ""
-
-# game/extras.rpy:2170
-translate italian extra_scene_44_550c92e2:
-
-    # "We began to move, the length of my shaft stimulated by my sister’s tight slit."
-    ""
-
-# game/extras.rpy:2172
-translate italian extra_scene_44_2c4c60e6:
-
-    # "We began to move, the length of my shaft stimulated by my girlfriend’s tight slit."
-    ""
-
-# game/extras.rpy:2174
-translate italian extra_scene_44_8ec8b6dc:
-
-    # "Eva moaned loudly when I took one of her nipples in my mouth and licked the hard tip."
-    ""
-
-# game/extras.rpy:2175
-translate italian extra_scene_44_67c523eb:
-
-    # e "Don’t stop, please don’t stop fucking me!"
-    e ""
-
-# game/extras.rpy:2176
-translate italian extra_scene_44_94590da5:
-
-    # e "You fuck me so well!"
-    e ""
-
-# game/extras.rpy:2178
-translate italian extra_scene_44_daa42a96:
-
-    # "She was so wet, my cock slipped out of her cunt multiple times."
-    ""
-
-# game/extras.rpy:2179
-translate italian extra_scene_44_d82179ea:
-
-    # "We both made frustrated noises every time it happened, so I decided to do something about it the next time it happened."
-    ""
-
-# game/extras.rpy:2184
-translate italian extra_scene_44_f660876b:
-
-    # "I lifted Eva from my lap, turned her around and pulled her back on my cock again."
-    ""
-
-# game/extras.rpy:2186
-translate italian extra_scene_44_69df71eb:
-
-    # "My sister now rode me reverse cowgirl, allowing access to a whole new range of sensations."
-    ""
-
-# game/extras.rpy:2188
-translate italian extra_scene_44_a3b6af67:
-
-    # "My girlfriend now rode me reverse cowgirl, allowing access to a whole new range of sensations."
-    ""
-
-# game/extras.rpy:2191
-translate italian extra_scene_44_dad8cdf2:
-
-    # "Eva groaned when my cock buried itself deep into her dripping pussy."
-    ""
-
-# game/extras.rpy:2192
-translate italian extra_scene_44_aee5c221:
-
-    # e "Oh yes, fuck my tight little pussy!"
-    e ""
-
-# game/extras.rpy:2193
-translate italian extra_scene_44_a66c2965:
-
-    # e "Harder, please fuck me harder!"
-    e ""
-
-# game/extras.rpy:2194
-translate italian extra_scene_44_0900af78:
-
-    # "My hard methodical strokes were slowly but surely sending her over the edge."
-    ""
-
-# game/extras.rpy:2195
-translate italian extra_scene_44_1e069ce0:
-
-    # "Eva clenched her arm around my neck and moaned with each deep thrust."
-    ""
-
-# game/extras.rpy:2201
-translate italian extra_scene_44_f10ee58a:
-
-    # e "Oh [p_name_short], you’re making me-"
-    e ""
-
-# game/extras.rpy:2202
-translate italian extra_scene_44_939f830a:
-
-    # e "You’re-"
-    e ""
-
-# game/extras.rpy:2203
-translate italian extra_scene_44_86bbf7a8:
-
-    # e "Oh fuck, [p_name_short], I’m cumming!"
-    e ""
-
-# game/extras.rpy:2206
-translate italian extra_scene_44_39275fa9:
-
-    # "My sister orgasmed on my cock."
-    ""
-
-# game/extras.rpy:2208
-translate italian extra_scene_44_6bcd9859:
-
-    # "My girlfriend orgasmed on my cock."
-    ""
-
-# game/extras.rpy:2211
-translate italian extra_scene_44_5511662e:
-
-    # "Her slit flooded with juices and she held me even tighter, her climax shaking her to the core."
-    ""
-
-# game/extras.rpy:2212
-translate italian extra_scene_44_8e94ed12:
-
-    # "Fucking her convulsing pussy triggered the onset of my orgasm too."
-    ""
-
-# game/extras.rpy:2216
-translate italian extra_scene_44_6ab30c4e:
-
-    # c "I’m going to cum inside you, Eva!"
-    c ""
-
-# game/extras.rpy:2217
-translate italian extra_scene_44_a035132f:
-
-    # e "Yes, please fill my pussy!"
-    e ""
-
-# game/extras.rpy:2223
-translate italian extra_scene_44_d2968ec2:
-
-    # "I roared and blasted my sister’s pussy full of warm cum."
-    ""
-
-# game/extras.rpy:2225
-translate italian extra_scene_44_fb79feeb:
-
-    # "I roared and blasted my girlfriend’s pussy full of warm cum."
-    ""
-
-# game/extras.rpy:2226
-translate italian extra_scene_44_b2d7f9d5:
-
-    # "Squeezing her flesh, I continued to hold her, until every spurt of seed was inside her."
-    ""
-
-# game/extras.rpy:2229
-translate italian extra_scene_44_1734419a:
-
-    # "When my cock flopped from her cunt, semen started flowing out of her in thick globs."
-    ""
-
-# game/extras.rpy:2232
-translate italian extra_scene_44_f2d8a629:
-
-    # c "I’m going to cum all over you, Eva!"
-    c ""
-
-# game/extras.rpy:2233
-translate italian extra_scene_44_bfc2e875:
-
-    # e "Yes, please shoot it all on my body!"
-    e ""
-
-# game/extras.rpy:2239
-translate italian extra_scene_44_28c76a41:
-
-    # "I roared and blasted my cum all over my sister’s body."
-    ""
-
-# game/extras.rpy:2241
-translate italian extra_scene_44_b952ff7b:
-
-    # "I roared and blasted my cum all over my girlfriend’s body."
-    ""
-
-# game/extras.rpy:2244
-translate italian extra_scene_44_26312c9f:
-
-    # "Warm seed streaked her belly and breasts."
-    ""
-
-# game/extras.rpy:2247
-translate italian extra_scene_44_60e9b568:
-
-    # c "I want to cum in your mouth, Eva!"
-    c ""
-
-# game/extras.rpy:2252
-translate italian extra_scene_44_65653b5d:
-
-    # "On the verge of climaxing, Eva kneeled in front of me and licked my twitching cock."
-    ""
-
-# game/extras.rpy:2253
-translate italian extra_scene_44_a1ab0747:
-
-    # e "Please, shoot it all in my mouth."
-    e ""
-
-# game/extras.rpy:2259
-translate italian extra_scene_44_52d40234:
-
-    # "I roared and my sister quickly put my dick in her mouth."
-    ""
-
-# game/extras.rpy:2261
-translate italian extra_scene_44_be1c53fc:
-
-    # "I roared and my girlfriend quickly put my dick in her mouth."
-    ""
-
-# game/extras.rpy:2262
-translate italian extra_scene_44_bc0ddb15:
-
-    # "Warm cum blasted out of my cock and into her mouth."
-    ""
-
-# game/extras.rpy:2266
-translate italian extra_scene_44_64b3b8e7:
-
-    # "My sister gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
-    ""
-
-# game/extras.rpy:2268
-translate italian extra_scene_44_a6cae995:
-
-    # "My girlfriend gladly received every last drop of seed and opened her mouth to show just how much I shot inside her."
-    ""
-
-# game/extras.rpy:2270
-translate italian extra_scene_44_8ea8b541:
-
-    # "Smiling, she swallowed it all."
-    ""
-
-# game/extras.rpy:2275
-translate italian extra_scene_44_1277fdb4:
-
-    # "Both thoroughly satisfied, we made out in the chair for a while before dressing and returning to our daily routines."
-    ""
-
-# game/extras.rpy:2287
-translate italian extra_scene_45_da05018d:
-
-    # "Returning from the shower, I noticed I had a message from my mother requesting me to come to her quarters."
-    ""
-
-# game/extras.rpy:2289
-translate italian extra_scene_45_30a9a4c0:
-
-    # "Returning from the shower, I noticed I had a message from Nadya requesting me to come to her quarters."
-    ""
-
-# game/extras.rpy:2290
-translate italian extra_scene_45_ed1e5617:
-
-    # "I was fairly certain she didn’t want to discuss the current mission details with me, so I quickly put some clothes on and headed to her quarters."
-    ""
-
-# game/extras.rpy:2293
-translate italian extra_scene_45_244265e2:
-
-    # "When I opened the door, my mother was leaning against a book case, only dressed in her underwear."
-    ""
-
-# game/extras.rpy:2295
-translate italian extra_scene_45_67d94f58:
-
-    # "When I opened the door, Nadya was leaning against a book case, only dressed in her underwear."
-    ""
-
-# game/extras.rpy:2296
-translate italian extra_scene_45_8ac948f2:
-
-    # na "Oh hey [p_name_short], you’re quick."
-    na ""
-
-# game/extras.rpy:2298
-translate italian extra_scene_45_09805c2c:
-
-    # c "I always am when I know my mother is waiting for me in her spiciest lingerie."
-    c ""
-
-# game/extras.rpy:2300
-translate italian extra_scene_45_238ed13b:
-
-    # c "I always am when I know you’re is waiting for me in spicy lingerie."
-    c ""
-
-# game/extras.rpy:2301
-translate italian extra_scene_45_dfe59296:
-
-    # na "I’m glad you like what you’re seeing."
-    na ""
-
-# game/extras.rpy:2302
-translate italian extra_scene_45_80256382:
-
-    # c "I love what I’m seeing."
-    c ""
-
-# game/extras.rpy:2303
-translate italian extra_scene_45_39ae201a:
-
-    # c "You know what I really want?"
-    c ""
-
-# game/extras.rpy:2304
-translate italian extra_scene_45_8321e32f:
-
-    # na "No, tell me?"
-    na ""
-
-# game/extras.rpy:2306
-translate italian extra_scene_45_7b30d0f7:
-
-    # "I closed the door behind me and advanced on Nadya."
-    ""
-
-# game/extras.rpy:2307
-translate italian extra_scene_45_6fab0bb2:
-
-    # c "I want to taste your pussy and make you climax in my face."
-    c ""
-
-# game/extras.rpy:2308
-translate italian extra_scene_45_98e2f795:
-
-    # na "And I want you to."
-    na ""
-
-# game/extras.rpy:2309
-translate italian extra_scene_45_cb1f2fd0:
-
-    # na "What are we waiting for?"
-    na ""
-
-# game/extras.rpy:2310
-translate italian extra_scene_45_295bb550:
-
-    # c "Well, there’s one problem."
-    c ""
-
-# game/extras.rpy:2311
-translate italian extra_scene_45_9149406d:
-
-    # na "Oh?"
-    na ""
-
-# game/extras.rpy:2312
-translate italian extra_scene_45_f09bb314:
-
-    # c "It’s virtually impossible to move around here with all the books everywhere."
-    c ""
-
-# game/extras.rpy:2314
-translate italian extra_scene_45_36936914:
-
-    # "Nadya’s quarters resembled a very tiny library, maintained by a very untidy librarian."
-    ""
-
-# game/extras.rpy:2315
-translate italian extra_scene_45_055bf43b:
-
-    # c "It’s a small wonder you actually get to reach the bed each night."
-    c ""
-
-# game/extras.rpy:2316
-translate italian extra_scene_45_346881c8:
-
-    # na "Okay, okay, I’m putting them away already."
-    na ""
-
-# game/extras.rpy:2318
-translate italian extra_scene_45_ac64ac99:
-
-    # "She was virtually throwing books off the bed, very eager to get my tongue in her pussy."
-    ""
-
-# game/extras.rpy:2319
-translate italian extra_scene_45_d2c94b52:
-
-    # "A large stack of books nearly toppled over as she carried them to put them on the floor."
-    ""
-
-# game/extras.rpy:2320
-translate italian extra_scene_45_6bfdf829:
-
-    # c "Need help with that?"
-    c ""
-
-# game/extras.rpy:2321
-translate italian extra_scene_45_9741b7ef:
-
-    # na "Yes, please."
-    na ""
-
-# game/extras.rpy:2326
-translate italian extra_scene_45_a264ba39:
-
-    # "After clearing the bed of books, Nadya undressed and lay down."
-    ""
-
-# game/extras.rpy:2327
-translate italian extra_scene_45_44c0c90d:
-
-    # na "All ready for you now."
-    na ""
-
-# game/extras.rpy:2329
-translate italian extra_scene_45_e38fb39b:
-
-    # "I opened my mother’s legs and pushed them backward to give me better access to her cunt."
-    ""
-
-# game/extras.rpy:2331
-translate italian extra_scene_45_d5369cc7:
-
-    # "I opened Nadya’s legs and pushed them backward to give me better access to her cunt."
-    ""
-
-# game/extras.rpy:2336
-translate italian extra_scene_45_46f277f5:
-
-    # "Nadya moaned as I probed her slit with my tongue."
-    ""
-
-# game/extras.rpy:2337
-translate italian extra_scene_45_75f5d60c:
-
-    # "She was already wet and I slowly licked up the juices from her pussy."
-    ""
-
-# game/extras.rpy:2339
-translate italian extra_scene_45_139be819:
-
-    # na "Oh yes, [p_name_short]!"
-    na ""
-
-# game/extras.rpy:2340
-translate italian extra_scene_45_325fc8d5:
-
-    # na "That’s it, right there!"
-    na ""
-
-# game/extras.rpy:2342
-translate italian extra_scene_45_4000fbbf:
-
-    # "I alternated between sucking and licking her labia, sending waves of pleasure through her body."
-    ""
-
-# game/extras.rpy:2344
-translate italian extra_scene_45_ea9ef225:
-
-    # "When I lingered on her clit, my mother began to tremble violently."
-    ""
-
-# game/extras.rpy:2346
-translate italian extra_scene_45_3b6c8ec9:
-
-    # "When I lingered on her clit, Nadya began to tremble violently."
-    ""
-
-# game/extras.rpy:2348
-translate italian extra_scene_45_df0158ea:
-
-    # na "I want your hard cock inside me, [p_name_short]!"
-    na ""
-
-# game/extras.rpy:2349
-translate italian extra_scene_45_9e960a96:
-
-    # na "Fuck me, please!"
-    na ""
-
-# game/extras.rpy:2352
-translate italian extra_scene_45_56dee434:
-
-    # "Letting go of her legs, I moved on top of her and pressed my dick inside my mother’s pussy."
-    ""
-
-# game/extras.rpy:2354
-translate italian extra_scene_45_1c098f40:
-
-    # "Letting go of her legs, I moved on top of her and pressed my dick inside Nadya’s pussy."
-    ""
-
-# game/extras.rpy:2355
-translate italian extra_scene_45_424b637e:
-
-    # na "That’s it!"
-    na ""
-
-# game/extras.rpy:2356
-translate italian extra_scene_45_487de577:
-
-    # c "Mmmm, your pussy feels so good."
-    c ""
-
-# game/extras.rpy:2357
-translate italian extra_scene_45_d44e79a5:
-
-    # na "And you feel so good inside me."
-    na ""
-
-# game/extras.rpy:2359
-translate italian extra_scene_45_b74e7091:
-
-    # na "Fuck your mother hard, [p_name_short]!"
-    na ""
-
-# game/extras.rpy:2361
-translate italian extra_scene_45_097a20b5:
-
-    # na "Fuck me hard, [p_name_short]!"
-    na ""
-
-# game/extras.rpy:2366
-translate italian extra_scene_45_22a03cce:
-
-    # "I didn’t need any encouragement."
-    ""
-
-# game/extras.rpy:2367
-translate italian extra_scene_45_bfac44d5:
-
-    # "With bold measured strokes, I attacked her cunt."
-    ""
-
-# game/extras.rpy:2368
-translate italian extra_scene_45_5335c713:
-
-    # "The wet sounds of my dick burrowing deep inside her resounded through the room."
-    ""
-
-# game/extras.rpy:2370
-translate italian extra_scene_45_6d96cafd:
-
-    # na "Keep going!{w} Keep going!{w} I’m going to cum!"
-    na ""
-
-# game/extras.rpy:2372
-translate italian extra_scene_45_523c4485:
-
-    # "I didn’t stop thrusting, reducing my mother to whimpering cries of lust."
-    ""
-
-# game/extras.rpy:2374
-translate italian extra_scene_45_c4359c19:
-
-    # "I didn’t stop thrusting, reducing Nadya to whimpering cries of lust."
-    ""
-
-# game/extras.rpy:2376
-translate italian extra_scene_45_a27ad045:
-
-    # "Kissing her, she reached her climax."
-    ""
-
-# game/extras.rpy:2377
-translate italian extra_scene_45_c6a9e5f4:
-
-    # "Her pussy convulsed as her body shuddered, but I didn’t stop."
-    ""
-
-# game/extras.rpy:2378
-translate italian extra_scene_45_0d40c9cd:
-
-    # "My deep thrusts prolonged her orgasm for a good while."
-    ""
-
-# game/extras.rpy:2379
-translate italian extra_scene_45_a4a6eb45:
-
-    # na "Oh [p_name], I love your dick so much!"
-    na ""
-
-# game/extras.rpy:2380
-translate italian extra_scene_45_a7e277d3:
-
-    # na "Let me ride you, please!"
-    na ""
-
-# game/extras.rpy:2385
-translate italian extra_scene_45_e16e3de7:
-
-    # "When the throes of her orgasm had subsided, I pulled out of my mother and lay on my back."
-    ""
-
-# game/extras.rpy:2387
-translate italian extra_scene_45_9e1a81c1:
-
-    # "When the throes of her orgasm had subsided, I pulled out of Nadya and lay on my back."
-    ""
-
-# game/extras.rpy:2389
-translate italian extra_scene_45_ec38bf85:
-
-    # "Nadya squatted on top of my dick and allowed herself to be penetrated by me again."
-    ""
-
-# game/extras.rpy:2393
-translate italian extra_scene_45_8ef5edda:
-
-    # "She fucked me slow and intense, my full length stimulated by her wet pussy."
-    ""
-
-# game/extras.rpy:2395
-translate italian extra_scene_45_e380895b:
-
-    # "When I was buried deep inside her, my mother ground her pussy against my abdomen."
-    ""
-
-# game/extras.rpy:2397
-translate italian extra_scene_45_4f6e559e:
-
-    # "When I was buried deep inside her, Nadya ground her pussy against my abdomen."
-    ""
-
-# game/extras.rpy:2400
-translate italian extra_scene_45_a84f024a:
-
-    # c "Oh fuck, that feels so good."
-    c ""
-
-# game/extras.rpy:2401
-translate italian extra_scene_45_3e198932:
-
-    # na "Yes, does my pussy feel good?"
-    na ""
-
-# game/extras.rpy:2402
-translate italian extra_scene_45_93346968:
-
-    # c "Yes, keep riding me like that!"
-    c ""
-
-# game/extras.rpy:2406
-translate italian extra_scene_45_4c5cd7cf:
-
-    # "My mother’s large breasts swayed right in front of me, so I took hold and began to massage them."
-    ""
-
-# game/extras.rpy:2407
-translate italian extra_scene_45_7793f610:
-
-    # c "I love your tits so much, mom."
-    c ""
-
-# game/extras.rpy:2409
-translate italian extra_scene_45_c1051920:
-
-    # "Nadya’s large breasts swayed right in front of me, so I took hold and began to massage them."
-    ""
-
-# game/extras.rpy:2410
-translate italian extra_scene_45_2e4e6a8e:
-
-    # c "I love your tits so much, Nadya."
-    c ""
-
-# game/extras.rpy:2411
-translate italian extra_scene_45_982c63c4:
-
-    # na "They’re all yours, baby."
-    na ""
-
-# game/extras.rpy:2412
-translate italian extra_scene_45_079d52ee:
-
-    # na "You can do anything to me, anything to make you cum!"
-    na ""
-
-# game/extras.rpy:2419
-translate italian extra_scene_45_e2cd59a5:
-
-    # "My orgasm was close, my mother’s tight slit made sure of that."
-    ""
-
-# game/extras.rpy:2421
-translate italian extra_scene_45_8f61513d:
-
-    # "My orgasm was close, Nadya’s tight slit made sure of that."
-    ""
-
-# game/extras.rpy:2425
-translate italian extra_scene_45_a98ba642:
-
-    # "There was no question where my seed would end up."
-    ""
-
-# game/extras.rpy:2428
-translate italian extra_scene_45_88f2e3d1:
-
-    # c "I want to make you pregnant, mom."
-    c ""
-
-# game/extras.rpy:2430
-translate italian extra_scene_45_39516bb0:
-
-    # c "I want to make you pregnant, Nadya."
-    c ""
-
-# game/extras.rpy:2431
-translate italian extra_scene_45_1ad90fb3:
-
-    # na "Yes, [p_name_short], breed my pussy."
-    na ""
-
-# game/extras.rpy:2434
-translate italian extra_scene_45_2528021b:
-
-    # c "I want to fill you up, mom."
-    c ""
-
-# game/extras.rpy:2436
-translate italian extra_scene_45_caceb0f2:
-
-    # c "I want to fill you up, Nadya."
-    c ""
-
-# game/extras.rpy:2437
-translate italian extra_scene_45_bcf1c4d4:
-
-    # na "Yes, [p_name_short], fill my pussy!"
-    na ""
-
-# game/extras.rpy:2438
-translate italian extra_scene_45_351fa52d:
-
-    # "Several thrusts later, my climax had arrived."
-    ""
-
-# game/extras.rpy:2439
-translate italian extra_scene_45_9f8272ff:
-
-    # c "I’m going to cum!"
-    c ""
-
-# game/extras.rpy:2440
-translate italian extra_scene_45_df45e3b2:
-
-    # c "I’m cumming!"
-    c ""
-
-# game/extras.rpy:2441
-translate italian extra_scene_45_d02e0daa:
-
-    # na "Yes, that’s it."
-    na ""
-
-# game/extras.rpy:2444
-translate italian extra_scene_45_241f094b:
-
-    # na "Put a baby inside your mother!"
-    na ""
-
-# game/extras.rpy:2446
-translate italian extra_scene_45_062f225a:
-
-    # na "Put a baby inside me!"
-    na ""
-
-# game/extras.rpy:2449
-translate italian extra_scene_45_29baad40:
-
-    # na "Fill your mother up!"
-    na ""
-
-# game/extras.rpy:2451
-translate italian extra_scene_45_a2120f82:
-
-    # na "Fill me up!"
-    na ""
-
-# game/extras.rpy:2457
-translate italian extra_scene_45_ac5eddb5:
-
-    # "Hot cum flooded my mother’s vagina."
-    ""
-
-# game/extras.rpy:2459
-translate italian extra_scene_45_3f6bb027:
-
-    # "Hot cum flooded Nadya’s vagina."
-    ""
-
-# game/extras.rpy:2460
-translate italian extra_scene_45_18970cb4:
-
-    # "She kept riding me until my cock ceased spewing cum and then she allowed me to pull out."
-    ""
-
-# game/extras.rpy:2464
-translate italian extra_scene_45_62ab9017:
-
-    # "My warm seed softly flowed from my mother’s gaping pussy."
-    ""
-
-# game/extras.rpy:2466
-translate italian extra_scene_45_58ce4e49:
-
-    # "My warm seed softly flowed from Nadya’s gaping pussy."
-    ""
-
-# game/extras.rpy:2470
-translate italian extra_scene_45_6e9d6d1d:
-
-    # "I wanted to mark my mother with my seed."
-    ""
-
-# game/extras.rpy:2471
-translate italian extra_scene_45_6b579e07:
-
-    # c "I want to shoot my cum all over your body, mom."
-    c ""
-
-# game/extras.rpy:2473
-translate italian extra_scene_45_9fbb9152:
-
-    # "I wanted to mark Nadya with my seed."
-    ""
-
-# game/extras.rpy:2474
-translate italian extra_scene_45_654ac753:
-
-    # c "I want to shoot my cum all over your body, Nadya."
-    c ""
-
-# game/extras.rpy:2475
-translate italian extra_scene_45_3a337e93:
-
-    # na "Yes, [p_name_short], make a mess of my body!"
-    na ""
-
-# game/extras.rpy:2480
-translate italian extra_scene_45_4111fb7e:
-
-    # "Several thrusts later, my climax arrived and I pulled out."
-    ""
-
-# game/extras.rpy:2484
-translate italian extra_scene_45_7a4a5920:
-
-    # "Hot cum splashed all over my mother’s back and butt."
-    ""
-
-# game/extras.rpy:2486
-translate italian extra_scene_45_1ed4fccc:
-
-    # "Hot cum splashed all over Nadya’s back and butt."
-    ""
-
-# game/extras.rpy:2491
-translate italian extra_scene_45_45657d78:
-
-    # "Exhausted, we cuddled together."
-    ""
-
-# game/extras.rpy:2492
-translate italian extra_scene_45_8cb27660:
-
-    # c "So this is what it takes to make you clean your room?"
-    c ""
-
-# game/extras.rpy:2493
-translate italian extra_scene_45_7a16a2cb:
-
-    # na "Yes, every time."
-    na ""
-
-# game/extras.rpy:2494
-translate italian extra_scene_45_2b538134:
-
-    # c "Just to be clear, that’s not a punishment at all."
-    c ""
-
-# game/extras.rpy:2496
-translate italian extra_scene_45_d2296f3d:
-
-    # "We needed to get ready for our arrival on Petrarch, so I left my mother’s quarters after kissing her goodbye."
-    ""
-
-# game/extras.rpy:2498
-translate italian extra_scene_45_34382141:
-
-    # "We needed to get ready for our arrival on Petrarch, so I left Nadya’s quarters after kissing her goodbye."
-    ""
-
-# game/extras.rpy:2506
+# game/extras.rpy:2509
 translate italian extra_scene_46_10eef4af:
 
     # "Is Vess submissive in this scene?"
-    ""
+    "Vess è sottomessa in questa scena?"
 
-# game/extras.rpy:2510
+# game/extras.rpy:2513
 translate italian extra_scene_46_a2cec5b9:
 
     # "Vess submissive"
-    ""
+    "Vess è sottomessa"
 
-# game/extras.rpy:2513
+# game/extras.rpy:2516
 translate italian extra_scene_46_2be4f19f:
 
     # "Vess not submissive"
-    ""
+    "Vess non è sottomessa"
 
-# game/extras.rpy:2515
+# game/extras.rpy:2518
 translate italian extra_scene_46_a7af1bbe:
 
     # "I pulled out of Vess and allowed her to catch her breath."
-    ""
+    "Mi sfilai da Vess e le permisi di riprendere fiato."
 
-# game/extras.rpy:2517
+# game/extras.rpy:2520
 translate italian extra_scene_46_b8472df8:
 
     # c "You’re both such good little cock sluts."
-    c ""
+    c "Siete entrambe delle ottime troiette."
 
-# game/extras.rpy:2518
+# game/extras.rpy:2521
 translate italian extra_scene_46_4ba8056a:
 
     # c "I really want to return the favor, so why don’t you both spread your legs for me."
-    c ""
+    c "Voglio davvero ricambiare il favore, quindi perché non aprite entrambe le gambe per me?"
 
-# game/extras.rpy:2520
+# game/extras.rpy:2523
 translate italian extra_scene_46_7665ccd0:
 
     # "Both Vess and Céline obliged, opening their legs and displaying their sweet little pussies for me."
-    ""
+    "Sia Vess che Céline mi accontentarono, aprendo le gambe e mostrandomi le loro dolci fighette."
 
-# game/extras.rpy:2521
+# game/extras.rpy:2524
 translate italian extra_scene_46_b2f0b128:
 
     # c "Now who shall I pick first?"
-    c ""
+    c "Ora chi sceglierò per primo?"
 
-# game/extras.rpy:2524
+# game/extras.rpy:2527
 translate italian extra_scene_46_03583cd3:
 
     # ve "I’m all ready for you, master."
-    ve ""
+    ve "Sono pronta per te, padrone."
 
-# game/extras.rpy:2526
+# game/extras.rpy:2529
 translate italian extra_scene_46_f93b076e:
 
     # ve "I’m all ready for you."
-    ve ""
+    ve "Sono pronta per te."
 
-# game/extras.rpy:2528
+# game/extras.rpy:2531
 translate italian extra_scene_46_2c03e1e0:
 
     # ce "Me please!"
-    ce ""
+    ce "Io, per favore!"
 
-# game/extras.rpy:2529
+# game/extras.rpy:2532
 translate italian extra_scene_46_ada9d059:
 
     # ce "I’ll squirt for you again!"
-    ce ""
+    ce "Schizzerò di nuovo per te!"
 
-# game/extras.rpy:2530
+# game/extras.rpy:2533
 translate italian extra_scene_46_a44b63aa:
 
     # c "Oh Vess, I don’t think I can resist that offer."
-    c ""
+    c "Oh Vess, non credo di poter resistere a questa offerta."
 
-# game/extras.rpy:2535
+# game/extras.rpy:2538
 translate italian extra_scene_46_611b62ca:
 
     # "I went down to my knees and pushed Céline’s legs backward."
-    ""
+    "Mi inginocchiai e spinsi le gambe di Céline all'indietro."
 
-# game/extras.rpy:2536
+# game/extras.rpy:2539
 translate italian extra_scene_46_cac52928:
 
     # "She shivered as my tongue connected with her pussy lips."
-    ""
+    "Lei rabbrividì quando la mia lingua entrò in contatto con le labbra della sua figa."
 
-# game/extras.rpy:2537
+# game/extras.rpy:2540
 translate italian extra_scene_46_27d2ab80:
 
     # c "Mmmm, you’re already drenched, Céline."
-    c ""
+    c "Mmmm, sei già fradicia, Céline."
 
-# game/extras.rpy:2538
+# game/extras.rpy:2541
 translate italian extra_scene_46_31d5c584:
 
     # ce "Yes, you’re making me all wet."
-    ce ""
+    ce "Sì, mi stai facendo bagnare tutta."
 
-# game/extras.rpy:2542
+# game/extras.rpy:2545
 translate italian extra_scene_46_ca2d3f65:
 
     # ce "Oh [p_name_short], your tongue feels so good on my pussy."
-    ce ""
+    ce "Oh [p_name_short], la tua lingua è così bella sulla mia figa."
 
-# game/extras.rpy:2543
+# game/extras.rpy:2546
 translate italian extra_scene_46_bbbeb7ad:
 
     # "Holding her in place, I began to lick Céline’s tight pussy."
-    ""
+    "Tenendola ferma, iniziai a leccare la figa stretta di Céline."
 
-# game/extras.rpy:2544
+# game/extras.rpy:2547
 translate italian extra_scene_46_b45dbc6f:
 
     # "She quivered and moaned, growing increasingly wet."
-    ""
+    "Lei fremeva e gemeva, diventando sempre più bagnata."
 
-# game/extras.rpy:2546
+# game/extras.rpy:2549
 translate italian extra_scene_46_9cb13caf:
 
     # "Ejaculate oozed from her cunt, as her muscles tightened in the onslaught of my tongue."
-    ""
+    "L'eiaculato le trasudava dalla fica, mentre i suoi muscoli si irrigidivano sotto l'assalto della mia lingua."
 
-# game/extras.rpy:2547
+# game/extras.rpy:2550
 translate italian extra_scene_46_4a5ec619:
 
     # ce "Yes, [p_name_short], right there."
-    ce ""
+    ce "Sì, [p_name_short], proprio lì."
 
-# game/extras.rpy:2548
+# game/extras.rpy:2551
 translate italian extra_scene_46_252ae0db:
 
     # ce "Lick my clit!"
-    ce ""
+    ce "Lecca il mio clitoride!"
 
-# game/extras.rpy:2549
+# game/extras.rpy:2552
 translate italian extra_scene_46_99fda8e6:
 
     # ce "Please don’t stop!"
-    ce ""
+    ce "Ti prego, non fermarti!"
 
-# game/extras.rpy:2551
+# game/extras.rpy:2554
 translate italian extra_scene_46_abcbea03:
 
     # ve "You’re going to cum for him, aren’t you Céline?"
-    ve ""
+    ve "Hai intenzione di sborrare per lui, vero Céline?"
 
-# game/extras.rpy:2552
+# game/extras.rpy:2555
 translate italian extra_scene_46_1ef6a273:
 
     # ce "Yes, I am."
-    ce ""
+    ce "Sì, lo farò."
 
-# game/extras.rpy:2553
+# game/extras.rpy:2556
 translate italian extra_scene_46_8ba17c5e:
 
     # ce "He’s going to make me cum so hard!"
-    ce ""
+    ce "Mi farà sborrare così tanto!"
 
-# game/extras.rpy:2558
+# game/extras.rpy:2561
 translate italian extra_scene_46_ac505a8c:
 
     # "Emboldened, I increased the pressure on her slit and throbbing clitoris."
-    ""
+    "Incoraggiato, aumentai la pressione sulla sua fessura e sul suo clitoride pulsante."
 
-# game/extras.rpy:2559
+# game/extras.rpy:2562
 translate italian extra_scene_46_120b6074:
 
     # "Céline slammed the palms of her hands repeatedly on the floor of the ship, her anguished moans reverberating throughout the bridge."
-    ""
+    "Céline sbatteva ripetutamente i palmi delle mani sul pavimento della nave, i suoi gemiti angosciati si sentivano in tutto il ponte."
 
-# game/extras.rpy:2560
+# game/extras.rpy:2563
 translate italian extra_scene_46_56119beb:
 
     # "I could feel her climax was very near, as my senses were suddenly overwhelmed by her salty taste."
-    ""
+    "Sentivo che il suo orgasmo era molto vicino, mentre i miei sensi venivano improvvisamente sopraffatti dal suo sapore salato."
 
-# game/extras.rpy:2561
+# game/extras.rpy:2564
 translate italian extra_scene_46_e6446b11:
 
     # ce "Oh fuck, [p_name_short]! I’m cumming!"
-    ce ""
+    ce "Oh cazzo, [p_name_short]! Sto sborrando!"
 
-# game/extras.rpy:2562
+# game/extras.rpy:2565
 translate italian extra_scene_46_797f2030:
 
     # ce "I’m going to-"
-    ce ""
+    ce "Sto per..."
 
-# game/extras.rpy:2563
+# game/extras.rpy:2566
 translate italian extra_scene_46_f83bd7cc:
 
     # "Her words were lost to the frenzy that had overtaken her body."
-    ""
+    "Le sue parole si persero nella frenesia che aveva invaso il suo corpo."
 
-# game/extras.rpy:2568
+# game/extras.rpy:2571
 translate italian extra_scene_46_f51565c2:
 
     # "Ejaculate sprayed from her slit and into my face."
-    ""
+    "L'eiaculazione schizzò dalla sua fessura e mi arrivò in faccia."
 
-# game/extras.rpy:2570
+# game/extras.rpy:2573
 translate italian extra_scene_46_f8820d9f:
 
     # "I kept licking her pussy and managed to elicit another squirt."
-    ""
+    "Continuai a leccare la sua figa e riuscii a provocare un altro schizzo."
 
-# game/extras.rpy:2571
+# game/extras.rpy:2574
 translate italian extra_scene_46_1d17cc7b:
 
     # "Both Vess and me held her as she convulsed violently on the floor, a puddle of her ejaculate forming underneath her ass."
-    ""
+    "Sia io che Vess la tenemmo ferma mentre si contorceva violentemente sul pavimento, con una pozza di eiaculato che si formava sotto il suo sedere."
 
-# game/extras.rpy:2572
+# game/extras.rpy:2575
 translate italian extra_scene_46_cd3e0055:
 
     # "When the tremors wracking her body receded, Céline looked up to me in adoration."
-    ""
+    "Quando i tremori che le avvolgevano il corpo si attenuarono, Céline mi guardò in adorazione."
 
-# game/extras.rpy:2573
+# game/extras.rpy:2576
 translate italian extra_scene_46_2d3d6dd6:
 
     # c "Now Vess, be a good girl and clean her up."
-    c ""
+    c "Ora Vess, fai la brava e puliscila."
 
-# game/extras.rpy:2578
+# game/extras.rpy:2581
 translate italian extra_scene_46_d3dc9363:
 
     # "Vess, lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
-    ""
+    "Vess si abbassò tra le cosce di Céline e iniziò a leccare i succhi che ricoprivano la sua figa."
 
-# game/extras.rpy:2580
+# game/extras.rpy:2583
 translate italian extra_scene_46_67aa4c0d:
 
     # c "That’s a good little slut."
-    c ""
+    c "Che brava troietta."
 
-# game/extras.rpy:2582
+# game/extras.rpy:2585
 translate italian extra_scene_46_61717e30:
 
     # c "That’s a good girl."
-    c ""
+    c "Questa è una brava ragazza."
 
-# game/extras.rpy:2585
+# game/extras.rpy:2588
 translate italian extra_scene_46_565ca7e1:
 
     # "Céline was too dazed to respond at first, but as Vess kept licking her slit, she slowly came to her senses again."
-    ""
+    "All'inizio Céline era troppo stordita per rispondere, ma quando Vess continuò a leccarle la fessura, tornò lentamente in sé."
 
-# game/extras.rpy:2586
+# game/extras.rpy:2589
 translate italian extra_scene_46_5e9f5852:
 
     # "Another hungry moan escaped her."
-    ""
+    "Le sfuggì un altro gemito affamato."
 
-# game/extras.rpy:2587
+# game/extras.rpy:2590
 translate italian extra_scene_46_111e62f6:
 
     # c "I think you’re turning her on, Vess."
-    c ""
+    c "Credo che tu la stia eccitando, Vess."
 
-# game/extras.rpy:2588
+# game/extras.rpy:2591
 translate italian extra_scene_46_f631b0c9:
 
     # c "Is Vess making you horny again, Céline?"
-    c ""
+    c "Vess ti sta facendo eccitare di nuovo, Céline?"
 
-# game/extras.rpy:2589
+# game/extras.rpy:2592
 translate italian extra_scene_46_c636eed0:
 
     # c "Do you want more?"
-    c ""
+    c "Ne vuoi ancora?"
 
-# game/extras.rpy:2590
+# game/extras.rpy:2593
 translate italian extra_scene_46_1f024a06:
 
     # ce "Yes!"
-    ce ""
+    ce "Sì!"
 
-# game/extras.rpy:2591
+# game/extras.rpy:2594
 translate italian extra_scene_46_e37f9d7b:
 
     # c "But what about Vess?"
-    c ""
+    c "Ma che ne sarà di Vess?"
 
-# game/extras.rpy:2592
+# game/extras.rpy:2595
 translate italian extra_scene_46_80b59389:
 
     # ce "What about her?"
-    ce ""
+    ce "Che ne sarà di lei?"
 
-# game/extras.rpy:2593
+# game/extras.rpy:2596
 translate italian extra_scene_46_64e0260b:
 
     # c "My, you’re greedy."
-    c ""
+    c "Accidenti, come sei avida!"
 
-# game/extras.rpy:2595
+# game/extras.rpy:2598
 translate italian extra_scene_46_3f05aeda:
 
     # c "Vess has been a good whore, don’t you think she should be allowed to cum too?"
-    c ""
+    c "Vess è stata una brava puttana, non credi che anche lei dovrebbe poter sborrare?"
 
-# game/extras.rpy:2597
+# game/extras.rpy:2600
 translate italian extra_scene_46_a2f28a12:
 
     # c "Don’t you think Vess should cum too?"
-    c ""
+    c "Non pensi che anche Vess dovrebbe sborrare?"
 
-# game/extras.rpy:2598
+# game/extras.rpy:2601
 translate italian extra_scene_46_e8e252a2:
 
     # ce "I guess..."
-    ce ""
+    ce "Credo che..."
 
-# game/extras.rpy:2599
+# game/extras.rpy:2602
 translate italian extra_scene_46_dd2b5dd0:
 
     # c "Céline doesn’t want you to cum, Vess."
-    c ""
+    c "Céline non vuole che tu sborri, Vess."
 
-# game/extras.rpy:2601
+# game/extras.rpy:2604
 translate italian extra_scene_46_ac1361b9:
 
     # ve "I’m happy with whatever you decide for me, master."
-    ve ""
+    ve "Sono felice di qualsiasi cosa tu decida per me, padrone."
 
-# game/extras.rpy:2602
+# game/extras.rpy:2605
 translate italian extra_scene_46_a4523da3:
 
     # c "Make her cum then and maybe I’ll reward you."
-    c ""
+    c "Falla sborrare e forse ti ricompenserò."
 
-# game/extras.rpy:2604
+# game/extras.rpy:2607
 translate italian extra_scene_46_dd2f5814:
 
     # ve "Maybe she’ll think differently when I make her squirt again."
-    ve ""
+    ve "Forse penserà in modo diverso quando la farò schizzare di nuovo."
 
-# game/extras.rpy:2605
+# game/extras.rpy:2608
 translate italian extra_scene_46_e14ea048:
 
     # c "That gives me all the time to focus on you."
-    c ""
+    c "Così avrò tutto il tempo per concentrarmi su di te."
 
-# game/extras.rpy:2611
+# game/extras.rpy:2614
 translate italian extra_scene_46_2363a94b:
 
     # "I made Vess lie on the floor where Céline squatted on top of her face."
-    ""
+    "Feci sdraiare Vess sul pavimento e Céline si accovacciò sopra il suo viso."
 
-# game/extras.rpy:2612
+# game/extras.rpy:2615
 translate italian extra_scene_46_26b4ae4a:
 
     # "Vess pushed one finger into Céline’s wet slit and began to finger fuck her."
-    ""
+    "Vess infilò un dito nella fessura bagnata di Céline e iniziò a farle un ditalino."
 
-# game/extras.rpy:2613
+# game/extras.rpy:2616
 translate italian extra_scene_46_b4b36016:
 
     # "I pushed the blonde girl’s legs apart and inserted two fingers inside her tight pussy."
-    ""
+    "Io spinsi le gambe della bionda e inserii due dita nella sua figa stretta."
 
-# game/extras.rpy:2614
+# game/extras.rpy:2617
 translate italian extra_scene_46_8a39b621:
 
     # "Like Céline, Vess was dripping wet as well."
-    ""
+    "Come Céline, anche Vess era bagnata fradicia."
 
-# game/extras.rpy:2615
+# game/extras.rpy:2618
 translate italian extra_scene_46_09a44d00:
 
     # "Céline moaned hoarsely, the muscles in her legs straining against the rapid motions of Vess’s finger inside her cunt."
-    ""
+    "Céline gemeva raucamente, i muscoli delle sue gambe si tendevano contro i movimenti rapidi del dito di Vess all'interno della sua fica."
 
-# game/extras.rpy:2617
+# game/extras.rpy:2620
 translate italian extra_scene_46_f9fd2124:
 
     # "Vess writhed against my fingers, drenching them in ejaculate."
-    ""
+    "Vess si contorceva contro le mie dita, inzuppandole di eiaculato."
 
-# game/extras.rpy:2619
+# game/extras.rpy:2622
 translate italian extra_scene_46_ec908869:
 
     # ve "Yes, master, you’re making me feel so good!"
-    ve ""
+    ve "Sì, padrone, mi stai facendo sentire così bene!"
 
-# game/extras.rpy:2621
+# game/extras.rpy:2624
 translate italian extra_scene_46_af2ec482:
 
     # ve "Yes, right there!"
-    ve ""
+    ve "Sì, proprio lì!"
 
-# game/extras.rpy:2623
+# game/extras.rpy:2626
 translate italian extra_scene_46_487ca84c:
 
     # ce "Oh fuck, Vess!"
-    ce ""
+    ce "Oh cazzo, Vess!"
 
-# game/extras.rpy:2624
+# game/extras.rpy:2627
 translate italian extra_scene_46_b2e2bf86:
 
     # ce "Keep going, keep going!"
-    ce ""
+    ce "Continua, continua!"
 
-# game/extras.rpy:2629
+# game/extras.rpy:2632
 translate italian extra_scene_46_1a51db7e:
 
     # "Céline let out one tortured groan and liquid shot out of her pussy with great force, splashing on Vess’s face."
-    ""
+    "Céline emise un gemito tormentato e il liquido uscì dalla sua figa con grande forza, schizzando sul viso di Vess."
 
-# game/extras.rpy:2630
+# game/extras.rpy:2633
 translate italian extra_scene_46_94553b6e:
 
     # c "Drink it!"
-    c ""
+    c "Bevilo!"
 
-# game/extras.rpy:2632
+# game/extras.rpy:2635
 translate italian extra_scene_46_7d285b7a:
 
     # "Vess opened her mouth and received another spray of ejaculate right from Céline’s convulsing slit."
-    ""
+    "Vess aprì la bocca e ricevette un altro spruzzo di eiaculato proprio dalla fessura convulsa di Céline."
 
-# game/extras.rpy:2634
+# game/extras.rpy:2637
 translate italian extra_scene_46_52f6a948:
 
     # "While Céline was orgasming, I fingered Vess with renewed intensity."
-    ""
+    "Mentre Céline era in orgasmo, io sditalinavo Vess con rinnovata intensità."
 
-# game/extras.rpy:2636
+# game/extras.rpy:2639
 translate italian extra_scene_46_799e4842:
 
     # ve "Oh master! Yes! Right there!"
-    ve ""
+    ve "Oh padrone! Sì, sì, sì! Proprio lì!"
 
-# game/extras.rpy:2638
+# game/extras.rpy:2641
 translate italian extra_scene_46_921da3a0:
 
     # ve "Oh [p_name_short]! Yes! Right there!"
-    ve ""
+    ve "Oh [p_name_short]! Sì! Proprio lì!"
 
-# game/extras.rpy:2639
+# game/extras.rpy:2642
 translate italian extra_scene_46_3c094942:
 
     # ve "You’re making me cum!"
-    ve ""
+    ve "Mi stai facendo sborrare!"
 
-# game/extras.rpy:2642
+# game/extras.rpy:2645
 translate italian extra_scene_46_fc57bae7:
 
     # "With that statement Vess came hard."
-    ""
+    "Con questa affermazione Vess venne con forza."
 
-# game/extras.rpy:2643
+# game/extras.rpy:2646
 translate italian extra_scene_46_23172224:
 
     # "She arched her back and collapsed back onto the floor as her orgasm shuddered through her body."
-    ""
+    "Inarcò la schiena e si accasciò sul pavimento mentre l'orgasmo le percorreva il corpo."
 
-# game/extras.rpy:2644
+# game/extras.rpy:2647
 translate italian extra_scene_46_95b2d641:
 
     # "The sight of both girls in a state of utmost arousal made me want to fuck them hard right then and there."
-    ""
+    "La vista di entrambe le ragazze in uno stato di massima eccitazione mi fece venire voglia di scoparle con forza proprio in quel momento."
 
-# game/extras.rpy:2651
+# game/extras.rpy:2654
 translate italian extra_scene_47_2f657ef1:
 
     # "Do you suck Ziv's dick?"
-    ""
+    "Succhi il cazzo di Ziv?"
 
-# game/extras.rpy:2655
+# game/extras.rpy:2658
 translate italian extra_scene_47_1cb50eca:
 
     # "Fellatio on Ziv"
-    ""
+    "Fellatio su Ziv"
 
-# game/extras.rpy:2658
+# game/extras.rpy:2661
 translate italian extra_scene_47_c82eab70:
 
     # "No fellatio on Ziv"
-    ""
+    "Nessuna fellatio su Ziv"
 
-# game/extras.rpy:2661
+# game/extras.rpy:2664
 translate italian extra_scene_47_6553bad0:
 
     # zi "You liked that, didn’t you?"
-    zi ""
+    zi "Ti è piaciuto, vero?"
 
-# game/extras.rpy:2662
+# game/extras.rpy:2665
 translate italian extra_scene_47_42e16d70:
 
     # c "Your tight mouth felt so great."
-    c ""
+    c "La tua bocca stretta è stata fantastica."
 
-# game/extras.rpy:2663
+# game/extras.rpy:2666
 translate italian extra_scene_47_dea66856:
 
     # zi "Do you want to really fuck it?"
-    zi ""
+    zi "Vuoi scoparlo davvero?"
 
-# game/extras.rpy:2664
+# game/extras.rpy:2667
 translate italian extra_scene_47_ee67f3f3:
 
     # c "I’d love that."
-    c ""
+    c "Mi piacerebbe molto."
 
-# game/extras.rpy:2669
+# game/extras.rpy:2672
 translate italian extra_scene_47_d21bc05c:
 
     # "Ziv positioned herself on her back, her tongue outstretched, her mouth eager to receive my erection."
-    ""
+    "Ziv si posizionò sulla schiena, la sua lingua tesa, la sua bocca desiderosa di ricevere la mia erezione."
 
-# game/extras.rpy:2670
+# game/extras.rpy:2673
 translate italian extra_scene_47_8a50978d:
 
     # "She had her fingers wrapped around her own dick and stroked herself softly."
-    ""
+    "Aveva le dita avvolte intorno al suo cazzo e si accarezzava dolcemente."
 
-# game/extras.rpy:2672
+# game/extras.rpy:2675
 translate italian extra_scene_47_9a674638:
 
     # zi "Mmmm, put it inside me and fuck my mouth."
-    zi ""
+    zi "Mmmm, mettimelo dentro e scopami la bocca."
 
-# game/extras.rpy:2677
+# game/extras.rpy:2680
 translate italian extra_scene_47_3ce7c585:
 
     # "I grabbed her legs and pushed the tip of my dick against her lips."
-    ""
+    "Le afferrai le gambe e spinsi la punta del mio cazzo contro le sue labbra."
 
-# game/extras.rpy:2678
+# game/extras.rpy:2681
 translate italian extra_scene_47_cc90c89f:
 
     # "Ziv gulped me down greedily and the warm wetness of her mouth enveloped my throbbing cock."
-    ""
+    "Ziv mi inghiottì avidamente e la calda umidità della sua bocca avvolse il mio cazzo pulsante."
 
-# game/extras.rpy:2679
+# game/extras.rpy:2682
 translate italian extra_scene_47_df37af83:
 
     # "My first thrusts were exploratory, in order to sense how far Ziv could take it."
-    ""
+    "Le mie prime spinte furono esplorative, per capire fino a che punto Ziv potesse arrivare."
 
-# game/extras.rpy:2682
+# game/extras.rpy:2685
 translate italian extra_scene_47_28ddb18f:
 
     # "Soon, I hit the back of her throat and Ziv retched in response."
-    ""
+    "Presto raggiunsi la parte posteriore della sua gola e Ziv emise un rantolo in risposta."
 
-# game/extras.rpy:2683
+# game/extras.rpy:2686
 translate italian extra_scene_47_361496c3:
 
     # "Her tongue slithered along the length of my shaft to compensate and to keep me inside her mouth."
-    ""
+    "La sua lingua scivolò lungo la lunghezza della mia asta per compensare e per tenermi dentro la sua bocca."
 
-# game/extras.rpy:2684
+# game/extras.rpy:2687
 translate italian extra_scene_47_eb8f45cd:
 
     # c "That’s it Ziv, you can take it."
-    c ""
+    c "Ecco, Ziv, puoi prenderlo."
 
-# game/extras.rpy:2688
+# game/extras.rpy:2691
 translate italian extra_scene_47_13524693:
 
     # "I began to penetrate her mouth in earnest, with slow methodical strokes."
-    ""
+    "Iniziai a penetrarla in bocca sul serio, con colpi lenti e metodici."
 
-# game/extras.rpy:2689
+# game/extras.rpy:2692
 translate italian extra_scene_47_f985acc6:
 
     # "Wet gagging sounds erupted from Ziv, each time I hit her deep inside her throat."
-    ""
+    "Ziv emetteva dei conati di vomito ogni volta che la colpivo in profondità nella sua gola."
 
-# game/extras.rpy:2692
+# game/extras.rpy:2695
 translate italian extra_scene_47_c7d53172:
 
     # "Ziv was enjoying the violation of her throat, as evidenced by the fact that she was jerking herself off more rapidly than before."
-    ""
+    "Ziv stava apprezzando la violazione della sua gola, come dimostra il fatto che si stava masturbando più rapidamente di prima."
 
-# game/extras.rpy:2693
+# game/extras.rpy:2696
 translate italian extra_scene_47_3d0837b6:
 
     # "A glistening sheen of precum covered the tip of her own dick."
-    ""
+    "Una lucentezza di precum ricopriva la punta del suo cazzo."
 
-# game/extras.rpy:2694
+# game/extras.rpy:2697
 translate italian extra_scene_47_7dc8b45e:
 
     # c "I want you to take charge for a while."
-    c ""
+    c "Voglio che tu prenda il comando per un po'."
 
-# game/extras.rpy:2695
+# game/extras.rpy:2698
 translate italian extra_scene_47_d6eb76ed:
 
     # c "See how deep you can take me."
-    c ""
+    c "Vedi quanto in profondità riesci a portarmi."
 
-# game/extras.rpy:2701
+# game/extras.rpy:2704
 translate italian extra_scene_47_bec898d1:
 
     # "I pulled out of Ziv’s mouth and lay on my back."
-    ""
+    "Uscii dalla bocca di Ziv e mi sdraiai sulla schiena."
 
-# game/extras.rpy:2702
+# game/extras.rpy:2705
 translate italian extra_scene_47_961153b8:
 
     # "Ziv crawled on top me, her cock dangling in my face."
-    ""
+    "Ziv si mise a gattoni sopra di me, con il suo cazzo che mi penzolava in faccia."
 
-# game/extras.rpy:2707
+# game/extras.rpy:2710
 translate italian extra_scene_47_23a739aa:
 
     # "With her hands held on her back, she swallowed me whole again."
-    ""
+    "Con le mani sulla schiena, mi ingoiò di nuovo per intero."
 
-# game/extras.rpy:2711
+# game/extras.rpy:2714
 translate italian extra_scene_47_173e2891:
 
     # "Bobbing up and down, she took me balls-deep into her mouth, often holding it there for several seconds."
-    ""
+    "Facendo su e giù, mi ha preso in bocca fino alle palle, spesso trattenendolo per diversi secondi."
 
-# game/extras.rpy:2712
+# game/extras.rpy:2715
 translate italian extra_scene_47_8a3fcf58:
 
     # "Mucus streamed readily down the length of my shaft, as Ziv allowed me to fuck her face hard."
-    ""
+    "Il muco scorreva facilmente lungo la lunghezza della mia asta, mentre Ziv mi permetteva di scoparle la faccia con forza."
 
-# game/extras.rpy:2717
+# game/extras.rpy:2720
 translate italian extra_scene_47_e86e764c:
 
     # "Her own cock was inside my mouth too and I savored the saline taste of her arousal."
-    ""
+    "Anche il suo cazzo era dentro la mia bocca e io assaporavo il sapore salino della sua eccitazione."
 
-# game/extras.rpy:2718
+# game/extras.rpy:2721
 translate italian extra_scene_47_fd8cc43a:
 
     # "It wasn’t long before I would erupt and Ziv knew it."
-    ""
+    "Non mancava molto all'eruzione e Ziv lo sapeva."
 
-# game/extras.rpy:2719
+# game/extras.rpy:2722
 translate italian extra_scene_47_06652eca:
 
     # "She increased the pace, bringing me ever closer to my climax."
-    ""
+    "Aumentò il ritmo, portandomi sempre più vicino al culmine."
 
-# game/extras.rpy:2722
+# game/extras.rpy:2725
 translate italian extra_scene_47_ac2a8b38:
 
     # c "I want to cum inside your mouth, Ziv."
-    c ""
+    c "Voglio sborrare nella tua bocca, Ziv."
 
-# game/extras.rpy:2727
+# game/extras.rpy:2730
 translate italian extra_scene_47_72d94788:
 
     # "After several thrusts, I came deep inside Ziv’s mouth."
-    ""
+    "Dopo diverse spinte, venni in profondità nella bocca di Ziv."
 
-# game/extras.rpy:2730
+# game/extras.rpy:2733
 translate italian extra_scene_47_b646ff72:
 
     # "Thick ropes of warm cum shot straight into her throat and she swallowed everything diligently."
-    ""
+    "Spesse corde di sperma caldo le sono arrivate dritte in gola e lei ha ingoiato tutto diligentemente."
 
-# game/extras.rpy:2731
+# game/extras.rpy:2734
 translate italian extra_scene_47_df1e6abf:
 
     # zi "Mmmm, so tasty."
-    zi ""
+    zi "Mmmm, è così gustoso."
 
-# game/extras.rpy:2733
+# game/extras.rpy:2736
 translate italian extra_scene_47_fcbc4c63:
 
     # "I want to cum all over your face, Ziv."
-    ""
+    "Voglio sborrare sulla tua faccia, Ziv."
 
-# game/extras.rpy:2741
+# game/extras.rpy:2744
 translate italian extra_scene_47_ff02ad80:
 
     # "Ziv released my cock from her mouth after several deep thrusts and jerked me off intensely."
-    ""
+    "Ziv liberò il mio cazzo dalla sua bocca dopo diverse spinte profonde e mi masturbò intensamente."
 
-# game/extras.rpy:2746
+# game/extras.rpy:2749
 translate italian extra_scene_47_ab2c4d72:
 
     # "My dick was spurting cum in seconds."
-    ""
+    "Il mio cazzo sprizzava sperma in pochi secondi."
 
-# game/extras.rpy:2754
+# game/extras.rpy:2757
 translate italian extra_scene_47_bed2ce4a:
 
     # "Thick ropes of semen coated one side of Ziv’s face."
-    ""
+    "Delle spesse strisce di sperma ricoprirono un lato del viso di Ziv."
 
-# game/extras.rpy:2755
+# game/extras.rpy:2758
 translate italian extra_scene_47_9fcc3be6:
 
     # zi "Mmmm, so hot."
-    zi ""
+    zi "Mmmm, così caldo."
 
-# game/extras.rpy:2760
+# game/extras.rpy:2763
 translate italian extra_scene_47_5f03d1d7:
 
     # "Ziv climbed off me and regarded me with the same hunger as before."
-    ""
+    "Ziv si staccò da me e mi guardò con la stessa fame di prima."
 
-# game/extras.rpy:2762
+# game/extras.rpy:2765
 translate italian extra_scene_47_e61b8b76:
 
     # zi "That felt so good."
-    zi ""
+    zi "Che bella sensazione."
 
-# game/extras.rpy:2763
+# game/extras.rpy:2766
 translate italian extra_scene_47_3cabc550:
 
     # zi "We’re not done yet, are we?"
-    zi ""
+    zi "Non abbiamo ancora finito, vero?"
 
-# game/extras.rpy:2764
+# game/extras.rpy:2767
 translate italian extra_scene_47_b40d1a45:
 
     # c "Certainly not."
-    c ""
+    c "Certamente no."
 

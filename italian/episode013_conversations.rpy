@@ -4,7 +4,7 @@
 translate italian ep013_aven_talk_698241b0:
 
 
-    "Anche se evitarsi su una nave piccola come il Bastardo era piuttosto difficile, Aven sembrava essersela cavata bene nelle ultime ore."
+    "Anche se evitarsi su una nave piccola come la Bastard era piuttosto difficile, Aven sembrava essersela cavata bene nelle ultime ore."
 
 
 translate italian ep013_aven_talk_762a3e41:
@@ -82,7 +82,7 @@ translate italian ep013_aven_talk_c3c34a33:
 translate italian ep013_aven_talk_4baf0467:
 
 
-    av "Mi sei mancato così tanto!"
+    av "Mi sei mancata così tanto!"
 
 
 translate italian ep013_aven_talk_c56f81c1:
@@ -142,7 +142,7 @@ translate italian ep013_aven_talk_d97f6ab4:
 translate italian ep013_aven_talk_a0b2bd50:
 
 
-    av "Spero che Nadia scopra qualcosa di più su quegli Scolguin."
+    av "Spero che Nadya scopra qualcosa di più su quegli Scolguin."
 
 
 translate italian ep013_aven_talk_dacc6add:
@@ -178,7 +178,7 @@ translate italian ep013_aven_talk_33a876e1:
 translate italian ep013_aven_talk_0df55df0:
 
 
-    c "Mi dispiace di non essere stato presente per te."
+    c "Mi dispiace di non essere stata presente per te."
 
 
 translate italian ep013_aven_talk_49f5a23c:
@@ -208,7 +208,7 @@ translate italian ep013_aven_talk_f9d67b7d:
 translate italian ep013_aven_talk_208fa4d4:
 
 
-    av "Diavolo, non sono nemmeno sicura di poter biasimare la mamma."
+    av "Diavolo, non sono nemmeno sicuro di poter biasimare la mamma."
 
 
 translate italian ep013_aven_talk_783f4713:
@@ -238,7 +238,7 @@ translate italian ep013_aven_talk_c74505e2:
 translate italian ep013_aven_talk_022e96ee:
 
 
-    av "Non posso...{w} sei mio fratello."
+    av "Non posso... {w}Sei mio fratello."
 
 
 translate italian ep013_aven_talk_fb853be6:
@@ -298,7 +298,7 @@ translate italian ep013_aven_talk_625e5ec8:
 translate italian ep013_aven_talk_81ecb9ce:
 
 
-    av "Io..."
+    av "Yo..."
 
 
 translate italian ep013_aven_talk_846b3a8a:
@@ -430,7 +430,7 @@ translate italian ep013_aven_talk_c00f4100:
 translate italian ep013_lilly_talk_93db4a2f:
 
 
-    "Nonostante Eva sostenesse che Lilli avesse passato molto tempo accanto al mio letto, non l'avevo più vista da quando mi ero svegliato."
+    "Nonostante Eva sostenesse che Lilly avesse passato molto tempo accanto al mio letto, non l'avevo più vista da quando mi ero svegliata."
 
 
 translate italian ep013_lilly_talk_589e0258:
@@ -442,7 +442,7 @@ translate italian ep013_lilly_talk_589e0258:
 translate italian ep013_lilly_talk_5d780078:
 
 
-    c "Lilli, posso entrare?"
+    c "Lilly, posso entrare?"
 
 
 translate italian ep013_lilly_talk_aa5f589f:
@@ -460,13 +460,13 @@ translate italian ep013_lilly_talk_7a3c0f40:
 translate italian ep013_lilly_talk_4d0160f6:
 
 
-    "Un po' sconcertato, aspettai davanti alla porta."
+    "Un po' sconcertata, aspettai davanti alla porta."
 
 
 translate italian ep013_lilly_talk_a4dfcbe9:
 
 
-    "Proprio quando pensavo che Lilli non avrebbe più risposto, la porta si aprì."
+    "Proprio quando pensavo che Lilly non avrebbe più risposto, la porta si aprì."
 
 
 translate italian ep013_lilly_talk_dd296d8a:
@@ -538,7 +538,7 @@ translate italian ep013_lilly_talk_c754661d:
 translate italian ep013_lilly_talk_fd9a9835:
 
 
-    "Lilli si voltò con le lacrime agli occhi e tornò nella sua stanza."
+    "Lilly si voltò con le lacrime agli occhi e tornò nella sua stanza."
 
 
 translate italian ep013_lilly_talk_5b245953:
@@ -604,7 +604,7 @@ translate italian ep013_lilly_talk_e73799ca:
 translate italian ep013_lilly_talk_65aad098:
 
 
-    c "Mi dispiace, Lilli."
+    c "Mi dispiace, Lilly."
 
 
 translate italian ep013_lilly_talk_a38396a9:
@@ -688,7 +688,7 @@ translate italian ep013_lilly_talk_bdd0bff8:
 translate italian ep013_lilly_talk_ee5be636:
 
 
-    l "Tu...{w} la ami?"
+    l "Tu...{w}la ami?"
 
 
 translate italian ep013_lilly_talk_8a29e1eb:
@@ -712,7 +712,7 @@ translate italian ep013_lilly_talk_6e61fa05:
 translate italian ep013_lilly_talk_d82fb6c3:
 
 
-    c "Tu mi completi, Lilli, come una sorella e un'amante."
+    c "Tu mi completi, Lilly, come una sorella e un'amante."
 
 
 translate italian ep013_lilly_talk_bc99d2a2:
@@ -724,7 +724,7 @@ translate italian ep013_lilly_talk_bc99d2a2:
 translate italian ep013_lilly_talk_bb7488c9:
 
 
-    "Lilli mi fissò, con il labbro che le tremava."
+    "Lilly mi fissò, con il labbro che le tremava."
 
 
 translate italian ep013_lilly_talk_265e408a:
@@ -748,7 +748,7 @@ translate italian ep013_lilly_talk_2ec66c7d:
 translate italian ep013_lilly_talk_186a948f:
 
 
-    c "Tu sei l'unica per me."
+    c "Tu sei l'unico per me."
 
 
 translate italian ep013_lilly_talk_4669c29c:
@@ -766,7 +766,7 @@ translate italian ep013_lilly_talk_d098608f:
 translate italian ep013_lilly_talk_86b157a7:
 
 
-    "Mi accorsi che c'era un po' di sollievo negli occhi di Lilli."
+    "Mi accorsi che c'era un po' di sollievo negli occhi di Lilly."
 
 
 translate italian ep013_lilly_talk_36d5bdd4:
@@ -784,37 +784,37 @@ translate italian ep013_lilly_talk_5353ac80:
 translate italian ep013_lilly_talk_c9e6a8a8:
 
 
-    "Lasciai Lilli in uno stato di confusione, sperando che tutto si risolvesse per il meglio."
+    "Lasciai Lilly in uno stato di confusione, sperando che tutto si risolvesse per il meglio."
 
 
 translate italian ep013_lilly_talk_ff60203c:
 
 
-    c "Non posso cambiare ciò che sono e vi amo entrambe."
+    c "Non posso cambiare ciò che sono e vi amo entrambi."
 
 
 translate italian ep013_lilly_talk_5380c9f8:
 
 
-    c "So che è una cosa enorme chiederti di accettare che continuerò ad amarvi entrambe, ma te lo chiedo lo stesso."
+    c "So che è una cosa enorme chiederti di accettare che continuerò ad amarvi entrambi, ma te lo chiedo lo stesso."
 
 
 translate italian ep013_lilly_talk_2b109f94:
 
 
-    c "Qualunque sia la risposta che mi darai, ti amerò e ti rispetterò per sempre."
+    c "Qualunque sia la risposta che mi darai, ti amerò e ti rispetterò per sempre\"."
 
 
 translate italian ep013_lilly_talk_fe3610a5:
 
 
-    "Il dubbio riempì gli occhi di Lilli mentre contemplava la mia richiesta."
+    "Il dubbio riempì gli occhi di Lilly mentre contemplava la mia richiesta."
 
 
 translate italian ep013_lilly_talk_5f414d17:
 
 
-    l "Io...{w} non posso...{w} non..."
+    l "Io...{w} Non posso...{w} Non..."
 
 
 translate italian ep013_lilly_talk_00758326:
@@ -832,7 +832,7 @@ translate italian ep013_lilly_talk_4e8c7062:
 translate italian ep013_lilly_talk_2fc60e3f:
 
 
-    "Ho lasciato Lilli in uno stato di totale confusione, sperando che tutto si risolvesse per il meglio."
+    "Ho lasciato Lilly in uno stato di totale confusione, sperando che tutto si risolvesse per il meglio."
 
 
 translate italian ep013_lilly_talk_68f24faf:
@@ -880,7 +880,7 @@ translate italian ep013_lilly_talk_d2efe326:
 translate italian ep013_lilly_talk_568cc3cd:
 
 
-    "Ho lasciato una Lilli visibilmente confusa, chiedendomi se il fatto di averle detto tutto avesse davvero incrinato la nostra relazione."
+    "Ho lasciato una Lilly visibilmente confusa, chiedendomi se il fatto di averle detto tutto avesse davvero incrinato la nostra relazione."
 
 
 translate italian ep013_lilly_talk_b98a6224:
@@ -904,13 +904,13 @@ translate italian ep013_lilly_talk_255ecca1:
 translate italian ep013_lilly_talk_90e2f638:
 
 
-    c "Spero che tu riesca a trovare il coraggio di perdonarmi, Lilli, lo spero davvero."
+    c "Spero che tu riesca a trovare il coraggio di perdonarmi, Lilly, lo spero davvero."
 
 
 translate italian ep013_lilly_talk_2fc60e3f_1:
 
 
-    "Lasciai Lilli in uno stato di totale confusione, sperando che tutto si risolvesse per il meglio."
+    "Lasciai Lilly in uno stato di totale confusione, sperando che tutto si risolvesse per il meglio."
 
 
 translate italian ep013_lilly_talk_31a69a69:
@@ -928,7 +928,7 @@ translate italian ep013_lilly_talk_301aef01_1:
 translate italian ep013_lilly_talk_a1493bde:
 
 
-    "Lilli si girò ed entrò nel suo alloggio, lasciando la porta aperta."
+    "Lilly si girò ed entrò nel suo alloggio, lasciando la porta aperta."
 
 
 translate italian ep013_lilly_talk_0a444492:
@@ -940,7 +940,7 @@ translate italian ep013_lilly_talk_0a444492:
 translate italian ep013_lilly_talk_f87c9e50:
 
 
-    c "Lilli, che succede?"
+    c "Lilly, che succede?"
 
 
 translate italian ep013_lilly_talk_7a05d1c2:
@@ -964,7 +964,7 @@ translate italian ep013_lilly_talk_a4848853:
 translate italian ep013_lilly_talk_420be9b7:
 
 
-    l "Tu che te ne vai, Nadia che rivela la sua storia..."
+    l "Tu che te ne vai, Nadya che rivela la sua storia..."
 
 
 translate italian ep013_lilly_talk_a74432d3:
@@ -1030,7 +1030,7 @@ translate italian ep013_lilly_talk_d879b47c:
 translate italian ep013_lilly_talk_c63d7046:
 
 
-    l "Mi riferisco a tutto ciò che Nadia ha raccontato."
+    l "Mi riferisco a tutto ciò che Nadya ha raccontato."
 
 
 translate italian ep013_lilly_talk_1054b8c9:
@@ -1054,7 +1054,7 @@ translate italian ep013_lilly_talk_0743fd8c:
 translate italian ep013_lilly_talk_15b96add:
 
 
-    c "Ma non sono arrabbiato con Nadia."
+    c "Ma non sono arrabbiato con Nadya."
 
 
 translate italian ep013_lilly_talk_4b681ffd:
@@ -1090,7 +1090,7 @@ translate italian ep013_lilly_talk_9248f29b:
 translate italian ep013_lilly_talk_0661a5f8:
 
 
-    l "Affrontare di nuovo zia Nadia...{w} no...{w} mamma..."
+    l "Affrontare di nuovo zia Nadya... {w} no... {w} mamma..."
 
 
 translate italian ep013_lilly_talk_b693412a:
@@ -1102,7 +1102,7 @@ translate italian ep013_lilly_talk_b693412a:
 translate italian ep013_lilly_talk_a12465a4:
 
 
-    l "Voglio dire, papà e Nadia insieme..."
+    l "Voglio dire, papà e Nadya insieme..."
 
 
 translate italian ep013_lilly_talk_d2a9f9e5:
@@ -1120,7 +1120,7 @@ translate italian ep013_lilly_talk_4863e00c:
 translate italian ep013_lilly_talk_d4b37849:
 
 
-    l "Nadia pensa sicuramente che io la odi."
+    l "Nadya pensa sicuramente che io la odi."
 
 
 translate italian ep013_lilly_talk_6dfd1676:
@@ -1162,13 +1162,13 @@ translate italian ep013_lilly_talk_c6c955e3:
 translate italian ep013_lilly_talk_07128a69:
 
 
-    c "Non sembri convinta?"
+    c "Non sembri convinto?"
 
 
 translate italian ep013_lilly_talk_d563aaeb:
 
 
-    l "È solo che...{w} cosa penserà di me?"
+    l "È solo che... {w} cosa penserà di me?"
 
 
 translate italian ep013_lilly_talk_78353f5b:
@@ -1213,132 +1213,6 @@ translate italian ep013_lilly_talk_a1b439cc:
     l "Lo sono!"
 
 
-translate italian ep013_lilly_talk_f35e62e1:
-
-
-    c "Così mi sono fatto prendere dal panico e non parlare con te o con Céline è diventato più facile che affrontare la situazione."
-
-
-translate italian ep013_lilly_talk_26639176:
-
-
-    l "Pensavamo tutti di averti perso!"
-
-
-translate italian ep013_lilly_talk_05ea1d86:
-
-
-    l "È stato un tale sollievo quando ti abbiamo trovato con quel localizzatore."
-
-
-translate italian ep013_lilly_talk_f2063490:
-
-
-    c "Sono così felice che vi siate spinti così lontano per me."
-
-
-translate italian ep013_lilly_talk_478ecc95:
-
-
-    l "Tuo padre ti ha persino spinto attraverso un portellone?"
-
-
-translate italian ep013_lilly_talk_b25f5846:
-
-
-    c "Sì, qualcosa del genere."
-
-
-translate italian ep013_lilly_talk_dc0b7a97:
-
-
-    l "Orribile."
-
-
-translate italian ep013_lilly_talk_b036f3fd:
-
-
-    c "Beh, necessitava di un sacrificio, e io ho avuto la fortuna di essergli vicino."
-
-
-translate italian ep013_lilly_talk_43182e1c:
-
-
-    l "Non dovresti giocare con queste cose."
-
-
-translate italian ep013_lilly_talk_ecc1126f:
-
-
-    c "Non conosco nessun altro modo per affrontarlo."
-
-
-translate italian ep013_lilly_talk_eb407b1b:
-
-
-    l "Sì, immagino."
-
-
-translate italian ep013_lilly_talk_fa65b030:
-
-
-    l "Ma è una cosa piuttosto fredda da fare."
-
-
-translate italian ep013_lilly_talk_7a9a4e48:
-
-
-    c "Assolutamente, ma ora mi aspetto questo genere di cose dai miei genitori."
-
-
-translate italian ep013_lilly_talk_9f78720c:
-
-
-    l "Certamente non l'omicidio."
-
-
-translate italian ep013_lilly_talk_142aeaf5:
-
-
-    c "Ammetto che questo è stato nuovo, ma non è troppo sorprendente."
-
-
-translate italian ep013_lilly_talk_bd1a32e8:
-
-
-    l "Tuttavia, mi rende molto triste."
-
-
-translate italian ep013_lilly_talk_05c28db0:
-
-
-    l "Ma sono molto felice di vederti bene."
-
-
-translate italian ep013_lilly_talk_c6ce0e47:
-
-
-    c "Grazie."
-
-
-translate italian ep013_lilly_talk_1173e89a:
-
-
-    l "L'equipaggio vorrà di sicuro vederti."
-
-
-translate italian ep013_lilly_talk_09ac0171:
-
-
-    c "Ho parlato con alcuni."
-
-
-translate italian ep013_lilly_talk_670b93fb:
-
-
-    l "Stammi bene, [p_name_short]."
-
-
 translate italian ep013_lilly_second_talk_a4296e19:
 
 
@@ -1348,13 +1222,13 @@ translate italian ep013_lilly_second_talk_a4296e19:
 translate italian ep013_lilly_second_talk_65ee0276:
 
 
-    c "Ancora arrabbiata, Lilli?"
+    c "Ancora arrabbiata, Lilly?"
 
 
 translate italian ep013_lilly_second_talk_f235f9a4:
 
 
-    l "Sì...{w} no."
+    l "Sì...{w} No."
 
 
 translate italian ep013_lilly_second_talk_71887d92:
@@ -1396,7 +1270,7 @@ translate italian ep013_lilly_second_talk_5a526a85:
 translate italian ep013_lilly_second_talk_11afec4d:
 
 
-    "Lilli sospirò e abbassò la testa sconsolata."
+    "Lilly sospirò e abbassò la testa sconsolata."
 
 
 translate italian ep013_lilly_second_talk_c50316d3:
@@ -1432,7 +1306,7 @@ translate italian ep013_lilly_second_talk_aea652cc:
 translate italian ep013_lilly_second_talk_8aed8e3c:
 
 
-    c "Lilli, è una delle tue migliori amiche."
+    c "Lilly, è una delle tue migliori amiche."
 
 
 translate italian ep013_lilly_second_talk_78fd3f93:
@@ -1450,7 +1324,7 @@ translate italian ep013_lilly_second_talk_7a4d87a1:
 translate italian ep013_lilly_second_talk_f1bb613b:
 
 
-    c "Lilli, sai che ho rotto con lei."
+    c "Lilly, sai che ho rotto con lei."
 
 
 translate italian ep013_lilly_second_talk_9b8c25a6:
@@ -1468,7 +1342,7 @@ translate italian ep013_lilly_second_talk_ac9785bf:
 translate italian ep013_lilly_second_talk_0a62f9c1:
 
 
-    c "Lilli..."
+    c "Lilly..."
 
 
 translate italian ep013_lilly_second_talk_dd296d8a:
@@ -1522,7 +1396,7 @@ translate italian ep013_lilly_second_talk_25639179:
 translate italian ep013_lilly_second_talk_6dbffd65:
 
 
-    l "E forse sono troppo avida per volerti tutta per me."
+    l "E forse sono troppo avido per volerti tutta per me."
 
 
 translate italian ep013_lilly_second_talk_6488245c:
@@ -1642,7 +1516,7 @@ translate italian ep013_lilly_second_talk_24c7ada5:
 translate italian ep013_lilly_second_talk_4a59b4d9:
 
 
-    l "Da quando abbiamo cenato con Nadia, continuo a pensare a lei e a papà."
+    l "Da quando abbiamo cenato con Nadya, continuo a pensare a lei e a papà."
 
 
 translate italian ep013_lilly_second_talk_f8ac909c:
@@ -1654,7 +1528,7 @@ translate italian ep013_lilly_second_talk_f8ac909c:
 translate italian ep013_lilly_second_talk_c8d30c7c:
 
 
-    l "Non riesco ancora a superare il fatto che, sai...{w} si siano portati a letto l'un l'altra."
+    l "Non riesco ancora a superare il fatto che, sai... {w}si siano portati a letto l'un l'altro."
 
 
 translate italian ep013_lilly_second_talk_ac2bea30:
@@ -1720,7 +1594,7 @@ translate italian ep013_lilly_second_talk_bb7991a6:
 translate italian ep013_lilly_second_talk_582b9fad:
 
 
-    "Io e Lilli ci siamo scambiati un bacio prima di lasciare il suo alloggio, facendomi sperare che avrebbe perdonato il mio coinvolgimento con Céline."
+    "Io e Lilly ci siamo scambiati un bacio prima di lasciare il suo alloggio, facendomi sperare che avrebbe perdonato il mio coinvolgimento con Céline."
 
 
 translate italian ep013_eva_talk_4f3a0c55:
@@ -1768,7 +1642,7 @@ translate italian ep013_eva_talk_242753e6:
 translate italian ep013_eva_talk_bf8cb7f8:
 
 
-    e "Vuoi dire dopo che Nadia ci ha lanciato quella notizia bomba?"
+    e "Vuoi dire dopo che Nadya ci ha lanciato quella notizia bomba?"
 
 
 translate italian ep013_eva_talk_1b830b35:
@@ -1804,13 +1678,13 @@ translate italian ep013_eva_talk_d31c4a1a:
 translate italian ep013_eva_talk_d6141538:
 
 
-    e "Nadia è stata così vicina a noi per tutti questi anni, fino a quando è andata via senza spiegazioni."
+    e "Nadya è stata così vicina a noi per tutti questi anni, fino a quando è andata via senza spiegazioni."
 
 
 translate italian ep013_eva_talk_2c2209a2:
 
 
-    e "Ovviamente, mi sono sempre sentita vicino a te e a Lilli."
+    e "Ovviamente, mi sono sempre sentito vicino a te e a Lilly."
 
 
 translate italian ep013_eva_talk_588fa91f:
@@ -1828,7 +1702,7 @@ translate italian ep013_eva_talk_ff94eefb:
 translate italian ep013_eva_talk_db4a6ce8:
 
 
-    e "Con Nadia sentivo di poterle dire tutto e lei mi ascoltava davvero."
+    e "Con Nadya sentivo di poterle dire tutto e lei mi ascoltava davvero."
 
 
 translate italian ep013_eva_talk_fee47a6d:
@@ -1864,7 +1738,7 @@ translate italian ep013_eva_talk_00a36097:
 translate italian ep013_eva_talk_13c09228:
 
 
-    e "Oh sì, forse io e Nadia avremmo lavorato insieme."
+    e "Oh sì, forse io e Nadya avremmo lavorato insieme."
 
 
 translate italian ep013_eva_talk_03f88cfa:
@@ -1882,13 +1756,13 @@ translate italian ep013_eva_talk_584e9b9d:
 translate italian ep013_eva_talk_c6bf516f:
 
 
-    c "Sai come sta prendendo Lilli tutto questo?"
+    c "Sai come sta prendendo Lilly tutto questo?"
 
 
 translate italian ep013_eva_talk_779dd43d:
 
 
-    e "Beh...{w} non benissimo."
+    e "Beh... {w}Non benissimo."
 
 
 translate italian ep013_eva_talk_16d38471:
@@ -1900,7 +1774,7 @@ translate italian ep013_eva_talk_16d38471:
 translate italian ep013_eva_talk_b1c375f0:
 
 
-    e "Dopo che Nadia ha finito di parlare, se n'è andata."
+    e "Dopo che Nadya ha finito di parlare, se n'è andata."
 
 
 translate italian ep013_eva_talk_06701954:
@@ -1912,7 +1786,7 @@ translate italian ep013_eva_talk_06701954:
 translate italian ep013_eva_talk_8b4533ba:
 
 
-    c "Lilli non è più la stessa ragazza che era all'Accademia."
+    c "Lilly non è più la stessa ragazza che era all'Accademia."
 
 
 translate italian ep013_eva_talk_c348cbba:
@@ -1948,7 +1822,7 @@ translate italian ep013_eva_talk_ae9dda49:
 translate italian ep013_eva_talk_46664c30:
 
 
-    e "Sai, è una cosa stranissima...{w} quando eravamo giovani ha sempre mantenuto la calma, almeno così la ricordo."
+    e "Sai, è una cosa stranissima...{w} Quando eravamo giovani ha sempre mantenuto la calma, almeno così la ricordo."
 
 
 translate italian ep013_eva_talk_2f9ed2f1:
@@ -1960,19 +1834,19 @@ translate italian ep013_eva_talk_2f9ed2f1:
 translate italian ep013_eva_talk_d84205cd:
 
 
-    e "Ha perso completamente la testa quando Nadia ce l'ha detto [p_name_short]."
+    e "Ha perso completamente la testa quando Nadya ci ha detto [p_name_short]."
 
 
 translate italian ep013_eva_talk_a35e556c:
 
 
-    e "È stato come se avesse sfogato tutta la sua rabbia repressa su Nadia."
+    e "È stato come se avesse sfogato tutta la sua rabbia repressa su Nadya."
 
 
 translate italian ep013_eva_talk_fef053ca:
 
 
-    e "Poi ha fatto l'uscita che pensavo avrebbe fatto Lilli, sbattendo le porte e tutto il resto."
+    e "Poi ha fatto l'uscita che pensavo avrebbe fatto Lilly, sbattendo le porte e tutto il resto."
 
 
 translate italian ep013_eva_talk_e6ec0417:
@@ -2002,7 +1876,7 @@ translate italian ep013_eva_talk_ed7d32cd:
 translate italian ep013_eva_talk_e51bfc95:
 
 
-    e "Credo che lo farà, ha passato al tuo fianco quasi lo stesso tempo di Lilli."
+    e "Credo che lo farà, ha passato al tuo fianco quasi lo stesso tempo di Lilly."
 
 
 translate italian ep013_eva_talk_f29fdc8a:
@@ -2014,7 +1888,7 @@ translate italian ep013_eva_talk_f29fdc8a:
 translate italian ep013_eva_talk_1ff48e12:
 
 
-    e "Lilli e Aven hanno passato quasi tutto il tempo al tuo fianco."
+    e "Lilly e Aven hanno passato quasi tutto il tempo al tuo fianco."
 
 
 translate italian ep013_eva_talk_f319c79d:
@@ -2026,7 +1900,7 @@ translate italian ep013_eva_talk_f319c79d:
 translate italian ep013_eva_talk_17489086:
 
 
-    e "Lilli in particolare."
+    e "Lilly in particolare."
 
 
 translate italian ep013_eva_talk_b6fbfa3a:
@@ -2056,7 +1930,7 @@ translate italian ep013_eva_talk_e8faeac7:
 translate italian ep013_eva_talk_b4243383:
 
 
-    e "Lilli ha passato quasi tutto il suo tempo al tuo fianco."
+    e "Lilly ha passato quasi tutto il suo tempo al tuo fianco."
 
 
 translate italian ep013_eva_talk_fd4d4f67:
@@ -2128,25 +2002,13 @@ translate italian ep013_eva_talk_115beb88:
 translate italian ep013_eva_talk_190e0789:
 
 
-    e "Lo abbiamo fatto, ma credo che nessuno a bordo avrebbe potuto vivere con se stesso qualora ti avessimo lasciato indietro."
+    e "Lo abbiamo fatto, ma non credo che nessuno a bordo avrebbe potuto vivere con se stesso se ti avessimo lasciato indietro."
 
 
 translate italian ep013_eva_talk_a31c98a0:
 
 
-    e "Anche Vess ha fatto una cosa coraggiosa, offrendosi volontaria per cercare di recuperarti."
-
-
-translate italian ep013_eva_talk_10ac911f:
-
-
-    c "Sì, Jade me l'ha detto."
-
-
-translate italian ep013_eva_talk_e0d82712:
-
-
-    c "Non mi aspettavo che Vess rischiasse la vita in questo modo."
+    e "Anche Vess ha fatto una cosa coraggiosa, offrendosi volontaria per cercare di catturarti."
 
 
 translate italian ep013_eva_talk_e9716937:
@@ -2170,7 +2032,7 @@ translate italian ep013_eva_talk_f41ba07d:
 translate italian ep013_eva_talk_da6d445a:
 
 
-    e "Dopo aver lasciato la villa su Keplero in tutta fretta, non abbiamo riportato Vess nella sua cella immediatamente."
+    e "Dopo aver lasciato la villa su Kepler in tutta fretta, non abbiamo riportato Vess nella sua cella immediatamente."
 
 
 translate italian ep013_eva_talk_2af05397:
@@ -2182,7 +2044,7 @@ translate italian ep013_eva_talk_2af05397:
 translate italian ep013_eva_talk_fa5a4862:
 
 
-    e "Non appena ci siamo resi conto che stavi andando alla deriva nello spazio, abbiamo escogitato un piano di salvataggio."
+    e "Non appena ci siamo resi conto che stavate andando alla deriva nello spazio, abbiamo escogitato un piano di salvataggio."
 
 
 translate italian ep013_eva_talk_d259a8c6:
@@ -2254,7 +2116,7 @@ translate italian ep013_eva_talk_d393e637:
 translate italian ep013_eva_talk_3b27c67b:
 
 
-    e "Spero che Lilli e Aven riescano a fare pace con Nadia."
+    e "Spero che Lilly e Aven riescano a fare pace con Nadya."
 
 
 translate italian ep013_eva_talk_564ec7c4:
@@ -2272,7 +2134,7 @@ translate italian ep013_eva_talk_e0224be1:
 translate italian ep013_eva_talk_4d5d0831:
 
 
-    c "Parlerò con loro tre e vedrò di avvicinarle."
+    c "Parlerò con loro tre e vedrò di avvicinarli."
 
 
 translate italian ep013_eva_talk_d118013c:
@@ -2356,7 +2218,7 @@ translate italian ep013_eva_talk_9d44e506:
 translate italian ep013_eva_talk_058d0556:
 
 
-    e "Sì, sono sicura che Nadia scoprirà di più su di loro."
+    e "Sì, sono sicuro che Nadya scoprirà di più su di loro."
 
 
 translate italian ep013_eva_talk_ea11ccb4:
@@ -2386,7 +2248,7 @@ translate italian ep013_eva_talk_20996018:
 translate italian ep013_nadya_talk_62f6e65c:
 
 
-    c "Ciao, sono passato a vedere come va."
+    c "Ciao, sono passata a vedere come va."
 
 
 translate italian ep013_nadya_talk_53c39a3c:
@@ -2410,7 +2272,7 @@ translate italian ep013_nadya_talk_d1e4e113:
 translate italian ep013_nadya_talk_452bcfa8:
 
 
-    na "Sì, sono abbastanza soddisfatta, anche se ho già esaurito lo spazio degli scaffali."
+    na "Sì, sono abbastanza soddisfatto, anche se ho già esaurito lo spazio per gli scaffali."
 
 
 translate italian ep013_nadya_talk_d98d7433:
@@ -2422,7 +2284,7 @@ translate italian ep013_nadya_talk_d98d7433:
 translate italian ep013_nadya_talk_e1953026:
 
 
-    na "Alcuni sono di storia delle Acarhyn, letture interessanti ma raccapriccianti."
+    na "Alcuni sono di storia degli Acarhyn, una lettura interessante ma raccapricciante."
 
 
 translate italian ep013_nadya_talk_0da57f1a:
@@ -2434,7 +2296,7 @@ translate italian ep013_nadya_talk_0da57f1a:
 translate italian ep013_nadya_talk_188287e1:
 
 
-    c "È ciò che stai leggendo in questo momento?"
+    c "È questo che stai leggendo in questo momento?"
 
 
 translate italian ep013_nadya_talk_58960b70:
@@ -2458,7 +2320,7 @@ translate italian ep013_nadya_talk_48cce7ba:
 translate italian ep013_nadya_talk_c8f797c9:
 
 
-    na "Ad essere sincera, faccio un po' fatica a concentrarmi."
+    na "Ad essere sincero, faccio un po' fatica a concentrarmi."
 
 
 translate italian ep013_nadya_talk_6efde394:
@@ -2476,7 +2338,7 @@ translate italian ep013_nadya_talk_f72a446d:
 translate italian ep013_nadya_talk_60cc1250:
 
 
-    na "Ma Lilli e Aven non mi parlano più."
+    na "Ma Lilly e Aven non mi parlano più."
 
 
 translate italian ep013_nadya_talk_eae5c5bc:
@@ -2512,7 +2374,7 @@ translate italian ep013_nadya_talk_43cb3ad5:
 translate italian ep013_nadya_talk_7339023b:
 
 
-    c "Lilli è testarda, ma so che ti vuole bene, inoltre il suo silenzio non durerà per sempre."
+    c "Lilly è testarda, ma so che ti vuole bene, inoltre il suo silenzio non durerà per sempre."
 
 
 translate italian ep013_nadya_talk_f8a843b7:
@@ -2542,13 +2404,7 @@ translate italian ep013_nadya_talk_2758ff99:
 translate italian ep013_nadya_talk_e41002c5:
 
 
-    na "Il ricordo della tua nascita, di Aven appena dieci mesi dopo, della gravidanza di Eva e Lilli, quelle immagini mi sono così care."
-
-
-translate italian ep013_nadya_talk_6f48e37b:
-
-
-    na "Il ricordo della tua nascita, di Aven appena dieci mesi dopo, della gravidanza di Eva e Lilli, quelle immagini mi sono così care."
+    na "Il ricordo della tua nascita, di Aven appena dieci mesi dopo, della gravidanza di Eva e Lilly, quelle immagini mi sono così care."
 
 
 translate italian ep013_nadya_talk_ec07b040:
@@ -2560,13 +2416,13 @@ translate italian ep013_nadya_talk_ec07b040:
 translate italian ep013_nadya_talk_6eb9eebe:
 
 
-    c "Il danno che percepisci non è irreparabile, ne sono certo."
+    c "Il danno che percepisci non è irreparabile, ne sono certa."
 
 
 translate italian ep013_nadya_talk_c9c6b0e9:
 
 
-    c "Aven e Lilli ti vogliono ancora bene, solo che al momento sono molto confuse."
+    c "Aven e Lilly ti vogliono ancora bene, solo che al momento sono molto confusi."
 
 
 translate italian ep013_nadya_talk_f83ddb4e:
@@ -2614,7 +2470,7 @@ translate italian ep013_nadya_talk_24bff13a:
 translate italian ep013_nadya_talk_917b17c6:
 
 
-    na "Oh...{w} intendi..."
+    na "Oh...{w} Intendi..."
 
 
 translate italian ep013_nadya_talk_8475d869:
@@ -2632,7 +2488,7 @@ translate italian ep013_nadya_talk_eeec77c7:
 translate italian ep013_nadya_talk_c1271bb2:
 
 
-    na "Ero confusa, tutto qui."
+    na "Ero confuso, tutto qui."
 
 
 translate italian ep013_nadya_talk_a67fa48a:
@@ -2692,7 +2548,7 @@ translate italian ep013_nadya_talk_b443c32e:
 translate italian ep013_nadya_talk_abc4ae49:
 
 
-    na "[p_name]...{w} io....{w} grazie, lo farò."
+    na "[p_name]...{w} Yo....{w} Grazie, lo farò."
 
 
 translate italian ep013_nadya_talk_380ce082:
@@ -2722,7 +2578,7 @@ translate italian ep013_nadya_talk_b02f6586:
 translate italian ep013_nadya_talk_c39ef11c:
 
 
-    "Nadia mi abbracciò amorevolmente, sollevando improvvisamente il peso di anni di segretezza."
+    "Nadya mi abbracciò amorevolmente, sollevando improvvisamente il peso di anni di segretezza."
 
 
 translate italian ep013_raene_talk_8e87aab4:
@@ -2740,7 +2596,7 @@ translate italian ep013_raene_talk_791eb68c:
 translate italian ep013_raene_talk_bcdcf469:
 
 
-    "La tirai verso di me e la baciai."
+    "La tirai verso di me e baciai Raene."
 
 
 translate italian ep013_raene_talk_482e386e:
@@ -2842,7 +2698,7 @@ translate italian ep013_raene_second_talk_59e8f5b7:
 translate italian ep013_raene_second_talk_8fc48ebc:
 
 
-    ra "Sì, per quanto riguarda prima...{w} [p_name_short]...{w} mi dispiace..."
+    ra "Sì, per quanto riguarda prima...{w} [p_name_short]...{w} Mi dispiace..."
 
 
 translate italian ep013_raene_second_talk_9cf34866:
@@ -2890,13 +2746,13 @@ translate italian ep013_raene_second_talk_8580cc2d:
 translate italian ep013_raene_second_talk_97e7cc17:
 
 
-    c "Ma quello che è successo prima ha fatto capire che per qualche motivo ti sei trattenuta."
+    c "Ma quello che è successo prima ha fatto capire che per qualche motivo ti sei trattenuto."
 
 
 translate italian ep013_raene_second_talk_395d0514:
 
 
-    ra "Io...{w} cioè...{w} sì."
+    ra "Io...{w} Cioè...{w} Sì."
 
 
 translate italian ep013_raene_second_talk_093d7eb5:
@@ -2938,7 +2794,7 @@ translate italian ep013_raene_second_talk_3f1ad54f:
 translate italian ep013_raene_second_talk_0027e6ec:
 
 
-    ra "Quando ero così vicina a te e le cose hanno iniziato a...{w} accadere...{w} ho avuto improvvisamente paura che tu fossi disgustato, o qualcosa del genere."
+    ra "Quando ero così vicino a te e le cose hanno iniziato a...{w}accadere...{w} ho avuto improvvisamente paura che tu fossi disgustato, o qualcosa del genere."
 
 
 translate italian ep013_raene_second_talk_479dbcc5:
@@ -3130,13 +2986,13 @@ translate italian ep013_celine_talk_6aeb82fb:
 translate italian ep013_celine_talk_d19301fd:
 
 
-    ce "Sono io quella giusta per te, [p_name_short]."
+    ce "Sono io quello giusto per te, [p_name_short]."
 
 
 translate italian ep013_celine_talk_054cf9c4:
 
 
-    ce "Sono l'unica che può renderti felice."
+    ce "Sono l'unico che può renderti felice."
 
 
 translate italian ep013_celine_talk_4efe6d8b:
@@ -3190,7 +3046,7 @@ translate italian ep013_celine_talk_adc1c75f:
 translate italian ep013_celine_second_talk_a08e6bbf:
 
 
-    c "Allora, cosa è successo su Douvis tra te e Lilli?"
+    c "Allora, cosa è successo su Douvis tra te e Lilly?"
 
 
 translate italian ep013_celine_second_talk_b461db25:
@@ -3202,7 +3058,7 @@ translate italian ep013_celine_second_talk_b461db25:
 translate italian ep013_celine_second_talk_215a2430:
 
 
-    ce "Lilli non sembrava preoccuparsi del mio passo e io non riuscivo a starle dietro."
+    ce "Lilly non sembrava preoccuparsi del mio passo e io non riuscivo a starle dietro."
 
 
 translate italian ep013_celine_second_talk_2213ab70:
@@ -3226,7 +3082,7 @@ translate italian ep013_celine_second_talk_18c39d82:
 translate italian ep013_celine_second_talk_4387e8d3:
 
 
-    c "Ho raccontato a Lilli tutto quello che riguarda me e te."
+    c "Ho raccontato a Lilly tutto quello che riguarda me e te."
 
 
 translate italian ep013_celine_second_talk_3bdd7b97:
@@ -3298,19 +3154,19 @@ translate italian ep013_celine_second_talk_8e3fe1f5:
 translate italian ep013_celine_second_talk_82174601:
 
 
-    ce "{alt}Ah{/alt}..."
+    ce "..."
 
 
 translate italian ep013_celine_second_talk_cc189b99:
 
 
-    ce "Oh...{w} no, non può essere così."
+    ce "Oh...{w} No, non può essere così."
 
 
 translate italian ep013_celine_second_talk_b8b60340:
 
 
-    ce "Lilli è innamorata di te?"
+    ce "Lilly è innamorata di te?"
 
 
 translate italian ep013_celine_second_talk_1bec0e5b:
@@ -3340,7 +3196,7 @@ translate italian ep013_celine_second_talk_995c3845:
 translate italian ep013_celine_second_talk_b63d6bf3:
 
 
-    c "Lo siamo."
+    c "Lo sono."
 
 
 translate italian ep013_celine_second_talk_33a9d460:
@@ -3352,7 +3208,7 @@ translate italian ep013_celine_second_talk_33a9d460:
 translate italian ep013_celine_second_talk_6b55b98a:
 
 
-    ce "Non c'è bisogno di sottolineare che siete...{w} siete fratello e sorella."
+    ce "Non c'è bisogno di sottolineare che siete... {w} siete fratello e sorella."
 
 
 translate italian ep013_celine_second_talk_2129d2cd:
@@ -3412,13 +3268,13 @@ translate italian ep013_celine_second_talk_5af812f4:
 translate italian ep013_celine_second_talk_afdf0e73:
 
 
-    c "Ti chiedo solo di essere discreta."
+    c "Ti chiedo solo di essere discreto."
 
 
 translate italian ep013_celine_second_talk_d492d0f8:
 
 
-    c "Sia io che Lilli accettiamo i nostri sentimenti con tutto il cuore, non c'è alcun tipo di coercizione."
+    c "Sia io che Lilly accettiamo i nostri sentimenti con tutto il cuore, non c'è alcun tipo di coercizione."
 
 
 translate italian ep013_celine_second_talk_d8d968cc:
@@ -3448,13 +3304,13 @@ translate italian ep013_celine_second_talk_cef08459:
 translate italian ep013_celine_second_talk_2daada57:
 
 
-    c "Di nuovo, se non vuoi avere niente a che fare con me o con Lilli, basta che me lo dici."
+    c "Di nuovo, se non vuoi avere niente a che fare con me o con Lilly, basta che me lo dici."
 
 
 translate italian ep013_celine_second_talk_63bf29b6:
 
 
-    ce "La tua stessa sorella, [p_name]... come hai potuto?"
+    ce "La tua stessa sorella, [p_name]... Come hai potuto?"
 
 
 translate italian ep013_celine_second_talk_bac99fde:
@@ -3514,7 +3370,7 @@ translate italian ep013_celine_second_talk_f6ca3bab:
 translate italian ep013_celine_second_talk_47514f2b:
 
 
-    ce "In ogni caso manterrò il tuo segreto, sia per il bene di Lilli che per il tuo."
+    ce "In ogni caso manterrò il tuo segreto, sia per il bene di Lilly che per il tuo."
 
 
 translate italian ep013_celine_second_talk_e897fbb0:
@@ -3532,13 +3388,13 @@ translate italian ep013_celine_second_talk_37ef48ed:
 translate italian ep013_celine_second_talk_f6847571:
 
 
-    ce "Manterrò il tuo segreto, più per il bene di Lilli che per il tuo."
+    ce "Manterrò il tuo segreto, più per il bene di Lilly che per il tuo."
 
 
 translate italian ep013_celine_second_talk_396dd9aa:
 
 
-    ce "Sappiate però che sono completamente disgustata da entrambi."
+    ce "Sappiate però che sono completamente disgustato da entrambi."
 
 
 translate italian ep013_celine_second_talk_3c24304b:
@@ -3616,7 +3472,7 @@ translate italian ep013_celine_second_talk_cf3bf54d:
 translate italian ep013_celine_second_talk_ac88ff90:
 
 
-    ce "Pensi che Lilli sia disposta a parlare con me?"
+    ce "Pensi che Lilly sia disposta a parlare con me?"
 
 
 translate italian ep013_celine_second_talk_4f7c2a96:
@@ -3712,7 +3568,7 @@ translate italian ep013_jade_talk_5e0d680f:
 translate italian ep013_jade_talk_3d46a554:
 
 
-    j "Mi ha detto che mia madre riceveva spesso i rifugiati {noalt}Twi'll{/noalt}{alt}Twill{/alt} di Luclite durante il suo esilio su Paclerara."
+    j "Mi ha detto che mia madre riceveva spesso i rifugiati Twi'll di Luclite durante il suo esilio su Paclerara."
 
 
 translate italian ep013_jade_talk_bafdbd1f:
@@ -3730,7 +3586,7 @@ translate italian ep013_jade_talk_46ea80c1:
 translate italian ep013_jade_talk_77625e5c:
 
 
-    j "Secondo {noalt}M'aene{/noalt}{alt}Maene{/alt}, mia madre li aiutò a rimettere in sesto le loro vite."
+    j "Secondo M'aene, mia madre li aiutò a rimettere in sesto le loro vite."
 
 
 translate italian ep013_jade_talk_c2f70673:
@@ -3772,7 +3628,7 @@ translate italian ep013_jade_talk_d277e821:
 translate italian ep013_jade_talk_03410bda:
 
 
-    j "Prima dell'occupazione, però, vivevamo in un palazzo con la servitù, quindi sono sicura che c'erano molte persone che ci odiavano."
+    j "Prima dell'occupazione, però, vivevamo in un palazzo con la servitù, quindi sono sicuro che c'erano molte persone che ci odiavano."
 
 
 translate italian ep013_jade_talk_a7dd8304:
@@ -3820,7 +3676,7 @@ translate italian ep013_vess_talk_e872a5fd:
 translate italian ep013_vess_talk_80ee71d4:
 
 
-    c "Ho sentito che ti sei offerta volontaria per salvarmi."
+    c "Ho sentito che ti sei offerto volontario per salvarmi."
 
 
 translate italian ep013_vess_talk_324bc75c:
@@ -3844,7 +3700,7 @@ translate italian ep013_vess_talk_2fd74067:
 translate italian ep013_vess_talk_f2718947:
 
 
-    c "Avresti dovuto essere allontanata per il tuo tradimento."
+    c "Avresti dovuto essere allontanato per il tuo tradimento."
 
 
 translate italian ep013_vess_talk_bafa8287:
@@ -3856,25 +3712,25 @@ translate italian ep013_vess_talk_bafa8287:
 translate italian ep013_vess_talk_89993f42:
 
 
-    c "Puoi scegliere di rimanere qui in prigione e sarai nutrita e messa al lavoro se necessario."
+    c "Puoi scegliere di rimanere qui in prigione e sarai nutrito e messo al lavoro se necessario."
 
 
 translate italian ep013_vess_talk_cdd0b3cd:
 
 
-    c "Oppure puoi accettare di diventare la mia serva."
+    c "Oppure puoi accettare di diventare il mio servo."
 
 
 translate italian ep013_vess_talk_c82d0968:
 
 
-    ve "Serva?"
+    ve "Servo?"
 
 
 translate italian ep013_vess_talk_7a165ed9:
 
 
-    c "Come mia servitrice ti sarà permesso di uscire dalla prigione sotto costante sorveglianza."
+    c "Come mio servitore ti sarà permesso di uscire dalla prigione sotto costante sorveglianza."
 
 
 translate italian ep013_vess_talk_e962ab98:
@@ -3940,7 +3796,7 @@ translate italian ep013_vess_talk_2fd74067_1:
 translate italian ep013_vess_talk_6ab673dc:
 
 
-    c "Accetti di diventare la mia serva o rimarrai nella tua cella?"
+    c "Accetti di diventare il mio servo o rimarrai nella tua cella?"
 
 
 translate italian ep013_vess_talk_9f27e0a1:
@@ -4084,7 +3940,7 @@ translate italian ep013_vess_talk_cd8355b2:
 translate italian ep013_vess_talk_7e5716b2:
 
 
-    ve "Il pensiero di perderti...{w} mi spezza il cuore."
+    ve "Il pensiero di perderti... {w} mi spezza il cuore."
 
 
 translate italian ep013_vess_talk_dc83ae0f:
@@ -4144,7 +4000,7 @@ translate italian ep013_vess_talk_2ad22dbd:
 translate italian ep013_vess_talk_9707ad52:
 
 
-    c "Ma sono disposto a darti una seconda possibilità."
+    c "Ma sono disposta a darti una seconda possibilità."
 
 
 translate italian ep013_vess_talk_9bc908ee:
@@ -4156,7 +4012,7 @@ translate italian ep013_vess_talk_9bc908ee:
 translate italian ep013_vess_talk_b762fc92:
 
 
-    ve "Posso...{w} posso baciarti?"
+    ve "Posso...{w}posso baciarti?"
 
 
 translate italian ep013_vess_talk_3059843d_1:
@@ -4330,7 +4186,7 @@ translate italian ep013_thyia_talk_59ba92d7:
 translate italian ep013_thyia_talk_b26e37a1:
 
 
-    c "Ti hanno mai detto che sei estremamente sexy se ricoperta di grasso?"
+    c "Ti hanno mai detto che sei estremamente sexy se ricoperto di grasso?"
 
 
 translate italian ep013_thyia_talk_2a876aa3:
@@ -4396,7 +4252,7 @@ translate italian ep013_ziv_talk_e186a39d:
 translate italian ep013_ziv_talk_1e77a1bc:
 
 
-    zi "Sono venuta a trovarti spesso."
+    zi "Sono venuto a trovarti spesso."
 
 
 translate italian ep013_ziv_talk_61deb00b:
@@ -4408,13 +4264,13 @@ translate italian ep013_ziv_talk_61deb00b:
 translate italian ep013_ziv_talk_ca01cedb:
 
 
-    zi "Devo ammettere che mi sono disperata quando non era chiaro che ti saresti ripreso completamente."
+    zi "Devo ammettere che mi sono disperato quando non era chiaro che ti saresti ripreso completamente."
 
 
 translate italian ep013_ziv_talk_a45e157e:
 
 
-    zi "Abbiamo superato tutti i livelli di Compagnia così in fretta e il pensiero di perderti..."
+    zi "Abbiamo superato tutti i livelli di Compagni così in fretta e il pensiero di perderti..."
 
 
 translate italian ep013_ziv_talk_705fc01e:
@@ -4462,7 +4318,7 @@ translate italian ep013_ziv_talk_f5c8f725:
 translate italian ep013_ziv_talk_78fcdfd9:
 
 
-    c "I Rhenkoy hanno sacrificato una vita per incontrare gli Scolguin?"
+    c "Il Rhenkoy ha sacrificato una vita per incontrare gli Scolguin?"
 
 
 translate italian ep013_ziv_talk_32f650b0:
@@ -4612,13 +4468,13 @@ translate italian ep013_ziv_talk_791c6ab0:
 translate italian ep013_ziv_talk_ecea44f0:
 
 
-    zi "Molto...{w} ma la smentita iniziale e il processo pubblico hanno reso impossibile avanzare richieste di restituzione."
+    zi "Molto...{w} Ma la smentita iniziale e il processo pubblico hanno reso impossibile avanzare richieste di restituzione."
 
 
 translate italian ep013_ziv_talk_b740b1d4:
 
 
-    c "Quindi quel commando di Scolguin potrebbe essere ancora sotto la custodia dei Rhenkoy?"
+    c "Quindi quei commando di Scolguin potrebbero essere ancora sotto la custodia di Rhenkoy?"
 
 
 translate italian ep013_ziv_talk_9e91f065:
@@ -4654,7 +4510,7 @@ translate italian ep013_ziv_talk_7c3de1d0:
 translate italian ep013_ziv_talk_87322771:
 
 
-    zi "Non ne sono sicura."
+    zi "Non ne sono sicuro."
 
 
 translate italian ep013_ziv_talk_23634126:
@@ -4690,7 +4546,7 @@ translate italian ep013_ziv_talk_64a7c6f5:
 translate italian ep013_ziv_talk_3bf90b60:
 
 
-    c "Saresti disposta a farlo?"
+    c "Saresti disposto a farlo?"
 
 
 translate italian ep013_ziv_talk_8a409928:
@@ -4720,7 +4576,7 @@ translate italian ep013_ziv_talk_7d596f0d:
 translate italian ep013_ziv_talk_7752a897:
 
 
-    zi "Naturalmente, sarei onorata di mostrarti anche il mio luogo di nascita."
+    zi "Naturalmente, sarei onorato di mostrarti anche il mio luogo di nascita."
 
 
 translate italian ep013_ziv_talk_db8cafc1:
@@ -4864,13 +4720,13 @@ translate italian ep013_rae_hj_10bfe267:
 translate italian ep013_rae_hj_baa57886:
 
 
-    c "No, sono un po' nervoso, ecco perché."
+    c "No, sono un po' nervosa, ecco perché."
 
 
 translate italian ep013_rae_hj_5d7412f2:
 
 
-    ra "Perché sei...{w} oh."
+    ra "Perché sei...{w} Oh."
 
 
 translate italian ep013_rae_hj_39078219:
@@ -4900,7 +4756,7 @@ translate italian ep013_rae_hj_ce2180ae:
 translate italian ep013_rae_hj_f7da679b:
 
 
-    ra "Sembra che...{w} ehm...{w} non vogliano crescere ulteriormente."
+    ra "Sembra che...{w} Ehm...{w} non vogliano crescere ulteriormente."
 
 
 translate italian ep013_rae_hj_2f9c6b2d:
@@ -4978,7 +4834,7 @@ translate italian ep013_rae_hj_c9d79e8b:
 translate italian ep013_rae_hj_1860c6b1:
 
 
-    ra "Io..."
+    ra "Yo..."
 
 
 translate italian ep013_rae_hj_1f0e75c7:
@@ -5074,7 +4930,7 @@ translate italian ep013_rae_hj_879099fc:
 translate italian ep013_rae_hj_6fb8097f:
 
 
-    ra "Scusa...{w} non ho mai...{w} ho solo visto foto di altri uomini prima d'ora."
+    ra "Scusa...{w} Non ho mai...{w}visto solo foto di altri uomini prima d'ora."
 
 
 translate italian ep013_rae_hj_1e2e9b2e:
@@ -5140,7 +4996,7 @@ translate italian ep013_rae_hj_85bd9090:
 translate italian ep013_rae_hj_099df6f2:
 
 
-    ra "Il mio è un po' più piccolo del tuo...{w} mi dispiace..."
+    ra "Il mio è un po' più piccolo del tuo...{w} Mi dispiace..."
 
 
 translate italian ep013_rae_hj_2fa00eee:
@@ -5164,7 +5020,7 @@ translate italian ep013_rae_hj_c1e9c740:
 translate italian ep013_rae_hj_4d0fe178:
 
 
-    ra "Oh!{w} Sei sicuro...?"
+    ra "Oh! {w} Sei sicuro...?"
 
 
 translate italian ep013_rae_hj_bed98c75:
@@ -5182,7 +5038,7 @@ translate italian ep013_rae_hj_016a5446:
 translate italian ep013_rae_hj_6f6df242:
 
 
-    ra "Oh sì!{w} È così bello."
+    ra "Oh sì! {w} È così bello."
 
 
 translate italian ep013_rae_hj_d96a94ce:
@@ -5338,7 +5194,7 @@ translate italian ep013_rae_hj_27ea4770:
 translate italian ep013_rae_hj_968f2461:
 
 
-    ra "Sono qui, sdraiata tutta soddisfatta e mi sono completamente dimenticata delle tue...{w} ehm...{w} esigenze."
+    ra "Sono qui, sdraiata tutta soddisfatta e mi sono completamente dimenticata delle tue...{w} Ehm...{w} Esigenze."
 
 
 translate italian ep013_rae_hj_ed910bc4:
@@ -5434,7 +5290,7 @@ translate italian ep013_ce_sex_6f7fd5f3:
 translate italian ep013_ce_sex_4289a366:
 
 
-    ce "Scusa, ero un po' distratta."
+    ce "Scusa, ero un po' distratto."
 
 
 translate italian ep013_ce_sex_9bd7fa8e:
@@ -5470,13 +5326,13 @@ translate italian ep013_ce_sex_1f26d422:
 translate italian ep013_ce_sex_0c18d069:
 
 
-    c "Hai indossato un {alt}bat plag{/alt}{noalt}butt plug{/noalt} per tutto questo tempo?"
+    c "Hai indossato un butt plug per tutto questo tempo?"
 
 
 translate italian ep013_ce_sex_dd83a607:
 
 
-    ce "Non tutto il tempo, ma...{w} inizia a piacermi la sensazione."
+    ce "Non tutto il tempo, ma... {w} inizia a piacermi la sensazione."
 
 
 translate italian ep013_ce_sex_0b62369d:
@@ -5494,7 +5350,7 @@ translate italian ep013_ce_sex_e726a304:
 translate italian ep013_ce_sex_e960b7f2:
 
 
-    ce "Non sono sicura di poter già inserire il tuo coso dentro di me, ma non è più completamente off-limits."
+    ce "Non sono sicuro di poter già inserire il tuo coso dentro di me, ma non è più completamente off-limits."
 
 
 translate italian ep013_ce_sex_f7d0d65f:
@@ -5530,7 +5386,7 @@ translate italian ep013_ce_sex_aaf11e5f:
 translate italian ep013_ce_sex_731107f0:
 
 
-    "Il gambo del {alt}bat plag{/alt}{noalt}buttplug{/noalt} era ancora saldamente incastrato nel suo buco del culo."
+    "Il gambo del buttplug era ancora saldamente incastrato nel suo buco del culo."
 
 
 translate italian ep013_ce_sex_13404b78:
@@ -5548,7 +5404,7 @@ translate italian ep013_ce_sex_ac5b36a1:
 translate italian ep013_ce_sex_8c2bffb7:
 
 
-    "Il {noalt}plug{/noalt}{alt}plag{/alt} iniziò a uscire dal suo culo e io non potei fare a meno di toccare il giocattolo e di aiutarlo in qualche modo."
+    "Il plug iniziò a uscire dal suo culo e io non potei fare a meno di toccare il giocattolo e di aiutarlo in qualche modo."
 
 
 translate italian ep013_ce_sex_4084e85d:
@@ -5620,7 +5476,7 @@ translate italian ep013_ce_sex_16cb959a:
 translate italian ep013_ce_sex_ae4eb543:
 
 
-    ce "Ti prego, voglio tanto sentire le tue dita nel mio culo."
+    ce "Ti prego, voglio tanto sentire le tue dita nel mio culo\"."
 
 
 translate italian ep013_ce_sex_dcfb112f:
@@ -5755,22 +5611,16 @@ translate italian ep013_ce_sex_8aa6ae7c:
     "Improvvisamente il suo corpo divenne quasi rigido, prima che iniziasse a tremare violentemente."
 
 
-translate italian ep013_ce_sex_b29726c2:
-
-
-    "Improvvisamente il suo corpo divenne quasi rigido, prima che iniziasse a tremare violentemente."
-
-
 translate italian ep013_ce_sex_2639b6a0:
 
 
-    ce "Continua!{w} Continua!"
+    ce "Continua! {w} Continua!"
 
 
 translate italian ep013_ce_sex_d4d4f7d8:
 
 
-    ce "Sto per-{w} Sto per venire!"
+    ce "Sto per-{w} Sto per sborrare!"
 
 
 translate italian ep013_ce_sex_c3709ebe:
@@ -5788,7 +5638,7 @@ translate italian ep013_ce_sex_6100a88a:
 translate italian ep013_ce_sex_78bad91f:
 
 
-    ce "Oh, cazzo, sì!{w} Mi piace così tanto il tuo cazzo!"
+    ce "Oh, cazzo, sì! {w} Mi piace così tanto il tuo cazzo!"
 
 
 translate italian ep013_ce_sex_278826e1:
@@ -5836,7 +5686,7 @@ translate italian ep013_ce_sex_3c07dfde:
 translate italian ep013_ce_sex_91f35785:
 
 
-    ce "Copri il mio corpo!"
+    ce "Coprite il mio corpo!"
 
 
 translate italian ep013_ce_sex_b23c571b:
@@ -5968,7 +5818,7 @@ translate italian ep013_vess_bj_db8cd0ab:
 translate italian ep013_vess_bj_5e2b29b5:
 
 
-    ve "Sì, maestro."
+    ve "Sì, padrone."
 
 
 translate italian ep013_vess_bj_5263fe1f:
@@ -6016,7 +5866,7 @@ translate italian ep013_vess_bj_6edce5c2:
 translate italian ep013_vess_bj_a2360057:
 
 
-    ve "Posso? Voglio dire...{w} come potrei darti un piacere migliore, maestro?"
+    ve "Posso? Voglio dire... {w} Come potrei darti un piacere migliore, padrone?"
 
 
 translate italian ep013_vess_bj_1e02fa4b:
@@ -6046,7 +5896,7 @@ translate italian ep013_vess_bj_836db745:
 translate italian ep013_vess_bj_333a1353:
 
 
-    ve "Grazie, maestro."
+    ve "Grazie, padrone."
 
 
 translate italian ep013_vess_bj_cb8fc60d:
@@ -6154,7 +6004,7 @@ translate italian ep013_vess_bj_7e43b9e8:
 translate italian ep013_vess_bj_935fa9ad:
 
 
-    ve "Perché...{w} io..."
+    ve "Perché... {w} Io..."
 
 
 translate italian ep013_vess_bj_a8e3c64e:
@@ -6172,7 +6022,7 @@ translate italian ep013_vess_bj_333a1353_1:
 translate italian ep013_vess_bj_c5eaaf73:
 
 
-    "Lasciai Vess nuda sul pavimento."
+    "Lasciai Vess nudo sul pavimento."
 
 
 translate italian ep013_vess_bj_a68dab09:
@@ -6185,7 +6035,6 @@ translate italian ep013_vess_bj_c36e06cb:
 
 
     "Per quanto mi riguardava, poteva continuare a servirmi o marcire in prigione."
-
 
 translate italian strings:
 
@@ -6203,7 +6052,7 @@ translate italian strings:
 
 
     old "Make her serve you"
-    new "Rendila tua serva"
+    new "Farla servire da te"
 
 
     old "Leave her in the brig"
@@ -6235,11 +6084,11 @@ translate italian strings:
 
 
     old "An alien species with a martial culture. Involved in a skirmish with the Scolguin a few years ago."
-    new "{alt}I Vrarr sono {/alt}Una specie aliena con una cultura marziale. Coinvolta in una schermaglia con gli Scolguin qualche anno fa."
+    new "Una specie aliena con una cultura marziale. Coinvolta in una schermaglia con gli Scolguin qualche anno fa."
 
 
     old "Creampie"
-    new "Creampie"
+    new "Vieni Dentro"
 
 
     old "Body"
@@ -6253,23 +6102,177 @@ translate italian strings:
     old "Make her swallow"
     new "Falla ingoiare"
 
-# TODO: Translation updated at 2025-06-04 13:45
 
-# game/episode013_conversations.rpy:494
+
+
+translate italian ep013_lilly_talk_f35e62e1:
+
+
+    c "Così mi sono fatta prendere dal panico e non dirlo a te o a Céline è diventato più facile che affrontare la situazione."
+
+
+translate italian ep013_lilly_talk_26639176:
+
+
+    l "Pensavamo tutti di averti perso!"
+
+
+translate italian ep013_lilly_talk_05ea1d86:
+
+
+    l "È stato un tale sollievo quando ti abbiamo trovato con quel localizzatore."
+
+
+translate italian ep013_lilly_talk_f2063490:
+
+
+    c "Sono molto felice che abbiate fatto tutto questo per trovarmi."
+
+
+translate italian ep013_lilly_talk_478ecc95:
+
+
+    l "Tuo padre ti ha davvero spinto fuori da una camera d'equilibrio?"
+
+
+translate italian ep013_lilly_talk_b25f5846:
+
+
+    c "Qualcosa del genere, sì."
+
+
+translate italian ep013_lilly_talk_dc0b7a97:
+
+
+    l "È terribile."
+
+
+translate italian ep013_lilly_talk_b036f3fd:
+
+
+    c "Beh, aveva bisogno di un sacrificio e io ho avuto la fortuna di essere nei paraggi."
+
+
+translate italian ep013_lilly_talk_43182e1c:
+
+
+    l "Non dovresti scherzare su queste cose."
+
+
+translate italian ep013_lilly_talk_ecc1126f:
+
+
+    c "Non so come altro affrontarlo."
+
+
+translate italian ep013_lilly_talk_eb407b1b:
+
+
+    l "Sì, posso immaginarlo."
+
+
+translate italian ep013_lilly_talk_fa65b030:
+
+
+    l "È una cosa molto fredda da fare, però."
+
+
+translate italian ep013_lilly_talk_7a9a4e48:
+
+
+    c "Certo, ma mi aspetto questo dai miei genitori."
+
+
+translate italian ep013_lilly_talk_9f78720c:
+
+
+    l "Non un vero e proprio omicidio, sicuramente."
+
+
+translate italian ep013_lilly_talk_142aeaf5:
+
+
+    c "Ammetto che è una cosa nuova, ma non mi sorprende più di tanto."
+
+
+translate italian ep013_lilly_talk_bd1a32e8:
+
+
+    l "Tuttavia, mi rende molto triste."
+
+
+translate italian ep013_lilly_talk_05c28db0:
+
+
+    l "Sono molto felice di vedere che sei sana e salva."
+
+
+translate italian ep013_lilly_talk_c6ce0e47:
+
+
+    c "Grazie Lilly."
+
+
+translate italian ep013_lilly_talk_1173e89a:
+
+
+    l "Gli altri vorranno sicuramente vederti."
+
+
+translate italian ep013_lilly_talk_09ac0171:
+
+
+    c "Ho già parlato con alcuni di loro."
+
+
+translate italian ep013_lilly_talk_670b93fb:
+
+
+    l "Abbi cura di te, [p_name_short]."
+
+
 translate italian ep013_lilly_second_talk_4756333a:
 
-    # c "But you have me all for yourself."
-    c ""
 
-# game/episode013_conversations.rpy:720
+    c "Ma mi hai tutta per te."
+
+
+translate italian ep013_eva_talk_10ac911f:
+
+
+    c "Sì, Jade me l'ha detto."
+
+
+translate italian ep013_eva_talk_e0d82712:
+
+
+    c "Non mi aspettavo che Vess rischiasse la pelle in questo modo."
+
+
+translate italian ep013_nadya_talk_6f48e37b:
+
+
+    na "Il ricordo della tua nascita, Aven, appena dieci mesi dopo, incinta di Eva e Lilly, sono immagini a me molto care."
+
+
+translate italian ep013_ce_sex_b29726c2:
+
+
+    "All'improvviso il suo corpo divenne quasi rigido, prima di iniziare a tremare violentemente."
+
+
+
+
 translate italian ep013_nadya_talk_9caa56ec:
 
-    # na "Some of it is Acarhyn history, an interesting but gruesome read."
-    na ""
 
-# game/episode013_conversations.rpy:976
+    na "Una parte della storia di Acarhyn, una lettura interessante ma raccapricciante."
+
+
+
+
 translate italian ep013_celine_second_talk_b624faf9:
 
-    # "Céline fell back into her seat, looking incredulously at me."
-    ""
 
+    "Céline si è riseduta, guardandomi incredula."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

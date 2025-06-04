@@ -40,7 +40,7 @@ translate italian episode013_dc990de7:
 translate italian episode013_1a74b48e:
 
 
-    c "{noalt}V-{/noalt}Vess?"
+    c "V-Vess?"
 
 
 translate italian episode013_42ba6123:
@@ -76,7 +76,7 @@ translate italian episode013_eaf358a9:
 translate italian episode013_4364e7ee:
 
 
-    "{alt}Vuoto temporale{/alt}.{w}.{w}."
+    ".{w}.{w}."
 
 
 translate italian episode013_9762f686:
@@ -118,7 +118,7 @@ translate italian episode013_5d90ea4f:
 translate italian episode013_30ec3df7:
 
 
-    "A un certo punto, tenere gli occhi aperti ha iniziato a richiedere uno sforzo minore e sono rimasto sveglio per periodi più lunghi."
+    "A un certo punto, tenere gli occhi aperti ha iniziato a diventare uno sforzo minore e sono rimasta sveglia per periodi più lunghi."
 
 
 translate italian episode013_ccdbca27:
@@ -190,7 +190,7 @@ translate italian episode013_453f7f16:
 translate italian episode013_8bc423b9:
 
 
-    j "Dopo il primo attacco di panico, ho resistito all'impulso di inseguirti."
+    j "Dopo il primo attacco di panico, ho resistito all'impulso di darti la caccia."
 
 
 translate italian episode013_b38204d8:
@@ -208,13 +208,13 @@ translate italian episode013_679e4aa6:
 translate italian episode013_5f7f1252:
 
 
-    j "Per fortuna sono riuscita a reindirizzare un trasporto verso Keplero."
+    j "Per fortuna sono riuscito a reindirizzare un trasporto verso Kepler."
 
 
 translate italian episode013_22a4104e:
 
 
-    j "Così sono uscita di nascosto dal Teatro, sono salita sul trasporto e ho contattato l'equipaggio."
+    j "Così sono uscito di nascosto dal Teatro, sono salito sul trasporto e ho contattato l'equipaggio."
 
 
 translate italian episode013_b435a27d:
@@ -232,7 +232,7 @@ translate italian episode013_a33170d5:
 translate italian episode013_d51d1329:
 
 
-    c "Dimmi che non hai inseguito la Jaculus dopo questo fatto?"
+    c "Dimmi che non hai inseguito il Jaculus dopo questo fatto?"
 
 
 translate italian episode013_4cafbc00:
@@ -316,7 +316,7 @@ translate italian episode013_e9aa8851:
 translate italian episode013_021e6302:
 
 
-    j "Nadia e Kit hanno espresso le stesse preoccupazioni, ma io e Thyia abbiamo controllato e ci è sembrato legittimo."
+    j "Nadya e Kit hanno espresso le stesse preoccupazioni, ma io e Thyia abbiamo controllato e ci è sembrato legittimo."
 
 
 translate italian episode013_45efdf39:
@@ -328,7 +328,7 @@ translate italian episode013_45efdf39:
 translate italian episode013_cedcba39:
 
 
-    c "Come avete fatto ad avvicinarvi a me senza farvi notare?"
+    c "Come hai fatto ad avvicinarti a me senza farti notare?"
 
 
 translate italian episode013_1f1bafb4:
@@ -340,19 +340,19 @@ translate italian episode013_1f1bafb4:
 translate italian episode013_a2396eae:
 
 
-    j "La Jaculus era ancora lì in quel momento, ma i suoi scanner a lungo raggio non erano stati attivati."
+    j "Lo Jaculus era ancora lì in quel momento, ma i suoi scanner a lungo raggio non erano stati attivati."
 
 
 translate italian episode013_9f7790db:
 
 
-    c "Fortunati..."
+    c "Fortunato..."
 
 
 translate italian episode013_7713c125:
 
 
-    j "Davvero fortunati."
+    j "Davvero fortunato."
 
 
 translate italian episode013_7bc97eef:
@@ -394,13 +394,13 @@ translate italian episode013_3a386006:
 translate italian episode013_c9146134:
 
 
-    j "Céline avrebbe pilotato la navetta al posto del Bastardo, per evitare inutili attenzioni."
+    j "Céline avrebbe pilotato la navetta al posto della Bastard, per evitare inutili attenzioni."
 
 
 translate italian episode013_504f7e9f:
 
 
-    j "Dovevamo intercettare la tua rotta e qualcuno con una tuta aspirante avrebbe dovuto rallentare il tuo slancio."
+    j "Dovremmo intercettare la tua rotta e qualcuno con una tuta aspirante avrebbe dovuto rallentare il tuo slancio."
 
 
 translate italian episode013_ed0b7673:
@@ -418,7 +418,7 @@ translate italian episode013_7411b23a:
 translate italian episode013_fdc6c729:
 
 
-    c "Oh...{w} questo è sorprendente."
+    c "Oh...{w}Questo è sorprendente."
 
 
 translate italian episode013_28428ea5:
@@ -448,7 +448,7 @@ translate italian episode013_d67864a7:
 translate italian episode013_ec4f7ee4:
 
 
-    "A quel punto Nadia ed Eva entrarono in infermeria."
+    "A quel punto Nadya ed Eva entrarono in infermeria."
 
 
 translate italian episode013_92e29cda:
@@ -502,7 +502,7 @@ translate italian episode013_e3e3261e:
 translate italian episode013_06eeb7e1:
 
 
-    e "Cosa è successo sulla Jaculus, [p_name_short]?"
+    e "Cosa è successo sullo Jaculus, [p_name_short]?"
 
 
 translate italian episode013_9c5f705f:
@@ -514,7 +514,7 @@ translate italian episode013_9c5f705f:
 translate italian episode013_1efff946:
 
 
-    c "Quando non fui più utile, mi scaricarono nello spazio come tributo agli Scolguin."
+    c "Quando non fui più utile, mi distanziarono come tributo allo Scolguin."
 
 
 translate italian episode013_e1936f83:
@@ -532,19 +532,19 @@ translate italian episode013_661a0fda:
 translate italian episode013_8f11a7b1:
 
 
-    c "Hanno cercato di costringermi a rivelare la vostra posizione."
+    c "Hanno cercato di costringermi a rivelare la tua posizione."
 
 
 translate italian episode013_1a883860:
 
 
-    c "Ho resistito per un bel po' di tempo, ma alla fine sono arrivati a me, ma a quel punto eravate già spariti."
+    c "Ho resistito per un bel po' di tempo, ma alla fine sono arrivati a me, ma a quel punto tu eri già sparito."
 
 
 translate italian episode013_e5bb8ee1:
 
 
-    c "Vedere la faccia delusa di mio padre ha fatto sì che ne valesse la pena...{w} quasi..."
+    c "Vedere la faccia delusa di mio padre ha fatto sì che ne valesse la pena... {w} quasi..."
 
 
 translate italian episode013_703cfb79:
@@ -562,7 +562,7 @@ translate italian episode013_04f5b294:
 translate italian episode013_ee964f32:
 
 
-    c "Li conosci, Nadia?"
+    c "Li conosci, Nadya?"
 
 
 translate italian episode013_c1ca953a:
@@ -586,7 +586,7 @@ translate italian episode013_4b9c31de:
 translate italian episode013_372bc5e0:
 
 
-    na "È sorprendente che tu sia uscito indenne da un incontro con gli Scolguin."
+    na "È sorprendente che tu sia uscito indenne da un incontro con lo Scolguin."
 
 
 translate italian episode013_21c3c81e:
@@ -610,7 +610,7 @@ translate italian episode013_97101cef:
 translate italian episode013_b3b92a18:
 
 
-    na "Non sono sicura che sia una buona idea..."
+    na "Non sono sicuro che sia una buona idea..."
 
 
 translate italian episode013_9a9b56e1:
@@ -622,7 +622,7 @@ translate italian episode013_9a9b56e1:
 translate italian episode013_bb303536:
 
 
-    c "Agust e di conseguenza l'intera Sovranità stanno cercando attivamente Eva, così come il Confessore."
+    c "Agust e di conseguenza l'intera Sovranità stanno cercando attivamente Eva, così come la Depositaria."
 
 
 translate italian episode013_c69225e3:
@@ -688,7 +688,7 @@ translate italian episode013_f669e02b:
 translate italian episode013_6cc26d52:
 
 
-    "Tutte salutarono e lasciarono l'infermeria."
+    "Tutti salutarono e lasciarono l'infermeria."
 
 
 translate italian episode013_5d406e57:
@@ -742,7 +742,7 @@ translate italian episode013_de2a4e64:
 translate italian episode013_6e63861c:
 
 
-    t "Stavo solo vedendo come stai, mi hanno detto che alla gente comune piace questo genere di cose."
+    t "Ti stavo solo controllando, mi hanno detto che ai contadini piace questo genere di cose."
 
 
 translate italian episode013_062e5587:
@@ -1018,7 +1018,7 @@ translate italian episode013_42d791fc:
 translate italian episode013_ba410371:
 
 
-    ki "Dovremmo davvero...{w} poveri noi."
+    ki "Dovremmo davvero...{w} Poveri noi."
 
 
 translate italian episode013_557a648e:
@@ -1048,13 +1048,13 @@ translate italian episode013_8c1f5dab:
 translate italian episode013_b97ebb5b:
 
 
-    ki "Aven e Lilli hanno lasciato a malapena i loro alloggi e non hanno parlato con nessuno."
+    ki "Aven e Lilly hanno lasciato a malapena i loro alloggi e non hanno parlato con nessuno."
 
 
 translate italian episode013_5358f1e2:
 
 
-    ki "Lilli ha lasciato a malapena il suo alloggio e non ha parlato con nessuno."
+    ki "Lilly ha lasciato a malapena il suo alloggio e non ha parlato con nessuno."
 
 
 translate italian episode013_c653a2d5:
@@ -1183,12 +1183,6 @@ translate italian episode013_04572662:
     c "Grazie per avermi avvisato."
 
 
-translate italian episode013_87d4a6da:
-
-
-    c "Grazie per avermi avvisato."
-
-
 translate italian episode013_1180fe6d:
 
 
@@ -1252,13 +1246,13 @@ translate italian ep013_dinner_a9bd7af1:
 translate italian ep013_dinner_03cd1ad6:
 
 
-    "Mi accorsi che Eva si sforzava di mantenere la conversazione, mentre Lilli e Aven non facevano molti sforzi."
+    "Mi accorsi che Eva si sforzava di mantenere la conversazione, mentre Lilly e Aven non facevano molti sforzi."
 
 
 translate italian ep013_dinner_3b05e6d2:
 
 
-    c "Non siete partite senza di me, vero?"
+    c "Non siete partiti senza di me, vero?"
 
 
 translate italian ep013_dinner_0a4a6bd4:
@@ -1282,7 +1276,7 @@ translate italian ep013_dinner_95284afa:
 translate italian ep013_dinner_8946f3cf:
 
 
-    c "Allora, sono sicuro che potete immaginare il motivo per cui siamo tutti riuniti, giusto?"
+    c "Allora, sono sicuro che puoi immaginare il motivo per cui siamo tutti riuniti, giusto?"
 
 
 translate italian ep013_dinner_e10e286f:
@@ -1348,7 +1342,7 @@ translate italian ep013_dinner_7ce954a3:
 translate italian ep013_dinner_d8fe4089:
 
 
-    av "Paura?{w} Di cosa?"
+    av "Paura? {w} Di cosa?"
 
 
 translate italian ep013_dinner_e34cdcab:
@@ -1360,7 +1354,7 @@ translate italian ep013_dinner_e34cdcab:
 translate italian ep013_dinner_0926c940:
 
 
-    av "Tuolovi è lontana anni luce da {noalt}Ryūjin Prime{/noalt}{alt}Raigin Praim{/alt}, come può Agust sapere qualcosa della tua vita, madre?!"
+    av "Tuolovi è lontana anni luce da Ryūjin Prime, come può Agust sapere qualcosa della tua vita, madre?!"
 
 
 translate italian ep013_dinner_0bc94730:
@@ -1426,7 +1420,7 @@ translate italian ep013_dinner_c55b52c9:
 translate italian ep013_dinner_f021e251:
 
 
-    na "È un po' difficile da spiegare, non sono sicura che capirai mai."
+    na "È un po' difficile da spiegare, non sono sicuro che capirai mai."
 
 
 translate italian ep013_dinner_f66e72ec:
@@ -1447,16 +1441,10 @@ translate italian ep013_dinner_0be4e241:
     na "Poiché il nostro amore era strettamente proibito, la segretezza è diventata una seconda natura."
 
 
-translate italian ep013_dinner_74867244:
-
-
-    na "Poiché il nostro amore era strettamente proibito, la segretezza è diventata una seconda natura."
-
-
 translate italian ep013_dinner_d9628c17:
 
 
-    l "Perché non ce l'hai detto dopo esserti unita a noi, sapendo che eravamo liberi dall'influenza di Agust?"
+    l "Perché non ci hai detto che dopo esserti unito a noi sapevi che eravamo liberi dall'influenza di Agust?"
 
 
 translate italian ep013_dinner_fd0e5b28:
@@ -1483,12 +1471,6 @@ translate italian ep013_dinner_37a76f2e:
     na "Anche se molte cose pesano sulla mia coscienza, non ho rimpianti per aver messo al mondo voi quattro."
 
 
-translate italian ep013_dinner_22a5f952:
-
-
-    na "Anche se molte cose pesano sulla mia coscienza, non ho rimpianti per aver messo al mondo voi quattro."
-
-
 translate italian ep013_dinner_ba1de03e:
 
 
@@ -1504,7 +1486,7 @@ translate italian ep013_dinner_27ff70ba:
 translate italian ep013_dinner_ef817dc0:
 
 
-    av "Come hai potuto...{w} con il tuo..."
+    av "Come hai potuto...{w} Con il tuo..."
 
 
 translate italian ep013_dinner_1f69b26b:
@@ -1516,7 +1498,7 @@ translate italian ep013_dinner_1f69b26b:
 translate italian ep013_dinner_d12fbc7d:
 
 
-    "Forse stava valutando la nostra relazione, che aveva sempre più somiglianze con la storia di Nadia."
+    "Forse stava valutando la nostra relazione, che aveva sempre più somiglianze con la storia di Nadya."
 
 
 translate italian ep013_dinner_8d948a45:
@@ -1546,13 +1528,13 @@ translate italian ep013_dinner_e47b6585:
 translate italian ep013_dinner_20df693e:
 
 
-    "Ci fu un lungo silenzio dopo le ultime parole di Nadia."
+    "Ci fu un lungo silenzio dopo le ultime parole di Nadya."
 
 
 translate italian ep013_dinner_69027620:
 
 
-    "Lilli mangiucchiava il suo cibo, mentre Aven scrutava fuori dalla finestra."
+    "Lilly mangiucchiava il suo cibo, mentre Aven scrutava fuori dalla finestra."
 
 
 translate italian ep013_dinner_b7a74e7e:
@@ -1564,13 +1546,13 @@ translate italian ep013_dinner_b7a74e7e:
 translate italian ep013_dinner_8bbbad3f:
 
 
-    e "Devo ammettere che anche per me è stato uno shock e all'inizio ho avuto la stessa reazione di Aven e Lilli."
+    e "Devo ammettere che anche per me è stato uno shock e all'inizio ho avuto la stessa reazione di Aven e Lilly."
 
 
 translate italian ep013_dinner_86ad20e4:
 
 
-    e "Ma mi sono resa conto che non è Nadia la colpevole."
+    e "Ma mi sono resa conto che non è Nadya la colpevole."
 
 
 translate italian ep013_dinner_255d3454:
@@ -1582,7 +1564,7 @@ translate italian ep013_dinner_255d3454:
 translate italian ep013_dinner_4b5ef43f:
 
 
-    "Ovviamente sapevo dell'accettazione di Eva, ma è stata comunque una sorpresa la facilità con cui ha sorvolato sul fatto che Agust e Nadia fossero un fratello e una sorella innamorati."
+    "Ovviamente sapevo dell'accettazione di Eva, ma è stata comunque una sorpresa la facilità con cui ha sorvolato sul fatto che Agust e Nadya fossero un fratello e una sorella innamorati."
 
 
 translate italian ep013_dinner_f263d194:
@@ -1615,16 +1597,10 @@ translate italian ep013_dinner_0681f7e2:
     av "La questione della nostra parentela è qualcosa a cui dovrò abituarmi."
 
 
-translate italian ep013_dinner_caf3a2c5:
-
-
-    av "La questione della nostra parentela è qualcosa a cui dovrò abituarmi."
-
-
 translate italian ep013_dinner_da5485b3:
 
 
-    c "E tu, Lilli?"
+    c "E tu, Lilly?"
 
 
 translate italian ep013_dinner_27e2ee15:
@@ -1666,7 +1642,7 @@ translate italian ep013_dinner_a34b24db:
 translate italian ep013_dinner_62138c5e:
 
 
-    l "Non ho mai sentito un legame con lei come con te, zia Nadia...{w} cioè...{w} ehm..."
+    l "Non ho mai sentito un legame con lei come con te, zia Nadya...{w} Cioè...{w} Ehm..."
 
 
 translate italian ep013_dinner_1a658bd6:
@@ -1678,7 +1654,7 @@ translate italian ep013_dinner_1a658bd6:
 translate italian ep013_dinner_d4ce1ed0:
 
 
-    na "Nadia va bene, cara."
+    na "Nadya va bene, cara."
 
 
 translate italian ep013_dinner_86681186:
@@ -1702,7 +1678,7 @@ translate italian ep013_dinner_6ae3917f:
 translate italian ep013_dinner_9066532b:
 
 
-    "Nadia aveva le lacrime agli occhi quando accettò l'abbraccio di Lilli."
+    "Nadya aveva le lacrime agli occhi quando accettò l'abbraccio di Lilly."
 
 
 translate italian ep013_dinner_1395dadc:
@@ -1714,7 +1690,7 @@ translate italian ep013_dinner_1395dadc:
 translate italian ep013_dinner_842c4580:
 
 
-    "All'improvviso si alzò e si avvicinò a Nadia per unirsi all'abbraccio."
+    "All'improvviso si alzò e si avvicinò a Nadya per unirsi all'abbraccio."
 
 
 translate italian ep013_dinner_b018127d:
@@ -1786,16 +1762,10 @@ translate italian ep013_douvis_43e5bf3e:
 translate italian ep013_douvis_8db290e6:
 
 
-    "Una volta attraccati, fu deciso che l'equipaggio sarebbe stato libero di esplorare la piccola stazione commerciale, mentre Thyia, Lilli e Céline raccoglievano le provviste necessarie."
+    "Una volta attraccati, fu deciso che l'equipaggio sarebbe stato libero di esplorare la piccola stazione commerciale, mentre Thyia, Lilly e Céline raccoglievano le provviste necessarie."
 
 
 translate italian ep013_douvis_02ae64d5:
-
-
-    "Non molto tempo dopo il nostro sbarco, ricevetti un messaggio urgente da Thyia che mi esortava a venire."
-
-
-translate italian ep013_douvis_0cf2c6ba:
 
 
     "Non molto tempo dopo il nostro sbarco, ricevetti un messaggio urgente da Thyia che mi esortava a venire."
@@ -1810,7 +1780,7 @@ translate italian ep013_douvis_9b7c46aa:
 translate italian ep013_douvis_030c9cb8:
 
 
-    "Thyia era in piedi tra Lilli e Céline, evidentemente cercando di evitare che si attaccassero a vicenda."
+    "Thyia era in piedi tra Lilly e Céline, evidentemente cercando di evitare che si attaccassero a vicenda."
 
 
 translate italian ep013_douvis_f91d1d40:
@@ -1834,13 +1804,13 @@ translate italian ep013_douvis_0737fb86:
 translate italian ep013_douvis_fa96ca58:
 
 
-    "Céline si fiondò su Lilli, aggirando Thyia e colpendo l'altra ragazza."
+    "Céline si fiondò su Lilly, aggirando Thyia e colpendo l'altra ragazza."
 
 
 translate italian ep013_douvis_4dbdfd63:
 
 
-    "Entrambe le donne caddero a terra, dove Céline colpì Lilli, mentre l'altra ragazza cercava di artigliarle il viso."
+    "Entrambe le donne caddero a terra, dove Céline colpì Lilly, mentre l'altra ragazza cercava di artigliarle il viso."
 
 
 translate italian ep013_douvis_6d4d3638:
@@ -1864,7 +1834,7 @@ translate italian ep013_douvis_81da1a2f:
 translate italian ep013_douvis_7da03196:
 
 
-    "La mia voce ha almeno attirato l'attenzione di Céline, che si è guadagnata uno squarcio sulla guancia a causa delle unghie di Lilli."
+    "La mia voce ha almeno attirato l'attenzione di Céline, che si è guadagnata uno squarcio sulla guancia a causa delle unghie di Lilly."
 
 
 translate italian ep013_douvis_1a8fcdf6:
@@ -1876,19 +1846,19 @@ translate italian ep013_douvis_1a8fcdf6:
 translate italian ep013_douvis_5f60f34d:
 
 
-    "Esasperato, allontanai Lilli da Céline."
+    "Esasperato, allontanai Lilly da Céline."
 
 
 translate italian ep013_douvis_df34ad46:
 
 
-    "Lilli scalciava e urlava tra le mie braccia, mentre Céline riprendeva fiato, ancora distesa sul pavimento."
+    "Lilly scalciava e urlava tra le mie braccia, mentre Céline riprendeva fiato, ancora distesa sul pavimento."
 
 
 translate italian ep013_douvis_57f32122:
 
 
-    "Quando Lilli si è calmata, l'ho liberata e si è accasciata sul pavimento."
+    "Quando Lilly si è calmata, l'ho liberata e si è accasciata sul pavimento."
 
 
 translate italian ep013_douvis_1e2b51d6:
@@ -1900,7 +1870,7 @@ translate italian ep013_douvis_1e2b51d6:
 translate italian ep013_douvis_c5de05c0:
 
 
-    "Céline e Lilli si guardarono con rabbia, ma non dissero una parola."
+    "Céline e Lilly si guardarono con rabbia, ma non dissero una parola."
 
 
 translate italian ep013_douvis_c0614094:
@@ -1912,13 +1882,13 @@ translate italian ep013_douvis_c0614094:
 translate italian ep013_douvis_678c4ff5:
 
 
-    th "Avevamo già comprato delle provviste, che Lilli e Céline stavano trasportando."
+    th "Avevamo già comprato delle provviste, che Lilly e Céline stavano trasportando."
 
 
 translate italian ep013_douvis_65c99777:
 
 
-    th "Céline ha fatto cadere per sbaglio le sue provviste, cosa che ha fatto arrabbiare Lilli per qualche motivo, non so bene perché."
+    th "Céline ha fatto cadere per sbaglio le sue provviste, cosa che ha fatto arrabbiare Lilly per qualche motivo, non so bene perché."
 
 
 translate italian ep013_douvis_e4dae469:
@@ -1936,7 +1906,7 @@ translate italian ep013_douvis_807e9922:
 translate italian ep013_douvis_a2e04319:
 
 
-    c "Céline, potresti tornare al Bastardo e farti curare la ferita, per favore?"
+    c "Céline, potresti tornare al Bastard e farti curare la ferita, per favore?"
 
 
 translate italian ep013_douvis_eee91ece:
@@ -1954,19 +1924,19 @@ translate italian ep013_douvis_3d671441:
 translate italian ep013_douvis_5338618e:
 
 
-    c "Lilli, voglio che tu rimanga qui."
+    c "Lilly, voglio che tu rimanga qui."
 
 
 translate italian ep013_douvis_ba3628f6:
 
 
-    l "Cosa?{w} Perché?{w} Cosa devo fare qui?"
+    l "Cosa? {w} Perché? {w} Cosa devo fare qui?"
 
 
 translate italian ep013_douvis_b5055e5d:
 
 
-    c "Non lo so, prendere un caffè o qualcosa del genere, o goderti il panorama."
+    c "Non lo so, prendere un caffè o qualcosa del genere, o godermi il panorama."
 
 
 translate italian ep013_douvis_385e1c23:
@@ -1978,7 +1948,7 @@ translate italian ep013_douvis_385e1c23:
 translate italian ep013_douvis_6bdb3fd4:
 
 
-    "Lilli non era chiaramente d'accordo con me, ma alla fine obbedì."
+    "Lilly non era chiaramente d'accordo con me, ma alla fine obbedì."
 
 
 translate italian ep013_douvis_acb91809:
@@ -2002,13 +1972,13 @@ translate italian ep013_douvis_1fb98b0f:
 translate italian ep013_douvis_d3150f8a:
 
 
-    th "Non so davvero cosa le sia preso."
+    th "Non so davvero cosa gli sia preso."
 
 
 translate italian ep013_douvis_838d6cca:
 
 
-    th "Pensavo fossero amiche per la pelle, ma Lilli sembra gelosa di lei, per qualche motivo."
+    th "Pensavo fossero amiche per la pelle, ma Lilly sembra gelosa di lei, per qualche motivo."
 
 
 translate italian ep013_douvis_8d37180c:
@@ -2032,7 +2002,7 @@ translate italian ep013_douvis_0715026d:
 translate italian ep013_douvis_cd9a8637:
 
 
-    c "Le riparazioni al Bastardo fatte dalle Acarhyn non si stanno già consumando, vero?"
+    c "Le riparazioni al Bastardo fatte dagli Acarhyn non si stanno già consumando, vero?"
 
 
 translate italian ep013_douvis_b31ebdec:
@@ -2044,7 +2014,7 @@ translate italian ep013_douvis_b31ebdec:
 translate italian ep013_douvis_d9437720:
 
 
-    th "Non credo che il Bastardo abbia funzionato in modo così efficiente come dopo che le Acarhyn hanno avuto il permesso di maneggiare la nave."
+    th "Non credo che il Bastardo abbia funzionato in modo così efficiente come dopo che gli Acarhyn hanno avuto il permesso di maneggiare la nave."
 
 
 translate italian ep013_douvis_81ef0572:
@@ -2116,7 +2086,7 @@ translate italian ep013_douvis_db8f59dc:
 translate italian ep013_douvis_8b87b665:
 
 
-    "Io e Thyia riportammo le provviste al Bastardo e tornai a gironzolare ancora un po' per la base."
+    "Io e Thyia riportammo le provviste alla Bastard e tornai a gironzolare ancora un po' per la base."
 
 
 translate italian ep013_douvis_jade_talk_a00d0913:
@@ -2146,19 +2116,19 @@ translate italian ep013_douvis_jade_talk_340c1c44:
 translate italian ep013_douvis_jade_talk_3496ae8e:
 
 
-    c "A proposito, ho notato che molti {noalt}Twi'll{/noalt}{alt}Twill{/alt} lavorano qui."
+    c "A proposito, ho notato che molti Twi'll lavorano qui."
 
 
 translate italian ep013_douvis_jade_talk_2b8fa0ba:
 
 
-    j "Lo so, sembra che ci sia una piccola {noalt}enclave{/noalt}{alt}en clave{/alt} {noalt}Twi'll{/noalt}{alt}Twill{/alt} qui."
+    j "Lo so, sembra che ci sia una piccola enclave Twi'll qui."
 
 
 translate italian ep013_douvis_jade_talk_8329c46d:
 
 
-    woman "Posso offrirvi qualcosa da bere?"
+    woman "Posso offrirti qualcosa da bere?"
 
 
 translate italian ep013_douvis_jade_talk_65b59d54:
@@ -2218,13 +2188,13 @@ translate italian ep013_douvis_jade_talk_091dab4c:
 translate italian ep013_douvis_jade_talk_0b76ad1a:
 
 
-    c "Come mai ci sono molti {noalt}Twi'll{/noalt}{alt}Twill{/alt} che lavorano qui?"
+    c "Come mai ci sono molti Twi'll che lavorano qui?"
 
 
 translate italian ep013_douvis_jade_talk_ff98776c:
 
 
-    j "Sembra che ci sia una piccola enclave {noalt}Twi'll{/noalt}{alt}Twill{/alt} qui."
+    j "Sembra che ci sia una piccola enclave Twi'll qui."
 
 
 translate italian ep013_douvis_jade_talk_678a6b2f:
@@ -2266,7 +2236,7 @@ translate italian ep013_douvis_jade_talk_f29747e1:
 translate italian ep013_douvis_jade_talk_f68eeeaf:
 
 
-    woman "Non potete essere...{w} siete...?"
+    woman "Non puoi essere... {w}Sei...?"
 
 
 translate italian ep013_douvis_jade_talk_2760af74:
@@ -2284,7 +2254,7 @@ translate italian ep013_douvis_jade_talk_768e2cc5:
 translate italian ep013_douvis_jade_talk_3757c1ad:
 
 
-    woman "Mi sembrava di aver riconosciuto la sua compagna qui."
+    woman "Mi sembrava di aver riconosciuto il suo compagno qui."
 
 
 translate italian ep013_douvis_jade_talk_ec262132:
@@ -2296,7 +2266,7 @@ translate italian ep013_douvis_jade_talk_ec262132:
 translate italian ep013_douvis_jade_talk_119796f4:
 
 
-    woman "Spero non mi consideriate impertinente, ma siete forse parente della famiglia {noalt}N'ec L'ordann va T'olnec{/noalt}{alt}Nec Lordann va Tolnec{/alt}, signorina?"
+    woman "Spero non mi consideriate impertinente, ma siete forse parente della famiglia N'ec L'ordann va T'olnec, signorina?"
 
 
 translate italian ep013_douvis_jade_talk_df7e91ca:
@@ -2356,7 +2326,7 @@ translate italian ep013_douvis_jade_talk_c8d45510:
 translate italian ep013_douvis_jade_talk_0ed05f29:
 
 
-    j "Dopo?{w} Mi stai dicendo che mia madre è scappata?"
+    j "Dopo? {w} Mi stai dicendo che mia madre è scappata?"
 
 
 translate italian ep013_douvis_jade_talk_f6562bdf:
@@ -2386,7 +2356,7 @@ translate italian ep013_douvis_jade_talk_be4bbbce:
 translate italian ep013_douvis_jade_talk_eb856081:
 
 
-    j "Sei stata con lei fino alla fine?"
+    j "Sei stato con lei fino alla fine?"
 
 
 translate italian ep013_douvis_jade_talk_a31b30c7:
@@ -2452,19 +2422,19 @@ translate italian ep013_douvis_jade_talk_e7eb75b9:
 translate italian ep013_douvis_jade_talk_4e5f40e4:
 
 
-    woman "Beh, non vi tratterrò oltre."
+    woman "Beh, non ti tratterrò oltre."
 
 
 translate italian ep013_douvis_jade_talk_0202e04a:
 
 
-    woman "È stato un piacere conoscervi, Altezza."
+    woman "È stato un piacere conoscerla, Altezza."
 
 
 translate italian ep013_douvis_jade_talk_6e06f2a2:
 
 
-    woman "Sono felice di vedere che anche a voi è stata risparmiata la vita di un assistente."
+    woman "Sono felice di vedere che anche a te è stata risparmiata la vita di un assistente."
 
 
 translate italian ep013_douvis_jade_talk_8093958a:
@@ -2488,7 +2458,7 @@ translate italian ep013_douvis_jade_talk_6bc32b50:
 translate italian ep013_douvis_jade_talk_7c5b0c7b:
 
 
-    j "Cosa?{w} Sì.{w} Sì, sto bene."
+    j "Cosa? {w} Sì. {w} Sì, sto bene."
 
 
 translate italian ep013_douvis_jade_talk_ad148cfd:
@@ -2506,7 +2476,7 @@ translate italian ep013_douvis_jade_talk_ad512e24:
 translate italian ep013_douvis_jade_talk_3c780d6c:
 
 
-    j "Ho sempre pensato che mia madre fosse morta su Luclite."
+    j "Ho sempre pensato che mia madre fosse morta sulla Luclite."
 
 
 translate italian ep013_douvis_jade_talk_4d50190a:
@@ -2524,13 +2494,13 @@ translate italian ep013_douvis_jade_talk_92fd1de8:
 translate italian ep013_douvis_jade_talk_211157ef:
 
 
-    j "La nostra famiglia si è separata molto prima che io venissi venduta come attendente."
+    j "La nostra famiglia si è separata molto prima che io venissi venduto come attendente."
 
 
 translate italian ep013_douvis_jade_talk_9f744932:
 
 
-    j "Mio padre...{w} essendo il capo di una casa nobile, fu giustiziato invece di essere venduto."
+    j "Mio padre...{w} Essendo il capo di una casa nobile, fu giustiziato invece di essere venduto."
 
 
 translate italian ep013_douvis_jade_talk_dc59f493:
@@ -2584,7 +2554,7 @@ translate italian ep013_douvis_jade_talk_68c8dca0:
 translate italian ep013_douvis_jade_talk_d41788b5:
 
 
-    j "Tuttavia, il controllo del vostro governo non è così totale come vogliono farci credere."
+    j "Tuttavia, il controllo del tuo governo non è così totale come vogliono farci credere."
 
 
 translate italian ep013_douvis_jade_talk_914714a3:
@@ -2764,7 +2734,7 @@ translate italian ep013_douvis_eva_talk_86e98da3:
 translate italian ep013_douvis_eva_talk_9a8f0376:
 
 
-    e "I posti che ho visto erano o sotto stretto controllo della Sovranità, o qualche strana cosa a tema finto-medievale che piace tanto alle Acarhyn."
+    e "I posti che ho visto erano o sotto stretto controllo della Sovranità, o qualche strana cosa a tema finto-medievale che piace tanto agli Acarhyn."
 
 
 translate italian ep013_douvis_eva_talk_6496527d:
@@ -2776,7 +2746,7 @@ translate italian ep013_douvis_eva_talk_6496527d:
 translate italian ep013_douvis_eva_talk_0f8a45e2:
 
 
-    e "Lilli mi ha detto che sei stato in tanti posti."
+    e "Lilly mi ha detto che sei stato in tanti posti."
 
 
 translate italian ep013_douvis_eva_talk_cee0372e:
@@ -2794,7 +2764,7 @@ translate italian ep013_douvis_eva_talk_cbc8d189:
 translate italian ep013_douvis_eva_talk_1c6c40ae:
 
 
-    e "Beh, Lilli la racconta in modo diverso."
+    e "Beh, Lilly la racconta in modo diverso."
 
 
 translate italian ep013_douvis_eva_talk_0e72e225:
@@ -2818,7 +2788,7 @@ translate italian ep013_douvis_eva_talk_3e46f190:
 translate italian ep013_douvis_eva_talk_b0093fce:
 
 
-    e "Lilli e Aven sembravano accettare le ragioni di Nadia."
+    e "Lilly e Aven sembravano accettare le ragioni di Nadya."
 
 
 translate italian ep013_douvis_eva_talk_5d068f53:
@@ -2836,7 +2806,7 @@ translate italian ep013_douvis_eva_talk_9267278e:
 translate italian ep013_douvis_eva_talk_afb1767c:
 
 
-    e "Nadia e papà sono stati così ribelli in gioventù."
+    e "Nadya e papà sono stati così ribelli in gioventù."
 
 
 translate italian ep013_douvis_eva_talk_c01d60c0:
@@ -2896,7 +2866,7 @@ translate italian ep013_douvis_eva_talk_4011bb05:
 translate italian ep013_douvis_eva_talk_bb0056cb:
 
 
-    e "Ma da come Nadia, cioè la mamma, racconta che la loro relazione era vera."
+    e "Ma da come Nadya, cioè la mamma, racconta che la loro relazione era vera."
 
 
 translate italian ep013_douvis_eva_talk_3f72e779:
@@ -2908,7 +2878,7 @@ translate italian ep013_douvis_eva_talk_3f72e779:
 translate italian ep013_douvis_eva_talk_9aaddf4f:
 
 
-    "Più che confuso, mi chiedevo come rispondere alla dichiarazione di Eva."
+    "Più che confusa, mi chiedevo come rispondere alla dichiarazione di Eva."
 
 
 translate italian ep013_douvis_eva_talk_e8443f12:
@@ -2932,13 +2902,13 @@ translate italian ep013_douvis_eva_talk_a7b1139b:
 translate italian ep013_douvis_eva_talk_7209680a:
 
 
-    c "Quindi?{w} Molte stazioni le hanno."
+    c "Quindi? {w} Molte stazioni le hanno."
 
 
 translate italian ep013_douvis_eva_talk_a1d72f62:
 
 
-    e "Lo so, ma stanno offrendo {noalt}'Warrior'{/noalt}{alt}Ua-rior{/alt}, adoravo quella simulazione da bambina."
+    e "Lo so, ma stanno offrendo 'Warrior', adoravo quella simulazione da bambino."
 
 
 translate italian ep013_douvis_eva_talk_c1688484:
@@ -3064,13 +3034,13 @@ translate italian ep013_douvis_simulation_b25f5846:
 translate italian ep013_douvis_simulation_e0c25be2:
 
 
-    c "Anche se non sono sicuro che le Acarhyn la ritengano abbastanza ingombrante."
+    c "Anche se non sono sicuro che gli Acarhyn la ritengano abbastanza ingombrante."
 
 
 translate italian ep013_douvis_simulation_6c4076b6:
 
 
-    e "Di certo è rivelatrice come le tute indossate dalle Acarhyn."
+    e "Di certo è rivelatrice come le tute indossate dagli Acarhyn."
 
 
 translate italian ep013_douvis_simulation_9464d927:
@@ -3397,12 +3367,6 @@ translate italian ep013_douvis_simulation_e90c0539:
     "Dopo esserci vestiti, scendemmo entrambi al piano di sotto dove il locandiere aveva già preparato la colazione per noi."
 
 
-translate italian ep013_douvis_simulation_7f8b474f:
-
-
-    "Dopo esserci vestiti, scendemmo entrambi al piano di sotto dove il locandiere aveva già preparato la colazione per noi."
-
-
 translate italian ep013_douvis_simulation_2b564547:
 
 
@@ -3442,13 +3406,13 @@ translate italian ep013_douvis_simulation_e9a10f25:
 translate italian ep013_douvis_simulation_05f2e600:
 
 
-    man "Soprattutto quando si tratta di competizione, si dice che sia molto spietata, quindi tenete gli occhi aperti."
+    man "Soprattutto quando si tratta di competizione, si dice che sia molto spietata, quindi tieni gli occhi aperti."
 
 
 translate italian ep013_douvis_simulation_6ce01ad4:
 
 
-    e "Sono sicura che un'elfa magra non sia una minaccia così grande?"
+    e "Sono sicuro che un elfo magro non sia una minaccia così grande?"
 
 
 translate italian ep013_douvis_simulation_c381ec11:
@@ -3520,7 +3484,7 @@ translate italian ep013_douvis_simulation_46614722:
 translate italian ep013_douvis_simulation_f2b66798:
 
 
-    c "Attenta!"
+    c "Attenzione!"
 
 
 translate italian ep013_douvis_simulation_ef9f1357:
@@ -3688,7 +3652,7 @@ translate italian ep013_douvis_simulation_394bcc56:
 translate italian ep013_douvis_simulation_a0a405f7:
 
 
-    "Non ho aspettato che Eva protestasse e sono tornato al falò."
+    "Non ho aspettato che Eva protestasse e sono tornata al falò."
 
 
 translate italian ep013_douvis_simulation_b2f58fbf:
@@ -3730,13 +3694,13 @@ translate italian ep013_douvis_simulation_3fcb8f07:
 translate italian ep013_douvis_simulation_356f8481:
 
 
-    e "Uh...{w} sì, giusto."
+    e "Uh...{w} Sì, giusto."
 
 
 translate italian ep013_douvis_simulation_58c10d5f:
 
 
-    "Gli orchi sono rimasti addormentati quando siamo entrati nella radura e anche l'elfa cacciatrice non si è mossa."
+    "Gli orchi sono rimasti addormentati quando siamo entrati nella radura e anche il cacciatore elfico non si è mosso."
 
 
 translate italian ep013_douvis_simulation_5d3a277d:
@@ -3790,7 +3754,7 @@ translate italian ep013_douvis_simulation_a4f4963c:
 translate italian ep013_douvis_simulation_db19df3a:
 
 
-    e "Forse gli orchi potrebbero schiaffeggiare il drago con le loro...{w} cose..."
+    e "Forse gli orchi potrebbero schiaffeggiare il drago con le loro... {w} cose..."
 
 
 translate italian ep013_douvis_simulation_f4342363:
@@ -3808,7 +3772,7 @@ translate italian ep013_douvis_simulation_f4729576:
 translate italian ep013_douvis_simulation_14d67f7f:
 
 
-    e "Ewww...{w} decidiamo di saltare anche l'orgia celebrativa con l'oste."
+    e "Ewww...{w} Decidiamo di saltare anche l'orgia celebrativa con l'oste."
 
 
 translate italian ep013_douvis_simulation_ee79a6c5:
@@ -3874,7 +3838,7 @@ translate italian ep013_douvis_simulation_55f86e22:
 translate italian ep013_douvis_simulation_c26720b4:
 
 
-    e "Sembrava più lontano, verso l'accampamento dell'elfa."
+    e "Sembrava più lontano, verso il campeggio degli elfi."
 
 
 translate italian ep013_douvis_simulation_e1b388b4:
@@ -3910,13 +3874,13 @@ translate italian ep013_douvis_simulation_e86594f0:
 translate italian ep013_douvis_simulation_eaa052fb:
 
 
-    e "Drago!{w} Sparpagliati e cerca di affiancarlo."
+    e "Dragon!{w} Sparpagliati e cerca di affiancarlo."
 
 
 translate italian ep013_douvis_simulation_1a033f56:
 
 
-    c "Ci penso io."
+    c "Su di lui."
 
 
 translate italian ep013_douvis_simulation_c6664ebb:
@@ -3928,7 +3892,7 @@ translate italian ep013_douvis_simulation_c6664ebb:
 translate italian ep013_douvis_simulation_e7d8f42c:
 
 
-    "L'elfa cacciatrice stava cercando di allontanarsi dal mostro, ma il drago si stava chiaramente prendendo gioco di lei."
+    "La cacciatrice elfica stava cercando di allontanarsi dal mostro, ma il drago si stava chiaramente prendendo gioco di lei."
 
 
 translate italian ep013_douvis_simulation_2f8b84c1:
@@ -3946,7 +3910,7 @@ translate italian ep013_douvis_simulation_eba70b65:
 translate italian ep013_douvis_simulation_e9ecaa20:
 
 
-    "Ashala si sforzò invano di spingere se stessa fuori dagli artigli del drago, che la portò a livello della sua grande testa."
+    "Ashala si sforzò invano di spingere se stessa fuori dagli artigli del wyrm, che la portò a livello della sua grande testa."
 
 
 translate italian ep013_douvis_simulation_60a31bbf:
@@ -3970,7 +3934,7 @@ translate italian ep013_douvis_simulation_0345c4b3:
 translate italian ep013_douvis_simulation_f9794ef7:
 
 
-    "Distrassi il drago con un raggio di energia mentre gettava a terra il corpo senza vita dell'elfa."
+    "Distrassi il drago con un raggio di energia mentre gettava a terra il corpo senza vita dell'elfo."
 
 
 translate italian ep013_douvis_simulation_cc02942e:
@@ -4102,7 +4066,7 @@ translate italian ep013_douvis_simulation_5b78f688:
 translate italian ep013_douvis_simulation_be351ef9:
 
 
-    man "Bacio!{w} Bacio!"
+    man "Bacialo! {w} Bacialo!"
 
 
 translate italian ep013_douvis_simulation_ab4fbb4d:
@@ -4180,85 +4144,13 @@ translate italian ep013_douvis_simulation_1a1ba9ec:
 translate italian ep013_douvis_simulation_0c5eed1c:
 
 
-    "Io ed Eva ci siamo salutati e mia sorella è tornata alla nave."
+    "Io ed Eva ci siamo salutate e mia sorella è tornata alla nave."
 
 
 translate italian ep013_douvis_simulation_ca975ad6:
 
 
     "Eva e io ci salutammo e lei tornò alla nave."
-
-
-translate italian ep013_douvis_3d0a7f5c:
-
-
-    "Ho vagato per la stazione senza uno scopo preciso."
-
-
-translate italian ep013_douvis_32c4bbb2:
-
-
-    "Il bacio che io ed Eva ci siamo scambiati ha dominato i miei pensieri."
-
-
-translate italian ep013_douvis_0152f3dd:
-
-
-    "Sicuramente, è stata un'esperienza virtuale, ma non ha diminuito i sentimenti dietro l'atto."
-
-
-translate italian ep013_douvis_f308aebd:
-
-
-    "Alla fine, Eva pareva scioccata, ma prima di quello sembrava essersi abbandonata al bacio."
-
-
-translate italian ep013_douvis_df93b5e7:
-
-
-    "Non sapevo cosa pensare dei sentimenti di Eva."
-
-
-translate italian ep013_douvis_ad86bb9f:
-
-
-    "Provava qualcosa per me?"
-
-
-translate italian ep013_douvis_4c13f4cf:
-
-
-    "Oserebbe andare oltre a ciò che è appropriato tra fratello e sorella?"
-
-
-translate italian ep013_douvis_457dcafa:
-
-
-    "Chiaramente se non ci fosse stato nient'altro, non avrebbe sfogato la sua indignazione, non come avrebbe fatto Lilli."
-
-
-translate italian ep013_douvis_32971ce2:
-
-
-    "Suppongo che solo il tempo avrebbe chiarito la situazione tra me ed Eva."
-
-
-translate italian ep013_douvis_47b9fd22:
-
-
-    "Perso nei pensieri, non avevo notato che la maggior parte delle persone sulla stazione era tornata nei suoi alloggi personali."
-
-
-translate italian ep013_douvis_68d8779c:
-
-
-    "Dato che non restava molto altro da fare nella stazione, decisi che era il momento di lasciarla."
-
-
-translate italian ep013_douvis_114a3021:
-
-
-    "Non avevo molto altro da fare nella stazione, con la maggior parte delle persone che era tornata nei suoi alloggi personali."
 
 
 translate italian ep013_douvis_simulation_sex_102d1894:
@@ -4312,7 +4204,7 @@ translate italian ep013_douvis_simulation_sex_6b213531:
 translate italian ep013_douvis_simulation_sex_cb02965b:
 
 
-    "Eva osservava i due orchi al lavoro con un misto di orrore e fascino, proprio come aveva fatto Nadia durante la cerimonia delle uova su Almagesto."
+    "Eva osservava i due orchi al lavoro con un misto di orrore e fascino, proprio come aveva fatto Nadya durante la cerimonia delle uova su Almaghest."
 
 
 translate italian ep013_douvis_simulation_sex_0a7fe7a5:
@@ -4363,7 +4255,7 @@ translate italian ep013_douvis_simulation_sex_9c607eb3:
     e "Cosa sta succedendo ora?"
 
 
-translate italian ep013_douvis_simulation_sex_adb4a797:
+translate italian ep013_douvis_simulation_sex_41ecd2fa:
 
 
     "Il cazzo dell'orco era scivolato dalla bocca della ragazza, facendole vomitare una massa di muco chiaro."
@@ -4402,7 +4294,7 @@ translate italian ep013_douvis_simulation_sex_a873e1d0:
 translate italian ep013_douvis_simulation_sex_7f8e15ec:
 
 
-    ash "Oh cazzo!{w} Cazzo!{w} Sì, sfondami!"
+    ash "Oh cazzo! {w} Cazzo! {w} Sì, sfondami!"
 
 
 translate italian ep013_douvis_simulation_sex_3a4ede12:
@@ -4432,13 +4324,13 @@ translate italian ep013_douvis_simulation_sex_b852369c:
 translate italian ep013_douvis_simulation_sex_f03107d6:
 
 
-    ash "Sfondami!{w} Scopami entrambi i buchi!"
+    ash "Sfondami! {w} Scopami entrambi i buchi!"
 
 
 translate italian ep013_douvis_simulation_sex_186cbafc:
 
 
-    ash "Cazzo, sì!{w} Ancora!{w} Ancora!"
+    ash "Cazzo, sì! {w} Ancora! {w} Ancora!"
 
 
 translate italian ep013_douvis_simulation_sex_6b0a9750:
@@ -4536,20 +4428,7 @@ translate italian ep013_douvis_simulation_sex_7b264f1d:
 
     "Anche il cacciatore elfico sembrava essere svenuto."
 
-
 translate italian strings:
-
-
-    old "Lilly"
-    new "Lilli"
-
-
-    old "Nadya"
-    new "Nadia"
-
-
-    old "Woman"
-    new "Donna"
 
 
     old "Douvis, Dou System, Approach"
@@ -4565,15 +4444,11 @@ translate italian strings:
 
 
     old "Location: Dou System"
-    new "Posizione{alt} di Douvis{/alt}: Sistema Dou"
+    new "Posizione: Sistema Dou"
 
 
     old "A small ice-covered planet and almost uninhabited because of the very harsh climate. The only known living creatures reside in a trading hub at the foot of a mountain range."
-    new "{alt}Douvis è {/alt}Un piccolo pianeta ricoperto di ghiaccio e quasi disabitato a causa del clima molto rigido. Le uniche creature viventi conosciute risiedono in un centro commerciale ai piedi di una catena montuosa."
-
-
-    old "Twi'll"
-    new "Twi{noalt}'{/noalt}ll"
+    new "Un piccolo pianeta ricoperto di ghiaccio e quasi disabitato a causa del clima molto rigido. Le uniche creature viventi conosciute risiedono in un centro commerciale ai piedi di una catena montuosa."
 
 
     old "Enter simulation"
@@ -4584,16 +4459,152 @@ translate italian strings:
     new "Non entrare nella simulazione"
 
 
-    old "Innkeeper"
-    new "Locandiere"
-
-
     old "Check it out"
     new "Controlla"
 
 
     old "Wait until they're finished"
     new "Aspetta che abbiano finito"
+
+
+    old "Kiss her"
+    new "Baciala"
+
+
+    old "Don't kiss her"
+    new "Non baciarla"
+
+
+
+
+translate italian episode013_87d4a6da:
+
+
+    c "Grazie per averci avvisato."
+
+
+translate italian ep013_dinner_74867244:
+
+
+    na "Poiché il nostro amore era strettamente proibito, la segretezza è diventata una seconda natura."
+
+
+translate italian ep013_dinner_22a5f952:
+
+
+    na "Anche se molte cose pesano sulla mia coscienza, non ho rimpianti per aver messo al mondo voi quattro."
+
+
+translate italian ep013_dinner_caf3a2c5:
+
+
+    av "La realtà della nostra parentela è qualcosa a cui dovrò abituarmi."
+
+
+translate italian ep013_douvis_0cf2c6ba:
+
+
+    "Non molto tempo dopo il nostro sbarco, ricevetti un messaggio urgente da Thyia che mi esortava a raggiungerla."
+
+
+translate italian ep013_douvis_3d0a7f5c:
+
+
+    "Senza uno scopo preciso, vagai per la stazione."
+
+
+translate italian ep013_douvis_32c4bbb2:
+
+
+    "Il bacio che io ed Eva avevamo condiviso dominava i miei pensieri."
+
+
+translate italian ep013_douvis_0152f3dd:
+
+
+    "Certo, era stata un'esperienza virtuale, ma questo non sminuiva minimamente i sentimenti alla base del gesto."
+
+
+translate italian ep013_douvis_f308aebd:
+
+
+    "Alla fine Eva era apparsa scioccata, ma prima sembrava essersi abbandonata al bacio."
+
+
+translate italian ep013_douvis_df93b5e7:
+
+
+    "Mi sono trovato in difficoltà di fronte ai sentimenti di Eva."
+
+
+translate italian ep013_douvis_ad86bb9f:
+
+
+    "Provava qualcosa di più per me?"
+
+
+translate italian ep013_douvis_4c13f4cf:
+
+
+    "Avrebbe osato andare oltre quello che è giusto fare tra fratello e sorella?"
+
+
+translate italian ep013_douvis_e616bd86:
+
+
+    "Avrebbe osato andare al di là di ciò che è giusto fare tra amici normali?"
+
+
+translate italian ep013_douvis_457dcafa:
+
+
+    "Ovviamente, se non ci fosse niente di più, Eva non si sfogherebbe, non come farebbe Lilly."
+
+
+translate italian ep013_douvis_32971ce2:
+
+
+    "Credo che sarà il tempo a dirci qual è la posizione di Eva e di me."
+
+
+translate italian ep013_douvis_47b9fd22:
+
+
+    "Perso nei miei pensieri, non avevo notato che la maggior parte delle persone sulla stazione era tornata nei propri alloggi."
+
+
+translate italian ep013_douvis_68d8779c:
+
+
+    "Dato che c'era poco altro da fare sulla stazione, decisi che era ora di andarmene."
+
+
+translate italian ep013_douvis_114a3021:
+
+
+    "Non c'era molto altro da fare sulla stazione e quando la maggior parte delle persone tornò ai propri alloggi personali sulla base, decisi che era ora di andarmene."
+
+
+translate italian ep013_douvis_simulation_7f8b474f:
+
+
+    "Dopo esserci vestiti, scendemmo entrambi al piano di sotto dove l'oste aveva già preparato la colazione per noi."
+
+
+translate italian ep013_douvis_simulation_sex_adb4a797:
+
+
+    "Il cazzo dell'orco era scivolato dalla bocca della ragazza, facendole vomitare una massa di muco chiaro."
+
+translate italian strings:
+
+
+    old "Woman"
+    new "Donna"
+
+
+    old "Innkeeper"
+    new "Locandiera"
 
 
     old "Orc"
@@ -4604,18 +4615,10 @@ translate italian strings:
     new "Folla"
 
 
-    old "Kiss her"
-    new "{alt}Bacia-la{/alt}{noalt}Baciala{/noalt}"
+
+translate italian strings:
 
 
-    old "Don't kiss her"
-    new "Non baciarla"
-
-# TODO: Translation updated at 2025-06-04 13:45
-
-# game/episode013.rpy:620
-translate italian ep013_douvis_e616bd86:
-
-    # "Would she dare go beyond what’s proper between regular friends?"
-    ""
-
+    old "Episode 13"
+    new "Episodio 13"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

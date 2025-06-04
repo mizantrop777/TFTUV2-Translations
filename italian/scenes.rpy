@@ -1,5 +1,4 @@
-
-
+﻿
 
 translate italian strings:
 
@@ -16,32 +15,8 @@ translate italian strings:
     new "Gli strumenti di Thyia"
 
 
-    old "Shower Spy"
-    new "Spia in doccia"
-
-
-    old "Vess Freed"
-    new "Vess liberata"
-
-
-    old "Midnight Taste"
-    new "Spuntino di mezzanotte"
-
-
-    old "Puss or Tush?"
-    new "Davanti o dietro?"
-
-
-    old "Pussy at the Pool"
-    new "Scherzo in piscina"
-
-
-    old "Clearing Her Throat"
-    new "Pulizia della bocca"
-
-
     old "Episode #13"
-    new "Episodio {noalt}#{/noalt}13"
+    new "Episodio #13"
 
 
     old "Touchy-feely"
@@ -53,15 +28,51 @@ translate italian strings:
 
 
     old "Grateful Vess"
-    new "Vess grata"
+    new "Vess grato"
 
 
     old "For the Horde!"
     new "Per l'Orda!"
 
 
+
+translate italian strings:
+
+
+    old "Shower Spy"
+    new "Spia sotto la doccia"
+
+
+    old "Vess Freed"
+    new "Vess liberato"
+
+
+    old "Midnight Taste"
+    new "Gusto di mezzanotte"
+
+
+    old "Puss or Tush?"
+    new "Gatto o sedere?"
+
+
+    old "Pussy at the Pool"
+    new "Figa in piscina"
+
+
+    old "Clearing Her Throat"
+    new "Schiarirsi la gola"
+
+
+    old "Vess' Caress"
+    new "La carezza di Vess"
+
+
+    old "Cabin Climax"
+    new "Climax in cabina"
+
+
     old "Episode #14"
-    new "Episodio {noalt}#{/noalt}14"
+    new "Episodio #14"
 
 
     old "The Waiting Game"
@@ -69,11 +80,11 @@ translate italian strings:
 
 
     old "Nadya's Night"
-    new "La notte di Nadia"
+    new "La notte di Nadya"
 
 
     old "Episode #15"
-    new "Episodio {noalt}#{/noalt}15"
+    new "Episodio #15"
 
 
     old "Pitch a Tent"
@@ -81,15 +92,15 @@ translate italian strings:
 
 
     old "Showery Show"
-    new "Docciashow"
+    new "Spettacolo da doccia"
 
 
     old "Dual Wielding"
-    new "Doppia impugnatura"
+    new "Doppio potere"
 
 
     old "Episode #16"
-    new "Episodio {noalt}#{/noalt}16"
+    new "Episodio #16"
 
 
     old "Swimming Lessons"
@@ -97,239 +108,197 @@ translate italian strings:
 
 
     old "Unfinished Business"
-    new "Questioni in sospeso"
+    new "Affari incompiuti"
 
 
     old "Sneaky Snake"
-    new "{noalt}Sssesssh!{/noalt}{alt}Sessessessesesserpente{/alt}"
+    new "Serpente subdolo"
 
 
     old "Just Deserts"
-    new "Il dessert"
+    new "Solo meriti"
 
 
     old "Spank 'n Spunk"
-    new "Pacche sul sedere"
+    new "Spank 'n Spunk"
 
 
-    old "View by: "
-    new "Vedi per: "
+    old "Episode #17"
+    new "Episodio #17"
 
 
-    old "character"
-    new "personaggio"
+    old "Cabin Fever"
+    new "Febbre da cabina"
 
 
-    old "episode"
-    new "episodio"
+    old "Vess Visit"
+    new "Visita di Vess"
 
 
-    old "Extra"
-    new "{noalt}Extra{/noalt}{alt}Pagina delle scene extra{/alt}"
+    old "Toying With You"
+    new "Giocare con te"
 
 
-    old "Ep13"
-    new "{noalt}Ep13{/noalt}{alt}Pagina scene dell'episodio 13{/alt}"
+
+translate italian strings:
 
 
-    old "Ep14"
-    new "{noalt}Ep14{/noalt}{alt}Pagina scene dell'episodio 14{/alt}"
+    old "Eva Eating The Apple"
+    new "Eva che mangia la mela"
 
 
-    old "Ep15"
-    new "{noalt}Ep15{/noalt}{alt}Pagina scene dell'episodio 15{/alt}"
+    old "Ruin Romp"
+    new "Rovina Rompicapo"
 
 
-    old "Ep16"
-    new "{noalt}Ep16{/noalt}{alt}Pagina scene dell'episodio 16{/alt}"
-
-    old "Ep17"
-    new "{noalt}Ep17{/noalt}{alt}Pagina scene dell'episodio 17{/alt}"
-
-    old "Ep18"
-    new "{noalt}Ep18{/noalt}{alt}Pagina scene dell'episodio 18{/alt}"
+    old "Episode #18"
+    new "Episodio #18"
 
 
-    old "Ep19"
-    new "{noalt}Ep19{/noalt}{alt}Pagina scene dell'episodio 19{/alt}"
+    old "The Ex-Virgin Queen"
+    new "L'ex Regina Vergine"
 
 
-    old "Ep20"
-    new "{noalt}Ep20{/noalt}{alt}Pagina scene dell'episodio 20{/alt}"
+    old "BFF"
+    new "BFF"
 
 
-    old "Ep21"
-    new "{noalt}Ep21{/noalt}{alt}Pagina scene dell'episodio 21{/alt}"
+
+translate italian strings:
 
 
-    old "Ep22"
-    new "{noalt}Ep22{/noalt}{alt}Pagina scene dell'episodio 22{/alt}"
+    old "Semen Shower"
+    new "Doccia di sperma"
 
 
-    old "Ep23"
-    new "{noalt}Ep23{/noalt}{alt}Pagina scene dell'episodio 23{/alt}"
+    old "Bed Ass"
+    new "Culo a letto"
 
 
-    old "Ep24"
-    new "{noalt}Ep24{/noalt}{alt}Pagina scene dell'episodio 24{/alt}"
+    old "Round Two"
+    new "Secondo round"
 
 
-    old "Misc"
-    new "Altro"
+    old "Rainforest"
+    new "Foresta pluviale"
 
-# TODO: Translation updated at 2025-06-04 13:45
+
+    old "Episode #19"
+    new "Episodio #19"
+
+
+    old "Couch Fuckers"
+    new "Scopatori da divano"
+
+
+    old "Nightcap"
+    new "Cappuccetto Notte"
+
+
+    old "Shower For Two"
+    new "Doccia per due"
+
+
+    old "Balcony Bonking"
+    new "Scopata sul balcone"
+
+
+    old "Episode #20"
+    new "Episodio #20"
+
+
+    old "It Takes Two"
+    new "Necessario due persone"
+
+
+    old "Paclerara Passion"
+    new "Passione Paclerara"
+
+
+    old "Massage Make-out"
+    new "Massaggio Make-out"
+
+
+    old "Poolside Plow"
+    new "Scopata Bordo piscina"
+
+
+
+translate italian strings:
+
+
+    old "Eva Evening"
+    new "Eva Sera"
+
+
+    old "Breeding the Books"
+    new "Allevare i libri"
+
+
+    old "Episode #21"
+    new "Episodio #21"
+
+
+    old "Intercourse In Transit"
+    new "Rapporto sessuale in transito"
+
+
+    old "Attendant Arousal"
+    new "Eccitazione dell'assistente"
+
+
+    old "Ramrod Raene"
+    new "Ramrod Raene"
+
+
+    old "Four Is A Crowd"
+    new "Quattro è una folla"
+
+
+    old "Over By The Window"
+    new "Vicino alla finestra"
+
+
+    old "Couch Coitus"
+    new "Coito sul divano"
+
+
+    old "Couch Corruption"
+    new "Corruzione del divano"
+
+
+    old "Shagging After Showering"
+    new "Scopare dopo la doccia"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-05-18 19:53
 
 translate italian strings:
 
     # game/scenes.rpy:3
-    old "Vess' Caress"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Cabin Climax"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Eva Eating The Apple"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Ruin Romp"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Semen Shower"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Bed Ass"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Round Two"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Rainforest"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Eva Evening"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Breeding the Books"
-    new ""
-
-    # game/scenes.rpy:3
     old "Lickety-spit"
-    new ""
+    new "Lickety-spit"
 
     # game/scenes.rpy:3
     old "Ziv's Zenith"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Cabin Fever"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Vess Visit"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Toying With You"
-    new ""
-
-    # game/scenes.rpy:3
-    old "The Ex-Virgin Queen"
-    new ""
-
-    # game/scenes.rpy:3
-    old "BFF"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Couch Fuckers"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Nightcap"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Shower For Two"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Balcony Bonking"
-    new ""
-
-    # game/scenes.rpy:3
-    old "It Takes Two"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Paclerara Passion"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Massage Make-out"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Poolside Plow"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Intercourse In Transit"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Attendant Arousal"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Ramrod Raene"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Four Is A Crowd"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Over By The Window"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Couch Coitus"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Couch Corruption"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Shagging After Showering"
-    new ""
+    new "Zenith di Ziv"
 
     # game/scenes.rpy:3
     old "Operative Oral"
-    new ""
+    new "Operativo Orale"
 
     # game/scenes.rpy:3
     old "Duo Dalliance"
-    new ""
+    new "Duo Dalliance"
 
     # game/scenes.rpy:3
     old "Two Turned-on Tools"
-    new ""
+    new "Due strumenti accesi"
 
     # game/scenes.rpy:3
     old "Boinking On The Bridge"
-    new ""
+    new "Bere sul ponte di comando"
 
     # game/scenes.rpy:3
     old "Bridge Bitches"
-    new ""
+    new "Puttane del ponte"
 

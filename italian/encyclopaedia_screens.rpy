@@ -1,6 +1,5 @@
 
 
-
 translate italian strings:
 
 
@@ -14,16 +13,4 @@ translate italian strings:
 
     old "Codex: {0}"
     new "Codice: {0}"
-
-
-    old "Previous Entry"
-    new "Voce precedente"
-
-
-    old "Next Entry"
-    new "Voce successiva"
-
-
-    old "Close Entry"
-    new "Chiudi la voce"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,4 @@
-
-
+﻿
 
 translate italian strings:
 
@@ -9,7 +8,7 @@ translate italian strings:
 
 
     old "History"
-    new "Storico"
+    new "Storia"
 
 
     old "Skip"
@@ -25,11 +24,11 @@ translate italian strings:
 
 
     old "Q.Save"
-    new "Salva rapido"
+    new "Q.Salva"
 
 
     old "Q.Load"
-    new "Carica rapido"
+    new "Q.Load"
 
 
     old "Codex"
@@ -37,11 +36,11 @@ translate italian strings:
 
 
     old "Prefs"
-    new "Preferenze"
+    new "Prefs"
 
 
     old "Start"
-    new "Inizia"
+    new "Inizio"
 
 
     old "Load"
@@ -53,15 +52,15 @@ translate italian strings:
 
 
     old "End Replay"
-    new "Fine replay"
+    new "Fine Replay"
 
 
     old "Scene Gallery"
-    new "Galleria scene"
+    new "Galleria Scene"
 
 
     old "Main Menu"
-    new "Menu principale"
+    new "Menu Pr."
 
 
     old "About"
@@ -73,11 +72,11 @@ translate italian strings:
 
 
     old "Quit"
-    new "Esci dal gioco"
+    new "Esci"
 
 
     old "Return"
-    new "Indietro"
+    new "Ritorna"
 
 
     old "Relationships"
@@ -92,24 +91,8 @@ translate italian strings:
     new "Relazione: %s"
 
 
-    old "Relationship: No"
-    new "Relazione: No"
-
-
-    old "Relationship: Yes"
-    new "Relazione: Sì"
-
-
     old "Pregnant: %s"
     new "Incinta: %s"
-
-
-    old "Pregnant: No"
-    new "Incinta: No"
-
-
-    old "Pregnant: Yes"
-    new "Incinta: Sì"
 
 
     old "Extras"
@@ -121,7 +104,7 @@ translate italian strings:
 
 
     old "Version "
-    new "Versione "
+    new "Versione"
 
 
     old "[config.version!t]\n"
@@ -132,52 +115,32 @@ translate italian strings:
     new "Musica"
 
 
-    old "Website: "
-    new "Sito web: "
-
-
     old "{a=[track[website]]}[track[website]]{/a}"
     new "{a=[track[website]]}[track[website]]{/a}"
 
 
-    old "Website: {a=[track[website]]}[track[website]]{/a}"
-    new "Sito web: {a=[track[website]]}[track[website]]{/a}"
-
-
     old "License: "
-    new "Licenza: "
+    new "Licenza:"
 
 
     old "{a=[track[license_url]]}[track[license]]{/a}"
     new "{a=[track[license_url]]}[track[license]]{/a}"
 
 
-    old "License: {a=[track[license_url]]}[track[license]]{/a}"
-    new "Licenza: {a=[track[license_url]]}[track[license]]{/a}"
-
-
     old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
-    new "{size=-8}Utilizza parti di {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework per Ren'Py{/a} di jsfehler"
+    new "{size=-8} Utilizza parti di {a=https://github.com/jsfehler/renpy-encyclopaedia} Encyclopaedia Framework for Ren'Py {/a} di jsfehler"
 
 
     old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
-    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models creati da {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models creati da{a=https://www.renderosity.com/?uid=767619} sevein / Herminio Nieves {/a}"
 
 
     old "{size=-8}Crucero Space Army model created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-    new "{size=-8}Modello Crucero Space Army creato da {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}{/size}"
-
-
-    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-    new "{size=-8}Modelli di Crucero Space Army e Space Gate creati da {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-
-
-    old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
-    new "{size=-8}Freeport Space Station 2 creata da {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, Licenza: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+    new "{size=-8} Modello Crucero Space Army creato da {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton} Antonio Amador {/a}"
 
 
     old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "{size=-8}Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]{/size}"
+    new "{size=-8} Realizzato con {a=https://www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n[renpy.license!t]"
 
 
     old "Page {}"
@@ -185,15 +148,11 @@ translate italian strings:
 
 
     old "Automatic saves"
-    new "Salvataggi automatici"
+    new "Salvataggio automatico"
 
 
     old "Quick saves"
-    new "Salvataggi rapidi"
-
-
-    old "Jump to page: "
-    new "Vai alla pagina: "
+    new "Salvataggio rapido"
 
 
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -209,11 +168,11 @@ translate italian strings:
 
 
     old "{#auto_page}A"
-    new "{#auto_page}A"
+    new "{#auto_page} A"
 
 
     old "{#quick_page}Q"
-    new "{#quick_page}Q"
+    new "{#quick_page} Q"
 
 
     old ">"
@@ -221,7 +180,7 @@ translate italian strings:
 
 
     old "Please name your save:"
-    new "Dai un nome al salvataggio:"
+    new "Assegna un nome al salvataggio:"
 
 
     old "Save game"
@@ -229,39 +188,15 @@ translate italian strings:
 
 
     old "Player Names"
-    new "Nomi giocatore"
+    new "Nomi dei giocatori"
 
 
     old "Name: "
-    new "Nome: "
+    new "Nome:"
 
 
     old "Nickname: "
-    new "Soprannome: "
-
-
-    old "Name: Camran"
-    new "Nome: Camran"
-
-
-    old "Nickname: Cam"
-    new "Soprannome: Cam"
-
-
-    old "Name: [p_name]"
-    new "Nome: [p_name]"
-
-
-    old "Nickname: [p_name_short]"
-    new "Soprannome: [p_name_short]"
-
-
-    old "Change name"
-    new "Cambia nome"
-
-
-    old "Change nickname"
-    new "Cambia soprannome"
+    new "Soprannome:"
 
 
     old "Display"
@@ -269,27 +204,27 @@ translate italian strings:
 
 
     old "Window"
-    new "{alt}In modalità {/alt}Finestra"
+    new "Finestra"
 
 
     old "Fullscreen"
-    new "{noalt}Schermo{/noalt} intero"
+    new "Intero"
 
 
     old "Rollback Side"
-    new "Lato rollback"
+    new "lato rollback"
 
 
     old "Disable"
-    new "Disattivato"
+    new "Disattiva"
 
 
     old "Left"
-    new "Sinistro"
+    new "Sinistra"
 
 
     old "Right"
-    new "Destro"
+    new "Destra"
 
 
     old "Unseen Text"
@@ -305,7 +240,7 @@ translate italian strings:
 
 
     old "Language"
-    new "Linguaggio"
+    new "Lingua"
 
 
     old "English"
@@ -313,19 +248,19 @@ translate italian strings:
 
 
     old "Italian (partial)"
-    new "Italian{alt}a{/alt}{noalt}o{/noalt} (parziale)"
+    new "Italiano (parziale)"
 
 
     old "Polish (partial)"
-    new "Polacc{alt}a{/alt}{noalt}o{/noalt} (parziale)"
+    new "Polacco (parziale)"
 
 
     old "Portuguese"
-    new "Portoghese"
+    new "portoghese"
 
 
     old "Russian (partial)"
-    new "Russ{alt}a{/alt}{noalt}o{/noalt} (parziale)"
+    new "Russo (parziale)"
 
 
     old "Notifications"
@@ -333,35 +268,35 @@ translate italian strings:
 
 
     old "Show"
-    new "Mostra{alt} notifiche, relazioni o ritratti{/alt}"
+    new "Mostra"
 
 
     old "Hide"
-    new "Nascondi{alt} notifiche, relazioni o ritratti{/alt}"
+    new "Nascondi"
 
 
     old "Show Portraits"
-    new "Ritratti"
+    new "Mostra ritratti"
 
 
     old "Text Speed"
-    new "Velocità testo"
+    new "velocità Testo"
 
 
     old "Auto-Forward Time"
-    new "Tempo auto-avanzamento"
+    new "Avanzamento Automatico"
 
 
     old "Dialog Box Visibility"
-    new "Visibilità finestra di dialogo"
+    new "Visibilità finestra dialogo"
 
 
     old "Music Volume"
-    new "Volume musica"
+    new "Volume Musica"
 
 
     old "Sound Volume"
-    new "Volume suoni"
+    new "Volume Suono"
 
 
     old "Test"
@@ -369,15 +304,15 @@ translate italian strings:
 
 
     old "Voice Volume"
-    new "Volume voce"
+    new "Volume Voce"
 
 
     old "Mute All"
-    new "Attiva/disattiva musica"
+    new "Muto"
 
 
     old "The dialogue history is empty."
-    new "Lo storico dei dialoghi è vuoto."
+    new "La storia dei dialoghi è vuota."
 
 
     old "Keyboard"
@@ -397,7 +332,7 @@ translate italian strings:
 
 
     old "Advances dialogue and activates the interface."
-    new "Avanza nei dialoghi e attiva l'interfaccia."
+    new "Avanza il dialogo e attiva l'interfaccia."
 
 
     old "Space"
@@ -405,7 +340,7 @@ translate italian strings:
 
 
     old "Advances dialogue without selecting choices."
-    new "Avanza nei dialoghi senza fare scelte."
+    new "Avanza il dialogo senza selezionare le scelte."
 
 
     old "Arrow Keys"
@@ -417,11 +352,11 @@ translate italian strings:
 
 
     old "Escape"
-    new "Esc"
+    new "Escape"
 
 
     old "Accesses the game menu."
-    new "Accedi al menu di gioco."
+    new "Accede al menu di gioco."
 
 
     old "Ctrl"
@@ -429,7 +364,7 @@ translate italian strings:
 
 
     old "Skips dialogue while held down."
-    new "Salta i dialoghi quando premuto."
+    new "Salta il dialogo se tenuto premuto."
 
 
     old "Tab"
@@ -437,7 +372,7 @@ translate italian strings:
 
 
     old "Toggles dialogue skipping."
-    new "Attiva/Disattiva salto dialoghi."
+    new "Attiva il salto dei dialoghi."
 
 
     old "Page Up"
@@ -457,15 +392,15 @@ translate italian strings:
 
 
     old "Hides the user interface."
-    new "Nascondi l'interfaccia utente."
+    new "Nasconde l'interfaccia utente."
 
 
     old "Takes a screenshot."
-    new "Fai uno screenshot."
+    new "Acquisisce uno screenshot."
 
 
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Attiva/disattiva l'{a=https://www.renpy.org/l/voicing}assistenza vocale{/a}."
+    new "Attiva / disattiva l '{a=https://www.renpy.org/l/voicing} auto-voce assistiva {/a}."
 
 
     old "Shows the relationships screen"
@@ -477,55 +412,55 @@ translate italian strings:
 
 
     old "Left Click"
-    new "Click sinistro"
+    new "Clic sinistro"
 
 
     old "Middle Click"
-    new "Click centrale"
+    new "Clic centrale"
 
 
     old "Right Click"
-    new "Click destro"
+    new "Fare clic con il tasto destro"
 
 
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Rotella mouse su\nClick rollback laterale"
+    new "Rotellina del mouse su\nFai clic su Rollback Side"
 
 
     old "Mouse Wheel Down"
-    new "Rotella mouse giù"
+    new "Rotellina del mouse verso il basso"
 
 
     old "Right Trigger\nA/Bottom Button"
-    new "RT\nA/Sotto"
+    new "Trigger destro\nA/Bottom Button"
 
 
     old "Left Trigger\nLeft Shoulder"
-    new "LT\nL1"
+    new "Grilletto sinistro\nSpalla sinistra"
 
 
     old "Right Shoulder"
-    new "R1"
+    new "Spalla destra"
 
 
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "Croce direzionale, bastoni"
 
 
     old "Start, Guide"
-    new "Start, Guida"
+    new "Inizio, Guida"
 
 
     old "Y/Top Button"
-    new "Y/Sopra"
+    new "Pulsante Y / Top"
 
 
     old "Calibrate"
-    new "Calibrazione"
+    new "Calibrare"
 
 
     old "Yes"
-    new "Sì"
+    new "sì"
 
 
     old "No"
@@ -533,15 +468,39 @@ translate italian strings:
 
 
     old "Skipping"
-    new "Salto..."
+    new "Saltare"
 
 
     old "Menu"
-    new "Menu"
+    new "Menù"
+
+
+
+translate italian strings:
 
 
     old "Continue"
     new "Continua"
+
+
+
+translate italian strings:
+
+
+    old "Translations"
+    new "Traduzioni"
+
+
+    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+    new "{size=-8}Modelli di Crucero Space Army e Space Gate creati da {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+
+
+    old "Jump to page: "
+    new "Vai alla pagina: "
+
+
+
+translate italian strings:
 
 
     old "Bonus"
@@ -557,151 +516,57 @@ translate italian strings:
 
 
     old "Spanish (partial)"
-    new "Spagnol{alt}a{/alt}{noalt}o{/noalt} (parziale)"
+    new "Spagnolo (parziale)"
 
 
     old "Incest"
     new "Incesto"
 
-    old "Enable"
-    new "{alt}Incesto {/alt}Abilitato"
-
-    old "v[config.version] • Taboo Edition, Extra Scenes"
-    new "{alt}Racconti dal vuoto infinito, stagione due, {/alt}v[config.version] • Edizione Tabù, Scene Extra"
 
 
-    old "v[config.version] • Standard Edition, Extra Scenes"
-    new "{alt}Racconti dal vuoto infinito, stagione due, {/alt}v[config.version] • Edizione Standard, Scene Extra"
+translate italian strings:
 
 
-    old "v[config.version] • Taboo Edition"
-    new "{alt}Racconti dal vuoto infinito, stagione due, {/alt}v[config.version] • Edizione Tabù"
+    old "View by: "
+    new "Visto da: "
 
 
-    old "v[config.version] • Standard Edition"
-    new "{alt}Racconti dal vuoto infinito, stagione due, {/alt}v[config.version] • Edizione Standard"
+    old "episode"
+    new "episodio"
 
 
-    old "Support me on  Patreon:\nwww.patreon.com/perverteer"
-    new "Sostienimi su Patreon:\nwww.patreon.com/perverteer"
+    old "character"
+    new "personaggio"
 
 
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}Adrian de Swardt, BO713, Cody Hopf, Edwin J Santiago, Ernest W, herbi, Jariah Synn, Jeff Wilson, jester59388, Johannes, Jose Padilla, justaguy44, Karubian, Kilroy Cannon, Kriz Man, Kyle Macias, lethal_angel, Michael Logan, Misabu, Redakai, Rei'esl, Russell Martin, Rwede, SBoyce, Silentwolf62, SneakyJordi, Timothy Adam Bishop, VainfulOcelot{/i}"
-    new "Grazie a HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut e Razielprince per i test.\n\nUn grosso grazie ai miei sostenitori di alto livello. Siete grandi! Patrons passati e futuri includono:\n{i}Adrian de Swardt, BO713, Cody Hopf, Edwin J Santiago, Ernest W, herbi, Jariah Synn, Jeff Wilson, jester59388, Johannes, Jose Padilla, justaguy44, Karubian, Kilroy Cannon, Kriz Man, Kyle Macias, lethal_angel, Michael Logan, Misabu, Redakai, Rei'esl, Russell Martin, Rwede, SBoyce, Silentwolf62, SneakyJordi, Timothy Adam Bishop, VainfulOcelot{/i}"
+    old "Website: "
+    new "Sito web: "
 
 
-    old "Translations"
-    new "Traduzioni"
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
 
 
-    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian, partial){/i}, Freeman {i}(Polish, partial){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}"
-    new "Grubb {i}(Portoghese){/i}, MyPrettyWolfy {i}(Russo, parziale){/i}, Freeman {i}(Polacco, parziale){/i}, Frank Rosario {i}(Italiano, parziale){/i}, Juan Manuel {i}(Spagnolo, parziale){/i}"
-
-
-    old "Version [config.version!t]\n"
-    new "Versione [config.version!t]\n"
-
-
-    old "Prologue"
-    new "Prologo"
-
-
-    old "Episode 1"
-    new "Episodio 1"
-
-
-    old "Episode 2"
-    new "Episodio 2"
-
-
-    old "Episode 3"
-    new "Episodio 3"
-
-
-    old "Episode 4"
-    new "Episodio 4"
-
-
-    old "Episode 5"
-    new "Episodio 5"
-
-
-    old "Episode 6"
-    new "Episodio 6"
-
-
-    old "Episode 7"
-    new "Episodio 7"
-
-
-    old "Episode 8"
-    new "Episodio 8"
-
-
-    old "Episode 9"
-    new "Episodio 9"
-
-
-    old "Episode 10"
-    new "Episodio 10"
-
-
-    old "Episode 11"
-    new "Episodio 11"
-
-
-    old "Episode 12"
-    new "Episodio 12"
-
-
-    old "Episode 12a"
-    new "Episodio {noalt}12a{/noalt}{alt}12-a{/alt}"
-
-
-    old "Episode 12b"
-    new "Episodio 12b"
-
-
-    old "Episode 13"
-    new "Episodio 13"
-
-
-    old "Episode 14"
-    new "Episodio 14"
-
-
-    old "Episode 15"
-    new "Episodio 15"
-
-
-    old "Episode 16"
-    new "Episodio 16"
-
-# TODO: Translation updated at 2025-06-04 13:45
+    old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+    new "{size=-8}Stazione spaziale Freeport 2 creata da {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, Licenza: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-05-18 19:53
 
 translate italian strings:
 
     # game/screens.rpy:369
     old "Choices"
-    new ""
+    new "Scelte"
+
+    # game/screens.rpy:484
+    old "Support me on  Patreon:\nwww.patreon.com/perverteer"
+    new "Sostenimi su Patreon:\nwww.patreon.com/perverteer"
 
     # game/screens.rpy:1473
-    old "Português (parcial)"
-    new ""
+    old "Portuguese (partial)"
+    new "Portoghese (parziale)"
 
     # game/screens.rpy:1474
-    old "Français"
-    new ""
-
-    # game/screens.rpy:1477
-    old "Italiano (parziale)"
-    new ""
-
-    # game/screens.rpy:1478
-    old "Español (parcial)"
-    new ""
-
-    # game/screens.rpy:1479
-    old "Русский (частичный)"
-    new ""
+    old "French"
+    new "Francese"
 

@@ -1,92 +1,96 @@
-﻿# TODO: Translation updated at 2025-06-04 13:45
+﻿
 
 translate italian strings:
 
-    # game/lovense.rpy:44
+
     old "Connected to toy"
-    new ""
+    new "Connesso al giocattolo"
 
-    # game/lovense.rpy:49
+
     old "Failed to connect to toy"
-    new ""
+    new "Non è riuscito a connettersi al giocattolo"
 
-    # game/lovense.rpy:79
+
     old "Not connected to a Lovense toy. Please check your connection in the game's perferences."
-    new ""
+    new "Non sei connesso a un giocattolo Lovense. Controlla la tua connessione nelle preferenze del gioco."
 
-    # game/lovense.rpy:281
+
     old "Lovense"
-    new ""
+    new "Lovense"
 
-    # game/lovense.rpy:300
+
     old "[[b] Close"
-    new ""
+    new "[[b] Chiudi"
+
+
+    old "Use the {i}Lovense Remote{/i} app for Android and iOS to obtain the IP address and port to connect to your toy. Please make sure both the device running {i}Tales From The Unending Void{/i} and {i}Lovense Remote{/i} app are connected to the same network (LAN) and that your toy has been powered on and is connected to the {i}Lovense Remote{/i} app."
+    new "Usa l'app {i}Lovense Remote{/i} per Android e iOS per ottenere l'indirizzo IP e la porta per connetterti al tuo giocattolo. Assicurati che il dispositivo che esegue {i}Tales From The Unending Void{/i} e l'app {i}Lovense Remote{/i} siano collegati alla stessa rete (LAN) e che il tuo giocattolo sia acceso e connesso all'app {i}Lovense Remote{/i}."
+
+
+    old "You can find the IP address and port for the connection by tapping the {b}Discover{/b} tab and enabling {b}Game Mode{/b} in the {i}Lovense Remote{/i} app. Enter the IP and port shown in the {i}Lovense Remote{/i} app on the right of this screen."
+    new "Puoi trovare l'indirizzo IP e la porta della connessione toccando la scheda {b}Scopri{/b} e attivando la {b}Modalità di gioco{/b} nell'app {i}Lovense Remote{/i}. Inserisci l'IP e la porta indicati nell'app {i}Lovense Remote{/i} a destra di questa schermata."
+
+
+    old "Local IP: "
+    new "IP locale: "
+
+
+    old "Edit"
+    new "Modifica"
+
+
+    old "Local IP:"
+    new "IP locale:"
+
+
+    old "HTTP Port: "
+    new "Porta HTTP: "
+
+
+    old "HTTP Port:"
+    new "Porta HTTP:"
+
+
+    old "Status: Connected"
+    new "Stato: Connesso"
+
+
+    old "Status: Disconnected"
+    new "Stato: Disconnesso"
+
+
+    old "Disconnect"
+    new "Disconnessione"
+
+
+    old "Connect"
+    new "Collegati"
+
+
+    old "Enjoy TFTUV with Lovense!"
+    new "Goditi TFTUV con Lovense!"
+
+
+    old "Order your toy from {i}Lovense.com{/i} and experience {i}Tales From The Unending Void{/i} in a whole new way."
+    new "Ordina il tuo giocattolo su {i}Lovense.com{/i} e vivi {i}Tales From The Unending Void{/i} in un modo tutto nuovo."
+
+
+    old "Get a toy now"
+    new "Acquista subito un giocattolo"
+
+
+    old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
+    new "{b}NOTA:{/b} Se fai un acquisto cliccando sul pulsante qui sopra, potrei guadagnare una piccola commissione senza alcun costo aggiuntivo per te. Raccomando solo prodotti che uso personalmente e di cui mi fido."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-05-18 19:53
+
+translate italian strings:
 
     # game/lovense.rpy:304
     old "[[x] Close"
-    new ""
-
-    # game/lovense.rpy:321
-    old "Use the {i}Lovense Remote{/i} app for Android and iOS to obtain the IP address and port to connect to your toy. Please make sure both the device running {i}Tales From The Unending Void{/i} and {i}Lovense Remote{/i} app are connected to the same network (LAN) and that your toy has been powered on and is connected to the {i}Lovense Remote{/i} app."
-    new ""
-
-    # game/lovense.rpy:322
-    old "You can find the IP address and port for the connection by tapping the {b}Discover{/b} tab and enabling {b}Game Mode{/b} in the {i}Lovense Remote{/i} app. Enter the IP and port shown in the {i}Lovense Remote{/i} app on the right of this screen."
-    new ""
-
-    # game/lovense.rpy:328
-    old "Local IP: "
-    new ""
-
-    # game/lovense.rpy:332
-    old "Edit"
-    new ""
-
-    # game/lovense.rpy:340
-    old "Local IP:"
-    new ""
-
-    # game/lovense.rpy:348
-    old "HTTP Port: "
-    new ""
-
-    # game/lovense.rpy:360
-    old "HTTP Port:"
-    new ""
-
-    # game/lovense.rpy:368
-    old "Status: Connected"
-    new ""
-
-    # game/lovense.rpy:368
-    old "Status: Disconnected"
-    new ""
+    new "[[x] Chiudi"
 
     # game/lovense.rpy:374
     old "Test Device"
-    new ""
-
-    # game/lovense.rpy:385
-    old "Disconnect"
-    new ""
-
-    # game/lovense.rpy:396
-    old "Connect"
-    new ""
-
-    # game/lovense.rpy:422
-    old "Enjoy TFTUV with Lovense!"
-    new ""
-
-    # game/lovense.rpy:428
-    old "Order your toy from {i}Lovense.com{/i} and experience {i}Tales From The Unending Void{/i} in a whole new way."
-    new ""
-
-    # game/lovense.rpy:434
-    old "Get a toy now"
-    new ""
-
-    # game/lovense.rpy:447
-    old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
-    new ""
+    new "Dispositivo di prova"
 

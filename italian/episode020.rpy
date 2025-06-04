@@ -1,14286 +1,14320 @@
-﻿# TODO: Translation updated at 2025-06-04 13:45
 
-# game/episode020.rpy:70
+
+
 translate italian episode020_b7e3e83f:
 
-    # centered "{=chapter_heading}EPISODE 20{/=chapter_heading}"
-    centered ""
 
-# game/episode020.rpy:73
+    centered "{=chapter_heading}EPISODIO 20{/=chapter_heading}"
+
+
 translate italian episode020_fbc9ddd2:
 
-    # "Over the past few days, Eva consulted with Céline and Nadya for hours on end."
-    ""
 
-# game/episode020.rpy:75
+    "Negli ultimi giorni, Eva si è consultata con Céline e Nadya per ore e ore."
+
+
 translate italian episode020_8d26ad6e:
 
-    # "The medical staff wasn’t particularly happy with my sister exerting herself so soon after waking up, but they relented when they saw her thrive and getting healthier."
-    ""
 
-# game/episode020.rpy:76
+    "Il personale medico non era particolarmente contento che mia sorella si esercitasse così presto dopo il risveglio, ma si sono ricreduti quando l'hanno vista prosperare e stare meglio."
+
+
 translate italian episode020_0dc94672:
 
-    # "I’d talked to Eva a couple of times since she woke up, and while the initial mania had worn off, my sister was still determined to get to the bottom of her vision."
-    ""
 
-# game/episode020.rpy:78
+    "Ho parlato con Eva un paio di volte da quando si è svegliata e, sebbene la mania iniziale si fosse esaurita, mia sorella era ancora determinata ad arrivare in fondo alla sua visione."
+
+
 translate italian episode020_b0c18d29:
 
-    # "The medical staff wasn’t particularly happy with Eva exerting herself so soon after waking up, but they relented when they saw her thrive and getting healthier."
-    ""
 
-# game/episode020.rpy:79
+    "Il personale medico non era particolarmente contento che Eva si sforzasse così presto dopo il risveglio, ma si sono ricreduti quando l'hanno vista crescere e migliorare."
+
+
 translate italian episode020_a3070ef0:
 
-    # "I’d talked to Eva a couple of times since she woke up, and while the initial mania had worn off, she was still determined to get to the bottom of her vision."
-    ""
 
-# game/episode020.rpy:80
+    "Ho parlato con Eva un paio di volte da quando si è svegliata e, sebbene la mania iniziale si fosse esaurita, era ancora determinata ad arrivare in fondo alla sua visione."
+
+
 translate italian episode020_233793d2:
 
-    # "Once the doctors were satisfied Eva wasn’t going to lapse into a coma again, she was released from the medical wing and given her own room."
-    ""
 
-# game/episode020.rpy:81
+    "Una volta che i medici si erano assicurati che Eva non sarebbe caduta di nuovo in coma, era stata dimessa dall'ala medica e le era stata assegnata una stanza tutta per sé."
+
+
 translate italian episode020_7c0e4ba2:
 
-    # "She’d asked me to come by her room, where she would explain her findings together with Céline and Nadya."
-    ""
 
-# game/episode020.rpy:83
+    "Mi aveva chiesto di passare nella sua stanza, dove mi avrebbe spiegato le sue scoperte insieme a Céline e Nadya."
+
+
 translate italian episode020_f093dd67:
 
-    # "They were already waiting for me as I entered."
-    ""
 
-# game/episode020.rpy:84
+    "Quando sono entrata mi stavano già aspettando."
+
+
 translate italian episode020_b55f93db:
 
-    # c "I hope I didn’t keep you waiting."
-    c ""
 
-# game/episode020.rpy:86
+    c "Spero di non averti fatto aspettare."
+
+
 translate italian episode020_9e12d5e8:
 
-    # e "Not at all."
-    e ""
 
-# game/episode020.rpy:88
+    e "No, affatto."
+
+
 translate italian episode020_4272adbd:
 
-    # e "Mom was early because she still can’t believe I’m doing well."
-    e ""
 
-# game/episode020.rpy:90
+    e "Mamma era in anticipo perché non riesce ancora a credere che io stia bene."
+
+
 translate italian episode020_dfa3d289:
 
-    # e "Nadya was early because she still can’t believe I’m doing well."
-    e ""
 
-# game/episode020.rpy:92
+    e "Nadya era in anticipo perché ancora non riesce a credere che io stia bene."
+
+
 translate italian episode020_480e8640:
 
-    # na "I just don’t want you to exert yourself."
-    na ""
 
-# game/episode020.rpy:93
+    na "È solo che non voglio che tu ti affatichi."
+
+
 translate italian episode020_b974d0c8:
 
-    # na "The prophecy has been a mystery for quite some time, so there’s no need to stay up late and pour over astronavigation charts."
-    na ""
 
-# game/episode020.rpy:94
+    na "La profezia è rimasta un mistero per un bel po' di tempo, quindi non c'è bisogno di stare alzati fino a tardi e consultare le carte di astronavigazione."
+
+
 translate italian episode020_b4826250:
 
-    # e "Agust and the Sovereignty were quite far along figuring out everything, just before we stole the Key from under their noses."
-    e ""
 
-# game/episode020.rpy:95
+    e "Agust e la Sovranità erano già abbastanza avanti nel capire tutto, prima che noi rubassimo loro la Chiave da sotto il naso."
+
+
 translate italian episode020_89fcc289:
 
-    # e "So I disagree on the no rush."
-    e ""
 
-# game/episode020.rpy:96
+    e "Quindi non sono d'accordo sul fatto che non ci sia fretta."
+
+
 translate italian episode020_9139db3a:
 
-    # na "Fair point."
-    na ""
 
-# game/episode020.rpy:97
+    na "Giusta osservazione."
+
+
 translate italian episode020_55a9393e:
 
-    # na "But we did steal the Key, so that’s quite a setback."
-    na ""
 
-# game/episode020.rpy:98
+    na "Ma abbiamo rubato la Chiave, quindi si tratta di una battuta d'arresto."
+
+
 translate italian episode020_d2b7e233:
 
-    # e "True, but there’s no need to get complacent."
-    e ""
 
-# game/episode020.rpy:99
+    e "È vero, ma non c'è bisogno di compiacersi."
+
+
 translate italian episode020_88df38a7:
 
-    # c "Agreed."
-    c ""
 
-# game/episode020.rpy:100
+    c "Concordo."
+
+
 translate italian episode020_6a925ba1:
 
-    # c "So what have you all learned?"
-    c ""
 
-# game/episode020.rpy:101
+    c "Cosa avete imparato?"
+
+
 translate italian episode020_233cae3a:
 
-    # e "I think we’ve found the system we need to travel to."
-    e ""
 
-# game/episode020.rpy:103
+    e "Penso che abbiamo trovato il sistema in cui dobbiamo viaggiare."
+
+
 translate italian episode020_0f8fcd38:
 
-    # ce "Based on Eva’s information, we were able to narrow the list of locations down to a manageable size."
-    ce ""
 
-# game/episode020.rpy:104
+    ce "Grazie alle informazioni di Eva, siamo riusciti a restringere l'elenco dei luoghi a una dimensione gestibile."
+
+
 translate italian episode020_b98772be:
 
-    # c "There are multiple destinations?"
-    c ""
 
-# game/episode020.rpy:105
+    c "Ci sono più destinazioni?"
+
+
 translate italian episode020_b7bef792:
 
-    # ce "Only likely destinations, with the candidates sharing the most similarities with Eva’s vision and the prophecy at the top."
-    ce ""
 
-# game/episode020.rpy:107
+    ce "Solo destinazioni probabili, con i candidati che presentano le maggiori somiglianze con la visione di Eva e la profezia in cima."
+
+
 translate italian episode020_3a0c9850:
 
-    # e "I’m convinced the system at the top is the one we’re looking for."
-    e ""
 
-# game/episode020.rpy:108
+    e "Sono convinto che il sistema in cima sia quello che stiamo cercando."
+
+
 translate italian episode020_9b2e6f13:
 
-    # e "The other candidates either lack some of the characteristics, or are in already heavily populated areas."
-    e ""
 
-# game/episode020.rpy:109
+    e "Gli altri candidati o mancano di alcune caratteristiche o si trovano in aree già molto popolate."
+
+
 translate italian episode020_a03b4152:
 
-    # c "So you’ve ruled out all of the inhabited planets?"
-    c ""
 
-# game/episode020.rpy:111
+    c "Quindi avete escluso tutti i pianeti abitati?"
+
+
 translate italian episode020_71de474d:
 
-    # e "We did, the planet I saw in my vision was devoid of life."
-    e ""
 
-# game/episode020.rpy:113
+    e "Sì, il pianeta che ho visto nella mia visione era privo di vita."
+
+
 translate italian episode020_d6d1b99b:
 
-    # ce "The most promising system is called Petrarch, it’s situated in Držić, an ancient high-redshift galaxy in Ursa Major."
-    ce ""
 
-# game/episode020.rpy:114
+    ce "Il sistema più promettente si chiama Petrarca, si trova in Držić, un'antica galassia ad alta frequenza nell'Orsa Maggiore."
+
+
 translate italian episode020_58eff1e7:
 
-    # c "Ancient?"
-    c ""
 
-# game/episode020.rpy:116
+    c "Antica?"
+
+
 translate italian episode020_74d294b1:
 
-    # na "Yes, billions of years old, formed when the universe was still very young."
-    na ""
 
-# game/episode020.rpy:118
+    na "Sì, ha miliardi di anni, si è formata quando l'universo era ancora molto giovane."
+
+
 translate italian episode020_c1228a22:
 
-    # e "It fits all the criteria."
-    e ""
 
-# game/episode020.rpy:119
+    e "Corrisponde a tutti i criteri."
+
+
 translate italian episode020_f70f4742:
 
-    # e "Petrarch contains several planets, mostly gas giants and one terrestrial."
-    e ""
 
-# game/episode020.rpy:120
+    e "Petrarca contiene diversi pianeti, per lo più giganti gassosi e uno terrestre."
+
+
 translate italian episode020_fd046101:
 
-    # e "Those planets all orbit three stars."
-    e ""
 
-# game/episode020.rpy:121
+    e "Questi pianeti orbitano tutti intorno a tre stelle."
+
+
 translate italian episode020_c85ce1b8:
 
-    # c "With you so far."
-    c ""
 
-# game/episode020.rpy:122
+    c "Con te fino ad ora."
+
+
 translate italian episode020_0cae4ed9:
 
-    # c "And Petrarch experienced the after effects of a star going nova?"
-    c ""
 
-# game/episode020.rpy:123
+    c "E Petrarca ha subito gli effetti di una stella che diventa nova?"
+
+
 translate italian episode020_dc5b4b47:
 
-    # e "No, we considered that."
-    e ""
 
-# game/episode020.rpy:124
+    e "No, l'abbiamo considerato."
+
+
 translate italian episode020_eb012489:
 
-    # e "But ‘the dying light’ could also stand for something else."
-    e ""
 
-# game/episode020.rpy:126
+    e "Ma “la luce che muore” potrebbe anche indicare qualcos'altro."
+
+
 translate italian episode020_433e3d08:
 
-    # ce "A dying star, for example."
-    ce ""
 
-# game/episode020.rpy:128
+    ce "Una stella morente, per esempio."
+
+
 translate italian episode020_8e433c85:
 
-    # e "The curious thing about the three stars of Petrarch is that they’re all dying."
-    e ""
 
-# game/episode020.rpy:129
+    e "La cosa curiosa delle tre stelle del Petrarca è che stanno tutte morendo."
+
+
 translate italian episode020_8c76b7c8:
 
-    # c "The stars are collapsing at the same time?"
-    c ""
 
-# game/episode020.rpy:131
+    c "Le stelle stanno collassando nello stesso momento?"
+
+
 translate italian episode020_6e8fd083:
 
-    # ce "Yes, they appear to be."
-    ce ""
 
-# game/episode020.rpy:132
+    ce "Sì, sembra di sì."
+
+
 translate italian episode020_d3449d60:
 
-    # c "That’s rare, isn’t it?"
-    c ""
 
-# game/episode020.rpy:134
+    c "È una cosa rara, vero?"
+
+
 translate italian episode020_3e9f9002:
 
-    # ce "Rare, but not unheard of."
-    ce ""
 
-# game/episode020.rpy:136
+    ce "Raro, ma non inaudito."
+
+
 translate italian episode020_8731a38a:
 
-    # e "It all fits, [p_name_short]."
-    e ""
 
-# game/episode020.rpy:137
+    e "Tutto torna, [p_name_short]."
+
+
 translate italian episode020_8b00435a:
 
-    # e "I think this is the place we need to go to."
-    e ""
 
-# game/episode020.rpy:138
+    e "Credo che questo sia il posto dove dobbiamo andare."
+
+
 translate italian episode020_ee2bf491:
 
-    # c "It’s worth a shot."
-    c ""
 
-# game/episode020.rpy:139
+    c "Vale la pena tentare."
+
+
 translate italian episode020_19337a7f:
 
-    # c "Let’s do it then, as soon as you’re fit enough to leave."
-    c ""
 
-# game/episode020.rpy:141
+    c "Facciamolo allora, non appena sarai abbastanza in forma per partire."
+
+
 translate italian episode020_d7a7e324:
 
-    # na "There’s a but."
-    na ""
 
-# game/episode020.rpy:142
+    na "C'è un ma."
+
+
 translate italian episode020_c7a1defc:
 
-    # c "There always is."
-    c ""
 
-# game/episode020.rpy:144
+    c "C'è sempre."
+
+
 translate italian episode020_3b37783a:
 
-    # na "According to Thyia, the systems neighboring Petrarch are a notorious mess."
-    na ""
 
-# game/episode020.rpy:145
+    na "Secondo Thyia, i sistemi vicini a Petrarca sono un vero e proprio disastro."
+
+
 translate italian episode020_363a544c:
 
-    # na "Several of Petrarch’s neighbors are at war with each other and because of the chaos there’s rampant piracy."
-    na ""
 
-# game/episode020.rpy:147
+    na "Molti dei vicini di Petrarca sono in guerra tra loro e a causa del caos la pirateria dilaga."
+
+
 translate italian episode020_885b6596:
 
-    # na "The few remaining trade ships that were willing to deal with the warlords and the pirates halted operations years ago."
-    na ""
 
-# game/episode020.rpy:148
+    na "Le poche navi commerciali rimaste disposte a trattare con i signori della guerra e i pirati hanno interrotto le operazioni anni fa."
+
+
 translate italian episode020_dab698e2:
 
-    # c "How come?"
-    c ""
 
-# game/episode020.rpy:150
+    c "Come mai?"
+
+
 translate italian episode020_6ec0b88f:
 
-    # ce "Probably because several ships were sent back to their owners flying on autopilot and every single member of the crew dismembered."
-    ce ""
 
-# game/episode020.rpy:151
+    ce "Probabilmente perché molte navi sono state rispedite ai loro proprietari con il pilota automatico e ogni singolo membro dell'equipaggio è stato smembrato."
+
+
 translate italian episode020_128a100d:
 
-    # ce "Most shipping companies might care little for the personal welfare of their employees, but before long they had trouble even finding crew members willing to make the journey."
-    ce ""
 
-# game/episode020.rpy:152
+    ce "La maggior parte delle compagnie di navigazione potrebbe preoccuparsi poco del benessere personale dei propri dipendenti, ma in breve tempo hanno avuto difficoltà a trovare membri dell'equipaggio disposti a fare il viaggio."
+
+
 translate italian episode020_87563436:
 
-    # c "I guess they started to care after that."
-    c ""
 
-# game/episode020.rpy:154
+    c "Credo che da quel momento in poi abbiano iniziato a preoccuparsi."
+
+
 translate italian episode020_c43a6cba:
 
-    # ce "They sure did."
-    ce ""
 
-# game/episode020.rpy:155
+    ce "Certo che sì."
+
+
 translate italian episode020_29cfb54b:
 
-    # c "You’ve spoken to Thyia about all this, Nadya?"
-    c ""
 
-# game/episode020.rpy:157
+    c "Hai parlato con Thyia di tutto questo, Nadya?"
+
+
 translate italian episode020_57e6ff21:
 
-    # na "I did, yes."
-    na ""
 
-# game/episode020.rpy:158
+    na "Sì, l'ho fatto."
+
+
 translate italian episode020_170f2a33:
 
-    # c "So she’s familiar with the situation there?"
-    c ""
 
-# game/episode020.rpy:160
+    c "Quindi conosce la situazione di quel luogo?"
+
+
 translate italian episode020_2c274c5b:
 
-    # na "Not exactly, but she knows of the situation."
-    na ""
 
-# game/episode020.rpy:161
+    na "Non esattamente, ma conosce la situazione."
+
+
 translate italian episode020_6b6d0156:
 
-    # na "You should speak to her and see if she has any more details."
-    na ""
 
-# game/episode020.rpy:162
+    na "Dovresti parlarle e vedere se ha qualche dettaglio in più."
+
+
 translate italian episode020_255ecca1:
 
-    # c "I will."
-    c ""
 
-# game/episode020.rpy:164
+    c "Lo farò."
+
+
 translate italian episode020_87c7c811:
 
-    # e "But we’re going, right?"
-    e ""
 
-# game/episode020.rpy:165
+    e "Ma noi andiamo, giusto?"
+
+
 translate italian episode020_132c0d7c:
 
-    # c "Yes, we are, even if we have to hire a personal army to get us through that place."
-    c ""
 
-# game/episode020.rpy:166
+    c "Sì, anche se dovremo assumere un esercito personale per attraversare quel posto."
+
+
 translate italian episode020_810bfab1:
 
-    # c "But we need some more intel first."
-    c ""
 
-# game/episode020.rpy:167
+    c "Ma prima ci servono altre informazioni."
+
+
 translate italian episode020_068119dd:
 
-    # c "I’ll speak to Thyia and maybe Jade can rummage the net to see if there’s anything on Petrarch and the adjoining systems?"
-    c ""
 
-# game/episode020.rpy:169
+    c "Parlerò con Thyia e forse Jade può spulciare la rete per vedere se c'è qualcosa su Petrarca e i sistemi adiacenti?"
+
+
 translate italian episode020_0a6c3489:
 
-    # ce "Good idea, I’ll ask her."
-    ce ""
 
-# game/episode020.rpy:262
+    ce "Buona idea, glielo chiederò."
+
+
 translate italian ep020_paclerara_departure_cd291b8b:
 
-    # "Over the course of several days, our strategy for getting into Petrarch territory had become much clearer."
-    ""
 
-# game/episode020.rpy:263
+    "Nel corso di alcuni giorni, la nostra strategia per entrare nel territorio di Petrarca era diventata molto più chiara."
+
+
 translate italian ep020_paclerara_departure_e071480d:
 
-    # "Everyone was in agreement that we should take up the bounty Jade had found and try to bargain our way through the contested space surrounding Petrarch."
-    ""
 
-# game/episode020.rpy:264
+    "Tutti erano d'accordo sul fatto che avremmo dovuto accettare la taglia che Jade aveva trovato e cercare di contrattare la nostra strada attraverso lo spazio conteso che circonda Petrarch."
+
+
 translate italian ep020_paclerara_departure_12109f2f:
 
-    # "Thyia was in charge of reaching out to the pirate band that had posted the bounty."
-    ""
 
-# game/episode020.rpy:265
+    "Thyia era incaricata di contattare la banda di pirati che aveva pubblicato la taglia."
+
+
 translate italian ep020_paclerara_departure_5b70afef:
 
-    # "Late during the day, Thyia messaged to tell me she’d made some progress."
-    ""
 
-# game/episode020.rpy:267
+    "Nel corso della giornata, Thyia mi ha inviato un messaggio per dirmi che aveva fatto dei progressi."
+
+
 translate italian ep020_paclerara_departure_b8393557:
 
-    # "I went to see her together with Eva on the landing pad where the Bastard was parked."
-    ""
 
-# game/episode020.rpy:268
+    "Sono andato a trovarla insieme a Eva sulla piattaforma di atterraggio dove era parcheggiata la Bastard."
+
+
 translate italian ep020_paclerara_departure_4c39030f:
 
-    # c "Have they agreed to meet us?"
-    c ""
 
-# game/episode020.rpy:270
+    c "Hanno accettato di incontrarci?"
+
+
 translate italian ep020_paclerara_departure_ff50648b:
 
-    # th "They have."
-    th ""
 
-# game/episode020.rpy:271
+    th "Sì, hanno accettato."
+
+
 translate italian ep020_paclerara_departure_64b4acda:
 
-    # th "We are to meet the pirate queen Xile and her fleet at the coordinates they’ve sent us."
-    th ""
 
-# game/episode020.rpy:273
+    th "Dobbiamo incontrare la regina dei pirati Xile e la sua flotta alle coordinate che ci hanno inviato."
+
+
 translate italian ep020_paclerara_departure_7424152d:
 
-    # e "Are we to discuss terms with them?"
-    e ""
 
-# game/episode020.rpy:275
+    e "Dobbiamo discutere le condizioni con loro?"
+
+
 translate italian ep020_paclerara_departure_fd3c3bb3:
 
-    # th "I reckon so."
-    th ""
 
-# game/episode020.rpy:276
+    th "Credo di sì."
+
+
 translate italian ep020_paclerara_departure_d26c58dd:
 
-    # c "Do you know anything about this Xile?"
-    c ""
 
-# game/episode020.rpy:277
+    c "Sai qualcosa di questa Xile?"
+
+
 translate italian ep020_paclerara_departure_fe4086d1:
 
-    # th "Not much."
-    th ""
 
-# game/episode020.rpy:278
+    th "Non molto."
+
+
 translate italian ep020_paclerara_departure_f1f5a9ed:
 
-    # th "She’s been queen for quite a long time and seems fair and evenhanded, as far as pirates go."
-    th ""
 
-# game/episode020.rpy:279
+    th "È stata regina per molto tempo e sembra equa e imparziale, per quanto riguarda i pirati."
+
+
 translate italian ep020_paclerara_departure_5fdec604:
 
-    # c "So, less of a psycho compared to most of them."
-    c ""
 
-# game/episode020.rpy:280
+    c "Quindi, meno psicopatica rispetto alla maggior parte di loro."
+
+
 translate italian ep020_paclerara_departure_6e8fc06a:
 
-    # c "That’s got to count for something."
-    c ""
 
-# game/episode020.rpy:282
+    c "Questo deve contare qualcosa."
+
+
 translate italian ep020_paclerara_departure_88f19a75:
 
-    # th "Quite right."
-    th ""
 
-# game/episode020.rpy:284
+    th "Giusto."
+
+
 translate italian ep020_paclerara_departure_2b608244:
 
-    # e "We’ll be leaving shortly then?"
-    e ""
 
-# game/episode020.rpy:285
+    e "Partiamo tra poco, quindi?"
+
+
 translate italian ep020_paclerara_departure_cc5c7e87:
 
-    # c "Yes, let’s round up the others and tell them we’ll leave paradise."
-    c ""
 
-# game/episode020.rpy:304
+    c "Sì, raduniamo gli altri e diciamo loro che lasceremo il paradiso."
+
+
 translate italian ep020_paclerara_departure_9b6bf3aa:
 
-    # "I returned to my bedroom to tell Raene we were leaving."
-    ""
 
-# game/episode020.rpy:305
+    "Tornai in camera mia per dire a Raene che saremmo partiti."
+
+
 translate italian ep020_paclerara_departure_b0154d87:
 
-    # "Entering the room I immediately felt something was amiss."
-    ""
 
-# game/episode020.rpy:306
+    "Entrando nella stanza sentii subito che c'era qualcosa che non andava."
+
+
 translate italian ep020_paclerara_departure_d9ea7f40:
 
-    # c "Raene?"
-    c ""
 
-# game/episode020.rpy:308
+    c "Raene?"
+
+
 translate italian ep020_paclerara_departure_5e3eb0be:
 
-    # "The balcony and bathroom were empty."
-    ""
 
-# game/episode020.rpy:309
+    "Il balcone e il bagno erano vuoti."
+
+
 translate italian ep020_paclerara_departure_194f8173:
 
-    # "There were no signs of struggle, but Raene’s absence triggered an instant panic."
-    ""
 
-# game/episode020.rpy:311
+    "Non c'erano segni di lotta, ma l'assenza di Raene ha scatenato un panico immediato."
+
+
 translate italian ep020_paclerara_departure_b36994dc:
 
-    # "I messaged every crew member to ask them if they had been in contact with Raene."
-    ""
 
-# game/episode020.rpy:312
+    "Ho mandato un messaggio a tutti i membri dell'equipaggio per chiedere loro se si fossero messi in contatto con Raene."
+
+
 translate italian ep020_paclerara_departure_f258c9fe:
 
-    # "Nobody had heard anything from her in the past few hours."
-    ""
 
-# game/episode020.rpy:313
+    "Nessuno aveva avuto sue notizie nelle ultime ore."
+
+
 translate italian ep020_paclerara_departure_982a67fc:
 
-    # "I asked Jade to come to my room."
-    ""
 
-# game/episode020.rpy:315
+    "Ho chiesto a Jade di venire nella mia stanza."
+
+
 translate italian ep020_paclerara_departure_ece09f3d:
 
-    # "While she was on her way, I donned my armor and checked my weapon."
-    ""
 
-# game/episode020.rpy:317
+    "Mentre lei stava arrivando, indossai l'armatura e controllai la mia arma."
+
+
 translate italian ep020_paclerara_departure_82ab2dcc:
 
-    # j "Did something bad happen to Raene?"
-    j ""
 
-# game/episode020.rpy:318
+    j "È successo qualcosa di brutto a Raene?"
+
+
 translate italian ep020_paclerara_departure_aa6ff30f:
 
-    # c "I’m not sure, but she wouldn’t leave this room willingly."
-    c ""
 
-# game/episode020.rpy:319
+    c "Non ne sono sicuro, ma non lascerebbe mai questa stanza di sua spontanea volontà."
+
+
 translate italian ep020_paclerara_departure_19c0334d:
 
-    # c "There are clerics from her father’s church here and they might know she’s here."
-    c ""
 
-# game/episode020.rpy:321
+    c "Ci sono dei chierici della chiesa di suo padre e potrebbero sapere che è qui."
+
+
 translate italian ep020_paclerara_departure_fc96c41b:
 
-    # j "Would she open the door for them?"
-    j ""
 
-# game/episode020.rpy:322
+    j "Aprirebbe loro la porta?"
+
+
 translate italian ep020_paclerara_departure_16932397:
 
-    # c "Absolutely not."
-    c ""
 
-# game/episode020.rpy:323
+    c "Assolutamente no."
+
+
 translate italian ep020_paclerara_departure_a0979f88:
 
-    # c "But they might have tricked her."
-    c ""
 
-# game/episode020.rpy:324
+    c "Ma potrebbero averla ingannata."
+
+
 translate italian ep020_paclerara_departure_efbd6a7e:
 
-    # c "Can you find out where those clerics are staying in the Residence?"
-    c ""
 
-# game/episode020.rpy:326
+    c "Puoi scoprire dove alloggiano questi chierici nella Residenza?"
+
+
 translate italian ep020_paclerara_departure_2ea23ada:
 
-    # j "Of course, I’ll get right on it."
-    j ""
 
-# game/episode020.rpy:328
+    j "Certo, me ne occupo subito."
+
+
 translate italian ep020_paclerara_departure_e2d5ce36:
 
-    # "Jade hooked her tablet into the Residence network and started typing furiously."
-    ""
 
-# game/episode020.rpy:329
+    "Jade collegò il suo tablet alla rete della Residenza e iniziò a scrivere furiosamente."
+
+
 translate italian ep020_paclerara_departure_4ad5e2c8:
 
-    # "I paced the room, trying not to let my worries get the upper hand."
-    ""
 
-# game/episode020.rpy:330
+    "Io camminavo nella stanza, cercando di non lasciare che le mie preoccupazioni prendessero il sopravvento."
+
+
 translate italian ep020_paclerara_departure_907db104:
 
-    # "After an agonizing half hour Jade looked up at me in triumph."
-    ""
 
-# game/episode020.rpy:332
+    "Dopo un'agonizzante mezz'ora, Jade mi guardò trionfante."
+
+
 translate italian ep020_paclerara_departure_b0925680:
 
-    # j "Got it!"
-    j ""
 
-# game/episode020.rpy:333
+    j "Trovato!"
+
+
 translate italian ep020_paclerara_departure_26801211:
 
-    # j "They’re staying on the fifth floor of the Residence, room 5038."
-    j ""
 
-# game/episode020.rpy:335
+    j "Stanno al quinto piano della Residenza, stanza 5038."
+
+
 translate italian ep020_paclerara_departure_8df3d61a:
 
-    # j "I’ve also found an incident report from that same floor."
-    j ""
 
-# game/episode020.rpy:336
+    j "Ho anche trovato un rapporto sull'incidente avvenuto allo stesso piano."
+
+
 translate italian ep020_paclerara_departure_e7bbbaaa:
 
-    # j "The management of the Residence was alerted by one of the guests about a disturbance earlier today."
-    j ""
 
-# game/episode020.rpy:337
+    j "La direzione del residence è stata allertata da uno degli ospiti per un disturbo avvenuto oggi."
+
+
 translate italian ep020_paclerara_departure_221ff76d:
 
-    # j "Someone complaining about shouting in the hallway."
-    j ""
 
-# game/episode020.rpy:338
+    j "Qualcuno si lamentava di urla nel corridoio."
+
+
 translate italian ep020_paclerara_departure_838256c8:
 
-    # j "When they went to check it out the shouting had stopped."
-    j ""
 
-# game/episode020.rpy:339
+    j "Quando sono andati a controllare, le urla erano cessate."
+
+
 translate italian ep020_paclerara_departure_1ec4b2e4:
 
-    # c "Those fuckers!"
-    c ""
 
-# game/episode020.rpy:340
+    c "Quegli stronzi!"
+
+
 translate italian ep020_paclerara_departure_0b8b92a5:
 
-    # c "I’m going to have a conversation with them..."
-    c ""
 
-# game/episode020.rpy:341
+    c "Vado a fare una chiacchierata con loro..."
+
+
 translate italian ep020_paclerara_departure_147fa014:
 
-    # c "Alert the others and tell them we might need to leave in a hurry."
-    c ""
 
-# game/episode020.rpy:343
+    c "Avvisa gli altri e di' loro che forse dobbiamo andarcene in fretta."
+
+
 translate italian ep020_paclerara_departure_6214d03c:
 
-    # j "Do you need backup?"
-    j ""
 
-# game/episode020.rpy:344
+    j "Hai bisogno di rinforzi?"
+
+
 translate italian ep020_paclerara_departure_e66c9b2c:
 
-    # c "Yes, send Aven and Kit to the fifth floor, armed and suited up."
-    c ""
 
-# game/episode020.rpy:345
+    c "Sì, manda Aven e Kit al quinto piano, armati e vestiti."
+
+
 translate italian ep020_paclerara_departure_936de881:
 
-    # c "Could you open the door for me remotely as soon as I’m on the fifth floor?"
-    c ""
 
-# game/episode020.rpy:347
+    c "Potresti aprirmi la porta a distanza non appena sarò al quinto piano?"
+
+
 translate italian ep020_paclerara_departure_e8462428:
 
-    # j "Got it."
-    j ""
 
-# game/episode020.rpy:349
+    j "Ricevuto."
+
+
 translate italian ep020_paclerara_departure_a59c5cb2:
 
-    # j "Good luck, [p_name]."
-    j ""
 
-# game/episode020.rpy:351
+    j "Buona fortuna, [p_name]."
+
+
 translate italian ep020_paclerara_departure_8a5c331b:
 
-    # j "Good luck, [p_name_short]."
-    j ""
 
-# game/episode020.rpy:352
+    j "Buona fortuna, [p_name_short]."
+
+
 translate italian ep020_paclerara_departure_7d7a13b3:
 
-    # "Leaving Jade behind, I sped through the corridors of the Residence to one of the elevators."
-    ""
 
-# game/episode020.rpy:354
+    "Lasciandomi alle spalle Jade, sfrecciai attraverso i corridoi della Residenza fino a uno degli ascensori."
+
+
 translate italian ep020_paclerara_departure_f106f196:
 
-    # "The elevator took me up to the fifth floor, revealing a similar hallway."
-    ""
 
-# game/episode020.rpy:355
+    "L'ascensore mi portò al quinto piano, rivelando un corridoio simile."
+
+
 translate italian ep020_paclerara_departure_b8800ba2:
 
-    # "Room 5038 was near the end of the corridor."
-    ""
 
-# game/episode020.rpy:357
+    "La stanza 5038 era alla fine del corridoio."
+
+
 translate italian ep020_paclerara_departure_93c03ce3:
 
-    # "I messaged Jade that I was in position and ready for her to open the door."
-    ""
 
-# game/episode020.rpy:358
+    "Ho comunicato a Jade che ero in posizione e pronto ad aprire la porta."
+
+
 translate italian ep020_paclerara_departure_9a551b96:
 
-    # "After a minute the door slid open, I pulled my gun and prepared to step inside."
-    ""
 
-# game/episode020.rpy:360
+    "Dopo un minuto la porta si aprì, estrassi la pistola e mi preparai a entrare."
+
+
 translate italian ep020_paclerara_departure_e1db797e:
 
-    # man "Who’s there?"
-    man ""
 
-# game/episode020.rpy:362
+    man "Chi c'è?"
+
+
 translate italian ep020_paclerara_departure_0e37e0b2:
 
-    # "One of the clerics came to check on the door and suddenly stared into the barrel of my gun."
-    ""
 
-# game/episode020.rpy:363
+    "Uno dei chierici è venuto a controllare la porta e improvvisamente ha fissato la canna della mia pistola."
+
+
 translate italian ep020_paclerara_departure_6eff4eb3:
 
-    # c "Hands up where I can see them."
-    c ""
 
-# game/episode020.rpy:364
+    c "Mani in alto dove posso vederle."
+
+
 translate italian ep020_paclerara_departure_48c678cf:
 
-    # c "Slowly turn around and take me to the others."
-    c ""
 
-# game/episode020.rpy:366
+    c "Girati lentamente e portami dagli altri."
+
+
 translate italian ep020_paclerara_departure_229a2e07:
 
-    # "The cleric complied and led me to the living area."
-    ""
 
-# game/episode020.rpy:367
+    "Il chierico si adeguò e mi condusse nella zona giorno."
+
+
 translate italian ep020_paclerara_departure_82a5c493:
 
-    # "I couldn’t suppress a sigh of relief when I saw Raene sitting on the couch unharmed."
-    ""
 
-# game/episode020.rpy:368
+    "Non riuscii a trattenere un sospiro di sollievo quando vidi Raene seduta sul divano, incolume."
+
+
 translate italian ep020_paclerara_departure_4f792e40:
 
-    # "She was surrounded by the other two clerics and looking at the video screen on the opposite wall."
-    ""
 
-# game/episode020.rpy:370
+    "Era circondata dagli altri due chierici e guardava lo schermo video sulla parete opposta."
+
+
 translate italian ep020_paclerara_departure_8b24ee79:
 
-    # "A familiar face was apparently having a one-sided chat with Raene."
-    ""
 
-# game/episode020.rpy:371
+    "Un volto familiare stava apparentemente conversando con Raene."
+
+
 translate italian ep020_paclerara_departure_64bfc918:
 
-    # sa "You are to return with Father Morray."
-    sa ""
 
-# game/episode020.rpy:372
+    sa "Devi tornare con Padre Morray."
+
+
 translate italian ep020_paclerara_departure_74cc63f0:
 
-    # sa "As soon as you’re home, we’ll be able to reverse the dreadful things you’ve done to yourself."
-    sa ""
 
-# game/episode020.rpy:373
+    sa "Non appena sarai a casa, saremo in grado di invertire le terribili cose che ti sei fatta."
+
+
 translate italian ep020_paclerara_departure_c4e61ee4:
 
-    # sa "And begin your re-education, of course."
-    sa ""
 
-# game/episode020.rpy:374
+    sa "E inizieremo la tua rieducazione, naturalmente."
+
+
 translate italian ep020_paclerara_departure_51321de4:
 
-    # sa "I can’t belief my very own son has strayed so far from the righteous path."
-    sa ""
 
-# game/episode020.rpy:376
+    sa "Non posso credere che il mio stesso figlio si sia allontanato così tanto dalla retta via."
+
+
 translate italian ep020_paclerara_departure_0d365eea:
 
-    # ra "I’m not your son and I haven’t strayed."
-    ra ""
 
-# game/episode020.rpy:377
+    ra "Non sono tuo figlio e non mi sono allontanato."
+
+
 translate italian ep020_paclerara_departure_e46011f2:
 
-    # ra "I’m finally the person who I want to be."
-    ra ""
 
-# game/episode020.rpy:379
+    ra "Sono finalmente la persona che voglio essere."
+
+
 translate italian ep020_paclerara_departure_1d27e859:
 
-    # sa "Don’t talk nonsense, Arion."
-    sa ""
 
-# game/episode020.rpy:381
+    sa "Non dire sciocchezze, Arion."
+
+
 translate italian ep020_paclerara_departure_6cdc2a40:
 
-    # ra "That’s not my name!"
-    ra ""
 
-# game/episode020.rpy:383
+    ra "Non è il mio nome!"
+
+
 translate italian ep020_paclerara_departure_6c14cee4:
 
-    # sa "It is, boy, do not delude yourself."
-    sa ""
 
-# game/episode020.rpy:384
+    sa "Lo è, ragazzo, non illuderti."
+
+
 translate italian ep020_paclerara_departure_15da3c30:
 
-    # sa "Don’t tell me you’re still calling yourself that name you’ve invented for yourself."
-    sa ""
 
-# game/episode020.rpy:385
+    sa "Non dirmi che ti chiami ancora con quel nome che hai inventato per te stesso."
+
+
 translate italian ep020_paclerara_departure_d69ec423:
 
-    # sa "The one that so clearly defiles the given name of my dearly departed wife Raenata."
-    sa ""
 
-# game/episode020.rpy:387
+    sa "Quello che deturpa così chiaramente il nome della mia cara moglie Raenata."
+
+
 translate italian ep020_paclerara_departure_a01360ce:
 
-    # ra "Mother supported me, she would have been proud of me!"
-    ra ""
 
-# game/episode020.rpy:389
+    ra "Mia madre mi sosteneva, sarebbe stata orgogliosa di me!"
+
+
 translate italian ep020_paclerara_departure_777f6567:
 
-    # sa "That’s quite enough, Arion."
-    sa ""
 
-# game/episode020.rpy:390
+    sa "Basta così, Arione."
+
+
 translate italian ep020_paclerara_departure_dc409cc7:
 
-    # sa "God granted us a son and the things you’ve done to yourself are an affront to His Good Works as well as the love we’ve given you over the years."
-    sa ""
 
-# game/episode020.rpy:392
+    sa "Dio ci ha concesso un figlio e le cose che hai fatto a te stesso sono un affronto alle sue opere buone e all'amore che ti abbiamo dato in questi anni."
+
+
 translate italian ep020_paclerara_departure_bb780236:
 
-    # ra "I don’t-"
-    ra ""
 
-# game/episode020.rpy:394
+    ra "Io non..."
+
+
 translate italian ep020_paclerara_departure_dda8f63d:
 
-    # sa "Silence, Arion!"
-    sa ""
 
-# game/episode020.rpy:395
+    sa "Silenzio, Arion!"
+
+
 translate italian ep020_paclerara_departure_31c97456:
 
-    # sa "You will obey your father!"
-    sa ""
 
-# game/episode020.rpy:397
+    sa "Obbedisci a tuo padre!"
+
+
 translate italian ep020_paclerara_departure_6d5b6272:
 
-    # c "If you speak that name again I’ll be forced to shoot one of your altar boys in the head, Sacleus."
-    c ""
 
-# game/episode020.rpy:398
+    c "Se pronuncerai ancora quel nome, sarò costretto a sparare in testa a uno dei tuoi chierichetti, Sacleus”."
+
+
 translate italian ep020_paclerara_departure_d667636e:
 
-    # "Everyone had their eyes glued to the video screen before, so they only noticed me standing in the room as I spoke."
-    ""
 
-# game/episode020.rpy:400
+    "Prima tutti avevano gli occhi incollati allo schermo del video, quindi si accorsero di me solo mentre parlavo."
+
+
 translate italian ep020_paclerara_departure_96d563f1:
 
-    # ra "[p_name_short]!"
-    ra ""
 
-# game/episode020.rpy:401
+    ra "[p_name_short]!"
+
+
 translate italian ep020_paclerara_departure_7c294a9f:
 
-    # sa "What’s the meaning of this?"
-    sa ""
 
-# game/episode020.rpy:402
+    sa "Cosa significa questo?"
+
+
 translate italian ep020_paclerara_departure_ebea6ff7:
 
-    # sa "Is this the heretic who led you astray?"
-    sa ""
 
-# game/episode020.rpy:403
+    sa "È questo l'eretico che vi ha sviato?"
+
+
 translate italian ep020_paclerara_departure_98c7c822:
 
-    # sa "Seize him!"
-    sa ""
 
-# game/episode020.rpy:404
+    sa "Prendetelo!"
+
+
 translate italian ep020_paclerara_departure_9f2ae320:
 
-    # c "I wouldn’t do that, if I were you."
-    c ""
 
-# game/episode020.rpy:405
+    c "Non lo farei, se fossi in te."
+
+
 translate italian ep020_paclerara_departure_60353569:
 
-    # "Both clerics were aware of the gun trained on the back of their colleague’s head and hesitated."
-    ""
 
-# game/episode020.rpy:406
+    "Entrambi i chierici si accorsero della pistola puntata sulla nuca del loro collega ed esitarono."
+
+
 translate italian ep020_paclerara_departure_a22550b0:
 
-    # c "You’ve taken Raene against her will with the intent to ship her off this planet."
-    c ""
 
-# game/episode020.rpy:407
+    c "Avete preso Raene contro la sua volontà con l'intento di spedirla via da questo pianeta."
+
+
 translate italian ep020_paclerara_departure_2a030f06:
 
-    # c "I’m sure the Residence officials will be very interested to learn about what happened here."
-    c ""
 
-# game/episode020.rpy:409
+    c "Sono sicuro che gli ufficiali della Residenza saranno molto interessati a sapere cosa è successo qui."
+
+
 translate italian ep020_paclerara_departure_654e9348:
 
-    # sa "It’s my blood you’re talking about, I have every right to-"
-    sa ""
 
-# game/episode020.rpy:410
+    sa "È del mio sangue che stai parlando, ho tutti i diritti di..."
+
+
 translate italian ep020_paclerara_departure_47977152:
 
-    # c "Judging from the way you were just talking to her, I’d say you have very little respect for Raene."
-    c ""
 
-# game/episode020.rpy:411
+    c "A giudicare dal modo in cui le hai appena parlato, direi che hai davvero poco rispetto per Raene."
+
+
 translate italian ep020_paclerara_departure_f021c479:
 
-    # c "And I’m very sure she doesn’t want to be reunited with you."
-    c ""
 
-# game/episode020.rpy:412
+    c "E sono sicuro che lei non voglia riunirsi a te."
+
+
 translate italian ep020_paclerara_departure_b1ff5e70:
 
-    # c "Am I correct, Raene?"
-    c ""
 
-# game/episode020.rpy:414
+    c "Ho ragione, Raene?"
+
+
 translate italian ep020_paclerara_departure_2dc56006:
 
-    # ra "No, I don’t want to go back to my father."
-    ra ""
 
-# game/episode020.rpy:416
+    ra "No, non voglio tornare da mio padre."
+
+
 translate italian ep020_paclerara_departure_ff4787dc:
 
-    # sa "You’ve corrupted him!"
-    sa ""
 
-# game/episode020.rpy:417
+    sa "Lo hai corrotto!"
+
+
 translate italian ep020_paclerara_departure_2015fd33:
 
-    # sa "Tempted him with your wicked sinful ways!"
-    sa ""
 
-# game/episode020.rpy:418
+    sa "Lo hai tentato con i tuoi modi malvagi e peccaminosi!"
+
+
 translate italian ep020_paclerara_departure_b3f912b1:
 
-    # c "I’m sure you believe that."
-    c ""
 
-# game/episode020.rpy:419
+    c "Sono sicura che tu ci credi."
+
+
 translate italian ep020_paclerara_departure_ef1adb1a:
 
-    # c "I call it loving someone."
-    c ""
 
-# game/episode020.rpy:420
+    c "Io lo chiamo amare qualcuno."
+
+
 translate italian ep020_paclerara_departure_0f0ad03b:
 
-    # c "Here’s what’s going to happen though."
-    c ""
 
-# game/episode020.rpy:421
+    c "Ecco cosa succederà."
+
+
 translate italian ep020_paclerara_departure_d9fc4d91:
 
-    # c "I’m going to walk out with Raene unharmed and you will not pursue us."
-    c ""
 
-# game/episode020.rpy:422
+    c "Io me ne andrò con Raene incolume e tu non ci inseguirai."
+
+
 translate italian ep020_paclerara_departure_241b344c:
 
-    # c "If you do, I’ll make sure to kill you three and make a convincing case of it being self-defence."
-    c ""
 
-# game/episode020.rpy:424
+    c "Se lo farete, mi assicurerò di uccidervi tutti e tre e di dimostrare in modo convincente che si tratta di legittima difesa."
+
+
 translate italian ep020_paclerara_departure_16c45d30:
 
-    # av "Are you okay in there?"
-    av ""
 
-# game/episode020.rpy:425
+    av "Stai bene lì dentro?"
+
+
 translate italian ep020_paclerara_departure_40e80566:
 
-    # c "Backup has also just arrived."
-    c ""
 
-# game/episode020.rpy:426
+    c "Sono appena arrivati anche i rinforzi."
+
+
 translate italian ep020_paclerara_departure_ebe16fee:
 
-    # c "I think it’s time to go, Raene."
-    c ""
 
-# game/episode020.rpy:428
+    c "Credo sia ora di andare, Raene."
+
+
 translate italian ep020_paclerara_departure_0b760eba:
 
-    # "Raene got up and neither of the two clerics prevented her from walking toward me."
-    ""
 
-# game/episode020.rpy:429
+    "Raene si alzò e nessuno dei due chierici le impedì di camminare verso di me."
+
+
 translate italian ep020_paclerara_departure_0927ad9d:
 
-    # sa "Get back here at once!"
-    sa ""
 
-# game/episode020.rpy:430
+    sa "Torna subito qui!"
+
+
 translate italian ep020_paclerara_departure_c29b2ad9:
 
-    # sa "You belong with me!"
-    sa ""
 
-# game/episode020.rpy:432
+    sa "Il tuo posto è con me!"
+
+
 translate italian ep020_paclerara_departure_675feea1:
 
-    # ra "No, I do not."
-    ra ""
 
-# game/episode020.rpy:433
+    ra "No, non è vero."
+
+
 translate italian ep020_paclerara_departure_2dcd7e61:
 
-    # ra "You’ve never respected the person I am and judging from the way you’ve treated me just now, you never will."
-    ra ""
 
-# game/episode020.rpy:434
+    ra "Non hai mai rispettato la persona che sono e, a giudicare dal modo in cui mi hai appena trattato, non lo farai mai."
+
+
 translate italian ep020_paclerara_departure_9e2e746f:
 
-    # ra "I don’t want to see you ever again, father."
-    ra ""
 
-# game/episode020.rpy:435
+    ra "Non voglio vederti mai più, padre."
+
+
 translate italian ep020_paclerara_departure_439802a1:
 
-    # ra "Goodbye."
-    ra ""
 
-# game/episode020.rpy:437
+    ra "Addio."
+
+
 translate italian ep020_paclerara_departure_5481f9d2:
 
-    # "Protected by Aven, Kit and me, Raene walked out of the room, her head held high."
-    ""
 
-# game/episode020.rpy:438
+    "Protetta da Aven, Kit e me, Raene uscì dalla stanza a testa alta."
+
+
 translate italian ep020_paclerara_departure_bfb2520b:
 
-    # "Sacleus could still be heard raging inside the room."
-    ""
 
-# game/episode020.rpy:440
+    "Si sentiva ancora Sacleus infuriare all'interno della stanza."
+
+
 translate italian ep020_paclerara_departure_594bc868:
 
-    # c "That was very brave of you."
-    c ""
 
-# game/episode020.rpy:441
+    c "È stato molto coraggioso da parte tua."
+
+
 translate italian ep020_paclerara_departure_a8ebf496:
 
-    # ra "I was scared to death."
-    ra ""
 
-# game/episode020.rpy:443
+    ra "Ero spaventata a morte."
+
+
 translate italian ep020_paclerara_departure_3e72eda9:
 
-    # ra "Still, I felt it had to be said."
-    ra ""
 
-# game/episode020.rpy:444
+    ra "Tuttavia, sentivo che doveva essere detto."
+
+
 translate italian ep020_paclerara_departure_85021674:
 
-    # c "It sure did."
-    c ""
 
-# game/episode020.rpy:446
+    c "È proprio così."
+
+
 translate italian ep020_paclerara_departure_6ca20477:
 
-    # ra "It won’t change my father’s opinion though."
-    ra ""
 
-# game/episode020.rpy:447
+    ra "Ma non cambierà l'opinione di mio padre."
+
+
 translate italian ep020_paclerara_departure_49d06e6c:
 
-    # c "It probably won’t, but that wasn’t the point."
-    c ""
 
-# game/episode020.rpy:449
+    c "Probabilmente no, ma non era questo il punto."
+
+
 translate italian ep020_paclerara_departure_67df49a2:
 
-    # ra "No, I think you’re right."
-    ra ""
 
-# game/episode020.rpy:451
+    ra "No, credo che tu abbia ragione."
+
+
 translate italian ep020_paclerara_departure_93bb2d8c:
 
-    # av "The Bastard is waiting for us on the landing pad."
-    av ""
 
-# game/episode020.rpy:452
+    av "Il Bastardo ci sta aspettando sulla piattaforma di atterraggio."
+
+
 translate italian ep020_paclerara_departure_45930ac3:
 
-    # c "Do you need anything from your room, Raene?"
-    c ""
 
-# game/episode020.rpy:453
+    c "Hai bisogno di qualcosa dalla tua stanza, Raene?"
+
+
 translate italian ep020_paclerara_departure_ae9dc50d:
 
-    # ki "Céline and Lilly have already packed your things."
-    ki ""
 
-# game/episode020.rpy:454
+    ki "Céline e Lilly hanno già preparato le tue cose."
+
+
 translate italian ep020_paclerara_departure_1f8dfc4a:
 
-    # ra "In that case I’m good to go."
-    ra ""
 
-# game/episode020.rpy:456
+    ra "In questo caso sono pronta ad andare."
+
+
 translate italian ep020_paclerara_departure_3389b9fa:
 
-    # "We hurried to the landing pad, worried about the clerics raising the alarm."
-    ""
 
-# game/episode020.rpy:457
+    "Ci affrettammo verso la piattaforma di atterraggio, preoccupati che i chierici dessero l'allarme."
+
+
 translate italian ep020_paclerara_departure_57785808:
 
-    # "Luckily, our display of force seemed to have paid off."
-    ""
 
-# game/episode020.rpy:462
+    "Fortunatamente, la nostra dimostrazione di forza sembrava aver dato i suoi frutti."
+
+
 translate italian ep020_paclerara_departure_18f15baf:
 
-    # "Unchallenged by any clerics, we took off from Paclerara and made our way to the point where we’d meet up with Xile."
-    ""
 
-# game/episode020.rpy:464
+    "Senza essere sfidati da nessun chierico, decollammo da Paclerara e ci dirigemmo verso il punto in cui ci saremmo incontrati con Xile."
+
+
 translate italian ep020_paclerara_departure_f36a18b0:
 
-    # "The following hours were spent packing and preparing the Bastard for another journey."
-    ""
 
-# game/episode020.rpy:469
+    "Le ore successive furono dedicate a fare i bagagli e a preparare il Bastardo per un altro viaggio."
+
+
 translate italian ep020_paclerara_departure_69567ca7:
 
-    # "We took off from Paclerara and made our way to the point where we’d meet up with Xile."
-    ""
 
-# game/episode020.rpy:477
+    "Siamo partiti da Paclerara e ci siamo diretti verso il punto in cui ci saremmo incontrati con Xile."
+
+
 translate italian ep020_paclerara_thim_missing_63fc1a7a:
 
-    # "We were about to depart when I got a message from Thyia."
-    ""
 
-# game/episode020.rpy:479
+    "Stavamo per partire quando ricevetti un messaggio da Thyia."
+
+
 translate italian ep020_paclerara_thim_missing_cc936102:
 
-    # "I hurried to the landing pad where she was waiting for me."
-    ""
 
-# game/episode020.rpy:480
+    "Mi affrettai a raggiungere la piattaforma di atterraggio dove mi stava aspettando."
+
+
 translate italian ep020_paclerara_thim_missing_c74505e2:
 
-    # c "What’s the matter?"
-    c ""
 
-# game/episode020.rpy:482
+    c "Qual è il problema?"
+
+
 translate italian ep020_paclerara_thim_missing_54ea6d9b:
 
-    # th "We’re one person short."
-    th ""
 
-# game/episode020.rpy:483
+    th "Ci manca una persona."
+
+
 translate italian ep020_paclerara_thim_missing_199aa782:
 
-    # c "Who?"
-    c ""
 
-# game/episode020.rpy:485
+    c "Chi?"
+
+
 translate italian ep020_paclerara_thim_missing_5a7e5203:
 
-    # th "Thim didn’t check in."
-    th ""
 
-# game/episode020.rpy:486
+    th "Thim non si è registrato."
+
+
 translate italian ep020_paclerara_thim_missing_88c02de1:
 
-    # c "Didn’t he get the message?"
-    c ""
 
-# game/episode020.rpy:488
+    c "Non ha ricevuto il messaggio?"
+
+
 translate italian ep020_paclerara_thim_missing_52480505:
 
-    # th "He did."
-    th ""
 
-# game/episode020.rpy:489
+    th "L'ha ricevuto."
+
+
 translate italian ep020_paclerara_thim_missing_83ac829a:
 
-    # th "I sent out Vess to check."
-    th ""
 
-# game/episode020.rpy:490
+    th "Ho mandato Vess a controllare."
+
+
 translate italian ep020_paclerara_thim_missing_39f4deef:
 
-    # th "According to her, his room in the Residence is empty."
-    th ""
 
-# game/episode020.rpy:491
+    th "Secondo lei, la sua stanza nella Residenza è vuota."
+
+
 translate italian ep020_paclerara_thim_missing_73baf10e:
 
-    # th "Jade just verified that he checked himself out two hours ago."
-    th ""
 
-# game/episode020.rpy:492
+    th "Jade ha appena verificato che è uscito due ore fa."
+
+
 translate italian ep020_paclerara_thim_missing_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode020.rpy:493
+    c "Cazzo."
+
+
 translate italian ep020_paclerara_thim_missing_0977fdc7:
 
-    # c "He made a run for it?"
-    c ""
 
-# game/episode020.rpy:495
+    c "È scappato?"
+
+
 translate italian ep020_paclerara_thim_missing_2ffd728a:
 
-    # th "It seems so."
-    th ""
 
-# game/episode020.rpy:496
+    th "Sembra di sì."
+
+
 translate italian ep020_paclerara_thim_missing_493a46ca:
 
-    # c "Is he still on Paclerara?"
-    c ""
 
-# game/episode020.rpy:497
+    c "È ancora su Paclerara?"
+
+
 translate italian ep020_paclerara_thim_missing_245ee59e:
 
-    # th "There have been over fifty outbound departures in the past hour from the landing pads."
-    th ""
 
-# game/episode020.rpy:498
+    th "Nell'ultima ora ci sono state più di cinquanta partenze dalle rampe di atterraggio."
+
+
 translate italian ep020_paclerara_thim_missing_a59a2cdb:
 
-    # th "So I think it’s unlikely that he’s still on the planet."
-    th ""
 
-# game/episode020.rpy:499
+    th "Quindi credo sia improbabile che sia ancora sul pianeta."
+
+
 translate italian ep020_paclerara_thim_missing_fbde2702:
 
-    # c "That little fucker."
-    c ""
 
-# game/episode020.rpy:500
+    c "Quel piccolo stronzo."
+
+
 translate italian ep020_paclerara_thim_missing_b4976c72:
 
-    # c "We should have kept a closer eye on him."
-    c ""
 
-# game/episode020.rpy:502
+    c "Avremmo dovuto tenerlo d'occhio più da vicino."
+
+
 translate italian ep020_paclerara_thim_missing_b1fc50d6:
 
-    # th "We did in the beginning."
-    th ""
 
-# game/episode020.rpy:503
+    th "Lo abbiamo fatto all'inizio."
+
+
 translate italian ep020_paclerara_thim_missing_2a0c59fc:
 
-    # th "I guess we became too lax."
-    th ""
 
-# game/episode020.rpy:504
+    th "Forse siamo diventati troppo permissivi."
+
+
 translate italian ep020_paclerara_thim_missing_a188cf08:
 
-    # c "He came to me a few days ago, asking permission to leave."
-    c ""
 
-# game/episode020.rpy:505
+    c "È venuto da me qualche giorno fa, chiedendo il permesso di andarsene."
+
+
 translate italian ep020_paclerara_thim_missing_7c442d2b:
 
-    # c "I denied him the privilege."
-    c ""
 
-# game/episode020.rpy:506
+    c "Gli ho negato questo privilegio."
+
+
 translate italian ep020_paclerara_thim_missing_c8b2fc15:
 
-    # c "He’s been so complacent all of the time, thought he would be too much of a coward to slip away."
-    c ""
 
-# game/episode020.rpy:507
+    c "È stato così compiacente per tutto il tempo, che ha pensato di essere troppo codardo per andarsene."
+
+
 translate italian ep020_paclerara_thim_missing_0a830946:
 
-    # c "Fuck!"
-    c ""
 
-# game/episode020.rpy:509
+    c "Cazzo!"
+
+
 translate italian ep020_paclerara_thim_missing_a068f905:
 
-    # th "Are we going to pursue him?"
-    th ""
 
-# game/episode020.rpy:510
+    th "Lo inseguiremo?"
+
+
 translate italian ep020_paclerara_thim_missing_d02eb40c:
 
-    # c "That’s going to be a wild goose chase."
-    c ""
 
-# game/episode020.rpy:511
+    c "Sarà una caccia all'oca selvatica."
+
+
 translate italian ep020_paclerara_thim_missing_c95304ab:
 
-    # c "He’s likely going to change ships as often as possible to get us off his trail."
-    c ""
 
-# game/episode020.rpy:512
+    c "Probabilmente cambierà nave il più spesso possibile per farci perdere le sue tracce."
+
+
 translate italian ep020_paclerara_thim_missing_749f036a:
 
-    # c "We might be able to track him, but always one or two steps behind."
-    c ""
 
-# game/episode020.rpy:513
+    c "Potremmo riuscire a seguirlo, ma sempre uno o due passi indietro."
+
+
 translate italian ep020_paclerara_thim_missing_faf7ae44:
 
-    # c "Besides, we have an appointment elsewhere."
-    c ""
 
-# game/episode020.rpy:515
+    c "Inoltre, abbiamo un appuntamento altrove."
+
+
 translate italian ep020_paclerara_thim_missing_34e795a5:
 
-    # "After informing the crew of Thim’s escape, we took off from Paclerara and made our way to the point where we’d meet up with Xile."
-    ""
 
-# game/episode020.rpy:517
+    "Dopo aver informato l'equipaggio della fuga di Thim, siamo decollati da Paclerara e ci siamo diretti verso il punto in cui ci saremmo incontrati con Xile."
+
+
 translate italian ep020_paclerara_thim_missing_a7854877:
 
-    # "Thim had cleared out his bunk as promised, just before our departure."
-    ""
 
-# game/episode020.rpy:518
+    "Thim aveva liberato la sua cuccetta come promesso, poco prima della nostra partenza."
+
+
 translate italian ep020_paclerara_thim_missing_dc0dea7f:
 
-    # "He wasn’t there to see us off and I didn’t expect him to."
-    ""
 
-# game/episode020.rpy:519
+    "Non era presente per salutarci e non mi aspettavo che lo facesse."
+
+
 translate italian ep020_paclerara_thim_missing_fb5fcfeb:
 
-    # "According to some of the crew, he had personally said goodbye to them."
-    ""
 
-# game/episode020.rpy:520
+    "Secondo alcuni membri dell'equipaggio, li aveva salutati personalmente."
+
+
 translate italian ep020_paclerara_thim_missing_d00edcd6:
 
-    # "I really hoped he would succeed in building a life on his own."
-    ""
 
-# game/episode020.rpy:521
+    "Speravo davvero che riuscisse a costruirsi una vita da solo."
+
+
 translate italian ep020_paclerara_thim_missing_6da002c5:
 
-    # "The universe wasn’t a friendly place most of the time, but Thim would be lucky."
-    ""
 
-# game/episode020.rpy:528
+    "L'universo non era un posto amichevole nella maggior parte dei casi, ma Thim sarebbe stato fortunato."
+
+
 translate italian ep020_paclerara_dream_1cf99a54:
 
-    # "It had been a very hot day on Paclerara and the high temperatures continued into the night."
-    ""
 
-# game/episode020.rpy:530
+    "Era stata una giornata molto calda su Paclerara e le alte temperature si erano protratte fino a notte fonda."
+
+
 translate italian ep020_paclerara_dream_e08185b7:
 
-    # "I had a very warm and sweaty night, plagued by dreams."
-    ""
 
-# game/episode020.rpy:533
+    "Passai una notte molto calda e sudata, tormentata dai sogni."
+
+
 translate italian ep020_paclerara_dream_6550580c:
 
-    # woman "Mmmm, would you like to get a piece of this, [p_name]?"
-    woman ""
 
-# game/episode020.rpy:534
+    woman "Mmmm, ti piacerebbe avere un pezzo di questo, [p_name]?"
+
+
 translate italian ep020_paclerara_dream_2c6d864e:
 
-    # woman "Fuck me all night long?"
-    woman ""
 
-# game/episode020.rpy:536
+    woman "Scoparmi per tutta la notte?"
+
+
 translate italian ep020_paclerara_dream_91046ef0:
 
-    # woman "I want you to put your big dick inside me."
-    woman ""
 
-# game/episode020.rpy:537
+    woman "Voglio che tu metta il tuo grosso cazzo dentro di me."
+
+
 translate italian ep020_paclerara_dream_bdde344c:
 
-    # woman "Fuck me long and hard."
-    woman ""
 
-# game/episode020.rpy:538
+    woman "Scopami a lungo e con forza."
+
+
 translate italian ep020_paclerara_dream_bba26d42:
 
-    # woman "And spray your cum all inside me..."
-    woman ""
 
-# game/episode020.rpy:540
+    woman "E spruzza il tuo sperma dentro di me..."
+
+
 translate italian ep020_paclerara_dream_8268c111:
 
-    # woman "Come join me..."
-    woman ""
 
-# game/episode020.rpy:541
+    woman "Vieni con me..."
+
+
 translate italian ep020_paclerara_dream_e8d0ce21:
 
-    # woman "Join me..."
-    woman ""
 
-# game/episode020.rpy:544
+    woman "Unisciti a me..."
+
+
 translate italian ep020_paclerara_dream_2764493a:
 
-    # woman "Join us..."
-    woman ""
 
-# game/episode020.rpy:545
+    woman "Unisciti a noi..."
+
+
 translate italian ep020_paclerara_dream_e11966f2:
 
-    # woman "Join us!"
-    woman ""
 
-# game/episode020.rpy:547
+    woman "Unisciti a noi!"
+
+
 translate italian ep020_paclerara_dream_6c4b2a43:
 
-    # woman "We want you!{w} We need you!"
-    woman ""
 
-# game/episode020.rpy:549
+    woman "Ti vogliamo! {w} Abbiamo bisogno di te!"
+
+
 translate italian ep020_paclerara_dream_4d1c008d:
 
-    # xa "We crave the Taste!"
-    xa ""
 
-# game/episode020.rpy:550
+    xa "Desideriamo il Gusto!"
+
+
 translate italian ep020_paclerara_dream_b0a17606:
 
-    # xa "We have an agreement!"
-    xa ""
 
-# game/episode020.rpy:551
+    xa "Abbiamo un accordo!"
+
+
 translate italian ep020_paclerara_dream_3d110e4b:
 
-    # xa "Come to us!"
-    xa ""
 
-# game/episode020.rpy:553
+    xa "Vieni da noi!"
+
+
 translate italian ep020_paclerara_dream_45aa7aa3:
 
-    # xa "Bow before your Queen."
-    xa ""
 
-# game/episode020.rpy:555
+    xa "Inchinati davanti alla tua Regina."
+
+
 translate italian ep020_paclerara_dream_63a47330:
 
-    # "Another night ruined by those fucking Scolguin."
-    ""
 
-# game/episode020.rpy:557
+    "Un'altra notte rovinata da quei fottuti Scolguin."
+
+
 translate italian ep020_paclerara_dream_8b43142c:
 
-    # "It almost seemed as if they didn’t want to wait for ten years..."
-    ""
 
-# game/episode020.rpy:567
+    "Sembrava quasi che non volessero aspettare dieci anni..."
+
+
 translate italian ep020_paclerara_nadya_34c7c998:
 
-    # "Just as I was heading out, I ran into Nadya in the Residence courtyard."
-    ""
 
-# game/episode020.rpy:568
+    "Proprio mentre stavo uscendo, incontrai Nadya nel cortile della Residenza."
+
+
 translate italian ep020_paclerara_nadya_6190f4db:
 
-    # c "Hey."
-    c ""
 
-# game/episode020.rpy:570
+    c "Ciao."
+
+
 translate italian ep020_paclerara_nadya_2247a3b1:
 
-    # na "In a hurry?"
-    na ""
 
-# game/episode020.rpy:571
+    na "Hai fretta?"
+
+
 translate italian ep020_paclerara_nadya_bbb5464c:
 
-    # c "Not particularly, why?"
-    c ""
 
-# game/episode020.rpy:572
+    c "Non particolarmente, perché?"
+
+
 translate italian ep020_paclerara_nadya_94b2c893:
 
-    # na "I just wanted to catch up."
-    na ""
 
-# game/episode020.rpy:574
+    na "Volevo solo aggiornarmi."
+
+
 translate italian ep020_paclerara_nadya_a7c992a8:
 
-    # "Nadya and I found a bench in the shade."
-    ""
 
-# game/episode020.rpy:575
+    "Io e Nadya abbiamo trovato una panchina all'ombra."
+
+
 translate italian ep020_paclerara_nadya_e3980c75:
 
-    # na "Have you made any progress?"
-    na ""
 
-# game/episode020.rpy:576
+    na "Hai fatto progressi?"
+
+
 translate italian ep020_paclerara_nadya_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode020.rpy:577
+    c "Credo di sì."
+
+
 translate italian ep020_paclerara_nadya_e53fe692:
 
-    # c "Thyia and Jade have found a way to get us to Petrarch."
-    c ""
 
-# game/episode020.rpy:579
+    c "Thyia e Jade hanno trovato un modo per portarci al Petrarca."
+
+
 translate italian ep020_paclerara_nadya_586adb63:
 
-    # na "Really?"
-    na ""
 
-# game/episode020.rpy:580
+    na "Davvero?"
+
+
 translate italian ep020_paclerara_nadya_65b1b5b6:
 
-    # c "It involves us becoming bounty hunters, but it seems to be the only solid lead."
-    c ""
 
-# game/episode020.rpy:581
+    c "Ci obbliga a diventare cacciatori di taglie, ma sembra essere l'unica pista valida."
+
+
 translate italian ep020_paclerara_nadya_af5cf431:
 
-    # na "Oh yes, Thyia mentioned something like that."
-    na ""
 
-# game/episode020.rpy:582
+    na "Oh sì, Thyia ha accennato a qualcosa del genere."
+
+
 translate italian ep020_paclerara_nadya_de1c6e74:
 
-    # na "It all sounded rather dangerous, but I guess we don't know any better anymore."
-    na ""
 
-# game/episode020.rpy:583
+    na "Sembrava tutto piuttosto pericoloso, ma credo che non ne sappiamo più nulla."
+
+
 translate italian ep020_paclerara_nadya_5dc9c430:
 
-    # c "Sadly not."
-    c ""
 
-# game/episode020.rpy:585
+    c "Purtroppo no."
+
+
 translate italian ep020_paclerara_nadya_98f274dd:
 
-    # na "Do you ever wonder how your life would be if you've never got on the Bastard?"
-    na ""
 
-# game/episode020.rpy:586
+    na "Ti sei mai chiesto come sarebbe stata la tua vita se non fossi mai salito sul Bastardo?"
+
+
 translate italian ep020_paclerara_nadya_f406e506:
 
-    # c "Sometimes, but not with regret."
-    c ""
 
-# game/episode020.rpy:587
+    c "A volte, ma non con rammarico."
+
+
 translate italian ep020_paclerara_nadya_0aabf1fb:
 
-    # c "If I hadn't commandeered the Bastard, I would never have found you."
-    c ""
 
-# game/episode020.rpy:589
+    c "Se non avessi requisito il Bastard, non ti avrei mai trovato."
+
+
 translate italian ep020_paclerara_nadya_dab5863a:
 
-    # na "That's true."
-    na ""
 
-# game/episode020.rpy:590
+    na "È vero."
+
+
 translate italian ep020_paclerara_nadya_57c41d40:
 
-    # c "You don't sound happy?"
-    c ""
 
-# game/episode020.rpy:592
+    c "Non sembri felice?"
+
+
 translate italian ep020_paclerara_nadya_e8a0bff4:
 
-    # na "Oh, but I am!"
-    na ""
 
-# game/episode020.rpy:594
+    na "Oh, ma lo sono!"
+
+
 translate italian ep020_paclerara_nadya_56ff403c:
 
-    # na "It's just..."
-    na ""
 
-# game/episode020.rpy:595
+    na "È solo che..."
+
+
 translate italian ep020_paclerara_nadya_e168e5f0:
 
-    # na "No, forget it."
-    na ""
 
-# game/episode020.rpy:596
+    na "No, lascia perdere."
+
+
 translate italian ep020_paclerara_nadya_62e510cb:
 
-    # c "No, I won't, something seems to be troubling you."
-    c ""
 
-# game/episode020.rpy:597
+    c "No, non lo farò, sembra che ci sia qualcosa che ti preoccupa."
+
+
 translate italian ep020_paclerara_nadya_e34f26ce:
 
-    # c "Is it about you and me?"
-    c ""
 
-# game/episode020.rpy:598
+    c "Riguarda te e me?"
+
+
 translate italian ep020_paclerara_nadya_087b7415:
 
-    # na "In a way."
-    na ""
 
-# game/episode020.rpy:599
+    na "In un certo senso."
+
+
 translate italian ep020_paclerara_nadya_e7d7736b:
 
-    # na "It's just, sometimes I feel like I'm holding you back."
-    na ""
 
-# game/episode020.rpy:600
+    na "È solo che a volte mi sento come se ti stessi trattenendo."
+
+
 translate italian ep020_paclerara_nadya_0f852f3a:
 
-    # na "You're young, you have a whole life ahead of you, full of potential."
-    na ""
 
-# game/episode020.rpy:602
+    na "Sei giovane, hai una vita intera davanti a te, piena di potenziale."
+
+
 translate italian ep020_paclerara_nadya_62c3508a:
 
-    # c "Come on, mom, you're saying you're too old for me?"
-    c ""
 
-# game/episode020.rpy:604
+    c "Dai, mamma, stai dicendo che sei troppo vecchia per me?"
+
+
 translate italian ep020_paclerara_nadya_b17609f7:
 
-    # c "Come on, Nadya, you're saying you're too old for me?"
-    c ""
 
-# game/episode020.rpy:606
+    c "Dai, Nadya, stai dicendo che sei troppo vecchia per me?"
+
+
 translate italian ep020_paclerara_nadya_bcbdd097:
 
-    # na "If you look at it realistically..."
-    na ""
 
-# game/episode020.rpy:607
+    na "Se la guardi in modo realistico..."
+
+
 translate italian ep020_paclerara_nadya_38726eec:
 
-    # na "I can't give you everything you might want in a relationship."
-    na ""
 
-# game/episode020.rpy:608
+    na "Non posso darti tutto quello che vorresti in una relazione."
+
+
 translate italian ep020_paclerara_nadya_2e14262e:
 
-    # c "Like what, because you've already given me plenty?"
-    c ""
 
-# game/episode020.rpy:609
+    c "Ad esempio, perché tu mi hai già dato molto?"
+
+
 translate italian ep020_paclerara_nadya_6176b3a2:
 
-    # na "For one, my child-bearing days are probably over."
-    na ""
 
-# game/episode020.rpy:613
+    na "Per prima cosa, i miei giorni da bambina sono probabilmente finiti."
+
+
 translate italian ep020_paclerara_nadya_0749d0e0:
 
-    # c "That might have been true hundreds of years ago, but you know it isn't now."
-    c ""
 
-# game/episode020.rpy:614
+    c "Questo poteva essere vero centinaia di anni fa, ma sai bene che ora non lo è più."
+
+
 translate italian ep020_paclerara_nadya_2fccf8d1:
 
-    # c "Plenty of women have become mothers at your age."
-    c ""
 
-# game/episode020.rpy:616
+    c "Molte donne sono diventate madri alla tua età."
+
+
 translate italian ep020_paclerara_nadya_037efff7:
 
-    # na "There's still a risk."
-    na ""
 
-# game/episode020.rpy:617
+    na "C'è ancora un rischio."
+
+
 translate italian ep020_paclerara_nadya_18a7487b:
 
-    # c "There is, but there's also excellent care for older mothers."
-    c ""
 
-# game/episode020.rpy:618
+    c "C'è, ma c'è anche un'ottima assistenza per le madri anziane."
+
+
 translate italian ep020_paclerara_nadya_c67e29ab:
 
-    # na "So you have thought about it?"
-    na ""
 
-# game/episode020.rpy:619
+    na "Quindi ci hai pensato?"
+
+
 translate italian ep020_paclerara_nadya_5750b1eb:
 
-    # c "Of course I have, I love you."
-    c ""
 
-# game/episode020.rpy:620
+    c "Certo che ci ho pensato, ti amo."
+
+
 translate italian ep020_paclerara_nadya_d783d0a5:
 
-    # na "And you'd want..."
-    na ""
 
-# game/episode020.rpy:621
+    na "E vorresti..."
+
+
 translate italian ep020_paclerara_nadya_75b8f250:
 
-    # c "Yes, I would want a child with you, if you would."
-    c ""
 
-# game/episode020.rpy:623
+    c "Sì, vorrei un figlio da te, se tu lo volessi."
+
+
 translate italian ep020_paclerara_nadya_fc8fbb42:
 
-    # na "Oh...{w} I..."
-    na ""
 
-# game/episode020.rpy:624
+    na "Oh...{w} Io..."
+
+
 translate italian ep020_paclerara_nadya_93984d29:
 
-    # na "I didn't think after..."
-    na ""
 
-# game/episode020.rpy:626
+    na "Non pensavo che dopo..."
+
+
 translate italian ep020_paclerara_nadya_014ec7eb:
 
-    # na "Becoming a mother was one of the best things that happened in my life."
-    na ""
 
-# game/episode020.rpy:628
+    na "Diventare madre è stata una delle cose più belle della mia vita."
+
+
 translate italian ep020_paclerara_nadya_35fac292:
 
-    # na "Caring for you when you were little was one of the best things that happened in my life."
-    na ""
 
-# game/episode020.rpy:630
+    na "Prendermi cura di te quando eri piccolo è stata una delle cose più belle della mia vita."
+
+
 translate italian ep020_paclerara_nadya_56d09709:
 
-    # na "Even with all the terrible stuff that happened with Agust."
-    na ""
 
-# game/episode020.rpy:632
+    na "Anche con tutte le cose terribili che sono successe con Agust."
+
+
 translate italian ep020_paclerara_nadya_3f2da6c1:
 
-    # na "I never dreamed of becoming pregnant again, just as I never thought I'd fall in love again."
-    na ""
 
-# game/episode020.rpy:633
-translate italian ep020_paclerara_nadya_607c0aac:
+    na "Non ho mai sognato di rimanere di nuovo incinta, così come non ho mai pensato di innamorarmi di nuovo."
 
-    # c "Making you a mother again would be a dream come true."
-    c ""
 
-# game/episode020.rpy:635
 translate italian ep020_paclerara_nadya_8df35bdf:
 
-    # na "I never dreamed of becoming pregnant, just as I never thought I'd fall in love."
-    na ""
 
-# game/episode020.rpy:636
-translate italian ep020_paclerara_nadya_ab1ccf7c:
+    na "Non ho mai sognato di rimanere incinta, così come non ho mai pensato di innamorarmi."
 
-    # c "Making you a mother would be a dream come true."
-    c ""
 
-# game/episode020.rpy:638
+translate italian ep020_paclerara_nadya_607c0aac:
+
+
+    c "Renderti di nuovo madre sarebbe un sogno che si avvera."
+
+
 translate italian ep020_paclerara_nadya_e8ce78d8:
 
-    # na "So...{w} You would like us to try?"
-    na ""
 
-# game/episode020.rpy:639
+    na "Quindi...{w} Vuoi che ci proviamo?"
+
+
 translate italian ep020_paclerara_nadya_a83ab574:
 
-    # c "Of course!"
-    c ""
 
-# game/episode020.rpy:641
+    c "Certo!"
+
+
 translate italian ep020_paclerara_nadya_d07301e4:
 
-    # na "Oh [p_name_short]!"
-    na ""
 
-# game/episode020.rpy:643
+    na "Oh [p_name_short]!"
+
+
 translate italian ep020_paclerara_nadya_d20f91cd:
 
-    # "Nadya took my hand and nearly crushed it, such was her happiness."
-    ""
 
-# game/episode020.rpy:644
+    "Nadya mi prese la mano e quasi la schiacciò, tanta era la sua felicità."
+
+
 translate italian ep020_paclerara_nadya_f427e335:
 
-    # "I could have kissed her on that bench, but didn't dare because of all the people surrounding us."
-    ""
 
-# game/episode020.rpy:645
+    "Avrei potuto baciarla su quella panchina, ma non ho osato a causa di tutte le persone che ci circondavano."
+
+
 translate italian ep020_paclerara_nadya_35d900f8:
 
-    # na "I can't believe my luck!"
-    na ""
 
-# game/episode020.rpy:646
+    na "Non posso credere alla mia fortuna!"
+
+
 translate italian ep020_paclerara_nadya_9e3e605e:
 
-    # c "Nor can I."
-    c ""
 
-# game/episode020.rpy:648
+    c "Nemmeno io."
+
+
 translate italian ep020_paclerara_nadya_a2d5c50d:
 
-    # c "I don't want kids, so you really shouldn't worry about that."
-    c ""
 
-# game/episode020.rpy:649
+    c "Non voglio figli, quindi non dovresti preoccuparti di questo."
+
+
 translate italian ep020_paclerara_nadya_014ec7eb_1:
 
-    # na "Becoming a mother was one of the best things that happened in my life."
-    na ""
 
-# game/episode020.rpy:651
+    na "Diventare madre è stata una delle cose più belle della mia vita."
+
+
 translate italian ep020_paclerara_nadya_1b516995:
 
-    # na "It made me complete."
-    na ""
 
-# game/episode020.rpy:653
+    na "Mi ha reso completa."
+
+
 translate italian ep020_paclerara_nadya_09f1be11:
 
-    # na "After what happened with Agust afterwards, I couldn't go through with it again."
-    na ""
 
-# game/episode020.rpy:654
+    na "Dopo quello che è successo con Agust, non potevo più farlo."
+
+
 translate italian ep020_paclerara_nadya_4cabd235:
 
-    # c "I understand and I don't want you to."
-    c ""
 
-# game/episode020.rpy:656
+    c "Ti capisco e non voglio che tu lo faccia."
+
+
 translate italian ep020_paclerara_nadya_6346e29a:
 
-    # na "Thank you, [p_name]."
-    na ""
 
-# game/episode020.rpy:658
+    na "Grazie, [p_name]."
+
+
 translate italian ep020_paclerara_nadya_f1225862:
 
-    # na "And you're absolutely sure my age isn't a problem for you?"
-    na ""
 
-# game/episode020.rpy:659
+    na "E sei assolutamente sicuro che la mia età non sia un problema per te?"
+
+
 translate italian ep020_paclerara_nadya_d0c64f98:
 
-    # c "I thought I was clear about that."
-    c ""
 
-# game/episode020.rpy:660
+    c "Pensavo di essere stato chiaro al riguardo."
+
+
 translate italian ep020_paclerara_nadya_e57901dc:
 
-    # c "You're the most beautiful woman I know and I love you."
-    c ""
 
-# game/episode020.rpy:661
+    c "Sei la donna più bella che conosca e ti amo."
+
+
 translate italian ep020_paclerara_nadya_3f81a15e:
 
-    # c "Anyone who'd hear you talking about your age and the possibility of your decline would laugh in your face."
-    c ""
 
-# game/episode020.rpy:663
+    c "Chiunque ti sentisse parlare della tua età e della possibilità di un tuo declino ti riderebbe in faccia."
+
+
 translate italian ep020_paclerara_nadya_50a56010:
 
-    # na "Well, if you say so."
-    na ""
 
-# game/episode020.rpy:664
+    na "Beh, se lo dici tu."
+
+
 translate italian ep020_paclerara_nadya_9d9fb6df:
 
-    # c "I do."
-    c ""
 
-# game/episode020.rpy:669
+    c "Lo dico io."
+
+
 translate italian ep020_paclerara_nadya_5c61d99d:
 
-    # na "You’ve already told me you’re involved with [romances]."
-    na ""
 
-# game/episode020.rpy:671
+    na "Mi hai già detto che hai una relazione con [romances]."
+
+
 translate italian ep020_paclerara_nadya_91fc18ac:
 
-    # na "You’ve already told me you’re involved with another girl."
-    na ""
 
-# game/episode020.rpy:673
+    na "Mi hai già detto che hai una relazione con un'altra ragazza."
+
+
 translate italian ep020_paclerara_nadya_a97ccc36:
 
-    # na "You’ve already told me you’re involved with other girls."
-    na ""
 
-# game/episode020.rpy:675
+    na "Mi hai già detto che hai una relazione con altre ragazze."
+
+
 translate italian ep020_paclerara_nadya_c2d028d9:
 
-    # c "Mom, I've just told you I love you, I'm not going to trade you in."
-    c ""
 
-# game/episode020.rpy:677
+    c "Mamma, ti ho appena detto che ti amo, non ho intenzione di scambiarti."
+
+
 translate italian ep020_paclerara_nadya_c0342ef1:
 
-    # c "Nadya, I've just told you I love you, I'm not going to trade you in."
-    c ""
 
-# game/episode020.rpy:681
+    c "Nadya, ti ho appena detto che ti amo, non ho intenzione di scambiarti."
+
+
 translate italian ep020_paclerara_nadya_7ac3c56e:
 
-    # na "Are you still in love with your sister?"
-    na ""
 
-# game/episode020.rpy:683
+    na "Sei ancora innamorato di tua sorella?"
+
+
 translate italian ep020_paclerara_nadya_417ad11e:
 
-    # na "Are you still in love with your sisters?"
-    na ""
 
-# game/episode020.rpy:684
+    na "Sei ancora innamorato delle tue sorelle?"
+
+
 translate italian ep020_paclerara_nadya_b63d6bf3:
 
-    # c "I am."
-    c ""
 
-# game/episode020.rpy:686
+    c "Lo sono."
+
+
 translate italian ep020_paclerara_nadya_1a186a1b:
 
-    # na "She hasn’t said a word to me, but I know how she looks at you."
-    na ""
 
-# game/episode020.rpy:687
+    na "Non mi ha detto una parola, ma so come ti guarda."
+
+
 translate italian ep020_paclerara_nadya_ae1fc347:
 
-    # na "What you two have is very special."
-    na ""
 
-# game/episode020.rpy:689
+    na "Quello che c'è tra voi due è molto speciale."
+
+
 translate italian ep020_paclerara_nadya_70bd555b:
 
-    # na "They haven’t said a word to me, but I know how they look at you."
-    na ""
 
-# game/episode020.rpy:690
+    na "Loro non mi hanno detto una parola, ma so come ti guardano."
+
+
 translate italian ep020_paclerara_nadya_82ee8baf:
 
-    # na "What you all have is very special."
-    na ""
 
-# game/episode020.rpy:691
+    na "Quello che avete tutti è molto speciale."
+
+
 translate italian ep020_paclerara_nadya_bd894511:
 
-    # c "Just as special as what I have with you, mom."
-    c ""
 
-# game/episode020.rpy:706
+    c "Proprio come quello che ho io con te, mamma."
+
+
 translate italian ep020_paclerara_nadya_0b9e16d8:
 
-    # c "I just wish there wasn’t so much secrecy, so I’ve been wondering something."
-    c ""
 
-# game/episode020.rpy:707
+    c "Vorrei solo che non ci fosse così tanta segretezza, quindi mi sono chiesta una cosa."
+
+
 translate italian ep020_paclerara_nadya_f14194b3:
 
-    # c "You’ve told me you’re not old-fashioned about love and your reaction to my other relationships proves that."
-    c ""
 
-# game/episode020.rpy:709
+    c "Mi hai detto che non sei all'antica per quanto riguarda l'amore e la tua reazione alle mie altre relazioni lo dimostra."
+
+
 translate italian ep020_paclerara_nadya_6f1e62dc:
 
-    # c "What I would really like for the three of us, is share a bed together."
-    c ""
 
-# game/episode020.rpy:711
+    c "Quello che vorrei davvero per noi tre è condividere un letto insieme."
+
+
 translate italian ep020_paclerara_nadya_5d363a3d:
 
-    # c "What I would really like for all of us, is share a bed together."
-    c ""
 
-# game/episode020.rpy:712
+    c "Quello che vorrei davvero per tutti noi è condividere un letto insieme."
+
+
 translate italian ep020_paclerara_nadya_067c3734:
 
-    # c "Sleep together, make love, just share everything."
-    c ""
 
-# game/episode020.rpy:714
+    c "Dormire insieme, fare l'amore, condividere tutto."
+
+
 translate italian ep020_paclerara_nadya_0879f11e:
 
-    # na "Are you asking me to join your harem?"
-    na ""
 
-# game/episode020.rpy:715
+    na "Mi stai chiedendo di unirmi al tuo harem?"
+
+
 translate italian ep020_paclerara_nadya_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode020.rpy:718
+    c "Sì, lo sto facendo."
+
+
 translate italian ep020_paclerara_nadya_eb1744b8:
 
-    # na "What does my girl think of this?"
-    na ""
 
-# game/episode020.rpy:720
+    na "Cosa ne pensa la mia ragazza?"
+
+
 translate italian ep020_paclerara_nadya_79fff2a6:
 
-    # c "I’ve yet to ask Lilly."
-    c ""
 
-# game/episode020.rpy:722
+    c "Devo ancora chiederlo a Lilly."
+
+
 translate italian ep020_paclerara_nadya_1af63871:
 
-    # c "She has agreed to join."
-    c ""
 
-# game/episode020.rpy:723
+    c "Lei ha accettato di unirsi a noi."
+
+
 translate italian ep020_paclerara_nadya_eeb9e6e4:
 
-    # na "Do you think she’ll accept me?"
-    na ""
 
-# game/episode020.rpy:724
+    na "Pensi che mi accetterà?"
+
+
 translate italian ep020_paclerara_nadya_ddcad9bf:
 
-    # c "Of course she would."
-    c ""
 
-# game/episode020.rpy:725
+    c "Certo che lo farà."
+
+
 translate italian ep020_paclerara_nadya_791142cb:
 
-    # c "It’s a new experience for the three of us, and [romances] is maybe a little nervous, but willing to try."
-    c ""
 
-# game/episode020.rpy:727
+    c "È un'esperienza nuova per tutti e tre e [romances] è forse un po' nervosa, ma vuole provare."
+
+
 translate italian ep020_paclerara_nadya_99fc6337:
 
-    # na "What do my girls think of this?"
-    na ""
 
-# game/episode020.rpy:729
+    na "Cosa ne pensano le mie ragazze?"
+
+
 translate italian ep020_paclerara_nadya_632e7796:
 
-    # c "They've all agreed to join."
-    c ""
 
-# game/episode020.rpy:731
+    c "Hanno tutte accettato di partecipare."
+
+
 translate italian ep020_paclerara_nadya_7d93c979:
 
-    # c "I’ve yet to ask Aven."
-    c ""
 
-# game/episode020.rpy:732
+    c "Devo ancora chiedere ad Aven."
+
+
 translate italian ep020_paclerara_nadya_d2bfc57b:
 
-    # c "But the rest have agreed to join."
-    c ""
 
-# game/episode020.rpy:734
+    c "Ma le altre hanno accettato di partecipare."
+
+
 translate italian ep020_paclerara_nadya_79fff2a6_1:
 
-    # c "I’ve yet to ask Lilly."
-    c ""
 
-# game/episode020.rpy:735
+    c "Devo ancora chiederlo a Lilly."
+
+
 translate italian ep020_paclerara_nadya_d2bfc57b_1:
 
-    # c "But the rest have agreed to join."
-    c ""
 
-# game/episode020.rpy:737
+    c "Ma le altre hanno accettato di partecipare."
+
+
 translate italian ep020_paclerara_nadya_a4f227bf:
 
-    # c "I’ve yet to ask Eva."
-    c ""
 
-# game/episode020.rpy:738
+    c "Devo ancora chiedere a Eva."
+
+
 translate italian ep020_paclerara_nadya_d2bfc57b_2:
 
-    # c "But the rest have agreed to join."
-    c ""
 
-# game/episode020.rpy:740
+    c "Ma gli altri hanno accettato di partecipare."
+
+
 translate italian ep020_paclerara_nadya_c7ffb444:
 
-    # c "I’ve yet to ask Aven and Lilly."
-    c ""
 
-# game/episode020.rpy:741
+    c "Devo ancora chiedere ad Aven e Lilly."
+
+
 translate italian ep020_paclerara_nadya_00104951:
 
-    # c "But Eva has agreed to join."
-    c ""
 
-# game/episode020.rpy:742
+    c "Ma Eva ha accettato di unirsi a loro."
+
+
 translate italian ep020_paclerara_nadya_8cb4ffb5:
 
-    # na "Do you think they’ll accept me?"
-    na ""
 
-# game/episode020.rpy:743
+    na "Pensi che mi accetteranno?"
+
+
 translate italian ep020_paclerara_nadya_a7c61d29:
 
-    # c "Of course they would."
-    c ""
 
-# game/episode020.rpy:744
+    c "Certo che lo faranno."
+
+
 translate italian ep020_paclerara_nadya_e9ce243d:
 
-    # c "It’s a new experience for all of us, and some are nervous, but everyone is willing to try."
-    c ""
 
-# game/episode020.rpy:746
+    c "È un'esperienza nuova per tutti noi e alcuni sono nervosi, ma tutti sono disposti a provare."
+
+
 translate italian ep020_paclerara_nadya_319ac3be:
 
-    # na "I didn’t think I’d have such an adventurous love life at my age, but there you go."
-    na ""
 
-# game/episode020.rpy:747
+    na "Non pensavo di avere una vita sentimentale così avventurosa alla mia età, ma è così."
+
+
 translate italian ep020_paclerara_nadya_fe34212d:
 
-    # na "I’d be honoured to join your harem, [p_name_short]."
-    na ""
 
-# game/episode020.rpy:748
+    na "Sarei onorata di unirmi al tuo harem, [p_name_short]."
+
+
 translate italian ep020_paclerara_nadya_6c9638bd:
 
-    # c "Excellent!"
-    c ""
 
-# game/episode020.rpy:749
+    c "Eccellente!"
+
+
 translate italian ep020_paclerara_nadya_6c34762d:
 
-    # c "And I’m honoured such a sexy creature like you is even contemplating such a thing."
-    c ""
 
-# game/episode020.rpy:754
+    c "E io sono onorata che una creatura così sexy come te stia anche solo contemplando una cosa del genere."
+
+
 translate italian ep020_paclerara_nadya_b56e3a27:
 
-    # na "I’ve said before that I’d understand if you'd fall in love with a girl your age."
-    na ""
 
-# game/episode020.rpy:756
+    na "Ti ho già detto che capirei se ti innamorassi di una ragazza della tua età."
+
+
 translate italian ep020_paclerara_nadya_c2d028d9_1:
 
-    # c "Mom, I've just told you I love you, I'm not going to trade you in."
-    c ""
 
-# game/episode020.rpy:758
+    c "Mamma, ti ho appena detto che ti amo, non ho intenzione di scambiarti."
+
+
 translate italian ep020_paclerara_nadya_c0342ef1_1:
 
-    # c "Nadya, I've just told you I love you, I'm not going to trade you in."
-    c ""
 
-# game/episode020.rpy:760
+    c "Nadya, ti ho appena detto che ti amo, non ti cambierò."
+
+
 translate italian ep020_paclerara_nadya_9b452fc8:
 
-    # na "I wish I could kiss you now, but there are too many people here."
-    na ""
 
-# game/episode020.rpy:761
+    na "Vorrei poterti baciare ora, ma ci sono troppe persone qui."
+
+
 translate italian ep020_paclerara_nadya_1104e660:
 
-    # c "I couldn't agree more."
-    c ""
 
-# game/episode020.rpy:762
+    c "Non potrei essere più d'accordo."
+
+
 translate italian ep020_paclerara_nadya_0e7858ee:
 
-    # na "Hopefully we'll get another chance."
-    na ""
 
-# game/episode020.rpy:763
+    na "Speriamo di avere un'altra possibilità."
+
+
 translate italian ep020_paclerara_nadya_ac030318:
 
-    # c "I sure hope so."
-    c ""
 
-# game/episode020.rpy:765
+    c "Lo spero proprio."
+
+
 translate italian ep020_paclerara_nadya_6095777f:
 
-    # "In the end we settled on an embrace that could easily be construed as something platonic."
-    ""
 
-# game/episode020.rpy:767
+    "Alla fine ci siamo accordati per un abbraccio che potrebbe essere facilmente interpretato come qualcosa di platonico."
+
+
 translate italian ep020_paclerara_nadya_348b5017:
 
-    # c "I love you, mom."
-    c ""
 
-# game/episode020.rpy:769
+    c "Ti voglio bene, mamma."
+
+
 translate italian ep020_paclerara_nadya_0fa351c4:
 
-    # c "I love you, Nadya."
-    c ""
 
-# game/episode020.rpy:770
+    c "Ti voglio bene, Nadya."
+
+
 translate italian ep020_paclerara_nadya_01a60cd4:
 
-    # na "I love you too."
-    na ""
 
-# game/episode020.rpy:777
+    na "Anch'io ti voglio bene."
+
+
 translate italian ep020_paclerara_celine_732a4d40:
 
-    # "Céline just came out of the simulation room as I was inspecting the ship."
-    ""
 
-# game/episode020.rpy:779
+    "Céline è appena uscita dalla sala di simulazione mentre stavo ispezionando la nave."
+
+
 translate italian ep020_paclerara_celine_a6d0a7f7:
 
-    # ce "Oh, [p_name_short], I didn't think anyone would be here."
-    ce ""
 
-# game/episode020.rpy:780
+    ce "Oh, [p_name_short], non pensavo che ci fosse qualcuno qui."
+
+
 translate italian ep020_paclerara_celine_af55fd9d:
 
-    # c "Just doing the rounds."
-    c ""
 
-# game/episode020.rpy:781
+    c "Stavo solo facendo il giro."
+
+
 translate italian ep020_paclerara_celine_bdf4ab87:
 
-    # c "What are you up to?"
-    c ""
 
-# game/episode020.rpy:782
+    c "Cosa stai facendo?"
+
+
 translate italian ep020_paclerara_celine_0a82d5d7:
 
-    # ce "I just completed one of the advanced piloting programs."
-    ce ""
 
-# game/episode020.rpy:783
+    ce "Ho appena completato uno dei programmi di pilotaggio avanzato."
+
+
 translate italian ep020_paclerara_celine_4b8b927f:
 
-    # c "Still learning new things?"
-    c ""
 
-# game/episode020.rpy:785
+    c "Stai ancora imparando cose nuove?"
+
+
 translate italian ep020_paclerara_celine_48573a3c:
 
-    # ce "I sure am, basic flight training at the Academy only covers this much."
-    ce ""
 
-# game/episode020.rpy:786
+    ce "Certo che sì, l'addestramento di volo di base dell'Accademia copre solo questo aspetto."
+
+
 translate italian ep020_paclerara_celine_3f40807f:
 
-    # c "Surely training in a simulation is different from the real thing?"
-    c ""
 
-# game/episode020.rpy:788
+    c "Sicuramente l'addestramento in una simulazione è diverso da quello reale?"
+
+
 translate italian ep020_paclerara_celine_46e4deb6:
 
-    # ce "It is, but it's good enough."
-    ce ""
 
-# game/episode020.rpy:789
+    ce "Lo è, ma è sufficiente."
+
+
 translate italian ep020_paclerara_celine_2bc28e2e:
 
-    # ce "We lack the equipment and manpower to set up the real life challenges for advanced piloting."
-    ce ""
 
-# game/episode020.rpy:791
+    ce "Non abbiamo le attrezzature e la manodopera per organizzare le sfide della vita reale per il pilotaggio avanzato."
+
+
 translate italian ep020_paclerara_celine_a505acbe:
 
-    # ce "So the simulation has to suffice, combined with all the hairy situations we get into while on-board the Bastard."
-    ce ""
 
-# game/episode020.rpy:792
+    ce "Perciò la simulazione deve bastare, insieme a tutte le situazioni spinose in cui ci troviamo a bordo della Bastard."
+
+
 translate italian ep020_paclerara_celine_1d797c50:
 
-    # c "I'm glad you're so dedicated to flying."
-    c ""
 
-# game/episode020.rpy:793
+    c "Sono felice che tu sia così dedito al volo."
+
+
 translate italian ep020_paclerara_celine_06d4874f:
 
-    # c "I wouldn't know what we'd do without you."
-    c ""
 
-# game/episode020.rpy:794
+    c "Non saprei cosa faremmo senza di te."
+
+
 translate italian ep020_paclerara_celine_b6289c37:
 
-    # ce "Relying on the autopilot and hope for the best, no doubt."
-    ce ""
 
-# game/episode020.rpy:795
+    ce "Affidarsi al pilota automatico e sperare per il meglio, senza dubbio."
+
+
 translate italian ep020_paclerara_celine_a99a4c26:
 
-    # c "Fancy a drink?"
-    c ""
 
-# game/episode020.rpy:798
+    c "Ti va di bere qualcosa?"
+
+
 translate italian ep020_paclerara_celine_f783abf2:
 
-    # ce "I'd love one."
-    ce ""
 
-# game/episode020.rpy:799
+    ce "Volentieri."
+
+
 translate italian ep020_paclerara_celine_81016039:
 
-    # ce "Thyia told me there's an engineer coming to inspect at six though, so I'll only have time for one."
-    ce ""
 
-# game/episode020.rpy:801
+    ce "Thyia mi ha detto che c'è un ingegnere che viene a ispezionare alle sei, quindi avrò tempo solo per un drink."
+
+
 translate italian ep020_paclerara_celine_fbc5ea69:
 
-    # "We settled with a drink on the bridge."
-    ""
 
-# game/episode020.rpy:803
+    "Ci siamo accordati per un drink sul ponte."
+
+
 translate italian ep020_paclerara_celine_13c66bad:
 
-    # ce "I'm glad I get to do what I love best."
-    ce ""
 
-# game/episode020.rpy:804
+    ce "Sono felice di poter fare ciò che amo di più."
+
+
 translate italian ep020_paclerara_celine_f745ff6e:
 
-    # c "Heavy drinking with your boyfriend?"
-    c ""
 
-# game/episode020.rpy:805
+    c "Bevi molto con il tuo ragazzo?"
+
+
 translate italian ep020_paclerara_celine_d861e071:
 
-    # ce "That too, but I meant piloting the Bastard."
-    ce ""
 
-# game/episode020.rpy:806
+    ce "Anche quello, ma intendevo pilotare la Bastard."
+
+
 translate italian ep020_paclerara_celine_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode020.rpy:807
+    c "Giusto."
+
+
 translate italian ep020_paclerara_celine_b4c003b0:
 
-    # ce "Don't make that face, you know I'm over the moon about us."
-    ce ""
 
-# game/episode020.rpy:810
+    ce "Non fare quella faccia, sai che sono al settimo cielo per noi due."
+
+
 translate italian ep020_paclerara_celine_bdd88e2a:
 
-    # ce "Us trying for a baby, the many nights we've spent together."
-    ce ""
 
-# game/episode020.rpy:812
+    ce "Il fatto che stiamo cercando di avere un bambino, le tante notti che abbiamo trascorso insieme."
+
+
 translate italian ep020_paclerara_celine_259a74a3:
 
-    # ce "The many nights we've spent together."
-    ce ""
 
-# game/episode020.rpy:813
+    ce "Le tante notti che abbiamo passato insieme."
+
+
 translate italian ep020_paclerara_celine_201ff0a8:
 
-    # ce "And I'm so excited for the nights still to come."
-    ce ""
 
-# game/episode020.rpy:815
+    ce "E sono così eccitata per le notti che devono ancora venire."
+
+
 translate italian ep020_paclerara_celine_db5dc20d:
 
-    # ce "I wish you would fuck me right here."
-    ce ""
 
-# game/episode020.rpy:816
+    ce "Vorrei che mi scopassi proprio qui."
+
+
 translate italian ep020_paclerara_celine_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode020.rpy:817
+    c "Anch'io."
+
+
 translate italian ep020_paclerara_celine_9e90fc7d:
 
-    # c "Why don't we forget all about this drink and have at it?"
-    c ""
 
-# game/episode020.rpy:819
+    c "Perché non ci dimentichiamo di questo drink e ci diamo dentro?"
+
+
 translate italian ep020_paclerara_celine_5f37f598:
 
-    # ce "That engineer will be arriving any minute."
-    ce ""
 
-# game/episode020.rpy:820
+    ce "L'ingegnere arriverà a momenti."
+
+
 translate italian ep020_paclerara_celine_2ec289f2:
 
-    # c "Damn, you're right."
-    c ""
 
-# game/episode020.rpy:821
+    c "Accidenti, hai ragione."
+
+
 translate italian ep020_paclerara_celine_7f4d53f1:
 
-    # c "I guess Thyia won't be too happy if we blew him off."
-    c ""
 
-# game/episode020.rpy:823
+    c "Immagino che Thyia non sarà molto contenta se gli diamo buca."
+
+
 translate italian ep020_paclerara_celine_ec92d0c1:
 
-    # ce "Considering the trouble she went to booking an appointment and the amount of haggling, I would say she'd be furious."
-    ce ""
 
-# game/episode020.rpy:824
+    ce "Considerando la fatica che ha fatto per prenotare un appuntamento e la quantità di contrattazioni, direi che sarebbe furiosa."
+
+
 translate italian ep020_paclerara_celine_a323e7d7:
 
-    # c "Better not risk it then."
-    c ""
 
-# game/episode020.rpy:825
+    c "Meglio non rischiare allora."
+
+
 translate italian ep020_paclerara_celine_f3def8cd:
 
-    # c "Shall I pour you another one?"
-    c ""
 
-# game/episode020.rpy:827
+    c "Te ne verso un altro?"
+
+
 translate italian ep020_paclerara_celine_2cf1245d:
 
-    # ce "A half one for me, please."
-    ce ""
 
-# game/episode020.rpy:842
+    ce "Mezzo bicchiere per me, per favore."
+
+
 translate italian ep020_paclerara_celine_df7c3f30:
 
-    # c "I was wondering, Céline, how adventurous are you?"
-    c ""
 
-# game/episode020.rpy:844
+    c "Mi chiedevo, Céline, quanto sei avventurosa?"
+
+
 translate italian ep020_paclerara_celine_55c327e3:
 
-    # ce "You know I don't mind experimenting."
-    ce ""
 
-# game/episode020.rpy:845
+    ce "Sai che non mi dispiace sperimentare."
+
+
 translate italian ep020_paclerara_celine_edacab84:
 
-    # c "I do know that, you can be downright filthy."
-    c ""
 
-# game/episode020.rpy:847
+    c "So che puoi essere davvero sporcacciona."
+
+
 translate italian ep020_paclerara_celine_3b9d1ae1:
 
-    # ce "Look who’s talking, Mr. Eagerness himself!"
-    ce ""
 
-# game/episode020.rpy:848
+    ce "Guarda un po' chi parla, Mr. Eagerness in persona!"
+
+
 translate italian ep020_paclerara_celine_8ae1a8bb:
 
-    # c "Alright, I’ll admit to one or two deviances."
-    c ""
 
-# game/episode020.rpy:849
+    c "Va bene, ammetto che ci sono un paio di deviazioni."
+
+
 translate italian ep020_paclerara_celine_0de8c465:
 
-    # c "I realize though we haven't really spoken about being exclusive..."
-    c ""
 
-# game/episode020.rpy:851
+    c "Mi rendo conto però che non abbiamo mai parlato di essere esclusivi..."
+
+
 translate italian ep020_paclerara_celine_a48e618b:
 
-    # ce "Oh...{w} I assumed...{w} I mean, I'm not seeing anyone else."
-    ce ""
 
-# game/episode020.rpy:852
+    ce "Oh...{w} Immaginavo...{w} Voglio dire, non mi vedo con nessun'altra."
+
+
 translate italian ep020_paclerara_celine_cd6271d7:
 
-    # c "Would you be interested in doing so?"
-    c ""
 
-# game/episode020.rpy:853
+    c "Saresti interessato a farlo?"
+
+
 translate italian ep020_paclerara_celine_5c791c3c:
 
-    # ce "Not without you."
-    ce ""
 
-# game/episode020.rpy:854
+    ce "Non senza di te."
+
+
 translate italian ep020_paclerara_celine_76b039e6:
 
-    # c "But a threesome?"
-    c ""
 
-# game/episode020.rpy:856
+    c "Ma una cosa a tre?"
+
+
 translate italian ep020_paclerara_celine_ce1b2835:
 
-    # ce "Maybe, with the right person."
-    ce ""
 
-# game/episode020.rpy:857
+    ce "Forse, con la persona giusta."
+
+
 translate italian ep020_paclerara_celine_5d32833c:
 
-    # c "Could that person be a crew member?"
-    c ""
 
-# game/episode020.rpy:858
+    c "Potrebbe essere un membro dell'equipaggio?"
+
+
 translate italian ep020_paclerara_celine_9a889cbc:
 
-    # ce "What, do you already have someone in mind?"
-    ce ""
 
-# game/episode020.rpy:860
+    ce "Che c'è, hai già in mente qualcuno?"
+
+
 translate italian ep020_paclerara_celine_937f8d3a:
 
-    # ce "Half of the crew are your family, so..."
-    ce ""
 
-# game/episode020.rpy:861
+    ce "Metà dell'equipaggio è la tua famiglia, quindi..."
+
+
 translate italian ep020_paclerara_celine_fb853be6:
 
-    # c "So?"
-    c ""
 
-# game/episode020.rpy:863
+    c "Quindi?"
+
+
 translate italian ep020_paclerara_celine_6acfe146:
 
-    # ce "You're not seriously suggesting getting intimate with one of your sisters?"
-    ce ""
 
-# game/episode020.rpy:864
+    ce "Non starai seriamente suggerendo di entrare in intimità con una delle tue sorelle?"
+
+
 translate italian ep020_paclerara_celine_c2e82ca2:
 
-    # ce "Even the slightest thought in that direction about me and Kit fills me with horror."
-    ce ""
 
-# game/episode020.rpy:865
+    ce "Anche il solo pensiero di me e Kit mi riempie di orrore."
+
+
 translate italian ep020_paclerara_celine_8047e6d4:
 
-    # ce "Surely it's the same with you and Eva, or you and Lilly?"
-    ce ""
 
-# game/episode020.rpy:867
+    ce "Sicuramente è lo stesso per te ed Eva, o per te e Lilly?"
+
+
 translate italian ep020_paclerara_celine_cb23d461:
 
-    # ce "You've known half of the crew forever, so..."
-    ce ""
 
-# game/episode020.rpy:868
+    ce "Conosci metà dell'equipaggio da sempre, quindi..."
+
+
 translate italian ep020_paclerara_celine_5c50beb9:
 
-    # c "So, I've known you for almost just as long?"
-    c ""
 
-# game/episode020.rpy:870
+    c "Quindi, io ti conosco da quasi altrettanto tempo?"
+
+
 translate italian ep020_paclerara_celine_621e65e8:
 
-    # ce "You're not seriously suggesting getting intimate with Eva or Lilly?"
-    ce ""
 
-# game/episode020.rpy:871
+    ce "Non starai mica suggerendo di entrare in intimità con Eva o Lilly?"
+
+
 translate italian ep020_paclerara_celine_429243d2:
 
-    # c "Not quite, no."
-    c ""
 
-# game/episode020.rpy:872
+    c "Non proprio, no."
+
+
 translate italian ep020_paclerara_celine_22790458:
 
-    # ce "[p_name], seriously, you're pulling my leg, aren't you?"
-    ce ""
 
-# game/episode020.rpy:873
+    ce "[p_name], seriamente, mi stai prendendo in giro, vero?"
+
+
 translate italian ep020_paclerara_celine_1069ee78:
 
-    # c "Would it disgust you if I said I wasn't?"
-    c ""
 
-# game/episode020.rpy:874
+    c "Ti disgusterebbe se dicessi che non è così?"
+
+
 translate italian ep020_paclerara_celine_e0ae3e01:
 
-    # ce "Come on, you can't be serious."
-    ce ""
 
-# game/episode020.rpy:878
+    ce "Dai, non puoi dire sul serio."
+
+
 translate italian ep020_paclerara_celine_863cabd4:
 
-    # c "I'd like to think love and lust know no bounds."
-    c ""
 
-# game/episode020.rpy:881
+    c "Mi piace pensare che l'amore e la lussuria non conoscano limiti."
+
+
 translate italian ep020_paclerara_celine_c77d7634:
 
-    # c "So if loving a sister or mother feels right, why not act on it?"
-    c ""
 
-# game/episode020.rpy:883
+    c "Quindi, se amare una sorella o una madre fa sentire bene, perché non agire di conseguenza?"
+
+
 translate italian ep020_paclerara_celine_30d10e68:
 
-    # c "So if loving a sister feels right, why not act on it?"
-    c ""
 
-# game/episode020.rpy:885
+    c "Quindi, se amare una sorella fa sentire bene, perché non agire di conseguenza?"
+
+
 translate italian ep020_paclerara_celine_f928c7d9:
 
-    # c "So if loving a mother feels right, why not act on it?"
-    c ""
 
-# game/episode020.rpy:887
+    c "Quindi, se amare una madre fa sentire bene, perché non agire di conseguenza?"
+
+
 translate italian ep020_paclerara_celine_7056defb:
 
-    # c "So if loving someone feels right, why not act on it?"
-    c ""
 
-# game/episode020.rpy:889
+    c "Quindi, se amare qualcuno fa sentire bene, perché non agire di conseguenza?"
+
+
 translate italian ep020_paclerara_celine_f2e578da:
 
-    # ce "Now you're talking about love."
-    ce ""
 
-# game/episode020.rpy:890
+    ce "Ora stai parlando di amore."
+
+
 translate italian ep020_paclerara_celine_64781028:
 
-    # ce "Wasn’t this about sex?"
-    ce ""
 
-# game/episode020.rpy:891
+    ce "Non si trattava di sesso?"
+
+
 translate italian ep020_paclerara_celine_31018f26:
 
-    # c "Yes, romantic love and all that entails."
-    c ""
 
-# game/episode020.rpy:893
+    c "Sì, l'amore romantico e tutto ciò che comporta."
+
+
 translate italian ep020_paclerara_celine_a5e68479:
 
-    # ce "Like having sex with your own sister or mother?"
-    ce ""
 
-# game/episode020.rpy:895
+    ce "Come fare sesso con tua sorella o tua madre?"
+
+
 translate italian ep020_paclerara_celine_6759593b:
 
-    # ce "Like having sex with some of your best friends?"
-    ce ""
 
-# game/episode020.rpy:896
+    ce "Come fare sesso con alcuni dei tuoi migliori amici?"
+
+
 translate italian ep020_paclerara_celine_c369e8b5:
 
-    # c "If the attraction is mutual, yes."
-    c ""
 
-# game/episode020.rpy:897
+    c "Se l'attrazione è reciproca, sì."
+
+
 translate italian ep020_paclerara_celine_1a992fab:
 
-    # ce "You're not serious."
-    ce ""
 
-# game/episode020.rpy:898
+    ce "Non è una cosa seria."
+
+
 translate italian ep020_paclerara_celine_30010a29:
 
-    # c "All I'm asking is to keep an open mind."
-    c ""
 
-# game/episode020.rpy:900
+    c "Ti chiedo solo di avere una mente aperta."
+
+
 translate italian ep020_paclerara_celine_19ae647a:
 
-    # ce "You asked me if I was adventurous, but I didn't realize how much..."
-    ce ""
 
-# game/episode020.rpy:901
+    ce "Mi hai chiesto se sono avventurosa, ma non mi ero resa conto di quanto..."
+
+
 translate italian ep020_paclerara_celine_d017d714:
 
-    # "Right at that moment, the engineer announced his arrival."
-    ""
 
-# game/episode020.rpy:903
+    "Proprio in quel momento, l'ingegnere annunciò il suo arrivo."
+
+
 translate italian ep020_paclerara_celine_c1b7bfd0:
 
-    # ce "Damn, his timing couldn't be worse."
-    ce ""
 
-# game/episode020.rpy:904
+    ce "Accidenti, il suo tempismo non poteva essere peggiore."
+
+
 translate italian ep020_paclerara_celine_1c0ab15e:
 
-    # ce "The inspection is bound to take several hours."
-    ce ""
 
-# game/episode020.rpy:906
+    ce "L'ispezione durerà sicuramente diverse ore."
+
+
 translate italian ep020_paclerara_celine_95df9d5e:
 
-    # ce "Can we continue this conversation later?"
-    ce ""
 
-# game/episode020.rpy:907
+    ce "Possiamo continuare questa conversazione più tardi?"
+
+
 translate italian ep020_paclerara_celine_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode020.rpy:909
+    c "Certo."
+
+
 translate italian ep020_paclerara_celine_d169f1d7:
 
-    # ce "Good, I'll see you soon then."
-    ce ""
 
-# game/episode020.rpy:911
+    ce "Bene, allora ci vediamo presto."
+
+
 translate italian ep020_paclerara_celine_a39b0e36:
 
-    # "Céline went to deal with the engineer and the ship's inspection."
-    ""
 
-# game/episode020.rpy:912
+    "Céline andò a occuparsi dell'ingegnere e dell'ispezione della nave."
+
+
 translate italian ep020_paclerara_celine_6577c31f:
 
-    # "She seemed confused after our talk, but hadn't turned hostile or seemed disgusted."
-    ""
 
-# game/episode020.rpy:913
+    "Sembrava confusa dopo la nostra chiacchierata, ma non era diventata ostile o sembrava disgustata."
+
+
 translate italian ep020_paclerara_celine_62b73551:
 
-    # "Only time would tell what Céline thought of what I had proposed."
-    ""
 
-# game/episode020.rpy:916
+    "Solo il tempo avrebbe detto cosa pensava Céline di ciò che le avevo proposto."
+
+
 translate italian ep020_paclerara_celine_46b658c7:
 
-    # c "Had you fooled for a second, didn't I?"
-    c ""
 
-# game/episode020.rpy:918
+    c "Ti avevo ingannato per un attimo, vero?"
+
+
 translate italian ep020_paclerara_celine_d3a32c66:
 
-    # ce "Fuck, it must be the alcohol getting to my head."
-    ce ""
 
-# game/episode020.rpy:919
+    ce "Cazzo, dev'essere l'alcol che mi ha dato alla testa."
+
+
 translate italian ep020_paclerara_celine_343085ff:
 
-    # "Céline and I laughed off the improper turn the conversation had taken and continued with some lighthearted banter."
-    ""
 
-# game/episode020.rpy:922
+    "Io e Céline ridemmo della piega impropria che aveva preso la conversazione e continuammo con qualche battuta spensierata."
+
+
 translate italian ep020_paclerara_celine_9cb206c4:
 
-    # "We'd nearly finished our drinks when the engineer announced her arrival."
-    ""
 
-# game/episode020.rpy:924
+    "Avevamo quasi finito i nostri drink quando l'ingegnere annunciò il suo arrivo."
+
+
 translate italian ep020_paclerara_celine_c0ecb5e7:
 
-    # "After promising to get together real soon, I left Céline to deal with the ship inspection."
-    ""
 
-# game/episode020.rpy:926
+    "Dopo aver promesso di incontrarci presto, lasciai Céline a occuparsi dell'ispezione della nave."
+
+
 translate italian ep020_paclerara_celine_9cb206c4_1:
 
-    # "We'd nearly finished our drinks when the engineer announced her arrival."
-    ""
 
-# game/episode020.rpy:928
+    "Avevamo quasi finito di bere quando l'ingegnere annunciò il suo arrivo."
+
+
 translate italian ep020_paclerara_celine_c0ecb5e7_1:
 
-    # "After promising to get together real soon, I left Céline to deal with the ship inspection."
-    ""
 
-# game/episode020.rpy:931
+    "Dopo aver promesso di incontrarci molto presto, ho lasciato Céline a occuparsi dell'ispezione della nave."
+
+
 translate italian ep020_paclerara_celine_c2662834:
 
-    # ce "I'd love one, but there’s an engineer coming to inspect the Bastard."
-    ce ""
 
-# game/episode020.rpy:932
+    ce "Mi piacerebbe averne uno, ma sta arrivando un ingegnere per ispezionare la Bastard."
+
+
 translate italian ep020_paclerara_celine_23ac0f07:
 
-    # ce "Thyia said he’ll be here around six, so I’m afraid I don’t have the time."
-    ce ""
 
-# game/episode020.rpy:933
+    ce "Thyia ha detto che sarà qui verso le sei, quindi temo di non avere tempo."
+
+
 translate italian ep020_paclerara_celine_88169468:
 
-    # c "No problem, I’ll leave you to your duties."
-    c ""
 
-# game/episode020.rpy:934
+    c "Non c'è problema, ti lascio ai tuoi compiti."
+
+
 translate italian ep020_paclerara_celine_568c1c76:
 
-    # c "Bye Céline."
-    c ""
 
-# game/episode020.rpy:936
+    c "Ciao Céline."
+
+
 translate italian ep020_paclerara_celine_b2c8e445:
 
-    # ce "Bye [p_name_short]."
-    ce ""
 
-# game/episode020.rpy:943
+    ce "Ciao [p_name_short]."
+
+
 translate italian ep020_paclerara_thyia_e221eb3a:
 
-    # c "Is your robot finally behaving?"
-    c ""
 
-# game/episode020.rpy:945
+    c "Il tuo robot si sta finalmente comportando bene?"
+
+
 translate italian ep020_paclerara_thyia_2688a8f0:
 
-    # th "Yes, I think so!"
-    th ""
 
-# game/episode020.rpy:946
+    th "Sì, credo di sì!"
+
+
 translate italian ep020_paclerara_thyia_ca4304f0:
 
-    # th "I don’t get hit in the shins as much and it follows my commands almost perfectly."
-    th ""
 
-# game/episode020.rpy:947
+    th "Non mi colpisce più negli stinchi e segue i miei comandi quasi perfettamente."
+
+
 translate italian ep020_paclerara_thyia_60785c8a:
 
-    # c "Almost?"
-    c ""
 
-# game/episode020.rpy:948
+    c "Quasi?"
+
+
 translate italian ep020_paclerara_thyia_87cfb681:
 
-    # th "There’s always room for improvement."
-    th ""
 
-# game/episode020.rpy:949
+    th "C'è sempre spazio per i miglioramenti."
+
+
 translate italian ep020_paclerara_thyia_437ee529:
 
-    # c "I wanted to ask you something."
-    c ""
 
-# game/episode020.rpy:951
+    c "Volevo chiederti una cosa."
+
+
 translate italian ep020_paclerara_thyia_005ebc9a:
 
-    # th "Shoot."
-    th ""
 
-# game/episode020.rpy:952
+    th "Spara."
+
+
 translate italian ep020_paclerara_thyia_9640f32d:
 
-    # c "Nadya already talked to you about Petrarch, didn’t she?"
-    c ""
 
-# game/episode020.rpy:953
+    c "Nadya ti ha già parlato di Petrarca, vero?"
+
+
 translate italian ep020_paclerara_thyia_53b31865:
 
-    # th "She did, yes."
-    th ""
 
-# game/episode020.rpy:956
+    th "Sì, l'ha fatto."
+
+
 translate italian ep020_paclerara_thyia_0fcd8146:
 
-    # th "Your sister sure picks the nicest places to go to."
-    th ""
 
-# game/episode020.rpy:958
+    th "Tua sorella sceglie proprio i posti più belli dove andare."
+
+
 translate italian ep020_paclerara_thyia_e789a17d:
 
-    # th "Eva sure picks the nicest places to go to."
-    th ""
 
-# game/episode020.rpy:959
+    th "Eva sceglie sicuramente i posti più belli in cui andare."
+
+
 translate italian ep020_paclerara_thyia_7de99d20:
 
-    # c "She sure has a knack for finding unconventional locales."
-    c ""
 
-# game/episode020.rpy:960
+    c "Ha una certa abilità nel trovare luoghi non convenzionali."
+
+
 translate italian ep020_paclerara_thyia_af7a9215:
 
-    # c "But I understood from Nadya that Petrarch and its environs are a hellhole?"
-    c ""
 
-# game/episode020.rpy:962
+    c "Ma ho capito da Nadya che Petrarca e i suoi dintorni sono un inferno?"
+
+
 translate italian ep020_paclerara_thyia_7151a99f:
 
-    # th "Yes, there are multiple ongoing wars for starters, some of them have been going on for decades."
-    th ""
 
-# game/episode020.rpy:963
+    th "Sì, per cominciare ci sono diverse guerre in corso, alcune delle quali durano da decenni."
+
+
 translate italian ep020_paclerara_thyia_a90fefd7:
 
-    # th "There’s also no clear division between the parties at war."
-    th ""
 
-# game/episode020.rpy:964
+    th "Inoltre, non c'è una chiara divisione tra le parti in guerra."
+
+
 translate italian ep020_paclerara_thyia_6559314d:
 
-    # th "Members of one alliance could well be fighting against each other in another war."
-    th ""
 
-# game/episode020.rpy:965
+    th "I membri di un'alleanza potrebbero benissimo combattere l'uno contro l'altro in un'altra guerra."
+
+
 translate italian ep020_paclerara_thyia_f6585c2f:
 
-    # th "It makes any dealings with the major powers in those systems extremely unreliable."
-    th ""
 
-# game/episode020.rpy:966
+    th "Questo rende estremamente inaffidabili i rapporti con le maggiori potenze di quei sistemi."
+
+
 translate italian ep020_paclerara_thyia_bd680ada:
 
-    # c "This is getting better by the minute."
-    c ""
 
-# game/episode020.rpy:968
+    c "La situazione migliora di minuto in minuto."
+
+
 translate italian ep020_paclerara_thyia_def0fdfb:
 
-    # th "I know."
-    th ""
 
-# game/episode020.rpy:970
+    th "Lo so."
+
+
 translate italian ep020_paclerara_thyia_de27486d:
 
-    # th "Apart from the never-ending wars, there’s a lot of piracy in the area."
-    th ""
 
-# game/episode020.rpy:971
+    th "A parte le guerre senza fine, c'è molta pirateria nell'area."
+
+
 translate italian ep020_paclerara_thyia_44ee2bf2:
 
-    # th "Mostly bands of deserters or just people who’re trying to make a dishonest living in the chaos."
-    th ""
 
-# game/episode020.rpy:972
+    th "Per lo più si tratta di bande di disertori o di persone che cercano di guadagnarsi da vivere in modo disonesto nel caos."
+
+
 translate italian ep020_paclerara_thyia_76863ca7:
 
-    # th "Trade is virtually non-existent, so most of the resources are smuggled in."
-    th ""
 
-# game/episode020.rpy:973
+    th "Il commercio è praticamente inesistente, quindi la maggior parte delle risorse viene introdotta di nascosto."
+
+
 translate italian ep020_paclerara_thyia_a9334afa:
 
-    # c "Have you been there yourself?"
-    c ""
 
-# game/episode020.rpy:975
+    c "Sei stato lì di persona?"
+
+
 translate italian ep020_paclerara_thyia_77eeb55a:
 
-    # th "No, only insane people would visit that cluster of systems and I count myself as being something sane."
-    th ""
 
-# game/episode020.rpy:976
+    th "No, solo i pazzi visiterebbero quell'insieme di sistemi e io mi considero una persona sana di mente."
+
+
 translate italian ep020_paclerara_thyia_5d33c9a9:
 
-    # th "I knew some mercenaries who went to fight there, because the pay is supposedly good."
-    th ""
 
-# game/episode020.rpy:977
+    th "Ho conosciuto alcuni mercenari che sono andati a combattere lì, perché la paga è presumibilmente buona."
+
+
 translate italian ep020_paclerara_thyia_422f372d:
 
-    # c "You have to wonder how those warmongers are still able to pay for their personnel?"
-    c ""
 
-# game/episode020.rpy:978
+    c "C'è da chiedersi come facciano quei guerrafondai a pagare il loro personale."
+
+
 translate italian ep020_paclerara_thyia_a1e4b0fd:
 
-    # th "There’s a wealth of valuable materials to be found."
-    th ""
 
-# game/episode020.rpy:979
+    th "C'è una grande quantità di materiali preziosi da trovare."
+
+
 translate italian ep020_paclerara_thyia_df058bcc:
 
-    # th "Apparently there’s an asteroid belt full of heavy metals near Petrarch which would be able to fuel multiple wars for centuries."
-    th ""
 
-# game/episode020.rpy:980
+    th "A quanto pare, nei pressi di Petrarca c'è una cintura di asteroidi piena di metalli pesanti che potrebbero alimentare guerre multiple per secoli."
+
+
 translate italian ep020_paclerara_thyia_c5cc33fc:
 
-    # c "Despite having to be insane to even consider going there, do you see an in for us?"
-    c ""
 
-# game/episode020.rpy:982
+    c "Nonostante si debba essere pazzi anche solo per prendere in considerazione l'idea di andarci, vedi un'opportunità per noi?"
+
+
 translate italian ep020_paclerara_thyia_3d61979d:
 
-    # th "You can forget about contacting the governments and war factions, they’re only interested in enlisting new recruits."
-    th ""
 
-# game/episode020.rpy:983
+    th "Puoi scordarti di contattare i governi e le fazioni di guerra, sono interessati solo ad arruolare nuove reclute."
+
+
 translate italian ep020_paclerara_thyia_93ecf089:
 
-    # c "I take it enlisting isn’t an option?"
-    c ""
 
-# game/episode020.rpy:985
-translate italian ep020_paclerara_thyia_c4e2be81:
+    c "Immagino che arruolarsi non sia un'opzione?"
 
-    # th "Not unless you want your life expectancy to crash to ten percent."
-    th ""
 
-# game/episode020.rpy:986
+translate italian ep020_paclerara_thyia_0b6e42cb:
+
+
+    th "Non se vuoi che la tua aspettativa di vita crolli al 10 percento."
+
+
 translate italian ep020_paclerara_thyia_9a60c2bb:
 
-    # c "Nope."
-    c ""
 
-# game/episode020.rpy:988
+    c "No, non è possibile."
+
+
 translate italian ep020_paclerara_thyia_cd4a2043:
 
-    # th "Setting up a meet with one of the pirate crews might be an option."
-    th ""
 
-# game/episode020.rpy:989
+    th "Organizzare un incontro con una delle ciurme di pirati potrebbe essere un'opzione."
+
+
 translate italian ep020_paclerara_thyia_82de8e41:
 
-    # th "Not the deserter crews though, they’re mostly interested in rape and pillage."
-    th ""
 
-# game/episode020.rpy:990
+    th "Non le ciurme di disertori, però: a loro interessano soprattutto lo stupro e il saccheggio."
+
+
 translate italian ep020_paclerara_thyia_72f35832:
 
-    # c "Yes, those wholesome pastimes."
-    c ""
 
-# game/episode020.rpy:991
+    c "Sì, quei sani passatempi."
+
+
 translate italian ep020_paclerara_thyia_9a727b7e:
 
-    # c "What do you suggest then?"
-    c ""
 
-# game/episode020.rpy:993
+    c "Cosa suggerisci allora?"
+
+
 translate italian ep020_paclerara_thyia_b655c54c:
 
-    # th "I’d approach one of the regular pirate outfits, consisting of people just trying to make a living."
-    th ""
 
-# game/episode020.rpy:994
+    th "Mi rivolgerei a uno dei gruppi di pirati regolari, composti da persone che cercano solo di guadagnarsi da vivere."
+
+
 translate italian ep020_paclerara_thyia_4b31b69c:
 
-    # c "That makes sense."
-    c ""
 
-# game/episode020.rpy:995
+    c "Questo ha senso."
+
+
 translate italian ep020_paclerara_thyia_c6a79218:
 
-    # c "No guarantee that they won’t stab us in the back just as easily as those ex-military types though."
-    c ""
 
-# game/episode020.rpy:997
+    c "Non c'è garanzia che non ci pugnalino alle spalle con la stessa facilità di quegli ex militari, però."
+
+
 translate italian ep020_paclerara_thyia_147b23cf:
 
-    # th "Absolutely none."
-    th ""
 
-# game/episode020.rpy:999
+    th "Assolutamente nessuna."
+
+
 translate italian ep020_paclerara_thyia_1bf191a8:
 
-    # th "The only thing you can hope for is that they don’t immediately shoot to kill, like those deserter gangs are wont to do."
-    th ""
 
-# game/episode020.rpy:1000
+    th "L'unica cosa che puoi sperare è che non sparino immediatamente per uccidere, come sono solite fare le bande di disertori."
+
+
 translate italian ep020_paclerara_thyia_ffbdf5b3:
 
-    # c "Do you have any contacts that might give us a lead with one of those crews?"
-    c ""
 
-# game/episode020.rpy:1002
+    c "Hai qualche contatto che potrebbe darci una pista con una di queste bande?"
+
+
 translate italian ep020_paclerara_thyia_a585f994:
 
-    # th "I can ask around, but I don’t think much will come of it."
-    th ""
 
-# game/episode020.rpy:1003
+    th "Posso chiedere in giro, ma non credo che ne verrà fuori molto."
+
+
 translate italian ep020_paclerara_thyia_60d21e4c:
 
-    # th "I mean, I ran with a rather wild crew for a while, but not wild enough to have anything to do with what’s going on in Držić."
-    th ""
 
-# game/episode020.rpy:1004
+    th "Voglio dire, per un po' ho fatto parte di una banda piuttosto selvaggia, ma non abbastanza da avere a che fare con quello che sta succedendo a Držić."
+
+
 translate italian ep020_paclerara_thyia_cf9a4816:
 
-    # c "Céline is asking Jade to do some digging."
-    c ""
 
-# game/episode020.rpy:1006
+    c "Céline chiede a Jade di fare delle ricerche."
+
+
 translate italian ep020_paclerara_thyia_f03fb6e8:
 
-    # th "Not a bad idea."
-    th ""
 
-# game/episode020.rpy:1007
+    th "Non è una cattiva idea."
+
+
 translate italian ep020_paclerara_thyia_1a21cc97:
 
-    # th "There are probably lots of opportunities for bounty hunting, that might provide a lead."
-    th ""
 
-# game/episode020.rpy:1008
+    th "Probabilmente ci sono molte opportunità per la caccia alle taglie, che potrebbero fornire una pista."
+
+
 translate italian ep020_paclerara_thyia_6eeb6a30:
 
-    # c "Let’s hope so."
-    c ""
 
-# game/episode020.rpy:1009
+    c "Speriamo bene."
+
+
 translate italian ep020_paclerara_thyia_7c99f0f4:
 
-    # c "I’ll let you know as soon as Jade has found something."
-    c ""
 
-# game/episode020.rpy:1011
+    c "Ti farò sapere non appena Jade avrà trovato qualcosa."
+
+
 translate italian ep020_paclerara_thyia_4ce91e2f:
 
-    # th "Sure."
-    th ""
 
-# game/episode020.rpy:1012
+    th "Certo."
+
+
 translate italian ep020_paclerara_thyia_5c27b13e:
 
-    # th "I’ll message you if anything comes on my end."
-    th ""
 
-# game/episode020.rpy:1017
+    th "Ti manderò un messaggio se ci saranno novità da parte mia."
+
+
 translate italian ep020_paclerara_kit_3bbe392f:
 
-    # "I hadn’t seen Kit for quite a few days."
-    ""
 
-# game/episode020.rpy:1018
+    "Non vedevo Kit da qualche giorno."
+
+
 translate italian ep020_paclerara_kit_5015d046:
 
-    # "He hadn’t responded to the message about Paclerara that were sent to him earlier as well."
-    ""
 
-# game/episode020.rpy:1019
+    "Non aveva risposto al messaggio su Paclerara che gli era stato inviato in precedenza."
+
+
 translate italian ep020_paclerara_kit_0a1b9c45:
 
-    # "Kit was uncharacteristically slow in replying to any messages in general, so I went to check out what was up."
-    ""
 
-# game/episode020.rpy:1020
+    "Kit era insolitamente lento nel rispondere ai messaggi in generale, così sono andato a controllare cosa stesse succedendo."
+
+
 translate italian ep020_paclerara_kit_a4876a88:
 
-    # "Nobody answered the door after three of my knocks."
-    ""
 
-# game/episode020.rpy:1021
+    "Nessuno ha risposto alla porta dopo tre bussate."
+
+
 translate italian ep020_paclerara_kit_9913c713:
 
-    # "I listened at the door and hear the unmistakable sound of two people in the throes of passion."
-    ""
 
-# game/episode020.rpy:1022
+    "Ho ascoltato la porta e ho sentito il suono inconfondibile di due persone in preda alla passione."
+
+
 translate italian ep020_paclerara_kit_58c071f7:
 
-    # "This called for some heavier methods, so I repeatedly applied my fist to the door."
-    ""
 
-# game/episode020.rpy:1024
+    "Questo richiedeva metodi più pesanti, quindi ho ripetuto i pugni sulla porta."
+
+
 translate italian ep020_paclerara_kit_83bb901f:
 
-    # c "Yo Kit, lover man, open up."
-    c ""
 
-# game/episode020.rpy:1025
+    c "Yo Kit, amante, apri."
+
+
 translate italian ep020_paclerara_kit_a1f9bdf6:
 
-    # "It took Kit a while to reach the door."
-    ""
 
-# game/episode020.rpy:1027
+    "Kit ci mise un po' a raggiungere la porta."
+
+
 translate italian ep020_paclerara_kit_633713bf:
 
-    # ki "Oh, [p_name_short]."
-    ki ""
 
-# game/episode020.rpy:1028
+    ki "Oh, [p_name_short]."
+
+
 translate italian ep020_paclerara_kit_02e79689:
 
-    # c "Having fun in there?"
-    c ""
 
-# game/episode020.rpy:1031
+    c "Ti stai divertendo lì dentro?"
+
+
 translate italian ep020_paclerara_kit_a8d8e52b:
 
-    # woman "Singleton desires the rigid appendage to return to the berth."
-    woman ""
 
-# game/episode020.rpy:1032
+    woman "Singleton desidera che l'appendice rigida torni in cuccetta."
+
+
 translate italian ep020_paclerara_kit_d973fd42:
 
-    # ki "In a minute!"
-    ki ""
 
-# game/episode020.rpy:1033
+    ki "Tra un minuto!"
+
+
 translate italian ep020_paclerara_kit_c5d5af5b:
 
-    # c "You’re still fucking that scary-looking blob?"
-    c ""
 
-# game/episode020.rpy:1035
+    c "Ti stai ancora scopando quella massa dall'aspetto spaventoso?"
+
+
 translate italian ep020_paclerara_kit_1434eafa:
 
-    # ki "It’s the best pussy I’ve had in a long time."
-    ki ""
 
-# game/episode020.rpy:1036
+    ki "È la migliore figa che ho avuto da molto tempo a questa parte."
+
+
 translate italian ep020_paclerara_kit_ad484db6:
 
-    # ki "Well, not sure if you can call it a pussy, but you know what I mean."
-    ki ""
 
-# game/episode020.rpy:1037
+    ki "Beh, non sono sicuro che si possa chiamare figa, ma sai cosa intendo."
+
+
 translate italian ep020_paclerara_kit_2111e71d:
 
-    # c "I do, but at the same time I don’t want to."
-    c ""
 
-# game/episode020.rpy:1038
+    c "Lo so, ma allo stesso tempo non voglio farlo."
+
+
 translate italian ep020_paclerara_kit_78bcfc81:
 
-    # c "You haven’t responded to any of our messages and I haven’t seen you around."
-    c ""
 
-# game/episode020.rpy:1040
+    c "Non hai risposto a nessuno dei nostri messaggi e non ti ho visto in giro."
+
+
 translate italian ep020_paclerara_kit_deca5e35:
 
-    # ki "I’ve read some of them, I’ve been busy."
-    ki ""
 
-# game/episode020.rpy:1041
+    ki "Ne ho letti alcuni, ma ho avuto da fare."
+
+
 translate italian ep020_paclerara_kit_b85732f3:
 
-    # c "So you really have been fucking this not-quite-a-pussy for the past few days?"
-    c ""
 
-# game/episode020.rpy:1043
+    c "Quindi hai davvero scopato con questa non proprio figa negli ultimi giorni?"
+
+
 translate italian ep020_paclerara_kit_00d09aa6:
 
-    # ki "Pllxytlxx is insatiable, and so am I."
-    ki ""
 
-# game/episode020.rpy:1044
+    ki "Pllxytlxx è insaziabile e anch'io lo sono."
+
+
 translate italian ep020_paclerara_kit_933aa319:
 
-    # c "Well, as long as you two don’t get married..."
-    c ""
 
-# game/episode020.rpy:1045
+    c "Beh, finché non vi sposate..."
+
+
 translate italian ep020_paclerara_kit_d2457df7:
 
-    # c "The ship is full enough as it is."
-    c ""
 
-# game/episode020.rpy:1047
+    c "La nave è già abbastanza piena così."
+
+
 translate italian ep020_paclerara_kit_27bdbc08:
 
-    # ki "I know."
-    ki ""
 
-# game/episode020.rpy:1048
+    ki "Lo so."
+
+
 translate italian ep020_paclerara_kit_e2eac783:
 
-    # ki "Just enjoying myself for the duration of our stay."
-    ki ""
 
-# game/episode020.rpy:1049
+    ki "Mi sto solo divertendo per la durata del nostro soggiorno."
+
+
 translate italian ep020_paclerara_kit_564a7470:
 
-    # c "We’ve made some progress on the prophecy front."
-    c ""
 
-# game/episode020.rpy:1050
+    c "Abbiamo fatto dei progressi sul fronte della profezia."
+
+
 translate italian ep020_paclerara_kit_a86e0f2a:
 
-    # ki "Oh, good."
-    ki ""
 
-# game/episode020.rpy:1051
+    ki "Oh, bene."
+
+
 translate italian ep020_paclerara_kit_3dfcf173:
 
-    # c "Just read the messages that were sent to you in between sessions, or whatever."
-    c ""
 
-# game/episode020.rpy:1052
+    c "Leggi i messaggi che ti sono stati inviati tra una sessione e l'altra, o qualsiasi altra cosa."
+
+
 translate italian ep020_paclerara_kit_f3ba7290:
 
-    # ki "I will."
-    ki ""
 
-# game/episode020.rpy:1054
+    ki "Lo farò."
+
+
 translate italian ep020_paclerara_kit_d0c8b827:
 
-    # c "Oh, and I want to call a meeting about Thim."
-    c ""
 
-# game/episode020.rpy:1055
+    c "Oh, e voglio convocare una riunione su Thim."
+
+
 translate italian ep020_paclerara_kit_e34d54d4:
 
-    # ki "I’ll be there."
-    ki ""
 
-# game/episode020.rpy:1056
+    ki "Ci sarò."
+
+
 translate italian ep020_paclerara_kit_2b9f897e:
 
-    # c "Well, I’ll leave you to it then."
-    c ""
 
-# game/episode020.rpy:1057
+    c "Beh, allora ti lascio fare."
+
+
 translate italian ep020_paclerara_kit_1aa4f527:
 
-    # c "Remember we don’t have medical insurance, in case your dick falls off because of over-exertion."
-    c ""
 
-# game/episode020.rpy:1059
+    c "Ricorda che non abbiamo un'assicurazione medica, nel caso in cui il tuo uccello si stacchi a causa di uno sforzo eccessivo."
+
+
 translate italian ep020_paclerara_kit_97ed3740:
 
-    # ki "Pllxytlxx is as a tender lover, especially when it comes to my private parts."
-    ki ""
 
-# game/episode020.rpy:1060
+    ki "Pllxytlxx è un amante tenero, soprattutto quando si tratta delle mie parti intime."
+
+
 translate italian ep020_paclerara_kit_5e467c9e:
 
-    # c "Far too much detail!"
-    c ""
 
-# game/episode020.rpy:1061
+    c "Troppi dettagli!"
+
+
 translate italian ep020_paclerara_kit_760e1211:
 
-    # c "Going now."
-    c ""
 
-# game/episode020.rpy:1063
+    c "Ora vado."
+
+
 translate italian ep020_paclerara_kit_1ecc6b97:
 
-    # ki "See you soon."
-    ki ""
 
-# game/episode020.rpy:1065
+    ki "Ci vediamo presto."
+
+
 translate italian ep020_paclerara_kit_5f350ad0:
 
-    # "And with that Kit closed the door on me."
-    ""
 
-# game/episode020.rpy:1072
+    "E con questo Kit mi chiuse la porta in faccia."
+
+
 translate italian ep020_paclerara_jade_b172b0af:
 
-    # c "Any luck on the Petrarch situation?"
-    c ""
 
-# game/episode020.rpy:1075
+    c "Hai avuto fortuna con il Petrarca?"
+
+
 translate italian ep020_paclerara_jade_2fe1a88c:
 
-    # j "No, master."
-    j ""
 
-# game/episode020.rpy:1077
+    j "No, maestro."
+
+
 translate italian ep020_paclerara_jade_0f2b2a80:
 
-    # j "Not as of yet."
-    j ""
 
-# game/episode020.rpy:1079
+    j "Non ancora."
+
+
 translate italian ep020_paclerara_jade_45390560:
 
-    # j "There’s a lot of information on the situation."
-    j ""
 
-# game/episode020.rpy:1080
+    j "Ci sono molte informazioni sulla situazione."
+
+
 translate italian ep020_paclerara_jade_3bc19472:
 
-    # j "Most of it is propaganda or coverage on one of the many wars."
-    j ""
 
-# game/episode020.rpy:1081
+    j "La maggior parte è propaganda o copertura di una delle tante guerre."
+
+
 translate italian ep020_paclerara_jade_cc1892bc:
 
-    # j "It’s such a mess over there."
-    j ""
 
-# game/episode020.rpy:1082
+    j "C'è una tale confusione laggiù."
+
+
 translate italian ep020_paclerara_jade_a0030a0c:
 
-    # c "Yes, Thyia already warned me."
-    c ""
 
-# game/episode020.rpy:1083
+    c "Sì, Thyia mi ha già avvertito."
+
+
 translate italian ep020_paclerara_jade_30d4c75e:
 
-    # c "No promising leads then?"
-    c ""
 
-# game/episode020.rpy:1085
+    c "Nessun indizio promettente, quindi?"
+
+
 translate italian ep020_paclerara_jade_e7086021:
 
-    # j "The easiest, or less complicated way for outsiders to make contact with any of the warring parties is when you can sell them weapons."
-    j ""
 
-# game/episode020.rpy:1086
+    j "Il modo più semplice o meno complicato per gli stranieri di entrare in contatto con le parti in guerra è quello di vendere loro delle armi."
+
+
 translate italian ep020_paclerara_jade_fd2a736e:
 
-    # c "I’m not that keen on delivering weapons of mass destruction, imaginary or not, just to get a meeting."
-    c ""
 
-# game/episode020.rpy:1087
+    c "Non sono molto propenso a consegnare armi di distruzione di massa, immaginarie o meno, solo per ottenere un incontro."
+
+
 translate italian ep020_paclerara_jade_5b20fd1d:
 
-    # j "I thought as much."
-    j ""
 
-# game/episode020.rpy:1088
+    j "Lo pensavo anch'io."
+
+
 translate italian ep020_paclerara_jade_c921e25c:
 
-    # c "What about appealing to any governments?"
-    c ""
 
-# game/episode020.rpy:1090
+    c "Che ne dici di fare appello a qualche governo?"
+
+
 translate italian ep020_paclerara_jade_0023fccb:
 
-    # j "There isn’t much in the way of government."
-    j ""
 
-# game/episode020.rpy:1092
+    j "Non ci sono molti governi."
+
+
 translate italian ep020_paclerara_jade_bb012f6e:
 
-    # j "Most of the planets are in a constant state of war and public offices are either corrupt or virtually non-existent."
-    j ""
 
-# game/episode020.rpy:1093
+    j "La maggior parte dei pianeti è in costante stato di guerra e gli uffici pubblici sono corrotti o praticamente inesistenti."
+
+
 translate italian ep020_paclerara_jade_369cb35f:
 
-    # c "Couldn’t we work with one of those corrupt governments?"
-    c ""
 
-# game/episode020.rpy:1094
+    c "Non potremmo lavorare con uno di questi governi corrotti?"
+
+
 translate italian ep020_paclerara_jade_a41e0dc2:
 
-    # c "Bribe our way through, or something?"
-    c ""
 
-# game/episode020.rpy:1096
+    c "Corrompere la nostra strada o qualcosa del genere?"
+
+
 translate italian ep020_paclerara_jade_8c375494:
 
-    # j "Unlikely, making planet-side contact is very difficult."
-    j ""
 
-# game/episode020.rpy:1097
+    j "È improbabile, perché è molto difficile entrare in contatto con i pianeti."
+
+
 translate italian ep020_paclerara_jade_92de1b27:
 
-    # j "Most of the habitable planets have military blockades around them, so getting through there is a big hurdle in itself."
-    j ""
 
-# game/episode020.rpy:1098
+    j "La maggior parte dei pianeti abitabili è circondata da blocchi militari, quindi passare da lì è già di per sé un grosso ostacolo."
+
+
 translate italian ep020_paclerara_jade_e9e01ded:
 
-    # j "And most terrestrial government offices have extremely limited power."
-    j ""
 
-# game/episode020.rpy:1099
+    j "Inoltre, la maggior parte degli uffici governativi terrestri ha un potere estremamente limitato."
+
+
 translate italian ep020_paclerara_jade_ab2cb593:
 
-    # j "Most of the power is held by the most important branch economically speaking, meaning the military."
-    j ""
 
-# game/episode020.rpy:1100
+    j "La maggior parte del potere è detenuta dal ramo più importante dal punto di vista economico, ovvero l'esercito."
+
+
 translate italian ep020_paclerara_jade_08b6876c:
 
-    # c "And the military is busy fighting wars in space?"
-    c ""
 
-# game/episode020.rpy:1102
+    c "E i militari sono impegnati a combattere guerre nello spazio?"
+
+
 translate italian ep020_paclerara_jade_1186f752:
 
-    # j "Yes, or slaughtering rivals on other planets."
-    j ""
 
-# game/episode020.rpy:1103
+    j "Sì, o a massacrare i rivali su altri pianeti."
+
+
 translate italian ep020_paclerara_jade_f5b79d86:
 
-    # j "The power balance is heavily skewed in favor of the military, so contacting other ministries of any planet will likely get us nowhere."
-    j ""
 
-# game/episode020.rpy:1104
+    j "L'equilibrio del potere è fortemente sbilanciato a favore dei militari, quindi contattare gli altri ministeri di qualsiasi pianeta probabilmente non ci porterà da nessuna parte."
+
+
 translate italian ep020_paclerara_jade_31c04e56:
 
-    # c "So, the military is only interested in weapons deals and the rest of politicians don’t have any meaningful influence."
-    c ""
 
-# game/episode020.rpy:1106
+    c "Quindi, i militari sono interessati solo agli accordi sulle armi e il resto dei politici non ha alcuna influenza significativa."
+
+
 translate italian ep020_paclerara_jade_7c01513a:
 
-    # j "I’m afraid so."
-    j ""
 
-# game/episode020.rpy:1107
+    j "Temo di sì."
+
+
 translate italian ep020_paclerara_jade_8f08606f:
 
-    # c "Thyia mentioned pirates?"
-    c ""
 
-# game/episode020.rpy:1109
+    c "Thyia ha parlato di pirati?"
+
+
 translate italian ep020_paclerara_jade_6014b6da:
 
-    # j "Yes, lots of piracy going on."
-    j ""
 
-# game/episode020.rpy:1110
+    j "Sì, la pirateria è molto diffusa."
+
+
 translate italian ep020_paclerara_jade_9f3ad30a:
 
-    # j "Sometimes the pirates even join the war, so there are several conflicts where planets are fighting against pirate bands."
-    j ""
 
-# game/episode020.rpy:1111
+    j "A volte i pirati si uniscono alla guerra, quindi ci sono diversi conflitti in cui i pianeti combattono contro bande di pirati."
+
+
 translate italian ep020_paclerara_jade_f3edb295:
 
-    # c "Držić sounds like a more and more exhausting place by the minute."
-    c ""
 
-# game/episode020.rpy:1113
+    c "Držić sembra un luogo sempre più faticoso."
+
+
 translate italian ep020_paclerara_jade_0071a0af:
 
-    # j "Not if you enjoy shooting and war crimes."
-    j ""
 
-# game/episode020.rpy:1114
+    j "Non se ti piacciono le sparatorie e i crimini di guerra."
+
+
 translate italian ep020_paclerara_jade_f73d28a8:
 
-    # c "Do you think any of those pirates would be a viable way to make contact and assure safe passing to Petrarch?"
-    c ""
 
-# game/episode020.rpy:1116
+    c "Pensi che qualcuno di questi pirati possa essere un modo valido per entrare in contatto e garantire un passaggio sicuro a Petrarca?"
+
+
 translate italian ep020_paclerara_jade_92713d00:
 
-    # j "Maybe."
-    j ""
 
-# game/episode020.rpy:1117
+    j "Forse."
+
+
 translate italian ep020_paclerara_jade_ca041837:
 
-    # j "Most of the pirates have a terrible reputation."
-    j ""
 
-# game/episode020.rpy:1119
+    j "La maggior parte dei pirati ha una pessima reputazione."
+
+
 translate italian ep020_paclerara_jade_6198ad9b:
 
-    # j "The ones made up out of deserters mostly just enjoy sowing chaos."
-    j ""
 
-# game/episode020.rpy:1120
+    j "Quelli formati da disertori si divertono a seminare il caos."
+
+
 translate italian ep020_paclerara_jade_21cc6028:
 
-    # j "There are a few that just want to make a living and operate under something approaching a code of honor."
-    j ""
 
-# game/episode020.rpy:1121
+    j "Ce ne sono alcuni che vogliono solo guadagnarsi da vivere e operano secondo un codice d'onore."
+
+
 translate italian ep020_paclerara_jade_d0c77953:
 
-    # c "Honorable pirates, my favorite kind."
-    c ""
 
-# game/episode020.rpy:1124
+    c "I pirati d'onore, il mio genere preferito."
+
+
 translate italian ep020_paclerara_jade_d5b392e0:
 
-    # j "I’m sure they’ll still steal and sell your firstborn child without any qualms."
-    j ""
 
-# game/episode020.rpy:1126
+    j "Sono sicuro che ruberanno e venderanno il tuo primogenito senza alcuna remora."
+
+
 translate italian ep020_paclerara_jade_841ad650:
 
-    # j "Don’t get your hopes up, I’m sure they’ll still steal and sell your firstborn child without any qualms."
-    j ""
 
-# game/episode020.rpy:1127
+    j "Non illuderti, sono sicuro che ruberanno e venderanno il tuo primogenito senza alcuna remora."
+
+
 translate italian ep020_paclerara_jade_bb503c7d:
 
-    # c "But they’ll do it honorably..."
-    c ""
 
-# game/episode020.rpy:1130
+    c "Ma lo faranno con onore..."
+
+
 translate italian ep020_paclerara_jade_1ab09ac7:
 
-    # j "Honor aside, would bounty hunting be something we could pursue?"
-    j ""
 
-# game/episode020.rpy:1131
+    j "Onore a parte, la caccia alle taglie potrebbe essere un'attività da perseguire?"
+
+
 translate italian ep020_paclerara_jade_13251290:
 
-    # c "Maybe."
-    c ""
 
-# game/episode020.rpy:1133
+    c "Forse."
+
+
 translate italian ep020_paclerara_jade_ad5179a6:
 
-    # j "Right."
-    j ""
 
-# game/episode020.rpy:1134
+    j "Giusto."
+
+
 translate italian ep020_paclerara_jade_e30f36b8:
 
-    # j "Honor aside, how do you feel about bounty hunting?"
-    j ""
 
-# game/episode020.rpy:1135
+    j "Onore a parte, cosa ne pensi della caccia alle taglie?"
+
+
 translate italian ep020_paclerara_jade_eea6f4dd:
 
-    # c "Ambivalent."
-    c ""
 
-# game/episode020.rpy:1137
+    c "Ambivalente."
+
+
 translate italian ep020_paclerara_jade_396476c9:
 
-    # j "One of the larger pirate groups, the Marleybone Irregulars, has posted a bounty on the boss of a rival gang."
-    j ""
 
-# game/episode020.rpy:1138
+    j "Uno dei gruppi di pirati più grandi, gli Irregolari di Marleybone, ha messo una taglia sul capo di una banda rivale."
+
+
 translate italian ep020_paclerara_jade_56f1eccf:
 
-    # j "Apparently he ordered the murder of one of the higher-ups in the organization, one Captain Xile."
-    j ""
 
-# game/episode020.rpy:1139
+    j "A quanto pare ha ordinato l'omicidio di uno dei vertici dell'organizzazione, un certo Capitano Xile."
+
+
 translate italian ep020_paclerara_jade_df236c1e:
 
-    # j "The assassination was supposed to be discreet and made to look like an accident, to avoid suspicion and retaliation."
-    j ""
 
-# game/episode020.rpy:1140
+    j "L'assassinio doveva essere discreto e fatto passare per un incidente, per evitare sospetti e ritorsioni."
+
+
 translate italian ep020_paclerara_jade_cf7c3b20:
 
-    # j "The hit was botched, Xile lived to tell the tale and the Marleybone Irregulars were justifiably pissed off."
-    j ""
 
-# game/episode020.rpy:1141
+    j "Il colpo andò male, Xile sopravvisse per raccontarlo e gli Irregolari di Marleybone erano giustamente arrabbiati."
+
+
 translate italian ep020_paclerara_jade_adc3d4a3:
 
-    # j "After the Irregulars interrogated the assassin, they found out about who was behind it."
-    j ""
 
-# game/episode020.rpy:1142
+    j "Dopo aver interrogato l'assassino, gli Irregolari hanno scoperto chi c'era dietro."
+
+
 translate italian ep020_paclerara_jade_2b5a9167:
 
-    # j "Now they want him tracked down and killed."
-    j ""
 
-# game/episode020.rpy:1143
+    j "Ora vogliono che sia rintracciato e ucciso."
+
+
 translate italian ep020_paclerara_jade_2eabce6d:
 
-    # j "I guess pirates aren’t big on fair trials."
-    j ""
 
-# game/episode020.rpy:1144
+    j "Immagino che i pirati non amino i processi equi."
+
+
 translate italian ep020_paclerara_jade_1f148c6e:
 
-    # c "Why don’t they do it themselves?"
-    c ""
 
-# game/episode020.rpy:1147
+    c "Perché non lo fanno loro stessi?"
+
+
 translate italian ep020_paclerara_jade_738f9eba:
 
-    # j "They’re too busy defending their territory, I think."
-    j ""
 
-# game/episode020.rpy:1149
+    j "Credo che siano troppo impegnati a difendere il loro territorio."
+
+
 translate italian ep020_paclerara_jade_94a7549f:
 
-    # j "Too busy being pirates, I think."
-    j ""
 
-# game/episode020.rpy:1150
+    j "Troppo impegnati ad essere pirati, credo."
+
+
 translate italian ep020_paclerara_jade_70fc21ee:
 
-    # j "And everyone is keeping tabs on them, so no chance of a surprise attack on the rival gang’s headquarters."
-    j ""
 
-# game/episode020.rpy:1151
+    j "E tutti li tengono d'occhio, quindi non c'è possibilità di un attacco a sorpresa al quartier generale della banda rivale."
+
+
 translate italian ep020_paclerara_jade_15f8f1dc:
 
-    # j "And according to their intel, the bounty is holed up with his gang just outside the boundaries of Držić."
-    j ""
 
-# game/episode020.rpy:1152
+    j "E secondo le loro informazioni, la taglia è rintanata con la sua banda appena fuori dai confini di Držić."
+
+
 translate italian ep020_paclerara_jade_73dce076:
 
-    # j "Probably out of fear of retaliation."
-    j ""
 
-# game/episode020.rpy:1153
+    j "Probabilmente per paura di ritorsioni."
+
+
 translate italian ep020_paclerara_jade_370b9b14:
 
-    # c "The pirates don’t like to leave their home system?"
-    c ""
 
-# game/episode020.rpy:1155
+    c "I pirati non amano lasciare il loro sistema natale?"
+
+
 translate italian ep020_paclerara_jade_fe9f06e6:
 
-    # j "Not in great numbers, I think they fear losing grip on their territory."
-    j ""
 
-# game/episode020.rpy:1156
+    j "Non in gran numero, credo che temano di perdere il controllo del loro territorio."
+
+
 translate italian ep020_paclerara_jade_15c9ede0:
 
-    # c "So, we track down this rival pirate lord, hand him over to the pirates and ask for safe passage to Petrarch."
-    c ""
 
-# game/episode020.rpy:1159
+    c "Quindi, rintracciamo questo signore dei pirati rivale, lo consegniamo ai pirati e chiediamo un passaggio sicuro per Petrarca."
+
+
 translate italian ep020_paclerara_jade_a8bfd370:
 
-    # j "That seems the best option to me, yes."
-    j ""
 
-# game/episode020.rpy:1161
+    j "Mi sembra l'opzione migliore, sì."
+
+
 translate italian ep020_paclerara_jade_15e2af67:
 
-    # j "Something like that, yeah."
-    j ""
 
-# game/episode020.rpy:1162
+    j "Qualcosa del genere, sì."
+
+
 translate italian ep020_paclerara_jade_4dced0ca:
 
-    # j "The pirate band is large enough to offer some protection and they know the best routes through the system."
-    j ""
 
-# game/episode020.rpy:1163
+    j "La banda di pirati è abbastanza numerosa da offrire una certa protezione e conoscono le rotte migliori attraverso il sistema."
+
+
 translate italian ep020_paclerara_jade_52583aa8:
 
-    # c "We should set up a meet then, to arrange the terms."
-    c ""
 
-# game/episode020.rpy:1164
+    c "Dovremmo organizzare un incontro per stabilire le condizioni."
+
+
 translate italian ep020_paclerara_jade_b924e403:
 
-    # c "Can you set that up?"
-    c ""
 
-# game/episode020.rpy:1165
+    c "Puoi organizzarlo?"
+
+
 translate italian ep020_paclerara_jade_b56516a8:
 
-    # j "Yes, I'll respond to the bounty notice."
-    j ""
 
-# game/episode020.rpy:1166
+    j "Sì, risponderò all'avviso di taglia."
+
+
 translate italian ep020_paclerara_jade_11c2ef05:
 
-    # c "I'll discuss it with the others first."
-    c ""
 
-# game/episode020.rpy:1167
+    c "Ne discuterò prima con gli altri."
+
+
 translate italian ep020_paclerara_jade_5e4ace8e:
 
-    # j "Of course."
-    j ""
 
-# game/episode020.rpy:1168
+    j "Naturalmente."
+
+
 translate italian ep020_paclerara_jade_85d8e25d:
 
-    # c "I guess we won't be the only ones responding to this notice?"
-    c ""
 
-# game/episode020.rpy:1170
+    c "Immagino che non saremo gli unici a rispondere a questo avviso?"
+
+
 translate italian ep020_paclerara_jade_7c2bfcd6:
 
-    # j "That's unlikely, I'm afraid."
-    j ""
 
-# game/episode020.rpy:1172
+    j "Temo sia improbabile."
+
+
 translate italian ep020_paclerara_jade_e9d551dd:
 
-    # j "We could be lucky, but I think we should expect competition."
-    j ""
 
-# game/episode020.rpy:1173
+    j "Potremmo essere fortunati, ma credo che dovremo aspettarci la concorrenza."
+
+
 translate italian ep020_paclerara_jade_93ec9037:
 
-    # j "The notice has been up for a while after all."
-    j ""
 
-# game/episode020.rpy:1174
+    j "Dopotutto, l'avviso è stato pubblicato da un po' di tempo."
+
+
 translate italian ep020_paclerara_jade_d59eccb5:
 
-    # c "No reason to let this chance slip though."
-    c ""
 
-# game/episode020.rpy:1175
+    c "Non c'è motivo di lasciarsi sfuggire questa occasione."
+
+
 translate italian ep020_paclerara_jade_fe6b9cf0:
 
-    # c "I'll let you know once we're ready to move."
-    c ""
 
-# game/episode020.rpy:1195
+    c "Ti farò sapere quando saremo pronti a muoverci."
+
+
 translate italian ep020_pirate_rendevous_0e5dc811:
 
-    # "Several Bursts later, we arrived at the agreed spot."
-    ""
 
-# game/episode020.rpy:1196
+    "Diversi Burst dopo, arrivammo al punto concordato."
+
+
 translate italian ep020_pirate_rendevous_1c088415:
 
-    # "The Bastard’s scanners didn’t pick up any anomaly in the vicinity, so the pirates probably weren’t in the area yet."
-    ""
 
-# game/episode020.rpy:1198
+    "Gli scanner del Bastard non hanno rilevato alcuna anomalia nelle vicinanze, quindi probabilmente i pirati non erano ancora in zona."
+
+
 translate italian ep020_pirate_rendevous_459548d9:
 
-    # "We waited for an hour, our apprehension growing by the minute."
-    ""
 
-# game/episode020.rpy:1199
+    "Abbiamo aspettato per un'ora, con l'apprensione che cresceva di minuto in minuto."
+
+
 translate italian ep020_pirate_rendevous_f9314571:
 
-    # c "Not a very punctual lot, are they?"
-    c ""
 
-# game/episode020.rpy:1200
+    c "Non sono molto puntuali, vero?"
+
+
 translate italian ep020_pirate_rendevous_3fd05e6e:
 
-    # ce "I don’t think pirates are known for that, to be honest."
-    ce ""
 
-# game/episode020.rpy:1201
+    ce "Non credo che i pirati siano famosi per questo, a dire il vero."
+
+
 translate italian ep020_pirate_rendevous_047dda1d:
 
-    # na "Not a very good first impression, I’d say."
-    na ""
 
-# game/episode020.rpy:1202
+    na "Non è una buona prima impressione, direi."
+
+
 translate italian ep020_pirate_rendevous_858b968c:
 
-    # c "I’m not sure they care very much."
-    c ""
 
-# game/episode020.rpy:1203
+    c "Non credo che a loro importi molto."
+
+
 translate italian ep020_pirate_rendevous_c667e292:
 
-    # ce "I’m picking up something!"
-    ce ""
 
-# game/episode020.rpy:1204
+    ce "Sto raccogliendo qualcosa!"
+
+
 translate italian ep020_pirate_rendevous_82df8b22:
 
-    # ce "One contact approaching."
-    ce ""
 
-# game/episode020.rpy:1206
+    ce "Un contatto in avvicinamento."
+
+
 translate italian ep020_pirate_rendevous_d9b32120:
 
-    # c "A large ship?"
-    c ""
 
-# game/episode020.rpy:1207
+    c "Una grande nave?"
+
+
 translate italian ep020_pirate_rendevous_f54bbecb:
 
-    # ce "No, it appears to be a small shuttle."
-    ce ""
 
-# game/episode020.rpy:1208
+    ce "No, sembra essere una piccola navetta."
+
+
 translate italian ep020_pirate_rendevous_7e1c4391:
 
-    # c "Less risk of getting shot to pieces then."
-    c ""
 
-# game/episode020.rpy:1209
+    c "C'è meno rischio di essere fatti a pezzi."
+
+
 translate italian ep020_pirate_rendevous_850f436c:
 
-    # av "Unless it’s a remote controlled bomb..."
-    av ""
 
-# game/episode020.rpy:1210
+    av "A meno che non sia una bomba telecomandata..."
+
+
 translate italian ep020_pirate_rendevous_c73899f3:
 
-    # ce "We’re being hailed."
-    ce ""
 
-# game/episode020.rpy:1211
+    ce "Ci stanno chiamando."
+
+
 translate italian ep020_pirate_rendevous_624bee8f:
 
-    # c "Put them through."
-    c ""
 
-# game/episode020.rpy:1214
+    c "Passameli."
+
+
 translate italian ep020_pirate_rendevous_187554cb:
 
-    # man "Crew of the Iron Bastard, this shuttle has been sent to you courtesy of Captain Xile of the Marleybone Irregulars."
-    man ""
 
-# game/episode020.rpy:1215
+    man "Equipaggio della Iron Bastard, questa navetta vi è stata inviata per gentile concessione del Capitano Xile degli Irregolari di Marleybone."
+
+
 translate italian ep020_pirate_rendevous_05eb46ab:
 
-    # man "Three members of your crew are to board this shuttle and they will be taken to Captain Xile at an undisclosed location."
-    man ""
 
-# game/episode020.rpy:1216
+    man "Tre membri del tuo equipaggio devono salire a bordo di questa navetta e saranno portati dal Capitano Xile in un luogo non rivelato."
+
+
 translate italian ep020_pirate_rendevous_272bbdba:
 
-    # man "Any attempt to track the shuttle will be met with appropriate violence and destruction of the shuttle."
-    man ""
 
-# game/episode020.rpy:1217
+    man "Qualsiasi tentativo di rintracciare la navetta sarà affrontato con la dovuta violenza e la distruzione della stessa."
+
+
 translate italian ep020_pirate_rendevous_7ded2cdf:
 
-    # man "After the audience with Captain Xile, the three crew members will be returned to you safely by means of the same shuttle."
-    man ""
 
-# game/episode020.rpy:1218
+    man "Dopo l'udienza con il Capitano Xile, i tre membri dell'equipaggio saranno riportati a te in tutta sicurezza per mezzo della stessa navetta."
+
+
 translate italian ep020_pirate_rendevous_558caa33:
 
-    # man "Failure to board the shuttle will not result in any retaliatory action, but any subsequent petition of the Marleybone Irregulars will be categorically denied."
-    man ""
 
-# game/episode020.rpy:1219
+    man "Il mancato imbarco sulla navetta non comporterà alcuna azione di ritorsione, ma ogni successiva petizione degli Irregolari di Marleybone sarà categoricamente negata."
+
+
 translate italian ep020_pirate_rendevous_0b37dad8:
 
-    # man "Message repeats."
-    man ""
 
-# game/episode020.rpy:1221
+    man "Il messaggio si ripete."
+
+
 translate italian ep020_pirate_rendevous_bffdedfa:
 
-    # c "So it is a remote-controlled shuttle, just not an explosive one."
-    c ""
 
-# game/episode020.rpy:1223
+    c "Quindi è una navetta telecomandata, ma non esplosiva."
+
+
 translate italian ep020_pirate_rendevous_92931812:
 
-    # av "Probably..."
-    av ""
 
-# game/episode020.rpy:1224
+    av "Probabilmente..."
+
+
 translate italian ep020_pirate_rendevous_3dddde7a:
 
-    # c "I guess we’ll need to board that shuttle then."
-    c ""
 
-# game/episode020.rpy:1225
+    c "Immagino che dovremo salire a bordo della navetta."
+
+
 translate italian ep020_pirate_rendevous_68d8ce72:
 
-    # c "Aven and Thyia, can you gear up and meet me at the airlock?"
-    c ""
 
-# game/episode020.rpy:1226
+    c "Aven e Thyia, potete prepararvi e raggiungermi alla camera di compensazione?"
+
+
 translate italian ep020_pirate_rendevous_d6cc5461:
 
-    # av "Of course."
-    av ""
 
-# game/episode020.rpy:1228
+    av "Certamente."
+
+
 translate italian ep020_pirate_rendevous_e3f64a93:
 
-    # "Céline allowed the shuttle to dock with the Bastard."
-    ""
 
-# game/episode020.rpy:1230
+    "Céline permise alla navetta di agganciarsi alla Bastard."
+
+
 translate italian ep020_pirate_rendevous_51bf26fe:
 
-    # "Thyia and Aven were already at the airlock when I arrived."
-    ""
 
-# game/episode020.rpy:1231
+    "Thyia e Aven erano già alla camera di compensazione quando sono arrivato."
+
+
 translate italian ep020_pirate_rendevous_17a33c16:
 
-    # c "Ready?"
-    c ""
 
-# game/episode020.rpy:1232
+    c "Pronti?"
+
+
 translate italian ep020_pirate_rendevous_77274c31:
 
-    # av "Yes."
-    av ""
 
-# game/episode020.rpy:1233
+    av "Si."
+
+
 translate italian ep020_pirate_rendevous_28f503fc:
 
-    # th "Yup."
-    th ""
 
-# game/episode020.rpy:1235
+    th "Si."
+
+
 translate italian ep020_pirate_rendevous_4ae17f2a:
 
-    # "The airlock opened up and we stepped through the hatch into the shuttle."
-    ""
 
-# game/episode020.rpy:1236
+    "La camera di compensazione si aprì e attraversammo il portello per entrare nella navetta."
+
+
 translate italian ep020_pirate_rendevous_1dace2f6:
 
-    # "The confines of the craft were rather cramped, there was just enough room for three people."
-    ""
 
-# game/episode020.rpy:1237
+    "I confini della navetta erano piuttosto angusti, c'era appena lo spazio per tre persone."
+
+
 translate italian ep020_pirate_rendevous_defef755:
 
-    # th "No chance of us getting comfortable, it seems."
-    th ""
 
-# game/episode020.rpy:1238
+    th "Sembra che non ci sia alcuna possibilità di stare comodi."
+
+
 translate italian ep020_pirate_rendevous_47f003a1:
 
-    # c "Doesn’t look like it."
-    c ""
 
-# game/episode020.rpy:1240
+    c "Non sembra."
+
+
 translate italian ep020_pirate_rendevous_9009c92f:
 
-    # "The shuttle disengaged from the Bastard and began to sped along a pre-arranged route."
-    ""
 
-# game/episode020.rpy:1241
+    "La navetta si sganciò dalla Bastard e iniziò a sfrecciare lungo un percorso prestabilito."
+
+
 translate italian ep020_pirate_rendevous_ba42faa3:
 
-    # "Through the small windows in the shuttle, we could see the Bastard beginning to shrink out of view."
-    ""
 
-# game/episode020.rpy:1243
+    "Attraverso i piccoli finestrini della navetta, potevamo vedere il Bastardo che iniziava a rimpicciolirsi."
+
+
 translate italian ep020_pirate_rendevous_bb0b017c:
 
-    # av "What’s that noise?"
-    av ""
 
-# game/episode020.rpy:1244
+    av "Cos'è questo rumore?"
+
+
 translate italian ep020_pirate_rendevous_0c65b81b:
 
-    # th "Noise?"
-    th ""
 
-# game/episode020.rpy:1245
+    th "Rumore?"
+
+
 translate italian ep020_pirate_rendevous_0ee4d1dd:
 
-    # th "The engine you mean?"
-    th ""
 
-# game/episode020.rpy:1246
+    th "Il motore, intendi?"
+
+
 translate italian ep020_pirate_rendevous_9bd3e2d5:
 
-    # av "No, whistling noise."
-    av ""
 
-# game/episode020.rpy:1247
+    av "No, un fischio."
+
+
 translate italian ep020_pirate_rendevous_c6000fe1:
 
-    # c "It’s coming from these nozzles."
-    c ""
 
-# game/episode020.rpy:1248
+    c "Proviene da questi ugelli."
+
+
 translate italian ep020_pirate_rendevous_9d4339f9:
 
-    # c "Fuck, it’s some kind of gas."
-    c ""
 
-# game/episode020.rpy:1250
+    c "Cazzo, è una specie di gas."
+
+
 translate italian ep020_pirate_rendevous_2ac84699:
 
-    # "There wasn’t enough time to panic as the gas rapidly spread in the small interior of the shuttle."
-    ""
 
-# game/episode020.rpy:1251
+    "Non c'era abbastanza tempo per farsi prendere dal panico perché il gas si diffondeva rapidamente nel piccolo interno della navetta."
+
+
 translate italian ep020_pirate_rendevous_482389ce:
 
-    # "We were overwhelmed almost instantly and everything went dark."
-    ""
 
-# game/episode020.rpy:1253
+    "Siamo stati sopraffatti quasi istantaneamente e tutto è diventato buio."
+
+
 translate italian ep020_pirate_rendevous_28df8047:
 
-    # "The next time we opened our eyes, sunlight was streaming through the windows of the shuttle."
-    ""
 
-# game/episode020.rpy:1255
+    "La volta successiva che aprimmo gli occhi, la luce del sole filtrava attraverso i finestrini della navetta."
+
+
 translate italian ep020_pirate_rendevous_f0466ea0:
 
-    # "We were still flying, but had entered the orbit of a planet some time ago."
-    ""
 
-# game/episode020.rpy:1256
+    "Stavamo ancora volando, ma eravamo entrati da tempo nell'orbita di un pianeta."
+
+
 translate italian ep020_pirate_rendevous_37d85238:
 
-    # "The gas must have induced an instantaneous sleep."
-    ""
 
-# game/episode020.rpy:1257
-translate italian ep020_pirate_rendevous_e0e9a782:
+    "Il gas deve aver indotto un sonno istantaneo."
 
-    # "Thyia was the first to sit up."
-    ""
 
-# game/episode020.rpy:1258
+translate italian ep020_pirate_rendevous_d4fb9f4e:
+
+
+    "Thyia fu la prima a svegliarsi."
+
+
 translate italian ep020_pirate_rendevous_3864fffb:
 
-    # th "Looks like the Irregulars take their security very seriously."
-    th ""
 
-# game/episode020.rpy:1259
+    th "Sembra che gli Irregolari prendano molto sul serio la loro sicurezza."
+
+
 translate italian ep020_pirate_rendevous_5485b1a2:
 
-    # c "You think this is some kind of attempt to hide the location of their base from us?"
-    c ""
 
-# game/episode020.rpy:1260
+    c "Pensi che sia una sorta di tentativo di nasconderci la posizione della loro base?"
+
+
 translate italian ep020_pirate_rendevous_ebb2a439:
 
-    # th "I think so."
-    th ""
 
-# game/episode020.rpy:1261
+    th "Penso di sì."
+
+
 translate italian ep020_pirate_rendevous_80d85704:
 
-    # c "As if we could plot a course to that base just by looking out of a tiny shuttle window."
-    c ""
 
-# game/episode020.rpy:1262
+    c "Come se potessimo tracciare una rotta verso quella base solo guardando fuori dal finestrino di una navetta."
+
+
 translate italian ep020_pirate_rendevous_5ca47498:
 
-    # th "I’m not saying it’s not an overblown security measure, just that it’s probably the reason for putting us to sleep."
-    th ""
 
-# game/episode020.rpy:1264
+    th "Non sto dicendo che non sia una misura di sicurezza esagerata, solo che probabilmente è il motivo per cui ci hanno fatto addormentare."
+
+
 translate italian ep020_pirate_rendevous_bdad0bc7:
 
-    # av "I have a fucking headache."
-    av ""
 
-# game/episode020.rpy:1265
+    av "Ho un fottuto mal di testa."
+
+
 translate italian ep020_pirate_rendevous_bc80226a:
 
-    # c "Me too, but we’re lucky that’s the only effect of the gas."
-    c ""
 
-# game/episode020.rpy:1267
+    c "Anch'io, ma siamo fortunati che sia l'unico effetto del gas."
+
+
 translate italian ep020_pirate_rendevous_b54c04bc:
 
-    # "The shuttle was now apparently making its descent."
-    ""
 
-# game/episode020.rpy:1268
+    "La navetta stava apparentemente iniziando la sua discesa."
+
+
 translate italian ep020_pirate_rendevous_47363900:
 
-    # "We finally touched down in a clearing, near a large building looking very much like a bunker."
-    ""
 
-# game/episode020.rpy:1269
+    "Alla fine siamo atterrati in una radura, vicino a un grande edificio che assomigliava molto a un bunker."
+
+
 translate italian ep020_pirate_rendevous_6821bd83:
 
-    # c "I think we’ve arrived."
-    c ""
 
-# game/episode020.rpy:1271
+    c "Credo che siamo arrivati."
+
+
 translate italian ep020_pirate_rendevous_46cdf89f:
 
-    # "The shuttle opened up and we were blinking against the light streaming down through the canopy of the forest."
-    ""
 
-# game/episode020.rpy:1272
+    "La navetta si aprì e ci trovammo a sbattere le palpebre contro la luce che scendeva attraverso la chioma della foresta."
+
+
 translate italian ep020_pirate_rendevous_9c773d45:
 
-    # "Several armed figures surrounded the shuttle."
-    ""
 
-# game/episode020.rpy:1274
+    "Diverse figure armate circondavano la navetta."
+
+
 translate italian ep020_pirate_rendevous_3004d915:
 
-    # woman "Come out slowly with your hands in the air."
-    woman ""
 
-# game/episode020.rpy:1275
+    woman "Esci lentamente con le mani in alto."
+
+
 translate italian ep020_pirate_rendevous_d9f4b120:
 
-    # "Considering the amount of guns trained on us, complying seemed like the best way to proceed."
-    ""
 
-# game/episode020.rpy:1276
+    "Considerando la quantità di armi puntate su di noi, adeguarsi sembrava il modo migliore di procedere."
+
+
 translate italian ep020_pirate_rendevous_010f0620:
 
-    # woman "Follow me please."
-    woman ""
 
-# game/episode020.rpy:1277
+    woman "Seguitemi, per favore."
+
+
 translate italian ep020_pirate_rendevous_79442ce0:
 
-    # "No attempt was made to disarm us, the pirates were probably pretty confident in their strength in numbers."
-    ""
 
-# game/episode020.rpy:1279
+    "Non fu fatto alcun tentativo di disarmarci, probabilmente i pirati erano piuttosto sicuri della loro forza numerica."
+
+
 translate italian ep020_pirate_rendevous_89e15e0b:
 
-    # "The pirate who ordered us to come out of the shuttle led us toward the bunker."
-    ""
 
-# game/episode020.rpy:1280
+    "Il pirata che ci aveva ordinato di uscire dalla navetta ci guidò verso il bunker."
+
+
 translate italian ep020_pirate_rendevous_7b9ea763:
 
-    # "She motioned us inside after the large door opened."
-    ""
 
-# game/episode020.rpy:1282
+    "Ci fece cenno di entrare dopo che la grande porta si aprì."
+
+
 translate italian ep020_pirate_rendevous_f989e684:
 
-    # "The inside of the bunker consisted of a single room crammed with storage containers, desks and various computer screens."
-    ""
 
-# game/episode020.rpy:1283
+    "L'interno del bunker consisteva in un'unica stanza piena di contenitori, scrivanie e schermi di computer."
+
+
 translate italian ep020_pirate_rendevous_b8480bb8:
 
-    # "The place didn’t really exude the glamour normally associated with pirate dens, no piles of lucre, crates filled with gold bars or even piles of illicit drugs on the many desks."
-    ""
 
-# game/episode020.rpy:1284
+    "Il posto non emanava il fascino normalmente associato alle tane dei pirati: non c'erano mucchi di denaro, casse piene di lingotti d'oro o mucchi di droghe illecite sulle numerose scrivanie."
+
+
 translate italian ep020_pirate_rendevous_e5987af2:
 
-    # "The bunker mostly gave off an impression of a well-oiled intelligence office, which probably wasn’t far off the mark."
-    ""
 
-# game/episode020.rpy:1286
+    "Il bunker dava soprattutto l'impressione di un ufficio di intelligence ben oliato, il che probabilmente non era molto lontano dal vero."
+
+
 translate italian ep020_pirate_rendevous_9b571380:
 
-    # "A woman came into view."
-    ""
 
-# game/episode020.rpy:1287
+    "Una donna entrò in scena."
+
+
 translate italian ep020_pirate_rendevous_92bdc41b:
 
-    # "She was obviously a figure of authority, considering the way she was treated by all the people surrounding her."
-    ""
 
-# game/episode020.rpy:1288
+    "Era ovviamente una figura autorevole, visto il modo in cui veniva trattata da tutte le persone che la circondavano."
+
+
 translate italian ep020_pirate_rendevous_6e437cc7:
 
-    # c "Captain Xile."
-    c ""
 
-# game/episode020.rpy:1290
+    c "Capitano Xile."
+
+
 translate italian ep020_pirate_rendevous_236b07db:
 
-    # xi "You’re the bounty hunters."
-    xi ""
 
-# game/episode020.rpy:1291
+    xi "Siete i cacciatori di taglie."
+
+
 translate italian ep020_pirate_rendevous_237dc833:
 
-    # "Her statement didn’t really sound like a question, so I kept silent, waiting for her to resume."
-    ""
 
-# game/episode020.rpy:1292
+    "La sua affermazione non sembrava una vera e propria domanda, quindi rimasi in silenzio, aspettando che riprendesse."
+
+
 translate italian ep020_pirate_rendevous_0da26488:
 
-    # xi "Are you prepared to kill Alilph Skeda for me?"
-    xi ""
 
-# game/episode020.rpy:1293
+    xi "Sei pronto a uccidere Alilph Skeda per me?"
+
+
 translate italian ep020_pirate_rendevous_a62357ce:
 
-    # c "He’s the mastermind behind the botched attempt on your life, I presume?"
-    c ""
 
-# game/episode020.rpy:1294
+    c "È lui la mente dietro il fallito attentato alla tua vita, presumo?"
+
+
 translate italian ep020_pirate_rendevous_f88220ce:
 
-    # xi "He is."
-    xi ""
 
-# game/episode020.rpy:1295
+    xi "Lo è."
+
+
 translate italian ep020_pirate_rendevous_83ffb970:
 
-    # c "We will take him out."
-    c ""
 
-# game/episode020.rpy:1296
+    c "Lo faremo fuori."
+
+
 translate italian ep020_pirate_rendevous_154ee49a:
 
-    # xi "Excellent."
-    xi ""
 
-# game/episode020.rpy:1297
+    xi "Eccellente."
+
+
 translate italian ep020_pirate_rendevous_bdf0e24c:
 
-    # xi "Our latest intel suggests he’s holed up with his crew, the Skivs, in his base on Aretine."
-    xi ""
 
-# game/episode020.rpy:1298
+    xi "Le nostre ultime informazioni indicano che si è rintanato con il suo equipaggio, gli Skiv, nella sua base su Aretine."
+
+
 translate italian ep020_pirate_rendevous_584b5da2:
 
-    # xi "I’ll leave the details of the operation to you, but beware that Aretine is a heavily fortified place."
-    xi ""
 
-# game/episode020.rpy:1300
+    xi "Lascio a te i dettagli dell'operazione, ma ricorda che Aretine è un luogo pesantemente fortificato."
+
+
 translate italian ep020_pirate_rendevous_1578ecc4:
 
-    # xi "I would not suggest a frontal assault."
-    xi ""
 
-# game/episode020.rpy:1301
+    xi "Non suggerirei un assalto frontale."
+
+
 translate italian ep020_pirate_rendevous_b7f4b180:
 
-    # c "Noted."
-    c ""
 
-# game/episode020.rpy:1302
+    c "Notato."
+
+
 translate italian ep020_pirate_rendevous_1c2044ea:
 
-    # c "May I asked why your organization hasn’t retaliated directly?"
-    c ""
 
-# game/episode020.rpy:1303
+    c "Posso chiederti perché la tua organizzazione non si è vendicata direttamente?"
+
+
 translate italian ep020_pirate_rendevous_bf9edcb6:
 
-    # c "From the little I’ve seen of your operation so far, you do not lack the manpower."
-    c ""
 
-# game/episode020.rpy:1305
+    c "Dal poco che ho visto finora delle vostre operazioni, non vi mancano gli uomini."
+
+
 translate italian ep020_pirate_rendevous_8877923b:
 
-    # xi "It’s not a question of manpower, nor of firepower."
-    xi ""
 
-# game/episode020.rpy:1307
+    xi "Non è una questione di uomini, né di potenza di fuoco."
+
+
 translate italian ep020_pirate_rendevous_70a29540:
 
-    # xi "It’s politics, I’m afraid."
-    xi ""
 
-# game/episode020.rpy:1309
+    xi "È una questione politica, temo."
+
+
 translate italian ep020_pirate_rendevous_a3162af5:
 
-    # xi "Skeda’s gang has never officially claimed the attempt on my life, and an assault on Aretine by the Irregulars will surely be construed as an act of war."
-    xi ""
 
-# game/episode020.rpy:1310
+    xi "La banda di Skeda non ha mai rivendicato ufficialmente l'attentato alla mia vita, e un assalto ad Aretine da parte degli Irregolari sarà sicuramente interpretato come un atto di guerra."
+
+
 translate italian ep020_pirate_rendevous_9cc379a2:
 
-    # xi "I don’t know if you are familiar with Držić and its environs, but there’s enough war already."
-    xi ""
 
-# game/episode020.rpy:1311
+    xi "Non so se conosci Držić e i suoi dintorni, ma c'è già abbastanza guerra."
+
+
 translate italian ep020_pirate_rendevous_8774c3a1:
 
-    # xi "I do not wish to be an active participant in the armed conflict, it would be bad for business."
-    xi ""
 
-# game/episode020.rpy:1312
+    xi "Non desidero partecipare attivamente al conflitto armato, sarebbe negativo per gli affari."
+
+
 translate italian ep020_pirate_rendevous_89aefe22:
 
-    # c "I see."
-    c ""
 
-# game/episode020.rpy:1313
+    c "Capisco."
+
+
 translate italian ep020_pirate_rendevous_546f2481:
 
-    # c "Posting a bounty doesn’t threaten any agreement between you and of the other gangs?"
-    c ""
 
-# game/episode020.rpy:1315
+    c "Pubblicare una taglia non minaccia alcun accordo tra te e le altre bande?"
+
+
 translate italian ep020_pirate_rendevous_7dc30270:
 
-    # xi "I won’t bore you with the intricacies of gang politics, but let me assure you that it doesn’t."
-    xi ""
 
-# game/episode020.rpy:1317
+    xi "Non ti annoierò con le complessità della politica delle bande, ma ti assicuro che non è così."
+
+
 translate italian ep020_pirate_rendevous_9943c204:
 
-    # xi "If Skeda is killed as part of bounty collection, the bounty hunter nor the issuer will be met with hostilities from the other gangs."
-    xi ""
 
-# game/episode020.rpy:1318
+    xi "Se Skeda viene ucciso nell'ambito della riscossione di una taglia, il cacciatore di taglie e chi l'ha emessa non incontreranno le ostilità delle altre bande."
+
+
 translate italian ep020_pirate_rendevous_aca43093:
 
-    # xi "I can’t speak for the members of Skeda’s gang, of course, I’m sure they’ll be upset."
-    xi ""
 
-# game/episode020.rpy:1319
+    xi "Non posso parlare per i membri della banda di Skeda, ovviamente, sono sicuro che si arrabbieranno."
+
+
 translate italian ep020_pirate_rendevous_58dca2ba:
 
-    # c "I’m sure they will, but they’ll also be without a leader, so there’s bound to be some chaos."
-    c ""
 
-# game/episode020.rpy:1320
+    c "Sono sicuro che lo faranno, ma saranno anche senza un leader, quindi ci sarà sicuramente un po' di caos."
+
+
 translate italian ep020_pirate_rendevous_61de6147:
 
-    # xi "Exactly."
-    xi ""
 
-# game/episode020.rpy:1321
+    xi "Esattamente."
+
+
 translate italian ep020_pirate_rendevous_ee7005ca:
 
-    # xi "Now, I don’t know if you have done any prior research, but Aretine is a hostile planet."
-    xi ""
 
-# game/episode020.rpy:1322
+    xi "Ora, non so se hai fatto delle ricerche precedenti, ma Aretine è un pianeta ostile."
+
+
 translate italian ep020_pirate_rendevous_9ab0d744:
 
-    # xi "Volcanic, heavily polluted and a shithole in general really."
-    xi ""
 
-# game/episode020.rpy:1323
+    xi "Vulcanico, fortemente inquinato e in generale un cesso."
+
+
 translate italian ep020_pirate_rendevous_05f2972d:
 
-    # xi "A fitting home for a snake like Alilph Skeda."
-    xi ""
 
-# game/episode020.rpy:1324
+    xi "Una casa adatta a un serpente come Alilph Skeda."
+
+
 translate italian ep020_pirate_rendevous_82978a7d:
 
-    # xi "We are willing to offer you some equipment to carry out an operation on Aretine."
-    xi ""
 
-# game/episode020.rpy:1325
+    xi "Siamo disposti a offrirti alcune attrezzature per portare a termine un'operazione su Aretine."
+
+
 translate italian ep020_pirate_rendevous_87e7c622:
 
-    # xi "If you are captured however, we will deny any involvement."
-    xi ""
 
-# game/episode020.rpy:1326
+    xi "Tuttavia, se verrai catturato, negheremo qualsiasi coinvolgimento."
+
+
 translate italian ep020_pirate_rendevous_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode020.rpy:1327
+    c "Naturalmente."
+
+
 translate italian ep020_pirate_rendevous_fd20e25a:
 
-    # xi "Payment will occur after fulfilling the requirements of the bounty."
-    xi ""
 
-# game/episode020.rpy:1328
+    xi "Il pagamento avverrà dopo aver soddisfatto i requisiti della taglia."
+
+
 translate italian ep020_pirate_rendevous_1c4b43a8:
 
-    # c "Yes, about that..."
-    c ""
 
-# game/episode020.rpy:1330
+    c "Sì, a questo proposito..."
+
+
 translate italian ep020_pirate_rendevous_5caf6253:
 
-    # xi "Let me make one thing clear, I will not haggle."
-    xi ""
 
-# game/episode020.rpy:1331
+    xi "Vorrei chiarire una cosa: non intendo contrattare."
+
+
 translate italian ep020_pirate_rendevous_e75f47a0:
 
-    # c "We’re not interested in the money."
-    c ""
 
-# game/episode020.rpy:1333
+    c "Non siamo interessati ai soldi."
+
+
 translate italian ep020_pirate_rendevous_2920ea96:
 
-    # "That statement seemed to break Xile’s steely resolve just a fraction."
-    ""
 
-# game/episode020.rpy:1334
+    "Questa affermazione sembrò spezzare di poco la fermezza di Xile."
+
+
 translate italian ep020_pirate_rendevous_4ce4dbda:
 
-    # "She recovered almost immediately, but I knew I’d piqued her interest."
-    ""
 
-# game/episode020.rpy:1336
+    "Si riprese quasi subito, ma sapevo di aver stuzzicato il suo interesse."
+
+
 translate italian ep020_pirate_rendevous_2544f6f3:
 
-    # xi "If you’re not interested in the money, that would make you the first bounty hunter in history to do so."
-    xi ""
 
-# game/episode020.rpy:1337
+    xi "Se non sei interessato ai soldi, saresti il primo cacciatore di taglie della storia a farlo."
+
+
 translate italian ep020_pirate_rendevous_74f5fb5b:
 
-    # c "I’m flattered by the honor of being the first."
-    c ""
 
-# game/episode020.rpy:1338
+    c "Sono lusingato dall'onore di essere il primo."
+
+
 translate italian ep020_pirate_rendevous_e5b5f82a:
 
-    # c "Instead of the cash reward, we would like a service rendered in return."
-    c ""
 
-# game/episode020.rpy:1339
+    c "Invece della ricompensa in denaro, vorremmo un servizio in cambio."
+
+
 translate italian ep020_pirate_rendevous_234499cf:
 
-    # xi "A service from the Marleybone Irregulars?"
-    xi ""
 
-# game/episode020.rpy:1340
+    xi "Un servizio da parte degli Irregolari di Marleybone?"
+
+
 translate italian ep020_pirate_rendevous_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode020.rpy:1341
+    c "Sì."
+
+
 translate italian ep020_pirate_rendevous_056dd648:
 
-    # c "Držić is a very hostile environment, especially for single ships trying to get through the warzone unscathed."
-    c ""
 
-# game/episode020.rpy:1342
+    c "Držić è un ambiente molto ostile, soprattutto per le navi singole che cercano di attraversare indenni la zona di guerra."
+
+
 translate italian ep020_pirate_rendevous_a7d03768:
 
-    # c "We need to reach Petrarch."
-    c ""
 
-# game/episode020.rpy:1343
+    c "Dobbiamo raggiungere Petrarca."
+
+
 translate italian ep020_pirate_rendevous_96626039:
 
-    # c "So, in return for killing Skeda, we’re asking you to provide us safe passage to Petrarch."
-    c ""
 
-# game/episode020.rpy:1345
+    c "Quindi, in cambio dell'uccisione di Skeda, ti chiediamo di fornirci un passaggio sicuro per Petrarca."
+
+
 translate italian ep020_pirate_rendevous_62b09fa9:
 
-    # xi "Petrarch..."
-    xi ""
 
-# game/episode020.rpy:1347
+    xi "Petrarca..."
+
+
 translate italian ep020_pirate_rendevous_6027f421:
 
-    # xi "I’m sure you have your reasons for wanting to go there and I’m equally sure you’re not willing to divulge them."
-    xi ""
 
-# game/episode020.rpy:1348
+    xi "Sono sicuro che hai le tue ragioni per volerci andare e sono altrettanto sicuro che non sei disposto a divulgarle."
+
+
 translate italian ep020_pirate_rendevous_e2051d0f:
 
-    # c "That’s correct."
-    c ""
 
-# game/episode020.rpy:1349
+    c "È vero."
+
+
 translate italian ep020_pirate_rendevous_b06c697a:
 
-    # c "Is that a problem?"
-    c ""
 
-# game/episode020.rpy:1351
+    c "È un problema?"
+
+
 translate italian ep020_pirate_rendevous_21ca17be:
 
-    # xi "No."
-    xi ""
 
-# game/episode020.rpy:1352
+    xi "No. Allora, abbiamo un accordo?"
+
+
 translate italian ep020_pirate_rendevous_ad0728c9:
 
-    # c "So do we have an agreement?"
-    c ""
 
-# game/episode020.rpy:1353
+    c "Quindi abbiamo un accordo?"
+
+
 translate italian ep020_pirate_rendevous_66e65bad:
 
-    # xi "Yes, we have."
-    xi ""
 
-# game/episode020.rpy:1354
+    xi "Sì, ce l'abbiamo."
+
+
 translate italian ep020_pirate_rendevous_4ccafe9d:
 
-    # xi "In exchange for killing Alilph Skeda we will escort you through Držić to Petrarch."
-    xi ""
 
-# game/episode020.rpy:1355
+    xi "In cambio dell'uccisione di Alilph Skeda ti scorteremo attraverso Držić fino a Petrarca."
+
+
 translate italian ep020_pirate_rendevous_59db4782:
 
-    # c "Good, consider it done then."
-    c ""
 
-# game/episode020.rpy:1356
+    c "Bene, allora consideralo fatto."
+
+
 translate italian ep020_pirate_rendevous_b5de76c1:
 
-    # xi "Contact us via the channel you’ve already used as soon as Skeda has been taken out."
-    xi ""
 
-# game/episode020.rpy:1357
+    xi "Contattaci tramite il canale che hai già utilizzato non appena Skeda sarà stato eliminato."
+
+
 translate italian ep020_pirate_rendevous_1f591ed9:
 
-    # xi "We’ll arrange for a shuttle to pick you up."
-    xi ""
 
-# game/episode020.rpy:1358
+    xi "Organizzeremo una navetta per venirti a prendere."
+
+
 translate italian ep020_pirate_rendevous_3e894e5d:
 
-    # "Captain Xile turned on her heel and walked away, indicating our audience was officially over."
-    ""
 
-# game/episode020.rpy:1374
+    "Il Capitano Xile girò i tacchi e se ne andò, indicando che la nostra udienza era ufficialmente finita."
+
+
 translate italian ep020_pirate_rendevous_274ae37a:
 
-    # "The pirates took us back to the shuttle."
-    ""
 
-# game/episode020.rpy:1375
+    "I pirati ci riportarono alla navetta."
+
+
 translate italian ep020_pirate_rendevous_7b314280:
 
-    # c "Are we going to be drugged again?"
-    c ""
 
-# game/episode020.rpy:1376
+    c "Ci drogheranno di nuovo?"
+
+
 translate italian ep020_pirate_rendevous_aa776053:
 
-    # woman "Standard procedure."
-    woman ""
 
-# game/episode020.rpy:1378
+    woman "Procedura standard."
+
+
 translate italian ep020_pirate_rendevous_76b37c58:
 
-    # "She didn’t elaborate any further and we were guided into the shuttle, the hatch closed and the gas started to fill the interior as soon as we took off."
-    ""
 
-# game/episode020.rpy:1380
+    "Non si dilungò oltre e ci guidarono nella navetta, il portello si chiuse e il gas iniziò a riempire l'interno non appena decollammo."
+
+
 translate italian ep020_pirate_rendevous_c2fc4bfd:
 
-    # "We awoke when the shuttle had reached the Bastard again."
-    ""
 
-# game/episode020.rpy:1381
+    "Ci svegliammo quando la navetta raggiunse di nuovo il Bastardo."
+
+
 translate italian ep020_pirate_rendevous_5fe6fb50:
 
-    # "As soon as we’d docked and disembarked, the shuttle took off again."
-    ""
 
-# game/episode020.rpy:1382
+    "Non appena abbiamo attraccato e sbarcato, la navetta è decollata di nuovo."
+
+
 translate italian ep020_pirate_rendevous_53ff03f7:
 
-    # "We went on to get the crew up to speed on what we were about to do."
-    ""
 
-# game/episode020.rpy:1384
+    "Abbiamo continuato a informare l'equipaggio su ciò che stavamo per fare."
+
+
 translate italian ep020_pirate_rendevous_57bba659:
 
-    # ce "As soon as the shuttle appeared on our scanners again, we got word about a drop-off point."
-    ce ""
 
-# game/episode020.rpy:1385
+    ce "Non appena la navetta è apparsa di nuovo sui nostri scanner, abbiamo ricevuto la notizia di un punto di consegna."
+
+
 translate italian ep020_pirate_rendevous_35a25ad2:
 
-    # c "I think that’s the equipment Xile has promised us."
-    c ""
 
-# game/episode020.rpy:1386
+    c "Credo che sia l'equipaggiamento che Xile ci ha promesso."
+
+
 translate italian ep020_pirate_rendevous_953aca3a:
 
-    # c "Let’s set a course to there first and then we’ll plan our approach to Aretine."
-    c ""
 
-# game/episode020.rpy:1388
+    c "Facciamo prima rotta verso quel punto e poi pianificheremo il nostro avvicinamento ad Aretine."
+
+
 translate italian ep020_pirate_rendevous_6d7d3bdc:
 
-    # "Travel to the location of the drop-off point took us one Burst."
-    ""
 
-# game/episode020.rpy:1389
+    "Per raggiungere il punto di consegna abbiamo impiegato un Burst."
+
+
 translate italian ep020_pirate_rendevous_46f1b39c:
 
-    # "The equipment turned out to be large containers holding two air speeders and a data package containing maps and environmental details of Aretine."
-    ""
 
-# game/episode020.rpy:1391
+    "L'equipaggiamento si è rivelato essere dei grandi container che contenevano due aerosiluranti e un pacchetto dati contenente mappe e dettagli ambientali di Aretine."
+
+
 translate italian ep020_pirate_rendevous_635f3358:
 
-    # "After hauling the containers into the cargo bay of the Bastard, Thyia quickly determined that the speeders were outfitted with reinforced armor plating."
-    ""
 
-# game/episode020.rpy:1392
+    "Dopo aver trasportato i container nella stiva di carico del Bastard, Thyia ha rapidamente stabilito che gli speeder erano dotati di una corazza rinforzata."
+
+
 translate italian ep020_pirate_rendevous_7ed6d970:
 
-    # "The plating would probably be able to withstand the harsh conditions on Aretine Xile alluded to."
-    ""
 
-# game/episode020.rpy:1394
+    "L'armatura sarebbe stata probabilmente in grado di resistere alle dure condizioni di Aretine a cui alludeva Xile."
+
+
 translate italian ep020_pirate_rendevous_889b0ea3:
 
-    # "The harshness of the planet were confirmed by Jade after accessing the data in the package."
-    ""
 
-# game/episode020.rpy:1395
+    "La durezza del pianeta è stata confermata da Jade dopo aver consultato i dati contenuti nel pacco."
+
+
 translate italian ep020_pirate_rendevous_8c9d053d:
 
-    # j "Aretine is covered in active volcanos and the atmosphere is constantly ravaged by firestorms."
-    j ""
 
-# game/episode020.rpy:1396
+    j "Aretine è ricoperto da vulcani attivi e l'atmosfera è costantemente devastata da tempeste di fuoco."
+
+
 translate italian ep020_pirate_rendevous_48cb658c:
 
-    # j "You’d be mad to want to live there, but apparently Alilph Skeda thinks it’s the best place to live."
-    j ""
 
-# game/episode020.rpy:1397
+    j "Saresti pazzo a volerci vivere, ma a quanto pare Alilph Skeda pensa che sia il posto migliore in cui vivere."
+
+
 translate italian ep020_pirate_rendevous_b9265385:
 
-    # c "Or the place his enemies would think twice to attack."
-    c ""
 
-# game/episode020.rpy:1398
+    c "O il posto in cui i suoi nemici ci penserebbero due volte ad attaccare."
+
+
 translate italian ep020_pirate_rendevous_eb78bf27:
 
-    # j "Skeda’s base is the only structure on the planet."
-    j ""
 
-# game/episode020.rpy:1399
+    j "La base di Skeda è l'unica struttura del pianeta."
+
+
 translate italian ep020_pirate_rendevous_81dd759c:
 
-    # j "It’s built in the middle of a lake of lava located in a basin that keeps most of it away from the foundations."
-    j ""
 
-# game/episode020.rpy:1400
+    j "È costruita al centro di un lago di lava situato in un bacino che ne tiene lontana la maggior parte dalle fondamenta."
+
+
 translate italian ep020_pirate_rendevous_5d01f126:
 
-    # j "The entire base is covered in force fields to protect it against the elements."
-    j ""
 
-# game/episode020.rpy:1401
+    j "L'intera base è coperta da campi di forza per proteggerla dagli elementi."
+
+
 translate italian ep020_pirate_rendevous_ac7469a8:
 
-    # c "How do those speeders help us?"
-    c ""
 
-# game/episode020.rpy:1403
+    c "Come ci aiutano questi speeder?"
+
+
 translate italian ep020_pirate_rendevous_bce35439:
 
-    # th "As I said, they’re heavily plated and can operate in extreme temperatures."
-    th ""
 
-# game/episode020.rpy:1404
+    th "Come ho detto, sono pesantemente rivestiti e possono operare a temperature estreme."
+
+
 translate italian ep020_pirate_rendevous_6f1b9edf:
 
-    # c "Will our armor be able to withstand the heat?"
-    c ""
 
-# game/episode020.rpy:1405
+    c "La nostra armatura sarà in grado di resistere al calore?"
+
+
 translate italian ep020_pirate_rendevous_b308ff0d:
 
-    # th "Yes, that shouldn’t be a problem."
-    th ""
 
-# game/episode020.rpy:1406
+    th "Sì, non dovrebbe essere un problema."
+
+
 translate italian ep020_pirate_rendevous_613be504:
 
-    # c "I guess Skeda has a lot of surveillance directly around his base."
-    c ""
 
-# game/episode020.rpy:1407
+    c "Immagino che Skeda abbia un sacco di sorveglianza direttamente intorno alla sua base."
+
+
 translate italian ep020_pirate_rendevous_68d95923:
 
-    # c "So we bring the Bastard down several miles away, unload the speeders and make our approach?"
-    c ""
 
-# game/episode020.rpy:1408
+    c "Quindi facciamo scendere il Bastardo a diverse miglia di distanza, scarichiamo gli speeder e ci avviciniamo?"
+
+
 translate italian ep020_pirate_rendevous_c5c7e2b3:
 
-    # c "Won’t they spot those speeders up anyway if we come too close?"
-    c ""
 
-# game/episode020.rpy:1409
+    c "Non individueranno comunque gli speeder se ci avviciniamo troppo?"
+
+
 translate italian ep020_pirate_rendevous_1c53b2fd:
 
-    # th "The speeders come equipped with a cloaking device."
-    th ""
 
-# game/episode020.rpy:1410
+    th "Gli speeder sono dotati di un dispositivo di occultamento."
+
+
 translate italian ep020_pirate_rendevous_ead546a8:
 
-    # c "Excellent."
-    c ""
 
-# game/episode020.rpy:1411
+    c "Eccellente."
+
+
 translate italian ep020_pirate_rendevous_98a70507:
 
-    # c "I just hope the element of surprise is enough."
-    c ""
 
-# game/episode020.rpy:1412
+    c "Spero solo che l'elemento sorpresa sia sufficiente."
+
+
 translate italian ep020_pirate_rendevous_63b5635d:
 
-    # c "Jade, I want you with me."
-    c ""
 
-# game/episode020.rpy:1413
+    c "Jade, ti voglio con me."
+
+
 translate italian ep020_pirate_rendevous_fc7d8aba:
 
-    # c "We’ll find a spot where you can infiltrate their network and take over some of the base operations."
-    c ""
 
-# game/episode020.rpy:1414
+    c "Troveremo un punto in cui potrai infiltrarti nella loro rete e prendere il controllo di alcune operazioni della base."
+
+
 translate italian ep020_pirate_rendevous_6452058c:
 
-    # c "I’m sure everyone in the base will be a lot more cooperative if we can switch off their force fields and sink the whole base into a river of lava at any point."
-    c ""
 
-# game/episode020.rpy:1415
+    c "Sono sicuro che tutti i membri della base saranno molto più collaborativi se potremo disattivare i loro campi di forza e far sprofondare l'intera base in un fiume di lava in qualsiasi momento."
+
+
 translate italian ep020_pirate_rendevous_f02e56f4:
 
-    # c "Aven and Kit will be on the other speeder."
-    c ""
 
-# game/episode020.rpy:1416
+    c "Aven e Kit saranno sull'altro speeder."
+
+
 translate italian ep020_pirate_rendevous_bb2f2fe3:
 
-    # c "The rest of the crew will wait on the Bastard for our signal to get us out of there."
-    c ""
 
-# game/episode020.rpy:1417
+    c "Il resto dell'equipaggio aspetterà sul Bastardo il nostro segnale per uscire da lì."
+
+
 translate italian ep020_pirate_rendevous_367a2d8f:
 
-    # th "There’s not much room for a contingency plan, is there?"
-    th ""
 
-# game/episode020.rpy:1418
+    th "Non c'è molto spazio per un piano di emergenza, vero?"
+
+
 translate italian ep020_pirate_rendevous_c11e0e67:
 
-    # c "No, if the mission goes sideways the Bastard should go in, guns blazing, or leave without us."
-    c ""
 
-# game/episode020.rpy:1420
+    c "No, se la missione dovesse andare storta, il Bastardo dovrebbe entrare con le armi spianate o andarsene senza di noi."
+
+
 translate italian ep020_pirate_rendevous_0473dcdf:
 
-    # j "Let’s hope it doesn’t come to that."
-    j ""
 
-# game/episode020.rpy:1422
+    j "Speriamo che non si arrivi a questo punto."
+
+
 translate italian ep020_pirate_rendevous_a557eb0c:
 
-    # "Xile’s data included a relatively up to date overview of the conflicts in the area, allowing us to navigate through the turmoil."
-    ""
 
-# game/episode020.rpy:1423
+    "I dati di Xile includevano una panoramica relativamente aggiornata dei conflitti nell'area, permettendoci di orientarci tra i tumulti."
+
+
 translate italian ep020_pirate_rendevous_ed971aa5:
 
-    # "Aretine was situated at the edge of the contested zone, so getting there wouldn’t be as difficult as reaching Petrarch."
-    ""
 
-# game/episode020.rpy:1424
+    "Aretine si trovava ai margini della zona contesa, quindi raggiungerla non sarebbe stato difficile come raggiungere Petrarca."
+
+
 translate italian ep020_pirate_rendevous_81fcca50:
 
-    # "Still, there was enough cause for discreetness, so Céline plotted a course that would take a roundabout way to Aretine."
-    ""
 
-# game/episode020.rpy:1430
+    "Ciononostante, c'erano abbastanza motivi per essere discreti, quindi Céline tracciò una rotta che avrebbe portato ad Aretine in modo circolare."
+
+
 translate italian ep020_pirate_rendevous_89eb0283:
 
-    # "We arrived some hours later and made our approach of the planet."
-    ""
 
-# game/episode020.rpy:1431
+    "Arrivammo qualche ora dopo e ci avvicinammo al pianeta."
+
+
 translate italian ep020_pirate_rendevous_d8dc31d2:
 
-    # "Xile hadn’t overstated the hostility of the planet."
-    ""
 
-# game/episode020.rpy:1433
+    "Xile non aveva esagerato con l'ostilità del pianeta."
+
+
 translate italian ep020_pirate_rendevous_9014eac4:
 
-    # "Multiple nearby smoking volcanoes polluted the air and a large flow of lava spread out like a river toward the horizon."
-    ""
 
-# game/episode020.rpy:1435
+    "Numerosi vulcani fumanti nelle vicinanze inquinavano l'aria e un grande flusso di lava si estendeva come un fiume verso l'orizzonte."
+
+
 translate italian ep020_pirate_rendevous_538f2691:
 
-    # "The Bastard hovered above the boiling mass of stone as we deployed both speeders."
-    ""
 
-# game/episode020.rpy:1436
+    "Il Bastardo si librava sopra la massa di pietra bollente mentre noi dispiegavamo entrambi gli speeder."
+
+
 translate italian ep020_pirate_rendevous_6fa0abf6:
 
-    # "Jade and me occupied one speeder, wearing our full protective suit and helmet."
-    ""
 
-# game/episode020.rpy:1437
+    "Io e Jade occupammo uno speeder, indossando la nostra tuta protettiva completa e il casco."
+
+
 translate italian ep020_pirate_rendevous_70a2b158:
 
-    # "Aven and Kit followed on the other speeder."
-    ""
 
-# game/episode020.rpy:1438
+    "Aven e Kit ci seguirono sull'altro speeder."
+
+
 translate italian ep020_pirate_rendevous_e0475f18:
 
-    # "Together we advanced on Skeda’s lair."
-    ""
 
-# game/episode020.rpy:1439
+    "Insieme avanzammo verso il covo di Skeda."
+
+
 translate italian ep020_pirate_rendevous_b172a1c5:
 
-    # "Our plan hinged on the intel Xile provided us with, so it’s safe to say I was a little apprehensive."
-    ""
 
-# game/episode020.rpy:1440
+    "Il nostro piano si basava sulle informazioni che Xile ci aveva fornito, quindi posso dire che ero un po' preoccupato."
+
+
 translate italian ep020_pirate_rendevous_f4522a3b:
 
-    # "According to Xile, the environmental disturbances on Aretine were too massive for scanners to pick up smaller aircraft."
-    ""
 
-# game/episode020.rpy:1441
+    "Secondo Xile, i disturbi ambientali su Aretine erano troppo forti perché gli scanner potessero rilevare velivoli più piccoli."
+
+
 translate italian ep020_pirate_rendevous_b80b7a22:
 
-    # "While a ship as large as the Bastard would be picked off by artillery on approach, something as small as a speeder would pass unnoticed."
-    ""
 
-# game/episode020.rpy:1443
+    "Mentre una nave grande come la Bastard sarebbe stata colpita dall'artiglieria in avvicinamento, qualcosa di piccolo come uno speeder sarebbe passato inosservato."
+
+
 translate italian ep020_pirate_rendevous_89270fd8:
 
-    # "That left humanoid guards, which were supposedly very scarce, because of the harsh conditions on Aretine."
-    ""
 
-# game/episode020.rpy:1444
+    "Rimanevano le guardie umanoidi, che a quanto pare erano molto scarse a causa delle dure condizioni di Aretine."
+
+
 translate italian ep020_pirate_rendevous_a69385b3:
 
-    # "Xile was pretty confident we could slip in unnoticed."
-    ""
 
-# game/episode020.rpy:1445
+    "Xile era piuttosto sicuro che saremmo riusciti a passare inosservati."
+
+
 translate italian ep020_pirate_rendevous_d094dadd:
 
-    # "Which led to me again to questioning why she hadn’t done so herself with a small covert strike team."
-    ""
 
-# game/episode020.rpy:1447
+    "Il che mi portò a chiedermi perché non l'avesse fatto lei stessa con una piccola squadra d'assalto."
+
+
 translate italian ep020_pirate_rendevous_1440fd8c:
 
-    # c "Man, this heat is killing me."
-    c ""
 
-# game/episode020.rpy:1448
+    c "Cavolo, questo caldo mi sta uccidendo."
+
+
 translate italian ep020_pirate_rendevous_792967c8:
 
-    # j "The suits shield us from most of it, but it sure is intense."
-    j ""
 
-# game/episode020.rpy:1449
+    j "Le tute ci proteggono dalla maggior parte di esso, ma è sicuramente intenso."
+
+
 translate italian ep020_pirate_rendevous_66318614:
 
-    # c "Ready to go?"
-    c ""
 
-# game/episode020.rpy:1450
+    c "Sei pronto a partire?"
+
+
 translate italian ep020_pirate_rendevous_a423411c:
 
-    # j "I am."
-    j ""
 
-# game/episode020.rpy:1451
+    j "Lo sono."
+
+
 translate italian ep020_pirate_rendevous_3cc7db1e:
 
-    # av "Lead the way."
-    av ""
 
-# game/episode020.rpy:1453
+    av "Facci strada."
+
+
 translate italian ep020_pirate_rendevous_06201bdb:
 
-    # "Skeda’s base quickly appeared on the horizon, several towers contrasted against the smokey blood-red sky."
-    ""
 
-# game/episode020.rpy:1454
+    "La base di Skeda apparve rapidamente all'orizzonte, con diverse torri che contrastavano con il cielo fumoso e rosso sangue."
+
+
 translate italian ep020_pirate_rendevous_9d841063:
 
-    # "It was the only structure in the vicinity, maybe even on the whole planet."
-    ""
 
-# game/episode020.rpy:1456
+    "Era l'unica struttura nelle vicinanze, forse addirittura sull'intero pianeta."
+
+
 translate italian ep020_pirate_rendevous_ceed5686:
 
-    # "The artillery remained silent as we crossed the lava sea surrounding the base."
-    ""
 
-# game/episode020.rpy:1457
+    "L'artiglieria rimase in silenzio mentre attraversavamo il mare di lava che circondava la base."
+
+
 translate italian ep020_pirate_rendevous_2e1f3294:
 
-    # "From our vantage point, the battlements appeared to be empty."
-    ""
 
-# game/episode020.rpy:1458
+    "Dal nostro punto di osservazione, le merlature sembravano vuote."
+
+
 translate italian ep020_pirate_rendevous_f04ff387:
 
-    # c "Let’s put the speeders down at the base of the building."
-    c ""
 
-# game/episode020.rpy:1460
+    c "Mettiamo gli speeder alla base dell'edificio."
+
+
 translate italian ep020_pirate_rendevous_6885301d:
 
-    # av "Acknowledged."
-    av ""
 
-# game/episode020.rpy:1462
+    av "Ricevuto."
+
+
 translate italian ep020_pirate_rendevous_60a4ab7c:
 
-    # "We landed both our speeders in the shadow of one of the base’s towers."
-    ""
 
-# game/episode020.rpy:1464
+    "Abbiamo fatto atterrare entrambi gli speeder all'ombra di una delle torri della base."
+
+
 translate italian ep020_pirate_rendevous_ae81bc37:
 
-    # ki "I think I saw movement up there, just when we landed."
-    ki ""
 
-# game/episode020.rpy:1465
+    ki "Credo di aver visto del movimento lassù, proprio quando siamo atterrati."
+
+
 translate italian ep020_pirate_rendevous_6a2be8c4:
 
-    # c "Probably one of the guards."
-    c ""
 
-# game/episode020.rpy:1466
+    c "Probabilmente una delle guardie."
+
+
 translate italian ep020_pirate_rendevous_9019e012:
 
-    # c "Only one way to find out for sure."
-    c ""
 
-# game/episode020.rpy:1468
+    c "C'è solo un modo per scoprirlo con certezza."
+
+
 translate italian ep020_pirate_rendevous_64c73fd1:
 
-    # "By a series of ladders, we climbed up to the middle portions of the base."
-    ""
 
-# game/episode020.rpy:1469
+    "Grazie a una serie di scale, ci siamo arrampicati fino alla parte centrale della base."
+
+
 translate italian ep020_pirate_rendevous_294822bd:
 
-    # "The only thing that could be heard on this floor were the broiling mass of lava beneath us and the hot wind whipping around the building."
-    ""
 
-# game/episode020.rpy:1470
+    "L'unica cosa che si poteva sentire su questo piano era la massa di lava bollente sotto di noi e il vento caldo che sferzava l'edificio."
+
+
 translate italian ep020_pirate_rendevous_0841c5f8:
 
-    # c "Aven, Kit, you’re going round the other side, we’ll continue on."
-    c ""
 
-# game/episode020.rpy:1471
+    c "Aven, Kit, tu vai dall'altra parte, noi continuiamo."
+
+
 translate italian ep020_pirate_rendevous_53e87a5c:
 
-    # av "Will do."
-    av ""
 
-# game/episode020.rpy:1473
+    av "Lo faremo."
+
+
 translate italian ep020_pirate_rendevous_2a70b8b5:
 
-    # "Just as we rounded the corner, Jade put an hand on my arm."
-    ""
 
-# game/episode020.rpy:1475
+    "Appena girato l'angolo, Jade mi mise una mano sul braccio."
+
+
 translate italian ep020_pirate_rendevous_e68766f6:
 
-    # "She pointed at the mercenary standing on a platform further up ahead, his back turned."
-    ""
 
-# game/episode020.rpy:1477
+    "Indicò il mercenario in piedi su una piattaforma più avanti, girato di spalle."
+
+
 translate italian ep020_pirate_rendevous_b8489778:
 
-    # "The merc was facing the direction we had come from, so maybe he did spot something coming towards the base."
-    ""
 
-# game/episode020.rpy:1482
+    "Il mercenario era rivolto verso la direzione da cui eravamo venuti, quindi forse aveva notato qualcosa che si stava avvicinando alla base."
+
+
 translate italian ep020_pirate_rendevous_8e3862c0:
 
-    # "I indicated to Jade that we would sneak past him."
-    ""
 
-# game/episode020.rpy:1484
+    "Indicai a Jade che l'avremmo superato di nascosto."
+
+
 translate italian ep020_pirate_rendevous_bca588bf:
 
-    # "Just at that moment the mercenary turned towards us and whipped out his gun."
-    ""
 
-# game/episode020.rpy:1486
+    "Proprio in quel momento il mercenario si girò verso di noi e tirò fuori la sua pistola."
+
+
 translate italian ep020_pirate_rendevous_2efd8980:
 
-    # man "Stop right there!"
-    man ""
 
-# game/episode020.rpy:1488
+    man "Fermo lì!"
+
+
 translate italian ep020_pirate_rendevous_deadcc86:
 
-    # "As soon as he spoke those words, I rushed the merc while Jade fired upon him."
-    ""
 
-# game/episode020.rpy:1490
+    "Non appena ha pronunciato queste parole, mi sono avventato sul mercenario mentre Jade gli sparava contro."
+
+
 translate italian ep020_pirate_rendevous_e1e0fb52:
 
-    # "I narrowly avoided the merc’s blaster fire and threw myself bodily against him."
-    ""
 
-# game/episode020.rpy:1491
+    "Ho evitato per un pelo i colpi di blaster del mercenario e mi sono scagliato contro di lui."
+
+
 translate italian ep020_pirate_rendevous_bb0ac07a:
 
-    # "The merc lost his balance while I skidded to a halt and steadied myself."
-    ""
 
-# game/episode020.rpy:1493
+    "Il mercenario perse l'equilibrio mentre io sbandavo e mi stabilizzavo."
+
+
 translate italian ep020_pirate_rendevous_1866941b:
 
-    # "I could just see him topple over the edge and plunge to his certain death in the lava below."
-    ""
 
-# game/episode020.rpy:1497
+    "Potevo vederlo cadere dal bordo e precipitare verso la morte certa nella lava sottostante."
+
+
 translate italian ep020_pirate_rendevous_10c021c8:
 
-    # "Before he could turn towards us, I shot him in the back."
-    ""
 
-# game/episode020.rpy:1499
+    "Prima che potesse voltarsi verso di noi, gli sparai alle spalle."
+
+
 translate italian ep020_pirate_rendevous_33cf325d:
 
-    # "The force of the blasts pushed him off the platform, plunging the merc to his death in the lava below."
-    ""
 
-# game/episode020.rpy:1500
+    "La forza dei colpi lo ha spinto fuori dalla piattaforma, facendo precipitare il mercante nella lava sottostante."
+
+
 translate italian ep020_pirate_rendevous_01592faa:
 
-    # c "I hope those shots didn’t alert any others."
-    c ""
 
-# game/episode020.rpy:1501
+    c "Spero che quei colpi non abbiano allertato nessun altro."
+
+
 translate italian ep020_pirate_rendevous_723ae06e:
 
-    # c "Let’s move."
-    c ""
 
-# game/episode020.rpy:1503
+    c "Muoviamoci."
+
+
 translate italian ep020_pirate_rendevous_767fd86e:
 
-    # "We met up with Aven and Kit on the other side of the building."
-    ""
 
-# game/episode020.rpy:1504
+    "Abbiamo incontrato Aven e Kit dall'altra parte dell'edificio."
+
+
 translate italian ep020_pirate_rendevous_f7a19005:
 
-    # ki "Any trouble?"
-    ki ""
 
-# game/episode020.rpy:1505
+    ki "Ci sono problemi?"
+
+
 translate italian ep020_pirate_rendevous_f5a8b940:
 
-    # c "Some, but he’s taking a swim down below."
-    c ""
 
-# game/episode020.rpy:1507
+    c "Qualcuno, ma sta facendo una nuotata di sotto."
+
+
 translate italian ep020_pirate_rendevous_04ad4b6d:
 
-    # ki "Ouch."
-    ki ""
 
-# game/episode020.rpy:1508
+    ki "Ahi."
+
+
 translate italian ep020_pirate_rendevous_aea8754a:
 
-    # av "This appears to be the entrance to the base."
-    av ""
 
-# game/episode020.rpy:1509
+    av "Questa sembra essere l'entrata della base."
+
+
 translate italian ep020_pirate_rendevous_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode020.rpy:1510
+    c "Bene."
+
+
 translate italian ep020_pirate_rendevous_20399da4:
 
-    # c "In that case we’ll split up once again."
-    c ""
 
-# game/episode020.rpy:1511
+    c "In questo caso ci divideremo ancora una volta."
+
+
 translate italian ep020_pirate_rendevous_6847ce86:
 
-    # c "Aven and Jade will find a way to tap into the main computer of the base."
-    c ""
 
-# game/episode020.rpy:1512
+    c "Aven e Jade troveranno un modo per entrare nel computer principale della base."
+
+
 translate italian ep020_pirate_rendevous_fdda09cc:
 
-    # c "See if you can find a way to disrupt the mercenary operations."
-    c ""
 
-# game/episode020.rpy:1514
+    c "Vedete se riuscite a trovare un modo per interrompere le operazioni dei mercenari."
+
+
 translate italian ep020_pirate_rendevous_4500fbc9:
 
-    # j "On it."
-    j ""
 
-# game/episode020.rpy:1515
+    j "Ci pensiamo noi."
+
+
 translate italian ep020_pirate_rendevous_947d1f4c:
 
-    # c "Kit, we’ll pay a visit to Skeda."
-    c ""
 
-# game/episode020.rpy:1517
+    c "Kit, faremo visita a Skeda."
+
+
 translate italian ep020_pirate_rendevous_74ee1eec:
 
-    # "Jade didn’t have to work on the door, as it just opened at the push of a button."
-    ""
 
-# game/episode020.rpy:1518
+    "Jade non ha dovuto lavorare sulla porta, che si è aperta semplicemente premendo un pulsante."
+
+
 translate italian ep020_pirate_rendevous_b8d9a53d:
 
-    # ki "Skeda really needs a lesson on domestic security."
-    ki ""
 
-# game/episode020.rpy:1519
+    ki "Skeda ha davvero bisogno di una lezione sulla sicurezza interna."
+
+
 translate italian ep020_pirate_rendevous_13731ee3:
 
-    # av "I guess he thinks the big guns and the lake of lava are enough protection."
-    av ""
 
-# game/episode020.rpy:1520
+    av "Immagino che pensi che i cannoni e il lago di lava siano una protezione sufficiente."
+
+
 translate italian ep020_pirate_rendevous_1f06af48:
 
-    # c "Well, we’re about to prove him wrong."
-    c ""
 
-# game/episode020.rpy:1522
+    c "Beh, stiamo per dimostrare che si sbaglia."
+
+
 translate italian ep020_pirate_rendevous_9b74f299:
 
-    # "Aven and Jade headed in the direction of where the base mainframe should be, while we made our way to the heart of the base."
-    ""
 
-# game/episode020.rpy:1524
+    "Aven e Jade si diressero in direzione del mainframe della base, mentre noi ci dirigemmo verso il cuore della base."
+
+
 translate italian ep020_pirate_rendevous_d756039c:
 
-    # "Just when I thought the base was deserted, we encountered two guards running toward us in a hallway."
-    ""
 
-# game/episode020.rpy:1526
+    "Proprio quando pensavo che la base fosse deserta, abbiamo incontrato due guardie che correvano verso di noi in un corridoio."
+
+
 translate italian ep020_pirate_rendevous_e073b115:
 
-    # "We didn’t wait for them to draw on us and immediately fired on them."
-    ""
 
-# game/episode020.rpy:1528
+    "Non abbiamo aspettato che ci puntassero addosso e abbiamo sparato immediatamente."
+
+
 translate italian ep020_pirate_rendevous_4fef3df9:
 
-    # "Kit caught the first one straight in the chest and the merc went down."
-    ""
 
-# game/episode020.rpy:1530
+    "Kit ha colpito la prima al petto e il mercenario è caduto a terra."
+
+
 translate italian ep020_pirate_rendevous_d4398ef8:
 
-    # "The other merc tried to find cover behind several shipping containers, but I shot him in the head before he could get into position."
-    ""
 
-# game/episode020.rpy:1532
+    "L'altro mercenario ha cercato riparo dietro alcuni container, ma gli ho sparato in testa prima che potesse mettersi in posizione."
+
+
 translate italian ep020_pirate_rendevous_2b713afd:
 
-    # ki "I guess they know we’ve arrived."
-    ki ""
 
-# game/episode020.rpy:1533
+    ki "Immagino che sappiano che siamo arrivati."
+
+
 translate italian ep020_pirate_rendevous_1221efcc:
 
-    # c "I’m a little offended by the size of the welcoming party."
-    c ""
 
-# game/episode020.rpy:1534
+    c "Sono un po' offeso dalle dimensioni della festa di benvenuto."
+
+
 translate italian ep020_pirate_rendevous_4ea66992:
 
-    # ki "Be careful what you wish for."
-    ki ""
 
-# game/episode020.rpy:1536
+    ki "Fai attenzione a ciò che desideri."
+
+
 translate italian ep020_pirate_rendevous_33253495:
 
-    # "As if on cue, four more mercs arrived."
-    ""
 
-# game/episode020.rpy:1537
+    "Come se non bastasse, arrivarono altri quattro mercenari."
+
+
 translate italian ep020_pirate_rendevous_804c717d:
 
-    # "Kit and I dove behind the shipping containers and started firing from that position."
-    ""
 
-# game/episode020.rpy:1539
+    "Io e Kit ci tuffammo dietro i container e iniziammo a sparare da quella posizione."
+
+
 translate italian ep020_pirate_rendevous_b71bc8bb:
 
-    # "One of the mercs was caught immediately in the crossfire."
-    ""
 
-# game/episode020.rpy:1540
+    "Uno dei mercenari fu immediatamente catturato dal fuoco incrociato."
+
+
 translate italian ep020_pirate_rendevous_5fe2431a:
 
-    # "The others hunkered down at the corners of the intersection."
-    ""
 
-# game/episode020.rpy:1541
+    "Gli altri si rintanarono agli angoli dell'incrocio."
+
+
 translate italian ep020_pirate_rendevous_84f4d889:
 
-    # "For a couple of minutes, we exchanged fire."
-    ""
 
-# game/episode020.rpy:1543
+    "Per un paio di minuti ci siamo scambiati il fuoco."
+
+
 translate italian ep020_pirate_rendevous_3cf1349d:
 
-    # ki "This is so tedious."
-    ki ""
 
-# game/episode020.rpy:1544
+    ki "È così noioso."
+
+
 translate italian ep020_pirate_rendevous_92695614:
 
-    # ki "Time to spice things up."
-    ki ""
 
-# game/episode020.rpy:1546
+    ki "È ora di dare un po' di pepe alla situazione."
+
+
 translate italian ep020_pirate_rendevous_b9ace9f4:
 
-    # "Kit retrieved a grenade from his belt and lobbed it in the direction of the mercs."
-    ""
 
-# game/episode020.rpy:1548
+    "Kit recuperò una granata dalla cintura e la lanciò in direzione dei mercenari."
+
+
 translate italian ep020_pirate_rendevous_fb95da55:
 
-    # "There was some frantic shouting followed by a sharp bang."
-    ""
 
-# game/episode020.rpy:1549
+    "Ci furono delle urla concitate seguite da un forte botto."
+
+
 translate italian ep020_pirate_rendevous_f47100b4:
 
-    # "Kit and I sprang up immediately and started moving towards the intersection, firing into the cloud of smoke."
-    ""
 
-# game/episode020.rpy:1551
+    "Io e Kit ci alzammo immediatamente e iniziammo a muoverci verso l'incrocio, sparando nella nuvola di fumo."
+
+
 translate italian ep020_pirate_rendevous_39dc8c34:
 
-    # "When the smoke dissipated we found the bodies of the remaining mercs among the rubble."
-    ""
 
-# game/episode020.rpy:1552
+    "Quando il fumo si è dissolto abbiamo trovato i corpi dei mercenari rimasti tra le macerie."
+
+
 translate italian ep020_pirate_rendevous_cbe23fd0:
 
-    # av "We’re at the mainframe, encountered some resistance."
-    av ""
 
-# game/episode020.rpy:1553
+    av "Siamo al mainframe, abbiamo incontrato una certa resistenza."
+
+
 translate italian ep020_pirate_rendevous_3fde4e19:
 
-    # c "Us too, I think we’re near Skeda."
-    c ""
 
-# game/episode020.rpy:1554
+    c "Anche noi, credo che siamo vicini a Skeda."
+
+
 translate italian ep020_pirate_rendevous_e9446c91:
 
-    # c "Let me know when you’ve accessed the mainframe."
-    c ""
 
-# game/episode020.rpy:1556
+    c "Fatemi sapere quando avrete raggiunto il mainframe."
+
+
 translate italian ep020_pirate_rendevous_932bde5e:
 
-    # "Kit and I ran in the direction of where the mercs had come from, until we reached a large door."
-    ""
 
-# game/episode020.rpy:1557
+    "Kit e io corremmo nella direzione da cui erano arrivati i mercenari, fino a raggiungere una grande porta."
+
+
 translate italian ep020_pirate_rendevous_88d74e07:
 
-    # "I punched the door controls and the double doors started sliding open."
-    ""
 
-# game/episode020.rpy:1558
+    "Ho premuto i comandi della porta e le doppie porte hanno iniziato ad aprirsi."
+
+
 translate italian ep020_pirate_rendevous_66a1577e:
 
-    # "Any hopes of having reached the entrance to Skeda’s quarters were quickly dashed."
-    ""
 
-# game/episode020.rpy:1560
+    "Le speranze di aver raggiunto l'ingresso dell'alloggio di Skeda vennero rapidamente disattese."
+
+
 translate italian ep020_pirate_rendevous_082bbf83:
 
-    # "Instead, a bulky figure was revealed."
-    ""
 
-# game/episode020.rpy:1561
+    "Al suo posto, venne fuori una figura ingombrante."
+
+
 translate italian ep020_pirate_rendevous_fbec8d78:
 
-    # "Evidently belonging to the same species of frail-looking aliens we already encountered, this specimen was either a different breed or just freak of nature."
-    ""
 
-# game/episode020.rpy:1562
+    "Evidentemente appartenente alla stessa specie di alieni dall'aspetto gracile che avevamo già incontrato, questo esemplare era di una razza diversa o semplicemente uno scherzo della natura."
+
+
 translate italian ep020_pirate_rendevous_e0e91459:
 
-    # ki "Oh fuck!"
-    ki ""
 
-# game/episode020.rpy:1564
+    ki "Oh, cazzo!"
+
+
 translate italian ep020_pirate_rendevous_b506e5fd:
 
-    # "The muscled alien slammed Kit in the head with its weapon, causing him to crumple against the wall."
-    ""
 
-# game/episode020.rpy:1566
+    "L'alieno muscoloso colpì Kit alla testa con la sua arma, facendolo accasciare contro il muro."
+
+
 translate italian ep020_pirate_rendevous_b3777705:
 
-    # "I managed to dart out of reach and fired several rounds of blaster fire which ricocheted against the merc’s armor."
-    ""
 
-# game/episode020.rpy:1567
+    "Riuscii a sfuggire alla sua portata e sparai diversi colpi di blaster che rimbalzarono contro l'armatura del mercenario."
+
+
 translate italian ep020_pirate_rendevous_57fee281:
 
-    # "The guy was clearly enjoying himself as he lumbered towards me with murderous intent."
-    ""
 
-# game/episode020.rpy:1569
+    "Il tipo si stava chiaramente divertendo mentre si dirigeva verso di me con intento omicida."
+
+
 translate italian ep020_pirate_rendevous_e65c08d7:
 
-    # man "Not so tough now, are you, human?"
-    man ""
 
-# game/episode020.rpy:1570
+    man "Non sei più così forte, vero, umano?"
+
+
 translate italian ep020_pirate_rendevous_63ec0dbd:
 
-    # "I fired several more rounds into the merc, with each shot glancing off his armored suit."
-    ""
 
-# game/episode020.rpy:1571
+    "Sparai altri colpi contro il mercenario, ma ogni colpo rimbalzò sulla sua armatura."
+
+
 translate italian ep020_pirate_rendevous_6f66ff3e:
 
-    # "His invincibility was starting to irritate me, so I frantically began to look for weak spots in his defences."
-    ""
 
-# game/episode020.rpy:1572
+    "La sua invincibilità cominciava a irritarmi, così iniziai a cercare freneticamente i punti deboli delle sue difese."
+
+
 translate italian ep020_pirate_rendevous_772da4e1:
 
-    # man "I’m going to have so much fun crushing you."
-    man ""
 
-# game/episode020.rpy:1573
+    man "Mi divertirò tantissimo a schiacciarti."
+
+
 translate italian ep020_pirate_rendevous_c375a6b4:
 
-    # c "Tell me, do those steroids you’re on slowly rot your brain or were you born stupid?"
-    c ""
 
-# game/episode020.rpy:1575
+    c "Dimmi, quegli steroidi che stai prendendo ti fanno marcire lentamente il cervello o sei nato stupido?"
+
+
 translate italian ep020_pirate_rendevous_cfa1147b:
 
-    # "I was stalling for time, which appeared to be working, as the merc roared and rushed me."
-    ""
 
-# game/episode020.rpy:1576
+    "Stavo prendendo tempo e sembrava che stesse funzionando, mentre il mercante ruggì e si precipitò su di me."
+
+
 translate italian ep020_pirate_rendevous_6bc5c3cf:
 
-    # man "I’ll teach the human some respect!"
-    man ""
 
-# game/episode020.rpy:1578
+    man "Insegnerò a quell'umano un po' di rispetto!"
+
+
 translate italian ep020_pirate_rendevous_abded885:
 
-    # "I could only partly sidestep the giant’s blow and took his grazing fist partly in the stomach and everything briefly went black."
-    ""
 
-# game/episode020.rpy:1579
+    "Riuscii a schivare solo in parte il colpo del gigante e presi il suo pugno radente in parte nello stomaco e per un attimo tutto divenne nero."
+
+
 translate italian ep020_pirate_rendevous_84e4406a:
 
-    # "It took an Herculean effort not to double over and I nearly failed to duck from the armored fist aimed at my face."
-    ""
 
-# game/episode020.rpy:1580
+    "Mi è costato uno sforzo erculeo per non raddoppiare e per poco non sono riuscito a schivare il pugno corazzato diretto al mio viso."
+
+
 translate italian ep020_pirate_rendevous_a44959c7:
 
-    # "Apparently, the giant had decided to grind me down with his fists, a prospect that didn’t fill me with much enthusiasm."
-    ""
 
-# game/episode020.rpy:1581
+    "A quanto pare, il gigante aveva deciso di stritolarmi con i suoi pugni, una prospettiva che non mi entusiasmava affatto."
+
+
 translate italian ep020_pirate_rendevous_0d397059:
 
-    # "Hitting him back was out of the question, the merc being encased in full armor."
-    ""
 
-# game/episode020.rpy:1582
+    "Colpirlo a mia volta era fuori discussione, dato che il mercante era rivestito di un'armatura completa."
+
+
 translate italian ep020_pirate_rendevous_8b785466:
 
-    # "Still reeling with the after effects of the glancing blow, I kept looking for weak points in my opponent’s armor."
-    ""
 
-# game/episode020.rpy:1583
+    "Ancora scosso dai postumi del colpo di striscio, continuai a cercare i punti deboli nell'armatura del mio avversario."
+
+
 translate italian ep020_pirate_rendevous_75619cd0:
 
-    # "Just then the merc lifted both his arms, ready to slam me down into the ground."
-    ""
 
-# game/episode020.rpy:1584
+    "Proprio in quel momento il mercante sollevò entrambe le braccia, pronto a sbattermi a terra."
+
+
 translate italian ep020_pirate_rendevous_6b129ae0:
 
-    # "That’s when I spotted the weak-looking padding in the area of his armpits."
-    ""
 
-# game/episode020.rpy:1585
+    "Fu allora che individuai la debole imbottitura nella zona delle ascelle."
+
+
 translate italian ep020_pirate_rendevous_50e2a7d4:
 
-    # "I had just one chance and not a whole lot of time to decide, so I took aim at one of the exposed armpits."
-    ""
 
-# game/episode020.rpy:1587
+    "Avevo solo una possibilità e poco tempo per decidere, così presi la mira su una delle ascelle esposte."
+
+
 translate italian ep020_pirate_rendevous_68f69a98:
 
-    # "My shot hit home and penetrated the armor before the merc could lower his arms."
-    ""
 
-# game/episode020.rpy:1588
+    "Il mio colpo andò a segno e penetrò nell'armatura prima che il mercenario potesse abbassare le braccia."
+
+
 translate italian ep020_pirate_rendevous_40017639:
 
-    # "The lumbering brute stood frozen and mute before me for several seconds as the blast of energy I’d fired traveled inside the armor."
-    ""
 
-# game/episode020.rpy:1589
+    "L'imponente bruto rimase immobile e muto davanti a me per diversi secondi, mentre l'esplosione di energia che avevo sparato viaggiava all'interno dell'armatura."
+
+
 translate italian ep020_pirate_rendevous_79f62211:
 
-    # "A roar of pain echoed throughout the hallway when the energy built up inside the merc’s protective shell and started cooking him inside it."
-    ""
 
-# game/episode020.rpy:1591
+    "Un ruggito di dolore echeggiò in tutto il corridoio quando l'energia si accumulò all'interno del guscio protettivo del merc e iniziò a cuocerlo al suo interno."
+
+
 translate italian ep020_pirate_rendevous_c4573e2c:
 
-    # "The merc flailed as blasts of fire sprouted from the seams at his arms."
-    ""
 
-# game/episode020.rpy:1592
+    "Il mercenario si dimenava mentre esplosioni di fuoco uscivano dalle cuciture delle sue braccia."
+
+
 translate italian ep020_pirate_rendevous_ccf3ebca:
 
-    # "Moments later, the head of the merc was engulfed in flames too."
-    ""
 
-# game/episode020.rpy:1594
+    "Pochi istanti dopo, anche la testa del mercenario fu avvolta dalle fiamme."
+
+
 translate italian ep020_pirate_rendevous_c99f5791:
 
-    # "The last of his screams died away as he toppled backwards and slammed onto the ground."
-    ""
 
-# game/episode020.rpy:1595
+    "Le sue ultime urla si spensero mentre cadeva all'indietro e sbatteva a terra."
+
+
 translate italian ep020_pirate_rendevous_67e35a1b:
 
-    # "I sidestepped the burning body to check on Kit, who stirred after being knocked against the wall."
-    ""
 
-# game/episode020.rpy:1597
+    "Ho scansato il corpo in fiamme per controllare Kit, che si agitava dopo essere stato sbattuto contro il muro."
+
+
 translate italian ep020_pirate_rendevous_3fc15ae0:
 
-    # c "Are you okay?"
-    c ""
 
-# game/episode020.rpy:1598
+    c "Stai bene?"
+
+
 translate italian ep020_pirate_rendevous_d74e7511:
 
-    # ki "Could be better, but I’ll live."
-    ki ""
 
-# game/episode020.rpy:1599
+    ki "Potrebbe andare meglio, ma sopravviverò."
+
+
 translate italian ep020_pirate_rendevous_fe5cac72:
 
-    # c "Ready to move on?"
-    c ""
 
-# game/episode020.rpy:1600
+    c "Sei pronto ad andare avanti?"
+
+
 translate italian ep020_pirate_rendevous_bde6643a:
 
-    # ki "Yup."
-    ki ""
 
-# game/episode020.rpy:1601
+    ki "Si."
+
+
 translate italian ep020_pirate_rendevous_ae51451f:
 
-    # ki "I just hope that’s the only giant Skeda has hired to deal with intruders."
-    ki ""
 
-# game/episode020.rpy:1603
+    ki "Spero solo che quello sia l'unico gigante che Skeda ha assunto per affrontare gli intrusi."
+
+
 translate italian ep020_pirate_rendevous_21bf70de:
 
-    # "We made our way through the corridors was uncontested."
-    ""
 
-# game/episode020.rpy:1604
+    "Ci facemmo strada attraverso i corridoi senza subire alcuno scontro."
+
+
 translate italian ep020_pirate_rendevous_be25b9c2:
 
-    # "Just as we reached the heart of Skeda’s base, Jade and Aven checked in again."
-    ""
 
-# game/episode020.rpy:1605
+    "Appena raggiunto il cuore della base di Skeda, Jade e Aven si sono registrati di nuovo."
+
+
 translate italian ep020_pirate_rendevous_2cc15622:
 
-    # av "Jade has full access to the base mainframe."
-    av ""
 
-# game/episode020.rpy:1606
+    av "Jade ha pieno accesso al mainframe della base."
+
+
 translate italian ep020_pirate_rendevous_704a4a9f:
 
-    # av "She prevented the base from going on full alert."
-    av ""
 
-# game/episode020.rpy:1607
+    av "Ha impedito che la base entrasse in stato di massima allerta."
+
+
 translate italian ep020_pirate_rendevous_0036bcea:
 
-    # av "Most of the mercs were sleeping in the barracks, so she overrode the door controls and forced them to lock."
-    av ""
 
-# game/episode020.rpy:1608
+    av "La maggior parte dei mercenari stava dormendo nelle caserme, quindi ha bypassato i controlli delle porte e le ha costrette a chiudersi."
+
+
 translate italian ep020_pirate_rendevous_2fcf7665:
 
-    # ki "Let’s hope no one wakes up then."
-    ki ""
 
-# game/episode020.rpy:1609
+    ki "Speriamo che nessuno si svegli."
+
+
 translate italian ep020_pirate_rendevous_64bae172:
 
-    # av "Unlikely, as the air filtration system is currently outputting a mixture of gasses that will knock out most known species."
-    av ""
 
-# game/episode020.rpy:1610
+    av "È improbabile, perché il sistema di filtraggio dell'aria sta emettendo una miscela di gas che mette fuori gioco la maggior parte delle specie conosciute."
+
+
 translate italian ep020_pirate_rendevous_36af9bc7:
 
-    # c "Good, that gives us a whole lot less to worry about."
-    c ""
 
-# game/episode020.rpy:1611
+    c "Bene, questo ci dà molto meno di cui preoccuparci."
+
+
 translate italian ep020_pirate_rendevous_2961912b:
 
-    # c "Will she be able to cause some more damage?"
-    c ""
 
-# game/episode020.rpy:1612
+    c "Riuscirà a causare altri danni?"
+
+
 translate italian ep020_pirate_rendevous_7465c8b2:
 
-    # av "I believe we can disable the heat shielding surrounding the entire base, leaving it unprotected."
-    av ""
 
-# game/episode020.rpy:1614
+    av "Credo che possiamo disattivare lo scudo termico che circonda l'intera base, lasciandola senza protezione."
+
+
 translate italian ep020_pirate_rendevous_2db30970:
 
-    # c "I assume the base wouldn’t last long without shields?"
-    c ""
 
-# game/episode020.rpy:1615
+    c "Immagino che la base non durerebbe a lungo senza scudi?"
+
+
 translate italian ep020_pirate_rendevous_1b6f8418:
 
-    # av "There were some reports stored on the base network containing projections of what would happen in case of a major outage."
-    av ""
 
-# game/episode020.rpy:1616
+    av "Nella rete della base sono stati archiviati alcuni rapporti che contengono proiezioni di ciò che accadrebbe in caso di un'interruzione importante."
+
+
 translate italian ep020_pirate_rendevous_cf8f496a:
 
-    # av "Major structural damage to the buildings, electrical fires and explosions."
-    av ""
 
-# game/episode020.rpy:1617
+    av "Gravi danni strutturali agli edifici, incendi elettrici ed esplosioni."
+
+
 translate italian ep020_pirate_rendevous_d07b69f6:
 
-    # av "Without shields, the base wouldn’t last more than an hour."
-    av ""
 
-# game/episode020.rpy:1618
+    av "Senza scudi, la base non sarebbe durata più di un'ora."
+
+
 translate italian ep020_pirate_rendevous_f4148b6d:
 
-    # c "Excellent, now we just have to find Skeda."
-    c ""
 
-# game/episode020.rpy:1619
+    c "Eccellente, ora dobbiamo solo trovare Skeda."
+
+
 translate italian ep020_pirate_rendevous_dbeaf46a:
 
-    # av "According to Jade, you’re nearing his location."
-    av ""
 
-# game/episode020.rpy:1620
+    av "Secondo Jade, vi state avvicinando alla sua posizione."
+
+
 translate italian ep020_pirate_rendevous_21482d9c:
 
-    # c "That makes sense, considering the amount of firepower thrown at us for the past few minutes."
-    c ""
 
-# game/episode020.rpy:1621
+    c "Questo ha senso, considerando la quantità di potenza di fuoco che ci è stata lanciata addosso negli ultimi minuti."
+
+
 translate italian ep020_pirate_rendevous_7b4e9a10:
 
-    # c "Be ready to trigger the chain reaction and make for the exit as soon as I give the signal."
-    c ""
 
-# game/episode020.rpy:1622
+    c "Tieniti pronto a innescare la reazione a catena e dirigiti verso l'uscita non appena ti darò il segnale."
+
+
 translate italian ep020_pirate_rendevous_b4ae8e70:
 
-    # av "Understood."
-    av ""
 
-# game/episode020.rpy:1623
+    av "Ricevuto."
+
+
 translate italian ep020_pirate_rendevous_cf6b0c71:
 
-    # c "Ready to have a word with Skeda?"
-    c ""
 
-# game/episode020.rpy:1624
+    c "Sei pronto a parlare con Skeda?"
+
+
 translate italian ep020_pirate_rendevous_12309c29:
 
-    # ki "Why don’t we just blow up the base right here and now?"
-    ki ""
 
-# game/episode020.rpy:1625
+    ki "Perché non facciamo saltare in aria la base qui e ora?"
+
+
 translate italian ep020_pirate_rendevous_1ccb079c:
 
-    # c "Tempting, but we have to make sure Skeda is actually here and make sure he doesn’t get a chance to leave."
-    c ""
 
-# game/episode020.rpy:1626
+    c "La tentazione è forte, ma dobbiamo assicurarci che Skeda sia davvero qui e che non abbia la possibilità di andarsene."
+
+
 translate italian ep020_pirate_rendevous_98218a47:
 
-    # ki "In that case, let’s find Skeda and give him the happy news."
-    ki ""
 
-# game/episode020.rpy:1628
+    ki "In questo caso, troviamo Skeda e diamogli la lieta notizia."
+
+
 translate italian ep020_pirate_rendevous_782ac6ba:
 
-    # "Skeda’s throne room was guarded by two mercs on full alert."
-    ""
 
-# game/episode020.rpy:1629
+    "La sala del trono di Skeda era sorvegliata da due mercenari in stato di massima allerta."
+
+
 translate italian ep020_pirate_rendevous_51e1a998:
 
-    # c "Don’t shoot, or you’ll regret it."
-    c ""
 
-# game/episode020.rpy:1630
+    c "Non sparare o te ne pentirai."
+
+
 translate italian ep020_pirate_rendevous_f5ebd1ec:
 
-    # c "We have some information your boss will want to hear."
-    c ""
 
-# game/episode020.rpy:1631
+    c "Abbiamo delle informazioni che il tuo capo vorrà sentire."
+
+
 translate italian ep020_pirate_rendevous_7c3896ca:
 
-    # c "So I suggest you lower your weapons and take us to him."
-    c ""
 
-# game/episode020.rpy:1632
+    c "Quindi vi suggerisco di abbassare le armi e di portarci da lui."
+
+
 translate italian ep020_pirate_rendevous_90a17002:
 
-    # "The guards hesitated, unsure what to do."
-    ""
 
-# game/episode020.rpy:1633
+    "Le guardie esitarono, incerte sul da farsi."
+
+
 translate italian ep020_pirate_rendevous_f5120de8:
 
-    # c "If you’re thinking of calling for backup, I wouldn’t bother."
-    c ""
 
-# game/episode020.rpy:1634
+    c "Se state pensando di chiamare i rinforzi, non mi preoccuperei."
+
+
 translate italian ep020_pirate_rendevous_6bd49c95:
 
-    # c "We have full control over the essential systems."
-    c ""
 
-# game/episode020.rpy:1635
+    c "Abbiamo il pieno controllo dei sistemi essenziali."
+
+
 translate italian ep020_pirate_rendevous_bd5b2be8:
 
-    # c "If you need a demonstration, I can ask to open a hard vacuum on the other side of that door you’re guarding."
-    c ""
 
-# game/episode020.rpy:1636
+    c "Se hai bisogno di una dimostrazione, posso chiederti di aprire un vuoto assoluto dall'altra parte della porta che stai sorvegliando."
+
+
 translate italian ep020_pirate_rendevous_c0ed5191:
 
-    # c "We’ll be happy to speak to the person next in charge after Skeda expires."
-    c ""
 
-# game/episode020.rpy:1638
+    c "Saremo lieti di parlare con il prossimo responsabile dopo la scadenza di Skeda."
+
+
 translate italian ep020_pirate_rendevous_8e772d3e:
 
-    # "This got their attention and one of the guards opened the door."
-    ""
 
-# game/episode020.rpy:1639
+    "Questo attirò la loro attenzione e una delle guardie aprì la porta."
+
+
 translate italian ep020_pirate_rendevous_ab068a80:
 
-    # c "Lead the way."
-    c ""
 
-# game/episode020.rpy:1640
+    c "Facci strada."
+
+
 translate italian ep020_pirate_rendevous_f1d0597b:
 
-    # "The guards brought us into a room, stacked with containers and crates."
-    ""
 
-# game/episode020.rpy:1641
+    "Le guardie ci portarono in una stanza, piena di contenitori e casse."
+
+
 translate italian ep020_pirate_rendevous_29a7adad:
 
-    # "The walls were lined with empty tables and chairs."
-    ""
 
-# game/episode020.rpy:1642
+    "Le pareti erano tappezzate di tavoli e sedie vuote."
+
+
 translate italian ep020_pirate_rendevous_ac3b107e:
 
-    # "This was probably were most of the mercs hung out when they weren’t out raiding or, in this case, sleeping."
-    ""
 
-# game/episode020.rpy:1644
+    "Probabilmente era qui che la maggior parte dei mercenari passava il tempo quando non era in giro a razziare o, in questo caso, a dormire."
+
+
 translate italian ep020_pirate_rendevous_54369814:
 
-    # "At the far end of the room a large throne was installed among the cargo containers."
-    ""
 
-# game/episode020.rpy:1645
+    "All'estremità della stanza era stato installato un grande trono tra i container."
+
+
 translate italian ep020_pirate_rendevous_1ee4c39c:
 
-    # "In front of the throne, two naked feline aliens sat on their knees, obviously at the beck and call of the large man sitting in front of them."
-    ""
 
-# game/episode020.rpy:1647
+    "Davanti al trono, due alieni felini nudi erano seduti in ginocchio, ovviamente agli ordini del grande uomo seduto di fronte a loro."
+
+
 translate italian ep020_pirate_rendevous_23ed7b96:
 
-    # "Kit made the mercs walking in front of us lie on the floor with their hands behind their head."
-    ""
 
-# game/episode020.rpy:1648
+    "Kit ha fatto sdraiare i mercenari che camminavano davanti a noi sul pavimento con le mani dietro la testa."
+
+
 translate italian ep020_pirate_rendevous_73e21e0c:
 
-    # c "I assume you’re Alilph Skeda?"
-    c ""
 
-# game/episode020.rpy:1650
+    c "Immagino che tu sia Alilph Skeda?"
+
+
 translate italian ep020_pirate_rendevous_99d432b8:
 
-    # sk "I am."
-    sk ""
 
-# game/episode020.rpy:1651
+    sk "Lo sono."
+
+
 translate italian ep020_pirate_rendevous_ae950200:
 
-    # sk "And who might you be?"
-    sk ""
 
-# game/episode020.rpy:1652
+    sk "E tu chi saresti?"
+
+
 translate italian ep020_pirate_rendevous_026c04f8:
 
-    # c "I’m the person currently controlling this base."
-    c ""
 
-# game/episode020.rpy:1653
+    c "Sono la persona che attualmente controlla questa base."
+
+
 translate italian ep020_pirate_rendevous_9fbcfd58:
 
-    # "Skeda pushed a button on a panel attached to his throne."
-    ""
 
-# game/episode020.rpy:1654
+    "Skeda premette un pulsante su un pannello collegato al suo trono."
+
+
 translate italian ep020_pirate_rendevous_a7dc4620:
 
-    # c "Don’t bother alerting your fellow Skivs, they’re locked up in the barracks."
-    c ""
 
-# game/episode020.rpy:1655
+    c "Non preoccuparti di avvisare i tuoi compagni Skiv, sono rinchiusi nella caserma."
+
+
 translate italian ep020_pirate_rendevous_23e94112:
 
-    # sk "What do you want?"
-    sk ""
 
-# game/episode020.rpy:1656
+    sk "Cosa vuoi?"
+
+
 translate italian ep020_pirate_rendevous_530a9bf6:
 
-    # c "To kill you."
-    c ""
 
-# game/episode020.rpy:1658
+    c "Ucciderti."
+
+
 translate italian ep020_pirate_rendevous_85f971fa:
 
-    # sk "That bitch sent you, didn’t she?"
-    sk ""
 
-# game/episode020.rpy:1659
+    sk "Ti ha mandato quella puttana, vero?"
+
+
 translate italian ep020_pirate_rendevous_fc3a499e:
 
-    # sk "Xile has had it in for me for years."
-    sk ""
 
-# game/episode020.rpy:1660
+    sk "Xile ce l'ha con me da anni."
+
+
 translate italian ep020_pirate_rendevous_25c4e0d6:
 
-    # c "Assassination attempts seem to have that effect on people."
-    c ""
 
-# game/episode020.rpy:1662
+    c "I tentativi di assassinio sembrano avere questo effetto sulle persone."
+
+
 translate italian ep020_pirate_rendevous_01a0238a:
 
-    # sk "You’re hired help."
-    sk ""
 
-# game/episode020.rpy:1663
+    sk "Sei un aiuto assunto."
+
+
 translate italian ep020_pirate_rendevous_db6b26f0:
 
-    # sk "Allow me to make an counter-offer to whatever Xile is promising you."
-    sk ""
 
-# game/episode020.rpy:1667
+    sk "Permettimi di fare una controfferta a qualsiasi cosa Xile ti stia promettendo."
+
+
 translate italian ep020_pirate_rendevous_15e84c18:
 
-    # c "I’m listening."
-    c ""
 
-# game/episode020.rpy:1669
+    c "Ti ascolto."
+
+
 translate italian ep020_pirate_rendevous_39fdc7cc:
 
-    # sk "I’m sure Xile is promising you a lot of money?"
-    sk ""
 
-# game/episode020.rpy:1670
+    sk "Sono sicuro che Xile ti stia promettendo un sacco di soldi?"
+
+
 translate italian ep020_pirate_rendevous_7ce8fb33:
 
-    # c "Maybe she is."
-    c ""
 
-# game/episode020.rpy:1671
+    c "Forse sì."
+
+
 translate italian ep020_pirate_rendevous_9602e8ea:
 
-    # c "You’re going to offer me more, aren’t you?"
-    c ""
 
-# game/episode020.rpy:1672
+    c "Mi offrirai di più, vero?"
+
+
 translate italian ep020_pirate_rendevous_05b0ae20:
 
-    # sk "How perceptive, you’ve done this before."
-    sk ""
 
-# game/episode020.rpy:1673
+    sk "Che perspicacia, l'hai già fatto in passato."
+
+
 translate italian ep020_pirate_rendevous_2aadbc19:
 
-    # sk "Let me cut to the chase."
-    sk ""
 
-# game/episode020.rpy:1674
+    sk "Vengo subito al sodo."
+
+
 translate italian ep020_pirate_rendevous_68e23924:
 
-    # sk "I’ll offer you twenty thousand credits to kill that bitch and blow her base sky high."
-    sk ""
 
-# game/episode020.rpy:1675
+    sk "Ti offro ventimila crediti per uccidere quella puttana e far saltare in aria la sua base."
+
+
 translate italian ep020_pirate_rendevous_90145f2c:
 
-    # c "Twenty is barely more than Xile is offering us."
-    c ""
 
-# game/episode020.rpy:1676
+    c "Venti è appena più di quanto ci offre Xile."
+
+
 translate italian ep020_pirate_rendevous_0464c90a:
 
-    # c "Make it forty and we have a deal."
-    c ""
 
-# game/episode020.rpy:1678
+    c "Facciamo quaranta e abbiamo un accordo."
+
+
 translate italian ep020_pirate_rendevous_5ce089d7:
 
-    # sk "That’s outrageous!"
-    sk ""
 
-# game/episode020.rpy:1679
+    sk "È scandaloso!"
+
+
 translate italian ep020_pirate_rendevous_c43fb502:
 
-    # sk "Twenty-five."
-    sk ""
 
-# game/episode020.rpy:1680
+    sk "Venticinque."
+
+
 translate italian ep020_pirate_rendevous_087201bb:
 
-    # c "Thirty-five."
-    c ""
 
-# game/episode020.rpy:1682
+    c "Trentacinque."
+
+
 translate italian ep020_pirate_rendevous_4c266dbf:
 
-    # sk "Twenty-seven."
-    sk ""
 
-# game/episode020.rpy:1683
+    sk "Ventisette."
+
+
 translate italian ep020_pirate_rendevous_49cee1ad:
 
-    # c "Thirty and I want the same deal I had with Xile."
-    c ""
 
-# game/episode020.rpy:1684
+    c "Trenta e voglio lo stesso accordo che avevo con Xile."
+
+
 translate italian ep020_pirate_rendevous_1f354d89:
 
-    # sk "What did she agree to?"
-    sk ""
 
-# game/episode020.rpy:1685
+    sk "Cosa aveva accettato?"
+
+
 translate italian ep020_pirate_rendevous_34c39294:
 
-    # c "She was to provide us with safe passage through Petrarch."
-    c ""
 
-# game/episode020.rpy:1686
+    c "Doveva fornirci un passaggio sicuro attraverso Petrarca."
+
+
 translate italian ep020_pirate_rendevous_b17c954c:
 
-    # sk "What do you want on Petrarch?"
-    sk ""
 
-# game/episode020.rpy:1687
+    sk "Cosa vuoi da Petrarca?"
+
+
 translate italian ep020_pirate_rendevous_2838c0b9:
 
-    # c "That’s none of your business."
-    c ""
 
-# game/episode020.rpy:1688
+    c "Non sono affari tuoi."
+
+
 translate italian ep020_pirate_rendevous_ef569477:
 
-    # sk "Fine."
-    sk ""
 
-# game/episode020.rpy:1690
+    sk "Va bene."
+
+
 translate italian ep020_pirate_rendevous_d012f113:
 
-    # sk "Thirty-thousand credits and an armed escort to Petrarch."
-    sk ""
 
-# game/episode020.rpy:1694
+    sk "Trentamila crediti e una scorta armata per Petrarca."
+
+
 translate italian ep020_pirate_rendevous_258e705e:
 
-    # c "No offence, but Xile’s operation seems a lot more professional than yours."
-    c ""
 
-# game/episode020.rpy:1695
+    c "Senza offesa, ma l'operazione di Xile sembra molto più professionale della tua."
+
+
 translate italian ep020_pirate_rendevous_65056bca:
 
-    # c "I can’t just walk in there and shoot her through the head."
-    c ""
 
-# game/episode020.rpy:1697
+    c "Non posso entrare lì e spararle in testa."
+
+
 translate italian ep020_pirate_rendevous_bf140077:
 
-    # sk "I admit we’ve had a few minor setbacks the past few years, for which the Irregulars are to blame."
-    sk ""
 
-# game/episode020.rpy:1698
+    sk "Ammetto che negli ultimi anni abbiamo avuto qualche piccolo contrattempo, per il quale la colpa è degli Irregolari."
+
+
 translate italian ep020_pirate_rendevous_469a8cc9:
 
-    # sk "My crew will be restored to it’s former glory, after the Irregulars have been dealt with."
-    sk ""
 
-# game/episode020.rpy:1699
+    sk "Il mio equipaggio tornerà al suo antico splendore dopo che gli Irregolari saranno stati eliminati."
+
+
 translate italian ep020_pirate_rendevous_aac4d386:
 
-    # sk "So we need to rely on cunning."
-    sk ""
 
-# game/episode020.rpy:1700
+    sk "Quindi dobbiamo affidarci all'astuzia."
+
+
 translate italian ep020_pirate_rendevous_e06bb0c0:
 
-    # c "Cunning..."
-    c ""
 
-# game/episode020.rpy:1701
+    c "Astuzia..."
+
+
 translate italian ep020_pirate_rendevous_6a6fb5e4:
 
-    # sk "As you might have noticed, the Irregulars are very tight on security."
-    sk ""
 
-# game/episode020.rpy:1702
+    sk "Come avrai notato, gli Irregolari sono molto attenti alla sicurezza."
+
+
 translate italian ep020_pirate_rendevous_285af71f:
 
-    # sk "Nobody knows where exactly their base is located."
-    sk ""
 
-# game/episode020.rpy:1703
+    sk "Nessuno sa dove si trovi esattamente la loro base."
+
+
 translate italian ep020_pirate_rendevous_ffda5021:
 
-    # sk "Even the few ex-members of Xile’s crew will not tell anyone, even under torture."
-    sk ""
 
-# game/episode020.rpy:1704
+    sk "Persino i pochi ex membri dell'equipaggio di Xile non lo diranno a nessuno, nemmeno sotto tortura."
+
+
 translate italian ep020_pirate_rendevous_4ea14f8f:
 
-    # sk "So, what I’m proposing is that you’ll wear a tracker when you next meet Xile."
-    sk ""
 
-# game/episode020.rpy:1706
+    sk "Quindi, ti propongo di indossare un localizzatore quando incontrerai Xile."
+
+
 translate italian ep020_pirate_rendevous_1734491f:
 
-    # sk "As soon as we have a fix on the location, we’ll swoop in and bomb that base to oblivion."
-    sk ""
 
-# game/episode020.rpy:1707
+    sk "Non appena avremo individuato la posizione, interverremo e bombarderemo la base fino a farla sparire."
+
+
 translate italian ep020_pirate_rendevous_98ff09a1:
 
-    # c "Two tiny flaws in that plan of yours."
-    c ""
 
-# game/episode020.rpy:1708
+    c "Ci sono due piccoli difetti in questo tuo piano."
+
+
 translate italian ep020_pirate_rendevous_ab236046:
 
-    # c "One is that they’ll be sure to scan or search for tracking devices."
-    c ""
 
-# game/episode020.rpy:1709
+    c "Uno è che sicuramente scansioneranno o cercheranno dei dispositivi di tracciamento."
+
+
 translate italian ep020_pirate_rendevous_19e684d4:
 
-    # c "And two is that I’ll still be in that base you plan on reducing to rubble."
-    c ""
 
-# game/episode020.rpy:1711
+    c "E due: io sarò ancora nella base che intendi ridurre in macerie."
+
+
 translate italian ep020_pirate_rendevous_b4f06fdb:
 
-    # sk "You won’t be wearing that tracker on your person."
-    sk ""
 
-# game/episode020.rpy:1712
+    sk "Non indosserai quel localizzatore sulla tua persona."
+
+
 translate italian ep020_pirate_rendevous_4259001d:
 
-    # sk "I’ve managed to get my hands on a bio-degradable tracker that can be ingested."
-    sk ""
 
-# game/episode020.rpy:1713
+    sk "Sono riuscito a mettere le mani su un localizzatore biodegradabile che può essere ingerito."
+
+
 translate italian ep020_pirate_rendevous_347f96c1:
 
-    # sk "The activation is time-delayed, so it shouldn’t be visible on any scanners before it is too late."
-    sk ""
 
-# game/episode020.rpy:1714
+    sk "L'attivazione è ritardata, quindi non dovrebbe essere visibile su nessuno scanner prima che sia troppo tardi."
+
+
 translate italian ep020_pirate_rendevous_c0f3263c:
 
-    # sk "We only need to pinpoint your location once."
-    sk ""
 
-# game/episode020.rpy:1716
+    sk "Dobbiamo individuare la tua posizione solo una volta."
+
+
 translate italian ep020_pirate_rendevous_ba876c4e:
 
-    # sk "So you can go in and out of the Irregulars base before we enter orbit."
-    sk ""
 
-# game/episode020.rpy:1717
+    sk "Così potrai entrare e uscire dalla base degli Irregolari prima che entriamo in orbita."
+
+
 translate italian ep020_pirate_rendevous_5238ab13:
 
-    # c "What do I tell Xile once I’m inside?"
-    c ""
 
-# game/episode020.rpy:1718
+    c "Cosa dirò a Xile una volta dentro?"
+
+
 translate italian ep020_pirate_rendevous_135a9089:
 
-    # c "I’m sure she’ll demand proof of your death."
-    c ""
 
-# game/episode020.rpy:1720
+    c "Sono sicuro che chiederà una prova della tua morte."
+
+
 translate italian ep020_pirate_rendevous_c6a5426e:
 
-    # "Skeda snapped his fingers and one of the cat women sprang up in response."
-    ""
 
-# game/episode020.rpy:1721
+    "Skeda schioccò le dita e una delle donne gatto si alzò in risposta."
+
+
 translate italian ep020_pirate_rendevous_5e6f594b:
 
-    # sk "Get me that bag from the fridge, will you, pet?"
-    sk ""
 
-# game/episode020.rpy:1723
+    sk "Prendimi quella borsa dal frigo, ti dispiace, cucciolo?"
+
+
 translate italian ep020_pirate_rendevous_232e5a46:
 
-    # "The naked woman scampered toward the bar and retrieved a large bag, which she dropped in front of my feet."
-    ""
 
-# game/episode020.rpy:1725
+    "La donna nuda si diresse verso il bar e recuperò una grande borsa che lasciò cadere davanti ai miei piedi."
+
+
 translate italian ep020_pirate_rendevous_3d78811b:
 
-    # sk "Inside is a severed head."
-    sk ""
 
-# game/episode020.rpy:1726
+    sk "All'interno c'è una testa mozzata."
+
+
 translate italian ep020_pirate_rendevous_851e0609:
 
-    # c "How nice."
-    c ""
 
-# game/episode020.rpy:1727
+    c "Che bello."
+
+
 translate italian ep020_pirate_rendevous_e6693598:
 
-    # c "That doesn’t help me much, unless it’s your head, which seems a stretch."
-    c ""
 
-# game/episode020.rpy:1728
+    c "Questo non mi aiuta molto, a meno che non sia la tua testa, il che mi sembra esagerato."
+
+
 translate italian ep020_pirate_rendevous_1d0b8740:
 
-    # sk "It’s the head from a clone who met his unfortunate early demise."
-    sk ""
 
-# game/episode020.rpy:1729
+    sk "È la testa di un clone che ha incontrato la sua sfortunata morte prematura."
+
+
 translate italian ep020_pirate_rendevous_103cb138:
 
-    # sk "Genetically it’s indistinguishable from me."
-    sk ""
 
-# game/episode020.rpy:1731
+    sk "Geneticamente è indistinguibile da me."
+
+
 translate italian ep020_pirate_rendevous_1109f6c4:
 
-    # sk "I’d say that’s proof enough."
-    sk ""
 
-# game/episode020.rpy:1732
+    sk "Direi che è una prova sufficiente."
+
+
 translate italian ep020_pirate_rendevous_e8d9163f:
 
-    # sk "Convince Xile I’m dead, wait for the tracker to activate and get the hell out of there."
-    sk ""
 
-# game/episode020.rpy:1733
+    sk "Convinci Xile che sono morto, aspetta che il localizzatore si attivi e vattene da lì."
+
+
 translate italian ep020_pirate_rendevous_c3ee0c63:
 
-    # sk "I’ll be waiting with the requested escort and the money."
-    sk ""
 
-# game/episode020.rpy:1734
+    sk "Ti aspetto con la scorta richiesta e i soldi."
+
+
 translate italian ep020_pirate_rendevous_bf8b3b20:
 
-    # c "Pleasure doing business."
-    c ""
 
-# game/episode020.rpy:1735
+    c "È un piacere fare affari."
+
+
 translate italian ep020_pirate_rendevous_3a421a07:
 
-    # sk "Likewise."
-    sk ""
 
-# game/episode020.rpy:1737
+    sk "Allo stesso modo."
+
+
 translate italian ep020_pirate_rendevous_b540166d:
 
-    # "Before we left the base, I received the tracker Skeda talked about."
-    ""
 
-# game/episode020.rpy:1738
+    "Prima di lasciare la base, ho ricevuto il localizzatore di cui parlava Skeda."
+
+
 translate italian ep020_pirate_rendevous_d87be5a1:
 
-    # "Together with the head, Kit and I made our way down to where the speeders were parked."
-    ""
 
-# game/episode020.rpy:1740
+    "Insieme al capo, Kit e io ci siamo diretti verso il punto in cui erano parcheggiati gli speeder."
+
+
 translate italian ep020_pirate_rendevous_73fd0b47:
 
-    # c "Change of plans."
-    c ""
 
-# game/episode020.rpy:1741
+    c "Cambio di programma."
+
+
 translate italian ep020_pirate_rendevous_e35c1a24:
 
-    # av "Come again?"
-    av ""
 
-# game/episode020.rpy:1742
+    av "Venire di nuovo?"
+
+
 translate italian ep020_pirate_rendevous_da465f6f:
 
-    # c "Skeda made us a better offer."
-    c ""
 
-# game/episode020.rpy:1743
+    c "Skeda ci ha fatto un'offerta migliore."
+
+
 translate italian ep020_pirate_rendevous_c55df7e5:
 
-    # c "Meet us at the speeders and I’ll explain everything."
-    c ""
 
-# game/episode020.rpy:1744
+    c "Incontriamoci agli speeder e vi spiegherò tutto."
+
+
 translate italian ep020_pirate_rendevous_10dfbd52:
 
-    # "Jade and Aven were a little apprehensive about this turn of events."
-    ""
 
-# game/episode020.rpy:1746
+    "Jade e Aven erano un po' preoccupati per questa svolta."
+
+
 translate italian ep020_pirate_rendevous_15593a9a:
 
-    # "Their misgivings were drowned out by Kit’s enthusiasm of the fortune we were promised by Skeda."
-    ""
 
-# game/episode020.rpy:1747
+    "Le loro perplessità furono soffocate dall'entusiasmo di Kit per la fortuna che ci era stata promessa da Skeda."
+
+
 translate italian ep020_pirate_rendevous_0cda2ac2:
 
-    # "In the end, both women trusted my judgement and we went back to the Bastard to get the others up to speed."
-    ""
 
-# game/episode020.rpy:1749
+    "Alla fine, entrambe le donne si sono fidate del mio giudizio e siamo tornate al Bastardo per aggiornare gli altri."
+
+
 translate italian ep020_pirate_rendevous_bf20f1d9:
 
-    # c "Good to know you’re desperate."
-    c ""
 
-# game/episode020.rpy:1750
+    c "Mi fa piacere sapere che siete disperati."
+
+
 translate italian ep020_pirate_rendevous_75cda7f8:
 
-    # sk "So you accept?"
-    sk ""
 
-# game/episode020.rpy:1759
+    sk "Quindi accettate?"
+
+
 translate italian ep020_pirate_rendevous_c9512020:
 
-    # "As soon as we were out of orbit, Céline messaged the Irregulars for another meetup."
-    ""
 
-# game/episode020.rpy:1760
+    "Non appena fummo fuori dall'orbita, Céline mandò un messaggio alle Irregolari per un altro incontro."
+
+
 translate italian ep020_pirate_rendevous_67daae75:
 
-    # "They responded promptly and we were subjected to the same song and dance as before."
-    ""
 
-# game/episode020.rpy:1762
+    "Hanno risposto prontamente e siamo stati sottoposti allo stesso balletto di prima."
+
+
 translate italian ep020_pirate_rendevous_5518e9a4:
 
-    # "Aven and Thyia were with me on the shuttle that took us to the base of the Irregulars."
-    ""
 
-# game/episode020.rpy:1765
+    "Aven e Thyia erano con me sulla navetta che ci portò alla base degli Irregolari."
+
+
 translate italian ep020_pirate_rendevous_7e97b784:
 
-    # "The shuttle landed in the clearing and we were greeted once again by a squad of mercenaries who took us to the base."
-    ""
 
-# game/episode020.rpy:1767
+    "La navetta è atterrata nella radura e siamo stati accolti ancora una volta da una squadra di mercenari che ci ha portato alla base."
+
+
 translate italian ep020_pirate_rendevous_c461099c:
 
-    # "Xile awaited us in the lobby of the base."
-    ""
 
-# game/episode020.rpy:1769
+    "Xile ci aspettava nell'atrio della base."
+
+
 translate italian ep020_pirate_rendevous_5a43d7b5:
 
-    # xi "I hear you have caused quite the inferno back on Aretine."
-    xi ""
 
-# game/episode020.rpy:1770
+    xi "Ho sentito che avete causato un vero e proprio inferno su Aretine."
+
+
 translate italian ep020_pirate_rendevous_d4fb81d5:
 
-    # c "Who knew that molten rock and steel foundations were such a bad combination?"
-    c ""
 
-# game/episode020.rpy:1771
+    c "Chi l'avrebbe mai detto che la roccia fusa e le fondamenta in acciaio fossero una combinazione così negativa?"
+
+
 translate italian ep020_pirate_rendevous_00936b37:
 
-    # c "Skeda has been taken care off."
-    c ""
 
-# game/episode020.rpy:1772
+    c "Skeda è stato curato."
+
+
 translate italian ep020_pirate_rendevous_36483ff8:
 
-    # xi "So I've heard."
-    xi ""
 
-# game/episode020.rpy:1773
+    xi "Così ho sentito dire."
+
+
 translate italian ep020_pirate_rendevous_c20466be:
 
-    # xi "My crew has already sifted through the wreckage and found some of Skeda's remains."
-    xi ""
 
-# game/episode020.rpy:1774
+    xi "Il mio equipaggio ha già setacciato i rottami e ha trovato alcuni resti di Skeda."
+
+
 translate italian ep020_pirate_rendevous_b2163ada:
 
-    # xi "Some of his crew managed to escape and have been spreading the word of Skeda's downfall."
-    xi ""
 
-# game/episode020.rpy:1775
+    xi "Alcuni membri del suo equipaggio sono riusciti a fuggire e hanno diffuso la notizia della caduta di Skeda."
+
+
 translate italian ep020_pirate_rendevous_4e1596ce:
 
-    # xi "You have my thanks for handling this situation so adequately."
-    xi ""
 
-# game/episode020.rpy:1776
+    xi "Ti ringrazio per aver gestito la situazione in modo così adeguato."
+
+
 translate italian ep020_pirate_rendevous_d1924a94:
 
-    # xi "Three ships are waiting for you at the coordinates that will be sent to you shortly."
-    xi ""
 
-# game/episode020.rpy:1777
+    xi "Tre navi ti aspettano alle coordinate che ti verranno inviate a breve."
+
+
 translate italian ep020_pirate_rendevous_b83247da:
 
-    # xi "They will provide safe passage to Petrarch."
-    xi ""
 
-# game/episode020.rpy:1778
+    xi "Ti assicureranno un passaggio sicuro per Petrarca."
+
+
 translate italian ep020_pirate_rendevous_19eec105:
 
-    # c "Thank you very much."
-    c ""
 
-# game/episode020.rpy:1779
+    c "Grazie mille."
+
+
 translate italian ep020_pirate_rendevous_877fec46:
 
-    # xi "Your actions will not be forgotten."
-    xi ""
 
-# game/episode020.rpy:1780
+    xi "Le tue azioni non saranno dimenticate."
+
+
 translate italian ep020_pirate_rendevous_4cd73265:
 
-    # xi "Consider the Marleybone Irregulars to be an ally if you should ever encounter us again."
-    xi ""
 
-# game/episode020.rpy:1781
+    xi "Considera gli Irregolari di Marleybone come un alleato se dovessi incontrarci di nuovo."
+
+
 translate italian ep020_pirate_rendevous_8f20f7fc:
 
-    # c "I sure will."
-    c ""
 
-# game/episode020.rpy:1783
+    c "Lo farò sicuramente."
+
+
 translate italian ep020_pirate_rendevous_29c3fd3d:
 
-    # "We left Xile and headed back to the shuttle."
-    ""
 
-# game/episode020.rpy:1784
+    "Lasciammo Xile e tornammo alla navetta."
+
+
 translate italian ep020_pirate_rendevous_84d19317:
 
-    # "After another forcibly induced slumber, we were back on the Bastard again."
-    ""
 
-# game/episode020.rpy:1786
+    "Dopo un altro sonno indotto con la forza, eravamo di nuovo sulla Bastard."
+
+
 translate italian ep020_pirate_rendevous_d2d953ee:
 
-    # "Céline punched in the coordinates and we went out to find the Marleybone Irregulars escort."
-    ""
 
-# game/episode020.rpy:1798
+    "Céline inserì le coordinate e uscimmo per trovare la scorta degli Irregolari di Marleybone."
+
+
 translate italian ep020_pirate_rendevous_07654a3e:
 
-    # "I ingested the capsule Skeda had given me right before boarding the shuttle."
-    ""
 
-# game/episode020.rpy:1799
+    "Ingerii la capsula che Skeda mi aveva dato poco prima di salire sulla navetta."
+
+
 translate italian ep020_pirate_rendevous_63e01fc8:
 
-    # "If the mercenary boss had lied or miscalculated and the tracker would show up a scan, we’d probably be dead in a few minutes."
-    ""
 
-# game/episode020.rpy:1800
+    "Se il capo dei mercenari avesse mentito o sbagliato i calcoli e il localizzatore avesse mostrato una scansione, probabilmente saremmo morti in pochi minuti."
+
+
 translate italian ep020_pirate_rendevous_2e66f649:
 
-    # "Dreading the thought of not waking up again, sleep overtook us all."
-    ""
 
-# game/episode020.rpy:1801
+    "Temendo il pensiero di non svegliarci più, il sonno ci invase tutti."
+
+
 translate italian ep020_pirate_rendevous_fe3b3e48:
 
-    # "Either Skeda’s plan had worked, or a firing squad was waiting for us on the planet surface, but we all woke up without any alarms going off."
-    ""
 
-# game/episode020.rpy:1803
+    "O il piano di Skeda aveva funzionato o un plotone di esecuzione ci stava aspettando sulla superficie del pianeta, ma ci svegliammo tutti senza che scattasse alcun allarme."
+
+
 translate italian ep020_pirate_rendevous_7e97b784_1:
 
-    # "The shuttle landed in the clearing and we were greeted once again by a squad of mercenaries who took us to the base."
-    ""
 
-# game/episode020.rpy:1805
+    "La navetta atterrò nella radura e fummo accolti ancora una volta da una squadra di mercenari che ci portò alla base."
+
+
 translate italian ep020_pirate_rendevous_c461099c_1:
 
-    # "Xile awaited us in the lobby of the base."
-    ""
 
-# game/episode020.rpy:1806
+    "Xile ci aspettava nell'atrio della base."
+
+
 translate italian ep020_pirate_rendevous_b270f0b1:
 
-    # "I threw the sack with Skeda’s cloned head in front of her feet."
-    ""
 
-# game/episode020.rpy:1808
+    "Lanciai il sacco con la testa clonata di Skeda davanti ai suoi piedi."
+
+
 translate italian ep020_pirate_rendevous_c182e3e1:
 
-    # xi "The scans of the shuttle picked up a gruesome anomaly."
-    xi ""
 
-# game/episode020.rpy:1809
+    xi "Le scansioni della navetta hanno rilevato un'anomalia raccapricciante."
+
+
 translate italian ep020_pirate_rendevous_f9cdbcf2:
 
-    # xi "I guess that anomaly is now lying at my feet?"
-    xi ""
 
-# game/episode020.rpy:1810
+    xi "Immagino che ora quell'anomalia giaccia ai miei piedi?"
+
+
 translate italian ep020_pirate_rendevous_f5934984:
 
-    # c "I didn’t know how firm you wanted his death proven, so I took his head."
-    c ""
 
-# game/episode020.rpy:1811
+    c "Non sapevo quanto voleste che fosse provata la sua morte, così ho preso la sua testa."
+
+
 translate italian ep020_pirate_rendevous_ec76f8a4:
 
-    # xi "We’ll test the DNA."
-    xi ""
 
-# game/episode020.rpy:1812
+    xi "Analizzeremo il DNA."
+
+
 translate italian ep020_pirate_rendevous_9341fe39:
 
-    # xi "If there’s a match in our databanks, we’ll contact you."
-    xi ""
 
-# game/episode020.rpy:1813
+    xi "Se c'è una corrispondenza nei nostri database, la contatteremo."
+
+
 translate italian ep020_pirate_rendevous_e897fbb0:
 
-    # c "Thank you."
-    c ""
 
-# game/episode020.rpy:1815
+    c "Grazie."
+
+
 translate italian ep020_pirate_rendevous_c870c7a5:
 
-    # "The mercs lead us back to the shuttle again."
-    ""
 
-# game/episode020.rpy:1816
+    "I mercenari ci riportano di nuovo alla navetta."
+
+
 translate italian ep020_pirate_rendevous_948d0676:
 
-    # "I just hoped the tracker had properly activated during my talk with Xile."
-    ""
 
-# game/episode020.rpy:1817
+    "Speravo solo che il localizzatore si fosse attivato correttamente durante la mia chiacchierata con Xile."
+
+
 translate italian ep020_pirate_rendevous_1a01c839:
 
-    # "Skeda had never told me if I could tell the tracker was active."
-    ""
 
-# game/episode020.rpy:1818
+    "Skeda non mi aveva mai detto se potevo accorgermi che il localizzatore era attivo."
+
+
 translate italian ep020_pirate_rendevous_92e2c4e1:
 
-    # "I got my answer as soon as the shuttle was about to break orbit."
-    ""
 
-# game/episode020.rpy:1820
+    "Ho avuto la mia risposta non appena la navetta stava per uscire dall'orbita."
+
+
 translate italian ep020_pirate_rendevous_684b3aa4:
 
-    # "Several unknown ships broke orbit and descended on the base, dropping bombs and laser fire from the sky."
-    ""
 
-# game/episode020.rpy:1821
+    "Diverse navi sconosciute ruppero l'orbita e scesero sulla base, lanciando bombe e fuoco laser dal cielo."
+
+
 translate italian ep020_pirate_rendevous_f6f4f2f5:
 
-    # "The Marleybone Irregulars were caught completely off-guard as was evident by their failure to get any air bound defence off the ground."
-    ""
 
-# game/episode020.rpy:1823
+    "Gli Irregolari di Marleybone sono stati colti completamente alla sprovvista, come è evidente dal fatto che non sono riusciti a far decollare alcuna difesa aerea."
+
+
 translate italian ep020_pirate_rendevous_8b26a7e2:
 
-    # "Suddenly the comms of the shuttle crackled."
-    ""
 
-# game/episode020.rpy:1824
+    "All'improvviso le comunicazioni della navetta crepitarono."
+
+
 translate italian ep020_pirate_rendevous_dcd4d2a0:
 
-    # "For an instant I was afraid that Xile had triggered some remote self-destruct mechanism."
-    ""
 
-# game/episode020.rpy:1825
+    "Per un istante temetti che Xile avesse innescato un meccanismo di autodistruzione a distanza."
+
+
 translate italian ep020_pirate_rendevous_97e2f030:
 
-    # "Instead, we were treated by just the venom of her words."
-    ""
 
-# game/episode020.rpy:1826
+    "Invece, le sue parole ci hanno lasciato solo il veleno."
+
+
 translate italian ep020_pirate_rendevous_37cad003:
 
-    # xi "You miserable traitor!"
-    xi ""
 
-# game/episode020.rpy:1827
+    xi "Miserabile traditore!"
+
+
 translate italian ep020_pirate_rendevous_fd27ffba:
 
-    # xi "I’ll hunt you down through the galaxy, I’ll-"
-    xi ""
 
-# game/episode020.rpy:1829
+    xi "Ti darò la caccia per tutta la galassia, io..."
+
+
 translate italian ep020_pirate_rendevous_59a44024:
 
-    # "The abrupt cut-off of Xile’s communication coincided with an enormous explosion."
-    ""
 
-# game/episode020.rpy:1830
+    "La brusca interruzione delle comunicazioni di Xile coincise con un'enorme esplosione."
+
+
 translate italian ep020_pirate_rendevous_d5cc9be2:
 
-    # "We left the planet’s atmosphere as the headquarters of the Marleybone Irregulars were reduced to cinders."
-    ""
 
-# game/episode020.rpy:1832
+    "Lasciammo l'atmosfera del pianeta mentre il quartier generale degli Irregolari di Marleybone veniva ridotto in cenere."
+
+
 translate italian ep020_pirate_rendevous_696a2557:
 
-    # "Skeda's mercs took a good while raining fire upon Xile's operation."
-    ""
 
-# game/episode020.rpy:1833
+    "I mercenari di Skeda hanno impiegato un bel po' di tempo a far piovere fuoco sull'operazione di Xile."
+
+
 translate italian ep020_pirate_rendevous_f0317670:
 
-    # "Just when I started to get a little worried Skeda had forgotten all about us, a command carrier hailed us."
-    ""
 
-# game/episode020.rpy:1835
+    "Proprio quando iniziavo a temere che Skeda si fosse dimenticato di noi, una portaerei ci ha contattato."
+
+
 translate italian ep020_pirate_rendevous_5919f141:
 
-    # sk "Many thanks for delivering that bitch Xile on a platter for us."
-    sk ""
 
-# game/episode020.rpy:1836
+    sk "Grazie per averci consegnato quella stronza di Xile su un piatto d'argento."
+
+
 translate italian ep020_pirate_rendevous_ca41989b:
 
-    # sk "You'll find that the credits have already arrived in your account."
-    sk ""
 
-# game/episode020.rpy:1837
+    sk "Scoprirai che i crediti sono già arrivati sul tuo conto."
+
+
 translate italian ep020_pirate_rendevous_4de04a7d:
 
-    # "Jade nodded to confirm, her eyes wide with incredulity after seeing the amount."
-    ""
 
-# game/episode020.rpy:1838
+    "Jade annuì per confermare, con gli occhi spalancati dall'incredulità dopo aver visto l'importo."
+
+
 translate italian ep020_pirate_rendevous_c6306f6a:
 
-    # sk "Three of my finest ships are ready to escort you to Petrarch."
-    sk ""
 
-# game/episode020.rpy:1839
+    sk "Tre delle mie migliori navi sono pronte a scortarti a Petrarca."
+
+
 translate italian ep020_pirate_rendevous_22998edf:
 
-    # sk "It's been a pleasure doing business with you."
-    sk ""
 
-# game/episode020.rpy:1840
+    sk "È stato un piacere fare affari con te."
+
+
 translate italian ep020_pirate_rendevous_06671601:
 
-    # sk "Skeda out."
-    sk ""
 
-# game/episode020.rpy:1842
+    sk "Skeda chiudo."
+
+
 translate italian ep020_pirate_rendevous_b758158b:
 
-    # "Céline punched in the coordinates Skeda gave us and we went out to find the escort."
-    ""
 
-# game/episode020.rpy:1857
+    "Céline inserì le coordinate che Skeda ci aveva dato e uscimmo a cercare la scorta."
+
+
 translate italian ep020_aretine_skeda_kill_d4d36915:
 
-    # c "Not really interested."
-    c ""
 
-# game/episode020.rpy:1858
+    c "Non sono molto interessato."
+
+
 translate italian ep020_aretine_skeda_kill_f3316c4e:
 
-    # c "Besides, if I betray Xile, I’ll have the entire contingent of Irregulars out for my blood."
-    c ""
 
-# game/episode020.rpy:1860
+    c "Inoltre, se tradisco Xile, l'intero contingente di Irregolari cercherà il mio sangue."
+
+
 translate italian ep020_aretine_skeda_kill_a50a2225:
 
-    # "Skeda got up from his throne suddenly, incandescent with rage."
-    ""
 
-# game/episode020.rpy:1862
+    "Skeda si alzò dal trono all'improvviso, incandescente di rabbia."
+
+
 translate italian ep020_aretine_skeda_kill_1380d310:
 
-    # "Both Kit and I fired immediately and the mercenary leader slumped back into his high-backed chair."
-    ""
 
-# game/episode020.rpy:1864
+    "Sia io che Kit sparammo immediatamente e il capo dei mercenari si accasciò sulla sua sedia dallo schienale alto."
+
+
 translate italian ep020_aretine_skeda_kill_a69f12d4:
 
-    # sk "You shot me, you miserable motherfucker!"
-    sk ""
 
-# game/episode020.rpy:1865
+    sk "Mi hai sparato, miserabile figlio di puttana!"
+
+
 translate italian ep020_aretine_skeda_kill_34f291fb:
 
-    # "One of our shots must have hit home, because Skeda was bleeding from the mouth and breathing with some difficulty."
-    ""
 
-# game/episode020.rpy:1866
+    "Uno dei nostri colpi deve aver fatto centro, perché Skeda sanguinava dalla bocca e respirava a fatica."
+
+
 translate italian ep020_aretine_skeda_kill_b8ba008d:
 
-    # sk "I’ll hunt you down!"
-    sk ""
 
-# game/episode020.rpy:1867
+    sk "Ti darò la caccia!"
+
+
 translate italian ep020_aretine_skeda_kill_f2f12cbc:
 
-    # sk "I’ll-"
-    sk ""
 
-# game/episode020.rpy:1869
+    sk "Io..."
+
+
 translate italian ep020_aretine_skeda_kill_ff85bd76:
 
-    # "With that last statement, the light went out in his eyes."
-    ""
 
-# game/episode020.rpy:1871
+    "Con quest'ultima affermazione, la luce si spense nei suoi occhi."
+
+
 translate italian ep020_aretine_skeda_kill_1260536b:
 
-    # c "Aven, let’s blow up this base."
-    c ""
 
-# game/episode020.rpy:1872
+    c "Aven, facciamo saltare in aria questa base."
+
+
 translate italian ep020_aretine_skeda_kill_0b56763d:
 
-    # c "Make sure that the procedure is irreversible, but allow any evacuation attempts."
-    c ""
 
-# game/episode020.rpy:1873
+    c "Assicurati che la procedura sia irreversibile, ma permetti qualsiasi tentativo di evacuazione."
+
+
 translate italian ep020_aretine_skeda_kill_ca117560:
 
-    # av "On it."
-    av ""
 
-# game/episode020.rpy:1874
+    av "Ci pensiamo noi."
+
+
 translate italian ep020_aretine_skeda_kill_46f4f0d0:
 
-    # av "Jade is unlocking the crew quarters as well, the fresh air and alarms should wake those sleeping mercs right up."
-    av ""
 
-# game/episode020.rpy:1876
+    av "Jade sta sbloccando anche gli alloggi dell'equipaggio: l'aria fresca e gli allarmi dovrebbero svegliare i mercenari addormentati."
+
+
 translate italian ep020_aretine_skeda_kill_6ab60dc9:
 
-    # "Moments later, alarms began to sound everywhere, warning the inhabitants of the base of a critical power failure."
-    ""
 
-# game/episode020.rpy:1877
+    "Pochi istanti dopo, gli allarmi iniziarono a suonare ovunque, avvertendo gli abitanti della base di un'interruzione critica dell'energia."
+
+
 translate italian ep020_aretine_skeda_kill_a65f4f4d:
 
-    # "The feline women were the first to run, followed by the guards hitherto lying on the ground by our command."
-    ""
 
-# game/episode020.rpy:1879
+    "Le donne feline furono le prime a correre, seguite dalle guardie che fino a quel momento giacevano a terra al nostro comando."
+
+
 translate italian ep020_aretine_skeda_kill_7c57d830:
 
-    # "Kit and I made for the exit as well."
-    ""
 
-# game/episode020.rpy:1880
+    "Anche Kit e io ci dirigemmo verso l'uscita."
+
+
 translate italian ep020_aretine_skeda_kill_b050c610:
 
-    # "Whatever Jade had done, it caused a general panic."
-    ""
 
-# game/episode020.rpy:1882
+    "Qualunque cosa avesse fatto Jade, aveva provocato il panico generale."
+
+
 translate italian ep020_aretine_skeda_kill_55c27a3e:
 
-    # "Mercs were running through the corridors, not even looking at us as we ran along."
-    ""
 
-# game/episode020.rpy:1883
+    "I mercenari correvano per i corridoi, senza nemmeno guardarci mentre correvamo."
+
+
 translate italian ep020_aretine_skeda_kill_4e4f3af0:
 
-    # "There was a general scramble towards the base hangars, where the aircraft would take some of the mercs to safety."
-    ""
 
-# game/episode020.rpy:1885
+    "Ci fu una fuga generale verso gli hangar della base, dove gli aerei avrebbero portato in salvo alcuni dei mercenari."
+
+
 translate italian ep020_aretine_skeda_kill_4099fe9d:
 
-    # "Aven and Jade met up with us at the base of the building where our speeders were still waiting for us."
-    ""
 
-# game/episode020.rpy:1886
+    "Aven e Jade ci raggiunsero alla base dell'edificio dove i nostri speeder ci stavano ancora aspettando."
+
+
 translate italian ep020_aretine_skeda_kill_4e666ab2:
 
-    # "Due to the collapse of the base shields, the lava now had free reign and was spilling over the foundations of the base."
-    ""
 
-# game/episode020.rpy:1887
+    "A causa del crollo degli scudi della base, la lava aveva ora libero sfogo e si stava riversando sulle fondamenta della base."
+
+
 translate italian ep020_aretine_skeda_kill_9ce09acd:
 
-    # "The buildings were creaking and groaning as the heat eroded the concrete."
-    ""
 
-# game/episode020.rpy:1888
+    "Gli edifici scricchiolavano e gemevano mentre il calore erodeva il cemento."
+
+
 translate italian ep020_aretine_skeda_kill_ac796daf:
 
-    # c "No time to waste, let’s get back to the Bastard."
-    c ""
 
-# game/episode020.rpy:1889
+    c "Non c'è tempo da perdere, torniamo dal Bastardo."
+
+
 translate italian ep020_aretine_skeda_kill_fa2e367b:
 
-    # av "Is Skeda dead?"
-    av ""
 
-# game/episode020.rpy:1890
+    av "Skeda è morto?"
+
+
 translate italian ep020_aretine_skeda_kill_e87c500b:
 
-    # c "He is."
-    c ""
 
-# game/episode020.rpy:1891
+    c "Lo è."
+
+
 translate italian ep020_aretine_skeda_kill_65a0bb43:
 
-    # ki "About to go down with his beautiful base."
-    ki ""
 
-# game/episode020.rpy:1892
+    ki "Sta per affondare insieme alla sua bellissima base."
+
+
 translate italian ep020_aretine_skeda_kill_f6f64b79:
 
-    # j "How are we going to prove to Xile that Skeda is actually dead?"
-    j ""
 
-# game/episode020.rpy:1893
+    j "Come faremo a dimostrare a Xile che Skeda è davvero morto?"
+
+
 translate italian ep020_aretine_skeda_kill_ace7cd60:
 
-    # c "I think Xile will do a sweep of the planet and sift through the wreckage of the base."
-    c ""
 
-# game/episode020.rpy:1894
+    c "Credo che Xile farà un giro del pianeta e setaccerà i rottami della base."
+
+
 translate italian ep020_aretine_skeda_kill_d2577f34:
 
-    # c "And a lot of the merc have already escaped, I’m sure they have some exciting tales to tell about Skeda’s demise."
-    c ""
 
-# game/episode020.rpy:1896
+    c "E molti mercenari sono già fuggiti, sono sicuro che avranno delle storie emozionanti da raccontare sulla morte di Skeda."
+
+
 translate italian ep020_aretine_skeda_kill_0f016bae:
 
-    # "We flew our speeders back to the Bastard, as portions of the base started to explode behind us."
-    ""
 
-# game/episode020.rpy:1903
+    "Tornammo al Bastard con i nostri speeder, mentre porzioni della base iniziavano a esplodere dietro di noi."
+
+
 translate italian ep020_paclerara_jade_procedure_e173ca52:
 
-    # "Jade was waiting for me in the lobby of the medical center."
-    ""
 
-# game/episode020.rpy:1904
+    "Jade mi stava aspettando nell'atrio del centro medico."
+
+
 translate italian ep020_paclerara_jade_procedure_17a33c16:
 
-    # c "Ready?"
-    c ""
 
-# game/episode020.rpy:1906
+    c "Pronta?"
+
+
 translate italian ep020_paclerara_jade_procedure_7b4c5bc7:
 
-    # j "Absolutely."
-    j ""
 
-# game/episode020.rpy:1907
+    j "Assolutamente sì."
+
+
 translate italian ep020_paclerara_jade_procedure_890f157c:
 
-    # j "I’m so happy we’re doing this."
-    j ""
 
-# game/episode020.rpy:1908
+    j "Sono così felice che lo stiamo facendo."
+
+
 translate italian ep020_paclerara_jade_procedure_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode020.rpy:1909
+    c "Anch'io."
+
+
 translate italian ep020_paclerara_jade_procedure_dcd34462:
 
-    # "A nurse came for us and escorted Jade and me to the room we would be occupying for the duration of the procedure."
-    ""
 
-# game/episode020.rpy:1911
+    "Un'infermiera venne a prenderci e accompagnò me e Jade nella stanza che avremmo occupato per tutta la durata della procedura."
+
+
 translate italian ep020_paclerara_jade_procedure_e5d62d3c:
 
-    # "We had a moment to ourselves when she left to fetch the doctor."
-    ""
 
-# game/episode020.rpy:1912
+    "Abbiamo avuto un momento per noi quando è andata a chiamare il dottore."
+
+
 translate italian ep020_paclerara_jade_procedure_bce52649:
 
-    # c "Since I’m only getting an injection, do you think I’ll be allowed to stay for your operation?"
-    c ""
 
-# game/episode020.rpy:1914
+    c "Dato che mi verrà fatta solo un'iniezione, pensi che mi sarà permesso di rimanere per l'operazione?"
+
+
 translate italian ep020_paclerara_jade_procedure_083f4540:
 
-    # j "You’re probably not allowed to stay in the same room."
-    j ""
 
-# game/episode020.rpy:1915
+    j "Probabilmente non ti sarà permesso di rimanere nella stessa stanza."
+
+
 translate italian ep020_paclerara_jade_procedure_bdf47131:
 
-    # c "I’ll wait outside for you then."
-    c ""
 
-# game/episode020.rpy:1916
+    c "Allora ti aspetterò fuori."
+
+
 translate italian ep020_paclerara_jade_procedure_c93376a5:
 
-    # j "I’d appreciate that."
-    j ""
 
-# game/episode020.rpy:1918
+    j "Lo apprezzo molto."
+
+
 translate italian ep020_paclerara_jade_procedure_9e873f62:
 
-    # "The nurse came back and I got the injection without much preamble."
-    ""
 
-# game/episode020.rpy:1919
+    "L'infermiera tornò e mi fece l'iniezione senza troppi preamboli."
+
+
 translate italian ep020_paclerara_jade_procedure_63cb4ec4:
 
-    # "The doctor declared me fit to leave immediately."
-    ""
 
-# game/episode020.rpy:1921
+    "Il dottore mi ha dichiarato idoneo ad uscire immediatamente."
+
+
 translate italian ep020_paclerara_jade_procedure_7cfd80b3:
 
-    # c "That sure was quick."
-    c ""
 
-# game/episode020.rpy:1922
+    c "È stato davvero veloce."
+
+
 translate italian ep020_paclerara_jade_procedure_11d10732:
 
-    # c "I hope yours is as quick and painless as well."
-    c ""
 
-# game/episode020.rpy:1923
+    c "Spero che anche la tua sia altrettanto rapida e indolore."
+
+
 translate italian ep020_paclerara_jade_procedure_b377bca7:
 
-    # j "I hope so too."
-    j ""
 
-# game/episode020.rpy:1924
+    j "Lo spero anch'io."
+
+
 translate italian ep020_paclerara_jade_procedure_c02bfc48:
 
-    # c "Take care, Jade, I’ll be waiting outside."
-    c ""
 
-# game/episode020.rpy:1925
+    c "Stammi bene, Jade, ti aspetto fuori."
+
+
 translate italian ep020_paclerara_jade_procedure_f134e22c:
 
-    # c "I love you."
-    c ""
 
-# game/episode020.rpy:1927
+    c "Ti voglio bene."
+
+
 translate italian ep020_paclerara_jade_procedure_b6b100ad:
 
-    # j "I love you too."
-    j ""
 
-# game/episode020.rpy:1929
+    j "Anch'io ti amo."
+
+
 translate italian ep020_paclerara_jade_procedure_3da374c5:
 
-    # "I sat on a bench in the adjoining corridor and waited for the nurse to come get me."
-    ""
 
-# game/episode020.rpy:1930
+    "Mi sedetti su una panchina nel corridoio adiacente e aspettai che l'infermiera venisse a prendermi."
+
+
 translate italian ep020_paclerara_jade_procedure_6126afc8:
 
-    # "My mind wandered, and suddenly I was gripped by fear that the procedure would be plagued by complications."
-    ""
 
-# game/episode020.rpy:1931
+    "La mia mente vagava e all'improvviso fui presa dalla paura che l'intervento fosse pieno di complicazioni."
+
+
 translate italian ep020_paclerara_jade_procedure_918839c9:
 
-    # "Jade had told me that the intervention was relatively safe, but what if she’d downplayed the risks?"
-    ""
 
-# game/episode020.rpy:1932
+    "Jade mi aveva detto che l'intervento era relativamente sicuro, ma se avesse minimizzato i rischi?"
+
+
 translate italian ep020_paclerara_jade_procedure_fff42ac2:
 
-    # "I knew now how badly she wanted to get pregnant, what if she’d presented me with only half of the facts?"
-    ""
 
-# game/episode020.rpy:1933
+    "Sapevo quanto desiderasse rimanere incinta, e se mi avesse presentato solo la metà dei fatti?"
+
+
 translate italian ep020_paclerara_jade_procedure_bfb5b750:
 
-    # "Jade had proved herself to be an honest person, time and time again, especially with me."
-    ""
 
-# game/episode020.rpy:1934
+    "Jade aveva dimostrato più volte di essere una persona onesta, soprattutto con me."
+
+
 translate italian ep020_paclerara_jade_procedure_8089d34c:
 
-    # "But what if love had made her blind to the risks?"
-    ""
 
-# game/episode020.rpy:1935
+    "Ma se l'amore l'avesse resa cieca di fronte ai rischi?"
+
+
 translate italian ep020_paclerara_jade_procedure_e620d676:
 
-    # "These panicky and rather unhelpful thoughts occupied me for much of the wait."
-    ""
 
-# game/episode020.rpy:1937
+    "Questi pensieri, pieni di panico e poco utili, mi occuparono per gran parte dell'attesa."
+
+
 translate italian ep020_paclerara_jade_procedure_267bab69:
 
-    # "After less than an hour, the nurse came out of Jade’s room and beckoned me."
-    ""
 
-# game/episode020.rpy:1939
+    "Dopo meno di un'ora, l'infermiera uscì dalla stanza di Jade e mi fece un cenno."
+
+
 translate italian ep020_paclerara_jade_procedure_943e7919:
 
-    # woman "The procedure was a success, she asked for you as soon as she woke up."
-    woman ""
 
-# game/episode020.rpy:1941
+    woman "L'intervento è stato un successo, ha chiesto di te non appena si è svegliata."
+
+
 translate italian ep020_paclerara_jade_procedure_45309dc5:
 
-    # "I entered the room and was met by Jade, propped up on the bed, wearing a radiant smile."
-    ""
 
-# game/episode020.rpy:1942
+    "Entrai nella stanza e fui accolto da Jade, appoggiata sul letto, con un sorriso radioso."
+
+
 translate italian ep020_paclerara_jade_procedure_15454135:
 
-    # j "The doctor said that it was a success!"
-    j ""
 
-# game/episode020.rpy:1943
+    j "Il dottore ha detto che è stato un successo!"
+
+
 translate italian ep020_paclerara_jade_procedure_61deb00b:
 
-    # c "So I’ve heard."
-    c ""
 
-# game/episode020.rpy:1944
+    c "Così ho sentito dire."
+
+
 translate italian ep020_paclerara_jade_procedure_31626ce1:
 
-    # c "How do you feel?"
-    c ""
 
-# game/episode020.rpy:1946
+    c "Come ti senti?"
+
+
 translate italian ep020_paclerara_jade_procedure_ffd3fb72:
 
-    # j "A little groggy, but otherwise nothing but happiness."
-    j ""
 
-# game/episode020.rpy:1947
+    j "Un po' intontita, ma per il resto non c'è altro che felicità."
+
+
 translate italian ep020_paclerara_jade_procedure_4448d179:
 
-    # c "Good!"
-    c ""
 
-# game/episode020.rpy:1948
+    c "Bene!"
+
+
 translate italian ep020_paclerara_jade_procedure_b939a83a:
 
-    # c "We’re going to make this work, aren’t we?"
-    c ""
 
-# game/episode020.rpy:1949
+    c "Ce la faremo, vero?"
+
+
 translate italian ep020_paclerara_jade_procedure_6ad7c5ba:
 
-    # j "We sure are!"
-    j ""
 
-# game/episode020.rpy:1950
+    j "Certo che sì!"
+
+
 translate italian ep020_paclerara_jade_procedure_dc4dc6cb:
 
-    # c "When are you allowed to leave?"
-    c ""
 
-# game/episode020.rpy:1952
+    c "Quando potrete andarvene?"
+
+
 translate italian ep020_paclerara_jade_procedure_da367f03:
 
-    # j "They need to do some final checkups and then we’re free to leave."
-    j ""
 
-# game/episode020.rpy:1953
+    j "Devono fare alcuni controlli finali e poi potremo andarcene."
+
+
 translate italian ep020_paclerara_jade_procedure_c85bd76b:
 
-    # j "I can’t wait to get into bed with you!"
-    j ""
 
-# game/episode020.rpy:1954
+    j "Non vedo l'ora di andare a letto con te!"
+
+
 translate italian ep020_paclerara_jade_procedure_bb979c77:
 
-    # c "Wow, you’re not one for half-measures, are you?"
-    c ""
 
-# game/episode020.rpy:1956
+    c "Wow, non sei uno che ama le mezze misure, vero?"
+
+
 translate italian ep020_paclerara_jade_procedure_689fc659:
 
-    # j "You know me!"
-    j ""
 
-# game/episode020.rpy:1957
+    j "Mi conosci!"
+
+
 translate italian ep020_paclerara_jade_procedure_8e853cb5:
 
-    # j "But unfortunately we have to wait for a few days, because of the procedure..."
-    j ""
 
-# game/episode020.rpy:1958
+    j "Ma purtroppo dovremo aspettare qualche giorno, a causa della procedura..."
+
+
 translate italian ep020_paclerara_jade_procedure_34cdc001:
 
-    # c "In that case we’ll wait a few days and go at it like rabbits afterwards."
-    c ""
 
-# game/episode020.rpy:1960
+    c "In questo caso aspetteremo qualche giorno e poi ci daremo dentro come conigli."
+
+
 translate italian ep020_paclerara_jade_procedure_c2b5e91c:
 
-    # j "That’s a deal!"
-    j ""
 
-# game/episode020.rpy:1961
+    j "Affare fatto!"
+
+
 translate italian ep020_paclerara_jade_procedure_6b998bbf:
 
-    # "Jade and I waited for the final tests."
-    ""
 
-# game/episode020.rpy:1963
+    "Io e Jade abbiamo aspettato i test finali."
+
+
 translate italian ep020_paclerara_jade_procedure_240a2501:
 
-    # "After she was cleared, we both left the medical wing and headed back to the residential area."
-    ""
 
-# game/episode020.rpy:1965
+    "Una volta ottenuta l'autorizzazione, lasciammo l'ala medica e tornammo nella zona residenziale."
+
+
 translate italian ep020_paclerara_jade_procedure_91c15237:
 
-    # "Back in my room we went to bed immediately, both yearning to celebrate the moment by just being together."
-    ""
 
-# game/episode020.rpy:1967
+    "Tornati nella mia stanza, andammo subito a letto, desiderosi di festeggiare il momento stando semplicemente insieme."
+
+
 translate italian ep020_paclerara_jade_procedure_fbb98e50:
 
-    # "Jade and I soon fell asleep and didn’t wake until the following morning."
-    ""
 
-# game/episode020.rpy:1969
+    "Io e Jade ci addormentammo presto e non ci svegliammo fino al mattino seguente."
+
+
 translate italian ep020_paclerara_jade_procedure_41610092:
 
-    # "The day was filled with other obligations, so we parted ways making solemn vows to plan several nights of debauchery to mark our mutual fertility..."
-    ""
 
-# game/episode020.rpy:1974
+    "La giornata era piena di altri impegni, così ci separammo facendo voto solenne di programmare diverse notti di dissolutezza per celebrare la nostra reciproca fertilità..."
+
+
 translate italian ep020_paclerara_thim_04c8250e:
 
-    # "I’d discussed the matter of Thim wanting to stay on Paclerara with most of the crew in the past few days."
-    ""
 
-# game/episode020.rpy:1975
+    "Nei giorni scorsi avevo discusso con la maggior parte dell'equipaggio il fatto che Thim volesse rimanere su Paclerara."
+
+
 translate italian ep020_paclerara_thim_8e71edb9:
 
-    # "Most of the people who didn’t know him from the Academy said they would trust the judgement of the people who knew him best."
-    ""
 
-# game/episode020.rpy:1978
+    "La maggior parte delle persone che non lo conoscevano dall'Accademia ha detto che si sarebbe fidata del giudizio delle persone che lo conoscevano meglio."
+
+
 translate italian ep020_paclerara_thim_a72ee2e3:
 
-    # "So I gathered my sisters, Céline and Kit to settle the matter."
-    ""
 
-# game/episode020.rpy:1980
+    "Così ho riunito le mie sorelle, Céline e Kit per risolvere la questione."
+
+
 translate italian ep020_paclerara_thim_932c7809:
 
-    # "So I gathered Eva, Lilly, Céline and Kit to settle the matter."
-    ""
 
-# game/episode020.rpy:1982
+    "Così ho riunito Eva, Lilly, Céline e Kit per risolvere la questione."
+
+
 translate italian ep020_paclerara_thim_9c2de20d:
 
-    # ki "Our boy wants to leave, does he?"
-    ki ""
 
-# game/episode020.rpy:1983
+    ki "Il nostro ragazzo vuole andarsene, vero?"
+
+
 translate italian ep020_paclerara_thim_a76c75ed:
 
-    # c "He doesn’t feel he’s of much use as a crew member and wants to stay here."
-    c ""
 
-# game/episode020.rpy:1984
+    c "Non ritiene di essere molto utile come membro dell'equipaggio e vuole rimanere qui."
+
+
 translate italian ep020_paclerara_thim_5dc096d9:
 
-    # ki "Well, he sure isn’t of much use, that’s for sure."
-    ki ""
 
-# game/episode020.rpy:1986
+    ki "Beh, di sicuro non è molto utile, questo è certo."
+
+
 translate italian ep020_paclerara_thim_d7635e98:
 
-    # ce "Kit..."
-    ce ""
 
-# game/episode020.rpy:1988
+    ce "Kit..."
+
+
 translate italian ep020_paclerara_thim_bbecb8de:
 
-    # ki "What?"
-    ki ""
 
-# game/episode020.rpy:1989
+    ki "Cosa?"
+
+
 translate italian ep020_paclerara_thim_a331eba3:
 
-    # ki "We hated the guy’s guts for our entire stay at the Academy."
-    ki ""
 
-# game/episode020.rpy:1991
+    ki "L'abbiamo odiato a morte per tutta la nostra permanenza in Accademia."
+
+
 translate italian ep020_paclerara_thim_bd21e03a:
 
-    # ce "I know, but we did take him against his will."
-    ce ""
 
-# game/episode020.rpy:1992
+    ce "Lo so, ma lo abbiamo preso contro la sua volontà."
+
+
 translate italian ep020_paclerara_thim_24623a0d:
 
-    # ki "Only because he was about to get the guards and ruin our escape."
-    ki ""
 
-# game/episode020.rpy:1993
+    ki "Solo perché stava per prendere le guardie e rovinare la nostra fuga."
+
+
 translate italian ep020_paclerara_thim_9ff1b83a:
 
-    # c "All true, of course."
-    c ""
 
-# game/episode020.rpy:1994
+    c "Tutto vero, ovviamente."
+
+
 translate italian ep020_paclerara_thim_2ea6e291:
 
-    # c "Do we think he’s less of a threat now?"
-    c ""
 
-# game/episode020.rpy:1996
+    c "Pensiamo che ora sia meno una minaccia?"
+
+
 translate italian ep020_paclerara_thim_ef21c3ae:
 
-    # l "Less of a threat in a sense that he won’t try to betray us again?"
-    l ""
 
-# game/episode020.rpy:1997
+    l "Meno minaccioso nel senso che non cercherà più di tradirci?"
+
+
 translate italian ep020_paclerara_thim_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode020.rpy:1998
+    c "Si."
+
+
 translate italian ep020_paclerara_thim_76047705:
 
-    # l "He had quite a few opportunities in the recent past and didn’t take them."
-    l ""
 
-# game/episode020.rpy:2000
+    l "Ha avuto diverse opportunità nel recente passato e non le ha colte."
+
+
 translate italian ep020_paclerara_thim_0362e1b6:
 
-    # e "He could have raised the alarm at any of the stations we were docked."
-    e ""
 
-# game/episode020.rpy:2001
+    e "Avrebbe potuto dare l'allarme in qualsiasi stazione in cui eravamo attraccati."
+
+
 translate italian ep020_paclerara_thim_d3647ff5:
 
-    # ce "True."
-    ce ""
 
-# game/episode020.rpy:2002
+    ce "È vero."
+
+
 translate italian ep020_paclerara_thim_9ce5798f:
 
-    # ce "I’ve never liked him much and he hasn’t made any effort to socialize with any of us, but I can’t blame him really."
-    ce ""
 
-# game/episode020.rpy:2004
+    ce "Non mi è mai piaciuto molto e non si è sforzato di socializzare con nessuno di noi, ma non posso certo biasimarlo."
+
+
 translate italian ep020_paclerara_thim_c55e104c:
 
-    # ki "Well, if we’re all going to be rational about it, I can’t blame him either."
-    ki ""
 
-# game/episode020.rpy:2005
+    ki "Se vogliamo essere razionali, non posso biasimarlo nemmeno io."
+
+
 translate italian ep020_paclerara_thim_7cd61ac4:
 
-    # ki "Not anymore, at least."
-    ki ""
 
-# game/episode020.rpy:2006
+    ki "Non più, almeno."
+
+
 translate italian ep020_paclerara_thim_dc29f6b7:
 
-    # c "So do we allow him to stay on Paclerara?"
-    c ""
 
-# game/episode020.rpy:2008
+    c "Quindi gli permettiamo di rimanere a Paclerara?"
+
+
 translate italian ep020_paclerara_thim_7550fd40:
 
-    # l "What’s he going to do here?"
-    l ""
 
-# game/episode020.rpy:2009
+    l "Cosa farà qui?"
+
+
 translate italian ep020_paclerara_thim_24ed7344:
 
-    # c "Get some menial job, probably, something under the radar."
-    c ""
 
-# game/episode020.rpy:2010
+    c "Probabilmente troverà un lavoro umile, qualcosa di poco visibile."
+
+
 translate italian ep020_paclerara_thim_eefb9f10:
 
-    # e "He’s not going back to the Sovereignty?"
-    e ""
 
-# game/episode020.rpy:2011
+    e "Non tornerà alla Sovranità?"
+
+
 translate italian ep020_paclerara_thim_d10cf3cf:
 
-    # c "I don’t see that happening, to be honest."
-    c ""
 
-# game/episode020.rpy:2013
+    c "Non credo che questo accada, a dire il vero."
+
+
 translate italian ep020_paclerara_thim_4d9cd8d3:
 
-    # ki "I’m sure they’ll have plenty of questions for him if he does, none of them friendly."
-    ki ""
 
-# game/episode020.rpy:2015
+    ki "Sono sicuro che avranno molte domande da fargli, nessuna delle quali amichevole."
+
+
 translate italian ep020_paclerara_thim_9ded53a7:
 
-    # ce "The Sovereignty isn’t known for their welcoming disposition."
-    ce ""
 
-# game/episode020.rpy:2017
+    ce "La Sovranità non è nota per la sua indole accogliente."
+
+
 translate italian ep020_paclerara_thim_3779821b:
 
-    # ki "We’re sure we don’t want to use him as bait, a human shield or just a punching bag?"
-    ki ""
 
-# game/episode020.rpy:2019
+    ki "Siamo sicuri di non volerlo usare come esca, come scudo umano o come sacco da boxe?"
+
+
 translate italian ep020_paclerara_thim_d7635e98_1:
 
-    # ce "Kit..."
-    ce ""
 
-# game/episode020.rpy:2020
+    ce "Kit..."
+
+
 translate italian ep020_paclerara_thim_4a6cad76:
 
-    # c "Who’s in favor of letting him go?"
-    c ""
 
-# game/episode020.rpy:2021
+    c "Chi è favorevole a lasciarlo andare?"
+
+
 translate italian ep020_paclerara_thim_0054f605:
 
-    # ce "I am."
-    ce ""
 
-# game/episode020.rpy:2023
+    ce "Io."
+
+
 translate italian ep020_paclerara_thim_6b51495e:
 
-    # l "Me too."
-    l ""
 
-# game/episode020.rpy:2025
+    l "Anch'io."
+
+
 translate italian ep020_paclerara_thim_06059743:
 
-    # e "Yes, me too."
-    e ""
 
-# game/episode020.rpy:2027
+    e "Sì, anch'io."
+
+
 translate italian ep020_paclerara_thim_cf47fa32:
 
-    # ki "I guess I don’t mind either way."
-    ki ""
 
-# game/episode020.rpy:2028
+    ki "Credo che non mi dispiaccia in nessun caso."
+
+
 translate italian ep020_paclerara_thim_91230dce:
 
-    # c "That’s settled then."
-    c ""
 
-# game/episode020.rpy:2029
+    c "Allora è deciso."
+
+
 translate italian ep020_paclerara_thim_f11940e3:
 
-    # c "I’ll let him know."
-    c ""
 
-# game/episode020.rpy:2030
+    c "Glielo farò sapere."
+
+
 translate italian ep020_paclerara_thim_02fd69c0:
 
-    # ki "I’m going to miss that silent brooding presence in my peripheral vision at future crew meetings."
-    ki ""
 
-# game/episode020.rpy:2031
+    ki "Mi mancherà quella presenza silenziosa e pensierosa nella mia visione periferica durante le future riunioni dell'equipaggio."
+
+
 translate italian ep020_paclerara_thim_1a5cb9a4:
 
-    # c "I’m sure you’ll get over your aching sense of loss."
-    c ""
 
-# game/episode020.rpy:2033
+    c "Sono sicuro che supererai il tuo doloroso senso di perdita."
+
+
 translate italian ep020_paclerara_thim_c73a3637:
 
-    # "I left to find Thim and met up with him on the observation deck."
-    ""
 
-# game/episode020.rpy:2034
+    "Sono andato a cercare Thim e l'ho incontrato sul ponte di osservazione."
+
+
 translate italian ep020_paclerara_thim_dda16456:
 
-    # c "Can I have a word?"
-    c ""
 
-# game/episode020.rpy:2036
+    c "Posso parlargli?"
+
+
 translate italian ep020_paclerara_thim_b31b912c:
 
-    # t "Of course."
-    t ""
 
-# game/episode020.rpy:2037
+    t "Certamente."
+
+
 translate italian ep020_paclerara_thim_8a830ef9:
 
-    # c "I’ve discussed your request with the rest of the crew."
-    c ""
 
-# game/episode020.rpy:2038
+    c "Ho discusso la tua richiesta con il resto dell'equipaggio."
+
+
 translate italian ep020_paclerara_thim_8c2b2d37:
 
-    # c "They’re agreeing to let you go, on the condition that you won’t try to contact the Sovereignty and keep a low profile."
-    c ""
 
-# game/episode020.rpy:2040
+    c "Hanno accettato di lasciarti andare, a condizione che tu non cerchi di contattare la Sovranità e che mantenga un basso profilo."
+
+
 translate italian ep020_paclerara_thim_119e2224:
 
-    # t "That’s good news."
-    t ""
 
-# game/episode020.rpy:2042
+    t "È una buona notizia."
+
+
 translate italian ep020_paclerara_thim_69dacfe9:
 
-    # t "And don’t worry, I’m not going back to the Sovereignty."
-    t ""
 
-# game/episode020.rpy:2043
+    t "E non preoccuparti, non tornerò alla Sovranità."
+
+
 translate italian ep020_paclerara_thim_374ceda1:
 
-    # t "There’s nothing for me there anymore."
-    t ""
 
-# game/episode020.rpy:2044
+    t "Non c'è più niente per me lì."
+
+
 translate italian ep020_paclerara_thim_ec7ccb82:
 
-    # t "I want to try my luck somewhere else."
-    t ""
 
-# game/episode020.rpy:2045
+    t "Voglio tentare la fortuna da qualche altra parte."
+
+
 translate italian ep020_paclerara_thim_a297fe64:
 
-    # c "Well, you’re free to do so."
-    c ""
 
-# game/episode020.rpy:2046
+    c "Beh, sei libero di farlo."
+
+
 translate italian ep020_paclerara_thim_e1969452:
 
-    # c "Good luck, Thim."
-    c ""
 
-# game/episode020.rpy:2048
+    c "Buona fortuna, Thim."
+
+
 translate italian ep020_paclerara_thim_b94712ed:
 
-    # t "Thank you, [p_name]."
-    t ""
 
-# game/episode020.rpy:2049
+    t "Grazie, [p_name]."
+
+
 translate italian ep020_paclerara_thim_b0dfa1c9:
 
-    # t "I’ll make sure my bunk is empty before you depart from Paclerara."
-    t ""
 
-# game/episode020.rpy:2051
+    t "Mi assicurerò che la mia cuccetta sia vuota prima che tu parta da Paclerara."
+
+
 translate italian ep020_paclerara_thim_3d9e6915:
 
-    # "We shook hands and I took my leave of Thim."
-    ""
 
-# game/episode020.rpy:2052
+    "Ci stringemmo la mano e mi congedai da Thim."
+
+
 translate italian ep020_paclerara_thim_7b722f4b:
 
-    # "Him and I would never have become friends, but parting ways like this was the most amicable way we could have resolved things between us."
-    ""
 
-# game/episode020.rpy:2059
+    "Io e lui non saremmo mai diventati amici, ma separarci in questo modo era il modo più amichevole in cui avremmo potuto risolvere le cose tra noi."
+
+
 translate italian ep020_paclerara_raene_428050bc:
 
-    # "I was sitting on a bench near the landing pads in the midday sunlight of Paclerara, a steady stream of people passing me by."
-    ""
 
-# game/episode020.rpy:2060
+    "Ero seduto su una panchina vicino alle piattaforme di atterraggio alla luce del sole di mezzogiorno di Paclerara, mentre un flusso costante di persone mi passava accanto."
+
+
 translate italian ep020_paclerara_raene_7a4c7a59:
 
-    # "Paclerara was a modestly busy spaceport, attracting the inevitable traders, but also a good amount of tourists."
-    ""
 
-# game/episode020.rpy:2062
+    "Paclerara era uno spazioporto modestamente frequentato, che attirava gli inevitabili commercianti, ma anche una buona quantità di turisti."
+
+
 translate italian ep020_paclerara_raene_8757eccd:
 
-    # "Raene found me observing the crowd and sat down next to me."
-    ""
 
-# game/episode020.rpy:2064
+    "Raene mi trovò ad osservare la folla e si sedette accanto a me."
+
+
 translate italian ep020_paclerara_raene_e631b5fd:
 
-    # ra "Hey [p_name_short]."
-    ra ""
 
-# game/episode020.rpy:2065
+    ra "Ehi [p_name_short]."
+
+
 translate italian ep020_paclerara_raene_0bc14a9d:
 
-    # c "Hey, did you come out here to enjoy the sun as well?"
-    c ""
 
-# game/episode020.rpy:2067
+    c "Ehi, anche tu sei venuta qui per goderti il sole?"
+
+
 translate italian ep020_paclerara_raene_56c54b0f:
 
-    # ra "Yes, I just went for a swim."
-    ra ""
 
-# game/episode020.rpy:2068
+    ra "Sì, sono andata a fare una nuotata."
+
+
 translate italian ep020_paclerara_raene_2c543d70:
 
-    # ra "It seems like another great day out here."
-    ra ""
 
-# game/episode020.rpy:2070
+    ra "Sembra un'altra splendida giornata qui."
+
+
 translate italian ep020_paclerara_raene_af92a25e:
 
-    # ra "But I hear we're going to leave this place soon?"
-    ra ""
 
-# game/episode020.rpy:2071
+    ra "Ma ho sentito che presto lasceremo questo posto?"
+
+
 translate italian ep020_paclerara_raene_659ae768:
 
-    # c "Yes, we have a lead."
-    c ""
 
-# game/episode020.rpy:2072
+    c "Sì, abbiamo una pista."
+
+
 translate italian ep020_paclerara_raene_b7fd9a0a:
 
-    # c "Thyia and Jade are looking at our options."
-    c ""
 
-# game/episode020.rpy:2073
+    c "Thyia e Jade stanno valutando le nostre opzioni."
+
+
 translate italian ep020_paclerara_raene_9e433e85:
 
-    # c "But it's looking like it's going to be a dangerous undertaking."
-    c ""
 
-# game/episode020.rpy:2074
+    c "Ma sembra che sarà un'impresa pericolosa."
+
+
 translate italian ep020_paclerara_raene_391b2b5e:
 
-    # ra "That's not something new, is it?"
-    ra ""
 
-# game/episode020.rpy:2075
+    ra "Non è una novità, vero?"
+
+
 translate italian ep020_paclerara_raene_97ca0b98:
 
-    # c "I guess not."
-    c ""
 
-# game/episode020.rpy:2077
+    c "Credo di no."
+
+
 translate italian ep020_paclerara_raene_c20c81eb:
 
-    # ra "Best we enjoy this beautiful place a little while longer."
-    ra ""
 
-# game/episode020.rpy:2080
+    ra "È meglio godersi questo bellissimo posto ancora per un po'."
+
+
 translate italian ep020_paclerara_raene_6dc83d68:
 
-    # "Raene took my hand and we sat together in silence, watching the crowd shuffle past in both directions."
-    ""
 
-# game/episode020.rpy:2084
+    "Raene mi prese la mano e ci sedemmo insieme in silenzio, osservando la folla che passava in entrambe le direzioni."
+
+
 translate italian ep020_paclerara_raene_e0de956a:
 
-    # "We'd fallen in to a companionable reverie when I suddenly felt Raene tense up beside me."
-    ""
 
-# game/episode020.rpy:2087
+    "Eravamo caduti in una piacevole fantasticheria quando improvvisamente sentii Raene irrigidirsi accanto a me."
+
+
 translate italian ep020_paclerara_raene_68ae24ae:
 
-    # "Her soft hand suddenly gripped mine, and I could hear her breathing in panic."
-    ""
 
-# game/episode020.rpy:2089
+    "La sua mano morbida afferrò improvvisamente la mia e la sentii respirare in preda al panico."
+
+
 translate italian ep020_paclerara_raene_2b151286:
 
-    # "Her hand suddenly gripped mine, and I could hear her breathing in panic."
-    ""
 
-# game/episode020.rpy:2090
+    "La sua mano afferrò improvvisamente la mia e la sentii respirare in preda al panico."
+
+
 translate italian ep020_paclerara_raene_e10b424a:
 
-    # c "What's the matter, Raene?"
-    c ""
 
-# game/episode020.rpy:2092
+    c "Qual è il problema, Raene?"
+
+
 translate italian ep020_paclerara_raene_a7a9f9a0:
 
-    # ra "It's...{w} I..."
-    ra ""
 
-# game/episode020.rpy:2093
+    ra "È... {w}Io..."
+
+
 translate italian ep020_paclerara_raene_bd6c10f9:
 
-    # ra "We have to go."
-    ra ""
 
-# game/episode020.rpy:2094
+    ra "Dobbiamo andare."
+
+
 translate italian ep020_paclerara_raene_a3a5acfc:
 
-    # "She motioned towards a group of men marching from the direction of the landing pad."
-    ""
 
-# game/episode020.rpy:2095
+    "Indicò un gruppo di uomini che marciavano in direzione della piattaforma di atterraggio."
+
+
 translate italian ep020_paclerara_raene_c7507496:
 
-    # "They wore identical black clothing, not military, but robes of a sort."
-    ""
 
-# game/episode020.rpy:2096
+    "Indossavano abiti neri identici, non militari, ma una sorta di tunica."
+
+
 translate italian ep020_paclerara_raene_e2ed5079:
 
-    # "The men's expressions ranged from forbidding sternness to outright hostility."
-    ""
 
-# game/episode020.rpy:2097
+    "L'espressione degli uomini variava da una severità proibita a una vera e propria ostilità."
+
+
 translate italian ep020_paclerara_raene_23d0052c:
 
-    # "It wasn't much of surprise that most people gave them a wide berth."
-    ""
 
-# game/episode020.rpy:2099
+    "Non fu una sorpresa che la maggior parte delle persone li lasciasse in disparte."
+
+
 translate italian ep020_paclerara_raene_7f1db3f2:
 
-    # "Raene had stood up and was pulling me from the bench as well."
-    ""
 
-# game/episode020.rpy:2100
+    "Raene si era alzata e stava tirando anche me dalla panchina."
+
+
 translate italian ep020_paclerara_raene_bf0d5cc7:
 
-    # ra "Please, we have to go!"
-    ra ""
 
-# game/episode020.rpy:2101
+    ra "Per favore, dobbiamo andare!"
+
+
 translate italian ep020_paclerara_raene_018ca6d3:
 
-    # ra "Those are clerics from the Church of Radiant Dawn."
-    ra ""
 
-# game/episode020.rpy:2102
+    ra "Quelli sono chierici della Chiesa dell'Alba Radiosa."
+
+
 translate italian ep020_paclerara_raene_29f4ed48:
 
-    # c "Your father's men?"
-    c ""
 
-# game/episode020.rpy:2103
+    c "Gli uomini di tuo padre?"
+
+
 translate italian ep020_paclerara_raene_d8b2dee8:
 
-    # "I stood up as well, realization washing over me."
-    ""
 
-# game/episode020.rpy:2104
+    "Mi alzai anch'io e la consapevolezza mi assalì."
+
+
 translate italian ep020_paclerara_raene_ed475543:
 
-    # ra "Yes."
-    ra ""
 
-# game/episode020.rpy:2105
+    ra "Si."
+
+
 translate italian ep020_paclerara_raene_b181a0a0:
 
-    # c "Let's go then."
-    c ""
 
-# game/episode020.rpy:2107
+    c "Allora andiamo."
+
+
 translate italian ep020_paclerara_raene_74e0ef1a:
 
-    # "Just as we attempted to blend into the crowd, two of the men looked at us directly."
-    ""
 
-# game/episode020.rpy:2109
+    "Proprio mentre cercavamo di confonderci tra la folla, due uomini ci guardarono direttamente."
+
+
 translate italian ep020_paclerara_raene_7a6e934d:
 
-    # "We vanished in the throng and the moment passed, but there was no telling if we were recognized."
-    ""
 
-# game/episode020.rpy:2110
+    "Scomparimmo nella folla e il momento passò, ma non si poteva dire se fossimo stati riconosciuti."
+
+
 translate italian ep020_paclerara_raene_93da8297:
 
-    # "Raene and I tried to put as much distance between the clerics and us as possible."
-    ""
 
-# game/episode020.rpy:2112
+    "Io e Raene cercammo di mettere quanta più distanza possibile tra noi e i chierici."
+
+
 translate italian ep020_paclerara_raene_2b12032b:
 
-    # "We hurried back to my room where Raene sank onto the bed and buried her head in her hands."
-    ""
 
-# game/episode020.rpy:2117
+    "Ci affrettammo a tornare nella mia stanza dove Raene sprofondò sul letto e si mise la testa tra le mani."
+
+
 translate italian ep020_paclerara_raene_e269eec8:
 
-    # "I sat next to her and put an arm around her shoulders."
-    ""
 
-# game/episode020.rpy:2118
+    "Mi sedetti accanto a lei e le misi un braccio intorno alle spalle."
+
+
 translate italian ep020_paclerara_raene_d89eae46:
 
-    # c "It's unlikely they were here for us."
-    c ""
 
-# game/episode020.rpy:2119
+    c "È improbabile che fossero qui per noi."
+
+
 translate italian ep020_paclerara_raene_5892dc86:
 
-    # c "Isn't the church on a constant mission to try and recruit new members on any world they can safely land?"
-    c ""
 
-# game/episode020.rpy:2121
+    c "La Chiesa non è in costante missione per cercare di reclutare nuovi membri su qualsiasi mondo in cui possano atterrare in modo sicuro?"
+
+
 translate italian ep020_paclerara_raene_df7de432:
 
-    # ra "I know...{w} I know..."
-    ra ""
 
-# game/episode020.rpy:2123
+    ra "Lo so...{w} Lo so..."
+
+
 translate italian ep020_paclerara_raene_ac6aac6a:
 
-    # ra "But they saw us, didn't they?"
-    ra ""
 
-# game/episode020.rpy:2124
+    ra "Ma ci hanno visto, non è vero?"
+
+
 translate italian ep020_paclerara_raene_95b5b449:
 
-    # c "I'm not sure they recognized us."
-    c ""
 
-# game/episode020.rpy:2126
+    c "Non sono sicuro che ci abbiano riconosciuto."
+
+
 translate italian ep020_paclerara_raene_4fdcbd32:
 
-    # ra "Those clerics are disciplined and well-trained."
-    ra ""
 
-# game/episode020.rpy:2127
+    ra "Quei chierici sono disciplinati e ben addestrati."
+
+
 translate italian ep020_paclerara_raene_98f88acc:
 
-    # ra "If my father gave the order to apprehend me, it's almost certain they've memorized my appearance."
-    ra ""
 
-# game/episode020.rpy:2128
+    ra "Se mio padre ha dato l'ordine di arrestarmi, è quasi certo che abbiano memorizzato il mio aspetto."
+
+
 translate italian ep020_paclerara_raene_750a3088:
 
-    # c "They only saw us as we were about to leave."
-    c ""
 
-# game/episode020.rpy:2129
+    c "Ci hanno visto solo mentre stavamo per andarcene."
+
+
 translate italian ep020_paclerara_raene_2ac04bf7:
 
-    # c "It couldn't have been more than just a flash."
-    c ""
 
-# game/episode020.rpy:2131
+    c "Non può essere stato più di un flash."
+
+
 translate italian ep020_paclerara_raene_8ca7a370:
 
-    # ra "But what if they recognized our ship on the landing pad?"
-    ra ""
 
-# game/episode020.rpy:2132
+    ra "E se avessero riconosciuto la nostra nave sulla piattaforma di atterraggio?"
+
+
 translate italian ep020_paclerara_raene_8b5674d6:
 
-    # c "If they did, they wouldn't have strolled into the Residence like they did."
-    c ""
 
-# game/episode020.rpy:2133
+    c "Se così fosse, non sarebbero entrati nel Residence come hanno fatto."
+
+
 translate italian ep020_paclerara_raene_68c693db:
 
-    # c "And we passed the landing pad of the Bastard on our way in, it was deserted, no clerics lying in wait."
-    c ""
 
-# game/episode020.rpy:2135
+    c "E siamo passati davanti alla piattaforma di atterraggio della Bastarda mentre entravamo, era deserta, senza chierici in attesa."
+
+
 translate italian ep020_paclerara_raene_50163f5a:
 
-    # "I could tell my words did something to calm Raene, but she was still trembling beside me."
-    ""
 
-# game/episode020.rpy:2136
+    "Mi accorsi che le mie parole erano servite a calmare Raene, ma lei tremava ancora accanto a me."
+
+
 translate italian ep020_paclerara_raene_cca72f68:
 
-    # c "You're safe here with me."
-    c ""
 
-# game/episode020.rpy:2137
+    c "Sei al sicuro qui con me."
+
+
 translate italian ep020_paclerara_raene_197f7ba6:
 
-    # c "And we'll be leaving as soon as possible."
-    c ""
 
-# game/episode020.rpy:2139
+    c "E ce ne andremo il prima possibile."
+
+
 translate italian ep020_paclerara_raene_6e969be0:
 
-    # ra "Can I stay here until we leave?"
-    ra ""
 
-# game/episode020.rpy:2140
+    ra "Posso restare qui finché non partiamo?"
+
+
 translate italian ep020_paclerara_raene_c4d17d34:
 
-    # ra "I don't want go out and bump into those men."
-    ra ""
 
-# game/episode020.rpy:2141
+    ra "Non voglio uscire e imbattermi in quegli uomini."
+
+
 translate italian ep020_paclerara_raene_96fecaec:
 
-    # c "Of course you can stay."
-    c ""
 
-# game/episode020.rpy:2143
+    c "Certo che puoi restare."
+
+
 translate italian ep020_paclerara_raene_3d721f44:
 
-    # c "We'll order room service and stay inside until the Bastard is ready for take off."
-    c ""
 
-# game/episode020.rpy:2144
+    c "Ordineremo il servizio in camera e staremo dentro finché il Bastardo non sarà pronto per il decollo."
+
+
 translate italian ep020_paclerara_raene_e2349592:
 
-    # c "Just think of it as a romantic getaway."
-    c ""
 
-# game/episode020.rpy:2146
+    c "Vedila come una fuga romantica."
+
+
 translate italian ep020_paclerara_raene_7d3d4998:
 
-    # c "Make yourself at home, order room service if you like and stay inside until the Bastard is ready for take off."
-    c ""
 
-# game/episode020.rpy:2148
+    c "Fai come se fossi a casa tua, ordina il servizio in camera se vuoi e resta dentro finché il Bastardo non sarà pronto per il decollo."
+
+
 translate italian ep020_paclerara_raene_0050b436:
 
-    # "Raene looked up and smiled at me."
-    ""
 
-# game/episode020.rpy:2149
+    "Raene alzò lo sguardo e mi sorrise."
+
+
 translate italian ep020_paclerara_raene_21207c8b:
 
-    # ra "Okay, I'd like that."
-    ra ""
 
-# game/episode020.rpy:2150
+    ra "Ok, mi piacerebbe."
+
+
 translate italian ep020_paclerara_raene_9aa7645f:
 
-    # c "That's settled then."
-    c ""
 
-# game/episode020.rpy:2151
+    c "Allora è deciso."
+
+
 translate italian ep020_paclerara_raene_86993e5e:
 
-    # c "I'll notify the others that Radiant Dawn is here and they need to avoid them at all costs."
-    c ""
 
-# game/episode020.rpy:2153
+    c "Avviserò gli altri che Radiant Dawn è qui e che devono evitarli a tutti i costi."
+
+
 translate italian ep020_paclerara_raene_741eb44e:
 
-    # "Raene nodded as I began to dispatch messages to the crew."
-    ""
 
-# game/episode020.rpy:2154
+    "Raene annuì mentre io iniziavo a inviare messaggi all'equipaggio."
+
+
 translate italian ep020_paclerara_raene_7ccaa5e7:
 
-    # c "All done."
-    c ""
 
-# game/episode020.rpy:2157
+    c "Tutto fatto."
+
+
 translate italian ep020_paclerara_raene_f966febf:
 
-    # "I sat back next to her."
-    ""
 
-# game/episode020.rpy:2158
+    "Mi sedetti accanto a lei."
+
+
 translate italian ep020_paclerara_raene_30472a24:
 
-    # c "I'll stay with you here, but I might need to meet up with some of the others at some point."
-    c ""
 
-# game/episode020.rpy:2159
+    c "Resterò qui con te, ma potrei aver bisogno di incontrare alcuni degli altri a un certo punto."
+
+
 translate italian ep020_paclerara_raene_4464e6c6:
 
-    # c "I'll be careful to stay clear of your father's men."
-    c ""
 
-# game/episode020.rpy:2164
+    c "Starò attento a non farmi vedere dagli uomini di tuo padre."
+
+
 translate italian ep020_paclerara_raene_b960fe28:
 
-    # ra "Okay..."
-    ra ""
 
-# game/episode020.rpy:2165
+    ra "Ok..."
+
+
 translate italian ep020_paclerara_raene_1bb7eccf:
 
-    # ra "I've been so stupid."
-    ra ""
 
-# game/episode020.rpy:2166
+    ra "Sono stato così stupido."
+
+
 translate italian ep020_paclerara_raene_bb00a52c:
 
-    # c "What do you mean?"
-    c ""
 
-# game/episode020.rpy:2171
+    c "Cosa intendi dire?"
+
+
 translate italian ep020_paclerara_raene_0ae7a656:
 
-    # ra "We knew the church was looking for me."
-    ra ""
 
-# game/episode020.rpy:2172
+    ra "Sapevamo che la chiesa mi stava cercando."
+
+
 translate italian ep020_paclerara_raene_71c7997c:
 
-    # ra "I should have stayed out of sight more."
-    ra ""
 
-# game/episode020.rpy:2177
+    ra "Avrei dovuto nascondermi di più."
+
+
 translate italian ep020_paclerara_raene_7157c5e7:
 
-    # ra "I've been too complacent."
-    ra ""
 
-# game/episode020.rpy:2178
+    ra "Sono stato troppo compiacente."
+
+
 translate italian ep020_paclerara_raene_823eb3f9:
 
-    # c "Nonsense, this is just a spot of bad luck."
-    c ""
 
-# game/episode020.rpy:2179
+    c "Sciocchezze, questo è solo un colpo di sfortuna."
+
+
 translate italian ep020_paclerara_raene_39d6494a:
 
-    # c "Would you have preferred to stay caged inside the Bastard on the off-chance that we'd run into trouble?"
-    c ""
 
-# game/episode020.rpy:2180
+    c "Avresti preferito rimanere in gabbia all'interno del Bastardo nella remota possibilità di trovarci nei guai?"
+
+
 translate italian ep020_paclerara_raene_9cabb5d6:
 
-    # c "That's no way to live."
-    c ""
 
-# game/episode020.rpy:2185
+    c "Non è un modo di vivere."
+
+
 translate italian ep020_paclerara_raene_f0d98f72:
 
-    # ra "I guess not. "
-    ra ""
 
-# game/episode020.rpy:2186
+    ra "Credo di no. "
+
+
 translate italian ep020_paclerara_raene_c79093e3:
 
-    # ra "Truth is, that I'd almost forgotten about it."
-    ra ""
 
-# game/episode020.rpy:2187
+    ra "La verità è che me ne ero quasi dimenticato."
+
+
 translate italian ep020_paclerara_raene_d9e33406:
 
-    # ra "Well, not exactly forgotten, but being with you... being myself..."
-    ra ""
 
-# game/episode020.rpy:2192
+    ra "Beh, non proprio dimenticato, ma stare con te... essere me stesso..."
+
+
 translate italian ep020_paclerara_raene_0d9841ed:
 
-    # ra "All the trouble with my father just started to seem like something from another life."
-    ra ""
 
-# game/episode020.rpy:2193
+    ra "Tutti i problemi con mio padre hanno iniziato a sembrare qualcosa di un'altra vita."
+
+
 translate italian ep020_paclerara_raene_bd82c14a:
 
-    # c "It is, actually."
-    c ""
 
-# game/episode020.rpy:2194
+    c "In effetti lo è."
+
+
 translate italian ep020_paclerara_raene_824b3749:
 
-    # c "You've become the person you've always wanted to be and we will not allow the past to mess that all up."
-    c ""
 
-# game/episode020.rpy:2195
+    c "Sei diventata la persona che hai sempre voluto essere e non permetteremo al passato di rovinare tutto."
+
+
 translate italian ep020_paclerara_raene_eaf6643a:
 
-    # ra "I just hate that it still has a hold on me."
-    ra ""
 
-# game/episode020.rpy:2196
+    ra "Odio solo il fatto che abbia ancora una presa su di me."
+
+
 translate italian ep020_paclerara_raene_41e6fe99:
 
-    # ra "I've been so happy, but now I fear it could all be yanked away in an instant."
-    ra ""
 
-# game/episode020.rpy:2197
+    ra "Sono stata così felice, ma ora temo che tutto possa essere spazzato via in un istante."
+
+
 translate italian ep020_paclerara_raene_f5e1059e:
 
-    # c "I won't let that happen, we both are not going to let that happen."
-    c ""
 
-# game/episode020.rpy:2200
+    c "Non permetterò che accada, entrambi non lo permetteremo."
+
+
 translate italian ep020_paclerara_raene_23b6bd9e:
 
-    # "I kissed Raene's tears away and held her close to me."
-    ""
 
-# game/episode020.rpy:2201
+    "Baciai via le lacrime di Raene e la strinsi a me."
+
+
 translate italian ep020_paclerara_raene_1505c4f3:
 
-    # "I could feel her heart hammering in her chest, her body still in thrall of the panic that had seized her earlier."
-    ""
 
-# game/episode020.rpy:2203
+    "Sentivo il suo cuore martellare nel petto, il suo corpo ancora in preda al panico che l'aveva colta poco prima."
+
+
 translate italian ep020_paclerara_raene_b0d1beb4:
 
-    # "When her pulse started to slow down, I eased her onto the bed."
-    ""
 
-# game/episode020.rpy:2204
+    "Quando il suo battito iniziò a rallentare, la feci sdraiare sul letto."
+
+
 translate italian ep020_paclerara_raene_1bbb07d5:
 
-    # "In the comfort of my arms she fell asleep and I soon followed."
-    ""
 
-# game/episode020.rpy:2207
+    "Nel comfort delle mie braccia si addormentò e io la seguii subito."
+
+
 translate italian ep020_paclerara_raene_a763a0b1:
 
-    # ra "Thank you, [p_name], you don’t know half how much that means to me."
-    ra ""
 
-# game/episode020.rpy:2208
+    ra "Grazie, [p_name], non sai quanto questo significhi per me."
+
+
 translate italian ep020_paclerara_raene_b9d37965:
 
-    # c "Are you going to be okay on your own for a while?"
-    c ""
 
-# game/episode020.rpy:2209
+    c "Starai bene da sola per un po'?"
+
+
 translate italian ep020_paclerara_raene_fdbde01a:
 
-    # ra "Yes, I think I’ll be okay."
-    ra ""
 
-# game/episode020.rpy:2210
+    ra "Sì, penso che starò bene."
+
+
 translate italian ep020_paclerara_raene_fe02bdb8:
 
-    # c "I need to run some errands, but I’ll be back soon."
-    c ""
 
-# game/episode020.rpy:2211
+    c "Devo fare delle commissioni, ma tornerò presto."
+
+
 translate italian ep020_paclerara_raene_263d9d30:
 
-    # ra "Okay, see you soon."
-    ra ""
 
-# game/episode020.rpy:2221
+    ra "Ok, ci vediamo presto."
+
+
 translate italian ep020_paclerara_lilly_e10325f2:
 
-    # "Late in the morning, Lilly knocked on my door."
-    ""
 
-# game/episode020.rpy:2222
+    "In tarda mattinata, Lilly bussò alla mia porta."
+
+
 translate italian ep020_paclerara_lilly_4bf8f12b:
 
-    # l "Fancy a walk with me?"
-    l ""
 
-# game/episode020.rpy:2223
+    l "Ti va di fare una passeggiata con me?"
+
+
 translate italian ep020_paclerara_lilly_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode020.rpy:2225
+    c "Certo."
+
+
 translate italian ep020_paclerara_lilly_e9836ff1:
 
-    # "Lilly and I headed out of the Residence and headed towards the forest."
-    ""
 
-# game/episode020.rpy:2227
+    "Io e Lilly uscimmo dalla residenza e ci dirigemmo verso la foresta."
+
+
 translate italian ep020_paclerara_lilly_6d996b7f:
 
-    # l "I walked to the forest with Aven yesterday, it’s beautiful there."
-    l ""
 
-# game/episode020.rpy:2229
+    l "Ho fatto una passeggiata nella foresta con Aven ieri, è bellissima."
+
+
 translate italian ep020_paclerara_lilly_3ad2dea3:
 
-    # c "I know, I went with Jade earlier."
-    c ""
 
-# game/episode020.rpy:2231
+    c "Lo so, ci sono andata con Jade prima."
+
+
 translate italian ep020_paclerara_lilly_93615229:
 
-    # l "Oh, I didn’t know Jade was such an outdoorsy type?"
-    l ""
 
-# game/episode020.rpy:2232
+    l "Oh, non sapevo che Jade fosse un tipo così amante della vita all'aria aperta?"
+
+
 translate italian ep020_paclerara_lilly_81a67d5c:
 
-    # c "I’m not sure she is, but there’s a monument for her mother in the forest."
-    c ""
 
-# game/episode020.rpy:2233
+    c "Non sono sicura che lo sia, ma c'è un monumento per sua madre nella foresta."
+
+
 translate italian ep020_paclerara_lilly_e47754ef:
 
-    # l "She mentioned something about that."
-    l ""
 
-# game/episode020.rpy:2234
+    l "Mi ha accennato qualcosa a riguardo."
+
+
 translate italian ep020_paclerara_lilly_29fe5c67:
 
-    # l "I didn’t realize it was this close to the Residence."
-    l ""
 
-# game/episode020.rpy:2235
+    l "Non sapevo che fosse così vicino alla Residenza."
+
+
 translate italian ep020_paclerara_lilly_13892505:
 
-    # l "Aven and I didn’t see it on our walk though."
-    l ""
 
-# game/episode020.rpy:2236
+    l "Io e Aven non l'abbiamo visto durante la nostra passeggiata."
+
+
 translate italian ep020_paclerara_lilly_52bb3a7f:
 
-    # c "You have to know where to look for it, I think."
-    c ""
 
-# game/episode020.rpy:2238
+    c "Bisogna sapere dove cercarlo, credo."
+
+
 translate italian ep020_paclerara_lilly_b0acd8e3:
 
-    # c "Really, it seems a little wild from my balcony."
-    c ""
 
-# game/episode020.rpy:2240
+    c "Davvero, dal mio balcone sembra un po' selvaggio."
+
+
 translate italian ep020_paclerara_lilly_0b573ec9:
 
-    # l "I’m sure it seemed that way from up in your ivory tower..."
-    l ""
 
-# game/episode020.rpy:2241
+    l "Sono sicuro che lo sembrava anche dalla tua torre d'avorio..."
+
+
 translate italian ep020_paclerara_lilly_f722a88e:
 
-    # l "It’s lovely though, you’ll see."
-    l ""
 
-# game/episode020.rpy:2243
+    l "Ma è incantevole, vedrai."
+
+
 translate italian ep020_paclerara_lilly_d5f3ccd1:
 
-    # "Lilly took my hand and guided me into the forest."
-    ""
 
-# game/episode020.rpy:2244
+    "Lilly mi prese per mano e mi guidò nella foresta."
+
+
 translate italian ep020_paclerara_lilly_6b8ea30c:
 
-    # "The sun bathed the trees in a healthy glow and the local wildlife could be heard everywhere."
-    ""
 
-# game/episode020.rpy:2245
+    "Il sole illuminava gli alberi con una luce salutare e la fauna locale si sentiva ovunque."
+
+
 translate italian ep020_paclerara_lilly_de514dff:
 
-    # c "This place seems so very alive."
-    c ""
 
-# game/episode020.rpy:2247
+    c "Questo posto sembra così vivo."
+
+
 translate italian ep020_paclerara_lilly_304ab562:
 
-    # l "It does, doesn’t it?"
-    l ""
 
-# game/episode020.rpy:2248
+    l "È vero, non è vero?"
+
+
 translate italian ep020_paclerara_lilly_c066ba0c:
 
-    # l "I wonder if there are any deserts here on the planet."
-    l ""
 
-# game/episode020.rpy:2249
+    l "Mi chiedo se ci siano deserti qui sul pianeta."
+
+
 translate italian ep020_paclerara_lilly_9bca6442:
 
-    # c "I’d be amazed, to be honest."
-    c ""
 
-# game/episode020.rpy:2250
+    c "Sarei stupito, a dire il vero."
+
+
 translate italian ep020_paclerara_lilly_3c2f6281:
 
-    # c "It seems to be all oceans and forests."
-    c ""
 
-# game/episode020.rpy:2256
+    c "Sembra che ci siano solo oceani e foreste."
+
+
 translate italian ep020_paclerara_lilly_c1122132:
 
-    # l "[p_name_short], I was wondering something."
-    l ""
 
-# game/episode020.rpy:2257
+    l "[p_name_short], mi stavo chiedendo una cosa."
+
+
 translate italian ep020_paclerara_lilly_fe5f3366:
 
-    # c "Okay."
-    c ""
 
-# game/episode020.rpy:2258
+    c "Ok."
+
+
 translate italian ep020_paclerara_lilly_e3649dd7:
 
-    # l "You and Céline were close, right?"
-    l ""
 
-# game/episode020.rpy:2259
+    l "Tu e Céline eravate molto legati, vero?"
+
+
 translate italian ep020_paclerara_lilly_0a6d413c:
 
-    # c "I'd like to think we still are close friends."
-    c ""
 
-# game/episode020.rpy:2261
+    c "Mi piace pensare che siamo ancora amici intimi."
+
+
 translate italian ep020_paclerara_lilly_cb94709a:
 
-    # l "No, I mean romantically."
-    l ""
 
-# game/episode020.rpy:2262
+    l "No, intendo romanticamente."
+
+
 translate italian ep020_paclerara_lilly_aed5c73d:
 
-    # l "Back at the Academy, it seemed that you were destined for one another."
-    l ""
 
-# game/episode020.rpy:2263
+    l "All'Accademia sembrava che foste destinati l'uno all'altra."
+
+
 translate italian ep020_paclerara_lilly_63f6feb1:
 
-    # l "She couldn't shut up about you either."
-    l ""
 
-# game/episode020.rpy:2264
+    l "Anche lei non riusciva a non parlare di te."
+
+
 translate italian ep020_paclerara_lilly_b89f3b41:
 
-    # c "I guess she was interested in me at first, but nothing ever came of it."
-    c ""
 
-# game/episode020.rpy:2265
+    c "Credo che all'inizio fosse interessata a me, ma non se ne fece nulla."
+
+
 translate italian ep020_paclerara_lilly_9803d365:
 
-    # l "Right..."
-    l ""
 
-# game/episode020.rpy:2266
+    l "Giusto..."
+
+
 translate italian ep020_paclerara_lilly_8d601ea3:
 
-    # c "I do get why you might be worried and it's something I've been meaning to talk to you about."
-    c ""
 
-# game/episode020.rpy:2268
+    c "Capisco perché sei preoccupato ed è una cosa di cui volevo parlarti."
+
+
 translate italian ep020_paclerara_lilly_1681dc26:
 
-    # l "Okay."
-    l ""
 
-# game/episode020.rpy:2269
+    l "Ok."
+
+
 translate italian ep020_paclerara_lilly_c991a3f9:
 
-    # c "What we have is unconventional and very special."
-    c ""
 
-# game/episode020.rpy:2270
+    c "Quello che abbiamo è anticonvenzionale e molto speciale."
+
+
 translate italian ep020_paclerara_lilly_4077d0ba:
 
-    # c "And it's something I cherish."
-    c ""
 
-# game/episode020.rpy:2272
+    c "Ed è qualcosa a cui tengo molto."
+
+
 translate italian ep020_paclerara_lilly_b2e578a8:
 
-    # c "You're the most important person in my life, Lilly."
-    c ""
 
-# game/episode020.rpy:2273
+    c "Sei la persona più importante della mia vita, Lilly."
+
+
 translate italian ep020_paclerara_lilly_89b9f2e1:
 
-    # c "And yes, you're the only one for me."
-    c ""
 
-# game/episode020.rpy:2275
+    c "E sì, sei l'unica per me."
+
+
 translate italian ep020_paclerara_lilly_28dfd366:
 
-    # l "That makes me so very happy to hear!"
-    l ""
 
-# game/episode020.rpy:2277
+    l "Questo mi rende molto felice!"
+
+
 translate italian ep020_paclerara_lilly_31e2bf0c:
 
-    # c "You're one of the most important people in my life, Lilly."
-    c ""
 
-# game/episode020.rpy:2278
+    c "Sei una delle persone più importanti della mia vita, Lilly."
+
+
 translate italian ep020_paclerara_lilly_6d2891a5:
 
-    # c "That said, I cannot commit myself to just one person."
-    c ""
 
-# game/episode020.rpy:2280
+    c "Detto questo, non posso impegnarmi con una sola persona."
+
+
 translate italian ep020_paclerara_lilly_c57488ca:
 
-    # l "Who else is there?"
-    l ""
 
-# game/episode020.rpy:2281
+    l "Chi altro c'è?"
+
+
 translate italian ep020_paclerara_lilly_cfa6ca55:
 
-    # c "[romances]."
-    c ""
 
-# game/episode020.rpy:2285
+    c "[romances]."
+
+
 translate italian ep020_paclerara_lilly_b4b73667:
 
-    # l "My mother and sisters..."
-    l ""
 
-# game/episode020.rpy:2287
+    l "Mia madre e le mie sorelle..."
+
+
 translate italian ep020_paclerara_lilly_f6172cec:
 
-    # l "My own mother and sisters and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2289
+    l "Mia madre e le mie sorelle e tutto il resto del gruppo..."
+
+
 translate italian ep020_paclerara_lilly_22a308f9:
 
-    # l "My own mother and sisters and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2291
+    l "Mia madre e le mie sorelle e quasi tutto l'equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_d407e4ff:
 
-    # l "My own mother and sister..."
-    l ""
 
-# game/episode020.rpy:2293
+    l "Mia madre e mia sorella..."
+
+
 translate italian ep020_paclerara_lilly_0666c26a:
 
-    # l "My own bloody sister and mother and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2295
+    l "Mia sorella e mia madre e il resto dell'intero equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_630492e6:
 
-    # l "My own bloody sister and mother and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2297
+    l "Mia sorella e mia madre e quasi tutto l'equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_4e3ebbff:
 
-    # l "My own sisters..."
-    l ""
 
-# game/episode020.rpy:2299
+    l "Le mie sorelle..."
+
+
 translate italian ep020_paclerara_lilly_ef6dc186:
 
-    # l "My own bloody sisters and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2301
+    l "Le mie maledette sorelle e il resto di tutta la cazzo di banda..."
+
+
 translate italian ep020_paclerara_lilly_39042b69:
 
-    # l "My own bloody sisters and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2303
+    l "Le mie maledette sorelle e quasi tutta la fottuta troupe..."
+
+
 translate italian ep020_paclerara_lilly_a2f53b05:
 
-    # l "My own sister..."
-    l ""
 
-# game/episode020.rpy:2305
+    l "Le mie sorelle..."
+
+
 translate italian ep020_paclerara_lilly_28b9a25d:
 
-    # l "Eva and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2307
+    l "Eva e il resto dell'intero gruppo del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_31defe7f:
 
-    # l "Eva and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2309
+    l "Eva e quasi tutta la cazzo di troupe..."
+
+
 translate italian ep020_paclerara_lilly_a2f53b05_1:
 
-    # l "My own sister..."
-    l ""
 
-# game/episode020.rpy:2311
+    l "Mia sorella..."
+
+
 translate italian ep020_paclerara_lilly_7ea08c87:
 
-    # l "Aven and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2313
+    l "Aven e il resto dell'intero equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_8b0563c2:
 
-    # l "Aven and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2315
+    l "Aven e quasi tutta la fottuta troupe..."
+
+
 translate italian ep020_paclerara_lilly_fa6a8df5:
 
-    # l "My own mother..."
-    l ""
 
-# game/episode020.rpy:2317
+    l "Mia madre..."
+
+
 translate italian ep020_paclerara_lilly_56831384:
 
-    # l "My own mother and the rest of the whole fucking crew..."
-    l ""
 
-# game/episode020.rpy:2319
+    l "Mia madre e il resto dell'intero equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_22a45a6f:
 
-    # l "My own mother and almost the entire fucking crew..."
-    l ""
 
-# game/episode020.rpy:2321
+    l "Mia madre e quasi tutto l'equipaggio del cazzo..."
+
+
 translate italian ep020_paclerara_lilly_26107bbc:
 
-    # l "But that’s all of the women on the crew?!"
-    l ""
 
-# game/episode020.rpy:2323
+    l "Ma sono tutte le donne dell'equipaggio?!"
+
+
 translate italian ep020_paclerara_lilly_1ca1dbe8:
 
-    # l "That many?!"
-    l ""
 
-# game/episode020.rpy:2324
+    l "Così tante?!"
+
+
 translate italian ep020_paclerara_lilly_6992d6af:
 
-    # l "I was bracing myself for one name..."
-    l ""
 
-# game/episode020.rpy:2326
+    l "Mi stavo preparando per un nome..."
+
+
 translate italian ep020_paclerara_lilly_00d7c8a8:
 
-    # l "I have no words, [p_name]."
-    l ""
 
-# game/episode020.rpy:2328
+    l "Non ho parole, [p_name]."
+
+
 translate italian ep020_paclerara_lilly_754180d8:
 
-    # "Lilly was silent for a while, her emotions raging near the surface."
-    ""
 
-# game/episode020.rpy:2329
+    "Lilly rimase in silenzio per un po', le sue emozioni stavano salendo in superficie."
+
+
 translate italian ep020_paclerara_lilly_5306aa2b:
 
-    # c "I know this might have shattered your idea of us, but I hope it didn't destroy it entirely."
-    c ""
 
-# game/episode020.rpy:2330
+    c "So che questo potrebbe aver distrutto la tua idea di noi, ma spero che non l'abbia distrutta del tutto."
+
+
 translate italian ep020_paclerara_lilly_400868ef:
 
-    # c "I love you and I want to be with you."
-    c ""
 
-# game/episode020.rpy:2331
+    c "Ti amo e voglio stare con te."
+
+
 translate italian ep020_paclerara_lilly_ee62cb0d:
 
-    # c "But I can't be in a monogamous relationship."
-    c ""
 
-# game/episode020.rpy:2332
+    c "Ma non posso avere una relazione monogama."
+
+
 translate italian ep020_paclerara_lilly_353cf189:
 
-    # c "Maybe I should have stated it clearly when we became serious, but the romantic developments just overwhelmed me at some point."
-    c ""
 
-# game/episode020.rpy:2335
+    c "Forse avrei dovuto dirlo chiaramente quando abbiamo iniziato a fare sul serio, ma a un certo punto gli sviluppi romantici mi hanno sopraffatto."
+
+
 translate italian ep020_paclerara_lilly_0070212c:
 
-    # l "Yes, I can see why [romance_number] lovers would overwhelm you..."
-    l ""
 
-# game/episode020.rpy:2336
+    l "Sì, posso capire perché [romance_number] amanti ti abbiano sopraffatto..."
+
+
 translate italian ep020_paclerara_lilly_d3891c36:
 
-    # c "Based on the information you now have, I understand if you wouldn't want us to continue."
-    c ""
 
-# game/episode020.rpy:2337
+    c "In base alle informazioni che hai ora, capisco che tu non voglia che continuiamo."
+
+
 translate italian ep020_paclerara_lilly_63be3ffb:
 
-    # c "But know that I love you very much and I wouldn't want us to break up."
-    c ""
 
-# game/episode020.rpy:2339
+    c "Ma sappi che ti amo molto e non voglio che ci lasciamo."
+
+
 translate italian ep020_paclerara_lilly_7124bf1c:
 
-    # l "You're asking me to accept you fucking other women?"
-    l ""
 
-# game/episode020.rpy:2343
+    l "Mi stai chiedendo di accettare che tu scopi con altre donne?"
+
+
 translate italian ep020_paclerara_lilly_b81c4f68:
 
-    # l "My mother and sisters included?"
-    l ""
 
-# game/episode020.rpy:2345
+    l "Anche con mia madre e le mie sorelle?"
+
+
 translate italian ep020_paclerara_lilly_e685ac21:
 
-    # l "My sisters included?"
-    l ""
 
-# game/episode020.rpy:2347
+    l "Anche le mie sorelle?"
+
+
 translate italian ep020_paclerara_lilly_6f409b34:
 
-    # l "My mother included?"
-    l ""
 
-# game/episode020.rpy:2349
+    l "Mia madre inclusa?"
+
+
 translate italian ep020_paclerara_lilly_0511f9bd:
 
-    # l "My sister included?"
-    l ""
 
-# game/episode020.rpy:2350
+    l "Anche mia sorella?"
+
+
 translate italian ep020_paclerara_lilly_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode020.rpy:2351
+    c "Sì, lo sono."
+
+
 translate italian ep020_paclerara_lilly_4d472a96:
 
-    # c "When we are together, you would have my undivided attention."
-    c ""
 
-# game/episode020.rpy:2353
+    c "Quando siamo insieme, avrai la mia totale attenzione."
+
+
 translate italian ep020_paclerara_lilly_252a89b1:
 
-    # l "Only when we're together..."
-    l ""
 
-# game/episode020.rpy:2367
+    l "Solo quando siamo insieme..."
+
+
 translate italian ep020_paclerara_lilly_7bcb724b:
 
-    # c "Yes, though it needn't be that way."
-    c ""
 
-# game/episode020.rpy:2369
+    c "Sì, anche se non è necessario che sia così."
+
+
 translate italian ep020_paclerara_lilly_46e63b67:
 
-    # l "What are you on about?"
-    l ""
 
-# game/episode020.rpy:2371
+    l "Di cosa stai parlando?"
+
+
 translate italian ep020_paclerara_lilly_9027b0e8:
 
-    # c "I would much rather have you both together."
-    c ""
 
-# game/episode020.rpy:2373
+    c "Preferirei di gran lunga avervi entrambi insieme."
+
+
 translate italian ep020_paclerara_lilly_b4cd56f6:
 
-    # c "I would much rather have you all together."
-    c ""
 
-# game/episode020.rpy:2374
+    c "Preferirei di gran lunga avervi tutti insieme."
+
+
 translate italian ep020_paclerara_lilly_1a875e33:
 
-    # c "Share a bed together, share our love together."
-    c ""
 
-# game/episode020.rpy:2378
+    c "Condividere il letto insieme, condividere il nostro amore insieme."
+
+
 translate italian ep020_paclerara_lilly_7ea0301c:
 
-    # l "Like have sex with my own mother and sisters?"
-    l ""
 
-# game/episode020.rpy:2380
+    l "Come fare sesso con mia madre e le mie sorelle?"
+
+
 translate italian ep020_paclerara_lilly_a0d2faad:
 
-    # l "Like have sex with my own mother and sister?"
-    l ""
 
-# game/episode020.rpy:2382
+    l "Come fare sesso con mia madre e mia sorella?"
+
+
 translate italian ep020_paclerara_lilly_c35a7985:
 
-    # l "Like have sex with my own sisters?"
-    l ""
 
-# game/episode020.rpy:2384
+    l "Come fare sesso con le mie sorelle?"
+
+
 translate italian ep020_paclerara_lilly_bc63b4fc:
 
-    # l "Like have sex with my own sister?"
-    l ""
 
-# game/episode020.rpy:2386
+    l "Come fare sesso con le mie sorelle?"
+
+
 translate italian ep020_paclerara_lilly_8e73dde5:
 
-    # l "Like have sex with my own mother?"
-    l ""
 
-# game/episode020.rpy:2388
+    l "Come fare sesso con mia madre?"
+
+
 translate italian ep020_paclerara_lilly_5f8a9f86:
 
-    # l "Like an orgy?"
-    l ""
 
-# game/episode020.rpy:2389
+    l "Come un'orgia?"
+
+
 translate italian ep020_paclerara_lilly_8f1aecf6:
 
-    # l "Are you asking me to participate in an orgy?"
-    l ""
 
-# game/episode020.rpy:2390
+    l "Mi stai chiedendo di partecipare a un'orgia?"
+
+
 translate italian ep020_paclerara_lilly_c726669f:
 
-    # c "Sex would certainly be a part of it."
-    c ""
 
-# game/episode020.rpy:2391
+    c "Il sesso ne farebbe certamente parte."
+
+
 translate italian ep020_paclerara_lilly_5039b725:
 
-    # c "But I mean something more."
-    c ""
 
-# game/episode020.rpy:2392
+    c "Ma intendo qualcosa di più."
+
+
 translate italian ep020_paclerara_lilly_bf6d07f9:
 
-    # c "Falling asleep, comforting each other, sharing every intimate moment together."
-    c ""
 
-# game/episode020.rpy:2394
+    c "Addormentarsi, confortarsi a vicenda, condividere ogni momento di intimità insieme."
+
+
 translate italian ep020_paclerara_lilly_3956c3f1:
 
-    # l "It just sounds like you want to get in everyone's pants."
-    l ""
 
-# game/episode020.rpy:2395
+    l "Sembra che tu voglia entrare nelle mutande di tutti."
+
+
 translate italian ep020_paclerara_lilly_a788597a:
 
-    # c "I'm just asking you to give it a try."
-    c ""
 
-# game/episode020.rpy:2398
+    c "Ti sto solo chiedendo di fare un tentativo."
+
+
 translate italian ep020_paclerara_lilly_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode020.rpy:2400
+    c "Sì, è vero."
+
+
 translate italian ep020_paclerara_lilly_e67bc61e:
 
-    # l "You have a lot of nerve, asking me this."
-    l ""
 
-# game/episode020.rpy:2401
+    l "Hai una bella faccia tosta a chiedermi questo."
+
+
 translate italian ep020_paclerara_lilly_9181a950:
 
-    # c "Maybe, and I'm hoping you'll say yes, but I would understand if you didn't."
-    c ""
 
-# game/episode020.rpy:2403
+    c "Forse, e spero che tu dica di sì, ma capirei se non lo facessi."
+
+
 translate italian ep020_paclerara_lilly_5ffd548b:
 
-    # "Lilly didn't say anything for a good while, walking through the forest at a very brisk pace."
-    ""
 
-# game/episode020.rpy:2406
+    "Lilly non disse nulla per un bel po', camminando nella foresta a passo spedito."
+
+
 translate italian ep020_paclerara_lilly_c8726d17:
 
-    # l "Does [romances] know and is she okay with it?"
-    l ""
 
-# game/episode020.rpy:2409
+    l "[romances] lo sa e le va bene?"
+
+
 translate italian ep020_paclerara_lilly_c0ed923e:
 
-    # c "I haven't asked her yet."
-    c ""
 
-# game/episode020.rpy:2411
+    c "Non gliel'ho ancora chiesto."
+
+
 translate italian ep020_paclerara_lilly_df360a05:
 
-    # c "Yes, she is."
-    c ""
 
-# game/episode020.rpy:2413
+    c "Sì, lo sa."
+
+
 translate italian ep020_paclerara_lilly_29296280:
 
-    # l "Do the others know and are they okay with it?"
-    l ""
 
-# game/episode020.rpy:2415
+    l "Gli altri lo sanno e sono d'accordo?"
+
+
 translate italian ep020_paclerara_lilly_89bae58a:
 
-    # c "I haven't told everyone yet, but most of them are."
-    c ""
 
-# game/episode020.rpy:2417
+    c "Non l'ho ancora detto a tutti, ma la maggior parte di loro è d'accordo."
+
+
 translate italian ep020_paclerara_lilly_39a2001a:
 
-    # c "Yes, they are."
-    c ""
 
-# game/episode020.rpy:2419
+    c "Sì, sono d'accordo."
+
+
 translate italian ep020_paclerara_lilly_ecf9f22d:
 
-    # l "Fuck, [p_name_short], I hate you so much."
-    l ""
 
-# game/episode020.rpy:2420
+    l "Cazzo, [p_name_short], ti odio così tanto."
+
+
 translate italian ep020_paclerara_lilly_d039af03:
 
-    # "Lilly didn't sound mad when she spoke those words, sadness tinging her voice."
-    ""
 
-# game/episode020.rpy:2421
+    "Lilly non sembrava arrabbiata quando ha pronunciato quelle parole, ma la sua voce era intrisa di tristezza."
+
+
 translate italian ep020_paclerara_lilly_053c4ea0:
 
-    # l "I just knew I was in for madness when I got involved with you."
-    l ""
 
-# game/episode020.rpy:2423
+    l "Sapevo di essere destinata alla follia quando mi sono messa con te."
+
+
 translate italian ep020_paclerara_lilly_b847d82c:
 
-    # l "I mean, only you would be so bold to seduce your own sister."
-    l ""
 
-# game/episode020.rpy:2424
+    l "Voglio dire, solo tu saresti stato così audace da sedurre la tua stessa sorella."
+
+
 translate italian ep020_paclerara_lilly_555e10cc:
 
-    # "I didn't think it opportune to object to her mischaracterization of our relationship and allowed her to continue."
-    ""
 
-# game/episode020.rpy:2426
+    "Non ho ritenuto opportuno obiettare alla sua errata descrizione della nostra relazione e le ho permesso di continuare."
+
+
 translate italian ep020_paclerara_lilly_474063e1:
 
-    # l "Other people will sure find me insane, but I don't want to lose you."
-    l ""
 
-# game/episode020.rpy:2427
+    l "Gli altri mi troveranno sicuramente pazzo, ma io non voglio perderti."
+
+
 translate italian ep020_paclerara_lilly_5549c058:
 
-    # l "So I'm holding you to your promise."
-    l ""
 
-# game/episode020.rpy:2428
+    l "Perciò ti sto chiedendo di mantenere la tua promessa."
+
+
 translate italian ep020_paclerara_lilly_b4eadf51:
 
-    # l "I want your undivided attention when we're together."
-    l ""
 
-# game/episode020.rpy:2431
+    l "Voglio la tua completa attenzione quando siamo insieme."
+
+
 translate italian ep020_paclerara_lilly_de410991:
 
-    # l "You'll love only me then and don't speak a word of the other one. "
-    l ""
 
-# game/episode020.rpy:2433
+    l "Allora amerai solo me e non parlerai dell'altra. "
+
+
 translate italian ep020_paclerara_lilly_45cdf84f:
 
-    # l "You'll love only me then and don't speak a word of the others."
-    l ""
 
-# game/episode020.rpy:2436
+    l "Allora amerai solo me e non dirai una parola degli altri."
+
+
 translate italian ep020_paclerara_lilly_bba0e557:
 
-    # l "Your ideas about being together with the both of us haven't convinced me."
-    l ""
 
-# game/episode020.rpy:2438
+    l "Le tue idee di stare insieme a tutti e due non mi hanno convinto."
+
+
 translate italian ep020_paclerara_lilly_6e9d0934:
 
-    # l "Your ideas about being together with all the others haven't convinced me."
-    l ""
 
-# game/episode020.rpy:2439
+    l "Le tue idee di stare insieme a tutti gli altri non mi hanno convinto."
+
+
 translate italian ep020_paclerara_lilly_5344c8ba:
 
-    # l "But I'm willing to try, for us and on my own terms."
-    l ""
 
-# game/episode020.rpy:2440
+    l "Ma sono disposto a provarci, per noi e alle mie condizioni."
+
+
 translate italian ep020_paclerara_lilly_a83ab574:
 
-    # c "Of course!"
-    c ""
 
-# game/episode020.rpy:2441
+    c "Ma certo!"
+
+
 translate italian ep020_paclerara_lilly_f5ff2a0e:
 
-    # c "Thank you, Lilly."
-    c ""
 
-# game/episode020.rpy:2442
+    c "Grazie, Lilly."
+
+
 translate italian ep020_paclerara_lilly_9ea76609:
 
-    # c "You won't regret it."
-    c ""
 
-# game/episode020.rpy:2443
+    c "Non te ne pentirai."
+
+
 translate italian ep020_paclerara_lilly_5c602722:
 
-    # l "I still might and I still hate you."
-    l ""
 
-# game/episode020.rpy:2445
+    l "Potrei ancora farlo e ti odio ancora."
+
+
 translate italian ep020_paclerara_lilly_3d2500e3:
 
-    # l "I also want you to kiss me."
-    l ""
 
-# game/episode020.rpy:2447
+    l "Voglio anche che tu mi baci."
+
+
 translate italian ep020_paclerara_lilly_add42911:
 
-    # "We'd stopped near the edge of a lake."
-    ""
 
-# game/episode020.rpy:2449
+    "Ci fermammo vicino al bordo di un lago."
+
+
 translate italian ep020_paclerara_lilly_9333cf2b:
 
-    # "Lilly stood pouting near a large tree, her coppery hair glowing in the midday sun."
-    ""
 
-# game/episode020.rpy:2450
+    "Lilly stava imbronciata vicino a un grande albero, con i capelli ramati che brillavano al sole di mezzogiorno."
+
+
 translate italian ep020_paclerara_lilly_7cf6d63c:
 
-    # "I didn’t hesitate and took the opportunity to kiss her."
-    ""
 
-# game/episode020.rpy:2453
+    "Non esitai e colsi l'occasione per baciarla."
+
+
 translate italian ep020_paclerara_lilly_13069f09:
 
-    # "Lilly and I walked deeper into the forest until we reached a lake."
-    ""
 
-# game/episode020.rpy:2455
+    "Io e Lilly ci addentrammo nella foresta fino a raggiungere un lago."
+
+
 translate italian ep020_paclerara_lilly_09135da2:
 
-    # "We stood at the edge of the lake, taking the opportunity to kiss."
-    ""
 
-# game/episode020.rpy:2457
+    "Ci fermammo sul bordo del lago, cogliendo l'occasione per baciarci."
+
+
 translate italian ep020_paclerara_lilly_cb2a31fb:
 
-    # "When Lilly and I disentangled, there was a mischievous glint in her eyes."
-    ""
 
-# game/episode020.rpy:2458
+    "Quando io e Lilly ci staccammo, nei suoi occhi c'era un luccichio malizioso."
+
+
 translate italian ep020_paclerara_lilly_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode020.rpy:2459
+    c "Cosa?"
+
+
 translate italian ep020_paclerara_lilly_43a0c9c4:
 
-    # l "Oh...{w} Well...{w} It’s quiet here, isn’t it?"
-    l ""
 
-# game/episode020.rpy:2460
+    l "Oh...{w} Beh...{w} È tranquillo qui, vero?"
+
+
 translate italian ep020_paclerara_lilly_9025f99e:
 
-    # c "It sure is."
-    c ""
 
-# game/episode020.rpy:2461
+    c "Certo che lo è."
+
+
 translate italian ep020_paclerara_lilly_e1276223:
 
-    # l "And we haven’t seen a soul since we entered the forest."
-    l ""
 
-# game/episode020.rpy:2462
+    l "E non abbiamo visto anima viva da quando siamo entrati nella foresta."
+
+
 translate italian ep020_paclerara_lilly_8ecd5608:
 
-    # c "Also true."
-    c ""
 
-# game/episode020.rpy:2463
+    c "Anche questo è vero."
+
+
 translate italian ep020_paclerara_lilly_4ea03606:
 
-    # c "I feel like you’re hinting at something..."
-    c ""
 
-# game/episode020.rpy:2465
+    c "Mi sembra che tu stia alludendo a qualcosa..."
+
+
 translate italian ep020_paclerara_lilly_9f000d8c:
 
-    # l "How perceptive of you."
-    l ""
 
-# game/episode020.rpy:2467
+    l "Sei molto perspicace."
+
+
 translate italian ep020_paclerara_lilly_217ef7a6:
 
-    # c "Is it possible that my little sister is thinking dirty thoughts again?"
-    c ""
 
-# game/episode020.rpy:2469
+    c "È possibile che la mia sorellina stia facendo di nuovo pensieri sconci?"
+
+
 translate italian ep020_paclerara_lilly_77b9f132:
 
-    # c "Is it possible that you’re thinking dirty thoughts again?"
-    c ""
 
-# game/episode020.rpy:2470
+    c "È possibile che tu stia facendo di nuovo pensieri sconci?"
+
+
 translate italian ep020_paclerara_lilly_5553971c:
 
-    # l "I would never, I’m a chaste angel!"
-    l ""
 
-# game/episode020.rpy:2471
+    l "Non lo farei mai, sono un angelo casto!"
+
+
 translate italian ep020_paclerara_lilly_7c3bb1cf:
 
-    # c "Sure you are."
-    c ""
 
-# game/episode020.rpy:2472
+    c "Certo che lo sei."
+
+
 translate italian ep020_paclerara_lilly_fef5b900:
 
-    # c "So if I would feel inside your pants right now, you wouldn’t be aroused?"
-    c ""
 
-# game/episode020.rpy:2474
+    c "Quindi, se in questo momento mi sentissi nei tuoi pantaloni, non ti ecciteresti?"
+
+
 translate italian ep020_paclerara_lilly_b2e92c42:
 
-    # l "Only one way to find out."
-    l ""
 
-# game/episode020.rpy:2475
+    l "C'è solo un modo per scoprirlo."
+
+
 translate italian ep020_paclerara_lilly_7007b8c8:
 
-    # l "But you’ll have to catch me before you can!"
-    l ""
 
-# game/episode020.rpy:2477
+    l "Ma dovrai catturarmi prima di riuscirci!"
+
+
 translate italian ep020_paclerara_lilly_f8bfe326:
 
-    # "Giggling, Lilly darted away from the shore and back to the forest."
-    ""
 
-# game/episode020.rpy:2478
+    "Ridacchiando, Lilly si allontanò dalla riva e tornò nella foresta."
+
+
 translate italian ep020_paclerara_lilly_9288df35:
 
-    # "I caught her just before she reached the first trees."
-    ""
 
-# game/episode020.rpy:2480
+    "L'ho raggiunta appena prima che raggiungesse i primi alberi."
+
+
 translate italian ep020_paclerara_lilly_0ecc0c30:
 
-    # "Kissing again, I made sure she couldn’t escape me."
-    ""
 
-# game/episode020.rpy:2482
+    "Baciandola di nuovo, mi assicurai che non potesse sfuggirmi."
+
+
 translate italian ep020_paclerara_lilly_6438bc5d:
 
-    # "Not that I needed to have bothered, because Lilly gave herself over to me completely."
-    ""
 
-# game/episode020.rpy:2484
+    "Non che dovessi preoccuparmi, perché Lilly si abbandonò completamente a me."
+
+
 translate italian ep020_paclerara_lilly_9ffbd020:
 
-    # "We both struggled out of our clothes, but Lilly kept pulling me against her for more kisses."
-    ""
 
-# game/episode020.rpy:2485
+    "Entrambi ci siamo liberati a fatica dei nostri vestiti, ma Lilly ha continuato a tirarmi contro di lei per baciarmi ancora."
+
+
 translate italian ep020_paclerara_lilly_ac6b6c29:
 
-    # c "You might be an angel, but I think you’re also dripping wet."
-    c ""
 
-# game/episode020.rpy:2486
+    c "Sarai anche un angelo, ma credo che tu sia anche bagnata fradicia”."
+
+
 translate italian ep020_paclerara_lilly_b0e491de:
 
-    # "Lilly gasped and I saw my hunger reflected in her eyes."
-    ""
 
-# game/episode020.rpy:2487
+    "Lilly sussultò e vidi la mia fame riflessa nei suoi occhi."
+
+
 translate italian ep020_paclerara_lilly_94e149f9:
 
-    # l "This angel wants you to fuck her..."
-    l ""
 
-# game/episode020.rpy:2495
+    l "Questo angelo vuole che tu la scopi..."
+
+
 translate italian ep020_paclerara_lilly_de3f7bb5:
 
-    # "Enjoying the afterglow, we sat on the forest floor, Lilly resting her head in Aven’s lap."
-    ""
 
-# game/episode020.rpy:2497
+    "Godendoci la luce del giorno dopo, ci sedemmo sul pavimento della foresta, Lilly appoggiò la testa sul grembo di Aven."
+
+
 translate italian ep020_paclerara_lilly_3afcec40:
 
-    # av "How did you like us, [p_name]?"
-    av ""
 
-# game/episode020.rpy:2498
+    av "Come ti siamo piaciuti, [p_name]?"
+
+
 translate italian ep020_paclerara_lilly_8eb0fa8e:
 
-    # c "Like you?"
-    c ""
 
-# game/episode020.rpy:2499
+    c "Come voi?"
+
+
 translate italian ep020_paclerara_lilly_64b2cfad:
 
-    # c "I loved you both together!"
-    c ""
 
-# game/episode020.rpy:2501
+    c "Mi siete piaciuti entrambi insieme!"
+
+
 translate italian ep020_paclerara_lilly_9d055b0d:
 
-    # l "I must admit that is was really hot, the three of us together."
-    l ""
 
-# game/episode020.rpy:2502
+    l "Devo ammettere che è stato davvero eccitante, noi tre insieme."
+
+
 translate italian ep020_paclerara_lilly_12160c87:
 
-    # l "I didn’t expect that."
-    l ""
 
-# game/episode020.rpy:2504
+    l "Non me lo aspettavo."
+
+
 translate italian ep020_paclerara_lilly_1a666924:
 
-    # av "Me neither."
-    av ""
 
-# game/episode020.rpy:2506
+    av "Nemmeno io."
+
+
 translate italian ep020_paclerara_lilly_df073e5c:
 
-    # l "I’d thought my jealousy would completely overwhelm everything."
-    l ""
 
-# game/episode020.rpy:2507
+    l "Pensavo che la mia gelosia avrebbe sopraffatto tutto."
+
+
 translate italian ep020_paclerara_lilly_66ee3d54:
 
-    # l "It very nearly did, but then everything started to blur into one delicious whirlwind of passion."
-    l ""
 
-# game/episode020.rpy:2508
+    l "Ci è mancato poco, ma poi tutto ha iniziato a confondersi in un delizioso turbinio di passione."
+
+
 translate italian ep020_paclerara_lilly_e14b4809:
 
-    # l "I didn’t realize how sexy you were before, Aven."
-    l ""
 
-# game/episode020.rpy:2510
+    l "Non avevo capito quanto fossi sexy prima, Aven."
+
+
 translate italian ep020_paclerara_lilly_24b87e14:
 
-    # av "Thank you."
-    av ""
 
-# game/episode020.rpy:2512
+    av "Grazie."
+
+
 translate italian ep020_paclerara_lilly_7a92ed01:
 
-    # av "You’re one hot piece of ass yourself, sis!"
-    av ""
 
-# game/episode020.rpy:2514
+    av "Anche tu sei un bel pezzo di culo, sorellina!"
+
+
 translate italian ep020_paclerara_lilly_aa748742:
 
-    # av "You’re one hot piece of ass yourself!"
-    av ""
 
-# game/episode020.rpy:2516
+    av "Anche tu sei un bel pezzo di culo!"
+
+
 translate italian ep020_paclerara_lilly_acaa09f7:
 
-    # "Both girls dissolved into giggles, until Lilly suddenly rose and ran toward the lake."
-    ""
 
-# game/episode020.rpy:2517
+    "Entrambe le ragazze si sciolsero in risatine, finché Lilly non si alzò improvvisamente e corse verso il lago."
+
+
 translate italian ep020_paclerara_lilly_4c874495:
 
-    # l "Last to get in is a monumental loser!"
-    l ""
 
-# game/episode020.rpy:2518
+    l "L'ultima ad entrare è una perdente monumentale!"
+
+
 translate italian ep020_paclerara_lilly_caafd1c4:
 
-    # "Aven and I raced her to the shore and we both dove in at the same time."
-    ""
 
-# game/episode020.rpy:2520
+    "Aven e io la rincorremmo fino alla riva e ci tuffammo entrambe nello stesso momento."
+
+
 translate italian ep020_paclerara_lilly_46502355:
 
-    # "We amused ourselves in the cool water for a good while."
-    ""
 
-# game/episode020.rpy:2522
+    "Ci siamo divertiti nell'acqua fresca per un bel po'."
+
+
 translate italian ep020_paclerara_lilly_fb2128c3:
 
-    # "Lilly and Aven really seemed to have made a connection during our union earlier, they just couldn’t stop touching each other and frequently kissed."
-    ""
 
-# game/episode020.rpy:2524
+    "Lilly e Aven sembravano davvero aver stabilito un legame durante la nostra unione, non riuscivano a smettere di toccarsi e si baciavano spesso."
+
+
 translate italian ep020_paclerara_lilly_257c0ad7:
 
-    # "I observed my sisters from a short distance, happy with how things had turned out."
-    ""
 
-# game/episode020.rpy:2526
+    "Osservavo le mie sorelle da una certa distanza, felice di come erano andate le cose."
+
+
 translate italian ep020_paclerara_lilly_48fd44c3:
 
-    # "I observed them from a short distance, happy with how things had turned out."
-    ""
 
-# game/episode020.rpy:2528
+    "Le osservai a breve distanza, felice di come erano andate le cose."
+
+
 translate italian ep020_paclerara_lilly_54ddb5d6:
 
-    # "When evening started to fall, we dressed and headed back to the Residence."
-    ""
 
-# game/episode020.rpy:2530
+    "Quando iniziò a calare la sera, ci vestimmo e tornammo al residence."
+
+
 translate italian ep020_paclerara_lilly_14910fe7:
 
-    # "Just when we were about to continue, I heard someone humming in the distance."
-    ""
 
-# game/episode020.rpy:2531
+    "Proprio quando stavamo per proseguire, ho sentito qualcuno canticchiare in lontananza."
+
+
 translate italian ep020_paclerara_lilly_051fb8d1:
 
-    # c "Do you hear that?"
-    c ""
 
-# game/episode020.rpy:2533
+    c "Lo senti?"
+
+
 translate italian ep020_paclerara_lilly_6b2e55d5:
 
-    # l "Fuck!{w} Someone is coming!"
-    l ""
 
-# game/episode020.rpy:2538
+    l "Cazzo! {w} Sta arrivando qualcuno!"
+
+
 translate italian ep020_paclerara_lilly_73fe4e66:
 
-    # "Under the cover of the tree we sprinted back towards the lake and jumped in with half our clothes on."
-    ""
 
-# game/episode020.rpy:2539
+    "Sotto la copertura dell'albero siamo tornati di corsa verso il lago e ci siamo tuffati con metà dei nostri vestiti addosso."
+
+
 translate italian ep020_paclerara_lilly_205d8734:
 
-    # "Moments later, Aven passed the tree where we were making out earlier."
-    ""
 
-# game/episode020.rpy:2540
+    "Qualche istante dopo, Aven passò davanti all'albero dove stavamo pomiciando prima."
+
+
 translate italian ep020_paclerara_lilly_bad01450:
 
-    # "Only then did she seem to notice us."
-    ""
 
-# game/episode020.rpy:2542
+    "Solo allora sembrò accorgersi di noi."
+
+
 translate italian ep020_paclerara_lilly_73a9217f:
 
-    # av "Oh hey!"
-    av ""
 
-# game/episode020.rpy:2543
+    av "Oh, ehi!"
+
+
 translate italian ep020_paclerara_lilly_40b2cda9:
 
-    # av "I didn’t know you were going for a swim."
-    av ""
 
-# game/episode020.rpy:2544
+    av "Non sapevo che foste andati a fare una nuotata."
+
+
 translate italian ep020_paclerara_lilly_1da037b4:
 
-    # l "We were out for a stroll and came upon this lake."
-    l ""
 
-# game/episode020.rpy:2545
+    l "Stavamo facendo una passeggiata e ci siamo imbattuti in questo lago."
+
+
 translate italian ep020_paclerara_lilly_061fff09:
 
-    # c "Water looked too good not to dive in."
-    c ""
 
-# game/episode020.rpy:2547
+    c "L'acqua sembrava troppo bella per non tuffarsi."
+
+
 translate italian ep020_paclerara_lilly_c19cad87:
 
-    # av "It sure does."
-    av ""
 
-# game/episode020.rpy:2548
+    av "Certo che lo è."
+
+
 translate italian ep020_paclerara_lilly_712b5492:
 
-    # av "Maybe I’ll join you?"
-    av ""
 
-# game/episode020.rpy:2550
+    av "Magari mi unisco a voi?"
+
+
 translate italian ep020_paclerara_lilly_da5ade18:
 
-    # l "No!"
-    l ""
 
-# game/episode020.rpy:2551
+    l "No!"
+
+
 translate italian ep020_paclerara_lilly_b87c6bd8:
 
-    # av "Er?"
-    av ""
 
-# game/episode020.rpy:2552
+    av "Eh?"
+
+
 translate italian ep020_paclerara_lilly_0a3f04d1:
 
-    # c "The water’s too cold and surprisingly dirty."
-    c ""
 
-# game/episode020.rpy:2553
+    c "L'acqua è troppo fredda e sorprendentemente sporca."
+
+
 translate italian ep020_paclerara_lilly_87b9c238:
 
-    # l "We were just coming out anyway."
-    l ""
 
-# game/episode020.rpy:2554
+    l "Stavamo uscendo comunque."
+
+
 translate italian ep020_paclerara_lilly_781c10e8:
 
-    # c "You’re better off taking a swim over at the Residence."
-    c ""
 
-# game/episode020.rpy:2556
+    c "È meglio se fai una nuotata al Residence."
+
+
 translate italian ep020_paclerara_lilly_d088a3a5:
 
-    # av "Oh, okay...{w} Have fun, I guess?"
-    av ""
 
-# game/episode020.rpy:2557
+    av "Oh, ok...{w} Divertiti, immagino."
+
+
 translate italian ep020_paclerara_lilly_bdf827fb:
 
-    # av "I’ll leave you to it then."
-    av ""
 
-# game/episode020.rpy:2559
+    av "Allora ti lascio fare."
+
+
 translate italian ep020_paclerara_lilly_f9e2f376:
 
-    # c "See you at the Residence."
-    c ""
 
-# game/episode020.rpy:2560
+    c "Ci vediamo alla Residenza."
+
+
 translate italian ep020_paclerara_lilly_ffb807ae:
 
-    # "Aven left us, having not noticed our lack of towels and just our tops lying somewhere in the grass."
-    ""
 
-# game/episode020.rpy:2562
+    "Aven ci lasciò, non avendo notato la mancanza di asciugamani e solo i nostri top che giacevano da qualche parte nell'erba."
+
+
 translate italian ep020_paclerara_lilly_d8f630de:
 
-    # "When Aven was out of sight, Lilly and I remained in the water for a while."
-    ""
 
-# game/episode020.rpy:2563
+    "Quando Aven si perse di vista, io e Lilly restammo in acqua per un po'."
+
+
 translate italian ep020_paclerara_lilly_8345ecc0:
 
-    # "The water had been rather cold and Lilly was shivering slightly when we climbed out."
-    ""
 
-# game/episode020.rpy:2564
+    "L'acqua era piuttosto fredda e Lilly tremava leggermente quando uscimmo."
+
+
 translate italian ep020_paclerara_lilly_77e8bd1f:
 
-    # "Any chance of continuing what we had started seemed unlikely."
-    ""
 
-# game/episode020.rpy:2566
+    "Qualsiasi possibilità di continuare ciò che avevamo iniziato sembrava improbabile."
+
+
 translate italian ep020_paclerara_lilly_3c923264:
 
-    # c "Maybe we should head back as well, the sun might dry our clothes while we walk."
-    c ""
 
-# game/episode020.rpy:2567
+    c "Forse dovremmo anche tornare indietro, il sole potrebbe asciugare i nostri vestiti mentre camminiamo."
+
+
 translate italian ep020_paclerara_lilly_63b3750e:
 
-    # l "Good idea."
-    l ""
 
-# game/episode020.rpy:2568
+    l "Buona idea."
+
+
 translate italian ep020_paclerara_lilly_dbed23f8:
 
-    # l "Promise me we’ll stray further from the path."
-    l ""
 
-# game/episode020.rpy:2569
+    l "Promettimi che ci allontaneremo dal sentiero."
+
+
 translate italian ep020_paclerara_lilly_d27df267:
 
-    # c "Oh, we sure will, make no mistake!"
-    c ""
 
-# game/episode020.rpy:2572
+    c "Oh, lo faremo di sicuro, non illuderti!"
+
+
 translate italian ep020_paclerara_lilly_cbec7e4c:
 
-    # "My sister and I walked back to the Residence, holding hands until we neared the building."
-    ""
 
-# game/episode020.rpy:2574
+    "Io e mia sorella tornammo alla Residenza, tenendoci per mano fino a quando non ci avvicinammo all'edificio."
+
+
 translate italian ep020_paclerara_lilly_7788d308:
 
-    # "Lilly and I walked back to the Residence, holding hands until we neared the building."
-    ""
 
-# game/episode020.rpy:2581
+    "Io e Lilly tornammo alla Residenza, tenendoci per mano fino a quando non ci avvicinammo all'edificio."
+
+
 translate italian ep020_paclerara_eva_37a71968:
 
-    # "After speaking to Thyia and Jade, evening had started to fall."
-    ""
 
-# game/episode020.rpy:2582
+    "Dopo aver parlato con Thyia e Jade, si era fatta sera."
+
+
 translate italian ep020_paclerara_eva_8bf55831:
 
-    # "I messaged Eva to bring her up to speed about my progress."
-    ""
 
-# game/episode020.rpy:2583
+    "Ho mandato un messaggio a Eva per aggiornarla sui miei progressi."
+
+
 translate italian ep020_paclerara_eva_ff40180e:
 
-    # "Just when I was about to send messages to the others, Eva replied with an invitation to come to her quarters."
-    ""
 
-# game/episode020.rpy:2585
+    "Proprio quando stavo per inviare i messaggi agli altri, Eva mi ha risposto invitandomi a raggiungerla nel suo alloggio."
+
+
 translate italian ep020_paclerara_eva_18ade44e:
 
-    # "I didn’t hesitate and made my way back to her room."
-    ""
 
-# game/episode020.rpy:2587
+    "Non esitai e mi diressi verso la sua stanza."
+
+
 translate italian ep020_paclerara_eva_0d520657:
 
-    # "I made my way back to her room."
-    ""
 
-# game/episode020.rpy:2589
+    "Mi diressi verso la sua stanza."
+
+
 translate italian ep020_paclerara_eva_b98b6be0:
 
-    # c "No welcoming committee this time?"
-    c ""
 
-# game/episode020.rpy:2590
+    c "Niente comitato di benvenuto questa volta?"
+
+
 translate italian ep020_paclerara_eva_d86ffaaa:
 
-    # e "Just me."
-    e ""
 
-# game/episode020.rpy:2592
+    e "Solo io."
+
+
 translate italian ep020_paclerara_eva_0dacb5ad:
 
-    # e "I wanted you for myself for a little while."
-    e ""
 
-# game/episode020.rpy:2593
+    e "Ti volevo solo per me per un po'."
+
+
 translate italian ep020_paclerara_eva_de2e75b8:
 
-    # e "Do you want anything to drink?"
-    e ""
 
-# game/episode020.rpy:2594
+    e "Vuoi qualcosa da bere?"
+
+
 translate italian ep020_paclerara_eva_99043431:
 
-    # c "Sure, whisky if you have it?"
-    c ""
 
-# game/episode020.rpy:2595
+    c "Certo, un whisky se ce l'hai?"
+
+
 translate italian ep020_paclerara_eva_6ce46678:
 
-    # e "I’m sure there’s something in the minibar."
-    e ""
 
-# game/episode020.rpy:2597
+    e "Sono sicura che c'è qualcosa nel minibar."
+
+
 translate italian ep020_paclerara_eva_6d2cb0be:
 
-    # "Longing for more comfort, Eva slipped out of her heels and form fitting pants, before arranging two drinks and sat next to me on the sofa."
-    ""
 
-# game/episode020.rpy:2598
+    "Desiderosa di maggiore comodità, Eva si tolse i tacchi e i pantaloni aderenti, prima di preparare due drink e sedersi accanto a me sul divano."
+
+
 translate italian ep020_paclerara_eva_e3f2226a:
 
-    # e "I’m still a little giddy about the fact that we’re actually going to Petrarch."
-    e ""
 
-# game/episode020.rpy:2599
+    e "Sono ancora un po' eccitato dal fatto che stiamo andando al Petrarca."
+
+
 translate italian ep020_paclerara_eva_16c97135:
 
-    # e "It feels like we’re taking a concrete step all of a sudden."
-    e ""
 
-# game/episode020.rpy:2600
+    e "Mi sembra che all'improvviso stiamo facendo un passo concreto."
+
+
 translate italian ep020_paclerara_eva_95ee4203:
 
-    # c "Yes, we are."
-    c ""
 
-# game/episode020.rpy:2601
+    c "Sì, è così."
+
+
 translate italian ep020_paclerara_eva_3f159f30:
 
-    # c "Up until now, the prophecy has been a little abstract."
-    c ""
 
-# game/episode020.rpy:2602
+    c "Finora la profezia è stata un po' astratta."
+
+
 translate italian ep020_paclerara_eva_2be8526b:
 
-    # c "Petrarch might prove once and for all if it’s a great bunch of nonsense."
-    c ""
 
-# game/episode020.rpy:2603
+    c "Il Petrarca potrebbe dimostrare una volta per tutte se si tratta di un mucchio di sciocchezze."
+
+
 translate italian ep020_paclerara_eva_2a9cef3f:
 
-    # e "I think it’s real."
-    e ""
 
-# game/episode020.rpy:2604
+    e "Io credo che sia reale."
+
+
 translate italian ep020_paclerara_eva_320bdde1:
 
-    # c "You and quite a few others."
-    c ""
 
-# game/episode020.rpy:2606
+    c "Tu e molti altri."
+
+
 translate italian ep020_paclerara_eva_0543cc13:
 
-    # e "You’re still skeptical?"
-    e ""
 
-# game/episode020.rpy:2607
+    e "Sei ancora scettico?"
+
+
 translate italian ep020_paclerara_eva_27e906d1:
 
-    # c "A little."
-    c ""
 
-# game/episode020.rpy:2608
+    c "Un po'."
+
+
 translate italian ep020_paclerara_eva_a3e116af:
 
-    # c "But I’m pretty sure we’re going to find something there."
-    c ""
 
-# game/episode020.rpy:2609
+    c "Ma sono abbastanza sicuro che troveremo qualcosa."
+
+
 translate italian ep020_paclerara_eva_d0d1d2e9:
 
-    # c "I’m just not sure if we’re going to like what we’ll find."
-    c ""
 
-# game/episode020.rpy:2611
+    c "Solo che non sono sicuro che ci piacerà quello che troveremo."
+
+
 translate italian ep020_paclerara_eva_763f44fa:
 
-    # e "Me neither, to be honest."
-    e ""
 
-# game/episode020.rpy:2614
+    e "Nemmeno io, a dire il vero."
+
+
 translate italian ep020_paclerara_eva_4b77aee4:
 
-    # "We quietly sipped our drinks for a while, until Eva shifted and snuggled against me."
-    ""
 
-# game/episode020.rpy:2616
+    "Sorseggiammo tranquillamente i nostri drink per un po', finché Eva si spostò e si accoccolò contro di me."
+
+
 translate italian ep020_paclerara_eva_bbcc2375:
 
-    # "We quietly sipped our drinks for a while, lost in thought."
-    ""
 
-# game/episode020.rpy:2618
+    "Sorseggiammo in silenzio i nostri drink per un po', persi nei nostri pensieri."
+
+
 translate italian ep020_paclerara_eva_ab40c282:
 
-    # e "Did you ever think it would turn out like this?"
-    e ""
 
-# game/episode020.rpy:2619
+    e "Avresti mai pensato che sarebbe andata così?"
+
+
 translate italian ep020_paclerara_eva_4a948b32:
 
-    # c "Not for a moment."
-    c ""
 
-# game/episode020.rpy:2620
+    c "Neanche per un attimo."
+
+
 translate italian ep020_paclerara_eva_88c73ee2:
 
-    # c "We were destined to be career officers."
-    c ""
 
-# game/episode020.rpy:2621
+    c "Eravamo destinati a diventare ufficiali di carriera."
+
+
 translate italian ep020_paclerara_eva_efcc1420:
 
-    # c "And I’m sure you would have been great at it, I’m just not so sure about me."
-    c ""
 
-# game/episode020.rpy:2626
+    c "E sono sicuro che tu saresti stato bravissimo, ma non sono così sicuro di me."
+
+
 translate italian ep020_paclerara_eva_1360f88c:
 
-    # e "Considering you’ve rescued me and pulled our crew through many dangers, I’d say you have done alright as a career officer."
-    e ""
 
-# game/episode020.rpy:2627
+    e "Considerando che mi hai salvato e che hai fatto superare molti pericoli al nostro equipaggio, direi che te la sei cavata bene come ufficiale di carriera."
+
+
 translate italian ep020_paclerara_eva_576e5544:
 
-    # c "I really don’t think so."
-    c ""
 
-# game/episode020.rpy:2628
-translate italian ep020_paclerara_eva_87add7cf:
+    c "Non credo proprio."
 
-    # c "More likely I would have been court-martialled immediately over some stupid transgression."
-    c ""
 
-# game/episode020.rpy:2629
+translate italian ep020_paclerara_eva_7f9b1ca5:
+
+
+    c "Più probabilmente sarei stato deferito immediatamente alla corte marziale per qualche stupida trasgressione."
+
+
 translate italian ep020_paclerara_eva_651eead1:
 
-    # c "After that, either banishment to some menial post on a backwater planet, or the wrong end of a firing squad."
-    c ""
 
-# game/episode020.rpy:2634
+    c "Dopodiché, o sarei stato esiliato in qualche posto umile su un pianeta sperduto, o avrei subito una fucilazione."
+
+
 translate italian ep020_paclerara_eva_bb39d2ee:
 
-    # e "I’d almost forgotten how much you hate authority."
-    e ""
 
-# game/episode020.rpy:2640
+    e "Avevo quasi dimenticato quanto odi l'autorità."
+
+
 translate italian ep020_paclerara_eva_50f176d0:
 
-    # e "At least you looked good in that uniform..."
-    e ""
 
-# game/episode020.rpy:2641
+    e "Almeno stavi bene con quell'uniforme..."
+
+
 translate italian ep020_paclerara_eva_c45e7698:
 
-    # c "Yes, I’m ever so pretty."
-    c ""
 
-# game/episode020.rpy:2643
+    c "Sì, sono così carina."
+
+
 translate italian ep020_paclerara_eva_e10e3013:
 
-    # e "I’m sure you would have bribed your way out of it though."
-    e ""
 
-# game/episode020.rpy:2644
+    e "Sono sicuro che avresti potuto corrompere la tua via d'uscita."
+
+
 translate italian ep020_paclerara_eva_acb16771:
 
-    # c "Maybe, but my luck has got to run out some time."
-    c ""
 
-# game/episode020.rpy:2645
+    c "Forse, ma prima o poi la mia fortuna si esaurirà."
+
+
 translate italian ep020_paclerara_eva_6f420f7b:
 
-    # c "But I’m glad how we ended up."
-    c ""
 
-# game/episode020.rpy:2646
+    c "Ma sono contento di come siamo finiti."
+
+
 translate italian ep020_paclerara_eva_e7163118:
 
-    # c "The Sovereignty might still be hot on our heels, but at least we’re free."
-    c ""
 
-# game/episode020.rpy:2651
+    c "La Sovranità potrebbe essere ancora alle calcagna, ma almeno siamo liberi."
+
+
 translate italian ep020_paclerara_eva_05364ff8:
 
-    # e "Agreed."
-    e ""
 
-# game/episode020.rpy:2656
+    e "Sono d'accordo."
+
+
 translate italian ep020_paclerara_eva_c9a39d96:
 
-    # e "I do wish we didn’t get separated for so long, but I’m very glad we found each other again."
-    e ""
 
-# game/episode020.rpy:2658
+    e "Avrei voluto che non ci fossimo separati per così tanto tempo, ma sono molto felice che ci siamo ritrovati."
+
+
 translate italian ep020_paclerara_eva_3fc2d22f:
 
-    # c "Glad doesn’t begin to describe it."
-    c ""
 
-# game/episode020.rpy:2659
+    c "Felice non è sufficiente a descriverlo."
+
+
 translate italian ep020_paclerara_eva_dc6f198c:
 
-    # e "True."
-    e ""
 
-# game/episode020.rpy:2661
+    e "È vero."
+
+
 translate italian ep020_paclerara_eva_418a5c27:
 
-    # e "I wouldn’t have dared to dream we’d become lovers."
-    e ""
 
-# game/episode020.rpy:2662
+    e "Non avrei mai osato sognare che saremmo diventati amanti."
+
+
 translate italian ep020_paclerara_eva_ac2bea30:
 
-    # c "Me neither."
-    c ""
 
-# game/episode020.rpy:2664
+    c "Nemmeno io."
+
+
 translate italian ep020_paclerara_eva_eed7faa0:
 
-    # e "Do you want another drink?"
-    e ""
 
-# game/episode020.rpy:2665
+    e "Vuoi un altro drink?"
+
+
 translate italian ep020_paclerara_eva_ff80205a:
 
-    # c "Not really."
-    c ""
 
-# game/episode020.rpy:2666
+    c "Non proprio."
+
+
 translate italian ep020_paclerara_eva_7ec2e0bd:
 
-    # c "I just want you, to be honest."
-    c ""
 
-# game/episode020.rpy:2668
+    c "Voglio solo te, ad essere sincero."
+
+
 translate italian ep020_paclerara_eva_674ed0b8:
 
-    # e "In that case, shall we continue this conversation inside the bedroom?"
-    e ""
 
-# game/episode020.rpy:2669
+    e "In questo caso, vogliamo continuare questa conversazione in camera da letto?"
+
+
 translate italian ep020_paclerara_eva_9d8e873e:
 
-    # c "Already there!"
-    c ""
 
-# game/episode020.rpy:2672
+    c "Ci sono già!"
+
+
 translate italian ep020_paclerara_eva_196c2927:
 
-    # c "We’ve been through a lot, haven’t we?"
-    c ""
 
-# game/episode020.rpy:2673
+    c "Ne abbiamo passate tante, vero?"
+
+
 translate italian ep020_paclerara_eva_b104b330:
 
-    # e "We sure have."
-    e ""
 
-# game/episode020.rpy:2675
+    e "Certo che sì."
+
+
 translate italian ep020_paclerara_eva_50f70d05:
 
-    # "Eva and I talked for a good while until we finished our drinks."
-    ""
 
-# game/episode020.rpy:2677
+    "Eva e io parlammo per un bel po' finché non finimmo di bere."
+
+
 translate italian ep020_paclerara_eva_4dfa977a:
 
-    # "I said goodnight to my sister and went back to my own room."
-    ""
 
-# game/episode020.rpy:2679
+    "Ho dato la buonanotte a mia sorella e sono tornata nella mia stanza."
+
+
 translate italian ep020_paclerara_eva_e7a091e2:
 
-    # "I said goodnight to her and went back to my own room."
-    ""
 
-# game/episode020.rpy:2702
+    "Ho dato la buonanotte a lei e sono tornata nella mia stanza."
+
+
 translate italian ep020_lilly_aven_sex_3e7ac088:
 
-    # "We were so engrossed in what we were doing that we didn’t notice Aven approaching."
-    ""
 
-# game/episode020.rpy:2703
+    "Eravamo così presi da quello che stavamo facendo che non ci siamo accorti dell'arrivo di Aven."
+
+
 translate italian ep020_lilly_aven_sex_86b2f25c:
 
-    # av "Well, I do believe I’m interrupting something."
-    av ""
 
-# game/episode020.rpy:2709
+    av "Credo di aver interrotto qualcosa."
+
+
 translate italian ep020_lilly_aven_sex_9932c483:
 
-    # "As soon as our sister’s voice resounded through the woods, Lilly and I sprang apart."
-    ""
 
-# game/episode020.rpy:2711
+    "Non appena la voce di nostra sorella risuonò nel bosco, Lilly e io ci staccammo."
+
+
 translate italian ep020_lilly_aven_sex_6e38a149:
 
-    # "As soon as Aven’s voice resounded through the woods, Lilly and I sprang apart."
-    ""
 
-# game/episode020.rpy:2712
+    "Non appena la voce di Aven risuonò nel bosco, io e Lilly ci allontanammo."
+
+
 translate italian ep020_lilly_aven_sex_0890c667:
 
-    # "We stood next to each other, Lilly covering her breasts and my hand resting loosely on her hip."
-    ""
 
-# game/episode020.rpy:2713
+    "Eravamo in piedi l'una accanto all'altra, Lilly si copriva i seni e la mia mano poggiava liberamente sul suo fianco."
+
+
 translate italian ep020_lilly_aven_sex_54f555af:
 
-    # "There was no mistaking what we were up to, but Aven didn’t seem furious."
-    ""
 
-# game/episode020.rpy:2715
+    "Non c'erano dubbi su quello che stavamo facendo, ma Aven non sembrava infuriato."
+
+
 translate italian ep020_lilly_aven_sex_3b8f1db2:
 
-    # av "So, what did you think, Lilly?"
-    av ""
 
-# game/episode020.rpy:2717
+    av "Allora, cosa ne pensi, Lilly?"
+
+
 translate italian ep020_lilly_aven_sex_b37809b5:
 
-    # av "Let’s lure our brother to the woods and ravage him?"
-    av ""
 
-# game/episode020.rpy:2719
+    av "Attiriamo nostro fratello nel bosco e lo devastiamo?"
+
+
 translate italian ep020_lilly_aven_sex_75256d6d:
 
-    # av "Let’s lure [p_name] to the woods and ravage him?"
-    av ""
 
-# game/episode020.rpy:2721
+    av "Attiriamo [p_name] nel bosco e lo devastiamo?"
+
+
 translate italian ep020_lilly_aven_sex_e4a6d89b:
 
-    # l "We were just walking and one thing lead to another."
-    l ""
 
-# game/episode020.rpy:2723
+    l "Stavamo passeggiando e una cosa tira l'altra."
+
+
 translate italian ep020_lilly_aven_sex_c198160a:
 
-    # av "Until I came along."
-    av ""
 
-# game/episode020.rpy:2725
+    av "Finché non sono arrivata io."
+
+
 translate italian ep020_lilly_aven_sex_781d5454:
 
-    # l "You’re free to leave."
-    l ""
 
-# game/episode020.rpy:2726
+    l "Sei libero di andartene."
+
+
 translate italian ep020_lilly_aven_sex_cd77d9d0:
 
-    # av "Am I now?"
-    av ""
 
-# game/episode020.rpy:2731
+    av "Lo sono anche adesso?"
+
+
 translate italian ep020_lilly_aven_sex_dc5b32d8:
 
-    # "I could feel the conversation slipping into veiled aggression, so I decided to distract them."
-    ""
 
-# game/episode020.rpy:2732
+    "Sentivo che la conversazione stava scivolando verso una velata aggressività, così decisi di distrarli."
+
+
 translate italian ep020_lilly_aven_sex_64090d6d:
 
-    # c "You’re also free to join."
-    c ""
 
-# game/episode020.rpy:2733
+    c "Sei anche libero di unirti a noi."
+
+
 translate italian ep020_lilly_aven_sex_257fa852:
 
-    # av "Interesting."
-    av ""
 
-# game/episode020.rpy:2734
+    av "Interessante."
+
+
 translate italian ep020_lilly_aven_sex_a117e036:
 
-    # av "How would you feel about that, Lilly?"
-    av ""
 
-# game/episode020.rpy:2735
+    av "Cosa ne pensi, Lilly?"
+
+
 translate italian ep020_lilly_aven_sex_1ffb65ab:
 
-    # l "I don’t mind."
-    l ""
 
-# game/episode020.rpy:2736
+    l "Non mi dispiace."
+
+
 translate italian ep020_lilly_aven_sex_bd3f143b:
 
-    # "I could feel Lilly’s body shifting nervously."
-    ""
 
-# game/episode020.rpy:2737
+    "Sentivo il corpo di Lilly muoversi nervosamente."
+
+
 translate italian ep020_lilly_aven_sex_96125777:
 
-    # "She obviously minded more than she let on."
-    ""
 
-# game/episode020.rpy:2739
+    "Evidentemente le importava più di quanto non lasciasse intendere."
+
+
 translate italian ep020_lilly_aven_sex_0ca475f5:
 
-    # "Aven reached for the zipper of her bodysuit and pulled it down, revealing her large breasts."
-    ""
 
-# game/episode020.rpy:2740
+    "Aven raggiunse la cerniera del suo body e lo tirò giù, rivelando i suoi grandi seni."
+
+
 translate italian ep020_lilly_aven_sex_cf9efa3f:
 
-    # av "I think I just might take you both up on that offer."
-    av ""
 
-# game/episode020.rpy:2746
+    av "Penso che potrei accettare l'offerta di entrambi."
+
+
 translate italian ep020_lilly_aven_sex_cf1a28cb:
 
-    # "Our sister let her suit fall to the forest floor and stood naked before us."
-    ""
 
-# game/episode020.rpy:2748
+    "Nostra sorella lasciò cadere il vestito sul pavimento della foresta e rimase nuda davanti a noi."
+
+
 translate italian ep020_lilly_aven_sex_6a202b69:
 
-    # "Aven let her suit fall to the forest floor and stood naked before us."
-    ""
 
-# game/episode020.rpy:2749
+    "Aven lasciò cadere il suo vestito sul pavimento della foresta e rimase nuda davanti a noi."
+
+
 translate italian ep020_lilly_aven_sex_597fb79c:
 
-    # "My erection, which had slackened when we were on the verge of being discovered, immediately returned."
-    ""
 
-# game/episode020.rpy:2751
+    "La mia erezione, che si era allentata quando eravamo sul punto di essere scoperti, tornò immediatamente."
+
+
 translate italian ep020_lilly_aven_sex_735a208b:
 
-    # "Both my sisters looked at the bulge in my pants appraisingly."
-    ""
 
-# game/episode020.rpy:2753
+    "Entrambe le mie sorelle guardarono con attenzione il rigonfiamento dei miei pantaloni."
+
+
 translate italian ep020_lilly_aven_sex_17449ee2:
 
-    # "Both girls looked at the bulge in my pants appraisingly."
-    ""
 
-# game/episode020.rpy:2755
+    "Entrambe le ragazze guardarono con attenzione il rigonfiamento dei miei pantaloni."
+
+
 translate italian ep020_lilly_aven_sex_74eaf94b:
 
-    # "Resolutely, Lilly pulled away from me and got clear of the tree."
-    ""
 
-# game/episode020.rpy:2757
+    "Con determinazione, Lilly si staccò da me e si allontanò dall'albero."
+
+
 translate italian ep020_lilly_aven_sex_00a92d14:
 
-    # "Resolutely, Lilly kicked off her boots and peeled off her pants."
-    ""
 
-# game/episode020.rpy:2759
+    "Con determinazione, Lilly si tolse gli stivali e si sfilò i pantaloni."
+
+
 translate italian ep020_lilly_aven_sex_333c0f57:
 
-    # "With two big strides she was upon Aven holding her arms, as if to prevent her from reaching me."
-    ""
 
-# game/episode020.rpy:2761
+    "Con due grandi passi fu su Aven che le teneva le braccia, come per impedirle di raggiungermi."
+
+
 translate italian ep020_lilly_aven_sex_b7ca62a2:
 
-    # l "Well, sis, two can play this game."
-    l ""
 
-# game/episode020.rpy:2763
+    l "Beh, sorellina, due possono giocare a questo gioco."
+
+
 translate italian ep020_lilly_aven_sex_d0bd4aba:
 
-    # l "Well, two can play this game."
-    l ""
 
-# game/episode020.rpy:2764
+    l "Beh, due possono fare questo gioco."
+
+
 translate italian ep020_lilly_aven_sex_4cad206c:
 
-    # av "Game?"
-    av ""
 
-# game/episode020.rpy:2765
+    av "Gioco?"
+
+
 translate italian ep020_lilly_aven_sex_d2b0e0b5:
 
-    # av "I just want to rip the pants off him and get to that cock of his."
-    av ""
 
-# game/episode020.rpy:2767
+    av "Voglio solo strappargli i pantaloni e arrivare al suo cazzo."
+
+
 translate italian ep020_lilly_aven_sex_0c850d55:
 
-    # l "Sure you do."
-    l ""
 
-# game/episode020.rpy:2769
+    l "Certo che lo vuoi."
+
+
 translate italian ep020_lilly_aven_sex_1945769d:
 
-    # l "Our brother needs to learn some patience, don’t you think?"
-    l ""
 
-# game/episode020.rpy:2771
+    l "Nostro fratello deve imparare un po' di pazienza, non credi?"
+
+
 translate italian ep020_lilly_aven_sex_3e244d8c:
 
-    # l "He needs to learn some patience, don’t you think?"
-    l ""
 
-# game/episode020.rpy:2776
+    l "Deve imparare un po' di pazienza, non credi?"
+
+
 translate italian ep020_lilly_aven_sex_43ad07e8:
 
-    # "Lilly pulled Aven into an embrace and they were suddenly kissing."
-    ""
 
-# game/episode020.rpy:2777
+    "Lilly tirò Aven in un abbraccio e improvvisamente si baciarono."
+
+
 translate italian ep020_lilly_aven_sex_39a1e295:
 
-    # "The aggression from before transmuted into lust."
-    ""
 
-# game/episode020.rpy:2780
+    "L'aggressività di prima si trasformò in lussuria."
+
+
 translate italian ep020_lilly_aven_sex_c298c334:
 
-    # "I stood in awe, looking at my sisters tongue-kissing each other furiously."
-    ""
 
-# game/episode020.rpy:2781
+    "Rimasi a bocca aperta, guardando le mie sorelle che si baciavano furiosamente con la lingua."
+
+
 translate italian ep020_lilly_aven_sex_0508fb00:
 
-    # "Lilly obviously wanted to wrest control over the situation back from her older sibling."
-    ""
 
-# game/episode020.rpy:2783
+    "Lilly voleva ovviamente riprendere il controllo della situazione dalla sorella maggiore."
+
+
 translate italian ep020_lilly_aven_sex_3600e4c0:
 
-    # "I stood in awe, looking at the girls tongue-kissing each other furiously."
-    ""
 
-# game/episode020.rpy:2784
+    "Rimasi a bocca aperta, guardando le ragazze che si baciavano furiosamente con la lingua."
+
+
 translate italian ep020_lilly_aven_sex_a45ea009:
 
-    # "Lilly obviously wanted to wrest control over the situation back from Aven."
-    ""
 
-# game/episode020.rpy:2786
+    "Lilly voleva ovviamente riprendere il controllo della situazione da Aven."
+
+
 translate italian ep020_lilly_aven_sex_7aa3f68e:
 
-    # "She suddenly disengaged from Aven’s mouth, leaving a trail of saliva and causing the older girl to let out an involuntary moan."
-    ""
 
-# game/episode020.rpy:2787
+    "Si staccò improvvisamente dalla bocca di Aven, lasciando una scia di saliva e facendo emettere un gemito involontario alla ragazza più grande."
+
+
 translate italian ep020_lilly_aven_sex_5b69dc1b:
 
-    # "Lilly then dropped to her knees, looking up at Aven."
-    ""
 
-# game/episode020.rpy:2789
+    "Lilly si inginocchiò e guardò Aven."
+
+
 translate italian ep020_lilly_aven_sex_4224252f:
 
-    # l "Did you know our brother is a big, big pervert?"
-    l ""
 
-# game/episode020.rpy:2791
+    l "Lo sapevi che nostro fratello è un grande, grande pervertito?"
+
+
 translate italian ep020_lilly_aven_sex_fa4fa39a:
 
-    # l "Did you know that guy over there is a big, big pervert?"
-    l ""
 
-# game/episode020.rpy:2792
+    l "Sapevi che quel ragazzo laggiù è un grande, grande pervertito?"
+
+
 translate italian ep020_lilly_aven_sex_bce828f8:
 
-    # av "I had a suspicion."
-    av ""
 
-# game/episode020.rpy:2793
+    av "Avevo un sospetto."
+
+
 translate italian ep020_lilly_aven_sex_5b53fcbd:
 
-    # l "He particularly likes girls getting off on each other."
-    l ""
 
-# game/episode020.rpy:2794
+    l "Gli piace particolarmente che le ragazze si eccitino a vicenda."
+
+
 translate italian ep020_lilly_aven_sex_dfd94ed2:
 
-    # av "We should indulge him then, don’t you think?"
-    av ""
 
-# game/episode020.rpy:2799
+    av "Dovremmo assecondarlo, non credi?"
+
+
 translate italian ep020_lilly_aven_sex_1238761c:
 
-    # "I stripped out of my pants as Lilly lay down on the ground."
-    ""
 
-# game/episode020.rpy:2801
+    "Mi spogliai dei pantaloni mentre Lilly si sdraiava a terra."
+
+
 translate italian ep020_lilly_aven_sex_608d7570:
 
-    # "Aven bent her knees slightly and hovered on top of her sister’s face."
-    ""
 
-# game/episode020.rpy:2803
-translate italian ep020_lilly_aven_sex_e92026ec:
+    "Aven piegò leggermente le ginocchia e si mise in bilico sul viso della sorella."
 
-    # "Aven bent her knees slightly and hovered on top of her friend’s face."
-    ""
 
-# game/episode020.rpy:2805
 translate italian ep020_lilly_aven_sex_5e831710:
 
-    # "As soon as Lilly’s tongue flashed out, Aven held in her breath sharply."
-    ""
 
-# game/episode020.rpy:2806
+    "Non appena la lingua di Lilly uscì, Aven trattenne il respiro con decisione."
+
+
 translate italian ep020_lilly_aven_sex_4588b98a:
 
-    # av "Oh fuck, Lilly, just right there!"
-    av ""
 
-# game/episode020.rpy:2807
+    av "Oh cazzo, Lilly, proprio lì!"
+
+
 translate italian ep020_lilly_aven_sex_8a2346de:
 
-    # "Lilly kept licking, even when Aven lowered her body further on her face."
-    ""
 
-# game/episode020.rpy:2809
+    "Lilly continuò a leccare, anche quando Aven abbassò ulteriormente il corpo sul suo viso."
+
+
 translate italian ep020_lilly_aven_sex_129e0270:
 
-    # av "He’s already hard, Lilly."
-    av ""
 
-# game/episode020.rpy:2810
+    av "È già duro, Lilly."
+
+
 translate italian ep020_lilly_aven_sex_ff1ff54d:
 
-    # av "He likes to see you smothered by my pussy."
-    av ""
 
-# game/episode020.rpy:2812
+    av "Gli piace vederti soffocare dalla mia figa."
+
+
 translate italian ep020_lilly_aven_sex_75dcbcd1:
 
-    # "I marvelled at how quickly both girls had become even more depraved."
-    ""
 
-# game/episode020.rpy:2813
+    "Mi meravigliai della rapidità con cui entrambe le ragazze erano diventate ancora più depravate."
+
+
 translate italian ep020_lilly_aven_sex_3b2bb6fe:
 
-    # "To better see the action, I took a step forward."
-    ""
 
-# game/episode020.rpy:2816
+    "Per vedere meglio l'azione, feci un passo avanti."
+
+
 translate italian ep020_lilly_aven_sex_abd5aa51:
 
-    # av "I think our brother would like to join in."
-    av ""
 
-# game/episode020.rpy:2818
+    av "Credo che a nostro fratello piacerebbe partecipare."
+
+
 translate italian ep020_lilly_aven_sex_36566feb:
 
-    # av "I think he would like to join in."
-    av ""
 
-# game/episode020.rpy:2819
+    av "Credo che anche lui voglia partecipare."
+
+
 translate italian ep020_lilly_aven_sex_7074c3f4:
 
-    # av "Why don’t you just lie down, Lilly?"
-    av ""
 
-# game/episode020.rpy:2824
+    av "Perché non ti sdrai, Lilly?"
+
+
 translate italian ep020_lilly_aven_sex_df24bc34:
 
-    # "As Aven kept squatting further down through her knees, Lilly was gradually forced to fully lie down, her cunt still in connection with the other girl’s tongue."
-    ""
 
-# game/episode020.rpy:2826
+    "Mentre Aven continuava ad accovacciarsi sulle ginocchia, Lilly fu gradualmente costretta a sdraiarsi completamente, con la fica ancora in contatto con la lingua dell'altra ragazza."
+
+
 translate italian ep020_lilly_aven_sex_2edf597b:
 
-    # "I kneeled before my sister’s splayed legs and brought my head toward her glistening lips."
-    ""
 
-# game/episode020.rpy:2828
+    "Mi inginocchiai davanti alle gambe distese di mia sorella e avvicinai la testa alle sue labbra scintillanti."
+
+
 translate italian ep020_lilly_aven_sex_f523ca32:
 
-    # "I kneeled before Lilly’s splayed legs and brought my head toward her glistening lips."
-    ""
 
-# game/episode020.rpy:2830
+    "Mi inginocchiai davanti alle gambe distese di Lilly e avvicinai la testa alle sue labbra scintillanti."
+
+
 translate italian ep020_lilly_aven_sex_54c75b8b:
 
-    # "Lilly gasped and interrupted her oral stimulation of Aven’s cunt when my tongue connected with her own wet pussy."
-    ""
 
-# game/episode020.rpy:2831
+    "Lilly sussultò e interruppe la sua stimolazione orale della fica di Aven quando la mia lingua entrò in contatto con la sua fica bagnata."
+
+
 translate italian ep020_lilly_aven_sex_77695f4f:
 
-    # l "Oh [p_name_short], that feels so good!"
-    l ""
 
-# game/episode020.rpy:2833
+    l "Oh [p_name_short], che bella sensazione!"
+
+
 translate italian ep020_lilly_aven_sex_8a079f8a:
 
-    # "Lilly thrust her tongue inside Aven’s cunt again and resumed licking."
-    ""
 
-# game/episode020.rpy:2835
+    "Lilly spinse di nuovo la lingua nella fica di Aven e riprese a leccare."
+
+
 translate italian ep020_lilly_aven_sex_85318721:
 
-    # "I alternated between kissing, licking and sucking my sister’s pussy, her moans of excitement muffled by Aven’s body."
-    ""
 
-# game/episode020.rpy:2837
+    "Alternavo baci, leccate e succhiate alla fica di mia sorella, i suoi gemiti di eccitazione erano attutiti dal corpo di Aven."
+
+
 translate italian ep020_lilly_aven_sex_ac3621c5:
 
-    # "I alternated between kissing, licking and sucking Lilly’s pussy, her moans of excitement muffled by Aven’s body."
-    ""
 
-# game/episode020.rpy:2839
+    "Mi alternavo a baciare, leccare e succhiare la figa di Lilly, i suoi gemiti di eccitazione erano attutiti dal corpo di Aven."
+
+
 translate italian ep020_lilly_aven_sex_af14f87b:
 
-    # "Lilly released wave after wave of salty liquid, which I lapped up eagerly."
-    ""
 
-# game/episode020.rpy:2840
+    "Lilly rilasciava un'ondata dopo l'altra di liquido salato, che io assaporavo avidamente."
+
+
 translate italian ep020_lilly_aven_sex_4eda1eab:
 
-    # "Within moments, I managed to make Lilly orgasm."
-    ""
 
-# game/episode020.rpy:2842
+    "In pochi istanti riuscii a far raggiungere l'orgasmo a Lilly."
+
+
 translate italian ep020_lilly_aven_sex_2aece1b7:
 
-    # "She shuddered and screamed her pleasure into the folds of Aven’s wet slit."
-    ""
 
-# game/episode020.rpy:2843
+    "Rabbrividì e urlò il suo piacere nelle pieghe della fessura umida di Aven."
+
+
 translate italian ep020_lilly_aven_sex_d5d0bdff:
 
-    # "My mouth remained connected with Lilly’s pussy until the last convulsions had passed."
-    ""
 
-# game/episode020.rpy:2845
+    "La mia bocca rimase collegata alla figa di Lilly fino a quando le ultime convulsioni non furono passate."
+
+
 translate italian ep020_lilly_aven_sex_aa85a01e:
 
-    # "I knew Lilly would want to bring Aven to her climax, but I craved to enter that tight pussy."
-    ""
 
-# game/episode020.rpy:2851
+    "Sapevo che Lilly avrebbe voluto portare Aven al suo culmine, ma io desideravo entrare in quella figa stretta."
+
+
 translate italian ep020_l_av_fucking_45b01e46:
 
-    # "I didn’t know how long I would last inside Aven and I’d promised Lilly would get her fill too."
-    ""
 
-# game/episode020.rpy:2852
+    "Non sapevo quanto sarei durato dentro Aven e avevo promesso che anche Lilly si sarebbe saziata."
+
+
 translate italian ep020_l_av_fucking_c892950e:
 
-    # c "Are you ready for me, Lilly?"
-    c ""
 
-# game/episode020.rpy:2854
+    c "Sei pronta per me, Lilly?"
+
+
 translate italian ep020_l_av_fucking_e40a40b6:
 
-    # l "Yes!"
-    l ""
 
-# game/episode020.rpy:2855
+    l "Sì!"
+
+
 translate italian ep020_l_av_fucking_2c2ca1fe:
 
-    # c "Come to me then."
-    c ""
 
-# game/episode020.rpy:2857
+    c "Vieni da me allora."
+
+
 translate italian ep020_l_av_fucking_1ad33436:
 
-    # av "No, you can’t!"
-    av ""
 
-# game/episode020.rpy:2858
+    av "No, non puoi!"
+
+
 translate italian ep020_l_av_fucking_6841a7a6:
 
-    # av "We were so close!"
-    av ""
 
-# game/episode020.rpy:2859
+    av "Eravamo così vicini!"
+
+
 translate italian ep020_l_av_fucking_0ff4b4ac:
 
-    # "Unyielding, I pulled out of Aven, who let out sounds of frustration."
-    ""
 
-# game/episode020.rpy:2861
+    "Irremovibile, mi tirai fuori da Aven, che emise un suono di frustrazione."
+
+
 translate italian ep020_l_av_fucking_91f98199:
 
-    # c "Move around and let me fuck you."
-    c ""
 
-# game/episode020.rpy:2862
+    c "Spostati e lascia che ti scopi."
+
+
 translate italian ep020_l_av_fucking_a24f824b:
 
-    # av "She was busy giving me a good time, [p_name_short]."
-    av ""
 
-# game/episode020.rpy:2864
+    av "Era impegnata a farmi divertire, [p_name_short]."
+
+
 translate italian ep020_l_av_fucking_73da6f92:
 
-    # l "Sorry sis, but needs must."
-    l ""
 
-# game/episode020.rpy:2866
+    l "Scusa sorellina, ma è necessario."
+
+
 translate italian ep020_l_av_fucking_08dc461a:
 
-    # l "Sorry Aven, but needs must."
-    l ""
 
-# game/episode020.rpy:2867
+    l "Mi dispiace Aven, ma è necessario."
+
+
 translate italian ep020_l_av_fucking_313b4cd3:
 
-    # c "I’m not done with you either, Aven."
-    c ""
 
-# game/episode020.rpy:2872
+    c "Non ho finito nemmeno con te, Aven."
+
+
 translate italian ep020_l_av_fucking_0ac510b6:
 
-    # "Lilly presented her cunny to me and I lifted her leg to enter her properly."
-    ""
 
-# game/episode020.rpy:2874
+    "Lilly mi presentò la sua figa e io le sollevai la gamba per penetrarla a dovere."
+
+
 translate italian ep020_l_av_fucking_8710ad2c:
 
-    # "My sister moaned into Aven’s face as I penetrated her."
-    ""
 
-# game/episode020.rpy:2876
+    "Mia sorella gemette sul viso di Aven mentre la penetravo."
+
+
 translate italian ep020_l_av_fucking_95094d3e:
 
-    # "Lilly moaned into Aven’s face as I penetrated her."
-    ""
 
-# game/episode020.rpy:2878
+    "Lilly gemette sul viso di Aven mentre la penetravo."
+
+
 translate italian ep020_l_av_fucking_455857ac:
 
-    # l "He’s so deep inside me already, Aven."
-    l ""
 
-# game/episode020.rpy:2879
+    l "È già così profondo dentro di me, Aven."
+
+
 translate italian ep020_l_av_fucking_e800654f:
 
-    # av "Yeah, how does it feel?"
-    av ""
 
-# game/episode020.rpy:2880
+    av "Sì, come ci si sente?"
+
+
 translate italian ep020_l_av_fucking_073b6772:
 
-    # l "It feels so good."
-    l ""
 
-# game/episode020.rpy:2881
+    l "È così bello."
+
+
 translate italian ep020_l_av_fucking_f4992c90:
 
-    # l "He’s filling me up."
-    l ""
 
-# game/episode020.rpy:2884
+    l "Mi sta riempiendo."
+
+
 translate italian ep020_l_av_fucking_0e8d1236:
 
-    # "Aven’s hand drifted towards her sister’s pussy and she began to finger the swollen clit."
-    ""
 
-# game/episode020.rpy:2886
+    "La mano di Aven si diresse verso la figa della sorella e iniziò a sditalinare il clitoride gonfio."
+
+
 translate italian ep020_l_av_fucking_67b61152:
 
-    # "Aven’s hand drifted towards Lilly’s pussy and she began to finger the swollen clit."
-    ""
 
-# game/episode020.rpy:2887
+    "La mano di Aven si diresse verso la figa di Lilly e iniziò a sditalinare il clitoride gonfio."
+
+
 translate italian ep020_l_av_fucking_d0b0c0c5:
 
-    # av "He’s going to fuck you so hard, you know that, don’t you?"
-    av ""
 
-# game/episode020.rpy:2888
+    av "Ti scoperà con forza, lo sai, vero?"
+
+
 translate italian ep020_l_av_fucking_3d0b1f0e:
 
-    # l "Yes, I know, I want it so bad!"
-    l ""
 
-# game/episode020.rpy:2890
+    l "Sì, lo so, lo voglio così tanto!"
+
+
 translate italian ep020_l_av_fucking_d67aad9e:
 
-    # "Lilly’s cries of pleasure echoed through the woods as I began to thrust inside her."
-    ""
 
-# game/episode020.rpy:2891
+    "Le grida di piacere di Lilly riecheggiano nel bosco mentre inizio a spingere dentro di lei."
+
+
 translate italian ep020_l_av_fucking_eb207b36:
 
-    # l "That’s it!"
-    l ""
 
-# game/episode020.rpy:2892
+    l "Così!"
+
+
 translate italian ep020_l_av_fucking_4b869341:
 
-    # l "Slam it harder inside me, please!"
-    l ""
 
-# game/episode020.rpy:2893
+    l "Spingilo più forte dentro di me, ti prego!"
+
+
 translate italian ep020_l_av_fucking_c497fcd3:
 
-    # "Gripping her thighs, I drove deeper into her."
-    ""
 
-# game/episode020.rpy:2894
+    "Afferrando le sue cosce, mi spinsi più a fondo dentro di lei."
+
+
 translate italian ep020_l_av_fucking_f508b1ed:
 
-    # l "You’re going to make me cum again!"
-    l ""
 
-# game/episode020.rpy:2895
+    l "Mi farai sborrare di nuovo!"
+
+
 translate italian ep020_l_av_fucking_b5a225fd:
 
-    # l "Please don’t stop, please don’t stop!"
-    l ""
 
-# game/episode020.rpy:2897
+    l "Ti prego, non fermarti, ti prego, non fermarti!"
+
+
 translate italian ep020_l_av_fucking_f4ee604c:
 
-    # "Both Aven and I were determined to bring our sister to another climax."
-    ""
 
-# game/episode020.rpy:2899
+    "Sia io che Aven eravamo determinati a portare nostra sorella a un altro orgasmo."
+
+
 translate italian ep020_l_av_fucking_74995354:
 
-    # "Both Aven and I were determined to bring Lilly to another climax."
-    ""
 
-# game/episode020.rpy:2900
+    "Sia io che Aven eravamo determinati a portare Lilly a un altro orgasmo."
+
+
 translate italian ep020_l_av_fucking_dc6513f7:
 
-    # "Working together, she on Lilly’s clitoris and my cock boring into her vagina, we brought her to the brink."
-    ""
 
-# game/episode020.rpy:2901
+    "Lavorando insieme, lei sul clitoride di Lilly e il mio cazzo nella sua vagina, la portammo all'apice."
+
+
 translate italian ep020_l_av_fucking_2f993a5a:
 
-    # "Aven’s fingers were slick with Lilly’s juices and my dick was coated in an abundance as well."
-    ""
 
-# game/episode020.rpy:2903
+    "Le dita di Aven erano bagnate dai succhi di Lilly e anche il mio cazzo ne era ricoperto in abbondanza."
+
+
 translate italian ep020_l_av_fucking_09912619:
 
-    # "Lilly’s ecstatic cries became more and more incoherent, until she let out a hoarse moan."
-    ""
 
-# game/episode020.rpy:2904
+    "Le grida estatiche di Lilly diventavano sempre più incoerenti, finché non emise un gemito rauco."
+
+
 translate italian ep020_l_av_fucking_99773179:
 
-    # "Her body quivered and I could feel her muscles constrict."
-    ""
 
-# game/episode020.rpy:2906
+    "Il suo corpo fremeva e potevo sentire i suoi muscoli contrarsi."
+
+
 translate italian ep020_l_av_fucking_d8d4d01b:
 
-    # av "Are you cumming, sis?"
-    av ""
 
-# game/episode020.rpy:2908
+    av "Stai sborrando, sorellina?"
+
+
 translate italian ep020_l_av_fucking_93ba81eb:
 
-    # av "Are you cumming, Lilly?"
-    av ""
 
-# game/episode020.rpy:2909
+    av "Stai sborrando, Lilly?"
+
+
 translate italian ep020_l_av_fucking_53782975:
 
-    # av "How does it feel?"
-    av ""
 
-# game/episode020.rpy:2910
+    av "Come ci si sente?"
+
+
 translate italian ep020_l_av_fucking_dfedb7e1:
 
-    # l "Yes!{w} Yes!{w} It feels so good!"
-    l ""
 
-# game/episode020.rpy:2911
+    l "Sì! {w} Sì! {w} È così bello!"
+
+
 translate italian ep020_l_av_fucking_eb75a0f4:
 
-    # "I kept fucking her until Lilly had ridden the entirety of her orgasm."
-    ""
 
-# game/episode020.rpy:2916
+    "Continuai a scoparla finché Lilly non ebbe cavalcato tutto il suo orgasmo."
+
+
 translate italian ep020_l_av_fucking_dd05fbc0:
 
-    # "For better purchase, I flipped her on her back and fucked her in the missionary position."
-    ""
 
-# game/episode020.rpy:2917
+    "Per avere un migliore acquisto, l'ho girata sulla schiena e l'ho scopata nella posizione del missionario."
+
+
 translate italian ep020_l_av_fucking_f1338237:
 
-    # "Aven lay beside her and stroked Lilly’s breasts."
-    ""
 
-# game/episode020.rpy:2920
+    "Aven si sdraiò accanto a lei e accarezzò i seni di Lilly."
+
+
 translate italian ep020_l_av_fucking_4be93262:
 
-    # "As I continued fucking Lilly, my eyes drifted to Aven’s splayed legs."
-    ""
 
-# game/episode020.rpy:2921
+    "Mentre continuavo a scopare Lilly, il mio sguardo si spostò sulle gambe distese di Aven."
+
+
 translate italian ep020_l_av_fucking_ec6d9f5c:
 
-    # "Her pussy was on full display and I couldn’t resist plunging my fingers into it."
-    ""
 
-# game/episode020.rpy:2922
+    "La sua figa era in bella mostra e non potei resistere dall'affondare le dita al suo interno."
+
+
 translate italian ep020_l_av_fucking_679c5d24:
 
-    # "Aven gasped as two fingers penetrated her wet tunnel, my index finger gyrating over her clit."
-    ""
 
-# game/episode020.rpy:2924
+    "Aven ansimò quando due dita penetrarono nel suo tunnel umido, mentre il mio indice si muoveva sul suo clitoride."
+
+
 translate italian ep020_l_av_fucking_34d6f3b0:
 
-    # av "Oh [p_name_short]!"
-    av ""
 
-# game/episode020.rpy:2925
+    av "Oh [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_5dd87f50:
 
-    # l "Mmmm, what’s he doing?"
-    l ""
 
-# game/episode020.rpy:2926
+    l "Mmmm, cosa sta facendo?"
+
+
 translate italian ep020_l_av_fucking_e4be9285:
 
-    # av "He’s fingering me!"
-    av ""
 
-# game/episode020.rpy:2929
+    av "Mi sta facendo un ditalino!"
+
+
 translate italian ep020_l_av_fucking_12689104:
 
-    # "Aven drowned out any other words by pressing her lips firmly on her sister’s."
-    ""
 
-# game/episode020.rpy:2931
+    "Aven ha soffocato ogni altra parola premendo con forza le sue labbra su quelle della sorella."
+
+
 translate italian ep020_l_av_fucking_6b69a805:
 
-    # "Aven drowned out any other words by pressing her lips firmly on Lilly’s."
-    ""
 
-# game/episode020.rpy:2932
+    "Aven soffocò ogni altra parola premendo con forza le sue labbra su quelle di Lilly."
+
+
 translate italian ep020_l_av_fucking_38846c94:
 
-    # "They were involved in languid tongue-kissing, completely focused on fulfilling their own lust."
-    ""
 
-# game/episode020.rpy:2935
+    "Erano impegnate in languidi baci con la lingua, completamente concentrate a soddisfare la propria lussuria."
+
+
 translate italian ep020_l_av_fucking_b336ae9b:
 
-    # "I serviced both girls, synchronized on the rhythm of my thrusts."
-    ""
 
-# game/episode020.rpy:2941
+    "Ho asservito entrambe le ragazze, sincronizzando il ritmo delle mie spinte."
+
+
 translate italian ep020_l_av_fucking_cc16bf03:
 
-    # "I didn’t know how long I would last inside Lilly and I’d promised Aven would get her fill too."
-    ""
 
-# game/episode020.rpy:2942
+    "Non sapevo quanto sarei durato dentro Lilly e avevo promesso che anche Aven si sarebbe saziata."
+
+
 translate italian ep020_l_av_fucking_6acb37dd:
 
-    # c "Are you ready for me, Aven?"
-    c ""
 
-# game/episode020.rpy:2943
+    c "Sei pronta per me, Aven?"
+
+
 translate italian ep020_l_av_fucking_64537d8b:
 
-    # av "More than ready!"
-    av ""
 
-# game/episode020.rpy:2944
+    av "Più che pronta!"
+
+
 translate italian ep020_l_av_fucking_471891c4:
 
-    # c "Get on all fours then."
-    c ""
 
-# game/episode020.rpy:2945
+    c "Mettiti a quattro zampe allora."
+
+
 translate italian ep020_l_av_fucking_028e403c:
 
-    # l "Wait, please don’t stop fucking me!"
-    l ""
 
-# game/episode020.rpy:2946
+    l "Aspetta, ti prego, non smettere di scoparmi!"
+
+
 translate italian ep020_l_av_fucking_aebcaad4:
 
-    # l "We were so close, I could feel it!"
-    l ""
 
-# game/episode020.rpy:2947
+    l "Eravamo così vicini, lo sentivo!"
+
+
 translate italian ep020_l_av_fucking_e005ee49:
 
-    # "Unyielding, I pulled out of Lilly, who let out sounds of frustration."
-    ""
 
-# game/episode020.rpy:2949
+    "Irremovibile, mi tirai fuori da Lilly, che emise un suono di frustrazione."
+
+
 translate italian ep020_l_av_fucking_4ac49fd6:
 
-    # c "Move toward me, get on all fours and let me fuck you."
-    c ""
 
-# game/episode020.rpy:2950
+    c "Spostati verso di me, mettiti a quattro zampe e lascia che ti scopi."
+
+
 translate italian ep020_l_av_fucking_7fe5c995:
 
-    # l "Hey, but what about me?"
-    l ""
 
-# game/episode020.rpy:2951
+    l "Ehi, e io?"
+
+
 translate italian ep020_l_av_fucking_9df1c673:
 
-    # c "Don’t worry, I won’t forget you."
-    c ""
 
-# game/episode020.rpy:2956
+    c "Non preoccuparti, non ti dimenticherò."
+
+
 translate italian ep020_l_av_fucking_f87525bc:
 
-    # "Aven was ready for me, so I rested my hands on her thighs and pushed my dick into her wet slit."
-    ""
 
-# game/episode020.rpy:2957
+    "Aven era pronta per me, così appoggiai le mani sulle sue cosce e spinsi il mio cazzo nella sua fessura umida."
+
+
 translate italian ep020_l_av_fucking_1569cfb5:
 
-    # "She was dripping wet, so I could tell she was ready for anything."
-    ""
 
-# game/episode020.rpy:2958
+    "Era bagnata fradicia, quindi capii che era pronta a tutto."
+
+
 translate italian ep020_l_av_fucking_67e90366:
 
-    # "Without preamble, I began to fuck her hard."
-    ""
 
-# game/episode020.rpy:2961
+    "Senza preamboli, iniziai a scoparla con forza."
+
+
 translate italian ep020_l_av_fucking_cc80ce78:
 
-    # "Her flesh quivered on the rhythm of my thrusts and my sister’s breaths came out ragged."
-    ""
 
-# game/episode020.rpy:2963
+    "La sua carne fremeva al ritmo delle mie spinte e i respiri di mia sorella uscivano affannati."
+
+
 translate italian ep020_l_av_fucking_568b6930:
 
-    # "Her flesh quivered on the rhythm of my thrusts and Aven’s breaths came out ragged."
-    ""
 
-# game/episode020.rpy:2964
+    "La sua carne fremeva al ritmo delle mie spinte e i respiri di Aven uscivano affannati."
+
+
 translate italian ep020_l_av_fucking_3cc517a2:
 
-    # l "He’s fucking you so hard."
-    l ""
 
-# game/episode020.rpy:2965
+    l "Ti sta scopando così forte."
+
+
 translate italian ep020_l_av_fucking_45cc409b:
 
-    # av "Yes!{w} Yes, he is!"
-    av ""
 
-# game/episode020.rpy:2966
+    av "Sì! {w} Sì, lo sta facendo!"
+
+
 translate italian ep020_l_av_fucking_6853c4a5:
 
-    # av "It feels so good!"
-    av ""
 
-# game/episode020.rpy:2969
+    av "È così bello!"
+
+
 translate italian ep020_l_av_fucking_62dba9d5:
 
-    # "Lilly reached at her sister’s pussy and began to rub it."
-    ""
 
-# game/episode020.rpy:2971
+    "Lilly raggiunse la figa della sorella e iniziò a strofinarla."
+
+
 translate italian ep020_l_av_fucking_6b09b539:
 
-    # "Lilly reached at her friend’s pussy and began to rub it."
-    ""
 
-# game/episode020.rpy:2972
+    "Lilly raggiunse la figa della sua amica e iniziò a strofinarla."
+
+
 translate italian ep020_l_av_fucking_a27da2cb:
 
-    # "Her fingers came back slick with Aven’s juices."
-    ""
 
-# game/episode020.rpy:2973
+    "Le sue dita tornarono a essere bagnate dai succhi di Aven."
+
+
 translate italian ep020_l_av_fucking_6f1869ce:
 
-    # l "Taste yourself."
-    l ""
 
-# game/episode020.rpy:2975
+    l "Assaggia te stessa."
+
+
 translate italian ep020_l_av_fucking_0129a440:
 
-    # "Lilly dragged open Aven’s mouth and slathered her tongue with pussy juice."
-    ""
 
-# game/episode020.rpy:2976
+    "Lilly aprì la bocca di Aven e le spalmò la lingua di succo di figa."
+
+
 translate italian ep020_l_av_fucking_4682fb1c:
 
-    # l "Taste that."
-    l ""
 
-# game/episode020.rpy:2978
+    l "Assaggia questo."
+
+
 translate italian ep020_l_av_fucking_61cbff3b:
 
-    # l "That’s your brother, mixed with you."
-    l ""
 
-# game/episode020.rpy:2980
+    l "Questo è tuo fratello, mischiato a te."
+
+
 translate italian ep020_l_av_fucking_db1c3821:
 
-    # l "That’s your lover, mixed with you."
-    l ""
 
-# game/episode020.rpy:2981
+    l "Questo è il tuo amante, mischiato a te."
+
+
 translate italian ep020_l_av_fucking_9daa163b:
 
-    # "Aven could only moan with Lilly’s fingers still inside her mouth."
-    ""
 
-# game/episode020.rpy:2982
+    "Aven poté solo gemere con le dita di Lilly ancora dentro la bocca."
+
+
 translate italian ep020_l_av_fucking_cca4b3f7:
 
-    # "She began to suck those fingers, licking off every drop of the salty goodness coating the digits."
-    ""
 
-# game/episode020.rpy:2983
+    "Cominciò a succhiare le dita, leccando ogni goccia della bontà salata che ricopriva le dita."
+
+
 translate italian ep020_l_av_fucking_af4cd2be:
 
-    # l "Mmmm, look at you."
-    l ""
 
-# game/episode020.rpy:2984
+    l "Mmmm, guardati."
+
+
 translate italian ep020_l_av_fucking_bd9c0220:
 
-    # l "You’re such a slut."
-    l ""
 
-# game/episode020.rpy:2986
+    l "Sei proprio una sgualdrina."
+
+
 translate italian ep020_l_av_fucking_d416aea6:
 
-    # l "Grinding on your brother’s cock like that."
-    l ""
 
-# game/episode020.rpy:2988
+    l "Ti strusci sul cazzo di tuo fratello in questo modo."
+
+
 translate italian ep020_l_av_fucking_314dea7b:
 
-    # l "Grinding on his cock like that."
-    l ""
 
-# game/episode020.rpy:2989
+    l "Ti strusci sul suo cazzo in questo modo."
+
+
 translate italian ep020_l_av_fucking_eeafc789:
 
-    # av "I don’t care that I’m a slut!"
-    av ""
 
-# game/episode020.rpy:2990
+    av "Non mi importa di essere una troia!"
+
+
 translate italian ep020_l_av_fucking_9f13e956:
 
-    # av "I love it, I love it so much!"
-    av ""
 
-# game/episode020.rpy:2995
+    av "Mi piace, mi piace così tanto!"
+
+
 translate italian ep020_l_av_fucking_eb6eed76:
 
-    # "I slapped her ass for good measure, braced my arm around her stomach and began to fuck her with short hard thrusts."
-    ""
 
-# game/episode020.rpy:2998
+    "Le diedi uno schiaffo sul sedere, le strinsi il braccio intorno allo stomaco e iniziai a scoparla con spinte brevi e forti."
+
+
 translate italian ep020_l_av_fucking_e551d0d0:
 
-    # "Lilly sat in front of Aven and opened her legs."
-    ""
 
-# game/episode020.rpy:3000
+    "Lilly si sedette di fronte ad Aven e aprì le gambe."
+
+
 translate italian ep020_l_av_fucking_c09e6f75:
 
-    # "My hand felt Aven’s clit just as she reached out toward Lilly and began to finger the girl’s slit."
-    ""
 
-# game/episode020.rpy:3003
+    "La mia mano ha sentito il clitoride di Aven proprio mentre lei allungava la mano verso Lilly e iniziava a sditalinare la fessura della ragazza."
+
+
 translate italian ep020_l_av_fucking_2f5de31d:
 
-    # av "Oh [p_name_short]!{w} [p_name_short]!"
-    av ""
 
-# game/episode020.rpy:3004
+    av "Oh [p_name_short]!{w} [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_8fb1e03a:
 
-    # av "You’re making me cum!"
-    av ""
 
-# game/episode020.rpy:3005
+    av "Mi stai facendo sborrare!"
+
+
 translate italian ep020_l_av_fucking_59ef6927:
 
-    # av "Oh fuck!{w} Yes!"
-    av ""
 
-# game/episode020.rpy:3007
+    av "Oh cazzo! {w} Sì!"
+
+
 translate italian ep020_l_av_fucking_dae92a0f:
 
-    # "Two more thrusts and Aven dissolved into breathless cries as she was overtaken with her orgasm."
-    ""
 
-# game/episode020.rpy:3010
+    "Altre due spinte e Aven si sciolse in grida senza fiato mentre veniva sopraffatta dall'orgasmo."
+
+
 translate italian ep020_l_av_fucking_2c929416:
 
-    # "I didn’t rest and continued fucking my sister as her whole body shuddered in the throes of her climax."
-    ""
 
-# game/episode020.rpy:3012
+    "Non mi sono fermato e ho continuato a scopare mia sorella mentre tutto il suo corpo tremava in preda all'orgasmo."
+
+
 translate italian ep020_l_av_fucking_b283f00d:
 
-    # "I didn’t rest and continued fucking Aven as her whole body shuddered in the throes of her climax."
-    ""
 
-# game/episode020.rpy:3016
+    "Non mi riposai e continuai a scopare Aven mentre tutto il suo corpo tremava in preda all'orgasmo."
+
+
 translate italian ep020_l_av_fucking_630e4492:
 
-    # "Lilly was to be the one to receive my load."
-    ""
 
-# game/episode020.rpy:3018
+    "Doveva essere Lilly a ricevere il mio carico."
+
+
 translate italian ep020_l_av_fucking_10204198:
 
-    # "So just when I felt that the pressure was too much to bear, I pulled out of Aven."
-    ""
 
-# game/episode020.rpy:3019
+    "Così, proprio quando sentii che la pressione era troppo forte da sopportare, uscii da Aven."
+
+
 translate italian ep020_l_av_fucking_f3b38fbf:
 
-    # c "Come quickly, Lilly."
-    c ""
 
-# game/episode020.rpy:3020
+    c "Vieni subito, Lilly."
+
+
 translate italian ep020_l_av_fucking_be23c038:
 
-    # "Lilly didn’t hesitate and offered her slit to me again."
-    ""
 
-# game/episode020.rpy:3022
+    "Lilly non esitò e mi offrì di nuovo la sua fessura."
+
+
 translate italian ep020_l_av_fucking_ad301292:
 
-    # "Aven knew what was coming and looked at her sister with unveiled envy."
-    ""
 
-# game/episode020.rpy:3024
+    "Aven sapeva cosa stava per succedere e guardò sua sorella con invidia non velata."
+
+
 translate italian ep020_l_av_fucking_bc8cefd5:
 
-    # "Aven knew what was coming and looked at her friend with unveiled envy."
-    ""
 
-# game/episode020.rpy:3029
+    "Aven sapeva cosa stava per succedere e guardò la sua amica con invidia."
+
+
 translate italian ep020_l_av_fucking_02712994:
 
-    # "Hastily, I jammed my cock into Lilly’s wet slit again."
-    ""
 
-# game/episode020.rpy:3032
+    "Frettolosamente, infilai di nuovo il mio cazzo nella fessura bagnata di Lilly."
+
+
 translate italian ep020_l_av_fucking_666c22ab:
 
-    # "Within four thrusts my self-restraint dissolved and I came."
-    ""
 
-# game/episode020.rpy:3034
+    "Nel giro di quattro spinte il mio autocontrollo si dissolse e venni."
+
+
 translate italian ep020_l_av_fucking_a4fa1119:
 
-    # c "I’m going to put a baby inside you!"
-    c ""
 
-# game/episode020.rpy:3036
+    c "Metterò un bambino dentro di te!"
+
+
 translate italian ep020_l_av_fucking_e86ef6e6:
 
-    # av "Yes, impregnate your sister, [p_name_short]!"
-    av ""
 
-# game/episode020.rpy:3038
+    av "Sì, ingravida tua sorella, [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_92895868:
 
-    # av "Yes, impregnate her, [p_name_short]!"
-    av ""
 
-# game/episode020.rpy:3040
+    av "Sì, ingravidala, [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_8b42a612:
 
-    # c "I’m going to cum so deep inside you!"
-    c ""
 
-# game/episode020.rpy:3042
+    c "Sto per sborrare così profondamente dentro di te!"
+
+
 translate italian ep020_l_av_fucking_5b913168:
 
-    # av "Yes, shoot your sister full of cum!"
-    av ""
 
-# game/episode020.rpy:3044
+    av "Sì, riempi tua sorella di sperma!"
+
+
 translate italian ep020_l_av_fucking_758f9382:
 
-    # av "Yes, shoot her full of cum!"
-    av ""
 
-# game/episode020.rpy:3045
+    av "Sì, riempila di sperma!"
+
+
 translate italian ep020_l_av_fucking_c4e1a353:
 
-    # av "You know she wants it!"
-    av ""
 
-# game/episode020.rpy:3046
+    av "Lo sai che lo vuole!"
+
+
 translate italian ep020_l_av_fucking_3a9e0d4e:
 
-    # l "Oh yes, cum inside me!{w} Please!"
-    l ""
 
-# game/episode020.rpy:3052
+    l "Oh sì, sborra dentro di me! {w} Ti prego!"
+
+
 translate italian ep020_l_av_fucking_a1630581:
 
-    # "When my balls hit Lilly’s cunt for the last time, I released a warm stream of cum right into her."
-    ""
 
-# game/episode020.rpy:3053
+    "Quando le mie palle colpirono la fica di Lilly per l'ultima volta, rilasciai un caldo fiotto di sperma proprio dentro di lei."
+
+
 translate italian ep020_l_av_fucking_21574214:
 
-    # l "I can feel it!"
-    l ""
 
-# game/episode020.rpy:3054
+    l "Lo sento!"
+
+
 translate italian ep020_l_av_fucking_8a6b942e:
 
-    # l "All that warm cum inside me!"
-    l ""
 
-# game/episode020.rpy:3055
+    l "Tutto quel caldo sperma dentro di me!"
+
+
 translate italian ep020_l_av_fucking_0fa5f1ff:
 
-    # l "It feels so good!"
-    l ""
 
-# game/episode020.rpy:3057
+    l "È una sensazione così bella!"
+
+
 translate italian ep020_l_av_fucking_96d3a634:
 
-    # "I made sure my sister took my full load and only disengaged when the last droplet of sperm was inside her vagina."
-    ""
 
-# game/episode020.rpy:3059
+    "Ho fatto in modo che mia sorella prendesse tutto il mio carico e mi sono sganciato solo quando l'ultima goccia di sperma era dentro la sua vagina."
+
+
 translate italian ep020_l_av_fucking_2b6119c5:
 
-    # "I made sure Lilly took my full load and only disengaged when the last droplet of sperm was inside her vagina."
-    ""
 
-# game/episode020.rpy:3062
+    "Mi assicurai che Lilly prendesse tutto il mio carico e mi sganciai solo quando l'ultima goccia di sperma fu dentro la sua vagina."
+
+
 translate italian ep020_l_av_fucking_d5e62a38:
 
-    # "As I dislodged from her slit, cum started to ooze out of her in thick dollops."
-    ""
 
-# game/episode020.rpy:3065
+    "Quando mi staccai dalla sua fessura, lo sperma iniziò a fuoriuscire a fiotti."
+
+
 translate italian ep020_l_av_fucking_9098fc82:
 
-    # "Aven deserved my load, so I decided to finish inside her at all cost."
-    ""
 
-# game/episode020.rpy:3067
+    "Aven si meritava il mio carico, quindi decisi di finire dentro di lei a tutti i costi."
+
+
 translate italian ep020_l_av_fucking_f977b391:
 
-    # "So just when I felt that the pressure was too much to bear, I pulled out of Lilly."
-    ""
 
-# game/episode020.rpy:3068
+    "Così, proprio quando sentii che la pressione era troppo forte da sopportare, mi sfilai da Lilly."
+
+
 translate italian ep020_l_av_fucking_f36c60de:
 
-    # c "Come quickly, Aven."
-    c ""
 
-# game/episode020.rpy:3069
+    c "Vieni subito, Aven."
+
+
 translate italian ep020_l_av_fucking_1b73d1cf:
 
-    # "Aven didn’t hesitate and offered her slit to me again."
-    ""
 
-# game/episode020.rpy:3071
+    "Aven non esitò e mi offrì di nuovo la sua fessura."
+
+
 translate italian ep020_l_av_fucking_1a9fd72c:
 
-    # "Lilly knew what was coming and looked at her sister with unveiled envy."
-    ""
 
-# game/episode020.rpy:3073
+    "Lilly sapeva cosa stava per succedere e guardò sua sorella con invidia non velata."
+
+
 translate italian ep020_l_av_fucking_070b2ea1:
 
-    # "Lilly knew what was coming and looked at her friend with unveiled envy."
-    ""
 
-# game/episode020.rpy:3078
+    "Lilly sapeva cosa stava per succedere e guardò la sua amica con invidia sfrenata."
+
+
 translate italian ep020_l_av_fucking_16968b57:
 
-    # "I rammed my cock inside Aven again, causing her to let out a grunt of satisfaction."
-    ""
 
-# game/episode020.rpy:3081
+    "Infilai di nuovo il mio cazzo dentro Aven, facendole emettere un grugnito di soddisfazione."
+
+
 translate italian ep020_l_av_fucking_5966cbe6:
 
-    # "After no more than four thrusts, I could feel the built-up tension release."
-    ""
 
-# game/episode020.rpy:3084
+    "Dopo non più di quattro spinte, sentii che la tensione accumulata si stava sciogliendo."
+
+
 translate italian ep020_l_av_fucking_4097df5c:
 
-    # l "Yes, breed your sister, [p_name_short]!"
-    l ""
 
-# game/episode020.rpy:3085
+    l "Sì, riproduci tua sorella, [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_33bc6ffc:
 
-    # av "Oh yes, cum inside me!{w} Make me pregnant!{w} Please!"
-    av ""
 
-# game/episode020.rpy:3087
+    av "Oh sì, sborrami dentro! {w} Mettimi incinta! {w} Ti prego!"
+
+
 translate italian ep020_l_av_fucking_12460585:
 
-    # l "Yes, breed her, [p_name_short]!"
-    l ""
 
-# game/episode020.rpy:3088
+    l "Sì, riproducila, [p_name_short]!"
+
+
 translate italian ep020_l_av_fucking_368a984a:
 
-    # av "Oh yes, cum inside me!{w} Please!"
-    av ""
 
-# game/episode020.rpy:3094
+    av "Oh sì, sborrami dentro! {w} Ti prego!"
+
+
 translate italian ep020_l_av_fucking_a39172d6:
 
-    # "My balls slapped against Aven for one last thrust and then a stream of warm seed was released right into her."
-    ""
 
-# game/episode020.rpy:3095
+    "Le mie palle sbatterono contro Aven per un'ultima spinta e poi un fiotto di seme caldo fu rilasciato proprio dentro di lei."
+
+
 translate italian ep020_l_av_fucking_35f6f4c6:
 
-    # av "So much!{w} You’re shooting so much inside me!"
-    av ""
 
-# game/episode020.rpy:3096
+    av "Così tanto! {w} Stai sparando così tanto dentro di me!"
+
+
 translate italian ep020_l_av_fucking_16255c48:
 
-    # l "Does it feel good, Aven?"
-    l ""
 
-# game/episode020.rpy:3097
+    l "Ti fa sentire bene, Aven?"
+
+
 translate italian ep020_l_av_fucking_ee3e1cc3:
 
-    # av "I love it!{w} I love the feeling of warm cum inside me!"
-    av ""
 
-# game/episode020.rpy:3098
+    av "Lo adoro! {w} Adoro la sensazione di sperma caldo dentro di me!"
+
+
 translate italian ep020_l_av_fucking_526f8957:
 
-    # "I held onto Aven tightly as I deposited every last droplet of semen inside her vagina."
-    ""
 
-# game/episode020.rpy:3102
+    "Mi tenni stretto ad Aven mentre depositavo fino all'ultima goccia di sperma nella sua vagina."
+
+
 translate italian ep020_l_av_fucking_8e7a9fa8:
 
-    # "As I pulled out of my sister’s cunt, thick strands of cum started to dribble out of her in a steady stream."
-    ""
 
-# game/episode020.rpy:3104
+    "Quando uscii dalla fica di mia sorella, spessi filamenti di sperma iniziarono a gocciolare fuori da lei in un flusso costante."
+
+
 translate italian ep020_l_av_fucking_36a724f5:
 
-    # "As I pulled out of Aven’s cunt, thick strands of cum started to dribble out of her in a steady stream."
-    ""
 
-# game/episode020.rpy:3106
+    "Quando uscii dalla fica di Aven, grossi filamenti di sperma iniziarono a colare fuori da lei in un flusso costante."
+
+
 translate italian ep020_l_av_fucking_d073477b:
 
-    # "I could feel the built-up tension becoming too much to bear."
-    ""
 
-# game/episode020.rpy:3109
+    "Sentivo che la tensione accumulata stava diventando troppo forte da sopportare."
+
+
 translate italian ep020_l_av_fucking_dc2b2596:
 
-    # c "Oh Lilly, I’m going to-"
-    c ""
 
-# game/episode020.rpy:3110
+    c "Oh Lilly, sto per..."
+
+
 translate italian ep020_l_av_fucking_608acd0a:
 
-    # l "Are you cumming for me, [p_name_short]?"
-    l ""
 
-# game/episode020.rpy:3111
+    l "Stai sborrando per me, [p_name_short]?"
+
+
 translate italian ep020_l_av_fucking_2856d12c:
 
-    # c "I’m going to spray it all over your body!"
-    c ""
 
-# game/episode020.rpy:3113
+    c "Te lo spruzzo su tutto il corpo!"
+
+
 translate italian ep020_l_av_fucking_7029ebd3:
 
-    # av "Yes, that’s it, paint your sister’s tight little body with your warm cum."
-    av ""
 
-# game/episode020.rpy:3115
+    av "Sì, così, dipingi il corpo stretto di tua sorella con il tuo sperma caldo."
+
+
 translate italian ep020_l_av_fucking_45e928d4:
 
-    # av "Yes, that’s it, paint her tight little body with your warm cum."
-    av ""
 
-# game/episode020.rpy:3116
+    av "Sì, così, dipingi il suo corpo stretto con il tuo sperma caldo."
+
+
 translate italian ep020_l_av_fucking_8f9e4921:
 
-    # "Aven’s words made me go over the edge."
-    ""
 
-# game/episode020.rpy:3121
+    "Le parole di Aven mi fecero andare oltre il limite."
+
+
 translate italian ep020_l_av_fucking_e43b214f:
 
-    # "As I whipped out my cock, seed started spewing from the tip."
-    ""
 
-# game/episode020.rpy:3124
+    "Quando tirai fuori il mio cazzo, il seme iniziò a fuoriuscire dalla punta."
+
+
 translate italian ep020_l_av_fucking_9b85139a:
 
-    # "Thick strands of warm cum splashed all over Lilly’s belly and breasts."
-    ""
 
-# game/episode020.rpy:3125
+    "Spessi filamenti di sperma caldo schizzarono sulla pancia e sui seni di Lilly."
+
+
 translate italian ep020_l_av_fucking_7f512b0a:
 
-    # av "He’s cumming so hard for you, Lilly."
-    av ""
 
-# game/episode020.rpy:3126
+    av "Sta sborrando così tanto per te, Lilly."
+
+
 translate italian ep020_l_av_fucking_d1d6eab3:
 
-    # l "Mmmm, yes and that feels so good."
-    l ""
 
-# game/episode020.rpy:3128
+    l "Mmmm, sì, ed è una sensazione bellissima."
+
+
 translate italian ep020_l_av_fucking_7e92d7ba:
 
-    # "Aven wiped the cum from her sister’s body and licked it from her fingers."
-    ""
 
-# game/episode020.rpy:3130
+    "Aven pulì lo sperma dal corpo di sua sorella e lo leccò dalle sue dita."
+
+
 translate italian ep020_l_av_fucking_4e77c2da:
 
-    # "Aven wiped the cum from her friend’s body and licked it from her fingers."
-    ""
 
-# game/episode020.rpy:3133
+    "Aven pulisce lo sperma dal corpo della sua amica e lo lecca dalle dita."
+
+
 translate italian ep020_l_av_fucking_0d733550:
 
-    # c "Oh Aven, I’m going to-"
-    c ""
 
-# game/episode020.rpy:3134
+    c "Oh Aven, sto per..."
+
+
 translate italian ep020_l_av_fucking_8bcf0e60:
 
-    # av "Are you cumming for me, [p_name_short]?"
-    av ""
 
-# game/episode020.rpy:3135
+    av "Stai sborrando per me, [p_name_short]?"
+
+
 translate italian ep020_l_av_fucking_2856d12c_1:
 
-    # c "I’m going to spray it all over your body!"
-    c ""
 
-# game/episode020.rpy:3137
+    c "La spruzzerò su tutto il tuo corpo!"
+
+
 translate italian ep020_l_av_fucking_df0f445d:
 
-    # l "Yes, that’s it, paint your sister’s beautiful body with your warm cum."
-    l ""
 
-# game/episode020.rpy:3139
+    l "Sì, così, dipingi il bellissimo corpo di tua sorella con il tuo sperma caldo."
+
+
 translate italian ep020_l_av_fucking_2be61a0d:
 
-    # l "Yes, that’s it, paint her tight beautiful body with your warm cum."
-    l ""
 
-# game/episode020.rpy:3140
+    l "Sì, così, dipingi il suo bel corpo sodo con il tuo caldo sperma."
+
+
 translate italian ep020_l_av_fucking_cd7de1f7:
 
-    # "Lilly’s words made me go over the edge."
-    ""
 
-# game/episode020.rpy:3145
+    "Le parole di Lilly mi fecero andare oltre il limite."
+
+
 translate italian ep020_l_av_fucking_e43b214f_1:
 
-    # "As I whipped out my cock, seed started spewing from the tip."
-    ""
 
-# game/episode020.rpy:3148
-translate italian ep020_l_av_fucking_dea32d45:
+    "Quando tirai fuori il mio cazzo, il seme iniziò a fuoriuscire dalla punta."
 
-    # "Thick strands of warm cum splashed all over Aven’s back."
-    ""
 
-# game/episode020.rpy:3149
+translate italian ep020_l_av_fucking_b9cb1a3e:
+
+
+    "Spessi filamenti di sperma caldo schizzarono sulla pancia e sul seno di Aven."
+
+
 translate italian ep020_l_av_fucking_b70b5bf0:
 
-    # l "He’s cumming so hard for you, Aven."
-    l ""
 
-# game/episode020.rpy:3150
+    l "Sta sborrando così tanto per te, Aven."
+
+
 translate italian ep020_l_av_fucking_20911b02:
 
-    # av "Mmmm, yes and that feels so good."
-    av ""
 
-# game/episode020.rpy:3151
+    av "Mmmm, sì, ed è una sensazione così bella."
+
+
 translate italian ep020_l_av_fucking_fe2e81a1:
 
-    # "Aven wiped the cum from her body and licked it from her fingers."
-    ""
 
-# game/episode020.rpy:3155
+    "Aven si pulì lo sperma dal corpo e lo leccò dalle dita."
+
+
 translate italian ep020_l_av_fucking_a356a37f:
 
-    # "I’d decided I would reward both girls with my cum."
-    ""
 
-# game/episode020.rpy:3156
+    "Avevo deciso di ricompensare entrambe le ragazze con il mio sperma."
+
+
 translate italian ep020_l_av_fucking_614a5560:
 
-    # c "Get yourselves ready for me."
-    c ""
 
-# game/episode020.rpy:3162
+    c "Preparatevi per me."
+
+
 translate italian ep020_l_av_fucking_9cfbeb86:
 
-    # "Both my sisters eased themselves on the ground, so that their faces were underneath my throbbing cock."
-    ""
 
-# game/episode020.rpy:3164
+    "Entrambe le mie sorelle si misero a terra, in modo che i loro volti fossero sotto il mio cazzo pulsante."
+
+
 translate italian ep020_l_av_fucking_85feca11:
 
-    # "Both Aven and Lilly eased themselves on the ground, so that their faces were underneath my throbbing cock."
-    ""
 
-# game/episode020.rpy:3165
+    "Sia Aven che Lilly si misero a terra, in modo che i loro volti fossero sotto il mio cazzo pulsante."
+
+
 translate italian ep020_l_av_fucking_16d65151:
 
-    # av "He is going to blow his load all over our faces, Lilly."
-    av ""
 
-# game/episode020.rpy:3166
+    av "Ci riempirà la faccia di sperma, Lilly."
+
+
 translate italian ep020_l_av_fucking_f81646c5:
 
-    # l "I know, I can’t wait to feel his cum on my face."
-    l ""
 
-# game/episode020.rpy:3168
+    l "Lo so, non vedo l'ora di sentire il suo sperma sulla mia faccia."
+
+
 translate italian ep020_l_av_fucking_c5adaf1d:
 
-    # l "Please [p_name_short], make a mess of your sisters."
-    l ""
 
-# game/episode020.rpy:3170
+    l "Per favore [p_name_short], fai un casino con le tue sorelle."
+
+
 translate italian ep020_l_av_fucking_ef4b8318:
 
-    # l "Please [p_name_short], make a mess of us."
-    l ""
 
-# game/episode020.rpy:3175
+    l "Ti prego [p_name_short], fai un casino con noi."
+
+
 translate italian ep020_l_av_fucking_d5d68eee:
 
-    # "With a roar I exploded and shot strands of warm cum all over Lilly’s face."
-    ""
 
-# game/episode020.rpy:3176
+    "Con un ruggito esplosi e sparai fili di sperma caldo su tutto il viso di Lilly."
+
+
 translate italian ep020_l_av_fucking_99cf45a9:
 
-    # "Just in time, I turned to Aven and blasted her face as well."
-    ""
 
-# game/episode020.rpy:3177
+    "Appena in tempo, mi voltai verso Aven e le sparai in faccia."
+
+
 translate italian ep020_l_av_fucking_214b2274:
 
-    # l "Mmmmm, it’s so warm and there’s so much of it."
-    l ""
 
-# game/episode020.rpy:3180
+    l "Mmmmm, è così caldo e ce n'è così tanto."
+
+
 translate italian ep020_l_av_fucking_ee22ca16:
 
-    # "Aven opened her mouth and I let the last of my seed drip onto her tongue."
-    ""
 
-# game/episode020.rpy:3181
+    "Aven aprì la bocca e lasciai colare l'ultimo seme sulla sua lingua."
+
+
 translate italian ep020_l_av_fucking_41c9a096:
 
-    # av "It tastes good too."
-    av ""
 
-# game/episode020.rpy:3182
+    av "Anche questo ha un buon sapore."
+
+
 translate italian ep020_l_av_fucking_8cf624c6:
 
-    # "Aven wiped the cum from her face and licked it from her fingers."
-    ""
 
-# game/episode020.rpy:3188
+    "Aven si pulì lo sperma dal viso e lo leccò dalle dita."
+
+
 translate italian ep020_l_av_fucking_0ed0b43c:
 
-    # "With my cum still in her mouth, she kissed her sister and exchanged it with her."
-    ""
 
-# game/episode020.rpy:3190
+    "Con il mio sperma ancora in bocca, baciò sua sorella e lo scambiò con lei."
+
+
 translate italian ep020_l_av_fucking_3775272c:
 
-    # "With my cum still in her mouth, she kissed Lilly and exchanged it with her."
-    ""
 
-# game/episode020.rpy:3192
+    "Con il mio sperma ancora in bocca, baciò Lilly e lo scambiò con lei."
+
+
 translate italian ep020_l_av_fucking_b215b4e3:
 
-    # "Lilly swallowed with a smile on her face and continued kissing Aven."
-    ""
 
-# game/episode020.rpy:3196
+    "Lilly deglutì con un sorriso sul volto e continuò a baciare Aven."
+
+
 translate italian ep020_l_av_fucking_fc5040a1:
 
-    # "Aven bent over Lilly and kissed her, cum still oozing out of my sister."
-    ""
 
-# game/episode020.rpy:3198
+    "Aven si chinò su Lilly e la baciò, con lo sperma che ancora trasudava da mia sorella."
+
+
 translate italian ep020_l_av_fucking_0e8f78f6:
 
-    # "Aven bent over Lilly and kissed her, cum still oozing out of her."
-    ""
 
-# game/episode020.rpy:3202
+    "Aven si chinò su Lilly e la baciò, mentre lo sperma continuava a trasudare da lei."
+
+
 translate italian ep020_l_av_fucking_98daefe8:
 
-    # "With my cum still oozing out her slit, Aven bent over Lilly and kissed her sister."
-    ""
 
-# game/episode020.rpy:3204
+    "Con il mio sperma che ancora trasuda dalla sua fessura, Aven si chinò su Lilly e baciò sua sorella."
+
+
 translate italian ep020_l_av_fucking_4ceabc7e:
 
-    # "With my cum still oozing out her slit, Aven bent over Lilly and kissed her friend."
-    ""
 
-# game/episode020.rpy:3212
+    "Con il mio sperma che ancora trasuda dalla sua fessura, Aven si chinò su Lilly e baciò la sua amica."
+
+
 translate italian ep020_eva_sex_d35d18e1:
 
-    # "Eva pulled me into her bedroom, where we started kissing ferociously."
-    ""
 
-# game/episode020.rpy:3213
+    "Eva mi trascinò nella sua camera da letto, dove iniziammo a baciarci ferocemente."
+
+
 translate italian ep020_eva_sex_2589930e:
 
-    # "The alcohol added to the heat of our passion and it didn’t take long for us both to be naked."
-    ""
 
-# game/episode020.rpy:3219
+    "L'alcol ha aumentato il calore della nostra passione e non ci è voluto molto perché fossimo entrambe nude."
+
+
 translate italian ep020_eva_sex_b1e6e753:
 
-    # c "Mmmm, let me look at you, my sexy little sister."
-    c ""
 
-# game/episode020.rpy:3221
+    c "Mmmm, lascia che ti guardi, mia sexy sorellina."
+
+
 translate italian ep020_eva_sex_be4879ff:
 
-    # c "Mmmm, let me look at you, you sexy little thing."
-    c ""
 
-# game/episode020.rpy:3226
+    c "Mmmm, lascia che ti guardi, piccola cosa sexy."
+
+
 translate italian ep020_eva_sex_091e6c03:
 
-    # "Eva twirled around, giving me a good look at her tight ass before facing me again."
-    ""
 
-# game/episode020.rpy:3228
+    "Eva girò su se stessa, dandomi una bella occhiata al suo sedere sodo prima di rivolgersi di nuovo verso di me."
+
+
 translate italian ep020_eva_sex_d83bbd58:
 
-    # e "You’re hard for me already."
-    e ""
 
-# game/episode020.rpy:3229
+    e "Ce l'hai già duro per me."
+
+
 translate italian ep020_eva_sex_0c97c957:
 
-    # "I couldn’t deny my rock-hard erection, aching to be inside her."
-    ""
 
-# game/episode020.rpy:3230
+    "Non potevo negare la mia erezione dura come la roccia, desiderosa di essere dentro di lei."
+
+
 translate italian ep020_eva_sex_4dde0646:
 
-    # "Eva had other plans first as she pushed me down on the bed."
-    ""
 
-# game/episode020.rpy:3231
+    "Eva aveva altri piani e mi spinse sul letto."
+
+
 translate italian ep020_eva_sex_99298823:
 
-    # e "Mmmm, it’s so big."
-    e ""
 
-# game/episode020.rpy:3236
+    e "Mmmm, è così grande."
+
+
 translate italian ep020_eva_sex_7fcb04d7:
 
-    # "She knelt before me and lowered her head."
-    ""
 
-# game/episode020.rpy:3238
+    "Si inginocchiò davanti a me e abbassò la testa."
+
+
 translate italian ep020_eva_sex_156b42a4:
 
-    # "I shuddered as my sister’s soft lips enveloped the tip of my cock."
-    ""
 
-# game/episode020.rpy:3240
+    "Rabbrividii quando le morbide labbra di mia sorella avvolsero la punta del mio cazzo."
+
+
 translate italian ep020_eva_sex_16113606:
 
-    # "I shuddered as Eva’s soft lips enveloped the tip of my cock."
-    ""
 
-# game/episode020.rpy:3242
+    "Rabbrividii quando le morbide labbra di Eva avvolsero la punta del mio cazzo."
+
+
 translate italian ep020_eva_sex_4f94d60a:
 
-    # "Her tongue whirled along my throbbing shaft as Eva attempted to take more and more of my girth in her mouth."
-    ""
 
-# game/episode020.rpy:3243
+    "La sua lingua si muoveva lungo la mia asta pulsante mentre Eva cercava di prendere in bocca una quantità sempre maggiore della mia circonferenza."
+
+
 translate italian ep020_eva_sex_bd14a68a:
 
-    # "I gripped her shoulder tightly as she began to blow me with full force."
-    ""
 
-# game/episode020.rpy:3249
+    "Le strinsi forte la spalla mentre iniziava a spompinarmi con forza."
+
+
 translate italian ep020_eva_sex_75f3f472:
 
-    # "My cock hit her deep, making her gag intermittently."
-    ""
 
-# game/episode020.rpy:3250
+    "Il mio cazzo l'ha colpita in profondità, facendole venire dei conati di vomito a intermittenza."
+
+
 translate italian ep020_eva_sex_d164fb89:
 
-    # c "Fuck Eva, you’re going to make me cum already!"
-    c ""
 
-# game/episode020.rpy:3252
+    c "Cazzo Eva, mi stai già facendo sborrare!"
+
+
 translate italian ep020_eva_sex_c0a45349:
 
-    # "My sister grinned and slowed down a little, but didn’t stop."
-    ""
 
-# game/episode020.rpy:3254
+    "Mia sorella sorrise e rallentò un po', ma non si fermò."
+
+
 translate italian ep020_eva_sex_6772ebbd:
 
-    # "My girlfriend grinned and slowed down a little, but didn’t stop."
-    ""
 
-# game/episode020.rpy:3257
+    "La mia ragazza sorrise e rallentò un po', ma non si fermò."
+
+
 translate italian ep020_eva_sex_4bf5469c:
 
-    # "Instead, she made sure the entire length of my cock was covered in saliva."
-    ""
 
-# game/episode020.rpy:3258
+    "Invece, si è assicurata che l'intera lunghezza del mio cazzo fosse ricoperta di saliva."
+
+
 translate italian ep020_eva_sex_bd2b49b0:
 
-    # c "You’re making a mess..."
-    c ""
 
-# game/episode020.rpy:3259
+    c "Stai facendo un casino..."
+
+
 translate italian ep020_eva_sex_416c44b1:
 
-    # e "I want it all nice and wet for when you eventually put it inside me."
-    e ""
 
-# game/episode020.rpy:3264
+    e "Voglio che sia tutto bello bagnato per quando lo metterai dentro di me”."
+
+
 translate italian ep020_eva_sex_c9c01bd8:
 
-    # "Eva continued her slow and torturous treatment of my cock until she finally decided it was enough and climbed on top of me."
-    ""
 
-# game/episode020.rpy:3265
+    "Eva continuò il suo lento e tortuoso trattamento del mio cazzo fino a quando decise che era abbastanza e si mise sopra di me."
+
+
 translate italian ep020_eva_sex_6a7de937:
 
-    # c "I like the eagerness!"
-    c ""
 
-# game/episode020.rpy:3271
+    c "Mi piace la sua foga!"
+
+
 translate italian ep020_eva_sex_21fb0b7c:
 
-    # "My sister tongue-kissed me in response, her lower body brushing against my dick."
-    ""
 
-# game/episode020.rpy:3273
+    "Mia sorella mi baciò con la lingua in risposta, con la parte inferiore del corpo che sfiorava il mio cazzo."
+
+
 translate italian ep020_eva_sex_8be3b9ab:
 
-    # "Eva tongue-kissed me in response, her lower body brushing against my dick."
-    ""
 
-# game/episode020.rpy:3274
+    "Eva mi baciò con la lingua in risposta, con la parte inferiore del suo corpo che sfiorava il mio uccello."
+
+
 translate italian ep020_eva_sex_fbd30fc2:
 
-    # "As we kissed, she pulled my cock against her entrance."
-    ""
 
-# game/episode020.rpy:3275
+    "Mentre ci baciavamo, lei ha tirato il mio cazzo contro la sua entrata."
+
+
 translate italian ep020_eva_sex_3446bda0:
 
-    # "I could already feel how wet she was."
-    ""
 
-# game/episode020.rpy:3277
+    "Potevo già sentire quanto fosse bagnata."
+
+
 translate italian ep020_eva_sex_7864ba44:
 
-    # "The tip of my dick slipped inside and Eva exhaled with relish, her lower lips gripping me firmly."
-    ""
 
-# game/episode020.rpy:3278
+    "La punta del mio cazzo scivolò all'interno ed Eva espirò con piacere, mentre le sue labbra inferiori mi stringevano con forza."
+
+
 translate italian ep020_eva_sex_6e9bd26d:
 
-    # c "You’re so tight!"
-    c ""
 
-# game/episode020.rpy:3280
+    c "Sei così stretto!"
+
+
 translate italian ep020_eva_sex_301129ec:
 
-    # "Eva began to grind on top of me, slowly at first, but picking up speed as her arousal entered more advanced stages."
-    ""
 
-# game/episode020.rpy:3283
+    "Eva iniziò a strusciarsi su di me, all'inizio lentamente, ma aumentando la velocità man mano che la sua eccitazione entrava in fasi più avanzate."
+
+
 translate italian ep020_eva_sex_d94a7159:
 
-    # e "Oh [p_name_short]!{w} You’re so deep inside me!"
-    e ""
 
-# game/episode020.rpy:3284
+    e "Oh [p_name_short]!{w} Sei così profondo dentro di me!"
+
+
 translate italian ep020_eva_sex_79afa821:
 
-    # e "I love feeling your dick so deep in me!"
-    e ""
 
-# game/episode020.rpy:3290
+    e "Mi piace sentire il tuo cazzo così dentro di me!"
+
+
 translate italian ep020_eva_sex_af808dcc:
 
-    # "My sister punctuated those remarks by slamming down harder on top of me, my cock burying itself deep inside her tight pussy."
-    ""
 
-# game/episode020.rpy:3292
+    "Mia sorella sottolineò queste osservazioni sbattendo più forte su di me, mentre il mio cazzo si seppelliva in profondità nella sua figa stretta."
+
+
 translate italian ep020_eva_sex_4faf91eb:
 
-    # "Eva punctuated those remarks by slamming down harder on top of me, my cock burying itself deep inside her tight pussy."
-    ""
 
-# game/episode020.rpy:3295
+    "Eva ha sottolineato queste osservazioni sbattendo più forte sopra di me, mentre il mio cazzo si seppelliva in profondità nella sua figa stretta."
+
+
 translate italian ep020_eva_sex_b3aaaa20:
 
-    # "She fingered herself and moved her lower body back and forth."
-    ""
 
-# game/episode020.rpy:3296
+    "Si sditalinava e muoveva la parte inferiore del corpo avanti e indietro."
+
+
 translate italian ep020_eva_sex_df680181:
 
-    # "Her eyes were closed and her half-open mouth contorted in an expression of absolute pleasure."
-    ""
 
-# game/episode020.rpy:3297
+    "I suoi occhi erano chiusi e la sua bocca semiaperta si contorceva in un'espressione di assoluto piacere."
+
+
 translate italian ep020_eva_sex_7c9d9801:
 
-    # "Eva’s pussy got wetter by the minute and she’d started fingering her swollen clit."
-    ""
 
-# game/episode020.rpy:3302
+    "La figa di Eva si bagnava di minuto in minuto e aveva iniziato a sditalinarsi il clitoride gonfio."
+
+
 translate italian ep020_eva_sex_3c1b2c52:
 
-    # c "Are you going to cum for me, baby?"
-    c ""
 
-# game/episode020.rpy:3303
+    c "Stai per sborrare per me, piccola?"
+
+
 translate italian ep020_eva_sex_a51fe686:
 
-    # e "Yes!{w} Yes I am!"
-    e ""
 
-# game/episode020.rpy:3305
+    e "Sì! {w} Sì, lo farò!"
+
+
 translate italian ep020_eva_sex_d365ce8e:
 
-    # c "Is your brother’s dick making you cum?"
-    c ""
 
-# game/episode020.rpy:3307
+    c "Il cazzo di tuo fratello ti sta facendo sborrare?"
+
+
 translate italian ep020_eva_sex_62de3976:
 
-    # c "Is my hard dick making you cum?"
-    c ""
 
-# game/episode020.rpy:3310
+    c "Il mio cazzo duro ti sta facendo sborrare?"
+
+
 translate italian ep020_eva_sex_11e84ddd:
 
-    # e "Yes!{w} Oh yes!"
-    e ""
 
-# game/episode020.rpy:3312
+    e "Sì!{w} Oh sì!"
+
+
 translate italian ep020_eva_sex_57cc666c:
 
-    # e "My brother’s big hard dick is making me cum so hard!"
-    e ""
 
-# game/episode020.rpy:3314
+    e "Il grosso cazzo duro di mio fratello mi sta facendo sborrare così tanto!"
+
+
 translate italian ep020_eva_sex_337fa2f9:
 
-    # e "Your big hard dick is making me cum so hard!"
-    e ""
 
-# game/episode020.rpy:3316
+    e "Il tuo grosso cazzo duro mi sta facendo sborrare così tanto!"
+
+
 translate italian ep020_eva_sex_bd83ee72:
 
-    # "Her eyes flickered open for a second, looking at me vaguely embarrassed."
-    ""
 
-# game/episode020.rpy:3318
+    "I suoi occhi si sono aperti per un secondo, guardandomi vagamente imbarazzata."
+
+
 translate italian ep020_eva_sex_6847c07a:
 
-    # "Another thrust of my cock inside her moist cunt made her forget all shame."
-    ""
 
-# game/episode020.rpy:3320
+    "Un'altra spinta del mio cazzo nella sua fica umida le fece dimenticare ogni vergogna."
+
+
 translate italian ep020_eva_sex_6f4132e4:
 
-    # "My sister continued to ride me, until she lost control over her body."
-    ""
 
-# game/episode020.rpy:3322
+    "Mia sorella continuò a cavalcarmi, finché non perse il controllo del suo corpo."
+
+
 translate italian ep020_eva_sex_3e22b9a9:
 
-    # "Eva continued to ride me, until she lost control over her body."
-    ""
 
-# game/episode020.rpy:3324
+    "Eva continuò a cavalcarmi finché non perse il controllo del suo corpo."
+
+
 translate italian ep020_eva_sex_ffbf0c4c:
 
-    # "Quivering, she collapsed on top of me, the muscles of her pussy contracting wildly around my dick."
-    ""
 
-# game/episode020.rpy:3325
+    "Tremando, si accasciò su di me, i muscoli della sua figa si contraevano selvaggiamente intorno al mio cazzo."
+
+
 translate italian ep020_eva_sex_89a4a778:
 
-    # e "Oh [p_name_short]! [p_name_short]!"
-    e ""
 
-# game/episode020.rpy:3326
+    e "Oh [p_name_short]! [p_name_short]!"
+
+
 translate italian ep020_eva_sex_19423fc1:
 
-    # "Eva remained on top of me, twitching and shuddering."
-    ""
 
-# game/episode020.rpy:3328
+    "Eva rimase sopra di me, contorcendosi e tremando."
+
+
 translate italian ep020_eva_sex_48b6e6da:
 
-    # "I prolonged her orgasm by making well-aimed thrusts, targeting her g-spot, ultimately devolving my sister’s mental state into a drooling thrall."
-    ""
 
-# game/episode020.rpy:3330
+    "Prolungai il suo orgasmo con spinte ben mirate, mirando al suo punto G, per far sì che lo stato mentale di mia sorella si trasformasse in una bramosa dipendenza."
+
+
 translate italian ep020_eva_sex_c79df841:
 
-    # "I prolonged her orgasm by making well-aimed thrusts, targeting her g-spot, ultimately devolving Eva’s mental state into a drooling thrall."
-    ""
 
-# game/episode020.rpy:3334
+    "Prolungai il suo orgasmo con spinte ben mirate, puntando al suo punto g, trasformando lo stato mentale di Eva in una bramosa dipendenza."
+
+
 translate italian ep020_eva_sex_a0da5de2:
 
-    # "I slowly shifted Eva off me and eased her down onto the bed."
-    ""
 
-# game/episode020.rpy:3335
+    "Lentamente scostai Eva da me e la feci cadere sul letto."
+
+
 translate italian ep020_eva_sex_91d97d1f:
 
-    # "She kept mumbling and held me tight, opening her legs again to allow me to get inside her."
-    ""
 
-# game/episode020.rpy:3340
+    "Lei continuava a mugugnare e mi stringeva forte, aprendo di nuovo le gambe per permettermi di entrare in lei."
+
+
 translate italian ep020_eva_sex_2941fe91:
 
-    # "Cupping her breast, I entered her pussy again."
-    ""
 
-# game/episode020.rpy:3341
+    "Stringendole il seno, entrai di nuovo nella sua figa."
+
+
 translate italian ep020_eva_sex_9ecd39fe:
 
-    # "Eva was still floating on the last remnants of her orgasm, but being penetrated again shocked her into the present."
-    ""
 
-# game/episode020.rpy:3343
+    "Eva galleggiava ancora sugli ultimi residui del suo orgasmo, ma essere penetrata di nuovo la riportò al presente."
+
+
 translate italian ep020_eva_sex_bc2ee5c2:
 
-    # e "Oh, right there, [p_name_short]!"
-    e ""
 
-# game/episode020.rpy:3344
+    e "Oh, proprio lì, [p_name_short]!"
+
+
 translate italian ep020_eva_sex_b206c8ab:
 
-    # e "Please keep going like that!"
-    e ""
 
-# game/episode020.rpy:3345
+    e "Ti prego, continua così!"
+
+
 translate italian ep020_eva_sex_09d19224:
 
-    # "I could feel her become even wetter than she already was."
-    ""
 
-# game/episode020.rpy:3348
+    "Sentivo che era ancora più bagnata di quanto non lo fosse già."
+
+
 translate italian ep020_eva_sex_859b8e57:
 
-    # "Every time I thrust deep into my sister’s wet cunt, I hit her sweet spot."
-    ""
 
-# game/episode020.rpy:3350
+    "Ogni volta che spingevo in profondità nella fica bagnata di mia sorella, colpivo il suo punto debole."
+
+
 translate italian ep020_eva_sex_226f203a:
 
-    # "Every time I thrust deep into my girlfriend’s wet cunt, I hit her sweet spot."
-    ""
 
-# game/episode020.rpy:3351
+    "Ogni volta che spingevo a fondo nella fica bagnata della mia ragazza, colpivo il suo punto debole."
+
+
 translate italian ep020_eva_sex_d8f94fa0:
 
-    # "Soon we were both reduced to jagged moans and shallow breaths, completely consumed by the pleasure the joining of our two bodies gave us."
-    ""
 
-# game/episode020.rpy:3356
+    "Presto fummo entrambi ridotti a gemiti frastagliati e a respiri superficiali, completamente consumati dal piacere che l'unione dei nostri due corpi ci procurava."
+
+
 translate italian ep020_eva_sex_f7c8616d:
 
-    # c "I’m going to cum so hard."
-    c ""
 
-# game/episode020.rpy:3357
+    c "Sto per sborrare così tanto."
+
+
 translate italian ep020_eva_sex_d1092d2a:
 
-    # e "Yes, I want it all!"
-    e ""
 
-# game/episode020.rpy:3359
+    e "Sì, lo voglio tutto!"
+
+
 translate italian ep020_eva_sex_c9906688:
 
-    # "I wanted us to stay like that forever, but with ever push I came closer to my breaking point."
-    ""
 
-# game/episode020.rpy:3360
+    "Volevo che rimanessimo così per sempre, ma ad ogni spinta mi avvicinavo al mio punto di rottura."
+
+
 translate italian ep020_eva_sex_57ccfafc:
 
-    # "Eva was close too, as evidenced by her heavy moans and the grip of her arm around my neck."
-    ""
 
-# game/episode020.rpy:3364
+    "Anche Eva era vicina, come dimostravano i suoi gemiti pesanti e la stretta del suo braccio intorno al mio collo."
+
+
 translate italian ep020_eva_sex_978e9ece:
 
-    # c "I’m going to cum so deep inside you."
-    c ""
 
-# game/episode020.rpy:3365
+    c "Sto per sborrare così profondamente dentro di te."
+
+
 translate italian ep020_eva_sex_d3665423:
 
-    # e "Yes, I want it so bad!"
-    e ""
 
-# game/episode020.rpy:3367
+    e "Sì, lo voglio così tanto!"
+
+
 translate italian ep020_eva_sex_63614076:
 
-    # e "Breed me, [p_name_short]!"
-    e ""
 
-# game/episode020.rpy:3369
+    e "Sanguinami, [p_name_short]!"
+
+
 translate italian ep020_eva_sex_393f9abc:
 
-    # e "Breed your sister!"
-    e ""
 
-# game/episode020.rpy:3372
+    e "Sborra tua sorella!"
+
+
 translate italian ep020_eva_sex_b5fa3301:
 
-    # e "Shoot your sister full of cum!"
-    e ""
 
-# game/episode020.rpy:3374
+    e "Riempi tua sorella di sperma!"
+
+
 translate italian ep020_eva_sex_858eda69:
 
-    # e "Shoot me full of cum!"
-    e ""
 
-# game/episode020.rpy:3375
+    e "Spara a me pieno di sborra!"
+
+
 translate italian ep020_eva_sex_7a74527f:
 
-    # "I thrust again and drove Eva over the edge."
-    ""
 
-# game/episode020.rpy:3380
+    "Spinsi di nuovo e feci arrivare Eva al limite."
+
+
 translate italian ep020_eva_sex_403db5e7:
 
-    # "She came, just as I released my seed inside her."
-    ""
 
-# game/episode020.rpy:3381
+    "Venne, proprio mentre rilasciavo il mio seme dentro di lei."
+
+
 translate italian ep020_eva_sex_f713c3ba:
 
-    # e "I can feel it, it’s so warm inside me!"
-    e ""
 
-# game/episode020.rpy:3383
+    e "Lo sento, è così caldo dentro di me!"
+
+
 translate italian ep020_eva_sex_4e8e765f:
 
-    # "My dick pumped streams of cum into my sister’s convulsing pussy."
-    ""
 
-# game/episode020.rpy:3385
+    "Il mio uccello pompò fiumi di sperma nella figa convulsa di mia sorella."
+
+
 translate italian ep020_eva_sex_3da0cddf:
 
-    # "My dick pumped streams of cum into Eva’s convulsing pussy."
-    ""
 
-# game/episode020.rpy:3386
+    "Il mio cazzo ha pompato fiumi di sperma nella figa convulsa di Eva."
+
+
 translate italian ep020_eva_sex_b2712531:
 
-    # e "More!{w} More!"
-    e ""
 
-# game/episode020.rpy:3389
+    e "Ancora! {w} Ancora!"
+
+
 translate italian ep020_eva_sex_5ca0c656:
 
-    # "I stayed inside Eva, until my erection diminished and my cock slipped out of her."
-    ""
 
-# game/episode020.rpy:3390
+    "Rimasi dentro Eva, finché la mia erezione non diminuì e il mio cazzo scivolò fuori da lei."
+
+
 translate italian ep020_eva_sex_23f77017:
 
-    # "Cum oozed out of her slit, coating the bed sheets."
-    ""
 
-# game/episode020.rpy:3393
+    "La sborra fuoriusciva dalla sua fessura, ricoprendo le lenzuola del letto."
+
+
 translate italian ep020_eva_sex_df45e3b2:
 
-    # c "I’m cumming!"
-    c ""
 
-# game/episode020.rpy:3394
+    c "Sto sborrando!"
+
+
 translate italian ep020_eva_sex_d3665423_1:
 
-    # e "Yes, I want it so bad!"
-    e ""
 
-# game/episode020.rpy:3396
+    e "Sì, lo voglio così tanto!"
+
+
 translate italian ep020_eva_sex_dd7511b0:
 
-    # "I made my last rapid thrusts, driving my sister over the edge."
-    ""
 
-# game/episode020.rpy:3398
+    "Diedi le mie ultime rapide spinte, portando mia sorella al limite."
+
+
 translate italian ep020_eva_sex_b5f99b95:
 
-    # "I made my last rapid thrusts, driving Eva over the edge."
-    ""
 
-# game/episode020.rpy:3403
+    "Feci le mie ultime spinte rapide, portando Eva al limite."
+
+
 translate italian ep020_eva_sex_903f7d9b:
 
-    # "She came, just as I slipped out of her pussy and shot my seed on her body."
-    ""
 
-# game/episode020.rpy:3406
+    "Lei venne, proprio mentre io scivolavo fuori dalla sua figa e sparavo il mio seme sul suo corpo."
+
+
 translate italian ep020_eva_sex_424a2482:
 
-    # e "Mmmm, so much!{w} So warm!"
-    e ""
 
-# game/episode020.rpy:3409
+    e "Mmmm, così tanto! {w} Così caldo!"
+
+
 translate italian ep020_eva_sex_496945a3:
 
-    # c "I’m going to cover your face!"
-    c ""
 
-# game/episode020.rpy:3410
+    c "Ti coprirò il viso!"
+
+
 translate italian ep020_eva_sex_d3665423_2:
 
-    # e "Yes, I want it so bad!"
-    e ""
 
-# game/episode020.rpy:3411
+    e "Sì, lo voglio così tanto!"
+
+
 translate italian ep020_eva_sex_08fa54d6:
 
-    # e "Treat me like a slut and make a mess of my face!"
-    e ""
 
-# game/episode020.rpy:3413
+    e "Trattami come una puttana e sporcami la faccia!"
+
+
 translate italian ep020_eva_sex_dd7511b0_1:
 
-    # "I made my last rapid thrusts, driving my sister over the edge."
-    ""
 
-# game/episode020.rpy:3415
-translate italian ep020_eva_sex_b5f99b95_1:
+    "Ho dato le ultime rapide spinte, portando mia sorella al limite."
 
-    # "I made my last rapid thrusts, driving Eva over the edge."
-    ""
 
-# game/episode020.rpy:3417
 translate italian ep020_eva_sex_67da9668:
 
-    # "She came, just as I slipped out of her pussy and sat on top of her."
-    ""
 
-# game/episode020.rpy:3419
+    "Venne, proprio quando uscii dalla sua figa e mi sedetti sopra di lei."
+
+
 translate italian ep020_eva_sex_d29f8882:
 
-    # "My sister lifted a quivering arm and stroked my cock to make me climax."
-    ""
 
-# game/episode020.rpy:3421
+    "Mia sorella sollevò un braccio tremante e mi accarezzò il cazzo per farmi raggiungere l'orgasmo."
+
+
 translate italian ep020_eva_sex_ca3b4822:
 
-    # "Eva lifted a quivering arm and stroked my cock to make me climax."
-    ""
 
-# game/episode020.rpy:3422
+    "Eva sollevò un braccio tremante e mi accarezzò il cazzo per farmi raggiungere l'orgasmo."
+
+
 translate italian ep020_eva_sex_008cbf89:
 
-    # e "Cum for me!"
-    e ""
 
-# game/episode020.rpy:3427
+    e "Sborra per me!"
+
+
 translate italian ep020_eva_sex_82a85036:
 
-    # "I didn’t need much encouragement and shot my load onto her face and inside her open mouth."
-    ""
 
-# game/episode020.rpy:3428
+    "Non ho avuto bisogno di molti incoraggiamenti e ho sparato il mio carico sul suo viso e dentro la sua bocca aperta."
+
+
 translate italian ep020_eva_sex_81032120:
 
-    # e "Mmmm, so much!"
-    e ""
 
-# game/episode020.rpy:3432
+    e "Mmmm, così tanto!"
+
+
 translate italian ep020_eva_sex_eed460e6:
 
-    # "My sister swallowed my warm seed as her body twitched in the last throes of her orgasm."
-    ""
 
-# game/episode020.rpy:3434
+    "Mia sorella ingoiò il mio seme caldo mentre il suo corpo si contorceva nelle ultime pulsazioni del suo orgasmo."
+
+
 translate italian ep020_eva_sex_118609f1:
 
-    # "Eva swallowed my warm seed as her body twitched in the last throes of her orgasm."
-    ""
 
-# game/episode020.rpy:3439
+    "Eva ingoiò il mio seme caldo mentre il suo corpo si contorceva nelle ultime pulsazioni dell'orgasmo."
+
+
 translate italian ep020_eva_sex_58afefc2:
 
-    # "Eva nestled herself on top of my chest and sighed contentedly."
-    ""
 
-# game/episode020.rpy:3441
+    "Eva si accoccolò sul mio petto e sospirò soddisfatta."
+
+
 translate italian ep020_eva_sex_b283128c:
 
-    # e "You must think I’m stupid, but every time we have sex I hope tonight is the night..."
-    e ""
 
-# game/episode020.rpy:3442
+    e "Penserai che sono stupida, ma ogni volta che facciamo sesso spero che questa sia la notte giusta..."
+
+
 translate italian ep020_eva_sex_735c8b7e:
 
-    # c "That part about breeding you wasn’t just dirty talk."
-    c ""
 
-# game/episode020.rpy:3444
+    c "La parte in cui parlava di farti accoppiare non era solo un discorso sconcio."
+
+
 translate italian ep020_eva_sex_8f40646d:
 
-    # e "Absolutely not!"
-    e ""
 
-# game/episode020.rpy:3445
+    e "Assolutamente no!"
+
+
 translate italian ep020_eva_sex_ef89ac53:
 
-    # e "The sooner you put a baby in me, the better."
-    e ""
 
-# game/episode020.rpy:3448
+    e "Prima mi metti un bambino dentro, meglio è."
+
+
 translate italian ep020_eva_sex_e62464e9:
 
-    # e "I probably say it every time we have sex, but this was the best one yet."
-    e ""
 
-# game/episode020.rpy:3449
+    e "Probabilmente lo dico ogni volta che facciamo sesso, ma questo è stato il migliore."
+
+
 translate italian ep020_eva_sex_0d83b856:
 
-    # c "That doesn’t imply that the other times were terrible, does it?"
-    c ""
 
-# game/episode020.rpy:3450
+    c "Questo non significa che le altre volte siano state terribili, vero?"
+
+
 translate italian ep020_eva_sex_4ff1a8cf:
 
-    # e "No silly, just that we manage to get even better every time."
-    e ""
 
-# game/episode020.rpy:3451
+    e "No, è solo che ogni volta riusciamo a migliorare."
+
+
 translate italian ep020_eva_sex_23e0a2c8:
 
-    # c "I couldn’t agree more."
-    c ""
 
-# game/episode020.rpy:3453
+    c "Non potrei essere più d'accordo."
+
+
 translate italian ep020_eva_sex_821e6d0a:
 
-    # e "Promise me we’ll keep trying."
-    e ""
 
-# game/episode020.rpy:3455
+    e "Promettimi che continueremo a provarci."
+
+
 translate italian ep020_eva_sex_c84bc8d3:
 
-    # e "Promise me we’ll keep trying to improve."
-    e ""
 
-# game/episode020.rpy:3456
+    e "Promettimi che continueremo a cercare di migliorare."
+
+
 translate italian ep020_eva_sex_afd9d90a:
 
-    # c "I don’t need much encouragement on that front, to be honest."
-    c ""
 
-# game/episode020.rpy:3457
+    c "Non ho bisogno di molti incoraggiamenti su questo fronte, a dire il vero."
+
+
 translate italian ep020_eva_sex_e16422c0:
 
-    # e "Good, I figured as much."
-    e ""
 
-# game/episode020.rpy:3462
+    e "Bene, lo immaginavo."
+
+
 translate italian ep020_eva_sex_0de6fa46:
 
-    # "Eva and I kissed and fell asleep."
-    ""
 
-# game/episode020.rpy:3465
+    "Eva e io ci baciammo e ci addormentammo."
+
+
 translate italian ep020_eva_sex_ba569084:
 
-    # "In the morning, we went our separate ways, but not before cuddling for sometime in the light of the rising sun."
-    ""
 
-# game/episode020.rpy:3471
+    "Al mattino le nostre strade si separarono, ma non prima di esserci coccolati per un po' alla luce del sole nascente."
+
+
 translate italian ep020_paclerara_thyia_massage_a000dc99:
 
-    # "Thyia had been overseeing maintenance of the Bastard and working on her own pet project for days on end."
-    ""
 
-# game/episode020.rpy:3472
+    "Thyia aveva supervisionato la manutenzione del Bastardo e lavorato al suo progetto personale per giorni e giorni."
+
+
 translate italian ep020_paclerara_thyia_massage_71bcc9b8:
 
-    # "Every time I met her, she was either covered in grease or conducting loud conversations with random engineers about the cost of work."
-    ""
 
-# game/episode020.rpy:3473
+    "Ogni volta che la incontravo, era ricoperta di grasso o stava conducendo conversazioni ad alta voce con ingegneri a caso sul costo del lavoro."
+
+
 translate italian ep020_paclerara_thyia_massage_0f6385d3:
 
-    # "Looking at her work schedule, Thyia hadn’t taken a meaningful break since we arrived on Paclerara."
-    ""
 
-# game/episode020.rpy:3474
+    "Guardando il suo programma di lavoro, Thyia non si era mai presa una pausa significativa da quando eravamo arrivati su Paclerara."
+
+
 translate italian ep020_paclerara_thyia_massage_722d15eb:
 
-    # "So I booked us a spot at the wellness center in the Residence and asked Thyia to come."
-    ""
 
-# game/episode020.rpy:3476
+    "Così prenotai un posto al centro benessere del residence e chiesi a Thyia di venire."
+
+
 translate italian ep020_paclerara_thyia_massage_e980badb:
 
-    # "She was waiting for me already, eyeing me wearily as I entered."
-    ""
 
-# game/episode020.rpy:3477
+    "Mi stava già aspettando e mi ha guardato stancamente quando sono entrato."
+
+
 translate italian ep020_paclerara_thyia_massage_0259f040:
 
-    # th "What are you up to, [p_name_short]?"
-    th ""
 
-# game/episode020.rpy:3478
+    th "Cosa stai facendo, [p_name_short]?"
+
+
 translate italian ep020_paclerara_thyia_massage_d90f04cf:
 
-    # c "I booked us several hours of relaxation."
-    c ""
 
-# game/episode020.rpy:3480
+    c "Ho prenotato diverse ore di relax."
+
+
 translate italian ep020_paclerara_thyia_massage_e7af0f1d:
 
-    # th "Why did you ask me to wear a bikini?"
-    th ""
 
-# game/episode020.rpy:3481
+    th "Perché mi hai chiesto di indossare il bikini?"
+
+
 translate italian ep020_paclerara_thyia_massage_6a37dd36:
 
-    # c "Because you look great in it."
-    c ""
 
-# game/episode020.rpy:3482
+    c "Perché ti sta benissimo."
+
+
 translate italian ep020_paclerara_thyia_massage_fa8e4c40:
 
-    # c "And we’re getting massages."
-    c ""
 
-# game/episode020.rpy:3483
+    c "E faremo dei massaggi."
+
+
 translate italian ep020_paclerara_thyia_massage_daf732c6:
 
-    # th "Massages?"
-    th ""
 
-# game/episode020.rpy:3484
+    th "Massaggi?"
+
+
 translate italian ep020_paclerara_thyia_massage_38279677:
 
-    # c "Yes, don’t look at me like it’s some form of torture."
-    c ""
 
-# game/episode020.rpy:3485
+    c "Sì, non guardarmi come se fosse una forma di tortura."
+
+
 translate italian ep020_paclerara_thyia_massage_da4db037:
 
-    # th "I’m not, I just haven’t had one."
-    th ""
 
-# game/episode020.rpy:3486
+    th "Non lo sono, è solo che non ne ho mai fatto uno."
+
+
 translate italian ep020_paclerara_thyia_massage_cccbfa01:
 
-    # c "You’re in for a treat then."
-    c ""
 
-# game/episode020.rpy:3488
+    c "Allora ti aspetta una sorpresa."
+
+
 translate italian ep020_paclerara_thyia_massage_6412ede8:
 
-    # "Thyia and I moved to the area where the massage tables were set up."
-    ""
 
-# game/episode020.rpy:3489
+    "Io e Thyia ci spostammo nell'area dove erano stati allestiti i lettini per i massaggi."
+
+
 translate italian ep020_paclerara_thyia_massage_c7b79f4c:
 
-    # "Two Twi’ll were already waiting for us."
-    ""
 
-# game/episode020.rpy:3491
+    "Due Twi'll ci stavano già aspettando."
+
+
 translate italian ep020_paclerara_thyia_massage_67e99213:
 
-    # woman "Please lie down on your stomach and just enjoy."
-    woman ""
 
-# game/episode020.rpy:3493
+    woman "Per favore, sdraiati a pancia in giù e goditi il massaggio."
+
+
 translate italian ep020_paclerara_thyia_massage_aff2c8ff:
 
-    # "Thyia got down on the bed with some reluctance."
-    ""
 
-# game/episode020.rpy:3494
+    "Thyia si sdraiò sul lettino con una certa riluttanza."
+
+
 translate italian ep020_paclerara_thyia_massage_e8fc4df4:
 
-    # th "You know I’m going to hold it against you for the rest of your life if this turns out to be a mistake."
-    th ""
 
-# game/episode020.rpy:3495
+    th "Sai che te lo rinfaccerò per il resto della tua vita se questo si rivelerà un errore."
+
+
 translate italian ep020_paclerara_thyia_massage_11e73def:
 
-    # c "Acknowledged."
-    c ""
 
-# game/episode020.rpy:3497
+    c "Riconosciuto."
+
+
 translate italian ep020_paclerara_thyia_massage_e175d0d1:
 
-    # "Thyia’s protestations died down almost immediately when the Twi’ll woman started on her shoulders."
-    ""
 
-# game/episode020.rpy:3498
+    "Le proteste di Thyia si spensero quasi subito quando la donna Twi'll iniziò a lavorare sulle sue spalle."
+
+
 translate italian ep020_paclerara_thyia_massage_d2522572:
 
-    # "A big groan of satisfaction escaped from Thyia and I couldn’t suppress a smile."
-    ""
 
-# game/episode020.rpy:3499
+    "Thyia emise un grosso gemito di soddisfazione e io non riuscii a trattenere un sorriso."
+
+
 translate italian ep020_paclerara_thyia_massage_cb6b10c2:
 
-    # c "That bad, huh?"
-    c ""
 
-# game/episode020.rpy:3500
+    c "Così male, eh?"
+
+
 translate italian ep020_paclerara_thyia_massage_15fe36d1:
 
-    # th "Yes."
-    th ""
 
-# game/episode020.rpy:3501
+    th "Si."
+
+
 translate italian ep020_paclerara_thyia_massage_917ce1e9:
 
-    # th "I wish it would never end, though."
-    th ""
 
-# game/episode020.rpy:3502
+    th "Vorrei che non finisse mai, però."
+
+
 translate italian ep020_paclerara_thyia_massage_21c2b30c:
 
-    # "The women continued working on our backs, covering much of our bodies in nourishing oils."
-    ""
 
-# game/episode020.rpy:3503
+    "Le donne continuarono a lavorare sulle nostre schiene, ricoprendo gran parte dei nostri corpi con oli nutrienti."
+
+
 translate italian ep020_paclerara_thyia_massage_fe42b56a:
 
-    # "I felt a calm coming over me, which lasted until my masseuse told me she was done."
-    ""
 
-# game/episode020.rpy:3505
+    "Sentii una sensazione di calma che durò fino a quando la mia massaggiatrice mi disse che aveva finito."
+
+
 translate italian ep020_paclerara_thyia_massage_1ef82dbf:
 
-    # woman "You have the place to yourselves for the next hours, nobody has booked a spot."
-    woman ""
 
-# game/episode020.rpy:3506
+    woman "Avete il posto tutto per voi per le prossime ore, nessuno ha prenotato un posto."
+
+
 translate italian ep020_paclerara_thyia_massage_e897fbb0:
 
-    # c "Thank you."
-    c ""
 
-# game/episode020.rpy:3508
+    c "Grazie."
+
+
 translate italian ep020_paclerara_thyia_massage_030b29fa:
 
-    # th "I know you’re going to harp on me for eternity, but I didn’t want this to end."
-    th ""
 
-# game/episode020.rpy:3509
+    th "So che mi tormenterai per l'eternità, ma non volevo che finisse."
+
+
 translate italian ep020_paclerara_thyia_massage_1a8e5db3:
 
-    # c "That good?"
-    c ""
 
-# game/episode020.rpy:3510
+    c "È così bello?"
+
+
 translate italian ep020_paclerara_thyia_massage_76354432:
 
-    # th "I feel so relaxed."
-    th ""
 
-# game/episode020.rpy:3511
+    th "Mi sento così rilassata."
+
+
 translate italian ep020_paclerara_thyia_massage_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode020.rpy:3512
+    c "Anch'io."
+
+
 translate italian ep020_paclerara_thyia_massage_333ef0f4:
 
-    # c "And we have the place to ourselves for the coming hours."
-    c ""
 
-# game/episode020.rpy:3513
+    c "E abbiamo la casa tutta per noi per le prossime ore."
+
+
 translate italian ep020_paclerara_thyia_massage_3c947c7e:
 
-    # th "I heard, are you going to massage me now?"
-    th ""
 
-# game/episode020.rpy:3514
+    th "Ho sentito, hai intenzione di massaggiarmi ora?"
+
+
 translate italian ep020_paclerara_thyia_massage_fb783e98:
 
-    # c "If you want to."
-    c ""
 
-# game/episode020.rpy:3515
+    c "Se vuoi."
+
+
 translate italian ep020_paclerara_thyia_massage_72ac0279:
 
-    # c "Though I might make things worse instead of loosening up more muscles."
-    c ""
 
-# game/episode020.rpy:3516
+    c "Anche se potrei peggiorare le cose invece di sciogliere i muscoli."
+
+
 translate italian ep020_paclerara_thyia_massage_31f3c4b6:
 
-    # th "I’m willing to take that chance."
-    th ""
 
-# game/episode020.rpy:3525
+    th "Sono disposto a correre questo rischio."
+
+
 translate italian ep020_paclerara_thyia_sex_ad644deb:
 
-    # "I climbed on top of Thyia and started working on her back."
-    ""
 
-# game/episode020.rpy:3526
+    "Sono salito sopra Thyia e ho iniziato a lavorare sulla sua schiena."
+
+
 translate italian ep020_paclerara_thyia_sex_961260d5:
 
-    # th "Mmmm, I didn’t know you did full-body massages."
-    th ""
 
-# game/episode020.rpy:3527
+    th "Mmmm, non sapevo che facessi massaggi su tutto il corpo."
+
+
 translate italian ep020_paclerara_thyia_sex_ac2bea30:
 
-    # c "Me neither."
-    c ""
 
-# game/episode020.rpy:3529
+    c "Nemmeno io."
+
+
 translate italian ep020_paclerara_thyia_sex_aedaeff0:
 
-    # "The touch of Thyia’s soft skin under my hands awoke my arousal."
-    ""
 
-# game/episode020.rpy:3531
+    "Il tocco della pelle morbida di Thyia sotto le mie mani risvegliò la mia eccitazione."
+
+
 translate italian ep020_paclerara_thyia_sex_30b3a324:
 
-    # "Before she could notice my growing erection, I asked Thyia to sit up and undo her top."
-    ""
 
-# game/episode020.rpy:3532
+    "Prima che potesse notare la mia crescente erezione, chiesi a Thyia di sedersi e di slacciarsi il top."
+
+
 translate italian ep020_paclerara_thyia_sex_c69fa6c9:
 
-    # th "You’re not as firm as that woman earlier, but this is nice in a different way."
-    th ""
 
-# game/episode020.rpy:3534
+    th "Non sei soda come quella donna di prima, ma questo è bello in un modo diverso."
+
+
 translate italian ep020_paclerara_thyia_sex_7a2abb28:
 
-    # "I caressed her back and lifted one of her arms, careful not to touch her breasts."
-    ""
 
-# game/episode020.rpy:3536
+    "Le accarezzai la schiena e le sollevai un braccio, facendo attenzione a non toccarle il seno."
+
+
 translate italian ep020_paclerara_thyia_sex_ad4cd003:
 
-    # th "I do have a feeling you’re teasing me a little."
-    th ""
 
-# game/episode020.rpy:3537
+    th "Ho la sensazione che tu mi stia stuzzicando un po'."
+
+
 translate italian ep020_paclerara_thyia_sex_13251290:
 
-    # c "Maybe."
-    c ""
 
-# game/episode020.rpy:3538
+    c "Forse."
+
+
 translate italian ep020_paclerara_thyia_sex_2a782834:
 
-    # c "Why don’t you get out of your bikini bottom?"
-    c ""
 
-# game/episode020.rpy:3540
+    c "Perché non ti togli lo slip del bikini?"
+
+
 translate italian ep020_paclerara_thyia_sex_d0d37325:
 
-    # th "What, here?"
-    th ""
 
-# game/episode020.rpy:3541
+    th "Cosa, qui?"
+
+
 translate italian ep020_paclerara_thyia_sex_01a1a014:
 
-    # c "Why not."
-    c ""
 
-# game/episode020.rpy:3543
+    c "Perché no."
+
+
 translate italian ep020_paclerara_thyia_sex_4d8df3f7:
 
-    # c "We haven’t seen a soul since we entered and nothing’s been booked."
-    c ""
 
-# game/episode020.rpy:3544
+    c "Non abbiamo visto anima viva da quando siamo entrati e non è stato prenotato nulla."
+
+
 translate italian ep020_paclerara_thyia_sex_fd7662c2:
 
-    # "Thyia didn’t need more encouragement and slipped out of her bikini bottom."
-    ""
 
-# game/episode020.rpy:3549
+    "Thyia non ha avuto bisogno di altri incoraggiamenti e si è tolta lo slip del bikini."
+
+
 translate italian ep020_paclerara_thyia_sex_cea2826e:
 
-    # "I made her lie down on the end of the massage table and kneeled in front of her."
-    ""
 
-# game/episode020.rpy:3551
+    "La feci sdraiare all'estremità del lettino da massaggio e mi inginocchiai davanti a lei."
+
+
 translate italian ep020_paclerara_thyia_sex_5c7a1b67:
 
-    # "Thyia exhaled heavily as soon as my tongue connected with her pussy."
-    ""
 
-# game/episode020.rpy:3552
+    "Thyia espirò pesantemente non appena la mia lingua entrò in contatto con la sua figa."
+
+
 translate italian ep020_paclerara_thyia_sex_aeeddfc4:
 
-    # "She wrapped her legs around my head and pulled me closer toward her slit."
-    ""
 
-# game/episode020.rpy:3554
+    "Avvolse le gambe intorno alla mia testa e mi avvicinò alla sua fessura."
+
+
 translate italian ep020_paclerara_thyia_sex_ba2ac7d2:
 
-    # th "Oh yes, [p_name], right there!"
-    th ""
 
-# game/episode020.rpy:3559
+    th "Oh sì, [p_name], proprio lì!"
+
+
 translate italian ep020_paclerara_thyia_sex_c01375e7:
 
-    # "Thyia’s pussy was wet in mere seconds."
-    ""
 
-# game/episode020.rpy:3560
+    "La figa di Thyia si bagnò in pochi secondi."
+
+
 translate italian ep020_paclerara_thyia_sex_1e6921bb:
 
-    # "I kept lapping up her salty juices, as she writhed in pleasure on the massage bed."
-    ""
 
-# game/episode020.rpy:3562
+    "Continuai a leccare i suoi succhi salati, mentre lei si contorceva di piacere sul lettino da massaggio."
+
+
 translate italian ep020_paclerara_thyia_sex_98fbda51:
 
-    # "I managed to whip her up to such a frenzy that she arched her back and slammed back on the bed multiple times, moaning with abandon."
-    ""
 
-# game/episode020.rpy:3563
+    "Riuscii a farla impazzire a tal punto che inarcò la schiena e sbatté più volte sul lettino, gemendo con abbandono."
+
+
 translate italian ep020_paclerara_thyia_sex_8576b09d:
 
-    # th "Please don’t stop!"
-    th ""
 
-# game/episode020.rpy:3565
+    th "Ti prego, non fermarti!"
+
+
 translate italian ep020_paclerara_thyia_sex_825d6c6e:
 
-    # c "I know something better."
-    c ""
 
-# game/episode020.rpy:3566
+    c "Conosco qualcosa di meglio."
+
+
 translate italian ep020_paclerara_thyia_sex_8d35989e:
 
-    # "Thyia tried to keep my head between her legs, but I managed to slip away and get out of my swimming shorts."
-    ""
 
-# game/episode020.rpy:3567
+    "Thyia cercò di trattenere la mia testa tra le sue gambe, ma io riuscii a sfuggirle e a togliermi i pantaloncini da bagno."
+
+
 translate italian ep020_paclerara_thyia_sex_bdf69037:
 
-    # "She eyed my erection hungrily and already opened her legs, eager for what was to come."
-    ""
 
-# game/episode020.rpy:3572
+    "Lei guardava la mia erezione con fame e già apriva le gambe, desiderosa di quello che sarebbe successo."
+
+
 translate italian ep020_paclerara_thyia_sex_9dce5912:
 
-    # "Steadying her, I drove my cock into her wet gash."
-    ""
 
-# game/episode020.rpy:3573
+    "Tenendola ferma, spinsi il mio cazzo nel suo buco umido."
+
+
 translate italian ep020_paclerara_thyia_sex_8bd2670d:
 
-    # "She quivered as my length disappeared inside her."
-    ""
 
-# game/episode020.rpy:3575
+    "Lei fremette quando la mia lunghezza scomparve dentro di lei."
+
+
 translate italian ep020_paclerara_thyia_sex_37ff8331:
 
-    # th "That dick feels so good in me."
-    th ""
 
-# game/episode020.rpy:3576
+    th "Quel cazzo è così bello dentro di me."
+
+
 translate italian ep020_paclerara_thyia_sex_568dac67:
 
-    # "Holding her leg, I thrust deep, luxuriating in the pleasure her ribbed tunnel gave me."
-    ""
 
-# game/episode020.rpy:3577
+    "Tenendo la sua gamba, spinsi in profondità, godendo del piacere che mi dava il suo tunnel scanalato."
+
+
 translate italian ep020_paclerara_thyia_sex_a0f0a1fb:
 
-    # "The massage table continued to creak under the onslaught, but we paid it no heed."
-    ""
 
-# game/episode020.rpy:3580
+    "Il lettino da massaggio continuava a scricchiolare sotto l'assalto, ma noi non ci facevamo caso."
+
+
 translate italian ep020_paclerara_thyia_sex_720d33fa:
 
-    # "Thyia had a glassy look in her eyes, drunk on cock."
-    ""
 
-# game/episode020.rpy:3582
+    "Thyia aveva uno sguardo vitreo, ubriaca di cazzo."
+
+
 translate italian ep020_paclerara_thyia_sex_4d501955:
 
-    # "I could feel her muscles tighten with every thrust."
-    ""
 
-# game/episode020.rpy:3583
+    "Sentivo i suoi muscoli contrarsi a ogni spinta."
+
+
 translate italian ep020_paclerara_thyia_sex_09c914ca:
 
-    # "Her breathing became more rapid, until she exploded."
-    ""
 
-# game/episode020.rpy:3586
+    "Il suo respiro si fece più rapido, finché non esplose."
+
+
 translate italian ep020_paclerara_thyia_sex_69d38f1b:
 
-    # th "Fuck yes!{w} I’m cumming!"
-    th ""
 
-# game/episode020.rpy:3587
+    th "Cazzo, sì! {w} Sto sborrando!"
+
+
 translate italian ep020_paclerara_thyia_sex_2a69b810:
 
-    # th "Your dick is making me cum so hard!"
-    th ""
 
-# game/episode020.rpy:3588
+    th "Il tuo cazzo mi sta facendo sborrare così tanto!"
+
+
 translate italian ep020_paclerara_thyia_sex_11bb52ac:
 
-    # "A wealth of moisture suddenly flooded her vagina, acting as a stimulant to fuck her even more fiercely."
-    ""
 
-# game/episode020.rpy:3589
+    "Una grande quantità di umidità inondò improvvisamente la sua vagina, stimolandola a scoparla ancora più ferocemente."
+
+
 translate italian ep020_paclerara_thyia_sex_b6c3e496:
 
-    # "Thyia had little control over her muscles by now, such was the force of her orgasm."
-    ""
 
-# game/episode020.rpy:3590
+    "Thyia aveva ormai poco controllo sui suoi muscoli, tanta era la forza del suo orgasmo."
+
+
 translate italian ep020_paclerara_thyia_sex_56d7535b:
 
-    # "She threatened to fall back onto the massage table and the strain of holding her up was becoming a little uncomfortable."
-    ""
 
-# game/episode020.rpy:3591
+    "Rischiava di cadere sul lettino da massaggio e lo sforzo di tenerla in piedi stava diventando un po' scomodo."
+
+
 translate italian ep020_paclerara_thyia_sex_bf12c09b:
 
-    # c "Turn around, I want to see that juicy ass of yours."
-    c ""
 
-# game/episode020.rpy:3596
+    c "Girati, voglio vedere quel tuo culo succoso."
+
+
 translate italian ep020_paclerara_thyia_sex_c4b70e7c:
 
-    # "Thyia got off the table and turned her back toward me."
-    ""
 
-# game/episode020.rpy:3597
+    "Thyia scese dal lettino e si girò di spalle verso di me."
+
+
 translate italian ep020_paclerara_thyia_sex_8c877ba7:
 
-    # "Leaning on the massage table, she wiggled her ass invitingly in the air."
-    ""
 
-# game/episode020.rpy:3602
+    "Appoggiandosi al lettino, mosse il suo sedere invitante nell'aria."
+
+
 translate italian ep020_paclerara_thyia_sex_2b0cce47:
 
-    # "I didn’t hesitate and took her pussy from behind."
-    ""
 
-# game/episode020.rpy:3603
+    "Non esitai e le presi la figa da dietro."
+
+
 translate italian ep020_paclerara_thyia_sex_070f90aa:
 
-    # "My hands clamped on her ass, I rammed my dick inside her time and time again."
-    ""
 
-# game/episode020.rpy:3606
+    "Con le mani strette sul suo culo, le infilai il cazzo dentro più e più volte."
+
+
 translate italian ep020_paclerara_thyia_sex_dbc8f73d:
 
-    # "Thyia grunted slurred encouragements, her body curling up with pleasure."
-    ""
 
-# game/episode020.rpy:3607
+    "Thyia emetteva dei grugniti di incoraggiamento, il suo corpo si incurvava dal piacere."
+
+
 translate italian ep020_paclerara_thyia_sex_97f3bf86:
 
-    # c "I love it when you’re desperate for my cock!"
-    c ""
 
-# game/episode020.rpy:3608
+    c "Mi piace quando sei disperata per il mio cazzo!"
+
+
 translate italian ep020_paclerara_thyia_sex_cfeb01e1:
 
-    # th "Yes, yes I am!"
-    th ""
 
-# game/episode020.rpy:3609
+    th "Sì, sì, lo sono!"
+
+
 translate italian ep020_paclerara_thyia_sex_b728d8a6:
 
-    # th "Please give it to me!"
-    th ""
 
-# game/episode020.rpy:3610
+    th "Ti prego, dammelo!"
+
+
 translate italian ep020_paclerara_thyia_sex_c80eb7dc:
 
-    # "The massage table creaked and shifted as I drove into Thyia."
-    ""
 
-# game/episode020.rpy:3612
+    "Il lettino per massaggi scricchiolava e si spostava mentre mi infilavo dentro Thyia."
+
+
 translate italian ep020_paclerara_thyia_sex_e12685d6:
 
-    # th "Oh [p_name_short], yes!{w} Yes!"
-    th ""
 
-# game/episode020.rpy:3613
+    th "Oh [p_name_short], sì! {w} Sì!"
+
+
 translate italian ep020_paclerara_thyia_sex_0f9e3ca1:
 
-    # c "Do you want me to fuck you harder?"
-    c ""
 
-# game/episode020.rpy:3614
+    c "Vuoi che ti scopi più forte?"
+
+
 translate italian ep020_paclerara_thyia_sex_29ec9854:
 
-    # th "Yes, fuck me harder!"
-    th ""
 
-# game/episode020.rpy:3620
+    th "Sì, scopami più forte!"
+
+
 translate italian ep020_paclerara_thyia_sex_77a07113:
 
-    # "I fucked Thyia with such force that she was bodily shifted forward at times, her ass quivering on the rhythm of my thrusts."
-    ""
 
-# game/episode020.rpy:3621
+    "Scopai Thyia con una tale forza che a volte si spostava in avanti, il suo culo fremeva al ritmo delle mie spinte."
+
+
 translate italian ep020_paclerara_thyia_sex_02bd9fbc:
 
-    # "My orgasm wasn’t far away and I already knew how I wanted to finish."
-    ""
 
-# game/episode020.rpy:3626
+    "Il mio orgasmo non era lontano e sapevo già come volevo concludere."
+
+
 translate italian ep020_paclerara_thyia_sex_2395236d:
 
-    # c "I’m going to breed that pussy of yours, pump you so full of cum."
-    c ""
 
-# game/episode020.rpy:3628
+    c "Ti farò godere quella figa, ti pomperò fino a riempirti di sperma."
+
+
 translate italian ep020_paclerara_thyia_sex_3037177c:
 
-    # c "I’m going to pump you so full of cum."
-    c ""
 
-# game/episode020.rpy:3630
+    c "Ti riempirò di sperma."
+
+
 translate italian ep020_paclerara_thyia_sex_b2c86914:
 
-    # th "Yes, [p_name_short], cum all inside me!"
-    th ""
 
-# game/episode020.rpy:3631
+    th "Sì, [p_name_short], sborrami dentro!"
+
+
 translate italian ep020_paclerara_thyia_sex_2080d921:
 
-    # th "That’s it!{w} That’s it!"
-    th ""
 
-# game/episode020.rpy:3633
+    th "Così! {w} Così!"
+
+
 translate italian ep020_paclerara_thyia_sex_cc142b13:
 
-    # th "Put your baby inside of me!"
-    th ""
 
-# game/episode020.rpy:3639
+    th "Metti il tuo bambino dentro di me!"
+
+
 translate italian ep020_paclerara_thyia_sex_3e35f8ba:
 
-    # "I shot my load inside her wet slit moments after."
-    ""
 
-# game/episode020.rpy:3642
+    "Poco dopo ho sparato il mio carico nella sua fessura bagnata."
+
+
 translate italian ep020_paclerara_thyia_sex_4360509f:
 
-    # "Warm seed came spilling out of her cunt as I removed my cock, oozing down her leg and dripping onto the ground."
-    ""
 
-# game/episode020.rpy:3646
+    "Il seme caldo uscì dalla sua fica mentre toglievo il mio cazzo, colando lungo la sua gamba e gocciolando sul terreno."
+
+
 translate italian ep020_paclerara_thyia_sex_4a7061f6:
 
-    # c "I want to cum on your face!"
-    c ""
 
-# game/episode020.rpy:3647
+    c "Voglio sborrare sulla tua faccia!"
+
+
 translate italian ep020_paclerara_thyia_sex_ed088a40:
 
-    # th "Yes, paint my face with your cum!"
-    th ""
 
-# game/episode020.rpy:3650
+    th "Sì, dipingimi la faccia con il tuo sperma!"
+
+
 translate italian ep020_paclerara_thyia_sex_8404ea30:
 
-    # "I slipped out of her and Thyia turned herself around quickly, her head now facing my cock."
-    ""
 
-# game/episode020.rpy:3651
+    "Mi sfilai da lei e Thyia si girò velocemente, con la testa rivolta verso il mio cazzo."
+
+
 translate italian ep020_paclerara_thyia_sex_dfe7c881:
 
-    # "She caressed her pussy as jerked myself off."
-    ""
 
-# game/episode020.rpy:3652
+    "Si accarezzò la figa mentre mi masturbavo."
+
+
 translate italian ep020_paclerara_thyia_sex_df45e3b2:
 
-    # c "I’m cumming!"
-    c ""
 
-# game/episode020.rpy:3653
+    c "Sto sborrando!"
+
+
 translate italian ep020_paclerara_thyia_sex_e5c4c718:
 
-    # th "Let it all out, baby!"
-    th ""
 
-# game/episode020.rpy:3658
+    th "Fallo uscire tutto, tesoro!"
+
+
 translate italian ep020_paclerara_thyia_sex_36328652:
 
-    # "I shot my load all over her face."
-    ""
 
-# game/episode020.rpy:3661
+    "Ho sparato il mio carico su tutto il suo viso."
+
+
 translate italian ep020_paclerara_thyia_sex_0e062088:
 
-    # "Warm seed splashed into her mouth and dripped from her face onto the ground."
-    ""
 
-# game/episode020.rpy:3664
+    "Il seme caldo le schizzò in bocca e le gocciolò dal viso al suolo."
+
+
 translate italian ep020_paclerara_thyia_sex_8c7839b5:
 
-    # c "I want to cum all over you!"
-    c ""
 
-# game/episode020.rpy:3666
+    c "Voglio sborrare su di te!"
+
+
 translate italian ep020_paclerara_thyia_sex_5c99a047:
 
-    # th "Yes, cum for me!"
-    th ""
 
-# game/episode020.rpy:3667
+    th "Sì, sborra per me!"
+
+
 translate italian ep020_paclerara_thyia_sex_c4c676f3:
 
-    # "I slipped out of her as I felt my climax coming to a head."
-    ""
 
-# game/episode020.rpy:3668
+    "Scivolai fuori da lei mentre sentivo che il mio climax stava arrivando al culmine."
+
+
 translate italian ep020_paclerara_thyia_sex_df45e3b2_1:
 
-    # c "I’m cumming!"
-    c ""
 
-# game/episode020.rpy:3669
+    c "Sto sborrando!"
+
+
 translate italian ep020_paclerara_thyia_sex_e5c4c718_1:
 
-    # th "Let it all out, baby!"
-    th ""
 
-# game/episode020.rpy:3675
+    th "Fallo uscire tutto, tesoro!"
+
+
 translate italian ep020_paclerara_thyia_sex_8918c0b4:
 
-    # "I shot my load all over back."
-    ""
 
-# game/episode020.rpy:3678
+    "Ho sparato il mio carico su tutta la schiena."
+
+
 translate italian ep020_paclerara_thyia_sex_f5f243fe:
 
-    # "Streaks of warm seed covered her back and oozed between her butt cheeks."
-    ""
 
-# game/episode020.rpy:3682
+    "Strisce di seme caldo le ricoprirono la schiena e trasudarono tra le sue chiappe."
+
+
 translate italian ep020_paclerara_thyia_sex_2b076bf4:
 
-    # th "That was the best massage I’ve ever had."
-    th ""
 
-# game/episode020.rpy:3683
+    th "È stato il miglior massaggio che abbia mai fatto."
+
+
 translate italian ep020_paclerara_thyia_sex_c5e664a6:
 
-    # c "Also the only massage."
-    c ""
 
-# game/episode020.rpy:3684
+    c "E anche l'unico massaggio."
+
+
 translate italian ep020_paclerara_thyia_sex_5da781b7:
 
-    # th "True, I don’t think anything can top this."
-    th ""
 
-# game/episode020.rpy:3685
+    th "È vero, non credo che qualcosa possa superare questo."
+
+
 translate italian ep020_paclerara_thyia_sex_39f26e8d:
 
-    # c "I’m willing to try."
-    c ""
 
-# game/episode020.rpy:3686
+    c "Sono disposto a provarci."
+
+
 translate italian ep020_paclerara_thyia_sex_b8ffc1f8:
 
-    # th "I’m glad to hear it."
-    th ""
 
-# game/episode020.rpy:3688
+    th "Sono felice di sentirlo."
+
+
 translate italian ep020_paclerara_thyia_sex_460c4f89:
 
-    # "We made out for a while on Thyia’s massage table."
-    ""
 
-# game/episode020.rpy:3689
+    "Abbiamo pomiciato per un po' sul lettino da massaggio di Thyia."
+
+
 translate italian ep020_paclerara_thyia_sex_2827f2a7:
 
-    # "After cleaning ourselves up we both slipped out of the wellness area and went our separate ways."
-    ""
 
-# game/episode020.rpy:3704
+    "Dopo esserci ripuliti, siamo usciti dall'area benessere e abbiamo preso strade diverse."
+
+
 translate italian ep020_paclerara_vess_jade_37de0311:
 
-    # "Do you want to enable watersports for this scene?"
-    ""
 
-# game/episode020.rpy:3708
+    "Vuoi abilitare gli sport acquatici per questa scena?"
+
+
 translate italian ep020_paclerara_vess_jade_e1b3f2a2:
 
-    # "Watersports enabled"
-    ""
 
-# game/episode020.rpy:3711
+    "Sport acquatici abilitati"
+
+
 translate italian ep020_paclerara_vess_jade_9a79f488:
 
-    # "Watersports disabled"
-    ""
 
-# game/episode020.rpy:3716
+    "Sport acquatici disattivati"
+
+
 translate italian ep020_paclerara_vess_jade_3d54d7d7:
 
-    # "When I entered the wellness area of the Residence, it pleased me to see Jade and Vess already present."
-    ""
 
-# game/episode020.rpy:3717
+    "Quando sono entrato nell'area benessere della Residenza, mi ha fatto piacere vedere Jade e Vess già presenti."
+
+
 translate italian ep020_paclerara_vess_jade_8d773b75:
 
-    # "I’d ordered them separately to attend me in their swimwear, earlier today."
-    ""
 
-# game/episode020.rpy:3718
+    "Avevo ordinato loro separatamente di venire a trovarmi in costume da bagno, all'inizio della giornata."
+
+
 translate italian ep020_paclerara_vess_jade_cb69c765:
 
-    # "The pool had to be booked in advance and there weren’t any other names on the list for the coming hours."
-    ""
 
-# game/episode020.rpy:3719
+    "La piscina doveva essere prenotata in anticipo e non c'erano altri nomi in lista per le prossime ore."
+
+
 translate italian ep020_paclerara_vess_jade_59466734:
 
-    # "It was safe to say we would be left alone for some time, a perfect opportunity for what I had in mind."
-    ""
 
-# game/episode020.rpy:3721
+    "Era sicuro che saremmo rimaste sole per un po' di tempo, un'opportunità perfetta per quello che avevo in mente."
+
+
 translate italian ep020_paclerara_vess_jade_da2fa2d4:
 
-    # c "Enjoying the water without me, ladies?"
-    c ""
 
-# game/episode020.rpy:3723
+    c "Vi godete l'acqua senza di me, signore?"
+
+
 translate italian ep020_paclerara_vess_jade_154deee9:
 
-    # j "We were both waiting for you, master."
-    j ""
 
-# game/episode020.rpy:3724
+    j "Ti stavamo aspettando, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode020.rpy:3725
+    c "Bene."
+
+
 translate italian ep020_paclerara_vess_jade_61aa47d2:
 
-    # c "I like that bikini on you, Vess."
-    c ""
 
-# game/episode020.rpy:3726
+    c "Mi piace quel bikini su di te, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_b59cb20d:
 
-    # ve "Thank you for the gift."
-    ve ""
 
-# game/episode020.rpy:3727
+    ve "Grazie per il regalo."
+
+
 translate italian ep020_paclerara_vess_jade_48eb6d58:
 
-    # c "Let me look at you."
-    c ""
 
-# game/episode020.rpy:3728
+    c "Lascia che ti guardi."
+
+
 translate italian ep020_paclerara_vess_jade_016d60b5:
 
-    # "I’d purposely bought the swimwear a size too small, causing the tight fabric to accentuate her features nicely."
-    ""
 
-# game/episode020.rpy:3730
+    "Avevo comprato di proposito il costume da bagno di una taglia in meno, in modo che il tessuto stretto accentuasse bene i suoi lineamenti."
+
+
 translate italian ep020_paclerara_vess_jade_ccc093f6:
 
-    # "Her cameltoe looked so juicy, I had to suppress the urge to stick my fingers inside her."
-    ""
 
-# game/episode020.rpy:3731
+    "Il suo cameltoe sembrava così succoso che dovetti reprimere l'impulso di infilarle le dita dentro."
+
+
 translate italian ep020_paclerara_vess_jade_1213736c:
 
-    # c "Turn around."
-    c ""
 
-# game/episode020.rpy:3733
+    c "Girati."
+
+
 translate italian ep020_paclerara_vess_jade_e963a5a5:
 
-    # "Vess showed me her ass, which I slapped for good measure."
-    ""
 
-# game/episode020.rpy:3734
+    "Vess mi mostrò il suo sedere, che io schiaffeggiai per buona misura."
+
+
 translate italian ep020_paclerara_vess_jade_9a0253d4:
 
-    # c "It almost seems a shame to get rid of that thing."
-    c ""
 
-# game/episode020.rpy:3735
+    c "Sembra quasi un peccato sbarazzarsi di quella cosa."
+
+
 translate italian ep020_paclerara_vess_jade_05b305df:
 
-    # c "Almost."
-    c ""
 
-# game/episode020.rpy:3737
+    c "Quasi."
+
+
 translate italian ep020_paclerara_vess_jade_50d66d0e:
 
-    # c "Why don’t you undress?"
-    c ""
 
-# game/episode020.rpy:3739
+    c "Perché non vi spogliate?"
+
+
 translate italian ep020_paclerara_vess_jade_74f26eb7:
 
-    # "Both Jade and Vess got out of their swimwear."
-    ""
 
-# game/episode020.rpy:3740
+    "Sia Jade che Vess si sono tolte il costume da bagno."
+
+
 translate italian ep020_paclerara_vess_jade_99914cf6:
 
-    # "Vess was casting nervous glances toward the entrances of the room."
-    ""
 
-# game/episode020.rpy:3741
+    "Vess lanciava sguardi nervosi verso le entrate della stanza."
+
+
 translate italian ep020_paclerara_vess_jade_bd3aad23:
 
-    # c "What, afraid someone might step in?"
-    c ""
 
-# game/episode020.rpy:3743
+    c "Cosa c'è, hai paura che qualcuno possa entrare?"
+
+
 translate italian ep020_paclerara_vess_jade_c7fffc34:
 
-    # ve "It’s a very public place."
-    ve ""
 
-# game/episode020.rpy:3744
+    ve "È un luogo molto pubblico."
+
+
 translate italian ep020_paclerara_vess_jade_02fbdcb5:
 
-    # c "In that case, you can show everyone the slut you really are."
-    c ""
 
-# game/episode020.rpy:3745
+    c "In questo caso, puoi mostrare a tutti la vera sgualdrina che sei."
+
+
 translate italian ep020_paclerara_vess_jade_4bd5f0fe:
 
-    # "When both women stood before me, I got out of my swimming trunks as well."
-    ""
 
-# game/episode020.rpy:3746
+    "Quando entrambe le donne furono in piedi davanti a me, anch'io mi tolsi il costume da bagno."
+
+
 translate italian ep020_paclerara_vess_jade_096e52d0:
 
-    # "Vess was still looking furtively around her."
-    ""
 
-# game/episode020.rpy:3751
+    "Vess si guardava ancora intorno in modo furtivo."
+
+
 translate italian ep020_paclerara_vess_jade_e7997ba6:
 
-    # "I stepped up to her and backed the girl against one of the pillars."
-    ""
 
-# game/episode020.rpy:3752
+    "Mi avvicinai a lei e appoggiai la ragazza contro uno dei pilastri."
+
+
 translate italian ep020_paclerara_vess_jade_7aed04e7:
 
-    # "My erection pressing against her stomach, I pulled her head toward mine."
-    ""
 
-# game/episode020.rpy:3753
+    "La mia erezione premeva contro il suo stomaco e le ho tirato la testa verso la mia."
+
+
 translate italian ep020_paclerara_vess_jade_df0f7941:
 
-    # c "You seem preoccupied."
-    c ""
 
-# game/episode020.rpy:3754
+    c "Sembri preoccupata."
+
+
 translate italian ep020_paclerara_vess_jade_480cbeeb:
 
-    # c "Don’t be."
-    c ""
 
-# game/episode020.rpy:3755
+    c "Non esserlo."
+
+
 translate italian ep020_paclerara_vess_jade_e127e6a6:
 
-    # c "We’re going to do all sorts filthy things, so being naked will be the least of your worries."
-    c ""
 
-# game/episode020.rpy:3756
+    c "Faremo ogni sorta di cose sconce, quindi essere nuda sarà l'ultima delle tue preoccupazioni."
+
+
 translate italian ep020_paclerara_vess_jade_60a03f4b:
 
-    # c "Are you going to enjoy yourself?"
-    c ""
 
-# game/episode020.rpy:3757
+    c "Hai intenzione di divertirti?"
+
+
 translate italian ep020_paclerara_vess_jade_5e2b29b5:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode020.rpy:3758
+    ve "Sì, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_139c6bba_1:
 
-    # c "Good."
-    c ""
 
-# game/episode020.rpy:3760
+    c "Bene."
+
+
 translate italian ep020_paclerara_vess_jade_56feedfd:
 
-    # "I kissed her then, a languid tongue kiss that made her tremble."
-    ""
 
-# game/episode020.rpy:3761
+    "La baciai allora, un languido bacio con la lingua che la fece tremare."
+
+
 translate italian ep020_paclerara_vess_jade_832356ae:
 
-    # c "Now get down and suck my dick."
-    c ""
 
-# game/episode020.rpy:3766
+    c "Ora abbassati e succhiami il cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_f3cbc16d:
 
-    # "Vess pushed back her worries and got on her knees to start working on my cock."
-    ""
 
-# game/episode020.rpy:3767
+    "Vess spinse indietro le sue preoccupazioni e si mise in ginocchio per iniziare a lavorare sul mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_63e2c7ea:
 
-    # "Jade approached and draped an arm around my shoulders."
-    ""
 
-# game/episode020.rpy:3769
+    "Jade si avvicinò e mi passò un braccio intorno alle spalle."
+
+
 translate italian ep020_paclerara_vess_jade_16f8fc64:
 
-    # c "She’s an obedient little cock sucker, isn’t she?"
-    c ""
 
-# game/episode020.rpy:3770
+    c "È una piccola succhiatrice di cazzo obbediente, vero?"
+
+
 translate italian ep020_paclerara_vess_jade_dea72b7d:
 
-    # j "She sure is."
-    j ""
 
-# game/episode020.rpy:3771
+    j "Certo che lo è."
+
+
 translate italian ep020_paclerara_vess_jade_4941e588:
 
-    # j "Is she pleasuring you alright, master?"
-    j ""
 
-# game/episode020.rpy:3772
+    j "Ti sta dando piacere, padrone?"
+
+
 translate italian ep020_paclerara_vess_jade_c9078a6f:
 
-    # c "I can’t complain."
-    c ""
 
-# game/episode020.rpy:3774
+    c "Non posso lamentarmi."
+
+
 translate italian ep020_paclerara_vess_jade_46e70e4c:
 
-    # "Vess lips were wrapped gingerly around my dick at first, but she started sucking more assiduously when she heard us talking."
-    ""
 
-# game/episode020.rpy:3775
+    "All'inizio le labbra di Vess erano avvolte con delicatezza intorno al mio cazzo, ma ha iniziato a succhiare più assiduamente quando ci ha sentito parlare."
+
+
 translate italian ep020_paclerara_vess_jade_22b8f47b:
 
-    # "Jade offered me her breasts and I sucked on her hard nipples."
-    ""
 
-# game/episode020.rpy:3776
+    "Jade mi offrì i suoi seni e io succhiai i suoi capezzoli duri."
+
+
 translate italian ep020_paclerara_vess_jade_4143c9a2:
 
-    # c "I know you can take it deeper."
-    c ""
 
-# game/episode020.rpy:3777
+    c "So che puoi prenderlo più a fondo."
+
+
 translate italian ep020_paclerara_vess_jade_e9acd7d4:
 
-    # c "Maybe Jade needs to show you how it’s done."
-    c ""
 
-# game/episode020.rpy:3782
+    c "Forse Jade deve mostrarti come si fa”."
+
+
 translate italian ep020_paclerara_vess_jade_46fc2182:
 
-    # "To show her capability, Vess took the entire length of my shaft inside her mouth."
-    ""
 
-# game/episode020.rpy:3783
+    "Per dimostrare la sua capacità, Vess prese in bocca tutta la lunghezza della mia asta."
+
+
 translate italian ep020_paclerara_vess_jade_16080c38:
 
-    # "She gagged and retched, but kept blowing me with the same ardour."
-    ""
 
-# game/episode020.rpy:3784
+    "Ha avuto conati di vomito e ha vomitato, ma ha continuato a succhiarmi con lo stesso ardore."
+
+
 translate italian ep020_paclerara_vess_jade_c5cbb2d3:
 
-    # c "That’s it, Vess!"
-    c ""
 
-# game/episode020.rpy:3785
+    c "Ecco, Vess!"
+
+
 translate italian ep020_paclerara_vess_jade_740f4560:
 
-    # c "You’re becoming such a good whore."
-    c ""
 
-# game/episode020.rpy:3788
+    c "Stai diventando un'ottima puttana."
+
+
 translate italian ep020_paclerara_vess_jade_d9c46cfd:
 
-    # j "Do you mind if I step out of here for a second, master?"
-    j ""
 
-# game/episode020.rpy:3789
+    j "Ti dispiace se esco un attimo da qui, padrone?"
+
+
 translate italian ep020_paclerara_vess_jade_fe563145:
 
-    # j "I need to use the bathroom."
-    j ""
 
-# game/episode020.rpy:3790
+    j "Devo andare in bagno."
+
+
 translate italian ep020_paclerara_vess_jade_c3897d18:
 
-    # c "And leave us two here alone?"
-    c ""
 
-# game/episode020.rpy:3791
+    c "E lasciarci qui da soli?"
+
+
 translate italian ep020_paclerara_vess_jade_68e69dd0:
 
-    # c "I don’t think so."
-    c ""
 
-# game/episode020.rpy:3792
+    c "Non credo proprio."
+
+
 translate italian ep020_paclerara_vess_jade_6b6c98ba:
 
-    # c "In fact, I have something better in mind."
-    c ""
 
-# game/episode020.rpy:3797
+    c "Anzi, ho in mente qualcosa di meglio."
+
+
 translate italian ep020_paclerara_vess_jade_ca745c20:
 
-    # "I steadied Vess by grabbing hold of her head and gently pulling her off my cock."
-    ""
 
-# game/episode020.rpy:3798
+    "Ho fermato Vess afferrandole la testa e tirandola delicatamente fuori dal mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_7ff4edd4:
 
-    # c "You’re going to lie down now, Vess."
-    c ""
 
-# game/episode020.rpy:3799
+    c "Ora ti sdraierai, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_87e7287d:
 
-    # c "Jade, stand over her face and just let it go."
-    c ""
 
-# game/episode020.rpy:3804
+    c "Jade, mettiti davanti al suo viso e lasciati andare."
+
+
 translate italian ep020_paclerara_vess_jade_78a25ba5:
 
-    # c "Are you ready to be Jade’s toilet, Vess?"
-    c ""
 
-# game/episode020.rpy:3805
+    c "Sei pronta a diventare il bagno di Jade, Vess?"
+
+
 translate italian ep020_paclerara_vess_jade_3f92f509:
 
-    # ve "I want nothing more, master."
-    ve ""
 
-# game/episode020.rpy:3806
+    ve "Non voglio altro, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_584311e2:
 
-    # c "Open your mouth then and don’t waste a drop."
-    c ""
 
-# game/episode020.rpy:3808
+    c "Apri la bocca e non sprecarne nemmeno una goccia."
+
+
 translate italian ep020_paclerara_vess_jade_74933f48:
 
-    # "As soon as Vess opened her mouth, Jade released a steady stream of piss from her cunt."
-    ""
 
-# game/episode020.rpy:3809
+    "Non appena Vess aprì la bocca, Jade rilasciò un flusso continuo di piscio dalla sua fica."
+
+
 translate italian ep020_paclerara_vess_jade_929b42dc:
 
-    # c "Don’t spit it out, I want you to swallow it all."
-    c ""
 
-# game/episode020.rpy:3811
+    c "Non sputarlo, voglio che lo ingoi tutto."
+
+
 translate italian ep020_paclerara_vess_jade_56c036f8:
 
-    # "Jade filled the other girl’s mouth with golden liquid."
-    ""
 
-# game/episode020.rpy:3813
+    "Jade riempì la bocca dell'altra ragazza con il liquido dorato."
+
+
 translate italian ep020_paclerara_vess_jade_8347e14a:
 
-    # "Vess swallowed intermittently and coughed, probably because of the strong taste."
-    ""
 
-# game/episode020.rpy:3814
+    "Vess deglutì a intermittenza e tossì, probabilmente a causa del forte sapore."
+
+
 translate italian ep020_paclerara_vess_jade_08a0065b:
 
-    # c "You’re not done yet, are you Jade?"
-    c ""
 
-# game/episode020.rpy:3815
+    c "Non hai ancora finito, vero Jade?"
+
+
 translate italian ep020_paclerara_vess_jade_933e85cb:
 
-    # j "No master, I’ve been holding it in for quite some time."
-    j ""
 
-# game/episode020.rpy:3816
+    j "No padrone, l'ho tenuto dentro per un bel po' di tempo."
+
+
 translate italian ep020_paclerara_vess_jade_489ce561:
 
-    # c "Do you want more, Vess?"
-    c ""
 
-# game/episode020.rpy:3817
+    c "Ne vuoi ancora, Vess?"
+
+
 translate italian ep020_paclerara_vess_jade_2ed50581:
 
-    # ve "Yes, please."
-    ve ""
 
-# game/episode020.rpy:3819
+    ve "Sì, per favore."
+
+
 translate italian ep020_paclerara_vess_jade_a9925dfc:
 
-    # "Jade squatted over Vess’s face and released more urine into the girl’s open mouth."
-    ""
 
-# game/episode020.rpy:3820
+    "Jade si accovacciò sul viso di Vess e rilasciò altra urina nella bocca aperta della ragazza."
+
+
 translate italian ep020_paclerara_vess_jade_e0fc7d6b:
 
-    # c "Yes, that’s it."
-    c ""
 
-# game/episode020.rpy:3821
+    c "Sì, così."
+
+
 translate italian ep020_paclerara_vess_jade_ebdbe1e9:
 
-    # c "Drink it."
-    c ""
 
-# game/episode020.rpy:3823
+    c "Bevila."
+
+
 translate italian ep020_paclerara_vess_jade_95140a8c:
 
-    # "Vess gurgled and swallowed obediently until only a trickle of piss escaped from Jade’s slit."
-    ""
 
-# game/episode020.rpy:3825
+    "Vess gorgogliò e ingoiò obbediente finché dalla fessura di Jade non uscì solo un rivolo di piscio."
+
+
 translate italian ep020_paclerara_vess_jade_cf451abd:
 
-    # "Jade made sure that the other girl caught the last drops and was about to stand up again."
-    ""
 
-# game/episode020.rpy:3826
+    "Jade si assicurò che l'altra ragazza prendesse le ultime gocce e stava per alzarsi di nuovo."
+
+
 translate italian ep020_paclerara_vess_jade_f41ba07d:
 
-    # c "Not yet."
-    c ""
 
-# game/episode020.rpy:3827
+    c "Non ancora."
+
+
 translate italian ep020_paclerara_vess_jade_89f70812:
 
-    # c "Clean her up, Vess."
-    c ""
 
-# game/episode020.rpy:3828
+    c "Puliscila, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_c53690ed:
 
-    # c "Lick that pussy clean."
-    c ""
 
-# game/episode020.rpy:3830
+    c "Lecca quella figa."
+
+
 translate italian ep020_paclerara_vess_jade_59e4bce8:
 
-    # "Vess extended her tongue and lapped up the droplets of piss still clinging to Jade’s pussy."
-    ""
 
-# game/episode020.rpy:3831
+    "Vess allungò la lingua e prese a leccare le gocce di piscio che ancora si aggrappavano alla figa di Jade."
+
+
 translate italian ep020_paclerara_vess_jade_3ddee769:
 
-    # c "That’s it, clean it all up, my little pee slut."
-    c ""
 
-# game/episode020.rpy:3832
+    c "Ecco, pulisci tutto, mia piccola sgualdrina di pipì."
+
+
 translate italian ep020_paclerara_vess_jade_6932c6bb:
 
-    # "When she was finished, I made Vess stand up."
-    ""
 
-# game/episode020.rpy:3834
+    "Quando ebbe finito, feci alzare Vess."
+
+
 translate italian ep020_paclerara_vess_jade_ca745c20_1:
 
-    # "I steadied Vess by grabbing hold of her head and gently pulling her off my cock."
-    ""
 
-# game/episode020.rpy:3835
+    "Ho tenuto Vess ferma afferrandole la testa e tirandola delicatamente fuori dal mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_ca64b982:
 
-    # c "You deserve to be fucked now."
-    c ""
 
-# game/episode020.rpy:3840
+    c "Ora ti meriti di essere scopata."
+
+
 translate italian ep020_paclerara_vess_jade_6ec6939a:
 
-    # "Vess leaned against the pillar as I lifted her leg and entered her."
-    ""
 
-# game/episode020.rpy:3841
+    "Vess si appoggiò al pilastro mentre io le sollevavo la gamba e la penetravo."
+
+
 translate italian ep020_paclerara_vess_jade_896eab5a:
 
-    # "Jade had an arm on my shoulder and spurred me on."
-    ""
 
-# game/episode020.rpy:3842
+    "Jade mi mise un braccio sulla spalla e mi spronò."
+
+
 translate italian ep020_paclerara_vess_jade_d172da84:
 
-    # j "Does she feel good, master?"
-    j ""
 
-# game/episode020.rpy:3843
+    j "Si sente bene, padrone?"
+
+
 translate italian ep020_paclerara_vess_jade_abac0f4a:
 
-    # c "She’s so tight."
-    c ""
 
-# game/episode020.rpy:3846
+    c "È così stretta."
+
+
 translate italian ep020_paclerara_vess_jade_2f060b1d:
 
-    # ve "Oh master, deeper, please!"
-    ve ""
 
-# game/episode020.rpy:3847
+    ve "Oh padrone, più a fondo, ti prego!"
+
+
 translate italian ep020_paclerara_vess_jade_bf2f6cb4:
 
-    # ve "I love your big dick inside me so much."
-    ve ""
 
-# game/episode020.rpy:3848
+    ve "Mi piace così tanto il tuo grosso cazzo dentro di me."
+
+
 translate italian ep020_paclerara_vess_jade_1f306d1d:
 
-    # c "You’re enjoying my cock, aren’t you, little slut?"
-    c ""
 
-# game/episode020.rpy:3849
+    c "Ti piace il mio cazzo, vero, piccola troia?"
+
+
 translate italian ep020_paclerara_vess_jade_4fc15061:
 
-    # ve "I am!"
-    ve ""
 
-# game/episode020.rpy:3850
+    ve "Lo sto facendo!"
+
+
 translate italian ep020_paclerara_vess_jade_71a14f83:
 
-    # ve "I know I’ve been such a bad girl."
-    ve ""
 
-# game/episode020.rpy:3851
+    ve "So di essere stata una ragazza così cattiva."
+
+
 translate italian ep020_paclerara_vess_jade_5ea61626:
 
-    # ve "I deserve to be punished with your hard cock!"
-    ve ""
 
-# game/episode020.rpy:3854
+    ve "Merito di essere punita con il tuo cazzo duro!"
+
+
 translate italian ep020_paclerara_vess_jade_ab9e71c7:
 
-    # "I drove into her wet cunt with increasing urgency, reducing Vess to frayed moans."
-    ""
 
-# game/episode020.rpy:3855
+    "Mi sono infilato nella sua fica bagnata con sempre maggiore urgenza, riducendo Vess a dei gemiti striduli."
+
+
 translate italian ep020_paclerara_vess_jade_19ce464e:
 
-    # c "You know you’re such a good whore, you’re even making me neglect Jade."
-    c ""
 
-# game/episode020.rpy:3858
+    c "Lo sai che sei una così brava puttana che mi stai facendo trascurare Jade."
+
+
 translate italian ep020_paclerara_vess_jade_515d613e:
 
-    # c "We can’t have that, do we?"
-    c ""
 
-# game/episode020.rpy:3859
+    c "Non possiamo permetterlo, vero?"
+
+
 translate italian ep020_paclerara_vess_jade_4d8b2442:
 
-    # ve "No, master!"
-    ve ""
 
-# game/episode020.rpy:3860
+    ve "No, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_7f57f62d:
 
-    # c "Come sit on top of me and show Jade a good time."
-    c ""
 
-# game/episode020.rpy:3865
+    c "Vieni a sederti sopra di me e fai divertire Jade."
+
+
 translate italian ep020_paclerara_vess_jade_c9a1d378:
 
-    # "I lay on the floor, dangling my legs in the water and made Vess sit on my dick."
-    ""
 
-# game/episode020.rpy:3866
+    "Mi sdraiai sul pavimento, facendo penzolare le gambe nell'acqua e feci sedere Vess sul mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_7aa21b54:
 
-    # c "Lick her tits while you grind on my cock."
-    c ""
 
-# game/episode020.rpy:3867
+    c "Leccale le tette mentre ti strusci sul mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_5e2b29b5_1:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode020.rpy:3869
+    ve "Sì, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_c9023d86:
 
-    # "Vess alternatingly took Jade’s nipples in her mouth."
-    ""
 
-# game/episode020.rpy:3870
+    "Vess prese in bocca alternativamente i capezzoli di Jade."
+
+
 translate italian ep020_paclerara_vess_jade_781cb116:
 
-    # "While she sucked and licked the Twi’ll’s breasts, she began to ride me."
-    ""
 
-# game/episode020.rpy:3873
+    "Mentre succhiava e leccava i seni della Twi'll, iniziò a cavalcarmi."
+
+
 translate italian ep020_paclerara_vess_jade_101d8a72:
 
-    # "I grabbed hold of her ass and forced her to go deep, my balls slapping against her buttocks every time she came down."
-    ""
 
-# game/episode020.rpy:3874
+    "Le afferrai il culo e la costrinsi ad andare in profondità, le mie palle sbattevano contro le sue natiche ogni volta che scendeva."
+
+
 translate italian ep020_paclerara_vess_jade_c2cac6c4:
 
-    # c "That’s it, grind on my cock!"
-    c ""
 
-# game/episode020.rpy:3876
+    c "Così, strusciati sul mio cazzo!"
+
+
 translate italian ep020_paclerara_vess_jade_d385a1a8:
 
-    # "Vess could only moan with Jade’s flesh still in her mouth."
-    ""
 
-# game/episode020.rpy:3877
+    "Vess poteva solo gemere con la carne di Jade ancora in bocca."
+
+
 translate italian ep020_paclerara_vess_jade_e8d3226f:
 
-    # "My dick was drenched in her juices emanating from her wet pussy."
-    ""
 
-# game/episode020.rpy:3878
+    "Il mio cazzo era inzuppato dei suoi succhi che uscivano dalla sua figa bagnata."
+
+
 translate italian ep020_paclerara_vess_jade_7ecf32cc:
 
-    # c "Are you having a good time, Vess?"
-    c ""
 
-# game/episode020.rpy:3879
+    c "Ti stai divertendo, Vess?"
+
+
 translate italian ep020_paclerara_vess_jade_49ca85a9:
 
-    # ve "Yes, master!"
-    ve ""
 
-# game/episode020.rpy:3880
+    ve "Sì, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_d4fffdb3:
 
-    # ve "I love your hard cock in my tight little pussy."
-    ve ""
 
-# game/episode020.rpy:3881
+    ve "Adoro il tuo cazzo duro nella mia piccola figa stretta."
+
+
 translate italian ep020_paclerara_vess_jade_7212778b:
 
-    # c "You sure do."
-    c ""
 
-# game/episode020.rpy:3882
+    c "Certo che ti piace."
+
+
 translate italian ep020_paclerara_vess_jade_7473ed26:
 
-    # c "But Jade deserves a turn too, don’t you think?"
-    c ""
 
-# game/episode020.rpy:3883
+    c "Ma anche Jade merita un turno, non credi?"
+
+
 translate italian ep020_paclerara_vess_jade_90d4e2e4:
 
-    # ve "She does, master."
-    ve ""
 
-# game/episode020.rpy:3884
+    ve "Sì, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_350d9a9a:
 
-    # ve "But I just love your cock so much."
-    ve ""
 
-# game/episode020.rpy:3885
+    ve "Ma io amo così tanto il tuo cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_57400beb:
 
-    # ve "Please give me just a little more, please master!"
-    ve ""
 
-# game/episode020.rpy:3890
+    ve "Ti prego, dammene ancora un po', ti prego, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_2835eb45:
 
-    # "I was unmoved by her words and lifted Vess off my dick."
-    ""
 
-# game/episode020.rpy:3892
+    "Non mi feci impressionare dalle sue parole e sollevai Vess dal mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_1ebdd625:
 
-    # c "But first, I want both of you to kneel."
-    c ""
 
-# game/episode020.rpy:3897
+    c "Ma prima voglio che vi inginocchiate entrambe."
+
+
 translate italian ep020_paclerara_vess_jade_27f29bb4:
 
-    # "Jade and Vess sat next to each other, wondering what I had planned for them."
-    ""
 
-# game/episode020.rpy:3898
+    "Jade e Vess si sedettero l'una accanto all'altra, chiedendosi cosa avessi in mente per loro."
+
+
 translate italian ep020_paclerara_vess_jade_a8bbb935:
 
-    # "My erection had subsided somewhat, making me able to relieve myself."
-    ""
 
-# game/episode020.rpy:3899
+    "La mia erezione si era un po' attenuata, permettendomi di liberarmi."
+
+
 translate italian ep020_paclerara_vess_jade_5c41fd5e:
 
-    # "Vess looked a little wary, probably guessing what I was about to do."
-    ""
 
-# game/episode020.rpy:3900
+    "Vess sembrava un po' diffidente, probabilmente immaginando quello che stavo per fare."
+
+
 translate italian ep020_paclerara_vess_jade_fb3f4e87:
 
-    # c "I’m sure you enjoyed what Jade did to you earlier, so I’m going to give you more."
-    c ""
 
-# game/episode020.rpy:3901
+    c "Sono sicuro che ti è piaciuto quello che Jade ti ha fatto prima, quindi ti darò di più."
+
+
 translate italian ep020_paclerara_vess_jade_7289398d:
 
-    # c "Open up."
-    c ""
 
-# game/episode020.rpy:3903
+    c "Apri."
+
+
 translate italian ep020_paclerara_vess_jade_1df8e91b:
 
-    # "As Vess opened her mouth, I hit her full in the face with a jet of piss."
-    ""
 
-# game/episode020.rpy:3905
+    "Quando Vess aprì la bocca, la colpii in pieno viso con un getto di piscio."
+
+
 translate italian ep020_paclerara_vess_jade_7ec9d576:
 
-    # "Most of it splashed on her face, but some of it entered her mouth."
-    ""
 
-# game/episode020.rpy:3906
+    "La maggior parte schizzò sul suo viso, ma una parte le entrò in bocca."
+
+
 translate italian ep020_paclerara_vess_jade_9d0400b1:
 
-    # c "Swallow like a good whore."
-    c ""
 
-# game/episode020.rpy:3907
+    c "Ingoia come una brava puttana."
+
+
 translate italian ep020_paclerara_vess_jade_a941ad3d:
 
-    # c "That’s it."
-    c ""
 
-# game/episode020.rpy:3909
+    c "Ecco fatto."
+
+
 translate italian ep020_paclerara_vess_jade_2673ca76:
 
-    # "Piss dripped off the girl’s face and onto her breasts."
-    ""
 
-# game/episode020.rpy:3910
+    "Il piscio gocciolò dal viso della ragazza e sui suoi seni."
+
+
 translate italian ep020_paclerara_vess_jade_cd189bed:
 
-    # c "You too Jade."
-    c ""
 
-# game/episode020.rpy:3912
+    c "Anche tu Jade."
+
+
 translate italian ep020_paclerara_vess_jade_0590fc00:
 
-    # "I aimed at Jade and caught her right on the chest."
-    ""
 
-# game/episode020.rpy:3914
+    "Mirai a Jade e la presi in pieno petto."
+
+
 translate italian ep020_paclerara_vess_jade_48ca43ae:
 
-    # "Rivulets of urine slithered down between her breasts and onto the floor."
-    ""
 
-# game/episode020.rpy:3916
+    "Rivoli di urina scivolarono tra i suoi seni e sul pavimento."
+
+
 translate italian ep020_paclerara_vess_jade_64d22a44:
 
-    # c "Two piss-drenched sluts."
-    c ""
 
-# game/episode020.rpy:3917
+    c "Due troie inzuppate di piscio."
+
+
 translate italian ep020_paclerara_vess_jade_ed5e6de2:
 
-    # c "What a beautiful sight."
-    c ""
 
-# game/episode020.rpy:3919
+    c "Che bello spettacolo."
+
+
 translate italian ep020_paclerara_vess_jade_2cdd6d19:
 
-    # c "Now kiss each other."
-    c ""
 
-# game/episode020.rpy:3921
+    c "Ora baciatevi."
+
+
 translate italian ep020_paclerara_vess_jade_22e1f8ed:
 
-    # "Vess and Jade exchanged a long tongue kiss, exchanging some of my fluids in the process."
-    ""
 
-# game/episode020.rpy:3922
+    "Vess e Jade si scambiarono un lungo bacio con la lingua, scambiandosi anche un po' dei miei liquidi."
+
+
 translate italian ep020_paclerara_vess_jade_cee68c26:
 
-    # "Jade disentangled and began to lick the other girl’s breasts, lapping up my warm piss still coating her skin."
-    ""
 
-# game/episode020.rpy:3923
+    "Jade si staccò e iniziò a leccare i seni dell'altra ragazza, leccando il mio piscio caldo che ancora ricopriva la sua pelle."
+
+
 translate italian ep020_paclerara_vess_jade_84e40b73:
 
-    # "The sight of Jade degrading herself like that, made me want to fuck her all the more."
-    ""
 
-# game/episode020.rpy:3925
+    "La vista di Jade che si degradava in quel modo mi fece venire ancora più voglia di scoparla."
+
+
 translate italian ep020_paclerara_vess_jade_96f55897:
 
-    # "You’re such a greedy slut, Vess."
-    ""
 
-# game/episode020.rpy:3930
+    "Sei proprio una troia avida, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_92ae79cc:
 
-    # "I pulled Jade towards me and entered her."
-    ""
 
-# game/episode020.rpy:3931
+    "Tirai Jade verso di me e la penetrai."
+
+
 translate italian ep020_paclerara_vess_jade_5c5f05df:
 
-    # "She was dripping wet already, so I didn’t hold back and fucked her with furious thrusts."
-    ""
 
-# game/episode020.rpy:3932
+    "Era già bagnata, quindi non mi trattenni e la scopai con spinte furiose."
+
+
 translate italian ep020_paclerara_vess_jade_84970b64:
 
-    # j "Yes, master, right there!"
-    j ""
 
-# game/episode020.rpy:3933
+    j "Sì, padrone, proprio così!"
+
+
 translate italian ep020_paclerara_vess_jade_8e45018b:
 
-    # c "Join in, Vess, come over here and let Jade play with you."
-    c ""
 
-# game/episode020.rpy:3934
+    c "Unisciti a me, Vess, vieni qui e lascia che Jade giochi con te."
+
+
 translate italian ep020_paclerara_vess_jade_7aa481db:
 
-    # "Vess obeyed and positioned herself near Jade’s head."
-    ""
 
-# game/episode020.rpy:3937
+    "Vess obbedì e si posizionò vicino alla testa di Jade."
+
+
 translate italian ep020_paclerara_vess_jade_7934d939:
 
-    # "Jade immediately began caressing the other girl’s pussy with her fingers."
-    ""
 
-# game/episode020.rpy:3938
+    "Jade iniziò subito ad accarezzare la figa dell'altra ragazza con le dita."
+
+
 translate italian ep020_paclerara_vess_jade_fdf86cc7:
 
-    # j "Hmmm, she’s so wet, master."
-    j ""
 
-# game/episode020.rpy:3939
+    j "Hmmm, è così bagnata, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_873b5e8d:
 
-    # j "Did you fuck her just as well as you’re fucking me?"
-    j ""
 
-# game/episode020.rpy:3940
+    j "L'hai scopata bene come stai facendo con me?"
+
+
 translate italian ep020_paclerara_vess_jade_4db30cc0:
 
-    # c "I did, didn’t I, Vess?"
-    c ""
 
-# game/episode020.rpy:3941
+    c "L'ho fatto, vero, Vess?"
+
+
 translate italian ep020_paclerara_vess_jade_1c8ee32e:
 
-    # ve "Y-yes, master! "
-    ve ""
 
-# game/episode020.rpy:3944
+    ve "Sì, padrone! "
+
+
 translate italian ep020_paclerara_vess_jade_1063081f:
 
-    # "Due to Jade’s ministrations, Vess trembled on her legs."
-    ""
 
-# game/episode020.rpy:3945
+    "A causa delle attenzioni di Jade, Vess tremava sulle gambe."
+
+
 translate italian ep020_paclerara_vess_jade_aa53736f:
 
-    # "She had to lean on her hands, putting strain on her arms, as Jade turned her muscles into jelly by fingering her cunt."
-    ""
 
-# game/episode020.rpy:3947
+    "Dovette appoggiarsi sulle mani, sforzando le braccia, mentre Jade trasformava i suoi muscoli in gelatina sditalinando la sua fica."
+
+
 translate italian ep020_paclerara_vess_jade_a3301bc4:
 
-    # "I exchanged a long tongue-kiss with Vess, feeling the tensions course through her body."
-    ""
 
-# game/episode020.rpy:3948
+    "Scambiai un lungo bacio con la lingua con Vess, sentendo la tensione che attraversava il suo corpo."
+
+
 translate italian ep020_paclerara_vess_jade_398cd66c:
 
-    # "Vess was burning with a need that verging on the very edge of exploding."
-    ""
 
-# game/episode020.rpy:3949
+    "Vess stava bruciando con un bisogno che stava per esplodere."
+
+
 translate italian ep020_paclerara_vess_jade_f88bc23a:
 
-    # "Her earlier qualms about being exposed had completely given way to a desperate need superseding everything else."
-    ""
 
-# game/episode020.rpy:3950
+    "I suoi precedenti timori di essere esposta avevano lasciato completamente il posto a un bisogno disperato che sostituiva tutto il resto."
+
+
 translate italian ep020_paclerara_vess_jade_58c38d62:
 
-    # c "Keep fingering her, Jade, I think she’s nearly ready."
-    c ""
 
-# game/episode020.rpy:3953
+    c "Continua a sditalinarla, Jade, credo che sia quasi pronta."
+
+
 translate italian ep020_paclerara_vess_jade_96d03110:
 
-    # "Vess nearly collapsed as Jade kept working on her clit."
-    ""
 
-# game/episode020.rpy:3954
+    "Vess quasi crollò mentre Jade continuava a lavorare sul suo clitoride."
+
+
 translate italian ep020_paclerara_vess_jade_71103705:
 
-    # c "You have to keep upright, Vess, otherwise you’re not allowed to cum."
-    c ""
 
-# game/episode020.rpy:3955
+    c "Devi rimanere in piedi, Vess, altrimenti non ti sarà permesso di sborrare."
+
+
 translate italian ep020_paclerara_vess_jade_77fdd9ab:
 
-    # ve "Unders-stood, master."
-    ve ""
 
-# game/episode020.rpy:3956
+    ve "Capito, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_d55b275d:
 
-    # ve "B-but it’s hard-"
-    ve ""
 
-# game/episode020.rpy:3958
+    ve "Ma è difficile..."
+
+
 translate italian ep020_paclerara_vess_jade_0136c089:
 
-    # c "I think Vess has finally accepted the slut she really is."
-    c ""
 
-# game/episode020.rpy:3959
+    c "Credo che Vess abbia finalmente accettato la sua vera natura di sgualdrina."
+
+
 translate italian ep020_paclerara_vess_jade_c08d64c1:
 
-    # c "Getting fucked and fingered in a public place, her legs spread like the whore she is."
-    c ""
 
-# game/episode020.rpy:3960
+    c "Farsi scopare e sditalinare in un luogo pubblico, con le gambe aperte come la puttana che è."
+
+
 translate italian ep020_paclerara_vess_jade_bccc564c:
 
-    # j "I think you’re right, master, she’s very wet."
-    j ""
 
-# game/episode020.rpy:3961
+    j "Penso che tu abbia ragione, padrone, è molto bagnata."
+
+
 translate italian ep020_paclerara_vess_jade_5230c051:
 
-    # c "Jade has noticed it too, Vess."
-    c ""
 
-# game/episode020.rpy:3962
+    c "Anche Jade l'ha notato, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_40711ed5:
 
-    # c "You’re dripping all over her fingers."
-    c ""
 
-# game/episode020.rpy:3963
+    c "Stai gocciolando sulle sue dita."
+
+
 translate italian ep020_paclerara_vess_jade_9506ccb4:
 
-    # ve "I know, master, it feels so good!"
-    ve ""
 
-# game/episode020.rpy:3969
+    ve "Lo so, padrone, è così bello!"
+
+
 translate italian ep020_paclerara_vess_jade_e6b3e1ed:
 
-    # "When she threatened to fall for a second time, I stopped fucking Jade."
-    ""
 
-# game/episode020.rpy:3970
+    "Quando ha minacciato di cadere per la seconda volta, ho smesso di scopare Jade."
+
+
 translate italian ep020_paclerara_vess_jade_b8cd3499:
 
-    # c "Vess is not allowed to cum."
-    c ""
 
-# game/episode020.rpy:3971
+    c "A Vess non è permesso sborrare."
+
+
 translate italian ep020_paclerara_vess_jade_5f42937b:
 
-    # "Jade retracted her fingers immediately, causing Vess to let out a involuntary frustrated moan."
-    ""
 
-# game/episode020.rpy:3972
+    "Jade ritrasse immediatamente le dita, facendo emettere a Vess un involontario gemito di frustrazione."
+
+
 translate italian ep020_paclerara_vess_jade_20b23eb4:
 
-    # c "You’re going to pleasure Jade now."
-    c ""
 
-# game/episode020.rpy:3973
+    c "Ora darai piacere a Jade."
+
+
 translate italian ep020_paclerara_vess_jade_5e2b29b5_2:
 
-    # ve "Yes, master."
-    ve ""
 
-# game/episode020.rpy:3978
+    ve "Sì, padrone."
+
+
 translate italian ep020_paclerara_vess_jade_10312d25:
 
-    # "I penetrated Jade again, as Vess lay down next to her."
-    ""
 
-# game/episode020.rpy:3979
+    "Penetrai nuovamente Jade, mentre Vess si sdraiò accanto a lei."
+
+
 translate italian ep020_paclerara_vess_jade_6e62e562:
 
-    # "She joined my thrusts with a rotating movement on Jade’s clitoris."
-    ""
 
-# game/episode020.rpy:3981
+    "Si unì alle mie spinte con un movimento rotatorio sul clitoride di Jade."
+
+
 translate italian ep020_paclerara_vess_jade_1caf93c6:
 
-    # "Her pussy glistened with moisture, as did my shaft."
-    ""
 
-# game/episode020.rpy:3982
+    "La sua figa brillava di umidità, così come la mia asta."
+
+
 translate italian ep020_paclerara_vess_jade_7d408286:
 
-    # "Jade let out a ragged moan as I hit her deep."
-    ""
 
-# game/episode020.rpy:3983
+    "Jade emise un gemito strozzato quando la colpii in profondità."
+
+
 translate italian ep020_paclerara_vess_jade_4083620e:
 
-    # c "You like that, you nasty cock slut?"
-    c ""
 
-# game/episode020.rpy:3984
+    c "Ti piace, brutta troia di un cazzo?"
+
+
 translate italian ep020_paclerara_vess_jade_69f5da24:
 
-    # j "I’m so wet for you, master!"
-    j ""
 
-# game/episode020.rpy:3985
+    j "Sono così bagnata per te, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_d420feab:
 
-    # j "Please fuck me harder!"
-    j ""
 
-# game/episode020.rpy:3988
+    j "Ti prego, scopami più forte!"
+
+
 translate italian ep020_paclerara_vess_jade_70a11d6a:
 
-    # "I went in for the final stretch, pulling Jade closer against me by her legs."
-    ""
 
-# game/episode020.rpy:3989
+    "Entrai per l'ultimo tratto, tirando Jade più vicino a me per le sue gambe."
+
+
 translate italian ep020_paclerara_vess_jade_aacabffd:
 
-    # "Vess continued to work on Jade’s clit, quickly pulling her into a libidinous trance."
-    ""
 
-# game/episode020.rpy:3991
+    "Vess continuò a lavorare sul clitoride di Jade, trascinandola rapidamente in una trance libidinosa."
+
+
 translate italian ep020_paclerara_vess_jade_b48e0dbc:
 
-    # c "You want my cum, don’t you Jade?"
-    c ""
 
-# game/episode020.rpy:3992
+    c "Vuoi il mio sperma, vero Jade?"
+
+
 translate italian ep020_paclerara_vess_jade_866d578a:
 
-    # j "I want nothing more!"
-    j ""
 
-# game/episode020.rpy:3996
+    j "Non voglio altro!"
+
+
 translate italian ep020_paclerara_vess_jade_9af08432:
 
-    # c "Is Vess making you feel good, Jade?"
-    c ""
 
-# game/episode020.rpy:3997
+    c "Vess ti sta facendo sentire bene, Jade?"
+
+
 translate italian ep020_paclerara_vess_jade_b32493df:
 
-    # j "She is, master!"
-    j ""
 
-# game/episode020.rpy:3998
+    j "Lo sta facendo, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_1057fc06:
 
-    # j "She’s making me feel so good."
-    j ""
 
-# game/episode020.rpy:3999
+    j "Mi sta facendo sentire così bene."
+
+
 translate italian ep020_paclerara_vess_jade_44b33752:
 
-    # c "Hear that, Vess?"
-    c ""
 
-# game/episode020.rpy:4000
+    c "Hai sentito, Vess?"
+
+
 translate italian ep020_paclerara_vess_jade_549ff703:
 
-    # c "You’ve been a good girl, according to Jade."
-    c ""
 
-# game/episode020.rpy:4001
+    c "Sei stata una brava ragazza, secondo Jade."
+
+
 translate italian ep020_paclerara_vess_jade_69dde4d8:
 
-    # c "She thinks you deserve a prize and I’m going to give you one."
-    c ""
 
-# game/episode020.rpy:4002
+    c "Pensa che tu meriti un premio e io te lo darò."
+
+
 translate italian ep020_paclerara_vess_jade_8ec672e4:
 
-    # c "Come sit on my cock."
-    c ""
 
-# game/episode020.rpy:4007
+    c "Vieni a sederti sul mio cazzo."
+
+
 translate italian ep020_paclerara_vess_jade_8a0b6896:
 
-    # "I pulled out of Jade, much to her consternation."
-    ""
 
-# game/episode020.rpy:4008
+    "Uscii da Jade, con sua grande costernazione."
+
+
 translate italian ep020_paclerara_vess_jade_10db5751:
 
-    # j "Oh, but master, that’s not what I meant, I-"
-    j ""
 
-# game/episode020.rpy:4009
+    j "Oh, ma padrone, non intendevo questo, io..."
+
+
 translate italian ep020_paclerara_vess_jade_a201fd02:
 
-    # c "Ride my dick, Vess."
-    c ""
 
-# game/episode020.rpy:4011
+    c "Cavalca il mio cazzo, Vess."
+
+
 translate italian ep020_paclerara_vess_jade_76c0f130:
 
-    # "Vess climbed on top of me again and began to move."
-    ""
 
-# game/episode020.rpy:4016
+    "Vess salì di nuovo sopra di me e iniziò a muoversi."
+
+
 translate italian ep020_paclerara_vess_jade_8789f1a1:
 
-    # c "I’m going to breed you."
-    c ""
 
-# game/episode020.rpy:4017
+    c "Ti farò accoppiare."
+
+
 translate italian ep020_paclerara_vess_jade_d20c8173:
 
-    # ve "Please put a baby inside me, master!"
-    ve ""
 
-# game/episode020.rpy:4018
+    ve "Ti prego, metti un bambino dentro di me, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_bb330cf1:
 
-    # ve "Use me whichever way you want!"
-    ve ""
 
-# game/episode020.rpy:4020
+    ve "Usami come vuoi!"
+
+
 translate italian ep020_paclerara_vess_jade_978e9ece:
 
-    # c "I’m going to cum so deep inside you."
-    c ""
 
-# game/episode020.rpy:4021
+    c "Sborrerò così profondamente dentro di te."
+
+
 translate italian ep020_paclerara_vess_jade_73fc590c:
 
-    # ve "Yes, please master!"
-    ve ""
 
-# game/episode020.rpy:4022
+    ve "Sì, ti prego, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_bb330cf1_1:
 
-    # ve "Use me whichever way you want!"
-    ve ""
 
-# game/episode020.rpy:4024
+    ve "Usami in qualsiasi modo tu voglia!"
+
+
 translate italian ep020_paclerara_vess_jade_b75a6740:
 
-    # "Holding her buttocks, I made sure my cock was rooted deep inside her when I eventually erupted."
-    ""
 
-# game/episode020.rpy:4030
+    "Tenendole le natiche, mi assicurai che il mio cazzo fosse ben piantato dentro di lei quando alla fine eruttai."
+
+
 translate italian ep020_paclerara_vess_jade_6d47f584:
 
-    # "Jade pressed Vess down on me as I released streams of warm cum inside her tight little pussy."
-    ""
 
-# game/episode020.rpy:4031
+    "Jade premette Vess su di me mentre io rilasciavo fiotti di sperma caldo nella sua piccola figa stretta."
+
+
 translate italian ep020_paclerara_vess_jade_2761ba61:
 
-    # ve "I can feel it, master, all of your cum inside me."
-    ve ""
 
-# game/episode020.rpy:4032
+    ve "Lo sento, padrone, tutto il tuo sperma dentro di me."
+
+
 translate italian ep020_paclerara_vess_jade_fd2d4fdf:
 
-    # c "It’s all for you."
-    c ""
 
-# game/episode020.rpy:4033
+    c "È tutto per te."
+
+
 translate italian ep020_paclerara_vess_jade_1708b496:
 
-    # c "Hear that, Jade?{w} My own little brood mare."
-    c ""
 
-# game/episode020.rpy:4034
+    c "Hai sentito, Jade? {w} La mia piccola fattrice."
+
+
 translate italian ep020_paclerara_vess_jade_38a348b9:
 
-    # j "I do, master, you’re making her so happy."
-    j ""
 
-# game/episode020.rpy:4037
+    j "Sì, padrone, la stai rendendo così felice."
+
+
 translate italian ep020_paclerara_vess_jade_6d663740:
 
-    # "Despite the happy tone in her voice, Jade looked a little jealous at the cum that kept streaming out of Vess after I had pulled my cock from her slit."
-    ""
 
-# game/episode020.rpy:4040
+    "Nonostante il tono felice della sua voce, Jade sembrava un po' gelosa dello sperma che continuava a uscire da Vess dopo che avevo estratto il mio cazzo dalla sua fessura."
+
+
 translate italian ep020_paclerara_vess_jade_ddd577b6:
 
-    # c "I’m going to cum all over you!"
-    c ""
 
-# game/episode020.rpy:4041
+    c "Ti sborro addosso!"
+
+
 translate italian ep020_paclerara_vess_jade_2eb1b7bd:
 
-    # ve "Please make a mess of my body, master!"
-    ve ""
 
-# game/episode020.rpy:4042
+    ve "Ti prego, fai scempio del mio corpo, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_bb330cf1_2:
 
-    # ve "Use me whichever way you want!"
-    ve ""
 
-# game/episode020.rpy:4044
+    ve "Usami come vuoi!"
+
+
 translate italian ep020_paclerara_vess_jade_4db8dec6:
 
-    # "Holding her buttocks, I slipped out of her tight pussy as soon as I eventually erupted."
-    ""
 
-# game/episode020.rpy:4050
+    "Tenendole le natiche, scivolai fuori dalla sua figa stretta non appena ebbi eruttato."
+
+
 translate italian ep020_paclerara_vess_jade_ea9c8fbf:
 
-    # "Jade pressed Vess down on me as I released streams of warm cum all over her back."
-    ""
 
-# game/episode020.rpy:4051
+    "Jade premette Vess su di me mentre io rilasciavo fiotti di sperma caldo su tutta la sua schiena."
+
+
 translate italian ep020_paclerara_vess_jade_683edef3:
 
-    # ve "So much cum, master!"
-    ve ""
 
-# game/episode020.rpy:4052
+    ve "Quanta sborra, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_24e62737:
 
-    # c "Hear that, Jade?{w} My own little cum-drenched whore."
-    c ""
 
-# game/episode020.rpy:4053
+    c "Hai sentito, Jade? {w} La mia piccola puttana inzuppata di sperma."
+
+
 translate italian ep020_paclerara_vess_jade_38a348b9_1:
 
-    # j "I do, master, you’re making her so happy."
-    j ""
 
-# game/episode020.rpy:4056
+    j "Sì, padrone, la stai rendendo così felice."
+
+
 translate italian ep020_paclerara_vess_jade_cf5c73d6:
 
-    # "Despite the happy tone in her voice, Jade looked a little jealous at Vess’s cum-stained back and the delirious expression worn by the other girl."
-    ""
 
-# game/episode020.rpy:4059
+    "Nonostante il tono felice della sua voce, Jade guardò un po' gelosa la schiena sporca di sperma di Vess e l'espressione delirante dell'altra ragazza."
+
+
 translate italian ep020_paclerara_vess_jade_3eb139aa:
 
-    # c "I’m going to cum all over your face!"
-    c ""
 
-# game/episode020.rpy:4060
+    c "Ti sborro in faccia!"
+
+
 translate italian ep020_paclerara_vess_jade_fb77cb84:
 
-    # ve "Please make a mess of me, master!"
-    ve ""
 
-# game/episode020.rpy:4061
+    ve "Ti prego, fammi un po' di casino, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_bb330cf1_3:
 
-    # ve "Use me whichever way you want!"
-    ve ""
 
-# game/episode020.rpy:4067
+    ve "Usami come vuoi!"
+
+
 translate italian ep020_paclerara_vess_jade_2dcc9364:
 
-    # "I slipped out of her tight pussy just in time and stood over the girl’s face."
-    ""
 
-# game/episode020.rpy:4072
+    "Uscii dalla sua figa stretta appena in tempo e mi posizionai sul viso della ragazza."
+
+
 translate italian ep020_paclerara_vess_jade_70ebf83d:
 
-    # "Jade started jerking me off and I released streams of warm cum all over Vess’s face in moments."
-    ""
 
-# game/episode020.rpy:4073
+    "Jade iniziò a masturbarmi e in pochi istanti rilasciai fiotti di sperma caldo su tutto il viso di Vess."
+
+
 translate italian ep020_paclerara_vess_jade_683edef3_1:
 
-    # ve "So much cum, master!"
-    ve ""
 
-# game/episode020.rpy:4074
+    ve "Quanta sborra, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_24e62737_1:
 
-    # c "Hear that, Jade?{w} My own little cum-drenched whore."
-    c ""
 
-# game/episode020.rpy:4075
+    c "Hai sentito, Jade? {w} La mia piccola puttana inzuppata di sperma."
+
+
 translate italian ep020_paclerara_vess_jade_38a348b9_2:
 
-    # j "I do, master, you’re making her so happy."
-    j ""
 
-# game/episode020.rpy:4078
+    j "Sì, padrone, la stai rendendo così felice."
+
+
 translate italian ep020_paclerara_vess_jade_2ef575f7:
 
-    # "Despite the happy tone in her voice, Jade looked a little jealous at Vess’s cum-stained face and the delirious expression worn by the other girl."
-    ""
 
-# game/episode020.rpy:4081
+    "Nonostante il tono felice della sua voce, Jade guardò un po' gelosa il viso sporco di sperma di Vess e l'espressione delirante dell'altra ragazza."
+
+
 translate italian ep020_paclerara_vess_jade_978e9ece_1:
 
-    # c "I’m going to cum so deep inside you."
-    c ""
 
-# game/episode020.rpy:4082
+    c "Sto per sborrare così profondamente dentro di te."
+
+
 translate italian ep020_paclerara_vess_jade_a83c90b9:
 
-    # j "Yes, please master!"
-    j ""
 
-# game/episode020.rpy:4083
+    j "Sì, ti prego, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_489a288d:
 
-    # j "Use me whichever way you want!"
-    j ""
 
-# game/episode020.rpy:4085
+    j "Usami come vuoi!"
+
+
 translate italian ep020_paclerara_vess_jade_69ede4a9:
 
-    # "Gripping her legs, I thrust deep inside her, making sure I was rooted firmly when I eventually erupted."
-    ""
 
-# game/episode020.rpy:4091
+    "Afferrando le sue gambe, mi spinsi in profondità dentro di lei, assicurandomi di essere ben radicato quando alla fine eruttai."
+
+
 translate italian ep020_paclerara_vess_jade_1ce63340:
 
-    # "Vess kept fingering Jade as I released streams of warm cum inside her tight little pussy."
-    ""
 
-# game/episode020.rpy:4092
+    "Vess continuava a sditalinare Jade mentre io rilasciavo fiotti di sperma caldo nella sua figa stretta."
+
+
 translate italian ep020_paclerara_vess_jade_24020303:
 
-    # j "I can feel it, master, all of your cum inside me."
-    j ""
 
-# game/episode020.rpy:4093
+    j "Lo sento, padrone, tutto il tuo sperma dentro di me."
+
+
 translate italian ep020_paclerara_vess_jade_fd2d4fdf_1:
 
-    # c "It’s all for you."
-    c ""
 
-# game/episode020.rpy:4094
+    c "È tutto per te."
+
+
 translate italian ep020_paclerara_vess_jade_d1f4b0b3:
 
-    # c "Hear that, Vess?{w} My own little cum whore."
-    c ""
 
-# game/episode020.rpy:4095
+    c "Hai sentito, Vess? {w} La mia piccola puttana di sperma."
+
+
 translate italian ep020_paclerara_vess_jade_11beb38a:
 
-    # ve "I do, master, you’re making her so happy."
-    ve ""
 
-# game/episode020.rpy:4098
+    ve "Sì, padrone, la stai rendendo così felice."
+
+
 translate italian ep020_paclerara_vess_jade_64f8cd25:
 
-    # "Despite the happy tone in her voice, Vess looked a little jealous at the cum that kept streaming out of Jade after I had pulled my cock from her slit."
-    ""
 
-# game/episode020.rpy:4101
+    "Nonostante il tono felice della sua voce, Vess sembrava un po' gelosa dello sperma che continuava a uscire da Jade dopo che avevo estratto il mio cazzo dalla sua fessura."
+
+
 translate italian ep020_paclerara_vess_jade_ddd577b6_1:
 
-    # c "I’m going to cum all over you!"
-    c ""
 
-# game/episode020.rpy:4102
+    c "Ti sborro addosso!"
+
+
 translate italian ep020_paclerara_vess_jade_0ddc1fe9:
 
-    # j "Please make a mess of my body, master!"
-    j ""
 
-# game/episode020.rpy:4103
+    j "Ti prego, fai scempio del mio corpo, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_489a288d_1:
 
-    # j "Use me whichever way you want!"
-    j ""
 
-# game/episode020.rpy:4105
+    j "Usami come vuoi!"
+
+
 translate italian ep020_paclerara_vess_jade_0565c6c1:
 
-    # "I slipped out of her tight pussy and Vess switched to jerking me off."
-    ""
 
-# game/episode020.rpy:4111
+    "Uscii dalla sua figa stretta e Vess passò a masturbarmi."
+
+
 translate italian ep020_paclerara_vess_jade_715aed92:
 
-    # "I released streams of warm cum all over Jade in moments."
-    ""
 
-# game/episode020.rpy:4112
+    "In pochi istanti rilasciai fiotti di sperma caldo su tutta Jade."
+
+
 translate italian ep020_paclerara_vess_jade_f704ec10:
 
-    # j "So much cum, master!"
-    j ""
 
-# game/episode020.rpy:4113
+    j "Quanta sborra, padrone!"
+
+
 translate italian ep020_paclerara_vess_jade_700a82e1:
 
-    # c "Hear that, Vess?{w} My own little cum-drenched whore."
-    c ""
 
-# game/episode020.rpy:4114
+    c "Hai sentito, Vess? {w} La mia piccola puttana inzuppata di sperma."
+
+
 translate italian ep020_paclerara_vess_jade_11beb38a_1:
 
-    # ve "I do, master, you’re making her so happy."
-    ve ""
 
-# game/episode020.rpy:4117
+    ve "Sì, padrone, la stai rendendo così felice."
+
+
 translate italian ep020_paclerara_vess_jade_3b89f0d4:
 
-    # "Despite the happy tone in her voice, Vess looked a little jealous at Jade’s cum-stained back and the delirious expression worn by the other girl."
-    ""
 
-# game/episode020.rpy:4121
+    "Nonostante il tono felice della sua voce, Vess guardò un po' gelosa la schiena sporca di sperma di Jade e l'espressione delirante dell'altra ragazza."
+
+
 translate italian ep020_paclerara_vess_jade_2aef42e3:
 
-    # "After we’d recovered from our exertion, me and my two girls took a swim and cleaned ourselves up."
-    ""
 
-# game/episode020.rpy:4122
+    "Dopo esserci riprese dallo sforzo, io e le mie due ragazze facemmo una nuotata e ci ripulimmo."
+
+
 translate italian ep020_paclerara_vess_jade_81a8426d:
 
-    # "The pool area remained empty for the duration, so after we left together, nobody was none the wiser about the orgy that had taken place very recently."
-    ""
 
-# game/episode020.rpy:4127
+    "L'area della piscina rimase vuota per tutto il tempo, quindi dopo che ce ne andammo insieme, nessuno era al corrente dell'orgia che si era svolta di recente."
+
+
 translate italian ep020_vess_orgasm_bfb610b1:
 
-    # "I had some fight left in me, so I began to attack her slit with some vigor."
-    ""
 
-# game/episode020.rpy:4128
+    "Avevo ancora un po' di forza in corpo, così iniziai ad attaccare la sua fessura con un certo vigore."
+
+
 translate italian ep020_vess_orgasm_288eed76:
 
-    # "The wet slap of flesh resounded throughout the pool area, as did Vess’s hoarse moans."
-    ""
 
-# game/episode020.rpy:4129
+    "Lo schiaffo umido della carne risuonò in tutta l'area della piscina, così come i gemiti rochi di Vess."
+
+
 translate italian ep020_vess_orgasm_a4b53cda:
 
-    # "I hit her sweet spot and could feel her pussy releasing juices."
-    ""
 
-# game/episode020.rpy:4130
+    "Ho colpito il suo punto debole e ho sentito la sua figa rilasciare succhi."
+
+
 translate italian ep020_vess_orgasm_9aec69ad:
 
-    # ve "M-master!{w} Oh m-master!"
-    ve ""
 
-# game/episode020.rpy:4132
+    ve "M-maestro! {w} Oh m-maestro!"
+
+
 translate italian ep020_vess_orgasm_178aa6fd:
 
-    # "I hit her deep inside her cunt several times and finally broke her."
-    ""
 
-# game/episode020.rpy:4133
+    "La colpii più volte nel profondo della sua fica e alla fine la ruppi."
+
+
 translate italian ep020_vess_orgasm_1018fab0:
 
-    # "Vess orgasmed loudly and shuddered on top of me."
-    ""
 
-# game/episode020.rpy:4134
+    "Vess ebbe un forte orgasmo e tremò sopra di me."
+
+
 translate italian ep020_vess_orgasm_b86bbd26:
 
-    # "But I didn’t allow her to get her bearings and kept fucking her, in search for my own climax."
-    ""
 
-# game/episode020.rpy:4136
+    "Ma non le permisi di riprendersi e continuai a scoparla, alla ricerca del mio orgasmo."
+
+
 translate italian ep020_vess_orgasm_71871813:
 
-    # "Vess’s cunt was slippery with her grool and she was still convulsing wildly as my dick probed her depths."
-    ""
 
-# game/episode020.rpy:4137
+    "La fica di Vess era scivolosa di sperma e continuava a convogliarsi selvaggiamente mentre il mio cazzo sondava le sue profondità."
+
+
 translate italian ep020_vess_orgasm_8ac46919:
 
-    # "Her eyes were rolled back and her moans a high-winded wheeze."
-    ""
 
-# game/episode020.rpy:4138
+    "I suoi occhi erano rivolti all'indietro e i suoi gemiti erano un rantolo acuto."
+
+
 translate italian ep020_vess_orgasm_fce23857:
 
-    # "It almost seemed as if she was on the brink of losing consciousness."
-    ""
 
-# game/episode020.rpy:4139
+    "Sembrava quasi che fosse sul punto di perdere conoscenza."
+
+
 translate italian ep020_vess_orgasm_c733719c:
 
-    # "I kept fucking her without pause and taking in the pretty sight of her, I could feel the energy of my oncoming climax build."
-    ""
 
-# game/episode020.rpy:4144
+    "Continuai a scoparla senza sosta e, godendo della sua bella vista, sentivo crescere l'energia del mio climax imminente."
+
+
 translate italian ep020_jade_orgasm_bfb610b1:
 
-    # "I had some fight left in me, so I began to attack her slit with some vigor."
-    ""
 
-# game/episode020.rpy:4145
+    "Avevo ancora un po' di forza in corpo, così iniziai ad attaccare la sua fessura con un certo vigore."
+
+
 translate italian ep020_jade_orgasm_259e3a03:
 
-    # "The wet slap of flesh resounded throughout the pool area, as did the Jade’s hoarse moans."
-    ""
 
-# game/episode020.rpy:4146
+    "Lo schiaffo umido della carne risuonò in tutta l'area della piscina, così come i gemiti rochi di Jade."
+
+
 translate italian ep020_jade_orgasm_a4b53cda:
 
-    # "I hit her sweet spot and could feel her pussy releasing juices."
-    ""
 
-# game/episode020.rpy:4147
+    "Ho colpito il suo punto debole e ho sentito la sua figa rilasciare succhi."
+
+
 translate italian ep020_jade_orgasm_a9de9199:
 
-    # j "M-master!{w} Oh m-master!"
-    j ""
 
-# game/episode020.rpy:4149
+    j "M-maestro! {w} Oh m-maestro!"
+
+
 translate italian ep020_jade_orgasm_178aa6fd:
 
-    # "I hit her deep inside her cunt several times and finally broke her."
-    ""
 
-# game/episode020.rpy:4150
+    "La colpii più volte nel profondo della sua fica e alla fine la ruppi."
+
+
 translate italian ep020_jade_orgasm_fedf5208:
 
-    # "Jade orgasmed loudly and shuddered under me."
-    ""
 
-# game/episode020.rpy:4151
+    "Giada ebbe un forte orgasmo e tremò sotto di me."
+
+
 translate italian ep020_jade_orgasm_b86bbd26:
 
-    # "But I didn’t allow her to get her bearings and kept fucking her, in search for my own climax."
-    ""
 
-# game/episode020.rpy:4153
+    "Ma non le permisi di riprendersi e continuai a scoparla, alla ricerca del mio orgasmo."
+
+
 translate italian ep020_jade_orgasm_dc32b42f:
 
-    # "Jade’s cunt was slippery with her grool and she was still convulsing wildly as my dick probed her depths."
-    ""
 
-# game/episode020.rpy:4154
+    "La fica di Giada era scivolosa di sperma e continuava a convogliarsi selvaggiamente mentre il mio cazzo sondava le sue profondità."
+
+
 translate italian ep020_jade_orgasm_8ac46919:
 
-    # "Her eyes were rolled back and her moans a high-winded wheeze."
-    ""
 
-# game/episode020.rpy:4155
+    "I suoi occhi erano rivolti all'indietro e i suoi gemiti erano un rantolo acuto."
+
+
 translate italian ep020_jade_orgasm_a5294200:
 
-    # "If I didn’t know Jade was made of sterner stuff I’d say that she was on the brink of losing consciousness."
-    ""
 
-# game/episode020.rpy:4156
+    "Se non sapessi che Jade è fatta di una materia più resistente, direi che era sul punto di perdere i sensi."
+
+
 translate italian ep020_jade_orgasm_c733719c:
 
-    # "I kept fucking her without pause and taking in the pretty sight of her, I could feel the energy of my oncoming climax build."
-    ""
+
+    "Continuai a scoparla senza sosta e, godendo della sua bella vista, sentivo crescere l'energia del mio climax imminente."
 
 translate italian strings:
 
-    # game/episode020.rpy:2
+
     old "Episode 20"
-    new ""
+    new "Episodio 20"
 
-    # game/episode020.rpy:172
+
+    old "Planet"
+    new "Pianeta"
+
+
+    old "Petrarch"
+    new "Petrarca"
+
+
     old "Location: Držić"
-    new ""
+    new "Luogo: Držić"
 
-    # game/episode020.rpy:172
+
     old "Petrarch actually consists of three suns (labeled I, II and III) and an unnamed planet, together forming the Petrarch system. The system is a likely candidate for the location mentioned in the prophecy and is located in Držić, an ancient high-redshift galaxy in Ursa Major."
-    new ""
+    new "Petrarca è in realtà composto da tre soli (denominati I, II e III) e da un pianeta senza nome, che insieme formano il sistema Petrarca. Il sistema è un probabile candidato per il luogo menzionato nella profezia e si trova in Držić, un'antica galassia ad alto spettro nell'Orsa Maggiore."
 
-    # game/episode020.rpy:190
+
     old "Meeting about Thim"
-    new ""
+    new "Incontro su Thim"
 
-    # game/episode020.rpy:190
+
     old "Meet Céline"
-    new ""
+    new "Incontra Céline"
 
-    # game/episode020.rpy:190
+
     old "Check on the Bastard"
-    new ""
+    new "Controllare il Bastardo"
 
-    # game/episode020.rpy:190
+
     old "Sleep"
-    new ""
+    new "Dormire"
 
-    # game/episode020.rpy:190
+
     old "Visit Raene"
-    new ""
+    new "Visita Raene"
 
-    # game/episode020.rpy:190
+
     old "Visit Vess & Jade"
-    new ""
+    new "Visita Vess e Jade"
 
-    # game/episode020.rpy:288
+
     old "Xile"
-    new ""
+    new "Xile"
 
-    # game/episode020.rpy:288
+
     old "Location: Unknown"
-    new ""
+    new "Posizione: Sconosciuto"
 
-    # game/episode020.rpy:288
+
     old "The self-styled queen and leader of the Marleybone Irregulars."
-    new ""
+    new "La sedicente regina e leader degli Irregolari di Marleybone."
 
-    # game/episode020.rpy:288
+
     old "Survived an attempt on her life, ordered by Alilph Skeda. The pirate queen subsequently ordered the death of Skeda and put a price on his head."
-    new ""
+    new "È sopravvissuta a un attentato alla sua vita, ordinato da Alilph Skeda. In seguito, la regina dei pirati ordinò la morte di Skeda e mise una taglia sulla sua testa."
 
-    # game/episode020.rpy:359
+
     old "Cleric"
-    new ""
+    new "Chierico"
 
-    # game/episode020.rpy:610
+
     old "Do want kids"
-    new ""
+    new "Desidero dei figli"
 
-    # game/episode020.rpy:610
+
     old "Don't want kids"
-    new ""
+    new "Non voglio figli"
 
-    # game/episode020.rpy:703
+
     old "Don’t propose a harem"
-    new ""
+    new "Non proporre un harem"
 
-    # game/episode020.rpy:839
+
     old "Finish your drink"
-    new ""
+    new "Finisci il tuo drink"
 
-    # game/episode020.rpy:875
+
     old "Press on"
-    new ""
+    new "Continua"
 
-    # game/episode020.rpy:1178
+
     old "Marleybone Irregulars"
-    new ""
+    new "Irregolari di Marleybone"
 
-    # game/episode020.rpy:1178
+
     old "A band of pirates operating out of an unknown location, but near Držić. The Irregulars are a secretive outfit, lead by one captain."
-    new ""
+    new "Una banda di pirati che opera in un luogo sconosciuto, ma vicino a Držić. Gli Irregolari sono un gruppo segreto, guidato da un capitano."
 
-    # game/episode020.rpy:1194
+
     old "Marleybone Irregulars Meeting Point"
-    new ""
+    new "Punto d'incontro degli Irregolari di Marleybone"
 
-    # game/episode020.rpy:1213
+
     old "Shuttle"
-    new ""
+    new "Navetta"
 
-    # game/episode020.rpy:1273
+
     old "Pirate"
-    new ""
+    new "Pirata"
 
-    # game/episode020.rpy:1361
+
     old "Alilph Skeda"
-    new ""
+    new "Alilph Skeda"
 
-    # game/episode020.rpy:1361
+
     old "Location: Aretine"
-    new ""
+    new "Posizione: Aretine"
 
-    # game/episode020.rpy:1361
+
     old "The leader of Skeda’s Skivs, a band of mercenaries and pirates living on the volcanic planet Aretine."
-    new ""
+    new "Il capo degli Skiv di Skeda, una banda di mercenari e pirati che vive sul pianeta vulcanico Aretine."
 
-    # game/episode020.rpy:1361
+
     old "Skeda is personally responsible for the botched attempt on rival captain Xile’s life, resulting in the bounty on his head."
-    new ""
+    new "Skeda è personalmente responsabile dell'attentato alla vita del capitano rivale Xile, che ha portato alla riscossione di una taglia sulla sua testa."
 
-    # game/episode020.rpy:1429
+
     old "Aretine, Approach"
-    new ""
+    new "Aretine, approccio"
 
-    # game/episode020.rpy:1478
+
     old "Sneak past"
-    new ""
+    new "Supera di soppiatto"
 
-    # game/episode020.rpy:1485
+
     old "Mercenary"
-    new ""
+    new "Mercenario"
 
-    # game/episode020.rpy:1568
+
     old "Merc Brute"
-    new ""
+    new "Merc Brute"
 
-    # game/episode020.rpy:1664
+
     old "Hear him out"
-    new ""
+    new "Ascoltalo"
 
-    # game/episode020.rpy:1664
+
     old "Not interested"
-    new ""
+    new "Non è interessato"
 
-    # game/episode020.rpy:1691
+
     old "Deal"
-    new ""
+    new "Affare fatto"
 
-    # game/episode020.rpy:1789
+
     old "The bounty was ultimately collected after the explosion of the base on Aretine, resulting in the death of Alilph Skeda."
-    new ""
+    new "La taglia è stata riscossa dopo l'esplosione della base su Aretine, che ha causato la morte di Alilph Skeda."
 
-    # game/episode020.rpy:1845
+
     old "Xile was ultimately double-crossed and killed in the assault on the Irregulars' secret base."
-    new ""
+    new "Xile è stato infine ingannato e ucciso durante l'assalto alla base segreta degli Irregolari."
 
-    # game/episode020.rpy:1938
+
     old "Nurse"
-    new ""
+    new "Infermiera"
 
-    # game/episode020.rpy:2364
+
     old "Propose harem"
-    new ""
+    new "Propone un harem"
 
-    # game/episode020.rpy:2364
+
     old "Individual relationships"
-    new ""
+    new "Relazioni individuali"
 
-    # game/episode020.rpy:2846
+
     old "Fuck Aven"
-    new ""
+    new "Scopata Aven"
 
-    # game/episode020.rpy:2846
+
     old "Creampie Aven"
-    new ""
+    new "Sborra dentro Aven"
 
-    # game/episode020.rpy:3490
+
     old "Masseuse"
-    new ""
+    new "Massaggiatrice"
 
-    # game/episode020.rpy:3994
+
     old "Fuck Vess again"
-    new ""
+    new "Scopare di nuovo con Vess"
 
+
+
+
+translate italian ep020_paclerara_nadya_ab1ccf7c:
+
+
+    c "Farti diventare madre sarebbe un sogno che si avvera."
+
+
+translate italian ep020_paclerara_thyia_c4e2be81:
+
+
+    th "A meno che tu non voglia che la tua aspettativa di vita crolli al 10 percento."
+
+
+translate italian ep020_pirate_rendevous_e0e9a782:
+
+
+    "Thyia fu la prima a sedersi."
+
+
+translate italian ep020_paclerara_eva_87add7cf:
+
+
+    c "Più probabilmente sarei stata deferita immediatamente alla corte marziale per qualche stupida trasgressione."
+
+
+translate italian ep020_lilly_aven_sex_e92026ec:
+
+
+    "Aven piegò leggermente le ginocchia e si mise in bilico sul viso dell'amica."
+
+
+translate italian ep020_l_av_fucking_dea32d45:
+
+
+    "Spessi fili di sperma caldo schizzarono sulla schiena di Aven."
+
+
+translate italian ep020_eva_sex_b5f99b95_1:
+
+
+    "Diedi le mie ultime rapide spinte, portando Eva al limite."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

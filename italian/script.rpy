@@ -1,19 +1,18 @@
-
-
+﻿
 
 translate italian strings:
 
 
     old "Taboo Edition disabled"
-    new "Edizione Tabù disabilitata"
+    new "Edizione Tabù disattivata"
 
 
     old "Taboo Edition enabled"
-    new "Edizione Tabù abilitata"
+    new "Edizione Tabù attivata"
 
 
     old "CODEX UPDATED"
-    new "CODICE AGGIORNATO"
+    new "CODEX AGGIORNATO"
 
 
     old "ACHIEVEMENT UNLOCKED"
@@ -85,7 +84,7 @@ translate italian strings:
 
 
     old "Special thanks to"
-    new "Ringraziamenti speciali a"
+    new "Un ringraziamento speciale a"
 
 
     old "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
@@ -93,145 +92,125 @@ translate italian strings:
 
 
     old "Very special thanks to"
-    new "Un ringraziamento molto speciale a"
+    new "Un ringraziamento speciale a"
 
 
     old "All loyal patrons who generously supported the development of this project."
-    new "Tutti i fedeli patrons che hanno generosamente sostenuto lo sviluppo di questo progetto."
+    new "Tutti i fedeli sostenitori che hanno generosamente supportato lo sviluppo di questo progetto."
 
 
-    old "Unread"
-    new "Non letto"
-
-
-    old "What is your name?"
-    new "Come ti chiami?"
-
-
-    old "What is your nickname?"
-    new "Qual è il tuo soprannome?"
-
-
-    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
-    new "{=location_subheading}LUOGO:{/=location_subheading}\n[location]"
-
-
-    old "{=location_subheading}THANK YOU{/=location_subheading}"
-    new "{=location_subheading}GRAZIE{/=location_subheading}"
-
-
-    old "{b}A big thank you to my top tier backers, you rock!{/b}"
-    new "{b}Un grosso grazie ai miei sostenitori più affiatati. Siete grandi!{/b}"
-
-
-    old "Credits"
-    new "Crediti"
-
-# TODO: Translation updated at 2025-06-04 13:45
 
 translate italian strings:
 
-    # game/script.rpy:238
-    old "Eva"
-    new ""
 
-    # game/script.rpy:240
-    old "Aven"
-    new ""
-
-    # game/script.rpy:244
-    old "Céline"
-    new ""
-
-    # game/script.rpy:246
-    old "Jade"
-    new ""
-
-    # game/script.rpy:248
-    old "Raene"
-    new ""
-
-    # game/script.rpy:250
-    old "Ziv"
-    new ""
-
-    # game/script.rpy:252
-    old "Thyia"
-    new ""
-
-    # game/script.rpy:254
-    old "Vess"
-    new ""
-
-    # game/script.rpy:258
-    old " and "
-    new ""
-
-    # game/script.rpy:263
     old "one"
-    new ""
+    new "uno"
 
-    # game/script.rpy:265
+
     old "two"
-    new ""
+    new "due"
 
-    # game/script.rpy:267
+
     old "three"
-    new ""
+    new "tre"
 
-    # game/script.rpy:269
+
     old "four"
-    new ""
+    new "quattro"
 
-    # game/script.rpy:271
+
     old "five"
-    new ""
+    new "cinque"
 
-    # game/script.rpy:273
+
     old "six"
-    new ""
+    new "sei"
 
-    # game/script.rpy:275
+
     old "seven"
-    new ""
+    new "sette"
 
-    # game/script.rpy:277
+
     old "eight"
-    new ""
+    new "otto"
 
-    # game/script.rpy:279
+
     old "nine"
-    new ""
+    new "nove"
 
-    # game/script.rpy:281
+
     old "a lot"
-    new ""
+    new "molto"
 
-    # game/script.rpy:391
+
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new ""
+    new "Premi {i}\"Invio\"{/i} sulla tastiera a schermo per confermare"
 
-    # game/script.rpy:469
+
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new "{=location_subheading}LOCAZIONE:{/=location_subheading}\n[location]"
+
+
+
+translate italian strings:
+
+
+    old "Eva"
+    new "Eva"
+
+
+    old "Aven"
+    new "Aven"
+
+
+    old "Nadya"
+    new "Nadya"
+
+
+    old "Céline"
+    new "Céline"
+
+
+    old "Ziv"
+    new "Ziv"
+
+
+    old "Thyia"
+    new "Thyia"
+
+
+
+translate italian strings:
+
+
+    old " and "
+    new " e "
+
+
+
+translate italian strings:
+
+
     old "Character Selection"
-    new ""
+    new "Selezione del personaggio"
 
-    # game/script.rpy:476
+
     old "Who participates in this scene?"
-    new ""
+    new "Chi partecipa a questa scena?"
 
-    # game/script.rpy:534
+
     old "Select at least two characters."
-    new ""
+    new "Seleziona almeno due personaggi."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-05-18 19:53
 
-    # game/script.rpy:627
-    old "THANK YOU"
-    new ""
-
-    # game/script.rpy:628
-    old "A big thank you to my top tier backers, you rock!"
-    new ""
+translate italian strings:
 
     # game/script.rpy:714
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
-    new ""
+    new "Grubb {i}(portoghese){/i}, MyPrettyWolfy {i}(russo){/i}, Frank Rosario {i}(italiano){/i}, Juan Manuel {i}(spagnolo){/i}, `SpeciaL. (turco)"
+
+    # game/script.rpy:862
+    old "Unread"
+    new "Non letti"
 
