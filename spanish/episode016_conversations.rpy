@@ -4720,3 +4720,47 @@ translate spanish strings:
     old "Don’t want kids"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode016_conversations.rpy:411
+translate spanish ep016_thyia_talk_6463c945:
+
+    # "For the duration of our stay, Thyia mostly stayed on the Bastard."
+    ""
+
+# game/episode016_conversations.rpy:413
+translate spanish ep016_thyia_talk_c0d66333:
+
+    # "For the duration of our stay, Thyia mostly remained holed up in the engine room."
+    ""
+
+# game/episode016_conversations.rpy:414
+translate spanish ep016_thyia_talk_fe0db63e:
+
+    # "She was working on something and that seemed to take up most of her time."
+    ""
+
+# game/episode016_conversations.rpy:416
+translate spanish ep016_thyia_talk_da20415c:
+
+    # "I went to check up on her."
+    ""
+
+# game/episode016_conversations.rpy:469
+translate spanish ep016_thyia_talk_684e94f5:
+
+    # th "It’s just that, I mean, this is a date, right?"
+    th ""
+
+# game/episode016_conversations.rpy:695
+translate spanish ep016_kit_talk_d1fb1885:
+
+    # c "So much so that they wanted children together, even behind Yve’s back, or so Nadya thought."
+    c ""
+
+# game/episode016_conversations.rpy:856
+translate spanish ep016_ziv_talk_f4dd3f54:
+
+    # zi "I was just explaining to Raene about everything that happened on Uailea."
+    zi ""
+

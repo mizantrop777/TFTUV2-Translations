@@ -4612,3 +4612,11 @@ translate spanish strings:
     old "Crowd"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate spanish strings:
+
+    # game/episode013.rpy:3
+    old "Episode 13"
+    new ""
+

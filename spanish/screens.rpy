@@ -525,3 +525,31 @@ translate spanish strings:
     old "Spanish (partial)"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate spanish strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new ""
+
+    # game/screens.rpy:1473
+    old "Português (parcial)"
+    new ""
+
+    # game/screens.rpy:1474
+    old "Français"
+    new ""
+
+    # game/screens.rpy:1477
+    old "Italiano (parziale)"
+    new ""
+
+    # game/screens.rpy:1478
+    old "Español (parcial)"
+    new ""
+
+    # game/screens.rpy:1479
+    old "Русский (частичный)"
+    new ""
+

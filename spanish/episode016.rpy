@@ -6432,3 +6432,23 @@ translate spanish strings:
     old "Suck her"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode016.rpy:818
+translate spanish ep016_scolguin_fleet_11b72724:
+
+    # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
+    c ""
+
+# game/episode016.rpy:1029
+translate spanish ep016_altum_approach_c86b8656:
+
+    # "The Bastard fit into one of the smaller bays, which were already teeming with activity."
+    ""
+
+translate spanish strings:
+
+    # game/episode016.rpy:3
+    old "Episode 16"
+    new ""
+

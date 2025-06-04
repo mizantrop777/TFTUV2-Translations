@@ -8104,3 +8104,33 @@ translate spanish strings:
     old "Jerk her off"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+# game/episode017.rpy:1588
+translate spanish ep017_celine_3acd41e7:
+
+    # "Do you want to be able to have anal sex with Céline?"
+    ""
+
+# game/episode017.rpy:1592
+translate spanish ep017_celine_ef35d6d6:
+
+    # "Anal enabled"
+    ""
+
+# game/episode017.rpy:1595
+translate spanish ep017_celine_aa7e8d37:
+
+    # "Anal disabled"
+    ""
+
+translate spanish strings:
+
+    # game/episode017.rpy:3
+    old "Episode 17"
+    new ""
+
+    # game/episode017.rpy:1846
+    old "Anal creampie"
+    new ""
+

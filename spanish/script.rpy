@@ -150,3 +150,63 @@ translate spanish strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate spanish strings:
+
+    # game/script.rpy:238
+    old "Eva"
+    new ""
+
+    # game/script.rpy:240
+    old "Aven"
+    new ""
+
+    # game/script.rpy:242
+    old "Nadya"
+    new ""
+
+    # game/script.rpy:244
+    old "Céline"
+    new ""
+
+    # game/script.rpy:250
+    old "Ziv"
+    new ""
+
+    # game/script.rpy:252
+    old "Thyia"
+    new ""
+
+    # game/script.rpy:258
+    old " and "
+    new ""
+
+    # game/script.rpy:469
+    old "Character Selection"
+    new ""
+
+    # game/script.rpy:476
+    old "Who participates in this scene?"
+    new ""
+
+    # game/script.rpy:534
+    old "Select at least two characters."
+    new ""
+
+    # game/script.rpy:627
+    old "THANK YOU"
+    new ""
+
+    # game/script.rpy:628
+    old "A big thank you to my top tier backers, you rock!"
+    new ""
+
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new ""
+
+    # game/script.rpy:862
+    old "Unread"
+    new ""
+

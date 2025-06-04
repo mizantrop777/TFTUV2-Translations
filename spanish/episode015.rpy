@@ -7204,3 +7204,11 @@ translate spanish strings:
     old "Declare your love"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:38
+
+translate spanish strings:
+
+    # game/episode015.rpy:3
+    old "Episode 15"
+    new ""
+
