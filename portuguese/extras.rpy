@@ -6744,3 +6744,785 @@ translate portuguese extra_scene_45_34382141:
     # "We needed to get ready for our arrival on Petrarch, so I left Nadya’s quarters after kissing her goodbye."
     ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+# game/extras.rpy:2128
+translate portuguese extra_scene_44_80e94728:
+
+    # "When I was naked, Eva took hold of my erection and dropped to her knees."
+    ""
+
+# game/extras.rpy:2137
+translate portuguese extra_scene_44_e3b95bd1:
+
+    # c "Your mouth feels so good on me."
+    c ""
+
+# game/extras.rpy:2247
+translate portuguese extra_scene_44_60e9b568:
+
+    # c "I want to cum in your mouth, Eva!"
+    c ""
+
+# game/extras.rpy:2348
+translate portuguese extra_scene_45_df0158ea:
+
+    # na "I want your hard cock inside me, [p_name_short]!"
+    na ""
+
+# game/extras.rpy:2359
+translate portuguese extra_scene_45_b74e7091:
+
+    # na "Fuck your mother hard, [p_name_short]!"
+    na ""
+
+# game/extras.rpy:2361
+translate portuguese extra_scene_45_097a20b5:
+
+    # na "Fuck me hard, [p_name_short]!"
+    na ""
+
+# game/extras.rpy:2407
+translate portuguese extra_scene_45_7793f610:
+
+    # c "I love your tits so much, mom."
+    c ""
+
+# game/extras.rpy:2410
+translate portuguese extra_scene_45_2e4e6a8e:
+
+    # c "I love your tits so much, Nadya."
+    c ""
+
+# game/extras.rpy:2421
+translate portuguese extra_scene_45_8f61513d:
+
+    # "My orgasm was close, Nadya’s tight slit made sure of that."
+    ""
+
+# game/extras.rpy:2506
+translate portuguese extra_scene_46_10eef4af:
+
+    # "Is Vess submissive in this scene?"
+    ""
+
+# game/extras.rpy:2510
+translate portuguese extra_scene_46_a2cec5b9:
+
+    # "Vess submissive"
+    ""
+
+# game/extras.rpy:2513
+translate portuguese extra_scene_46_2be4f19f:
+
+    # "Vess not submissive"
+    ""
+
+# game/extras.rpy:2515
+translate portuguese extra_scene_46_a7af1bbe:
+
+    # "I pulled out of Vess and allowed her to catch her breath."
+    ""
+
+# game/extras.rpy:2517
+translate portuguese extra_scene_46_b8472df8:
+
+    # c "You’re both such good little cock sluts."
+    c ""
+
+# game/extras.rpy:2518
+translate portuguese extra_scene_46_4ba8056a:
+
+    # c "I really want to return the favor, so why don’t you both spread your legs for me."
+    c ""
+
+# game/extras.rpy:2520
+translate portuguese extra_scene_46_7665ccd0:
+
+    # "Both Vess and Céline obliged, opening their legs and displaying their sweet little pussies for me."
+    ""
+
+# game/extras.rpy:2521
+translate portuguese extra_scene_46_b2f0b128:
+
+    # c "Now who shall I pick first?"
+    c ""
+
+# game/extras.rpy:2524
+translate portuguese extra_scene_46_03583cd3:
+
+    # ve "I’m all ready for you, master."
+    ve ""
+
+# game/extras.rpy:2526
+translate portuguese extra_scene_46_f93b076e:
+
+    # ve "I’m all ready for you."
+    ve ""
+
+# game/extras.rpy:2528
+translate portuguese extra_scene_46_2c03e1e0:
+
+    # ce "Me please!"
+    ce ""
+
+# game/extras.rpy:2529
+translate portuguese extra_scene_46_ada9d059:
+
+    # ce "I’ll squirt for you again!"
+    ce ""
+
+# game/extras.rpy:2530
+translate portuguese extra_scene_46_a44b63aa:
+
+    # c "Oh Vess, I don’t think I can resist that offer."
+    c ""
+
+# game/extras.rpy:2535
+translate portuguese extra_scene_46_611b62ca:
+
+    # "I went down to my knees and pushed Céline’s legs backward."
+    ""
+
+# game/extras.rpy:2536
+translate portuguese extra_scene_46_cac52928:
+
+    # "She shivered as my tongue connected with her pussy lips."
+    ""
+
+# game/extras.rpy:2537
+translate portuguese extra_scene_46_27d2ab80:
+
+    # c "Mmmm, you’re already drenched, Céline."
+    c ""
+
+# game/extras.rpy:2538
+translate portuguese extra_scene_46_31d5c584:
+
+    # ce "Yes, you’re making me all wet."
+    ce ""
+
+# game/extras.rpy:2542
+translate portuguese extra_scene_46_ca2d3f65:
+
+    # ce "Oh [p_name_short], your tongue feels so good on my pussy."
+    ce ""
+
+# game/extras.rpy:2543
+translate portuguese extra_scene_46_bbbeb7ad:
+
+    # "Holding her in place, I began to lick Céline’s tight pussy."
+    ""
+
+# game/extras.rpy:2544
+translate portuguese extra_scene_46_b45dbc6f:
+
+    # "She quivered and moaned, growing increasingly wet."
+    ""
+
+# game/extras.rpy:2546
+translate portuguese extra_scene_46_9cb13caf:
+
+    # "Ejaculate oozed from her cunt, as her muscles tightened in the onslaught of my tongue."
+    ""
+
+# game/extras.rpy:2547
+translate portuguese extra_scene_46_4a5ec619:
+
+    # ce "Yes, [p_name_short], right there."
+    ce ""
+
+# game/extras.rpy:2548
+translate portuguese extra_scene_46_252ae0db:
+
+    # ce "Lick my clit!"
+    ce ""
+
+# game/extras.rpy:2549
+translate portuguese extra_scene_46_99fda8e6:
+
+    # ce "Please don’t stop!"
+    ce ""
+
+# game/extras.rpy:2551
+translate portuguese extra_scene_46_abcbea03:
+
+    # ve "You’re going to cum for him, aren’t you Céline?"
+    ve ""
+
+# game/extras.rpy:2552
+translate portuguese extra_scene_46_1ef6a273:
+
+    # ce "Yes, I am."
+    ce ""
+
+# game/extras.rpy:2553
+translate portuguese extra_scene_46_8ba17c5e:
+
+    # ce "He’s going to make me cum so hard!"
+    ce ""
+
+# game/extras.rpy:2558
+translate portuguese extra_scene_46_ac505a8c:
+
+    # "Emboldened, I increased the pressure on her slit and throbbing clitoris."
+    ""
+
+# game/extras.rpy:2559
+translate portuguese extra_scene_46_120b6074:
+
+    # "Céline slammed the palms of her hands repeatedly on the floor of the ship, her anguished moans reverberating throughout the bridge."
+    ""
+
+# game/extras.rpy:2560
+translate portuguese extra_scene_46_56119beb:
+
+    # "I could feel her climax was very near, as my senses were suddenly overwhelmed by her salty taste."
+    ""
+
+# game/extras.rpy:2561
+translate portuguese extra_scene_46_e6446b11:
+
+    # ce "Oh fuck, [p_name_short]! I’m cumming!"
+    ce ""
+
+# game/extras.rpy:2562
+translate portuguese extra_scene_46_797f2030:
+
+    # ce "I’m going to-"
+    ce ""
+
+# game/extras.rpy:2563
+translate portuguese extra_scene_46_f83bd7cc:
+
+    # "Her words were lost to the frenzy that had overtaken her body."
+    ""
+
+# game/extras.rpy:2568
+translate portuguese extra_scene_46_f51565c2:
+
+    # "Ejaculate sprayed from her slit and into my face."
+    ""
+
+# game/extras.rpy:2570
+translate portuguese extra_scene_46_f8820d9f:
+
+    # "I kept licking her pussy and managed to elicit another squirt."
+    ""
+
+# game/extras.rpy:2571
+translate portuguese extra_scene_46_1d17cc7b:
+
+    # "Both Vess and me held her as she convulsed violently on the floor, a puddle of her ejaculate forming underneath her ass."
+    ""
+
+# game/extras.rpy:2572
+translate portuguese extra_scene_46_cd3e0055:
+
+    # "When the tremors wracking her body receded, Céline looked up to me in adoration."
+    ""
+
+# game/extras.rpy:2573
+translate portuguese extra_scene_46_2d3d6dd6:
+
+    # c "Now Vess, be a good girl and clean her up."
+    c ""
+
+# game/extras.rpy:2578
+translate portuguese extra_scene_46_d3dc9363:
+
+    # "Vess, lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
+    ""
+
+# game/extras.rpy:2580
+translate portuguese extra_scene_46_67aa4c0d:
+
+    # c "That’s a good little slut."
+    c ""
+
+# game/extras.rpy:2582
+translate portuguese extra_scene_46_61717e30:
+
+    # c "That’s a good girl."
+    c ""
+
+# game/extras.rpy:2585
+translate portuguese extra_scene_46_565ca7e1:
+
+    # "Céline was too dazed to respond at first, but as Vess kept licking her slit, she slowly came to her senses again."
+    ""
+
+# game/extras.rpy:2586
+translate portuguese extra_scene_46_5e9f5852:
+
+    # "Another hungry moan escaped her."
+    ""
+
+# game/extras.rpy:2587
+translate portuguese extra_scene_46_111e62f6:
+
+    # c "I think you’re turning her on, Vess."
+    c ""
+
+# game/extras.rpy:2588
+translate portuguese extra_scene_46_f631b0c9:
+
+    # c "Is Vess making you horny again, Céline?"
+    c ""
+
+# game/extras.rpy:2589
+translate portuguese extra_scene_46_c636eed0:
+
+    # c "Do you want more?"
+    c ""
+
+# game/extras.rpy:2590
+translate portuguese extra_scene_46_1f024a06:
+
+    # ce "Yes!"
+    ce ""
+
+# game/extras.rpy:2591
+translate portuguese extra_scene_46_e37f9d7b:
+
+    # c "But what about Vess?"
+    c ""
+
+# game/extras.rpy:2592
+translate portuguese extra_scene_46_80b59389:
+
+    # ce "What about her?"
+    ce ""
+
+# game/extras.rpy:2593
+translate portuguese extra_scene_46_64e0260b:
+
+    # c "My, you’re greedy."
+    c ""
+
+# game/extras.rpy:2595
+translate portuguese extra_scene_46_3f05aeda:
+
+    # c "Vess has been a good whore, don’t you think she should be allowed to cum too?"
+    c ""
+
+# game/extras.rpy:2597
+translate portuguese extra_scene_46_a2f28a12:
+
+    # c "Don’t you think Vess should cum too?"
+    c ""
+
+# game/extras.rpy:2598
+translate portuguese extra_scene_46_e8e252a2:
+
+    # ce "I guess..."
+    ce ""
+
+# game/extras.rpy:2599
+translate portuguese extra_scene_46_dd2b5dd0:
+
+    # c "Céline doesn’t want you to cum, Vess."
+    c ""
+
+# game/extras.rpy:2601
+translate portuguese extra_scene_46_ac1361b9:
+
+    # ve "I’m happy with whatever you decide for me, master."
+    ve ""
+
+# game/extras.rpy:2602
+translate portuguese extra_scene_46_a4523da3:
+
+    # c "Make her cum then and maybe I’ll reward you."
+    c ""
+
+# game/extras.rpy:2604
+translate portuguese extra_scene_46_dd2f5814:
+
+    # ve "Maybe she’ll think differently when I make her squirt again."
+    ve ""
+
+# game/extras.rpy:2605
+translate portuguese extra_scene_46_e14ea048:
+
+    # c "That gives me all the time to focus on you."
+    c ""
+
+# game/extras.rpy:2611
+translate portuguese extra_scene_46_2363a94b:
+
+    # "I made Vess lie on the floor where Céline squatted on top of her face."
+    ""
+
+# game/extras.rpy:2612
+translate portuguese extra_scene_46_26b4ae4a:
+
+    # "Vess pushed one finger into Céline’s wet slit and began to finger fuck her."
+    ""
+
+# game/extras.rpy:2613
+translate portuguese extra_scene_46_b4b36016:
+
+    # "I pushed the blonde girl’s legs apart and inserted two fingers inside her tight pussy."
+    ""
+
+# game/extras.rpy:2614
+translate portuguese extra_scene_46_8a39b621:
+
+    # "Like Céline, Vess was dripping wet as well."
+    ""
+
+# game/extras.rpy:2615
+translate portuguese extra_scene_46_09a44d00:
+
+    # "Céline moaned hoarsely, the muscles in her legs straining against the rapid motions of Vess’s finger inside her cunt."
+    ""
+
+# game/extras.rpy:2617
+translate portuguese extra_scene_46_f9fd2124:
+
+    # "Vess writhed against my fingers, drenching them in ejaculate."
+    ""
+
+# game/extras.rpy:2619
+translate portuguese extra_scene_46_ec908869:
+
+    # ve "Yes, master, you’re making me feel so good!"
+    ve ""
+
+# game/extras.rpy:2621
+translate portuguese extra_scene_46_af2ec482:
+
+    # ve "Yes, right there!"
+    ve ""
+
+# game/extras.rpy:2623
+translate portuguese extra_scene_46_487ca84c:
+
+    # ce "Oh fuck, Vess!"
+    ce ""
+
+# game/extras.rpy:2624
+translate portuguese extra_scene_46_b2e2bf86:
+
+    # ce "Keep going, keep going!"
+    ce ""
+
+# game/extras.rpy:2629
+translate portuguese extra_scene_46_1a51db7e:
+
+    # "Céline let out one tortured groan and liquid shot out of her pussy with great force, splashing on Vess’s face."
+    ""
+
+# game/extras.rpy:2630
+translate portuguese extra_scene_46_94553b6e:
+
+    # c "Drink it!"
+    c ""
+
+# game/extras.rpy:2632
+translate portuguese extra_scene_46_7d285b7a:
+
+    # "Vess opened her mouth and received another spray of ejaculate right from Céline’s convulsing slit."
+    ""
+
+# game/extras.rpy:2634
+translate portuguese extra_scene_46_52f6a948:
+
+    # "While Céline was orgasming, I fingered Vess with renewed intensity."
+    ""
+
+# game/extras.rpy:2636
+translate portuguese extra_scene_46_799e4842:
+
+    # ve "Oh master! Yes! Right there!"
+    ve ""
+
+# game/extras.rpy:2638
+translate portuguese extra_scene_46_921da3a0:
+
+    # ve "Oh [p_name_short]! Yes! Right there!"
+    ve ""
+
+# game/extras.rpy:2639
+translate portuguese extra_scene_46_3c094942:
+
+    # ve "You’re making me cum!"
+    ve ""
+
+# game/extras.rpy:2642
+translate portuguese extra_scene_46_fc57bae7:
+
+    # "With that statement Vess came hard."
+    ""
+
+# game/extras.rpy:2643
+translate portuguese extra_scene_46_23172224:
+
+    # "She arched her back and collapsed back onto the floor as her orgasm shuddered through her body."
+    ""
+
+# game/extras.rpy:2644
+translate portuguese extra_scene_46_95b2d641:
+
+    # "The sight of both girls in a state of utmost arousal made me want to fuck them hard right then and there."
+    ""
+
+# game/extras.rpy:2651
+translate portuguese extra_scene_47_2f657ef1:
+
+    # "Do you suck Ziv's dick?"
+    ""
+
+# game/extras.rpy:2655
+translate portuguese extra_scene_47_1cb50eca:
+
+    # "Fellatio on Ziv"
+    ""
+
+# game/extras.rpy:2658
+translate portuguese extra_scene_47_c82eab70:
+
+    # "No fellatio on Ziv"
+    ""
+
+# game/extras.rpy:2661
+translate portuguese extra_scene_47_6553bad0:
+
+    # zi "You liked that, didn’t you?"
+    zi ""
+
+# game/extras.rpy:2662
+translate portuguese extra_scene_47_42e16d70:
+
+    # c "Your tight mouth felt so great."
+    c ""
+
+# game/extras.rpy:2663
+translate portuguese extra_scene_47_dea66856:
+
+    # zi "Do you want to really fuck it?"
+    zi ""
+
+# game/extras.rpy:2664
+translate portuguese extra_scene_47_ee67f3f3:
+
+    # c "I’d love that."
+    c ""
+
+# game/extras.rpy:2669
+translate portuguese extra_scene_47_d21bc05c:
+
+    # "Ziv positioned herself on her back, her tongue outstretched, her mouth eager to receive my erection."
+    ""
+
+# game/extras.rpy:2670
+translate portuguese extra_scene_47_8a50978d:
+
+    # "She had her fingers wrapped around her own dick and stroked herself softly."
+    ""
+
+# game/extras.rpy:2672
+translate portuguese extra_scene_47_9a674638:
+
+    # zi "Mmmm, put it inside me and fuck my mouth."
+    zi ""
+
+# game/extras.rpy:2677
+translate portuguese extra_scene_47_3ce7c585:
+
+    # "I grabbed her legs and pushed the tip of my dick against her lips."
+    ""
+
+# game/extras.rpy:2678
+translate portuguese extra_scene_47_cc90c89f:
+
+    # "Ziv gulped me down greedily and the warm wetness of her mouth enveloped my throbbing cock."
+    ""
+
+# game/extras.rpy:2679
+translate portuguese extra_scene_47_df37af83:
+
+    # "My first thrusts were exploratory, in order to sense how far Ziv could take it."
+    ""
+
+# game/extras.rpy:2682
+translate portuguese extra_scene_47_28ddb18f:
+
+    # "Soon, I hit the back of her throat and Ziv retched in response."
+    ""
+
+# game/extras.rpy:2683
+translate portuguese extra_scene_47_361496c3:
+
+    # "Her tongue slithered along the length of my shaft to compensate and to keep me inside her mouth."
+    ""
+
+# game/extras.rpy:2684
+translate portuguese extra_scene_47_eb8f45cd:
+
+    # c "That’s it Ziv, you can take it."
+    c ""
+
+# game/extras.rpy:2688
+translate portuguese extra_scene_47_13524693:
+
+    # "I began to penetrate her mouth in earnest, with slow methodical strokes."
+    ""
+
+# game/extras.rpy:2689
+translate portuguese extra_scene_47_f985acc6:
+
+    # "Wet gagging sounds erupted from Ziv, each time I hit her deep inside her throat."
+    ""
+
+# game/extras.rpy:2692
+translate portuguese extra_scene_47_c7d53172:
+
+    # "Ziv was enjoying the violation of her throat, as evidenced by the fact that she was jerking herself off more rapidly than before."
+    ""
+
+# game/extras.rpy:2693
+translate portuguese extra_scene_47_3d0837b6:
+
+    # "A glistening sheen of precum covered the tip of her own dick."
+    ""
+
+# game/extras.rpy:2694
+translate portuguese extra_scene_47_7dc8b45e:
+
+    # c "I want you to take charge for a while."
+    c ""
+
+# game/extras.rpy:2695
+translate portuguese extra_scene_47_d6eb76ed:
+
+    # c "See how deep you can take me."
+    c ""
+
+# game/extras.rpy:2701
+translate portuguese extra_scene_47_bec898d1:
+
+    # "I pulled out of Ziv’s mouth and lay on my back."
+    ""
+
+# game/extras.rpy:2702
+translate portuguese extra_scene_47_961153b8:
+
+    # "Ziv crawled on top me, her cock dangling in my face."
+    ""
+
+# game/extras.rpy:2707
+translate portuguese extra_scene_47_23a739aa:
+
+    # "With her hands held on her back, she swallowed me whole again."
+    ""
+
+# game/extras.rpy:2711
+translate portuguese extra_scene_47_173e2891:
+
+    # "Bobbing up and down, she took me balls-deep into her mouth, often holding it there for several seconds."
+    ""
+
+# game/extras.rpy:2712
+translate portuguese extra_scene_47_8a3fcf58:
+
+    # "Mucus streamed readily down the length of my shaft, as Ziv allowed me to fuck her face hard."
+    ""
+
+# game/extras.rpy:2717
+translate portuguese extra_scene_47_e86e764c:
+
+    # "Her own cock was inside my mouth too and I savored the saline taste of her arousal."
+    ""
+
+# game/extras.rpy:2718
+translate portuguese extra_scene_47_fd8cc43a:
+
+    # "It wasn’t long before I would erupt and Ziv knew it."
+    ""
+
+# game/extras.rpy:2719
+translate portuguese extra_scene_47_06652eca:
+
+    # "She increased the pace, bringing me ever closer to my climax."
+    ""
+
+# game/extras.rpy:2722
+translate portuguese extra_scene_47_ac2a8b38:
+
+    # c "I want to cum inside your mouth, Ziv."
+    c ""
+
+# game/extras.rpy:2727
+translate portuguese extra_scene_47_72d94788:
+
+    # "After several thrusts, I came deep inside Ziv’s mouth."
+    ""
+
+# game/extras.rpy:2730
+translate portuguese extra_scene_47_b646ff72:
+
+    # "Thick ropes of warm cum shot straight into her throat and she swallowed everything diligently."
+    ""
+
+# game/extras.rpy:2731
+translate portuguese extra_scene_47_df1e6abf:
+
+    # zi "Mmmm, so tasty."
+    zi ""
+
+# game/extras.rpy:2733
+translate portuguese extra_scene_47_fcbc4c63:
+
+    # "I want to cum all over your face, Ziv."
+    ""
+
+# game/extras.rpy:2741
+translate portuguese extra_scene_47_ff02ad80:
+
+    # "Ziv released my cock from her mouth after several deep thrusts and jerked me off intensely."
+    ""
+
+# game/extras.rpy:2746
+translate portuguese extra_scene_47_ab2c4d72:
+
+    # "My dick was spurting cum in seconds."
+    ""
+
+# game/extras.rpy:2754
+translate portuguese extra_scene_47_bed2ce4a:
+
+    # "Thick ropes of semen coated one side of Ziv’s face."
+    ""
+
+# game/extras.rpy:2755
+translate portuguese extra_scene_47_9fcc3be6:
+
+    # zi "Mmmm, so hot."
+    zi ""
+
+# game/extras.rpy:2760
+translate portuguese extra_scene_47_5f03d1d7:
+
+    # "Ziv climbed off me and regarded me with the same hunger as before."
+    ""
+
+# game/extras.rpy:2762
+translate portuguese extra_scene_47_e61b8b76:
+
+    # zi "That felt so good."
+    zi ""
+
+# game/extras.rpy:2763
+translate portuguese extra_scene_47_3cabc550:
+
+    # zi "We’re not done yet, are we?"
+    zi ""
+
+# game/extras.rpy:2764
+translate portuguese extra_scene_47_b40d1a45:
+
+    # c "Certainly not."
+    c ""
+

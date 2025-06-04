@@ -246,3 +246,19 @@ translate portuguese strings:
     old "Select at least two characters."
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+translate portuguese strings:
+
+    # game/script.rpy:627
+    old "THANK YOU"
+    new ""
+
+    # game/script.rpy:628
+    old "A big thank you to my top tier backers, you rock!"
+    new ""
+
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new ""
+

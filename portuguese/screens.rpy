@@ -598,3 +598,51 @@ translate portuguese strings:
     old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
     new "{size=-8}Freeport Space Station 2 criado por {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, Licença: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+translate portuguese strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new ""
+
+    # game/screens.rpy:463
+    old "v[config.version] • Taboo Edition, Extra Scenes"
+    new ""
+
+    # game/screens.rpy:465
+    old "v[config.version] • Standard Edition, Extra Scenes"
+    new ""
+
+    # game/screens.rpy:468
+    old "v[config.version] • Taboo Edition"
+    new ""
+
+    # game/screens.rpy:470
+    old "v[config.version] • Standard Edition"
+    new ""
+
+    # game/screens.rpy:484
+    old "Support me on  Patreon:\nwww.patreon.com/perverteer"
+    new ""
+
+    # game/screens.rpy:1473
+    old "Português (parcial)"
+    new ""
+
+    # game/screens.rpy:1474
+    old "Français"
+    new ""
+
+    # game/screens.rpy:1477
+    old "Italiano (parziale)"
+    new ""
+
+    # game/screens.rpy:1478
+    old "Español (parcial)"
+    new ""
+
+    # game/screens.rpy:1479
+    old "Русский (частичный)"
+    new ""
+

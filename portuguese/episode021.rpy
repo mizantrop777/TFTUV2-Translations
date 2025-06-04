@@ -24288,3 +24288,1435 @@ translate portuguese strings:
     old "Throatfuck"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+# game/episode021.rpy:162
+translate portuguese episode021_8e1b0a61:
+
+    # ag "The minimal sentence for desertion and treason is life imprisonment, but you'd surely be put before a firing squad if court-martialed."
+    ag ""
+
+# game/episode021.rpy:306
+translate portuguese episode021_930f0df4:
+
+    # ag "And how has this Pllxy-something obtained their information?"
+    ag ""
+
+# game/episode021.rpy:360
+translate portuguese episode021_7d020e9d:
+
+    # bl "When sufficiently aroused, a C'Taet can coax another person to talk about subjects that it doesn't want to discuss."
+    bl ""
+
+# game/episode021.rpy:465
+translate portuguese episode021_f3d9b7f9:
+
+    # c "Why did our escort have to turn this into a dick-measuring contest?"
+    c ""
+
+# game/episode021.rpy:503
+translate portuguese episode021_8a9b6ff1:
+
+    # woman "Captain Valinq, you are hereby granted passage."
+    woman ""
+
+# game/episode021.rpy:505
+translate portuguese episode021_41617f04:
+
+    # c "Well, all you have to do is be polite to them, I guess?"
+    c ""
+
+# game/episode021.rpy:613
+translate portuguese episode021_f4b65d8b:
+
+    # th "Considering the power is on, I guess we should just hit the switch?"
+    th ""
+
+# game/episode021.rpy:621
+translate portuguese episode021_67bad8c7:
+
+    # "The opening of the door also punctured the unnatural quiet."
+    ""
+
+# game/episode021.rpy:628
+translate portuguese episode021_55ad5d98:
+
+    # "The lights came on as soon as we stepped inside to clear the room."
+    ""
+
+# game/episode021.rpy:658
+translate portuguese episode021_621766e5:
+
+    # "Jade got to work on the computers in the control room we’d found earlier, while Thyia began to inspect the internal systems of the base."
+    ""
+
+# game/episode021.rpy:677
+translate portuguese ep021_petrarch_choices_de8b5394:
+
+    # "When we got back from visiting that unnerving pyramid, Eva and I decided to call a family meeting."
+    ""
+
+# game/episode021.rpy:679
+translate portuguese ep021_petrarch_choices_484c7c6f:
+
+    # "When we got back from visiting that unnerving pyramid, Eva and I decided to call a meeting."
+    ""
+
+# game/episode021.rpy:740
+translate portuguese ep021_petrarch_choices_5ce754d2:
+
+    # "In order to fulfill my promise to Vess, I wanted a more neutral place to handle the breakups."
+    ""
+
+# game/episode021.rpy:743
+translate portuguese ep021_petrarch_choices_ed7fd93d:
+
+    # "In order to fulfill my promise to Vess, I wanted a more neutral place to handle our breakup."
+    ""
+
+# game/episode021.rpy:816
+translate portuguese ep021_temple_9d17c198:
+
+    # e "Or they’re all victims and got killed by something else."
+    e ""
+
+# game/episode021.rpy:854
+translate portuguese ep021_temple_0efeec4a:
+
+    # c "There’s enough space to land the Bastard in the vicinity of the pyramid, so we’ll ask Céline to pilot us here tomorrow."
+    c ""
+
+# game/episode021.rpy:872
+translate portuguese ep021_temple_d22cfe96:
+
+    # c "Maybe whatever they did in there had some religious meaning for whoever lived here once."
+    c ""
+
+# game/episode021.rpy:886
+translate portuguese ep021_temple_return_58ac4094:
+
+    # "I wasn’t planning on staying at the site longer than we had to, but we needed to investigate."
+    ""
+
+# game/episode021.rpy:914
+translate portuguese ep021_temple_return_4a20a54c:
+
+    # th "The simulation hardware isn’t as advanced as ours."
+    th ""
+
+# game/episode021.rpy:916
+translate portuguese ep021_temple_return_23e6149f:
+
+    # th "No neural interface or other cortex stimulation."
+    th ""
+
+# game/episode021.rpy:951
+translate portuguese ep021_temple_return_d5c949ba:
+
+    # shk "Welcome, your arrival has been eagerly anticipated..."
+    shk ""
+
+# game/episode021.rpy:968
+translate portuguese ep021_jade_talk_28c53a23:
+
+    # j "There are lots of places on those maps, but without a legend in a language we can read it’s fairly impossible to determine anything."
+    j ""
+
+# game/episode021.rpy:992
+translate portuguese ep021_nadya_talk_petrarch_5109fbff:
+
+    # "I was surprised to find my mother lying in her sleepwear on the couch when I entered my quarters."
+    ""
+
+# game/episode021.rpy:993
+translate portuguese ep021_nadya_talk_petrarch_83a242ed:
+
+    # c "Mom?"
+    c ""
+
+# game/episode021.rpy:995
+translate portuguese ep021_nadya_talk_petrarch_693386a5:
+
+    # "I was surprised to find Nadya lying in her sleepwear on the couch when I entered my quarters."
+    ""
+
+# game/episode021.rpy:996
+translate portuguese ep021_nadya_talk_petrarch_011bb546:
+
+    # c "Nadya?"
+    c ""
+
+# game/episode021.rpy:998
+translate portuguese ep021_nadya_talk_petrarch_b55634e2:
+
+    # na "Oh!"
+    na ""
+
+# game/episode021.rpy:999
+translate portuguese ep021_nadya_talk_petrarch_b6639dbd:
+
+    # na "Sorry, I must have fallen asleep."
+    na ""
+
+# game/episode021.rpy:1000
+translate portuguese ep021_nadya_talk_petrarch_74354afe:
+
+    # c "Were you waiting on me?"
+    c ""
+
+# game/episode021.rpy:1002
+translate portuguese ep021_nadya_talk_petrarch_9e99c962:
+
+    # na "Yes, I wanted to talk to you."
+    na ""
+
+# game/episode021.rpy:1003
+translate portuguese ep021_nadya_talk_petrarch_8500ba66:
+
+    # na "But you were gone for a long time and I must have dozed off."
+    na ""
+
+# game/episode021.rpy:1006
+translate portuguese ep021_nadya_talk_petrarch_c689fa2a:
+
+    # na "I just wanted to congratulate you and Eva again."
+    na ""
+
+# game/episode021.rpy:1007
+translate portuguese ep021_nadya_talk_petrarch_76a92099:
+
+    # na "This is such a special moment for you both."
+    na ""
+
+# game/episode021.rpy:1009
+translate portuguese ep021_nadya_talk_petrarch_f7c2eef3:
+
+    # na "And for me as a future grandmother as well."
+    na ""
+
+# game/episode021.rpy:1010
+translate portuguese ep021_nadya_talk_petrarch_e897fbb0:
+
+    # c "Thank you."
+    c ""
+
+# game/episode021.rpy:1011
+translate portuguese ep021_nadya_talk_petrarch_5327cc36:
+
+    # na "Please do not hesitate to rely on me for any help you need."
+    na ""
+
+# game/episode021.rpy:1013
+translate portuguese ep021_nadya_talk_petrarch_d461082b:
+
+    # na "And I’m sure your sisters will be happy to help as well."
+    na ""
+
+# game/episode021.rpy:1017
+translate portuguese ep021_nadya_talk_petrarch_1de8a9d9:
+
+    # na "Even Lilly and Aven, once they come around to accepting the situation."
+    na ""
+
+# game/episode021.rpy:1018
+translate portuguese ep021_nadya_talk_petrarch_ab559597:
+
+    # c "I certainly hope they will."
+    c ""
+
+# game/episode021.rpy:1019
+translate portuguese ep021_nadya_talk_petrarch_2c63ba57:
+
+    # na "It takes time."
+    na ""
+
+# game/episode021.rpy:1020
+translate portuguese ep021_nadya_talk_petrarch_07d09874:
+
+    # na "Besides, there’s not much else they can do."
+    na ""
+
+# game/episode021.rpy:1022
+translate portuguese ep021_nadya_talk_petrarch_a777fe68:
+
+    # na "Even Lilly, once she comes around to accepting the situation."
+    na ""
+
+# game/episode021.rpy:1023
+translate portuguese ep021_nadya_talk_petrarch_35151593:
+
+    # c "I certainly hope she will."
+    c ""
+
+# game/episode021.rpy:1024
+translate portuguese ep021_nadya_talk_petrarch_2c63ba57_1:
+
+    # na "It takes time."
+    na ""
+
+# game/episode021.rpy:1025
+translate portuguese ep021_nadya_talk_petrarch_1f0fc5ad:
+
+    # na "Besides, there’s not much else she can do."
+    na ""
+
+# game/episode021.rpy:1027
+translate portuguese ep021_nadya_talk_petrarch_a90908db:
+
+    # na "Even Aven, once she comes around to accepting the situation."
+    na ""
+
+# game/episode021.rpy:1028
+translate portuguese ep021_nadya_talk_petrarch_35151593_1:
+
+    # c "I certainly hope she will."
+    c ""
+
+# game/episode021.rpy:1029
+translate portuguese ep021_nadya_talk_petrarch_2c63ba57_2:
+
+    # na "It takes time."
+    na ""
+
+# game/episode021.rpy:1030
+translate portuguese ep021_nadya_talk_petrarch_1f0fc5ad_1:
+
+    # na "Besides, there’s not much else she can do."
+    na ""
+
+# game/episode021.rpy:1031
+translate portuguese ep021_nadya_talk_petrarch_d2e53bb9:
+
+    # c "I just wish I can provide Eva with everything she needs."
+    c ""
+
+# game/episode021.rpy:1032
+translate portuguese ep021_nadya_talk_petrarch_9e4ef2d0:
+
+    # c "Considering the life we lead, it’s not going to be easy."
+    c ""
+
+# game/episode021.rpy:1034
+translate portuguese ep021_nadya_talk_petrarch_1c849bf4:
+
+    # na "I will admit that we’re in a peculiar position, but being young parents is never easy."
+    na ""
+
+# game/episode021.rpy:1035
+translate portuguese ep021_nadya_talk_petrarch_2c2b31f3:
+
+    # na "You’ll both find a way, I’m sure of it."
+    na ""
+
+# game/episode021.rpy:1036
+translate portuguese ep021_nadya_talk_petrarch_548818a8:
+
+    # na "We’re so focused on pursuing this prophecy that all else seems to lose its importance."
+    na ""
+
+# game/episode021.rpy:1037
+translate portuguese ep021_nadya_talk_petrarch_dcbffe65:
+
+    # na "But anything threatens Eva or your baby, we will do everything to make sure she’s safe."
+    na ""
+
+# game/episode021.rpy:1038
+translate portuguese ep021_nadya_talk_petrarch_5f867242:
+
+    # na "We’ll help you, every step of the way."
+    na ""
+
+# game/episode021.rpy:1040
+translate portuguese ep021_nadya_talk_petrarch_46e261f9:
+
+    # c "Thanks, Mom, that means a lot."
+    c ""
+
+# game/episode021.rpy:1041
+translate portuguese ep021_nadya_talk_petrarch_05e5c179:
+
+    # c "I hope we’ll make you a proud grandmother."
+    c ""
+
+# game/episode021.rpy:1043
+translate portuguese ep021_nadya_talk_petrarch_8ab187bf:
+
+    # na "I already am."
+    na ""
+
+# game/episode021.rpy:1045
+translate portuguese ep021_nadya_talk_petrarch_191fae03:
+
+    # c "Thanks, Nadya, that means a lot."
+    c ""
+
+# game/episode021.rpy:1047
+translate portuguese ep021_nadya_talk_petrarch_512fa890:
+
+    # na "Now, I’m going back to my quarters and see if I can catch some sleep in my own bed."
+    na ""
+
+# game/episode021.rpy:1048
+translate portuguese ep021_nadya_talk_petrarch_e2414be7:
+
+    # na "Sleeping on that couch has done a number on my neck."
+    na ""
+
+# game/episode021.rpy:1049
+translate portuguese ep021_nadya_talk_petrarch_7f0bc750:
+
+    # c "I hope you get some rest."
+    c ""
+
+# game/episode021.rpy:1051
+translate portuguese ep021_nadya_talk_petrarch_328be262:
+
+    # c "Goodnight, Mom."
+    c ""
+
+# game/episode021.rpy:1053
+translate portuguese ep021_nadya_talk_petrarch_fdd9b536:
+
+    # c "Goodnight, Nadya."
+    c ""
+
+# game/episode021.rpy:1054
+translate portuguese ep021_nadya_talk_petrarch_47415891:
+
+    # na "Goodnight, sweetheart."
+    na ""
+
+# game/episode021.rpy:1056
+translate portuguese ep021_nadya_talk_petrarch_4589784a:
+
+    # na "I wanted to have a word with you."
+    na ""
+
+# game/episode021.rpy:1057
+translate portuguese ep021_nadya_talk_petrarch_5a5c28b7:
+
+    # na "About the news you and Eva shared earlier."
+    na ""
+
+# game/episode021.rpy:1058
+translate portuguese ep021_nadya_talk_petrarch_7b7a5678:
+
+    # c "Yes, of course."
+    c ""
+
+# game/episode021.rpy:1060
+translate portuguese ep021_nadya_talk_petrarch_872015af:
+
+    # na "I’m sorry if I reacted harshly, but you must know that it was such a shock."
+    na ""
+
+# game/episode021.rpy:1061
+translate portuguese ep021_nadya_talk_petrarch_24366554:
+
+    # c "I understand."
+    c ""
+
+# game/episode021.rpy:1063
+translate portuguese ep021_nadya_talk_petrarch_38ae1404:
+
+    # na "I know I’m not one to judge, considering what happened between Agust and me."
+    na ""
+
+# game/episode021.rpy:1064
+translate portuguese ep021_nadya_talk_petrarch_cf622d4a:
+
+    # na "But I do hope that you have both thought about the implications."
+    na ""
+
+# game/episode021.rpy:1065
+translate portuguese ep021_nadya_talk_petrarch_8eecb102:
+
+    # c "We have and decided it’s worth the sacrifice."
+    c ""
+
+# game/episode021.rpy:1067
+translate portuguese ep021_nadya_talk_petrarch_ccb084fe:
+
+    # na "Good."
+    na ""
+
+# game/episode021.rpy:1068
+translate portuguese ep021_nadya_talk_petrarch_4a8d89e3:
+
+    # na "And I’ll support to you in any way I can."
+    na ""
+
+# game/episode021.rpy:1070
+translate portuguese ep021_nadya_talk_petrarch_80babbf7:
+
+    # na "I can’t speak for your sisters, though."
+    na ""
+
+# game/episode021.rpy:1071
+translate portuguese ep021_nadya_talk_petrarch_da0d7922:
+
+    # na "They might need more time to accept."
+    na ""
+
+# game/episode021.rpy:1073
+translate portuguese ep021_nadya_talk_petrarch_c40a80d2:
+
+    # na "I can’t speak for your sister, though."
+    na ""
+
+# game/episode021.rpy:1074
+translate portuguese ep021_nadya_talk_petrarch_6ef12a77:
+
+    # na "She might need more time to accept."
+    na ""
+
+# game/episode021.rpy:1075
+translate portuguese ep021_nadya_talk_petrarch_b6039869:
+
+    # na "In any case, you’re exposing you both to a lot of danger."
+    na ""
+
+# game/episode021.rpy:1076
+translate portuguese ep021_nadya_talk_petrarch_cd44db39:
+
+    # na "Incest isn’t accepted in most civilizations, human or otherwise."
+    na ""
+
+# game/episode021.rpy:1077
+translate portuguese ep021_nadya_talk_petrarch_8a6bc7ba:
+
+    # na "So you might face ridicule or even prosecution at the very worst."
+    na ""
+
+# game/episode021.rpy:1078
+translate portuguese ep021_nadya_talk_petrarch_fab27ad6:
+
+    # c "We’re aware."
+    c ""
+
+# game/episode021.rpy:1079
+translate portuguese ep021_nadya_talk_petrarch_63ef8d3b:
+
+    # na "Good, I just wanted to make that clear."
+    na ""
+
+# game/episode021.rpy:1080
+translate portuguese ep021_nadya_talk_petrarch_481bbb52:
+
+    # na "Because it’s in addition to the danger we find ourselves in, being on the run from the Sovereignty and all."
+    na ""
+
+# game/episode021.rpy:1082
+translate portuguese ep021_nadya_talk_petrarch_27f6eed2:
+
+    # na "We all lead dangerous lives, with being on the run from the Sovereignty and all."
+    na ""
+
+# game/episode021.rpy:1083
+translate portuguese ep021_nadya_talk_petrarch_cdaacdd8:
+
+    # na "Once Eva’s pregnancy develops, she might need extra care."
+    na ""
+
+# game/episode021.rpy:1084
+translate portuguese ep021_nadya_talk_petrarch_ce3d91c6:
+
+    # na "Or she might not be able to participate in any field missions."
+    na ""
+
+# game/episode021.rpy:1086
+translate portuguese ep021_nadya_talk_petrarch_9dbb0dc1:
+
+    # na "Thim might be able to assist when it comes to medical matters and I’m sure the crew will pitch in when it comes to additional support, when necessary."
+    na ""
+
+# game/episode021.rpy:1088
+translate portuguese ep021_nadya_talk_petrarch_89a5fc66:
+
+    # na "I’m sure the crew will pitch in when it comes to additional support, when necessary."
+    na ""
+
+# game/episode021.rpy:1089
+translate portuguese ep021_nadya_talk_petrarch_07d91596:
+
+    # na "We’re so focused on pursuing this prophecy, that all else seems to lose its importance."
+    na ""
+
+# game/episode021.rpy:1090
+translate portuguese ep021_nadya_talk_petrarch_dcbffe65_1:
+
+    # na "But anything threatens Eva or your baby, we will do everything to make sure she’s safe."
+    na ""
+
+# game/episode021.rpy:1092
+translate portuguese ep021_nadya_talk_petrarch_46e261f9_1:
+
+    # c "Thanks, Mom, that means a lot."
+    c ""
+
+# game/episode021.rpy:1094
+translate portuguese ep021_nadya_talk_petrarch_ce04f979:
+
+    # c "Thanks, that means a lot."
+    c ""
+
+# game/episode021.rpy:1096
+translate portuguese ep021_nadya_talk_petrarch_512fa890_1:
+
+    # na "Now, I’m going back to my quarters and see if I can catch some sleep in my own bed."
+    na ""
+
+# game/episode021.rpy:1097
+translate portuguese ep021_nadya_talk_petrarch_e2414be7_1:
+
+    # na "Sleeping on that couch has done a number on my neck."
+    na ""
+
+# game/episode021.rpy:1098
+translate portuguese ep021_nadya_talk_petrarch_7f0bc750_1:
+
+    # c "I hope you get some rest."
+    c ""
+
+# game/episode021.rpy:1100
+translate portuguese ep021_nadya_talk_petrarch_328be262_1:
+
+    # c "Goodnight, Mom."
+    c ""
+
+# game/episode021.rpy:1101
+translate portuguese ep021_nadya_talk_petrarch_d0e4210d:
+
+    # na "Goodnight, son."
+    na ""
+
+# game/episode021.rpy:1103
+translate portuguese ep021_nadya_talk_petrarch_fdd9b536_1:
+
+    # c "Goodnight, Nadya."
+    c ""
+
+# game/episode021.rpy:1104
+translate portuguese ep021_nadya_talk_petrarch_9f7c045d:
+
+    # na "Goodnight."
+    na ""
+
+# game/episode021.rpy:1240
+translate portuguese ep021_eva_talk_e554e3e6:
+
+    # e "It must have been the first time we’ve been intimate together, after we escaped that desert planet."
+    e ""
+
+# game/episode021.rpy:1328
+translate portuguese ep021_thyia_talk_c88d1fa1:
+
+    # c "You didn’t bring your robot?"
+    c ""
+
+# game/episode021.rpy:1353
+translate portuguese ep021_thyia_talk_3e7a7371:
+
+    # th "Obviously I’d like to know what else is going on in your life."
+    th ""
+
+# game/episode021.rpy:1588
+translate portuguese ep021_vess_talk_8c3da50e:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1590
+translate portuguese ep021_vess_talk_f2f079ea:
+
+    # ve "I always thought you had a relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1592
+translate portuguese ep021_vess_talk_3d3ea4e8:
+
+    # ve "I always thought you had a special relationship with your mother and sister, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1594
+translate portuguese ep021_vess_talk_d9fd9f1b:
+
+    # ve "I always thought you had a special relationship with your sisters, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1596
+translate portuguese ep021_vess_talk_2bb88aae:
+
+    # ve "I always thought you had a special relationship with your sister, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1598
+translate portuguese ep021_vess_talk_82652410:
+
+    # ve "I always thought you had a special relationship with your mother, but I didn’t dare imagine it was romantic."
+    ve ""
+
+# game/episode021.rpy:1666
+translate portuguese ep021_vess_talk_d3aad126:
+
+    # c "Yes, she has."
+    c ""
+
+# game/episode021.rpy:1668
+translate portuguese ep021_vess_talk_545af5d6:
+
+    # c "Yes, I have asked some of them."
+    c ""
+
+# game/episode021.rpy:1670
+translate portuguese ep021_vess_talk_5a26fa39_1:
+
+    # ve "And they’ve agreed?"
+    ve ""
+
+# game/episode021.rpy:1671
+translate portuguese ep021_vess_talk_28732214_1:
+
+    # c "Yes, they have."
+    c ""
+
+# game/episode021.rpy:1749
+translate portuguese ep021_vess_talk_e1b7c328:
+
+    # ve "But you have to promise me that you’ll be upfront if your feelings for me or [romances] change."
+    ve ""
+
+# game/episode021.rpy:1754
+translate portuguese ep021_vess_talk_bdc2fd82:
+
+    # ve "Yes...{w} If they become more important than me."
+    ve ""
+
+# game/episode021.rpy:1757
+translate portuguese ep021_vess_talk_bd4a0a40:
+
+    # ve "Yes...{w} If she becomes more important than me."
+    ve ""
+
+# game/episode021.rpy:1773
+translate portuguese ep021_vess_talk_324dde4d:
+
+    # ve "No, not at all."
+    ve ""
+
+# game/episode021.rpy:1804
+translate portuguese ep021_vess_talk_6029e066:
+
+    # ve "I don’t want any man but you and I was hoping I would be enough for you too."
+    ve ""
+
+# game/episode021.rpy:1884
+translate portuguese ep021_raene_talk_c33453ba:
+
+    # c "If you are ever in doubt or feel the need to talk, you know I’m there for you."
+    c ""
+
+# game/episode021.rpy:1939
+translate portuguese ep021_raene_talk_4b9eec0d:
+
+    # c "Back when you decided you had enough and contacted Ziv’s people."
+    c ""
+
+# game/episode021.rpy:2157
+translate portuguese ep021_raene_talk_fe18ad02:
+
+    # ra "This...{w} Uh...{w} This doesn’t mean we won’t spend time together anymore, does it?"
+    ra ""
+
+# game/episode021.rpy:2178
+translate portuguese ep021_raene_talk_c75707a5:
+
+    # c "[girls]."
+    c ""
+
+# game/episode021.rpy:2206
+translate portuguese ep021_raene_talk_c75707a5_1:
+
+    # c "[girls]."
+    c ""
+
+# game/episode021.rpy:2267
+translate portuguese ep021_raene_harem_proposal_fe18ad02:
+
+    # ra "This...{w} Uh...{w} This doesn’t mean we won’t spend time together anymore, does it?"
+    ra ""
+
+# game/episode021.rpy:2294
+translate portuguese ep021_group_talk_6a3c4bde:
+
+    # c "So, we have some news we’d like to share with you."
+    c ""
+
+# game/episode021.rpy:2565
+translate portuguese ep021_group_talk_dccfe9c8:
+
+    # c "I hope you come around and see that our love is genuine."
+    c ""
+
+# game/episode021.rpy:2582
+translate portuguese ep021_group_talk_ebc0eafc:
+
+    # av "Little chance."
+    av ""
+
+# game/episode021.rpy:2583
+translate portuguese ep021_group_talk_dd16b2f7:
+
+    # av "I’m out of here."
+    av ""
+
+# game/episode021.rpy:2590
+translate portuguese ep021_group_talk_08a8ea05:
+
+    # na "Little chance."
+    na ""
+
+# game/episode021.rpy:2591
+translate portuguese ep021_group_talk_448149ef:
+
+    # na "I’m out of here."
+    na ""
+
+# game/episode021.rpy:2688
+translate portuguese ep021_group_talk_fddca88a:
+
+    # c "Yes, I think we need to have a conversation later on."
+    c ""
+
+# game/episode021.rpy:2807
+translate portuguese ep021_group_talk_ca7fbe0b:
+
+    # "We all left the room, excited chatter about Eva’s pregnancy still dominating the conversation."
+    ""
+
+# game/episode021.rpy:2814
+translate portuguese ep021_group_talk_ead5852c:
+
+    # "It was the same room where Eva and I broke the news about her pregnancy earlier."
+    ""
+
+# game/episode021.rpy:3122
+translate portuguese ep021_group_talk_50fcc158:
+
+    # c "So anyone can come in at any time."
+    c ""
+
+# game/episode021.rpy:3202
+translate portuguese ep021_group_talk_48d9e4a3:
+
+    # na "This room seems big enough."
+    na ""
+
+# game/episode021.rpy:3232
+translate portuguese ep021_group_talk_797ebea8:
+
+    # av "This room seems big enough."
+    av ""
+
+# game/episode021.rpy:3240
+translate portuguese ep021_group_talk_fe91851e:
+
+    # e "This room seems big enough."
+    e ""
+
+# game/episode021.rpy:3367
+translate portuguese ep021_raene_sex_0f205607:
+
+    # "Raene moaned loudly, the tip of her cock leaking precum."
+    ""
+
+# game/episode021.rpy:3479
+translate portuguese ep021_raene_sex_9b7a6d60:
+
+    # "Her fingers found my erection and Raene stroked my dick while simultaneously fucking my ass."
+    ""
+
+# game/episode021.rpy:3483
+translate portuguese ep021_raene_sex_91280f6d:
+
+    # c "Keep fucking my ass like that!"
+    c ""
+
+# game/episode021.rpy:3489
+translate portuguese ep021_raene_sex_1d11dd6f:
+
+    # ra "So am I."
+    ra ""
+
+# game/episode021.rpy:3671
+translate portuguese ep021_group_sex_8a7b7877:
+
+    # "Aven must have found the right spot, fingering her friend with methodical thrusts."
+    ""
+
+# game/episode021.rpy:3672
+translate portuguese ep021_group_sex_2f73ed26:
+
+    # "Nadya lifted her head from between Eva’s ass cheeks and took in the glorious sight of all the younger girls having sex with each other."
+    ""
+
+# game/episode021.rpy:3882
+translate portuguese ep021_group_fuck_full_693c0aad:
+
+    # "I was too busy fucking Eva to respond, but I could feel my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:3885
+translate portuguese ep021_group_fuck_full_7e2df813:
+
+    # "I was too busy fucking Eva to respond, but I could feel the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:3935
+translate portuguese ep021_group_fuck_full_05e37733:
+
+    # "Eva took care of the front, sucking on Nadya’s nipples and caressing her breasts."
+    ""
+
+# game/episode021.rpy:3966
+translate portuguese ep021_group_fuck_full_3a62e84a:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Lilly and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:3968
+translate portuguese ep021_group_fuck_full_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l ""
+
+# game/episode021.rpy:3996
+translate portuguese ep021_group_fuck_full_c48835f5:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Eva and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4023
+translate portuguese ep021_group_fuck_full_3aa1f3ae:
+
+    # "When I pulled out, seed started to ooze out of her."
+    ""
+
+# game/episode021.rpy:4030
+translate portuguese ep021_group_fuck_full_4699df84:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Aven and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4063
+translate portuguese ep021_group_fuck_full_6919e8aa:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Nadya and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4089
+translate portuguese ep021_group_fuck_full_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na ""
+
+# game/episode021.rpy:4148
+translate portuguese ep021_group_fuck_full_c75b4b3b:
+
+    # "With some effort, I managed to blast all their faces."
+    ""
+
+# game/episode021.rpy:4182
+translate portuguese ep021_group_fuck_full_d618d9a4:
+
+    # "We spent some time together on the floor, until lying on the ground became too uncomfortable."
+    ""
+
+# game/episode021.rpy:4211
+translate portuguese ep021_group_fuck_full_6642b5eb:
+
+    # "[girl1]’s pussy hovered above my head, so I grabbed her ass and put my tongue on her cunt."
+    ""
+
+# game/episode021.rpy:4229
+translate portuguese ep021_group_fuck_full_e90b74e5:
+
+    # "[girl1] moaned softly, enjoying the stimulation of her pussy."
+    ""
+
+# game/episode021.rpy:4294
+translate portuguese ep021_group_fuck_partial_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    ""
+
+# game/episode021.rpy:4320
+translate portuguese ep021_group_fuck_partial_769154d4:
+
+    # "I kept fucking Aven well after the last tremors of her orgasm had coursed through her body."
+    ""
+
+# game/episode021.rpy:4455
+translate portuguese ep021_group_fuck_partial_4be41806:
+
+    # "I was too busy fucking Lilly to respond, but I could feel my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4458
+translate portuguese ep021_group_fuck_partial_4a871e18:
+
+    # "I was too busy fucking Lilly to respond, but I could feel the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4496
+translate portuguese ep021_group_fuck_partial_87f71dbc:
+
+    # "Eva took care of the front, sucking on Lilly’s nipples and caressing her breasts."
+    ""
+
+# game/episode021.rpy:4528
+translate portuguese ep021_group_fuck_partial_7611c402_1:
+
+    # "Nadya startled us with a loud gasp and the sound of her hand slamming onto the tabletop."
+    ""
+
+# game/episode021.rpy:4704
+translate portuguese ep021_group_fuck_partial_ede5cb6a:
+
+    # "I was too busy fucking Eva to respond, but I could sense my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4707
+translate portuguese ep021_group_fuck_partial_d9327e8e:
+
+    # "I was too busy fucking Eva to respond, but I could sense the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4711
+translate portuguese ep021_group_fuck_partial_b6507d41:
+
+    # "I was too busy fucking Eva to respond, but I could sense my sister’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4714
+translate portuguese ep021_group_fuck_partial_d9327e8e_1:
+
+    # "I was too busy fucking Eva to respond, but I could sense the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:4800
+translate portuguese ep021_group_fuck_partial_79b01cd3:
+
+    # "I penetrated her slit from behind, enjoying the abbundance of her juices."
+    ""
+
+# game/episode021.rpy:4835
+translate portuguese ep021_group_fuck_partial_05e37733:
+
+    # "Eva took care of the front, sucking on Nadya’s nipples and caressing her breasts."
+    ""
+
+# game/episode021.rpy:4840
+translate portuguese ep021_group_fuck_partial_3a46b7d1:
+
+    # "Lilly took care of the front, sucking on Nadya’s nipples and caressing her breasts."
+    ""
+
+# game/episode021.rpy:4872
+translate portuguese ep021_group_fuck_partial_3a62e84a:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Lilly and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4908
+translate portuguese ep021_group_fuck_partial_c48835f5:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Eva and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4946
+translate portuguese ep021_group_fuck_partial_3aa1f3ae:
+
+    # "When I pulled out, seed started to ooze out of her."
+    ""
+
+# game/episode021.rpy:4953
+translate portuguese ep021_group_fuck_partial_4699df84:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Aven and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:4997
+translate portuguese ep021_group_fuck_partial_6919e8aa:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Nadya and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:5122
+translate portuguese ep021_group_fuck_partial_b4eaf91f:
+
+    # "With some effort, I managed to blast all of my sisters’ faces."
+    ""
+
+# game/episode021.rpy:5124
+translate portuguese ep021_group_fuck_partial_a9eae425:
+
+    # "With some effort, I managed to blast all of their faces."
+    ""
+
+# game/episode021.rpy:5242
+translate portuguese ep021_group_fuck_partial_d618d9a4:
+
+    # "We spent some time together on the floor, until lying on the ground became too uncomfortable."
+    ""
+
+# game/episode021.rpy:5303
+translate portuguese ep021_group_fuck_partial_41b3a2cf:
+
+    # e "Who are you going to fuck first, [p_name_short]?"
+    e ""
+
+# game/episode021.rpy:5330
+translate portuguese ep021_group_fuck_partial_aabc9bff:
+
+    # "I eased my dick out of her mouth and disengaged from her cunt."
+    ""
+
+# game/episode021.rpy:5389
+translate portuguese ep021_group_fuck_duo_6a321f02:
+
+    # "I was too busy fucking Aven to respond, but I could sense my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5392
+translate portuguese ep021_group_fuck_duo_e68ceffa:
+
+    # "I was too busy fucking Aven to respond, but I could sense the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5616
+translate portuguese ep021_group_fuck_duo_2fa8f2d9:
+
+    # "I was too busy fucking Lilly to respond, but I could sense my sister’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5619
+translate portuguese ep021_group_fuck_duo_76d4075b:
+
+    # "I was too busy fucking Lilly to respond, but I could sense Aven’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5623
+translate portuguese ep021_group_fuck_duo_0c1290d8:
+
+    # "I was too busy fucking Lilly to respond, but I could sense my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5626
+translate portuguese ep021_group_fuck_duo_80189ecb:
+
+    # "I was too busy fucking Lilly to respond, but I could sense the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5745
+translate portuguese ep021_group_fuck_duo_e86900f8:
+
+    # "Lilly gasped and squirmed, enjoying the struggle Nadya initiated."
+    ""
+
+# game/episode021.rpy:5791
+translate portuguese ep021_group_fuck_duo_fead3db3:
+
+    # "[ep021_fucked_last_name] clearly wasn’t done with me, but I had another woman to satisfy."
+    ""
+
+# game/episode021.rpy:5826
+translate portuguese ep021_group_fuck_duo_3955da98:
+
+    # "Her sister kneaded her breasts and pinched her erect nipples as Eva uttered deep guttural moans."
+    ""
+
+# game/episode021.rpy:5953
+translate portuguese ep021_group_fuck_duo_b6507d41:
+
+    # "I was too busy fucking Eva to respond, but I could sense my sister’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5956
+translate portuguese ep021_group_fuck_duo_b6507d41_1:
+
+    # "I was too busy fucking Eva to respond, but I could sense my sister’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5959
+translate portuguese ep021_group_fuck_duo_ede5cb6a:
+
+    # "I was too busy fucking Eva to respond, but I could sense my mother’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5963
+translate portuguese ep021_group_fuck_duo_c3970c3b:
+
+    # "I was too busy fucking Eva to respond, but I could sense Lilly’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5966
+translate portuguese ep021_group_fuck_duo_2fa51eaa:
+
+    # "I was too busy fucking Eva to respond, but I could sense Aven’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:5969
+translate portuguese ep021_group_fuck_duo_d9327e8e:
+
+    # "I was too busy fucking Eva to respond, but I could sense the older woman’s face transform into a proud smile."
+    ""
+
+# game/episode021.rpy:6014
+translate portuguese ep021_group_fuck_duo_57d51894:
+
+    # e "Does my brother make you feel good, Mom?"
+    e ""
+
+# game/episode021.rpy:6024
+translate portuguese ep021_group_fuck_duo_396b4599:
+
+    # e "Are you going to fuck him well for me?"
+    e ""
+
+# game/episode021.rpy:6155
+translate portuguese ep021_group_fuck_duo_e37fff76:
+
+    # l "Does my brother make you feel good, Mom?"
+    l ""
+
+# game/episode021.rpy:6164
+translate portuguese ep021_group_fuck_duo_820935bb:
+
+    # l "Are you going to fuck him well for me?"
+    l ""
+
+# game/episode021.rpy:6197
+translate portuguese ep021_group_fuck_duo_af7c51da_1:
+
+    # "I made Nadya lie on the floor and started fucking her hard in that position."
+    ""
+
+# game/episode021.rpy:6200
+translate portuguese ep021_group_fuck_duo_79b01cd3:
+
+    # "I penetrated her slit from behind, enjoying the abbundance of her juices."
+    ""
+
+# game/episode021.rpy:6254
+translate portuguese ep021_group_fuck_duo_3a62e84a:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Lilly and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:6294
+translate portuguese ep021_group_fuck_duo_c48835f5:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Eva and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:6342
+translate portuguese ep021_group_fuck_duo_3aa1f3ae:
+
+    # "When I pulled out, seed started to ooze out of her."
+    ""
+
+# game/episode021.rpy:6349
+translate portuguese ep021_group_fuck_duo_4699df84:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Aven and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:6402
+translate portuguese ep021_group_fuck_duo_6919e8aa:
+
+    # "I slipped out of [ep021_fucked_last_name], turned over to Nadya and began to fuck her hard."
+    ""
+
+# game/episode021.rpy:6428
+translate portuguese ep021_group_fuck_duo_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na ""
+
+# game/episode021.rpy:6557
+translate portuguese ep021_group_fuck_duo_a49aac20:
+
+    # "With some effort, I managed to blast the faces of both my mother and sister."
+    ""
+
+# game/episode021.rpy:6621
+translate portuguese ep021_group_fuck_duo_f76cd3eb:
+
+    # l "You’re the one to talk, Aven."
+    l ""
+
+# game/episode021.rpy:6638
+translate portuguese ep021_group_fuck_duo_52862415:
+
+    # e "You’re the one to talk, Aven."
+    e ""
+
+# game/episode021.rpy:6708
+translate portuguese ep021_group_fuck_duo_d618d9a4:
+
+    # "We spent some time together on the floor, until lying on the ground became too uncomfortable."
+    ""
+
+# game/episode021.rpy:6839
+translate portuguese ep021_celine_sex_511bfe83:
+
+    # "I didn’t want to cum inside her ass, so I slipped out of her and penetrated her pussy instead."
+    ""
+
+# game/episode021.rpy:6848
+translate portuguese ep021_celine_sex_5fe601d1:
+
+    # "Céline drew shuddering breaths as I made several hard thrusts into her pussy."
+    ""
+
+# game/episode021.rpy:6889
+translate portuguese ep021_celine_sex_e68debab:
+
+    # "Céline slipped off the console obediently and got on her knees."
+    ""
+
+# game/episode021.rpy:6917
+translate portuguese ep021_celine_sex_e68debab_1:
+
+    # "Céline slipped off the console obediently and got on her knees."
+    ""
+
+# game/episode021.rpy:7027
+translate portuguese ep021_vess_sex_soft_17b13ff6:
+
+    # "Licking her clit and thrusting my finger rapidly inside her pussy, I began to prepare Vess for a grand climax."
+    ""
+
+# game/episode021.rpy:7108
+translate portuguese ep021_vess_sex_soft_5b0a2495:
+
+    # c "Your throat feels so good."
+    c ""
+
+# game/episode021.rpy:7172
+translate portuguese ep021_vess_sex_vaginal_c7adb4f5:
+
+    # "Her breasts dangled in front of my face and I stole licks of her hard nipples when Vess was close enough to my mouth."
+    ""
+
+# game/episode021.rpy:7275
+translate portuguese ep021_vess_sex_anal_58fa9c2e:
+
+    # "Vess’ moans still sounded a little pained, but she took my cock in her ass very well."
+    ""
+
+# game/episode021.rpy:7283
+translate portuguese ep021_vess_sex_anal_77146e94:
+
+    # ve "It hurts, but I love it so much!"
+    ve ""
+
+# game/episode021.rpy:7376
+translate portuguese ep021_vess_sex_facial_a7b64cea:
+
+    # "Vess played around with my ejaculate in her mouth, some of it streaming out of the corner of her mouth."
+    ""
+
+# game/episode021.rpy:7379
+translate portuguese ep021_vess_sex_facial_26929c2a:
+
+    # "She finally swallowed all of it, including the spilled cum I scooped up and forced in her slack mouth with my fingers."
+    ""
+
+# game/episode021.rpy:7392
+translate portuguese ep021_vess_sex_hard_8b0f47ab:
+
+    # "As she was wearing practically nothing, her half-naked body aroused me from the moment she opened the door to my quarters."
+    ""
+
+# game/episode021.rpy:7460
+translate portuguese ep021_vess_sex_hard_5b0a2495:
+
+    # c "Your throat feels so good."
+    c ""
+
+# game/episode021.rpy:7472
+translate portuguese ep021_vess_sex_hard_97fe0fca:
+
+    # "Her body was with the saliva I elicited from her throat."
+    ""
+
+# game/episode021.rpy:7506
+translate portuguese ep021_vess_sex_hard_c7adb4f5:
+
+    # "Her breasts dangled in front of my face and I stole licks of her hard nipples when Vess was close enough to my mouth."
+    ""
+
+# game/episode021.rpy:7529
+translate portuguese ep021_vess_sex_hard_92efca43:
+
+    # "Hearing her talk was bound to shorten the ride towards my inevitable climax."
+    ""
+
+# game/episode021.rpy:7591
+translate portuguese ep021_vess_sex_hard_58fa9c2e:
+
+    # "Vess’ moans still sounded a little pained, but she took my cock in her ass very well."
+    ""
+
+# game/episode021.rpy:7788
+translate portuguese ep021_aven_sex_0da0f6a1:
+
+    # "I fucked her with regular strokes, distinct wet sounds emanating from her cunt."
+    ""
+
+# game/episode021.rpy:7891
+translate portuguese ep021_aven_sex_76e60d4f:
+
+    # av "Your dick is making me cum so hard!"
+    av ""
+
+# game/episode021.rpy:7898
+translate portuguese ep021_aven_sex_e7a6851f:
+
+    # "Despite the violent shuddering I managed to stay inside my sister while she orgasmed."
+    ""
+
+# game/episode021.rpy:7900
+translate portuguese ep021_aven_sex_9bad9a7c:
+
+    # "Despite the violent shuddering I managed to stay inside my girlfriend while she orgasmed."
+    ""
+
+translate portuguese strings:
+
+    # game/episode021.rpy:379
+    old "Skeda's Skivs Rendevous Point"
+    new ""
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendevous Point"
+    new ""
+
+    # game/episode021.rpy:688
+    old "Stop by your quarters"
+    new ""
+
+    # game/episode021.rpy:688
+    old "Go to your quarters"
+    new ""
+
+    # game/episode021.rpy:688
+    old "Rest for a while"
+    new ""
+
+    # game/episode021.rpy:688
+    old "Make your rounds"
+    new ""
+

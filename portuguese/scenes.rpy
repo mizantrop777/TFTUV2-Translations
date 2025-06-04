@@ -290,3 +290,35 @@ translate portuguese strings:
     old "Shagging After Showering"
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+translate portuguese strings:
+
+    # game/scenes.rpy:3
+    old "Lickety-spit"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Ziv's Zenith"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Operative Oral"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Duo Dalliance"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Two Turned-on Tools"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Boinking On The Bridge"
+    new ""
+
+    # game/scenes.rpy:3
+    old "Bridge Bitches"
+    new ""
+

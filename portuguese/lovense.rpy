@@ -82,3 +82,15 @@ translate portuguese strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+translate portuguese strings:
+
+    # game/lovense.rpy:304
+    old "[[x] Close"
+    new ""
+
+    # game/lovense.rpy:374
+    old "Test Device"
+    new ""
+

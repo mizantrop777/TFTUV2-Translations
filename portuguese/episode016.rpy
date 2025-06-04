@@ -6736,3 +6736,11 @@ translate portuguese ep016_altum_approach_c86b8656:
     # "The Bastard fit into one of the smaller bays, which were already teeming with activity."
     "A Bastarda coube numa das baías menores, que já estavam cheias de atividade."
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+# game/episode016.rpy:818
+translate portuguese ep016_scolguin_fleet_11b72724:
+
+    # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
+    c ""
+

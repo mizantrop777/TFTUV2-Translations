@@ -1062,3 +1062,47 @@ translate portuguese ep021_jade_sex_hard_728505fc:
     # "Exhausted, I fell into a deep sleep until the comms crackled and Céline announced we were closing in on Petrarch."
     ""
 
+# TODO: Translation updated at 2025-06-04 13:44
+
+# game/episode021_conversations.rpy:62
+translate portuguese ep021_jade_sex_soft_8d08fb63:
+
+    # "She moaned in appreciation as she took my member in her mouth."
+    ""
+
+# game/episode021_conversations.rpy:78
+translate portuguese ep021_jade_sex_soft_bf6d816d:
+
+    # "My cock brushed against her thighs as she tousled my hair."
+    ""
+
+# game/episode021_conversations.rpy:110
+translate portuguese ep021_jade_sex_soft_12366ffd:
+
+    # "My cock was drenched in Jade’s ejaculate and her cries became less articulate by the minute."
+    ""
+
+# game/episode021_conversations.rpy:221
+translate portuguese ep021_jade_sex_soft_662aa7e2:
+
+    # "Exhausted, we fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
+    ""
+
+# game/episode021_conversations.rpy:234
+translate portuguese ep021_jade_sex_hard_921c3647:
+
+    # c "Come over here, get on your knees and suck my cock."
+    c ""
+
+# game/episode021_conversations.rpy:304
+translate portuguese ep021_jade_sex_hard_12366ffd:
+
+    # "My cock was drenched in Jade’s ejaculate and her cries became less articulate by the minute."
+    ""
+
+# game/episode021_conversations.rpy:394
+translate portuguese ep021_jade_sex_hard_63a0f76f:
+
+    # "Exhausted, I fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
+    ""
+
