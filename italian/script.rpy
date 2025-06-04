@@ -214,3 +214,15 @@ translate italian strings:
     old "Unread"
     new "Non letti"
 
+# TODO: Translation updated at 2025-06-04 14:19
+
+translate italian strings:
+
+    # game/script.rpy:627
+    old "THANK YOU"
+    new ""
+
+    # game/script.rpy:628
+    old "A big thank you to my top tier backers, you rock!"
+    new ""
+

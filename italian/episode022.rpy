@@ -12390,3 +12390,89 @@ translate italian strings:
     old "Make Vess lick your ass"
     new "Fatti leccare il culo da Vess"
 
+# TODO: Translation updated at 2025-06-04 14:19
+
+# game/episode022.rpy:762
+translate italian ep022_lilly_talk_57e2e85a:
+
+    # t "Wow, two of your friends, you dark horse."
+    t ""
+
+# game/episode022.rpy:854
+translate italian ep022_lilly_talk_dc0592ba:
+
+    # "We lay together on the bed and I took my girlfriend into my arms."
+    ""
+
+# game/episode022.rpy:1274
+translate italian ep022_temple_hostiles_597e7691:
+
+    # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
+    av ""
+
+# game/episode022.rpy:1275
+translate italian ep022_temple_hostiles_dfc83f73:
+
+    # th "They must have found a way around them."
+    th ""
+
+# game/episode022.rpy:1276
+translate italian ep022_temple_hostiles_21192a9e:
+
+    # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
+    th ""
+
+# game/episode022.rpy:1277
+translate italian ep022_temple_hostiles_f367c383:
+
+    # c "No use in debating that now, we need to go back now."
+    c ""
+
+# game/episode022.rpy:1308
+translate italian ep022_temple_hostiles_597e7691_1:
+
+    # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
+    av ""
+
+# game/episode022.rpy:1309
+translate italian ep022_temple_hostiles_dfc83f73_1:
+
+    # th "They must have found a way around them."
+    th ""
+
+# game/episode022.rpy:1310
+translate italian ep022_temple_hostiles_21192a9e_1:
+
+    # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
+    th ""
+
+# game/episode022.rpy:1311
+translate italian ep022_temple_hostiles_f43a5afe:
+
+    # c "No use in debating that now, we need to finish up here as quickly as possible."
+    c ""
+
+# game/episode022.rpy:1319
+translate italian ep022_temple_hostiles_ad299c59:
+
+    # c "I’ll radio Jade to inform her about the situation."
+    c ""
+
+# game/episode022.rpy:1321
+translate italian ep022_temple_hostiles_23461a41:
+
+    # av "She’s guarding the door alone, isn’t she?"
+    av ""
+
+# game/episode022.rpy:1322
+translate italian ep022_temple_hostiles_8c917180:
+
+    # c "She is, but we need everyone to get these explosives in place."
+    c ""
+
+# game/episode022.rpy:1323
+translate italian ep022_temple_hostiles_ac40bb0c:
+
+    # c "We just have to pray that we finish before Agust arrives."
+    c ""
+
