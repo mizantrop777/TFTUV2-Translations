@@ -6260,25 +6260,26 @@ translate russian strings:
 
     # game/episode013_conversations.rpy:298
     old "Tell her about the others"
-    new ""
+    new "Расскажи ей о других"
 
     # game/episode013_conversations.rpy:1160
     old "Tell her you love her"
-    new ""
+    new "Скажи ей, что любишь её"
 
     # game/episode013_conversations.rpy:1160
     old "Remain silent"
-    new ""
+    new "Молчи"
 
     # game/episode013_conversations.rpy:1285
     old "Species"
-    new ""
+    new "Вид"
 
     # game/episode013_conversations.rpy:1687
     old "Creampie"
-    new ""
+    new "Кончить внутрь"
 
     # game/episode013_conversations.rpy:1687
     old "Body"
-    new ""
+    new "Тело"
+
 

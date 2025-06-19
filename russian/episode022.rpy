@@ -12376,101 +12376,101 @@ translate russian strings:
 translate russian ep022_lilly_talk_57e2e85a:
 
     # t "Wow, two of your friends, you dark horse."
-    t ""
+    t "Ух ты, две подруги, да ты тёмная лошадка."
 
 # game/episode022.rpy:854
 translate russian ep022_lilly_talk_dc0592ba:
 
     # "We lay together on the bed and I took my girlfriend into my arms."
-    ""
+    "Вместе мы легли на кровать, и я заключил мою девушку в объятия."
 
 # game/episode022.rpy:1274
 translate russian ep022_temple_hostiles_597e7691:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Почему маяки раннего предупреждения, которые мы оставили на орбите, не засекли их?"
 
 # game/episode022.rpy:1275
 translate russian ep022_temple_hostiles_dfc83f73:
 
     # th "They must have found a way around them."
-    th ""
+    th "Должно быть, они нашли способ обойти их."
 
 # game/episode022.rpy:1276
 translate russian ep022_temple_hostiles_21192a9e:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "Их технологии намного продвинутее наших — нам остаётся довольствоваться лишь крохами."
 
 # game/episode022.rpy:1277
 translate russian ep022_temple_hostiles_f367c383:
 
     # c "No use in debating that now, we need to go back now."
-    c ""
+    c "Спорить об этом сейчас бесполезно, нам нужно возвращаться."
 
 # game/episode022.rpy:1308
 translate russian ep022_temple_hostiles_597e7691_1:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Почему маяки раннего предупреждения, которые мы оставили на орбите, не засекли их?"
 
 # game/episode022.rpy:1309
 translate russian ep022_temple_hostiles_dfc83f73_1:
 
     # th "They must have found a way around them."
-    th ""
+    th "Должно быть, они нашли способ обойти их."
 
 # game/episode022.rpy:1310
 translate russian ep022_temple_hostiles_21192a9e_1:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "Их технологии намного продвинутее наших — нам остаётся довольствоваться лишь крохами."
 
 # game/episode022.rpy:1311
 translate russian ep022_temple_hostiles_f43a5afe:
 
     # c "No use in debating that now, we need to finish up here as quickly as possible."
-    c ""
+    c "Спорить об этом бессмысленно — нужно как можно скорее всё закончить здесь."
 
 # game/episode022.rpy:1319
 translate russian ep022_temple_hostiles_ad299c59:
 
     # c "I’ll radio Jade to inform her about the situation."
-    c ""
+    c "Я свяжусь с Джейд и сообщу ей о ситуации."
 
 # game/episode022.rpy:1321
 translate russian ep022_temple_hostiles_23461a41:
 
     # av "She’s guarding the door alone, isn’t she?"
-    av ""
+    av "Она же одна охраняет дверь, так ведь?"
 
 # game/episode022.rpy:1322
 translate russian ep022_temple_hostiles_8c917180:
 
     # c "She is, but we need everyone to get these explosives in place."
-    c ""
+    c "Да, но нам нужны все, чтобы установить взрывчатку."
 
 # game/episode022.rpy:1323
 translate russian ep022_temple_hostiles_ac40bb0c:
 
     # c "We just have to pray that we finish before Agust arrives."
-    c ""
+    c "Остаётся только надеяться, что мы всё успеем до прибытия Агуста."
 
 translate russian strings:
 
     # game/episode022.rpy:63
     old "Luna"
-    new ""
+    new "Луна"
 
     # game/episode022.rpy:478
     old "Visit Nadya"
-    new ""
+    new "Навестить Надию"
 
     # game/episode022.rpy:2821
     old "Fuck her ass"
-    new ""
+    new "Анальный Секс"
 
     # game/episode022.rpy:2821
     old "Fuck her pussy"
-    new ""
+    new "Вагинальный секс"
 

@@ -4140,29 +4140,29 @@ translate russian strings:
 
     # game/episode015_conversations.rpy:147
     old "Mysterious aliens who generally demand a sacrifice before dealing with other species."
-    new ""
+    new "Таинственные пришельцы, которые обычно требуют жертву перед тем, как взаимодействовать с другими видами."
 
     # game/episode015_conversations.rpy:304
     old "Stay silent"
-    new ""
+    new "Молчи"
 
     # game/episode015_conversations.rpy:502
     old "Put her in her place"
-    new ""
+    new "Поставь её на место"
 
     # game/episode015_conversations.rpy:802
     old "Agree"
-    new ""
+    new "Согласиться"
 
     # game/episode015_conversations.rpy:1017
     old "Just fuck her"
-    new ""
+    new "Просто трахни её"
 
     # game/episode015_conversations.rpy:1210
     old "Facial"
-    new ""
+    new "Кончить на лицо"
 
     # game/episode015_conversations.rpy:1374
     old "Swallow"
-    new ""
+    new "Глотать"
 

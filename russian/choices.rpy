@@ -1700,105 +1700,106 @@ translate russian strings:
 
     # game/choices.rpy:10
     old "TGN Ypotryll"
-    new ""
+    new "ЗГФ Ипотрилл"
 
     # game/choices.rpy:10
     old "TGN Enfield"
-    new ""
+    new "ЗГФ Энфилд"
 
     # game/choices.rpy:10
     old "Vulpes Velox"
-    new ""
+    new "Вульпес Велокс"
 
     # game/choices.rpy:10
     old "Nyiruan 12-Beta"
-    new ""
+    new "Ньируан 12-Бета"
 
     # game/choices.rpy:10
     old "Ryūjin Prime"
-    new ""
+    new "Рюдзин Прайм"
 
     # game/choices.rpy:10
     old "Iron Bastard"
-    new ""
+    new "Железный Ублюдок"
 
     # game/choices.rpy:10
     old "Verdant Station"
-    new ""
+    new "Станция Вердант"
 
     # game/choices.rpy:10
     old "Luzane"
-    new ""
+    new "Лузан"
 
     # game/choices.rpy:10
     old "Hannah"
-    new ""
+    new "Ханна"
 
     # game/choices.rpy:10
     old "Barranthis"
-    new ""
+    new "Баррантис"
 
     # game/choices.rpy:10
     old "Höfel MDCL"
-    new ""
+    new "Хёфельская ЛКМО"
 
     # game/choices.rpy:10
     old "Almagest"
-    new ""
+    new "Альмагест"
 
     # game/choices.rpy:10
     old "Erigone"
-    new ""
+    new "Эригон"
 
     # game/choices.rpy:10
     old "Rahia"
-    new ""
+    new "Рахия"
 
     # game/choices.rpy:10
     old "Athryn"
-    new ""
+    new "Атрин"
 
     # game/choices.rpy:10
     old "Frisa"
-    new ""
+    new "Фриса"
 
     # game/choices.rpy:10
     old "Caese"
-    new ""
+    new "Цези"
 
     # game/choices.rpy:10
     old "Erylin"
-    new ""
+    new "Эрилин"
 
     # game/choices.rpy:10
     old "Broke up with Céline."
-    new ""
+    new "Расстался с Селин."
 
     # game/choices.rpy:10
     old "Keodele"
-    new ""
+    new "Кеодель"
 
     # game/choices.rpy:10
     old "Kepler XIV"
-    new ""
+    new "Кеплер XIV"
 
     # game/choices.rpy:10
     old "TGN Jaculus"
-    new ""
+    new "ЗГФ Джакулус"
 
     # game/choices.rpy:10
     old "Kvi"
-    new ""
+    new "Кви"
 
     # game/choices.rpy:10
     old "Broke up with Aven."
-    new ""
+    new "Расстался с Авен."
 
     # game/choices.rpy:10
     old "Broke up with Ziv."
-    new ""
+    new "Расстался с Зив."
 
     # game/choices.rpy:10
     old "Scolguin"
-    new ""
+    new "Сколгин"
+
 
