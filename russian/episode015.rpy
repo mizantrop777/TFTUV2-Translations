@@ -7570,25 +7570,26 @@ translate russian strings:
 
     # game/episode015.rpy:205
     old "Ignore her"
-    new ""
+    new "Игнорировать её"
 
     # game/episode015.rpy:427
     old "Accept"
-    new ""
+    new "Принять"
 
     # game/episode015.rpy:427
     old "Decline"
-    new ""
+    new "Отказаться"
 
     # game/episode015.rpy:945
     old "Truth"
-    new ""
+    new "Правда"
 
     # game/episode015.rpy:945
     old "Lie"
-    new ""
+    new "Ложь"
 
     # game/episode015.rpy:1232
     old "Refuse"
-    new ""
+    new "Отказать"
+
 
